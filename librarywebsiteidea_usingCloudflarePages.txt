@@ -1,0 +1,23 @@
+The Strategy: "Hub and Spoke" Model
+The "Hub" of Learning about Bhairava and Ma Adya Mahakali
+Name: Jaikhyapaparampara.com
+Content: This is where you host the Cloudflare Pages site Jaikhyapaparampara.com
+Structure:
+Home: "Welcome to the Digital library of KaliPutra-Ashish."
+Library: A grid showing the Kali 1000 name book, Bhairava 1000 name book, and future books(in the works).
+About: Your story and Instagram link - @ashishkaliputra
+"I (KaliPutra-Ashish) am just the sevak or scribe compiling knowledge about Bhairav baba and Ma Aadya Mahakali; this library belongs to the Khepa/Khypa Lineage (Parampara)."
+ a digital temple for Khyapa Parampara/lineage.
+Dedicated to Guru Shri Bamakhepa, Guru Shri Shyamakhepa ,Shri Praveen RadhaKrishnan and the entire Khyapa Parampara. 
+
+Your Homepage Strategy:
+Domain: jaikhepaparampara.com
+Website Title (in the browser tab): The Khepa Parampara Digital Library | Free Spiritual Ebooks
+Headline on the page:
+Welcome to the Jai Khyapa Parampara Library
+A Repository of Divine Knowledge & Sacred Texts
+Compiled by KaliPutra-Ashish
+This bridges the gap. The URL honors the lineage, but the text explains clearly that this is a library.
+It aligns with your conscience, it honors your Gurus, and it is future-proof. Your niche websites will act as the "open doors," and this domain will be the "Sanctum Sanctorum" where the knowledge is stored.
+
+Webhost - Cloudflare
