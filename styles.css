@@ -1,15 +1,63 @@
 /* Root Variables */
 :root {
-    --primary-color: #D90429; /* Brighter Crimson */
-    --secondary-color: #FFD700; /* Gold */
-    --accent-color: #FFD700;
-    --dark-bg: #000000;
-    --light-bg: #0f0505; /* Very dark background */
-    --text-dark: #F5E6C4; /* Cream text */
-    --text-light: #FFFFFF;
-    --border-color: #8B0000;
-    --card-bg: #1a0a0a;
-    --shadow: rgba(0, 0, 0, 0.8);
+    /* Dark Mode (Temple/Night) - Refined Sacred Palette */
+    --primary-color: #8B2635; /* Deep Temple Maroon - softened for elegance */
+    --primary-dark: #4A0E17; /* Darkest Wine - rich depth */
+    --primary-light: #A23D4A; /* Muted Rose - not too bright */
+    --secondary-color: #C9A962; /* Antique Gold - warmer, more temple-like */
+    --accent-color: #E8C468; /* Soft Temple Gold - less harsh than pure gold */
+    --accent-bright: #F4E4C1; /* Candlelight Glow - warm luminescence */
+    
+    /* Background - Rich Temple Layers */
+    --dark-bg: #0D0506; /* Deep Sacred Void - softer black */
+    --light-bg: #1F0B11; /* Temple Shadow - balanced darkness */
+    --card-bg: #180A0F; /* Burgundy Sanctuary */
+    --card-bg-gradient: linear-gradient(135deg, #180A0F 0%, #241015 50%, #1F0B11 100%);
+    
+    /* Text Colors */
+    --text-dark: #F0DCC8; /* Warm Parchment Cream */
+    --text-light: #FFF8F0; /* Soft White - easier on eyes */
+    --text-gold: #E8C468;
+    
+    /* Borders & Effects */
+    --border-color: rgba(139, 38, 53, 0.5);
+    --border-gold: rgba(232, 196, 104, 0.4);
+    --shadow: rgba(0, 0, 0, 0.85);
+    --shadow-colored: rgba(74, 14, 23, 0.7);
+    --overlay-color: rgba(24, 10, 15, 0.96);
+    
+    /* Gradient Masterpieces - More Sophisticated */
+    --gold-gradient: linear-gradient(135deg, #B8935A 0%, #C9A962 25%, #E8C468 50%, #F4E4C1 60%, #E8C468 75%, #C9A962 90%, #B8935A 100%);
+    --maroon-gradient: linear-gradient(135deg, #4A0E17 0%, #6B1825 25%, #8B2635 50%, #A23D4A 75%, #8B2635 100%);
+    --temple-gradient: radial-gradient(ellipse at top, #2D0F18 0%, #1F0B11 45%, #0D0506 100%);
+}
+
+
+/* Font Face Declarations
+   - Fonts are loaded via the Google Fonts stylesheet (prefer display=swap or preload rel=preload in index.html).
+   - If you self-host fonts, add font-display: swap to @font-face to avoid FOIT and layout shifts.
+   - Example for self-hosting (paste into your stylesheet or build pipeline as needed):
+   
+   @font-face {
+     font-family: 'Philosopher';
+     font-style: normal;
+     font-weight: 400 700;
+     font-display: swap;
+     src: url('/fonts/philosopher-regular.woff2') format('woff2');
+   }
+   
+   Use rel="preload" in HTML as:
+   <link rel="preload" href="https://fonts.gstatic.com/..." as="font" type="font/woff2" crossorigin>
+   
+   Keeping a single Font Awesome override below to enforce font-display for CDN-served FA files. */
+
+/* Override Font Awesome @font-face to ensure font-display is set (reduces FCP blocking) */
+@font-face {
+    font-family: 'Font Awesome 6 Free';
+    font-style: normal;
+    font-weight: 900;
+    font-display: optional;
+    src: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.woff2') format('woff2');
 }
 
 /* Global Styles */
@@ -33,13 +81,16 @@
 }
 
 body {
-    font-family: 'Crimson Text', serif;
-    line-height: 1.6;
+    /* Add robust fallback stack and slightly tighter line-height to reduce layout shifts when webfonts load */
+    font-family: 'Crimson Text', Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
     color: var(--text-dark);
     background-color: var(--light-bg);
-    background-image: radial-gradient(#8B0000 0.5px, transparent 0.5px), radial-gradient(#8B0000 0.5px, var(--light-bg) 0.5px);
-    background-size: 20px 20px;
-    background-position: 0 0, 10px 10px;
+    /* Subtle temple floor texture */
+    background-image: 
+        linear-gradient(rgba(0, 0, 0, 0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0, 0, 0, 0.03) 1px, transparent 1px);
+    background-size: 40px 40px;
     overflow-x: hidden;
 }
 
@@ -51,12 +102,14 @@ body {
 
 /* Header & Navigation */
 .header {
-    background: linear-gradient(135deg, var(--dark-bg) 0%, var(--primary-color) 100%);
+    background: linear-gradient(135deg, rgba(13, 5, 6, 0.96) 0%, rgba(31, 11, 17, 0.96) 100%);
+    backdrop-filter: blur(20px) saturate(120%);
     padding: 1rem 0;
     position: sticky;
     top: 0;
     z-index: 1000;
-    box-shadow: 0 2px 10px var(--shadow);
+    box-shadow: 0 4px 25px var(--shadow-colored), 0 0 20px rgba(232, 196, 104, 0.08);
+    border-bottom: 1px solid var(--border-gold);
 }
 
 .nav {
@@ -66,7 +119,8 @@ body {
 }
 
 .logo h1 {
-    font-family: 'Philosopher', sans-serif;
+    /* Add fallback stack for headline font to avoid layout jumps while Philosopher loads */
+    font-family: 'Philosopher', 'Trebuchet MS', Arial, sans-serif;
     color: var(--accent-color);
     font-size: 1.8rem;
     font-weight: 700;
@@ -93,14 +147,102 @@ body {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #000000 0%, #4A0404 100%);
-    color: var(--text-light);
-    padding: 8rem 0 10rem 0; /* Increased padding for divider */
-    text-align: center;
     position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6rem 0 8rem 0;
+    text-align: center;
     overflow: hidden;
+    color: var(--text-light);
 }
 
+.hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+}
+
+/* Hero Text Styles */
+.hero-title {
+    /* Tighter line-height and fallback font stack to reduce CLS from font swaps */
+    font-family: 'Philosopher', 'Trebuchet MS', Arial, sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--accent-color);
+    margin-bottom: 1.5rem;
+    line-height: 1.15;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+}
+
+.hero-subtitle {
+    font-size: 1.5rem;
+    color: var(--text-light);
+    margin-bottom: 1rem;
+    line-height: 1.6;
+    font-weight: 400;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
+}
+
+.hero-author {
+    font-size: 1.2rem;
+    color: var(--accent-bright);
+    margin-bottom: 2rem;
+    font-style: italic;
+    font-weight: 600;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
+}
+
+.hero-blessing {
+    margin: 2rem 0;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: var(--text-dark);
+}
+
+.om-symbol {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.hero-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 130%; /* Taller than container for parallax movement */
+    z-index: 1;
+    background: var(--temple-gradient);
+    will-change: transform;
+    transition: transform 0.1s linear; /* Smooth parallax movement */
+    transform: translateZ(0); /* Enable GPU acceleration */
+}
+
+/* Parallax layer for enhanced depth */
+.hero-bg::before {
+    content: '';
+    position: absolute;
+    top: -10%;
+    left: -10%;
+    right: -10%;
+    bottom: -10%;
+    background-image: 
+        radial-gradient(circle at 20% 30%, rgba(232, 196, 104, 0.08) 0%, transparent 20%),
+        radial-gradient(circle at 80% 70%, rgba(139, 38, 53, 0.12) 0%, transparent 25%),
+        radial-gradient(circle at 50% 50%, rgba(232, 196, 104, 0.05) 0%, transparent 30%);
+    opacity: 0.6;
+    /* Use containment and will-change to isolate painting and avoid layout impact during load/paint */
+    contain: paint;
+    will-change: transform, opacity;
+    transform: translateZ(0);
+    pointer-events: none;
+    backface-visibility: hidden;
+}
+
+/* Parallax Overlays - Stars/Sparkles - Enhanced for Depth */
 .hero::before {
     content: '';
     position: absolute;
@@ -108,83 +250,95 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffd700' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    z-index: 3;
+    background-image: 
+        radial-gradient(circle at 25% 40%, rgba(232, 196, 104, 0.4) 2px, transparent 2px),
+        radial-gradient(circle at 75% 60%, rgba(232, 196, 104, 0.3) 1.5px, transparent 1.5px),
+        radial-gradient(circle at 50% 80%, rgba(232, 196, 104, 0.25) 1px, transparent 1px);
+    background-size: 80px 80px, 60px 60px, 100px 100px;
+    background-position: 0 0, 40px 40px, 20px 20px;
+    opacity: 0.15;
     pointer-events: none;
+    animation: twinkle 5s infinite ease-in-out;
 }
 
-.hero-content {
-    position: relative;
-    z-index: 1;
+@keyframes twinkle {
+    0%, 100% { opacity: 0.12; }
+    50% { opacity: 0.2; }
 }
 
-.hero-title {
-    font-family: 'Philosopher', sans-serif;
-    font-size: 3rem;
+/* Drop Cap / Sacred Typography - Removed (was too large and distracting) */
+
+/* Gold Leaf Texture for Buttons and Borders - Refined Elegance */
+.btn-primary {
+    /* Luxurious Temple Gold with subtle metallic shimmer */
+    background: var(--gold-gradient);
+    color: #2D0F18; /* Deep rich text for better contrast */
+    background-size: 200% 200%;
+    animation: shimmer 6s infinite ease-in-out;
+    border: 1.5px solid var(--border-gold);
     font-weight: 700;
-    margin-bottom: 1rem;
-    color: var(--accent-color);
-    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
+    box-shadow: 
+        0 5px 18px rgba(184, 147, 90, 0.35),
+        0 0 15px rgba(232, 196, 104, 0.15),
+        inset 0 1px 10px rgba(255, 248, 230, 0.4), /* Soft inner shine */
+        inset 0 -1px 8px rgba(61, 40, 23, 0.15); /* Subtle depth */
 }
 
-.hero-subtitle {
-    font-size: 1.5rem;
-    margin-bottom: 0.5rem;
-    font-style: italic;
+.btn-primary:hover {
+    background-position: 100% 0;
+    transform: translateY(-3px) scale(1.015);
+    box-shadow: 
+        0 10px 30px rgba(184, 147, 90, 0.5),
+        0 0 25px rgba(232, 196, 104, 0.3), /* Warm gold glow */
+        inset 0 2px 15px rgba(255, 248, 230, 0.5);
 }
 
-.hero-author {
-    font-size: 1.3rem;
-    margin-bottom: 2rem;
-    color: var(--accent-color);
+@keyframes shimmer {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
 }
 
-.hero-blessing {
-    margin-top: 2rem;
-    font-size: 1.2rem;
-    font-weight: 600;
-    letter-spacing: 1px;
-}
-
-.om-symbol {
-    font-size: 3rem;
-    margin-bottom: 1rem;
-    display: inline-block;
-    animation: float 3s ease-in-out infinite;
-    text-shadow: 0 0 20px rgba(255, 215, 0, 0.5);
-}
-
-@keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
-}
-
-.hero-blessing p {
-    margin: 0.5rem 0;
-}
-
-/* Divine Presence Images */
+/* Enhanced Divine Images with Gold Leaf Border */
 .divine-presence {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-top: 3rem;
-    gap: 1rem;
+    gap: 1.5rem;
+}
+
+@media (min-width: 769px) {
+    /* Removed horizontal layout for divine-presence to keep vertical stack */
+    
+    .divine-caption {
+        width: 100%;
+    }
 }
 
 .divine-image {
-    width: 180px;
-    height: 180px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     overflow: hidden;
-    border: 4px solid var(--accent-color);
-    box-shadow: 0 0 20px rgba(255, 215, 0, 0.6);
     position: relative;
-    transition: transform 0.3s ease;
+    transition: transform 0.6s ease, box-shadow 0.6s ease;
+    border: 5px solid transparent; 
+    background: var(--gold-gradient) border-box;
+    box-shadow: 
+        0 0 35px rgba(232, 196, 104, 0.4),
+        0 0 70px rgba(184, 147, 90, 0.25),
+        inset 0 0 30px rgba(13, 5, 6, 0.4);
+    margin: 0 auto;
 }
 
 .divine-image:hover {
-    transform: scale(1.05);
+    transform: scale(1.08);
+    box-shadow: 
+        0 0 50px rgba(232, 196, 104, 0.6),
+        0 0 100px rgba(184, 147, 90, 0.4),
+        inset 0 0 30px rgba(13, 5, 6, 0.3);
 }
 
 .divine-image img {
@@ -215,6 +369,39 @@ body {
     font-size: 0.9rem;
     text-transform: uppercase;
     opacity: 0.9;
+}
+
+/* Scroll Indicator */
+.scroll-indicator {
+    position: absolute;
+    bottom: 4rem;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    opacity: 0.7;
+    animation: float 3s infinite ease-in-out;
+    z-index: 5;
+    cursor: pointer;
+}
+
+.scroll-indicator span {
+    font-size: 0.9rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--accent-color);
+}
+
+.scroll-indicator i {
+    color: var(--accent-color);
+    font-size: 1.5rem;
+}
+
+@keyframes float {
+    0%, 100% { transform: translate(-50%, 0); opacity: 0.7; }
+    50% { transform: translate(-50%, 10px); opacity: 1; }
 }
 
 /* Shape Dividers */
@@ -249,10 +436,11 @@ body {
     font-family: 'Philosopher', sans-serif;
     font-size: 2.5rem;
     text-align: center;
-    color: var(--primary-color);
+    color: var(--accent-color);
     margin-bottom: 1rem;
     position: relative;
     padding-bottom: 1rem;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
 .section-title::after {
@@ -264,79 +452,171 @@ body {
     width: 100px;
     height: 3px;
     background: var(--accent-color);
+    box-shadow: 0 0 10px rgba(232, 196, 104, 0.3);
 }
 
 .section-subtitle {
     text-align: center;
     font-size: 1.2rem;
-    color: var(--secondary-color);
+    color: var(--text-dark);
     margin-bottom: 3rem;
     font-weight: 600;
 }
 
-/* Library Section */
-.library {
-    padding: 5rem 0;
-    background: var(--light-bg);
+/* Navigation Controls (Search & Toggle) */
+.nav-controls {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
 }
 
+#audio-toggle {
+    background: none;
+    border: none;
+    color: var(--accent-color);
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+#audio-toggle:hover {
+    transform: rotate(30deg) scale(1.1);
+}
+
+#audio-toggle.playing {
+    animation: pulse 2s infinite;
+    color: var(--primary-color);
+}
+
+@keyframes pulse {
+    0% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.2); opacity: 0.8; }
+    100% { transform: scale(1); opacity: 1; }
+}
+
+/* Library Controls */
+/* Removed search styles as search is currently disabled */
+
+/* 3D Book Cards */
 .books-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 3rem;
+    gap: 4rem;
     margin-top: 3rem;
+    perspective: 2000px; /* Essential for 3D effect */
+    padding: 20px;
 }
 
 .book-card {
-    background: var(--card-bg);
-    border-radius: 15px;
-    overflow: hidden;
-    box-shadow: 0 10px 30px var(--shadow);
-    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    border: 2px solid var(--border-color);
+    background: var(--card-bg-gradient);
+    border-radius: 2px 12px 12px 2px;
     position: relative;
+    transform-style: preserve-3d;
+    transition: transform 0.5s ease, box-shadow 0.5s ease, border 0.3s ease;
+    box-shadow: 
+        8px 8px 25px var(--shadow),
+        0 0 12px var(--shadow-colored),
+        inset 18px 0 45px rgba(0,0,0,0.35); /* Refined spine shadow */
+    border: 1.5px solid var(--border-color);
+    border-left: 14px solid transparent;
+    border-image: var(--maroon-gradient) 1;
+    border-image-slice: 1;
+    border-left-width: 14px;
+    /* Initial slight tilt */
+    transform: rotateY(-5deg);
 }
 
 .book-card:hover {
-    transform: translateY(-15px);
-    box-shadow: 0 20px 40px rgba(139, 0, 0, 0.2), 0 0 20px rgba(212, 175, 55, 0.3);
-    border-color: var(--accent-color);
+    transform: translateY(-12px) rotateY(0deg) scale(1.025);
+    box-shadow: 
+        20px 20px 45px var(--shadow),
+        0 0 35px rgba(184, 147, 90, 0.3),
+        inset 10px 0 30px rgba(0,0,0,0.2);
+    border-left: 14px solid transparent;
+    border-image: var(--gold-gradient) 1;
+    z-index: 10;
 }
 
-/* Removed .book-image styles */
+/* Pages Thickness Effect */
+.book-card::after {
+    content: '';
+    position: absolute;
+    top: 5px;
+    bottom: 5px;
+    right: -10px; /* Push out to right */
+    width: 10px;
+    background: linear-gradient(to right, #ddd, #fff 50%, #ddd);
+    transform: skewY(45deg); /* Simple perspective trick */
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    z-index: -1;
+    transition: all 0.4s ease;
+}
 
+.book-card:hover::after {
+    transform: translateX(-5px) skewY(0);
+    opacity: 0; /* Hide thickness when facing front */
+}
+
+.book-card::before {
+    content: '';
+    position: absolute;
+    top: 2%;
+    left: 2%;
+    right: 2%;
+    bottom: 2%;
+    border: 2px solid var(--accent-color);
+    opacity: 0.4;
+    border-radius: 2px 10px 10px 2px;
+    pointer-events: none;
+    box-shadow: inset 0 0 20px rgba(255, 215, 0, 0.1);
+}
+
+/* Book Content Updates */
 .book-content {
-    padding: 2rem;
+    padding: 2.5rem 2rem;
     text-align: center;
+    position: relative;
+    z-index: 2;
 }
 
 .book-title {
     font-family: 'Philosopher', sans-serif;
     font-size: 1.8rem;
-    color: var(--primary-color);
-    margin-bottom: 0.5rem;
-}
-
-.book-subtitle {
-    font-size: 1.1rem;
-    color: var(--secondary-color);
-    font-style: italic;
+    color: var(--accent-color);
     margin-bottom: 1rem;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.4);
 }
 
 .book-description {
-    font-size: 1.05rem;
-    line-height: 1.7;
+    font-size: 1.1rem;
+    line-height: 1.8;
     margin-bottom: 1.5rem;
     color: var(--text-dark);
 }
 
+/* Scroll Reveal Animation Class */
+.reveal {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: all 0.8s ease-out;
+}
+
+.reveal.active {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Removed duplicate book styles */
+
 .book-meta {
     margin-bottom: 1.5rem;
     padding: 1rem;
-    background: rgba(139, 0, 0, 0.1);
+    background: linear-gradient(90deg, rgba(139, 38, 53, 0.12) 0%, rgba(184, 147, 90, 0.04) 100%);
     border-radius: 8px;
-    border-left: 4px solid var(--accent-color);
+    border-left: 4px solid transparent;
+    border-image: var(--gold-gradient) 1;
+    box-shadow: inset 0 0 12px rgba(232, 196, 104, 0.08);
 }
 
 .book-meta p {
@@ -345,13 +625,17 @@ body {
 
 .free-badge {
     display: inline-block;
-    background: var(--primary-color);
-    color: white;
-    padding: 0.3rem 1rem;
-    border-radius: 20px;
+    background: var(--maroon-gradient);
+    color: var(--accent-bright);
+    padding: 0.4rem 1.2rem;
+    border-radius: 25px;
     font-weight: 700;
     font-size: 0.9rem;
     margin-top: 0.5rem;
+    box-shadow: 
+        0 3px 12px var(--shadow-colored),
+        inset 0 1px 3px rgba(244, 228, 193, 0.15);
+    border: 1px solid var(--border-gold);
 }
 
 .book-links {
@@ -382,34 +666,32 @@ body {
     font-size: 1.1rem;
 }
 
-.btn-primary {
-    background: linear-gradient(45deg, var(--primary-color), #a50000);
-    color: white;
-    box-shadow: 0 4px 15px rgba(139, 0, 0, 0.3);
-}
-
-.btn-primary:hover {
-    background: linear-gradient(45deg, #a50000, var(--primary-color));
-    transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(139, 0, 0, 0.4);
-}
+/* .btn-primary is now defined above with Gold Leaf animation */
 
 .btn-secondary {
-    background: transparent;
+    background: linear-gradient(135deg, rgba(24, 10, 15, 0.25) 0%, rgba(31, 11, 17, 0.1) 100%);
     color: var(--accent-color);
-    border: 2px solid var(--accent-color);
+    border: 1.5px solid var(--border-gold);
+    box-shadow: 
+        0 2px 10px rgba(0, 0, 0, 0.15),
+        inset 0 0 8px rgba(232, 196, 104, 0.04);
 }
 
 .btn-secondary:hover {
-    background: var(--primary-color);
-    color: white;
-    transform: translateY(-2px);
+    background: var(--maroon-gradient);
+    color: var(--accent-bright);
+    transform: translateY(-3px);
+    border-color: var(--accent-color);
+    box-shadow: 
+        0 5px 22px var(--shadow-colored),
+        0 0 18px rgba(232, 196, 104, 0.25),
+        inset 0 0 12px rgba(244, 228, 193, 0.08);
 }
 
 /* About Section */
 .about {
     padding: 5rem 0;
-    background: linear-gradient(to bottom, var(--light-bg) 0%, #000000 100%);
+    background: var(--dark-bg);
 }
 
 .about-content {
@@ -420,32 +702,37 @@ body {
 .about-text {
     font-size: 1.15rem;
     line-height: 1.8;
+    color: var(--text-dark);
 }
 
 .intro-text {
     font-size: 1.3rem;
     font-weight: 600;
-    color: var(--primary-color);
+    color: var(--accent-bright);
     margin-bottom: 1.5rem;
     font-style: italic;
 }
 
 .about-text p {
     margin-bottom: 1.5rem;
+    color: var(--text-dark);
 }
 
 .dedication, .contact {
     margin-top: 3rem;
     padding: 2rem;
-    background: rgba(255, 215, 0, 0.05);
-    border-radius: 10px;
-    border-left: 5px solid var(--accent-color);
+    background: rgba(24, 10, 15, 0.6);
+    border-radius: 12px;
+    border: 1px solid var(--border-gold);
+    box-shadow: 
+        0 4px 20px rgba(0, 0, 0, 0.5),
+        inset 0 0 20px rgba(232, 196, 104, 0.03);
 }
 
 .dedication h3, .contact h3 {
     font-family: 'Philosopher', sans-serif;
     font-size: 1.5rem;
-    color: var(--primary-color);
+    color: var(--accent-color);
     margin-bottom: 1rem;
 }
 
@@ -457,6 +744,7 @@ body {
 .dedication li {
     padding: 0.5rem 0;
     position: relative;
+    color: var(--text-dark);
 }
 
 .dedication li::before {
@@ -466,24 +754,31 @@ body {
     color: var(--accent-color);
 }
 
+.dedication p, .contact p {
+    color: var(--text-dark);
+}
+
 .about-text a {
-    color: var(--primary-color);
+    color: var(--accent-color);
     text-decoration: none;
     font-weight: 600;
-    border-bottom: 2px solid transparent;
-    transition: border-color 0.3s ease;
+    border-bottom: 1px solid transparent;
+    transition: all 0.3s ease;
 }
 
 .about-text a:hover {
-    border-bottom-color: var(--primary-color);
+    border-bottom-color: var(--accent-color);
+    color: var(--accent-bright);
 }
 
 /* Footer */
 .footer {
-    background: linear-gradient(135deg, var(--dark-bg) 0%, var(--primary-color) 100%);
+    background: var(--maroon-gradient);
     color: var(--text-light);
     padding: 2rem 0;
     text-align: center;
+    box-shadow: 0 -4px 25px var(--shadow-colored);
+    border-top: 1.5px solid var(--border-gold);
 }
 
 .footer-blessing {
@@ -498,64 +793,359 @@ body {
     opacity: 0.9;
 }
 
+
 /* Responsive Design */
+
+/* Tablet Landscape */
+@media (max-width: 1024px) and (min-width: 769px) {
+    .container {
+        padding: 0 1.5rem;
+    }
+
+    .hero-title {
+        font-size: 2.5rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1.3rem;
+    }
+
+    .books-grid {
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 3rem;
+    }
+
+    .divine-image {
+        width: 180px;
+        height: 180px;
+    }
+}
+
+/* Mobile & Tablet Portrait */
 @media (max-width: 768px) {
+    .container {
+        padding: 0 1rem;
+    }
+
+    .header {
+        padding: 0.75rem 0;
+    }
+
     .nav {
-        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .logo h1 {
+        font-size: 1.4rem;
+    }
+
+    .nav-controls {
+        display: flex;
+        align-items: center;
         gap: 1rem;
+        order: 2;
     }
 
     .nav-menu {
-        flex-direction: column;
-        gap: 1rem;
-        text-align: center;
+        display: flex;
+        order: 3;
+        width: 100%;
+        flex-direction: row;
+        justify-content: center;
+        gap: 1.5rem;
+        padding-top: 0.5rem;
+    }
+
+    .nav-menu a {
+        font-size: 1rem;
+    }
+
+    /* Hero Section Mobile */
+    .hero {
+        min-height: auto;
+        padding: 4rem 0 6rem 0;
+    }
+
+    .hero-content {
+        padding: 0 1rem;
     }
 
     .hero-title {
         font-size: 2rem;
+        margin-bottom: 1rem;
     }
 
     .hero-subtitle {
         font-size: 1.2rem;
+        margin-bottom: 0.75rem;
     }
 
-    .section-title {
+    .hero-author {
+        font-size: 1rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .hero-blessing {
+        font-size: 1rem;
+        margin: 1.5rem 0;
+    }
+
+    .om-symbol {
         font-size: 2rem;
     }
 
+    /* Divine Images */
+    .divine-image {
+        width: 150px;
+        height: 150px;
+    }
+
+    .divine-caption {
+        font-size: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .divine-labels {
+        font-size: 0.8rem;
+        margin-top: 1rem;
+    }
+
+    /* Section Titles */
+    .section-title {
+        font-size: 2rem;
+        margin-bottom: 0.75rem;
+    }
+
+    .section-subtitle {
+        font-size: 1rem;
+        margin-bottom: 2rem;
+    }
+
+    /* Books Grid */
     .books-grid {
         grid-template-columns: 1fr;
-        gap: 2rem;
+        gap: 2.5rem;
+        padding: 10px;
+    }
+
+    .book-card {
+        transform: none;
+    }
+
+    .book-card:hover {
+        transform: translateY(-8px) scale(1.01);
+    }
+
+    .book-content {
+        padding: 1.75rem 1.5rem;
+    }
+
+    .book-title {
+        font-size: 1.6rem;
+    }
+
+    .book-description {
+        font-size: 1rem;
     }
 
     .book-links {
         flex-direction: column;
     }
+
+    .btn {
+        font-size: 0.95rem;
+        padding: 0.7rem 1.2rem;
+    }
+
+    /* About Section */
+    .about {
+        padding: 3rem 0;
+    }
+
+    .about-content {
+        margin: 2rem auto;
+    }
+
+    .intro-text {
+        font-size: 1.2rem;
+    }
+
+    .about-text {
+        font-size: 1.05rem;
+    }
+
+    .dedication, .contact {
+        padding: 1.5rem;
+    }
+
+    /* Scroll Indicator */
+    .scroll-indicator {
+        bottom: 2rem;
+    }
 }
 
 @media (max-width: 480px) {
+    .container {
+        padding: 0 0.75rem;
+    }
+
+    .logo h1 {
+        font-size: 1.2rem;
+    }
+
+    .nav-menu {
+        gap: 1rem;
+        font-size: 0.9rem;
+    }
+
+    .nav-menu a {
+        font-size: 0.9rem;
+    }
+
+    #audio-toggle {
+        font-size: 1.3rem;
+    }
+
+    /* Hero Section Small Mobile */
+    .hero {
+        padding: 3rem 0 5rem 0;
+    }
+
+    .hero-content {
+        padding: 0 0.75rem;
+    }
+
     .hero-title {
-        font-size: 1.5rem;
+        font-size: 1.6rem;
+        margin-bottom: 0.75rem;
     }
 
     .hero-subtitle {
         font-size: 1rem;
+        margin-bottom: 0.5rem;
     }
 
     .hero-author {
-        font-size: 1rem;
+        font-size: 0.95rem;
+        margin-bottom: 1.25rem;
     }
 
-    .logo h1 {
-        font-size: 1.3rem;
+    .hero-blessing {
+        font-size: 0.95rem;
+        margin: 1.25rem 0;
+    }
+
+    .om-symbol {
+        font-size: 1.8rem;
+    }
+
+    /* Divine Images */
+    .divine-image {
+        width: 120px;
+        height: 120px;
+        border: 4px solid transparent;
+    }
+
+    .divine-caption {
+        font-size: 0.95rem;
+    }
+
+    .divine-labels {
+        font-size: 0.75rem;
+    }
+
+    .divine-connector {
+        height: 30px;
+    }
+
+    /* Sections */
+    .section-title {
+        font-size: 1.75rem;
+    }
+
+    .section-subtitle {
+        font-size: 0.95rem;
+        margin-bottom: 1.5rem;
+    }
+
+    /* Books */
+    .books-grid {
+        gap: 2rem;
     }
 
     .book-content {
-        padding: 1.5rem;
+        padding: 1.5rem 1.25rem;
     }
 
     .book-title {
-        font-size: 1.5rem;
+        font-size: 1.4rem;
+    }
+
+    .book-description {
+        font-size: 0.95rem;
+    }
+
+    .book-meta {
+        font-size: 0.9rem;
+        padding: 0.85rem;
+    }
+
+    .btn {
+        font-size: 0.9rem;
+        padding: 0.65rem 1rem;
+    }
+
+    .btn i {
+        font-size: 1rem;
+    }
+
+    /* About */
+    .about {
+        padding: 2.5rem 0;
+    }
+
+    .intro-text {
+        font-size: 1.1rem;
+    }
+
+    .about-text {
+        font-size: 1rem;
+    }
+
+    .dedication h3, .contact h3 {
+        font-size: 1.3rem;
+    }
+
+    .dedication, .contact {
+        padding: 1.25rem;
+        margin-top: 2rem;
+    }
+
+    /* Footer */
+    .footer {
+        padding: 1.5rem 0;
+    }
+
+    .footer-blessing {
+        font-size: 1rem;
+    }
+
+    .footer-copyright {
+        font-size: 0.9rem;
+    }
+
+    /* Scroll Indicator */
+    .scroll-indicator {
+        bottom: 1.5rem;
+    }
+
+    .scroll-indicator span {
+        font-size: 0.8rem;
+    }
+
+    .scroll-indicator i {
+        font-size: 1.2rem;
     }
 }
 
@@ -568,4 +1158,10 @@ html {
 ::selection {
     background: var(--accent-color);
     color: var(--dark-bg);
+}
+
+/* Focus Accessibility */
+:focus-visible {
+    outline: 2px solid var(--accent-color);
+    outline-offset: 4px;
 }

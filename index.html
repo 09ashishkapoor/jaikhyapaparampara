@@ -29,11 +29,32 @@
     <link rel="icon" type="image/jpeg" href="uywjs16z45454.jpg">
 
     <title>Jai Khyapa Parampara | Digital Temple for Sacred Texts | Free eBooks</title>
-    <link rel="stylesheet" href="styles.css">
+    <style>
+:root{--primary-color:#8B2635;--accent-color:#E8C468;--accent-bright:#F4E4C1;--light-bg:#1F0B11;--text-dark:#F0DCC8;--text-light:#FFF8F0;--shadow-colored:rgba(74,14,23,0.7);--border-gold:rgba(232,196,104,0.4);--gold-gradient:linear-gradient(135deg,#B8935A 0%,#C9A962 25%,#E8C468 50%,#F4E4C1 60%,#E8C468 75%,#C9A962 90%,#B8935A 100%);--temple-gradient:radial-gradient(ellipse at top,#2D0F18 0%,#1F0B11 45%,#0D0506 100%);}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);background-color:var(--light-bg);overflow-x:hidden;}
+.header{background:linear-gradient(135deg,rgba(13,5,6,0.96) 0%,rgba(31,11,17,0.96) 100%);padding:1rem 0;position:sticky;top:0;z-index:1000;box-shadow:0 4px 25px var(--shadow-colored),0 0 20px rgba(232,196,104,0.08);border-bottom:1px solid var(--border-gold);}
+.nav{display:flex;justify-content:space-between;align-items:center;}
+.container{max-width:1200px;margin:0 auto;padding:0 20px;}
+.logo h1{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:1.8rem;font-weight:700;text-shadow:2px 2px 4px rgba(0,0,0,0.5);}
+.nav-menu{display:flex;list-style:none;gap:2rem;}
+.nav-menu a{color:var(--text-light);text-decoration:none;font-size:1.1rem;font-weight:600;}
+.hero{position:relative;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:6rem 0 8rem 0;text-align:center;overflow:hidden;color:var(--text-light);}
+.hero-content{position:relative;z-index:2;max-width:1000px;margin:0 auto;padding:0 1.5rem;}
+.hero-title{font-family:'Philosopher',sans-serif;font-size:3rem;font-weight:700;color:var(--accent-color);margin-bottom:1.5rem;line-height:1.2;text-shadow:2px 2px 8px rgba(0,0,0,0.7);}
+.hero-bg{position:absolute;top:0;left:0;width:100%;height:130%;z-index:1;background:var(--temple-gradient);transform:translateZ(0);}
+    </style>
+    <!-- Load main stylesheet non-blocking: preload then switch to stylesheet -->
+    <link rel="preload" href="styles.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="styles.min.css"></noscript>
+
+    <!-- Fonts: preconnect then preload stylesheet to avoid render-blocking -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&family=Philosopher:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&family=Philosopher:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&family=Philosopher:wght@400;700&display=swap" rel="stylesheet"></noscript>
+    <link rel="preload" as="image" href="uywjs16z45454.jpg">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" media="print" onload="this.media='all'">
 
     <!-- Structured Data (JSON-LD) -->
     <script type="application/ld+json">
@@ -91,6 +112,7 @@
     </script>
 </head>
 <body>
+    <!-- Background audio controlled by header button -->
     <!-- Header -->
     <header class="header">
         <div class="container">
@@ -98,17 +120,28 @@
                 <div class="logo">
                     <h1>Jai Khyapa Parampara</h1>
                 </div>
-                <ul class="nav-menu">
-                    <li><a href="#home">Home</a></li>
-                    <li><a href="#library">Library</a></li>
-                    <li><a href="#about">About</a></li>
-                </ul>
+                <div class="nav-controls">
+                    <button id="audio-toggle" aria-label="Toggle Temple Ambience">
+                        <i class="fas fa-music"></i>
+                    </button>
+                    <ul class="nav-menu">
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#library">Library</a></li>
+                        <li><a href="#about">About</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </header>
 
-    <!-- Hero Section -->
+    <!-- Audio Element (local chanting loop) -->
+    <audio id="temple-audio" loop preload="auto">
+        <source src="1111.mp3" type="audio/mpeg">
+    </audio>
+
+    <!-- Entrance: Hero Section -->
     <section id="home" class="hero">
+        <div class="hero-bg"></div>
         <div class="container">
             <div class="hero-content">
                 <h2 class="hero-title">A Flower at the Guru’s Feet</h2>
@@ -123,22 +156,23 @@
                 <div class="divine-presence">
                     <p class="divine-caption">Under the eternal gaze of Ma Adya Mahakali, and the blessings of the Khyapas</p>
                     <div class="divine-image mother">
-                        <img src="uywjs16z45454.jpg" alt="Adya Mahakali - The Divine Mother">
+                        <img src="uywjs16z45454.jpg" alt="Adya Mahakali - The Divine Mother" width="200" height="200">
                     </div>
-                    <div class="divine-connector">
-                        <div class="line"></div>
-                    </div>
+                    <div class="divine-connector"></div>
                     <div class="divine-image son">
-                        <img src="Bama_Khepa.jpg" alt="Bama Khepa - The Divine Son">
+                        <img src="Bama_Khepa.jpg" alt="Bama Khepa - The Divine Son" width="200" height="200">
                     </div>
-                    <div class="divine-connector">
-                        <div class="line"></div>
-                    </div>
+                    <div class="divine-connector"></div>
                     <div class="divine-image grandchild">
-                        <img src="Shyama_Khepa.jpg" alt="Shyama Khepa - The Divine Grandchild">
+                        <img src="Shyama_Khepa.jpg" alt="Shyama Khepa - The Divine Grandchild" width="200" height="200">
                     </div>
                     <p class="divine-labels">The Source • The Realization • The Continuation</p>
                 </div>
+            </div>
+            
+            <div class="scroll-indicator">
+                <span>Begin the Journey</span>
+                <i class="fas fa-chevron-down"></i>
             </div>
         </div>
         <div class="custom-shape-divider-bottom-1685027373">
@@ -148,7 +182,7 @@
         </div>
     </section>
 
-    <!-- Library Section -->
+    <!-- Sanctum: Library Section -->
     <section id="library" class="library">
         <div class="container">
             <h2 class="section-title">Treasures for the Seeker</h2>
@@ -219,7 +253,7 @@
         </div>
     </section>
 
-    <!-- About Section -->
+    <!-- Courtyard: About Section -->
     <section id="about" class="about">
         <div class="container">
             <h2 class="section-title">The Scribe's Offering</h2>
@@ -266,7 +300,7 @@
         </div>
     </section>
 
-    <!-- Footer -->
+    <!-- Exit: Footer -->
     <footer class="footer">
         <div class="container">
             <div class="footer-content">
@@ -277,6 +311,15 @@
         </div>
     </footer>
 
-    <script src="script.js"></script>
+    <script src="script.min.js" defer></script>
+    
+    <!-- Google tag (gtag.js) - Deferred for performance -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KCVSN3F2DL"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-KCVSN3F2DL');
+    </script>
 </body>
 </html>
