@@ -1,4 +1,23 @@
+# Robots.txt for Jai Khyapa Parampara
+# Temple of Knowledge - Free Spiritual eBooks
+
 User-agent: *
 Allow: /
+Disallow: /version.json
 
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Google specific
+User-agent: Googlebot
+Allow: /
+
+# Bing specific  
+User-agent: Bingbot
+Allow: /
+
+# Sitemap location
 Sitemap: https://jaikhyapaparampara.com/sitemap.xml
+
+# Canonical host
+Host: https://jaikhyapaparampara.com

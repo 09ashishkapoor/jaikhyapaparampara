@@ -1,0 +1,20 @@
+{
+  "name": "Jai Khyapa Parampara - Temple of Knowledge",
+  "short_name": "Gyan Mandir",
+  "description": "Temple of Knowledge - Free spiritual ebooks & sahasranamas from the Khyapa Parampara",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1F0B11",
+  "theme_color": "#8B2635",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "categories": ["books", "education", "lifestyle"],
+  "icons": [
+    {
+      "src": "uywjs16z45454.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

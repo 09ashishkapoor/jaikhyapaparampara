@@ -1,27 +1,43 @@
-// Smooth scroll behavior for navigation links
+// Smooth scroll behavior for navigation links with offset for sticky header
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
         e.preventDefault();
         const target = document.querySelector(this.getAttribute('href'));
         if (target) {
-            target.scrollIntoView({
-                behavior: 'smooth',
-                block: 'start'
+            const headerOffset = 80; // Height of sticky header
+            const elementPosition = target.getBoundingClientRect().top;
+            const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+
+            window.scrollTo({
+                top: offsetPosition,
+                behavior: 'smooth'
             });
         }
     });
 });
 
-// Add active class to navigation based on scroll position
-window.addEventListener('scroll', () => {
+// Add active class to navigation based on scroll position with throttling
+let ticking = false;
+
+const updateActiveNav = () => {
     const sections = document.querySelectorAll('section[id]');
     const navLinks = document.querySelectorAll('.nav-menu a');
+    const header = document.querySelector('.header');
+    
+    // Add scrolled class to header for blur effect
+    if (window.scrollY > 50) {
+        header.classList.add('scrolled');
+    } else {
+        header.classList.remove('scrolled');
+    }
     
     let current = '';
+    const scrollOffset = 150; // Offset for active state detection
+    
     sections.forEach(section => {
         const sectionTop = section.offsetTop;
         const sectionHeight = section.clientHeight;
-        if (scrollY >= sectionTop - 200) {
+        if (window.scrollY >= sectionTop - scrollOffset) {
             current = section.getAttribute('id');
         }
     });
@@ -32,6 +48,15 @@ window.addEventListener('scroll', () => {
             link.classList.add('active');
         }
     });
+    
+    ticking = false;
+};
+
+window.addEventListener('scroll', () => {
+    if (!ticking) {
+        requestAnimationFrame(updateActiveNav);
+        ticking = true;
+    }
 });
 
 // Enhanced Scroll Reveal Animation with performance optimization
@@ -73,9 +98,22 @@ document.addEventListener('DOMContentLoaded', () => {
     const scrollInd = document.querySelector('.scroll-indicator');
     if (scrollInd) {
         scrollInd.addEventListener('click', () => {
-            document.getElementById('library').scrollIntoView({ behavior: 'smooth' });
+            const librarySection = document.getElementById('library');
+            const headerOffset = 80;
+            const elementPosition = librarySection.getBoundingClientRect().top;
+            const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+            window.scrollTo({
+                top: offsetPosition,
+                behavior: 'smooth'
+            });
         });
     }
+    
+    // 6. Initialize Particle Effect
+    initParticles();
+    
+    // 7. Initialize initial active nav state
+    updateActiveNav();
 });
 
 // --- Audio Logic ---
@@ -168,3 +206,41 @@ document.querySelectorAll('a[target="_blank"]').forEach(link => {
         }, 300);
     });
 });
+
+// --- Particle/Sparkle Effect for Hero Section ---
+const initParticles = () => {
+    const heroSection = document.querySelector('.hero');
+    if (!heroSection) return;
+    
+    // Create particles container
+    const particlesContainer = document.createElement('div');
+    particlesContainer.className = 'particles-container';
+    heroSection.appendChild(particlesContainer);
+    
+    // Create particles
+    const particleCount = 30;
+    
+    for (let i = 0; i < particleCount; i++) {
+        const particle = document.createElement('div');
+        particle.className = 'particle';
+        
+        // Random starting position
+        const startX = Math.random() * 100;
+        const startY = Math.random() * 100;
+        particle.style.left = `${startX}%`;
+        particle.style.top = `${startY}%`;
+        
+        // Random delay and duration
+        const delay = Math.random() * 8;
+        const duration = 6 + Math.random() * 4;
+        particle.style.animationDelay = `${delay}s`;
+        particle.style.animationDuration = `${duration}s`;
+        
+        // Random size
+        const size = 2 + Math.random() * 3;
+        particle.style.width = `${size}px`;
+        particle.style.height = `${size}px`;
+        
+        particlesContainer.appendChild(particle);
+    }
+};
