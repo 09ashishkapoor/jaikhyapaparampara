@@ -8,14 +8,40 @@ if [ -z "$REPO_ROOT" ]; then
   exit 0
 fi
 
-PYTHON="python"
+
+# Try Python3, then python; if neither exists use shell fallback (date + sed)
 if command -v python3 >/dev/null 2>&1; then
   PYTHON=python3
+elif command -v python >/dev/null 2>&1; then
+  PYTHON=python
+else
+  PYTHON=""
 fi
 
-"$PYTHON" "$REPO_ROOT/scripts/update_last_updated.py" "$REPO_ROOT/index.html"
-if [ $? -ne 0 ]; then
+if [ -n "$PYTHON" ] && [ -f "$REPO_ROOT/scripts/update_last_updated.py" ]; then
+  "$PYTHON" "$REPO_ROOT/scripts/update_last_updated.py" "$REPO_ROOT/index.html"
+  RESULT=$?
+else
+  # Fallback: use UTC date from shell and sed to replace the span content.
+  if command -v date >/dev/null 2>&1; then
+    NICE_DATE=$(date -u +"%B %d, %Y %H:%M UTC")
+    # Use perl-compatible in-place replace for robustness
+    if command -v perl >/dev/null 2>&1; then
+      perl -0777 -pe "s#(<span[^>]*id\s*=\s*\"last-updated-value\"[^>]*>)(.*?)(</span>)#\$1${NICE_DATE}\$3#is" -i "$REPO_ROOT/index.html"
+      RESULT=$?
+    else
+      # Try sed (GNU sed compatible)
+      sed -E -i "0,/(<span[^>]*id=\\\"last-updated-value\\\"[^>]*>)(.*?)(<\\/span>)/s//\1${NICE_DATE}\3/" "$REPO_ROOT/index.html" 2>/dev/null || RESULT=1
+      RESULT=${RESULT:-0}
+    fi
+  else
+    RESULT=1
+  fi
+fi
+
+if [ "$RESULT" -ne 0 ]; then
   echo "Warning: failed to update last-updated value"
+  # do not block commit on failure
   exit 0
 fi
 
