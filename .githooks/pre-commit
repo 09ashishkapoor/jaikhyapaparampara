@@ -1,0 +1,25 @@
+#!/bin/sh
+# Pre-commit hook: update the site's "Last Updated" footer and stage the file
+# This script calls the Python helper which writes the current date string into
+# the `index.html` span with id `last-updated-value`.
+
+REPO_ROOT=$(git rev-parse --show-toplevel 2>/dev/null)
+if [ -z "$REPO_ROOT" ]; then
+  exit 0
+fi
+
+PYTHON="python"
+if command -v python3 >/dev/null 2>&1; then
+  PYTHON=python3
+fi
+
+"$PYTHON" "$REPO_ROOT/scripts/update_last_updated.py" "$REPO_ROOT/index.html"
+if [ $? -ne 0 ]; then
+  echo "Warning: failed to update last-updated value"
+  exit 0
+fi
+
+# Stage file if changed
+git add "$REPO_ROOT/index.html" || true
+
+exit 0
