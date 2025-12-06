@@ -24,6 +24,8 @@ if [ -n "$PYTHON" ] && [ -f "$REPO_ROOT/scripts/update_last_updated.py" ]; then
 else
   # Fallback: use UTC date from shell and sed to replace the span content.
   if command -v date >/dev/null 2>&1; then
+    # ISO timestamp for version.json
+    ISO_DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
     NICE_DATE=$(date -u +"%B %d, %Y %H:%M UTC")
     # Use perl-compatible in-place replace for robustness
     if command -v perl >/dev/null 2>&1; then
@@ -34,6 +36,10 @@ else
       sed -E -i "0,/(<span[^>]*id=\\\"last-updated-value\\\"[^>]*>)(.*?)(<\\/span>)/s//\1${NICE_DATE}\3/" "$REPO_ROOT/index.html" 2>/dev/null || RESULT=1
       RESULT=${RESULT:-0}
     fi
+
+    # write a minimal version.json for deployments to read
+    echo "{\"last_modified\": \"${ISO_DATE}\"}" > "$REPO_ROOT/version.json"
+    chmod 644 "$REPO_ROOT/version.json" 2>/dev/null || true
   else
     RESULT=1
   fi
@@ -45,7 +51,7 @@ if [ "$RESULT" -ne 0 ]; then
   exit 0
 fi
 
-# Stage file if changed
-git add "$REPO_ROOT/index.html" || true
+# Stage file(s) if changed
+git add "$REPO_ROOT/index.html" "$REPO_ROOT/version.json" 2>/dev/null || true
 
 exit 0

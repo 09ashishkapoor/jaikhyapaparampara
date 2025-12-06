@@ -42,11 +42,40 @@ def update_file(html_path: Path) -> int:
 
     if new_text == text:
         # Nothing changed
+        # Still update version.json so deployments can read a timestamp
+        write_version_json(html_path.parent, now)
         return 0
 
     html_path.write_text(new_text, encoding='utf-8')
     print(f'Updated {html_path} -> "{nice}"')
+    # Also write a version.json next to index.html so deployments can read it
+    write_version_json(html_path.parent, now)
     return 0
+
+
+def write_version_json(repo_root: Path, dt: datetime.datetime) -> None:
+    import json
+    from subprocess import PIPE, Popen
+
+    iso = dt.replace(microsecond=0).isoformat() + 'Z'
+    version = {}
+    # Try to get current commit short sha (this will be previous HEAD during pre-commit)
+    try:
+        p = Popen(['git', 'rev-parse', '--short', 'HEAD'], cwd=str(repo_root), stdout=PIPE, stderr=PIPE)
+        out, err = p.communicate()
+        if p.returncode == 0:
+            sha = out.decode('utf-8').strip()
+            version['last_commit'] = sha
+    except Exception:
+        pass
+
+    version['last_modified'] = iso
+    version_path = repo_root / 'version.json'
+    try:
+        version_path.write_text(json.dumps(version, indent=2), encoding='utf-8')
+        print(f'Wrote {version_path} -> {iso}')
+    except Exception as e:
+        print(f'Failed to write version.json: {e}')
 
 
 def main(argv):

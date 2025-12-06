@@ -517,13 +517,16 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
                                 dEl.textContent = dateStr;
                             }
                         } else {
-                            dEl.textContent = 'Unknown';
+                            // Keep the existing value set at build/commit time instead
+                            // of overwriting it with 'Unknown'. This ensures the
+                            // pre-commit hook or version.json remains authoritative.
                         }
                     }
                 })
                 .catch(() => {
                     if (vEl) vEl.textContent = 'V1.1';
-                    if (dEl) dEl.textContent = 'Unknown';
+                    // don't overwrite the prepopulated last-updated value on fetch failure
+                    // if (dEl) dEl.textContent = 'Unknown';
                 });
         });
         </script>
