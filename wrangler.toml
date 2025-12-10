@@ -2,5 +2,16 @@ name = "jaikhyapaparampara"
 type = "javascript"
 compatibility_date = "2025-11-25"
 
+# Enable automatic compression for text-based assets
+# Cloudflare Pages automatically compresses these MIME types with Brotli/Gzip
 [env.production]
 name = "jaikhyapaparampara-production"
+
+# Build configuration for optimal compression
+[build]
+command = "exit 0"  # No build step needed for static site
+cwd = "."
+
+# Static site configuration
+[site]
+bucket = "."

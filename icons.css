@@ -1,0 +1,39 @@
+/* Minimal Icon Library - Only required icons for this site */
+/* Replaces Font Awesome to reduce unused CSS (18+ KiB savings) */
+
+.fas::before {
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    margin-right: 0.5em;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.125em;
+}
+
+/* fa-music */
+.fa-music::before {
+    content: "♪";
+}
+
+/* fa-chevron-down */
+.fa-chevron-down::before {
+    content: "▾";
+}
+
+/* fa-file-pdf */
+.fa-file-pdf::before {
+    content: "📄";
+}
+
+/* fa-book-open */
+.fa-book-open::before {
+    content: "📖";
+}
+
+/* fa-globe */
+.fa-globe::before {
+    content: "🌐";
+}

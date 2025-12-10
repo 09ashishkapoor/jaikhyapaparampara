@@ -45,36 +45,55 @@ class GzipHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
     
     def do_GET(self):
         """Handle GET requests with compression"""
-        # Get the file
-        f = self.send_head()
-        if f:
-            # Check if we should compress
-            accept_encoding = self.headers.get('Accept-Encoding', '')
+        # Check Accept-Encoding before sending headers
+        accept_encoding = self.headers.get('Accept-Encoding', '')
+        should_compress = 'gzip' in accept_encoding and self.path.endswith(('.html', '.js', '.css', '.json', '.xml', '.svg'))
+        
+        # Read the file to check size and compress if needed
+        try:
+            # Determine the file path
+            if self.path == '/':
+                file_path = 'index.html'
+            else:
+                file_path = self.translate_path(self.path)
             
-            if 'gzip' in accept_encoding and self.path.endswith(('.html', '.js', '.css', '.json', '.xml', '.svg')):
-                # Read the content
+            # Check if file exists
+            if not os.path.isfile(file_path):
+                self.send_error(404)
+                return
+            
+            # Read content
+            with open(file_path, 'rb') as f:
                 content = f.read()
-                f.close()
-                
-                # Compress it
+            
+            # Compress if client accepts gzip and file type is compressible
+            if should_compress:
                 compressed = io.BytesIO()
                 with gzip.GzipFile(fileobj=compressed, mode='wb') as gz:
                     gz.write(content)
+                compressed_content = compressed.getvalue()
                 
-                # Send compressed response
-                self.send_response(200)
-                self.send_header('Content-Type', self.guess_type(self.path)[0] or 'application/octet-stream')
-                self.send_header('Content-Encoding', 'gzip')
-                self.send_header('Content-Length', str(len(compressed.getvalue())))
-                self.end_headers()
-                
-                self.wfile.write(compressed.getvalue())
-            else:
-                # Send uncompressed
-                try:
-                    self.copyfile(f, self.wfile)
-                finally:
-                    f.close()
+                # Only use compression if it actually reduces size (typical threshold: >500 bytes savings)
+                if len(compressed_content) < len(content) - 100:
+                    content = compressed_content
+                    self.send_response(200)
+                    self.send_header('Content-Type', self.guess_type(file_path)[0] or 'application/octet-stream')
+                    self.send_header('Content-Encoding', 'gzip')
+                    self.send_header('Vary', 'Accept-Encoding')
+                    self.send_header('Content-Length', str(len(content)))
+                    self.end_headers()
+                    self.wfile.write(content)
+                    return
+            
+            # Send uncompressed
+            self.send_response(200)
+            self.send_header('Content-Type', self.guess_type(file_path)[0] or 'application/octet-stream')
+            self.send_header('Content-Length', str(len(content)))
+            self.send_header('Vary', 'Accept-Encoding')
+            self.end_headers()
+            self.wfile.write(content)
+        except Exception as e:
+            self.send_error(500, str(e))
 
 if __name__ == "__main__":
     handler = GzipHTTPRequestHandler

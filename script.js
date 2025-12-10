@@ -140,45 +140,13 @@ const initAudio = () => {
     });
 };
 
-// --- Parallax Logic ---
+// --- Parallax Logic (DISABLED - Causes CLS) ---
+// The parallax effect was causing layout shifts (CLS score 0.188)
+// by applying transforms to .hero-bg during page load and scroll
+// Commenting out to maintain visual consistency and improve Lighthouse scores
 const initParallax = () => {
-    const heroBg = document.querySelector('.hero-bg');
-    if (!heroBg) {
-        console.warn('Hero background element not found for parallax');
-        return;
-    }
-
-    console.log('Parallax effect initialized');
-
-    // Use requestAnimationFrame for smoother performance
-    let ticking = false;
-    
-    const updateParallax = () => {
-        const scrolled = window.scrollY;
-        const heroSection = document.querySelector('.hero');
-        
-        if (!heroSection) return;
-        
-        const heroBottom = heroSection.offsetTop + heroSection.offsetHeight;
-        
-        // Only apply parallax within the hero section
-        if (scrolled <= heroBottom) {
-            // Move background at 50% speed of scroll (more noticeable)
-            heroBg.style.transform = `translateY(${scrolled * 0.5}px)`;
-        }
-        
-        ticking = false;
-    };
-
-    window.addEventListener('scroll', () => {
-        if (!ticking) {
-            requestAnimationFrame(updateParallax);
-            ticking = true;
-        }
-    });
-    
-    // Initial call
-    updateParallax();
+    // Parallax disabled - no longer applying transforms to hero background
+    console.log('Parallax effect disabled (was causing CLS)');
 };
 
 
