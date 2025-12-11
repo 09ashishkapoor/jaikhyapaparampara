@@ -1,4 +1,4 @@
-name: Version and Sitemap Update
+name: Auto-Update Version and Date
 
 on:
   push:
@@ -10,12 +10,6 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    env:
-      # VERSION_SCHEME: 'date' (default) or 'git-describe'
-      VERSION_SCHEME: date
-      # SITEMAP_PATTERNS: comma-separated substrings to match URLs to update in sitemap.xml.
-      # If empty, all <url> entries will be updated.
-      SITEMAP_PATTERNS: ""
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -27,28 +21,30 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Get last commit date
+      - name: Get commit info
         id: commit
         run: |
           GIT_DATE=$(git log -1 --format=%cI)
           echo "git_date=$GIT_DATE" >> $GITHUB_OUTPUT
-          YMD=$(date -d "$GIT_DATE" +%Y%m%d)
-          echo "ymd=$YMD" >> $GITHUB_OUTPUT
+          COMMIT_COUNT=$(git rev-list --count HEAD)
+          echo "commit_count=$COMMIT_COUNT" >> $GITHUB_OUTPUT
+          SHORT_SHA=$(git rev-parse --short HEAD)
+          echo "short_sha=$SHORT_SHA" >> $GITHUB_OUTPUT
 
-      - name: Generate version.json
+      - name: Update HTML meta tags
         run: |
-          if [ "${VERSION_SCHEME}" = "git-describe" ]; then
-            VERSION_RAW=$(git describe --tags --always --dirty)
-            # sanitize: replace leading v if present
-            VERSION_RAW=${VERSION_RAW#v}
-            VERSION="V${VERSION_RAW}"
-          else
-            VERSION="V1.1.${{ steps.commit.outputs.ymd }}"
-          fi
-          echo "{\"version\":\"$VERSION\",\"last_commit\":\"${{ steps.commit.outputs.git_date }}\"}" > version.json
-          git add version.json || true
+          VERSION="1.${{ steps.commit.outputs.commit_count }}"
+          DATE="${{ steps.commit.outputs.git_date }}"
+          
+          # Update build-version meta tag
+          sed -i "s/<meta name=\"build-version\" content=\"[^\"]*\">/<meta name=\"build-version\" content=\"${VERSION}\">/" index.html
+          
+          # Update build-date meta tag
+          sed -i "s/<meta name=\"build-date\" content=\"[^\"]*\">/<meta name=\"build-date\" content=\"${DATE}\">/" index.html
+          
+          echo "Updated to version ${VERSION} with date ${DATE}"
 
-      - name: Update sitemap lastmod (selective)
+      - name: Update sitemap
         run: |
           if [ -f sitemap.xml ]; then
             TODAY=$(date -I)
@@ -56,9 +52,6 @@ jobs:
 import os
 from datetime import date
 from xml.etree import ElementTree as ET
-
-pat_env = os.getenv('SITEMAP_PATTERNS','').strip()
-patterns = [p.strip() for p in pat_env.split(',') if p.strip()]
 
 tree = ET.parse('sitemap.xml')
 root = tree.getroot()
@@ -76,37 +69,24 @@ for url in root.findall('.//' + qname('url')):
     loc = url.find(qname('loc'))
     if loc is None or loc.text is None:
         continue
-    url_text = loc.text
-    matched = False
-    if not patterns:
-        matched = True
-    else:
-        for p in patterns:
-            if p in url_text:
-                matched = True
-                break
-    if matched:
-        lm = url.find(qname('lastmod'))
-        if lm is None:
-            lm = ET.SubElement(url, qname('lastmod'))
-        lm.text = date.today().isoformat()
-        updated = True
+    lm = url.find(qname('lastmod'))
+    if lm is None:
+        lm = ET.SubElement(url, qname('lastmod'))
+    lm.text = date.today().isoformat()
+    updated = True
 
 if updated:
     tree.write('sitemap.xml', encoding='utf-8', xml_declaration=True)
     print('sitemap.xml updated')
-else:
-    print('no sitemap entries matched; no changes')
 PY
             git add sitemap.xml || true
-          else
-            echo "sitemap.xml not found, skipping"
           fi
 
-      - name: Commit and push changes
+      - name: Commit and push if changed
         run: |
-          if ! git diff --quiet --exit-code; then
-            git commit -m "chore: update version.json and sitemap.xml [skip ci]" || true
+          git add index.html
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: auto-update version and date [skip ci]"
             git push
           else
             echo "No changes to commit"

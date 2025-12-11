@@ -8,6 +8,11 @@
     <meta name="keywords" content="Adya Mahakali, Kalabhairava, sahasranama, 1000 names, spiritual ebooks, free ebooks, Khyapa Parampara, devotional texts">
     <meta name="author" content="KaliPutra-Ashish">
     <meta name="robots" content="index, follow">
+    
+    <!-- Build tracking - UPDATE THESE when you make changes to the site -->
+    <meta name="build-version" content="1.2">
+    <meta name="build-date" content="2025-12-10T12:00:00Z">
+    
     <link rel="canonical" href="https://jaikhyapaparampara.com/">
     <link rel="alternate" href="https://jaikhyapaparampara.com/" hreflang="en-US">
     <link rel="alternate" href="https://jaikhyapaparampara.com/" hreflang="x-default">
@@ -690,8 +695,8 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
                 <p class="footer-blessing">Om Shri Gurubhyo Namaha | Jai Khyapa Parampara</p>
                 <p class="footer-description">May every word read here bring you closer to Ma Adya Mahakali.</p>
                 <p class="footer-meta">&copy; 2025 KaliPutra-Ashish. All knowledge is forever free to share.</p>
-                <p id="site-version" class="footer-version">Version: <span id="version-value">Loading...</span></p>
-                <p id="site-last-updated" class="footer-updated">Last Updated: <span id="last-updated-value">December 06, 2025 04:49 UTC</span></p>
+                <p id="site-version" class="footer-version">Version: <span id="version-value">V1.2</span></p>
+                <p id="site-last-updated" class="footer-updated">Last Updated: <span id="last-updated-value">December 10, 2025</span></p>
             </div>
         </div>
     </footer>
@@ -750,7 +755,7 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
         });
         </script>
         
-        <!-- Version loader: fetches auto-generated version.json and updates footer -->
+        <!-- Self-contained version tracker: uses HTML meta tag for version tracking -->
         <script>
         document.addEventListener('DOMContentLoaded', function(){
             const vEl = document.getElementById('version-value');
@@ -758,31 +763,31 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
 
             if (!vEl && !dEl) return;
 
-            fetch('version.json', {cache: 'no-cache'})
-                .then(res => { if (!res.ok) throw new Error('no version'); return res.json(); })
-                .then(data => {
-                    if (vEl) vEl.textContent = data.version || 'V1.1';
-                    if (dEl) {
-                        const dateStr = data.last_commit || data.lastCommit || data.last_updated || data.last_modified;
-                        if (dateStr) {
-                            const dt = new Date(dateStr);
-                            if (!isNaN(dt)) {
-                                dEl.textContent = dt.toLocaleDateString('en-GB', { year: 'numeric', month: 'short', day: '2-digit' });
-                            } else {
-                                dEl.textContent = dateStr;
-                            }
-                        } else {
-                            // Keep the existing value set at build/commit time instead
-                            // of overwriting it with 'Unknown'. This ensures the
-                            // pre-commit hook or version.json remains authoritative.
-                        }
+            // Get build version from meta tag (update this manually when you make changes)
+            const metaVersion = document.querySelector('meta[name="build-version"]');
+            const buildVersion = metaVersion ? metaVersion.getAttribute('content') : '1.0';
+            
+            // Get build date from meta tag
+            const metaDate = document.querySelector('meta[name="build-date"]');
+            const buildDate = metaDate ? metaDate.getAttribute('content') : new Date().toISOString();
+
+            // Display version
+            if (vEl) vEl.textContent = 'V' + buildVersion;
+            
+            // Display last updated date
+            if (dEl) {
+                try {
+                    const dt = new Date(buildDate);
+                    if (!isNaN(dt)) {
+                        const options = { year: 'numeric', month: 'long', day: '2-digit', hour: '2-digit', minute: '2-digit', timeZone: 'UTC', timeZoneName: 'short' };
+                        dEl.textContent = dt.toLocaleString('en-US', options).replace('GMT', 'UTC');
+                    } else {
+                        dEl.textContent = buildDate;
                     }
-                })
-                .catch(() => {
-                    if (vEl) vEl.textContent = 'V1.1';
-                    // don't overwrite the prepopulated last-updated value on fetch failure
-                    // if (dEl) dEl.textContent = 'Unknown';
-                });
+                } catch (e) {
+                    dEl.textContent = buildDate;
+                }
+            }
         });
         </script>
 
