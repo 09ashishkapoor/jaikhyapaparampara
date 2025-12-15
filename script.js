@@ -289,6 +289,87 @@ function setLanguage(lang) {
             btn.classList.remove('active');
         }
     });
+    
+    // Update meta tags for SEO when language changes
+    updateMetaTags(lang);
+}
+
+function updateMetaTags(lang) {
+    // Update meta description
+    const metaDescription = document.querySelector('meta[name="description"]');
+    if (metaDescription) {
+        if (lang === 'hi') {
+            metaDescription.setAttribute('content', 'जय ख्यापा परंपरा - ज्ञान मंदिर। मुफ़्त आध्यात्मिक ई-बुक्स और पवित्र ग्रंथ। आद्या महाकाली और कालभैरव सहस्रनाम, हिंदी अनुवाद के साथ।');
+        } else {
+            metaDescription.setAttribute('content', 'Jai Khyapa Parampara - Free spiritual eBooks and sacred texts. Explore Adya Mahakali and Kalabhairava sahasranamas, translations, and chanting guides.');
+        }
+    }
+    
+    // Update Open Graph title
+    const ogTitle = document.querySelector('meta[property="og:title"]');
+    if (ogTitle) {
+        if (lang === 'hi') {
+            ogTitle.setAttribute('content', 'जय ख्यापा परंपरा | मुफ़्त आद्या महाकाली और कालभैरव सहस्रनाम ई-बुक्स');
+        } else {
+            ogTitle.setAttribute('content', 'Jai Khyapa Parampara | Free Adya Mahakali & Kalabhairava Sahasranama eBooks');
+        }
+    }
+    
+    // Update Open Graph description
+    const ogDescription = document.querySelector('meta[property="og:description"]');
+    if (ogDescription) {
+        if (lang === 'hi') {
+            ogDescription.setAttribute('content', 'जय ख्यापा परंपरा - ज्ञान मंदिर। कालीपुत्र-आशीष द्वारा संकलित मुफ़्त आध्यात्मिक ई-बुक्स और पवित्र ग्रंथ।');
+        } else {
+            ogDescription.setAttribute('content', 'Jai Khyapa Parampara - Temple of Knowledge (Gyan Mandir). Free spiritual ebooks & sacred texts compiled by KaliPutra-Ashish.');
+        }
+    }
+    
+    // Update Twitter title
+    const twitterTitle = document.querySelector('meta[name="twitter:title"]');
+    if (twitterTitle) {
+        if (lang === 'hi') {
+            twitterTitle.setAttribute('content', 'जय ख्यापा परंपरा | मुफ़्त आद्या महाकाली और कालभैरव सहस्रनाम ई-बुक्स');
+        } else {
+            twitterTitle.setAttribute('content', 'Jai Khyapa Parampara | Free Adya Mahakali & Kalabhairava Sahasranama eBooks');
+        }
+    }
+    
+    // Update Twitter description
+    const twitterDescription = document.querySelector('meta[name="twitter:description"]');
+    if (twitterDescription) {
+        if (lang === 'hi') {
+            twitterDescription.setAttribute('content', 'जय ख्यापा परंपरा - ज्ञान मंदिर। कालीपुत्र-आशीष द्वारा संकलित मुफ़्त आध्यात्मिक ई-बुक्स और पवित्र ग्रंथ।');
+        } else {
+            twitterDescription.setAttribute('content', 'Jai Khyapa Parampara - Temple of Knowledge (Gyan Mandir). Free spiritual ebooks & sacred texts compiled by KaliPutra-Ashish.');
+        }
+    }
+    
+    // Update keywords meta tag
+    const metaKeywords = document.querySelector('meta[name="keywords"]');
+    if (metaKeywords) {
+        if (lang === 'hi') {
+            metaKeywords.setAttribute('content', 'आद्या महाकाली, कालभैरव, सहस्रनाम, 1000 नाम, आध्यात्मिक ई-बुक्स, मुफ़्त ई-बुक्स, ख्यापा परंपरा, भक्ति ग्रंथ, हिंदी, Adya Mahakali, Kalabhairava, sahasranama, Hindi');
+        } else {
+            metaKeywords.setAttribute('content', 'Adya Mahakali, Kalabhairava, sahasranama, 1000 names, spiritual ebooks, free ebooks, Khyapa Parampara, devotional texts, Hindi, हिंदी, कालभैरव, माता महाकाली, श्री कालभैरव सहस्रनाम');
+        }
+    }
+    
+    // Update page title
+    const pageTitle = document.querySelector('title');
+    if (pageTitle) {
+        if (lang === 'hi') {
+            pageTitle.textContent = 'जय ख्यापा परंपरा - ज्ञान मंदिर';
+        } else {
+            pageTitle.textContent = 'Jai Khyapa Parampara';
+        }
+    }
+    
+    // Update Open Graph locale
+    const ogLocale = document.querySelector('meta[property="og:locale"]');
+    if (ogLocale) {
+        ogLocale.setAttribute('content', lang === 'hi' ? 'hi_IN' : 'en_US');
+    }
 }
 
 // Smooth scroll behavior for navigation links with offset for sticky header
