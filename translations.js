@@ -1,4 +1,6 @@
-// ===== TRANSLATIONS OBJECT =====
+// This file contains the complete translations object
+// Copy this into script.js at the beginning, before other code
+
 const translations = {
     en: {
         // Navigation
@@ -182,12 +184,12 @@ const translations = {
         'faq-a3-intro': '<strong>कालभैरव बाबा का परिचय</strong>',
         'faq-a3-kala': '<strong>काल:</strong> इस शब्द का अर्थ है "समय" और "मृत्यु"। वे समय के मालिक हैं, समय से परे हैं, और साक्षात मृत्यु का रूप हैं।',
         'faq-a3-bhairava': '<strong>भैरव:</strong> इसका अर्थ है "भयानक" या "डरावना।" उनका रूप देखकर डर और श्रद्धा दोनों महसूस होती है, लेकिन यह डर भक्त के लिए नहीं है। यह वो डर है जो भक्त के अपने अंदर के डर, अहंकार और मोह को नष्ट कर देता है।',
-        'faq-a3-coconut': 'लेकिन AI की बनाई हुई पुरानी या नई तस्वीरों को देखकर धोखा न खाएं। वे कोई बुरे देवता नहीं हैं; बल्कि उनका डरावना रूप तो बस एक नारियल जैसा है - बाहर से सख़्त खोल, लेकिन अंदर से एक गुरु जैसा कोमल।',
+        'faq-a3-coconut': 'लेकिन AI की बनाई हुई पुरानी या नई तस्वीरों को देखकर धोखा न खाएं। वे कोई बुरे देवता नहीं हैं; बल्कि उनका डरावना रूप तो बस एक नारियल जैसा है - बाहर से सख़्त खोल, लेकिन अंदर से एक गुरु जैसा कोमल।',
         'faq-a3-roles': 'भूमिकाएं और गुण',
         
         'faq-q4': 'कालभैरव सहस्रनाम (1000 नाम) जाप के लाभ',
         'faq-a4-p1': '<strong>और क्या चाहिए?</strong> खुद काशिका-पुरा-अधिनाथ, कालभैरव बाबा से ही पूछ लीजिए।',
-        'faq-a4-p2': 'धर्म के रास्ते पर आप जो भी पाना चाहते हैं, उसे पाने के लिए ये 1000 नाम ही काफ़ी हैं।',
+        'faq-a4-p2': 'धर्म के रास्ते पर आप जो भी पाना चाहते हैं, उसे पाने के लिए ये 1000 नाम ही काफ़ी हैं।',
         
         'faq-q5': 'ख्यापा परंपरा क्या है?',
         'faq-a5': 'ख्यापा परंपरा पश्चिम बंगाल, भारत के तारापीठ से निकली एक आध्यात्मिक वंशावली है। इसमें गुरु बामा खेपा और गुरु श्यामा खेपा जैसे महान संत शामिल हैं जो माँ तारा और माँ काली के प्रति अपनी मस्ती भरी भक्ति (ख्यापा का मतलब है "दिव्य प्रेम में पागल") के लिए जाने जाते हैं।',
@@ -200,34 +202,34 @@ const translations = {
         
         'faq-q8': 'मैं जाप के लिए सहस्रनाम का उपयोग कैसे करूं?',
         'faq-a8-intro': 'हर ई-बुक में जाप करने का तरीका (chanting guide) दिया गया है।',
-        'faq-a8-li1': 'बस नामों को पढ़ें — हकलाएं, अटकें, या गाने की तरह गाएं, ॐ के साथ या उसके बिना।',
-        'faq-a8-li2': 'जितना ज़्यादा आप इन्हें पढ़ेंगे, उच्चारण अपने आप सुधर जाएगा।',
-        'faq-a8-li3': 'एक बार में एक नाम, ११ नाम, या एक बार में पूरे १००० नाम पढ़ें।',
-        'faq-a8-li4': 'अर्थ समझ में आए या न आए, इससे कोई फ़र्क नहीं पड़ता।',
-        'faq-a8-li5': 'इन पवित्र नामों के पास जाने का कोई ग़लत तरीका नहीं है; अभ्यास ही असली बात है।',
-        'faq-a8-li6': 'जैसे ज़हर अपना काम करता ही है, चाहे आपको पता हो या न हो कि वो ज़हर है।',
-        'faq-a8-li7': 'भैरव बाबा के ये 1000 नाम आपके डरों के लिए ज़हर का काम करते हैं और वे आपको धर्म के रास्ते पर निडर बनाते हैं।',
+        'faq-a8-li1': 'बस नामों को पढ़ें — हकलाएं, अटकें, या गाने की तरह गाएं, ॐ के साथ या उसके बिना।',
+        'faq-a8-li2': 'जितना ज़्यादा आप इन्हें पढ़ेंगे, उच्चारण अपने आप सुधर जाएगा।',
+        'faq-a8-li3': 'एक बार में एक नाम, ११ नाम, या एक बार में पूरे १००० नाम पढ़ें।',
+        'faq-a8-li4': 'अर्थ समझ में आए या न आए, इससे कोई फ़र्क नहीं पड़ता।',
+        'faq-a8-li5': 'इन पवित्र नामों के पास जाने का कोई ग़लत तरीका नहीं है; अभ्यास ही असली बात है।',
+        'faq-a8-li6': 'जैसे ज़हर अपना काम करता ही है, चाहे आपको पता हो या न हो कि वो ज़हर है।',
+        'faq-a8-li7': 'भैरव बाबा के ये 1000 नाम आपके डरों के लिए ज़हर का काम करते हैं और वे आपको धर्म के रास्ते पर निडर बनाते हैं।',
         'faq-a8-li8': 'ऑडियो सुनें, YouTube पर बहुत सारे उपलब्ध हैं।',
-        'faq-a8-li9': 'माँ कृष्णा (कलियुग के गुरु) ने पहले ही कह दिया है कि "नाम जप" ही काफ़ी है, तो उनकी बात सुनें।',
+        'faq-a8-li9': 'माँ कृष्णा (कलियुग के गुरु) ने पहले ही कह दिया है कि "नाम जप" ही काफ़ी है, तो उनकी बात सुनें।',
         
-        'faq-q9': 'क्या ये आध्यात्मिक ई-बुक्स मुफ़्त हैं?',
-        'faq-a9': 'हाँ, "जय ख्यापा परंपरा ज्ञान मंदिर" की सभी ई-बुक्स हमेशा के लिए मुफ़्त हैं। ज्ञान आत्मा का जन्मसिद्ध अधिकार है, और ये पवित्र ग्रंथ सेवा के रूप में दिए जा रहे हैं। न कोई रजिस्ट्रेशन, न कोई पैसा।',
+        'faq-q9': 'क्या ये आध्यात्मिक ई-बुक्स मुफ़्त हैं?',
+        'faq-a9': 'हाँ, "जय ख्यापा परंपरा ज्ञान मंदिर" की सभी ई-बुक्स हमेशा के लिए मुफ़्त हैं। ज्ञान आत्मा का जन्मसिद्ध अधिकार है, और ये पवित्र ग्रंथ सेवा के रूप में दिए जा रहे हैं। न कोई रजिस्ट्रेशन, न कोई पैसा।',
         
         'faq-q10': 'क्या और ई-बुक्स जोड़ी जाएंगी?',
-        'faq-a10': 'हाँ! यह ज्ञान का मंदिर एक जीवित "संकल्प" है। माँ आद्या महाकाली और ख्यापा परंपरा की सेवा में कई और पवित्र कार्यों को संकलित किया जा रहा है और उन्हें मुफ़्त में साझा किया जाएगा।',
+        'faq-a10': 'हाँ! यह ज्ञान का मंदिर एक जीवित "संकल्प" है। माँ आद्या महाकाली और ख्यापा परंपरा की सेवा में कई और पवित्र कार्यों को संकलित किया जा रहा है और उन्हें मुफ़्त में साझा किया जाएगा।',
         
         // FAQ Kalabhairava Roles List Items
         'faq-a3-role1': 'वे शक्ति विद्या (५वाँ वेद) के परम गुरु हैं।',
         'faq-a3-role2': 'वे शाक्त मार्ग के हमेशा साथ रहने वाले साथी और GPS हैं।',
-        'faq-a3-role3': 'वे हमें डर, अहंकार, अज्ञान और नकारात्मकता से ऊपर उठने का रास्ता दिखाते हैं। दुनिया को सिर्फ़ एक साक्षी बनकर देखें और इस सांसारिक भीड़-भाड़ से ऊपर उठें।',
-        'faq-a3-role4': 'वे काशी (माँ काली) की पवित्र स्थिति के सबसे बड़े रक्षक (Firewall) हैं।',
-        'faq-a3-role5': 'वे सिर्फ़ क्षेत्रपाल नहीं, बल्कि वो "Great Filter" हैं जिनसे गुज़रे बिना आप माँ काली (काशी) के साथ एक नहीं हो सकते। इसका मतलब है कि शक्ति विद्या की गहराइयाँ तब तक समझ नहीं आएँगी जब तक कालभैरव बाबा आपको सच्चा नहीं पाते और आपको अंदर आने की इजाज़त नहीं देते।',
+        'faq-a3-role3': 'वे हमें डर, अहंकार, अज्ञान और नकारात्मकता से ऊपर उठने का रास्ता दिखाते हैं। दुनिया को सिर्फ़ एक साक्षी बनकर देखें और इस सांसारिक भीड़-भाड़ से ऊपर उठें।',
+        'faq-a3-role4': 'वे काशी (माँ काली) की पवित्र स्थिति के सबसे बड़े रक्षक (Firewall) हैं।',
+        'faq-a3-role5': 'वे सिर्फ़ क्षेत्रपाल नहीं, बल्कि वो "Great Filter" हैं जिनसे गुज़रे बिना आप माँ काली (काशी) के साथ एक नहीं हो सकते। इसका मतलब है कि शक्ति विद्या की गहराइयाँ तब तक समझ नहीं आएँगी जब तक कालभैरव बाबा आपको सच्चा नहीं पाते और आपको अंदर आने की इजाज़त नहीं देते।',
         'faq-a3-role6': 'वे अनासक्ति और वैराग्य देते हैं।',
-        'faq-a3-role7': 'वे अपने भक्तों के अंदर चल रहे समुद्रमंथन को तेज़ कर देते हैं और संतुलन (काशी) की ओर उनकी चढ़ाई में आने वाले सारे ज़हर (negatives) को खुद पी लेते हैं।',
-        'faq-a3-role8': 'वे भक्तों की आध्यात्मिक रीढ़ (spine) को मज़बूत करके उन्हें "आधार" देते हैं। उन्हें आज़ाद करते हैं ताकि वे अपने जीवन के असली उद्देश्य (birth designs) की शक्ति को unlock कर सकें।',
+        'faq-a3-role7': 'वे अपने भक्तों के अंदर चल रहे समुद्रमंथन को तेज़ कर देते हैं और संतुलन (काशी) की ओर उनकी चढ़ाई में आने वाले सारे ज़हर (negatives) को खुद पी लेते हैं।',
+        'faq-a3-role8': 'वे भक्तों की आध्यात्मिक रीढ़ (spine) को मज़बूत करके उन्हें "आधार" देते हैं। उन्हें आज़ाद करते हैं ताकि वे अपने जीवन के असली उद्देश्य (birth designs) की शक्ति को unlock कर सकें।',
         'faq-a3-role9': 'वे जीते-जी ही मोक्ष (मुक्ति) देते हैं।',
-        'faq-a3-role10': 'वे भक्तों को अलग-अलग time-lines और parallel realities में उनके ही advanced self (उन्नत रूप) से जोड़कर उनकी आध्यात्मिक तरक्की को तेज़ करते हैं।',
-        'faq-a3-role11': 'वे कालीप्रिय हैं, इसलिए उनसे जुड़ने पर आप अपने आप ब्रह्मांड को बनाने वाली माँ आद्या महाकाली और उनकी सेवा करने वाली पूरी अलौकिक सेना की नज़रों में आ जाते हैं।',
+        'faq-a3-role10': 'वे भक्तों को अलग-अलग time-lines और parallel realities में उनके ही advanced self (उन्नत रूप) से जोड़कर उनकी आध्यात्मिक तरक्की को तेज़ करते हैं।',
+        'faq-a3-role11': 'वे कालीप्रिय हैं, इसलिए उनसे जुड़ने पर आप अपने आप ब्रह्मांड को बनाने वाली माँ आद्या महाकाली और उनकी सेवा करने वाली पूरी अलौकिक सेना की नज़रों में आ जाते हैं।',
         'faq-a3-closing': 'जय कालभैरव बाबा',
         
         // FAQ Kalabhairava Benefits List Items
@@ -238,365 +240,8 @@ const translations = {
         // Footer
         'footer-blessing': 'ॐ श्री गुरुभ्यो नमः | जय ख्यापा परंपरा',
         'footer-description': 'यहाँ पढ़ा गया हर शब्द आपको माँ आद्या महाकाली के और करीब लाए।',
-        'footer-meta': '© 2025 कालीपुत्र-आशीष। सारा ज्ञान साझा करने के लिए हमेशा मुफ़्त है।',
+        'footer-meta': '© 2025 कालीपुत्र-आशीष। सारा ज्ञान साझा करने के लिए हमेशा मुफ़्त है।',
         'footer-version': 'संस्करण:',
         'footer-updated': 'अंतिम अपडेट:'
     }
-};
-
-// ===== LANGUAGE TOGGLE FUNCTIONS =====
-let currentLanguage = 'en';
-
-function initLanguage() {
-    const savedLang = localStorage.getItem('preferredLanguage');
-    if (savedLang && (savedLang === 'en' || savedLang === 'hi')) {
-        currentLanguage = savedLang;
-    }
-    setLanguage(currentLanguage);
-    
-    const langButtons = document.querySelectorAll('.lang-btn');
-    langButtons.forEach(btn => {
-        btn.addEventListener('click', () => {
-            const lang = btn.getAttribute('data-lang');
-            if (lang && lang !== currentLanguage) {
-                currentLanguage = lang;
-                setLanguage(lang);
-                localStorage.setItem('preferredLanguage', lang);
-            }
-        });
-    });
-}
-
-function setLanguage(lang) {
-    document.documentElement.setAttribute('lang', lang);
-    const translatableElements = document.querySelectorAll('[data-translate]');
-    translatableElements.forEach(element => {
-        const key = element.getAttribute('data-translate');
-        if (translations[lang] && translations[lang][key]) {
-            if (element.hasAttribute('data-html')) {
-                element.innerHTML = translations[lang][key];
-            } else {
-                element.textContent = translations[lang][key];
-            }
-        }
-    });
-    
-    const langButtons = document.querySelectorAll('.lang-btn');
-    langButtons.forEach(btn => {
-        if (btn.getAttribute('data-lang') === lang) {
-            btn.classList.add('active');
-        } else {
-            btn.classList.remove('active');
-        }
-    });
-}
-
-// Smooth scroll behavior for navigation links with offset for sticky header
-// Optimized to batch DOM reads to prevent forced reflows
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-    anchor.addEventListener('click', function (e) {
-        e.preventDefault();
-        const target = document.querySelector(this.getAttribute('href'));
-        if (target) {
-            // Batch DOM reads together before accessing any properties
-            const headerOffset = 80; // Height of sticky header
-            const elementPosition = target.getBoundingClientRect().top;
-            const pageYOffset = window.pageYOffset;
-            
-            // Calculate offset position from cached values (no additional reads)
-            const offsetPosition = elementPosition + pageYOffset - headerOffset;
-
-            window.scrollTo({
-                top: offsetPosition,
-                behavior: 'smooth'
-            });
-            
-            // Invalidate cache after DOM may have changed
-            sectionCacheValid = false;
-        }
-    });
-});
-
-// Optimize header scroll effect without forced reflows
-let ticking = false;
-
-const updateHeaderScrollState = () => {
-    const header = document.querySelector('.header');
-    
-    // Add scrolled class to header for blur effect
-    if (window.scrollY > 50) {
-        header.classList.add('scrolled');
-    } else {
-        header.classList.remove('scrolled');
-    }
-    
-    ticking = false;
-};
-
-window.addEventListener('scroll', () => {
-    if (!ticking) {
-        requestAnimationFrame(updateHeaderScrollState);
-        ticking = true;
-    }
-});
-
-// Use Intersection Observer for nav highlighting to avoid forced reflows
-const navObserverOptions = {
-    threshold: 0.5,
-    rootMargin: '-80px 0px -50% 0px'
-};
-
-const navObserver = new IntersectionObserver((entries) => {
-    const navLinks = document.querySelectorAll('.nav-menu a');
-    entries.forEach(entry => {
-        if (entry.isIntersecting) {
-            navLinks.forEach(link => {
-                link.classList.remove('active');
-                if (link.getAttribute('href').slice(1) === entry.target.id) {
-                    link.classList.add('active');
-                }
-            });
-        }
-    });
-}, navObserverOptions);
-
-document.querySelectorAll('section[id]').forEach(section => navObserver.observe(section));
-
-// Cache section layout data to prevent forced reflows during scroll
-let sectionDataCache = [];
-let sectionCacheValid = false;
-
-// Rebuild section cache when DOM changes
-function rebuildSectionCache() {
-    const sections = document.querySelectorAll('section[id]');
-    // Batch all DOM reads together - NOT on scroll path
-    sectionDataCache = Array.from(sections).map(section => ({
-        id: section.id,
-        top: section.offsetTop,
-        height: section.offsetHeight
-    }));
-    sectionCacheValid = true;
-}
-
-// Function to update active nav link based on current scroll position
-// Uses cached layout data to prevent forced reflows
-function updateActiveNav() {
-    // Only read DOM once for this function call
-    if (!sectionCacheValid) {
-        rebuildSectionCache();
-    }
-    
-    const navLinks = document.querySelectorAll('.nav-menu a');
-    let currentSectionId = null;
-    const scrollPosition = window.scrollY + 100; // Account for header height
-    
-    // Find current section from cached data (no DOM reads here)
-    for (const section of sectionDataCache) {
-        if (scrollPosition >= section.top && scrollPosition < section.top + section.height) {
-            currentSectionId = section.id;
-            break;
-        }
-    }
-    
-    // Batch all DOM writes together
-    navLinks.forEach(link => {
-        const href = link.getAttribute('href').slice(1);
-        if (currentSectionId && href === currentSectionId) {
-            link.classList.add('active');
-        } else {
-            link.classList.remove('active');
-        }
-    });
-}
-
-// Add scroll listener to update active nav without forced reflows
-let navTicking = false;
-window.addEventListener('scroll', () => {
-    if (!navTicking) {
-        requestAnimationFrame(updateActiveNav);
-        navTicking = true;
-        setTimeout(() => { navTicking = false; }, 100);
-    }
-}, { passive: true });
-
-// Enhanced Scroll Reveal Animation with performance optimization
-const observerOptions = {
-    threshold: 0.1,
-    rootMargin: '0px 0px -100px 0px'
-};
-
-const observer = new IntersectionObserver((entries) => {
-    // Use requestAnimationFrame to batch visual updates
-    requestAnimationFrame(() => {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                entry.target.classList.add('active');
-                observer.unobserve(entry.target); // Only animate once
-            }
-        });
-    });
-}, observerOptions);
-
-// Initialize Features
-document.addEventListener('DOMContentLoaded', () => {
-    // 1. Initialize Language
-    initLanguage();
-    
-    // 2. Build section cache for nav highlighting (do this once at load)
-    rebuildSectionCache();
-    
-    // 3. Initialize Scroll Observer
-    const revealElements = document.querySelectorAll('.book-card, .section-title, .about-content, .hero-content');
-    revealElements.forEach(el => {
-        el.classList.add('reveal'); // Add reveal class
-        observer.observe(el);
-    });
-    
-    // 4. Initialize Mobile Menu
-    createMobileMenu();
-
-    // 5. Initialize Parallax Effect
-    initParallax();
-
-    // 6. Initialize Audio
-    initAudio();
-
-    // 7. Initialize Scroll Indicator
-    const scrollInd = document.querySelector('.scroll-indicator');
-    if (scrollInd) {
-        scrollInd.addEventListener('click', () => {
-            const librarySection = document.getElementById('library');
-            // Batch DOM reads together
-            const headerOffset = 80;
-            const elementPosition = librarySection.getBoundingClientRect().top;
-            const pageYOffset = window.pageYOffset;
-            
-            // Then calculate and apply
-            const offsetPosition = elementPosition + pageYOffset - headerOffset;
-            window.scrollTo({
-                top: offsetPosition,
-                behavior: 'smooth'
-            });
-            
-            // Invalidate cache after scroll
-            sectionCacheValid = false;
-        });
-    }
-    
-    // 8. Initialize Particle Effect
-    initParticles();
-    
-    // 9. Set initial active nav state
-    updateActiveNav();
-    
-    // 10. Listen for content changes that might affect section positions
-    const resizeObserver = new ResizeObserver(() => {
-        sectionCacheValid = false; // Invalidate cache on layout changes
-    });
-    document.querySelectorAll('section[id]').forEach(section => {
-        resizeObserver.observe(section);
-    });
-});
-
-// --- Audio Logic ---
-const initAudio = () => {
-    const audioBtn = document.getElementById('audio-toggle');
-    const audio = document.getElementById('temple-audio');
-    if (!audioBtn || !audio) return;
-
-    let isPlaying = false;
-    // Set initial volume low
-    audio.volume = 0.4;
-
-    audioBtn.addEventListener('click', () => {
-        if (isPlaying) {
-            audio.pause();
-            audioBtn.classList.remove('playing');
-            audioBtn.innerHTML = '<i class="fas fa-music"></i>';
-        } else {
-            audio.play().catch(err => console.log("Audio play failed:", err));
-            audioBtn.classList.add('playing');
-            audioBtn.innerHTML = '<i class="fas fa-volume-up"></i>';
-        }
-        isPlaying = !isPlaying;
-    });
-};
-
-// --- Parallax Logic (DISABLED - Causes CLS) ---
-// The parallax effect was causing layout shifts (CLS score 0.188)
-// by applying transforms to .hero-bg during page load and scroll
-// Commenting out to maintain visual consistency and improve Lighthouse scores
-const initParallax = () => {
-    // Parallax disabled - no longer applying transforms to hero background
-    console.log('Parallax effect disabled (was causing CLS)');
-};
-
-
-// Mobile menu is now always visible, no toggle needed
-const createMobileMenu = () => {
-    // Navigation is responsive via CSS - no JS needed
-};
-
-// Track download clicks for analytics (optional)
-document.querySelectorAll('.btn').forEach(button => {
-    button.addEventListener('click', (e) => {
-        const bookTitle = e.target.closest('.book-card')?.querySelector('.book-title')?.textContent;
-        const linkType = e.target.classList.contains('btn-primary') ? 'PDF Download' : 'External Link';
-        
-        console.log(`User clicked: ${linkType} for ${bookTitle}`);
-    });
-});
-
-// Add loading state for external links
-document.querySelectorAll('a[target="_blank"]').forEach(link => {
-    link.addEventListener('click', function() {
-        this.style.opacity = '0.6';
-        setTimeout(() => {
-            this.style.opacity = '1';
-        }, 300);
-    });
-});
-
-// --- Particle/Sparkle Effect for Hero Section ---
-// Optimized to batch DOM insertions and avoid reflows during initialization
-const initParticles = () => {
-    const heroSection = document.querySelector('.hero');
-    if (!heroSection) return;
-    
-    // Create particles container
-    const particlesContainer = document.createElement('div');
-    particlesContainer.className = 'particles-container';
-    
-    // Create all particles in a document fragment (off-DOM) to avoid reflows
-    const fragment = document.createDocumentFragment();
-    const particleCount = 30;
-    
-    for (let i = 0; i < particleCount; i++) {
-        const particle = document.createElement('div');
-        particle.className = 'particle';
-        
-        // Random starting position
-        const startX = Math.random() * 100;
-        const startY = Math.random() * 100;
-        particle.style.left = `${startX}%`;
-        particle.style.top = `${startY}%`;
-        
-        // Random delay and duration
-        const delay = Math.random() * 8;
-        const duration = 6 + Math.random() * 4;
-        particle.style.animationDelay = `${delay}s`;
-        particle.style.animationDuration = `${duration}s`;
-        
-        // Random size
-        const size = 2 + Math.random() * 3;
-        particle.style.width = `${size}px`;
-        particle.style.height = `${size}px`;
-        
-        // Add to fragment instead of DOM
-        fragment.appendChild(particle);
-    }
-    
-    // Insert all particles at once
-    particlesContainer.appendChild(fragment);
-    heroSection.appendChild(particlesContainer);
 };

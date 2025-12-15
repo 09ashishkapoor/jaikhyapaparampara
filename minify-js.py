@@ -1,8 +1,14 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 Simple JavaScript minification
 """
 import re
+import sys
+
+# Ensure UTF-8 output for Windows console
+if sys.platform == 'win32':
+    sys.stdout.reconfigure(encoding='utf-8')
 
 with open('script.js', 'r', encoding='utf-8') as f:
     js = f.read()
@@ -25,5 +31,5 @@ js = js.strip()
 with open('script.min.js', 'w', encoding='utf-8') as f:
     f.write(js)
 
-print(f"✓ JavaScript minified: {len(js)} bytes")
+print(f"JavaScript minified: {len(js)} bytes")
 

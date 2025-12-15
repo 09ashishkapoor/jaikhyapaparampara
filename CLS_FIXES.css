@@ -1,0 +1,399 @@
+/* ============================================================================
+   CLS FIXES FOR HERO SECTION & NAV-CONTROLS
+   Apply these changes to styles.css to reduce layout shifts
+   ============================================================================ */
+
+/* SECTION 1: HERO SECTION FIXES
+   ========================================================================== */
+
+/* Fix 1: Lock hero section height to viewport */
+.hero {
+    position: relative;
+    height: 100vh;  /* Changed from min-height: 100vh */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;  /* Remove padding from .hero itself */
+    text-align: center;
+    overflow: hidden;
+    color: var(--text-light);
+    contain: paint layout;
+    background-attachment: fixed;
+}
+
+/* Fix 2: Move padding to hero-content to prevent height overflow */
+.hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 6rem 1.5rem 8rem 1.5rem;  /* Moved padding here */
+    animation: none;
+    contain: content;
+    width: 100%;
+    /* Reserve minimum space */
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Fix 3: Reserve space for hero title with explicit height */
+.hero-title {
+    font-family: 'Philosopher', 'Trebuchet MS', Arial, sans-serif;
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--accent-color);
+    margin-bottom: 1.5rem;
+    line-height: 1.15;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+    animation: none;
+    letter-spacing: 0.5px;
+    contain: layout;
+    will-change: auto;
+    /* Reserve space for text to prevent reflow on font load */
+    min-height: 3.45rem;  /* 3rem * 1.15 line-height */
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* Fix 4: Hero subtitle spacing */
+.hero-subtitle {
+    font-size: 1.5rem;
+    color: var(--text-light);
+    margin-bottom: 1rem;
+    line-height: 1.6;
+    font-weight: 400;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
+    animation: none;
+    letter-spacing: 0.3px;
+    /* Reserve minimum height */
+    min-height: 2.4rem;  /* 1.5rem * 1.6 */
+}
+
+/* Fix 5: Author text spacing */
+.hero-author {
+    font-size: 1.2rem;
+    color: var(--accent-bright);
+    margin-bottom: 2rem;
+    font-style: italic;
+    font-weight: 600;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
+    animation: none;
+    /* Reserve minimum height */
+    min-height: 1.2rem;
+}
+
+/* Fix 6: Image container dimensions - CRITICAL */
+.divine-image {
+    width: 200px;
+    height: 200px;
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+    flex-shrink: 0;  /* Prevent shrinking */
+}
+
+.divine-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+/* Fix 7: Picture elements should also reserve space */
+.divine-image picture {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+/* Fix 8: Hero background - prevent height shifts */
+.hero-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;  /* Changed from 100vh to 100% to match hero height */
+    min-height: auto;  /* Remove min-height */
+    z-index: 1;
+    background: var(--temple-gradient);
+    background-attachment: fixed;
+    will-change: auto;
+    transition: none;
+    transform: translateZ(0);
+    contain: strict;
+    pointer-events: none;
+}
+
+/* Fix 9: Divine presence container sizing */
+.divine-presence {
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.divine-caption {
+    font-size: 1rem;
+    color: var(--text-dark);
+    max-width: 600px;
+    margin-bottom: 1rem;
+}
+
+.divine-connector {
+    width: 2px;
+    height: 20px;
+    background: rgba(232, 196, 104, 0.3);
+    margin: 0.5rem 0;
+}
+
+.divine-labels {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    color: var(--text-dark);
+    letter-spacing: 0.2px;
+}
+
+/* Fix 10: Scroll indicator - prevent shift */
+.scroll-indicator {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    animation: bounce 2s infinite;
+    flex-shrink: 0;
+}
+
+.scroll-indicator span {
+    font-size: 0.9rem;
+    color: var(--accent-color);
+    white-space: nowrap;
+}
+
+/* SECTION 2: NAV-CONTROLS FIXES
+   ========================================================================== */
+
+/* Fix 11: Nav controls - prevent reflow on language switch */
+.nav-controls {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    flex-wrap: nowrap;  /* Prevent wrapping */
+}
+
+/* Fix 12: Language toggle container */
+.lang-toggle {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    flex-shrink: 0;  /* Critical: prevent shrinking */
+}
+
+/* Fix 13: Language buttons - CRITICAL - lock dimensions */
+.lang-btn {
+    background: transparent;
+    border: 2px solid rgba(232, 196, 104, 0.3);
+    color: var(--text-light);
+    padding: 0;  /* Remove padding, use explicit width/height */
+    font-size: 0.95rem;
+    font-weight: 700;
+    font-family: 'Philosopher', 'Trebuchet MS', Arial, sans-serif;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    /* CRITICAL: Lock dimensions to prevent button shift */
+    width: 85px;
+    height: 44px;
+    min-width: 85px;
+    min-height: 44px;
+    max-width: 85px;
+    max-height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: capitalize;
+    letter-spacing: 0.3px;
+    white-space: nowrap;
+    flex-shrink: 0;  /* Prevent button from shrinking */
+}
+
+.lang-btn:hover {
+    border-color: var(--accent-color);
+    background: rgba(232, 196, 104, 0.1);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(232, 196, 104, 0.2);
+}
+
+.lang-btn.active {
+    background: linear-gradient(135deg, rgba(232, 196, 104, 0.2) 0%, rgba(139, 38, 53, 0.1) 100%);
+    border-color: var(--accent-color);
+    box-shadow: 0 0 15px rgba(232, 196, 104, 0.3);
+}
+
+/* Fix 14: Audio toggle button - lock dimensions */
+#audio-toggle {
+    width: 44px;
+    height: 44px;
+    min-width: 44px;
+    min-height: 44px;
+    max-width: 44px;
+    max-height: 44px;
+    background: transparent;
+    border: 2px solid rgba(232, 196, 104, 0.3);
+    color: var(--text-light);
+    cursor: pointer;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    flex-shrink: 0;  /* Prevent button from shrinking */
+}
+
+#audio-toggle:hover {
+    border-color: var(--accent-color);
+    background: rgba(232, 196, 104, 0.1);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(232, 196, 104, 0.2);
+}
+
+#audio-toggle.active {
+    background: linear-gradient(135deg, rgba(232, 196, 104, 0.2) 0%, rgba(139, 38, 53, 0.1) 100%);
+    border-color: var(--accent-color);
+    box-shadow: 0 0 15px rgba(232, 196, 104, 0.3);
+}
+
+/* SECTION 3: FONT LOADING OPTIMIZATION
+   ========================================================================== */
+
+/* Ensure font-display: swap is set on all web fonts */
+@font-face {
+    font-family: 'Philosopher';
+    font-display: swap;  /* Use fallback immediately, swap when loaded */
+}
+
+/* Override to ensure font-display for safer loading */
+body {
+    font-family: 'Crimson Text', Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    color: var(--text-dark);
+    background-color: var(--light-bg);
+    background-image: 
+        linear-gradient(rgba(0, 0, 0, 0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0, 0, 0, 0.03) 1px, transparent 1px);
+    background-size: 40px 40px;
+    overflow-x: hidden;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size-adjust: from-font;  /* Normalize font metrics */
+}
+
+h1, h2, h3, .hero-title {
+    font-size-adjust: from-font;  /* Normalize heading metrics */
+}
+
+/* SECTION 4: RESPONSIVE ADJUSTMENTS FOR MOBILE
+   ========================================================================== */
+
+@media (max-width: 768px) {
+    .hero {
+        height: auto;  /* Use auto on mobile for flexibility */
+        min-height: 80vh;
+        padding: 3rem 0;
+    }
+
+    .hero-content {
+        padding: 3rem 1.5rem;
+    }
+
+    .hero-title {
+        font-size: 2rem;
+        min-height: 2.3rem;  /* Adjust for smaller font */
+    }
+
+    .hero-subtitle {
+        font-size: 1.1rem;
+        min-height: 1.76rem;
+    }
+
+    .divine-image {
+        width: 150px;
+        height: 150px;
+    }
+
+    .nav-controls {
+        gap: 1rem;
+    }
+
+    .lang-btn {
+        width: 75px;
+        height: 40px;
+        min-width: 75px;
+        min-height: 40px;
+        max-width: 75px;
+        max-height: 40px;
+        font-size: 0.85rem;
+    }
+
+    #audio-toggle {
+        width: 40px;
+        height: 40px;
+        min-width: 40px;
+        min-height: 40px;
+        max-width: 40px;
+        max-height: 40px;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-title {
+        font-size: 1.5rem;
+        min-height: 1.725rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1rem;
+        min-height: 1.6rem;
+    }
+
+    .divine-image {
+        width: 120px;
+        height: 120px;
+    }
+
+    .lang-btn {
+        width: 65px;
+        height: 36px;
+        min-width: 65px;
+        min-height: 36px;
+        max-width: 65px;
+        max-height: 36px;
+        font-size: 0.8rem;
+    }
+}
+
+/* ============================================================================
+   VERIFICATION CHECKLIST
+   ============================================================================
+   After applying these fixes, verify:
+   
+   ☐ Hero section height is locked (no overflow)
+   ☐ Images load without causing layout shift
+   ☐ Language buttons don't change size when clicked
+   ☐ Audio button alignment is stable
+   ☐ Font loading doesn't cause text reflow (use DevTools Network > Slow 3G)
+   ☐ Mobile responsiveness maintained
+   ☐ Lighthouse CLS score improved to < 0.1
+   
+   ============================================================================ */

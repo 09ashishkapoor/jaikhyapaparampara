@@ -80,6 +80,11 @@
     border: 0 !important;
 }
 
+html {
+    height: auto;
+    min-height: 100vh;
+}
+
 body {
     /* Add robust fallback stack and slightly tighter line-height to reduce layout shifts when webfonts load */
     font-family: 'Crimson Text', Georgia, 'Times New Roman', Times, serif;
@@ -92,12 +97,20 @@ body {
         linear-gradient(90deg, rgba(0, 0, 0, 0.03) 1px, transparent 1px);
     background-size: 40px 40px;
     overflow-x: hidden;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
+}
+
+main {
+    flex: 1;
+    width: 100%;
 }
 
 /* Header & Navigation */
@@ -163,6 +176,62 @@ body {
     animation: slideIn 0.3s ease-out;
 }
 
+/* Language Toggle Styles */
+.nav-controls {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.lang-toggle {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+.lang-btn {
+    background: transparent;
+    border: 2px solid rgba(232, 196, 104, 0.3);
+    color: var(--text-light);
+    padding: 0.5rem 1rem;
+    font-size: 0.95rem;
+    font-weight: 700;
+    font-family: 'Philosopher', 'Trebuchet MS', Arial, sans-serif;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    min-width: 70px;
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: capitalize;
+    letter-spacing: 0.3px;
+    white-space: nowrap;
+    /* CRITICAL: Prevent CLS from active state changes */
+    line-height: 1.2;
+}
+
+.lang-btn:hover {
+    border-color: var(--accent-color);
+    background: rgba(232, 196, 104, 0.1);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(232, 196, 104, 0.2);
+}
+
+.lang-btn.active {
+    background: var(--gold-gradient);
+    color: var(--primary-dark);
+    border-color: var(--accent-bright);
+    box-shadow: 0 4px 15px rgba(232, 196, 104, 0.4);
+    font-weight: 800;
+}
+
+.lang-btn:focus {
+    outline: 2px solid var(--accent-color);
+    outline-offset: 2px;
+}
+
 @keyframes slideIn {
     from {
         width: 0;
@@ -184,23 +253,27 @@ body {
 .hero {
     position: relative;
     min-height: 100vh;
+    height: auto;
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 6rem 0 8rem 0;
     text-align: center;
-    overflow: hidden;
+    overflow: visible;
     color: var(--text-light);
-    contain: layout; /* Layout containment only - prevents child reflow */
+    background-attachment: fixed;
 }
 
 .hero-content {
     position: relative;
     z-index: 2;
     max-width: 1000px;
+    width: 100%;
     margin: 0 auto;
     padding: 0 1.5rem;
-    animation: none; /* Disable initial animation to prevent CLS */
+    animation: fadeInUp 1s ease-out 0.3s both;
+    /* Reserve space to prevent layout shift from particles and animations */
+    min-height: 300px;
 }
 
 @keyframes fadeInUp {
@@ -224,11 +297,14 @@ body {
     margin-bottom: 1.5rem;
     line-height: 1.15;
     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
-    animation: none; /* Disabled to prevent CLS */
+    animation: fadeInUp 0.8s ease-out 0.4s both;
     letter-spacing: 0.5px;
-    contain: strict; /* Strict containment - h2 is isolated element */
     will-change: auto; /* Remove will-change */
-}}
+    /* CRITICAL: Prevent font metric changes during swap */
+    min-height: 3.45rem;
+    /* Ensure consistent height even with different fonts */
+    display: block;
+}
 
 .hero-subtitle {
     font-size: 1.5rem;
@@ -237,8 +313,11 @@ body {
     line-height: 1.6;
     font-weight: 400;
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
-    animation: none; /* Disabled to prevent CLS */
+    animation: fadeInUp 0.8s ease-out 0.5s both;
     letter-spacing: 0.3px;
+    /* Reserve space to prevent shift when font loads */
+    min-height: 2.4rem;
+    display: block;
 }
 
 .hero-author {
@@ -248,7 +327,10 @@ body {
     font-style: italic;
     font-weight: 600;
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
-    animation: none; /* Disabled to prevent CLS */
+    animation: fadeInUp 0.8s ease-out 0.6s both;
+    /* Reserve space to prevent shift when font loads */
+    min-height: 1.8rem;
+    display: block;
 }
 
 .hero-blessing {
@@ -268,14 +350,15 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    height: 100vh; /* Fixed viewport height instead of 130% to prevent shift */
+    height: 100%;
+    min-height: 100vh;
     z-index: 1;
     background: var(--temple-gradient);
-    will-change: auto; /* Remove will-change - causes reflow */
-    transition: none; /* Remove transition - causes layout recalc */
-    transform: translateZ(0); /* Enable GPU acceleration */
-    contain: layout paint; /* Strict containment to prevent layout recalc */
-    pointer-events: none; /* Prevent interaction */
+    background-attachment: fixed;
+    will-change: auto;
+    transition: none;
+    transform: translateZ(0);
+    pointer-events: none;
 }
 
 /* Parallax layer for enhanced depth - REMOVED to prevent layout shift */
@@ -315,7 +398,7 @@ body {
     height: 100%;
     z-index: 4;
     pointer-events: none;
-    overflow: hidden;
+    overflow: visible;
 }
 
 .particle {
@@ -326,6 +409,8 @@ body {
     border-radius: 50%;
     opacity: 0;
     animation: particleFloat 8s infinite ease-in-out;
+    /* Prevent particle repaints from affecting layout */
+    will-change: transform, opacity;
     box-shadow: 0 0 6px rgba(232, 196, 104, 0.8);
 }
 
@@ -414,6 +499,7 @@ body {
     align-items: center;
     margin-top: 3rem;
     gap: 1.5rem;
+    width: 100%;
 }
 
 @media (min-width: 769px) {
@@ -427,6 +513,7 @@ body {
 .divine-image {
     width: 200px;
     height: 200px;
+    aspect-ratio: 1 / 1;
     border-radius: 50%;
     overflow: hidden;
     position: relative;
@@ -438,6 +525,8 @@ body {
         0 0 70px rgba(184, 147, 90, 0.25),
         inset 0 0 30px rgba(13, 5, 6, 0.4);
     margin: 0 auto;
+    flex-shrink: 0;
+    animation: divineGlowIdle 3s ease-in-out infinite;
 }
 
 .divine-image:hover {
@@ -447,6 +536,21 @@ body {
         0 0 100px rgba(184, 147, 90, 0.4),
         inset 0 0 30px rgba(13, 5, 6, 0.3);
     animation: divineGlow 2s infinite ease-in-out;
+}
+
+@keyframes divineGlowIdle {
+    0%, 100% {
+        box-shadow: 
+            0 0 35px rgba(232, 196, 104, 0.4),
+            0 0 70px rgba(184, 147, 90, 0.25),
+            inset 0 0 30px rgba(13, 5, 6, 0.4);
+    }
+    50% {
+        box-shadow: 
+            0 0 45px rgba(232, 196, 104, 0.5),
+            0 0 85px rgba(184, 147, 90, 0.35),
+            inset 0 0 30px rgba(13, 5, 6, 0.35);
+    }
 }
 
 @keyframes divineGlow {
@@ -467,20 +571,28 @@ body {
 .divine-image img {
     width: 100%;
     height: 100%;
+    aspect-ratio: 1 / 1;
     object-fit: cover;
+    display: block;
 }
 
 .divine-connector {
     height: 40px;
     width: 2px;
     background: linear-gradient(to bottom, var(--accent-color), transparent);
+    flex-shrink: 0;
+    align-self: center;
+    margin: 0 auto;
 }
 
 .divine-caption {
     font-style: italic;
     color: var(--accent-color);
     margin-bottom: 1.5rem;
+    margin-top: 0;
     font-size: 1.1rem;
+    width: 100%;
+    line-height: 1.5;
     text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
 }
 
@@ -620,6 +732,9 @@ body {
     display: flex;
     align-items: center;
     gap: 2rem;
+    /* CRITICAL: Prevent CLS from dynamic content */
+    min-width: 200px;
+    justify-content: flex-end;
 }
 
 #audio-toggle {
@@ -629,6 +744,12 @@ body {
     font-size: 1.5rem;
     cursor: pointer;
     transition: transform 0.3s ease;
+    /* Reserve space to prevent layout shift */
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #audio-toggle:hover {
@@ -1445,6 +1566,21 @@ body {
 
 /* Responsive Design for Enhanced FAQ */
 @media (max-width: 768px) {
+    .nav-controls {
+        gap: 1rem;
+    }
+    
+    .lang-toggle {
+        gap: 0.35rem;
+    }
+    
+    .lang-btn {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.95rem;
+        min-width: 45px;
+        min-height: 44px;
+    }
+    
     .faq-grid {
         max-width: 100%;
         gap: 1rem;
@@ -1489,6 +1625,16 @@ body {
 }
 
 @media (max-width: 480px) {
+    .lang-toggle {
+        gap: 0.3rem;
+    }
+    
+    .lang-btn {
+        padding: 0.35rem 0.7rem;
+        font-size: 0.9rem;
+        min-width: 42px;
+    }
+    
     .faq-question {
         padding: 1rem;
         font-size: 1rem;
@@ -1523,10 +1669,23 @@ body {
 .footer {
     background: linear-gradient(135deg, #0D0506 0%, #1F0B11 50%, #0D0506 100%);
     color: var(--text-light);
-    padding: 2.5rem 0;
+    padding: 2.5rem 0 3rem 0;
     text-align: center;
     box-shadow: 0 -4px 25px var(--shadow-colored);
     border-top: 1.5px solid var(--border-gold);
+    min-height: auto;
+    width: 100%;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    margin-top: auto;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 .footer-blessing {
@@ -1535,12 +1694,15 @@ body {
     margin-bottom: 0.75rem;
     color: var(--accent-color);
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 .footer-copyright {
     font-size: 1rem;
     opacity: 1;
     color: var(--text-light);
+    word-wrap: break-word;
 }
 
 .footer-description {
@@ -1549,6 +1711,8 @@ body {
     margin-bottom: 0.75rem;
     font-style: italic;
     color: var(--text-dark);
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 .footer-meta {
@@ -1556,6 +1720,8 @@ body {
     opacity: 1;
     margin-bottom: 1rem;
     color: var(--text-dark);
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 .footer-version,
@@ -1564,6 +1730,7 @@ body {
     opacity: 0.9;
     margin: 0.3rem 0;
     color: var(--text-dark);
+    word-wrap: break-word;
 }
 
 .footer-version span,
@@ -1613,10 +1780,12 @@ body {
     .nav {
         flex-wrap: wrap;
         justify-content: space-between;
+        align-items: flex-start;
     }
 
     .logo h1 {
         font-size: 1.4rem;
+        word-break: break-word;
     }
 
     .nav-controls {
@@ -1624,6 +1793,9 @@ body {
         align-items: center;
         gap: 1rem;
         order: 2;
+        min-height: 44px;
+        /* CRITICAL: Prevent CLS from dynamic resizing */
+        min-width: 120px;
     }
 
     .nav-menu {
@@ -1632,42 +1804,61 @@ body {
         width: 100%;
         flex-direction: row;
         justify-content: center;
-        gap: 1.5rem;
+        gap: 1rem;
         padding-top: 0.5rem;
+        flex-wrap: wrap;
     }
 
     .nav-menu a {
-        font-size: 1rem;
-        padding: 0.5rem 1rem;
-        min-height: 44px; /* Better touch target */
+        font-size: 0.95rem;
+        padding: 0.5rem 0.8rem;
+        min-height: 44px;
+        min-width: 44px;
         display: flex;
         align-items: center;
         justify-content: center;
+        white-space: nowrap;
     }
 
     /* Hero Section Mobile */
     .hero {
-        min-height: auto;
-        padding: 4rem 0 6rem 0;
+        min-height: 100vh;
+        height: auto;
+        padding: 3rem 0 5rem 0;
+    }
+
+    .hero-bg {
+        height: 100%;
+        min-height: 100vh;
     }
 
     .hero-content {
         padding: 0 1rem;
+        /* CRITICAL: Maintain space for content to prevent CLS */
+        min-height: 250px;
     }
 
     .hero-title {
         font-size: 2rem;
         margin-bottom: 1rem;
+        word-break: break-word;
+        /* Reserve height for font swaps */
+        min-height: 2.3rem;
     }
 
     .hero-subtitle {
         font-size: 1.2rem;
         margin-bottom: 0.75rem;
+        word-break: break-word;
+        /* Reserve height for font swaps */
+        min-height: 1.92rem;
     }
 
     .hero-author {
         font-size: 1rem;
         margin-bottom: 1.5rem;
+        /* Reserve height for font swaps */
+        min-height: 1.5rem;
     }
 
     .hero-blessing {
@@ -1776,21 +1967,28 @@ body {
         padding: 0 0.75rem;
     }
 
+    .header {
+        padding: 0.5rem 0;
+    }
+
     .logo h1 {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
+        word-break: break-word;
     }
 
     .nav-menu {
-        gap: 1rem;
-        font-size: 0.9rem;
+        gap: 0.75rem;
+        font-size: 0.85rem;
     }
 
     .nav-menu a {
-        font-size: 0.9rem;
+        font-size: 0.85rem;
+        padding: 0.4rem 0.6rem;
+        min-width: 40px;
     }
 
     #audio-toggle {
-        font-size: 1.3rem;
+        font-size: 1.2rem;
         min-width: 44px;
         min-height: 44px;
         display: flex;
@@ -1800,35 +1998,52 @@ body {
 
     /* Hero Section Small Mobile */
     .hero {
-        padding: 3rem 0 5rem 0;
+        padding: 2.5rem 0 4rem 0;
+        min-height: 100vh;
+        height: auto;
+    }
+
+    .hero-bg {
+        height: 100%;
+        min-height: 100vh;
     }
 
     .hero-content {
         padding: 0 0.75rem;
+        /* CRITICAL: Reserve height to prevent CLS on small screens */
+        min-height: 200px;
     }
 
     .hero-title {
-        font-size: 1.6rem;
+        font-size: 1.5rem;
         margin-bottom: 0.75rem;
+        word-break: break-word;
+        /* Reserve height for font swaps on small screens */
+        min-height: 1.725rem;
     }
 
     .hero-subtitle {
         font-size: 1rem;
         margin-bottom: 0.5rem;
+        word-break: break-word;
+        /* Reserve height for font swaps on small screens */
+        min-height: 1.6rem;
     }
 
     .hero-author {
-        font-size: 0.95rem;
-        margin-bottom: 1.25rem;
+        font-size: 0.9rem;
+        margin-bottom: 1rem;
+        /* Reserve height for font swaps on small screens */
+        min-height: 1.35rem;
     }
 
     .hero-blessing {
-        font-size: 0.95rem;
-        margin: 1.25rem 0;
+        font-size: 0.9rem;
+        margin: 1rem 0;
     }
 
     .om-symbol {
-        font-size: 1.8rem;
+        font-size: 1.5rem;
     }
 
     /* Divine Images */
@@ -1839,11 +2054,11 @@ body {
     }
 
     .divine-caption {
-        font-size: 0.95rem;
+        font-size: 0.9rem;
     }
 
     .divine-labels {
-        font-size: 0.75rem;
+        font-size: 0.7rem;
     }
 
     .divine-connector {
@@ -1852,21 +2067,22 @@ body {
 
     /* Sections */
     .section-title {
-        font-size: 1.75rem;
+        font-size: 1.5rem;
     }
 
     .section-subtitle {
-        font-size: 0.95rem;
+        font-size: 0.9rem;
         margin-bottom: 1.5rem;
     }
 
     /* Books */
     .books-grid {
-        gap: 2rem;
+        gap: 1.5rem;
+        padding: 0;
     }
 
     .book-content {
-        padding: 1.5rem 1.25rem;
+        padding: 1rem;
     }
 
     .book-title {
@@ -1917,15 +2133,56 @@ body {
 
     /* Footer */
     .footer {
-        padding: 1.5rem 0;
+        padding: 2rem 1rem;
+    }
+
+    .footer-content {
+        gap: 0.5rem;
     }
 
     .footer-blessing {
         font-size: 1rem;
+        margin-bottom: 0.5rem;
+        line-height: 1.4;
     }
 
     .footer-copyright {
         font-size: 0.9rem;
+    }
+
+    .footer-description {
+        font-size: 0.95rem;
+        margin-bottom: 0.5rem;
+        line-height: 1.3;
+    }
+
+    .footer-meta {
+        font-size: 0.9rem;
+        margin-bottom: 0.75rem;
+        line-height: 1.3;
+    }
+
+    .footer-version,
+    .footer-updated {
+        font-size: 0.85rem;
+        margin: 0.25rem 0;
+        line-height: 1.2;
+    }
+
+    .footer-description {
+        font-size: 0.95rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .footer-meta {
+        font-size: 0.9rem;
+        margin-bottom: 0.75rem;
+    }
+
+    .footer-version,
+    .footer-updated {
+        font-size: 0.85rem;
+        margin: 0.25rem 0;
     }
 
     /* Scroll Indicator */
@@ -2207,6 +2464,22 @@ section {
 }
 
 .faq-block[open] .faq-block-header::after { transform: rotate(180deg); }
+
+/* FAQ Animation Classes */
+@keyframes faqFadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.faq-block.animated {
+    animation: faqFadeInUp 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.1) forwards;
+}
 
 .faq-icon {
     width: 48px;
@@ -3779,6 +4052,40 @@ section {
     
     .point-icon {
         margin: 0 auto;
+    }
+
+    /* Footer Mobile */
+    .footer {
+        padding: 1.5rem 0.75rem;
+    }
+
+    .footer-content {
+        gap: 0.35rem;
+    }
+
+    .footer-blessing {
+        font-size: 0.9rem;
+        margin-bottom: 0.4rem;
+        line-height: 1.4;
+    }
+
+    .footer-description {
+        font-size: 0.85rem;
+        margin-bottom: 0.4rem;
+        line-height: 1.3;
+    }
+
+    .footer-meta {
+        font-size: 0.8rem;
+        margin-bottom: 0.5rem;
+        line-height: 1.3;
+    }
+
+    .footer-version,
+    .footer-updated {
+        font-size: 0.75rem;
+        margin: 0.2rem 0;
+        line-height: 1.2;
     }
 }
 }

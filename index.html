@@ -10,11 +10,12 @@
     <meta name="robots" content="index, follow">
     
     <!-- Build tracking - UPDATE THESE when you make changes to the site -->
-    <meta name="build-version" content="1.6">
-    <meta name="build-date" content="2025-12-13T02:46:36Z">
+    <meta name="build-version" content="1.7">
+    <meta name="build-date" content="2025-12-15T03:46:55Z">
     
     <link rel="canonical" href="https://jaikhyapaparampara.com/">
-    <link rel="alternate" href="https://jaikhyapaparampara.com/" hreflang="en-US">
+    <link rel="alternate" href="https://jaikhyapaparampara.com/" hreflang="en">
+    <link rel="alternate" href="https://jaikhyapaparampara.com/" hreflang="hi">
     <link rel="alternate" href="https://jaikhyapaparampara.com/" hreflang="x-default">
 
     <!-- PWA & Mobile -->
@@ -30,8 +31,8 @@
     <meta name="copyright" content="KaliPutra-Ashish">
     <meta name="revisit-after" content="7 days">
 
-    <!-- Google tag (gtag.js) - G-KCVSN3F2DL (deferred to reduce unused JS) -->
-    <script defer src="https://www.googletagmanager.com/gtag/js?id=G-KCVSN3F2DL"></script>
+    <!-- Google tag (gtag.js) - G-KCVSN3F2DL (async for better performance) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KCVSN3F2DL"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
@@ -72,7 +73,8 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
 .hero{position:relative;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:6rem 0 8rem 0;text-align:center;overflow:hidden;color:var(--text-light);}
 .hero-content{position:relative;z-index:2;max-width:1000px;margin:0 auto;padding:0 1.5rem;}
 .hero-title{font-family:'Philosopher',sans-serif;font-size:3rem;font-weight:700;color:var(--accent-color);margin-bottom:1.5rem;line-height:1.2;text-shadow:2px 2px 8px rgba(0,0,0,0.7);}
-.hero-bg{position:absolute;top:0;left:0;width:100%;height:130%;z-index:1;background:var(--temple-gradient);transform:translateZ(0);}
+.hero-bg{position:absolute;top:0;left:0;width:100%;height:100vh;z-index:1;background:var(--temple-gradient);transform:translateZ(0);}
+@media(max-width:768px){.hero-bg{height:100vh;}}
     </style>
     <style>
     /* Inline overrides and small FAQ helpers */
@@ -90,6 +92,14 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
     <!-- Load main stylesheet non-blocking: preload then switch to stylesheet -->
     <link rel="preload" href="styles.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="styles.min.css"></noscript>
+    
+    <!-- Font loading optimization: reduce layout shift during font swap -->
+    <style>
+        @supports (font-size-adjust: from-font) {
+            body { font-size-adjust: from-font; }
+            h1, h2, h3, .hero-title { font-size-adjust: from-font; }
+        }
+    </style>
 
     <!-- Fonts: preconnect then preload stylesheet to avoid render-blocking -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -102,12 +112,34 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
     
     <!-- CRITICAL: Prevent CLS during font load and initial paint -->
     <style>
-        /* Disable problematic animations during initial load to prevent CLS */
-        .hero-bg { animation: none !important; }
-        .hero-title { animation: none !important; }
-        .hero-subtitle { animation: none !important; }
-        .hero-author { animation: none !important; }
-        .hero-blessing { animation: none !important; }
+        /* Optimize animations to prevent CLS while maintaining visual effects */
+        .hero-bg { will-change: auto; }
+        .hero-title { will-change: auto; }
+        .hero-subtitle { will-change: auto; }
+        .hero-author { will-change: auto; }
+        .hero-blessing { will-change: auto; }
+        
+        /* Lock hero text dimensions during font swap - CRITICAL FOR CLS */
+        .hero-title {
+            font-size: 3rem !important;
+            line-height: 1.15 !important;
+            font-weight: 700 !important;
+            min-height: 11rem;
+        }
+        
+        .hero-subtitle {
+            font-size: 1.5rem !important;
+            line-height: 1.6 !important;
+            font-weight: 400 !important;
+            min-height: 4.8rem;
+        }
+        
+        .hero-author {
+            font-size: 1.2rem !important;
+            line-height: 1.5 !important;
+            font-weight: 600 !important;
+            min-height: 1.8rem;
+        }
         
         /* Font metrics: prevent metric changes during font swap */
         @supports (font-size-adjust: from-font) {
@@ -115,15 +147,31 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
             body { font-size-adjust: from-font; }
         }
         
-        /* Ensure hero-bg takes exact viewport height, no overflow */
+        /* Ensure hero-bg extends to cover all content */
         .hero-bg {
-            height: 100vh !important;
+            height: 100% !important;
             top: 0 !important;
             bottom: auto !important;
             overflow: hidden !important;
+            min-height: 100vh !important;
+        }
+        
+        /* Image dimension lockdown to prevent lazy load CLS */
+        .divine-image {
+            width: 200px !important;
+            height: 200px !important;
+            aspect-ratio: 1 / 1 !important;
+            flex-shrink: 0 !important;
+        }
+        
+        .divine-image img {
+            aspect-ratio: 1 / 1 !important;
+            display: block !important;
         }
     </style>
     <link rel="preload" as="image" href="uywjs16z45454.jpg">
+    <link rel="preload" as="image" href="Bama_Khepa.jpg">
+    <link rel="preload" as="image" href="Shyama_Khepa.jpg">
     <!-- Minimal icon CSS (replaces Font Awesome, saves 18+ KiB) - INLINED to eliminate render-blocking -->
     <style>
         /* Minimal Icon Library - Only required icons for this site */
@@ -338,14 +386,18 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
                     <h1>Jai Khyapa Parampara</h1>
                 </div>
                 <div class="nav-controls">
+                    <div class="lang-toggle">
+                        <button class="lang-btn active" data-lang="en" aria-label="Switch to English">English</button>
+                        <button class="lang-btn" data-lang="hi" aria-label="Switch to Hindi">हिन्दी</button>
+                    </div>
                     <button id="audio-toggle" aria-label="Toggle Temple Ambience">
                         <i class="fas fa-music"></i>
                     </button>
                     <ul class="nav-menu">
-                        <li><a href="#home">Home</a></li>
-                        <li><a href="#sacred-texts">Sacred Texts</a></li>
-                        <li><a href="#faq">FAQ</a></li>
-                        <li><a href="#about">About</a></li>
+                        <li><a href="#home" data-translate="nav-home">Home</a></li>
+                        <li><a href="#sacred-texts" data-translate="nav-texts">Sacred Texts</a></li>
+                        <li><a href="#faq" data-translate="nav-faq">FAQ</a></li>
+                        <li><a href="#about" data-translate="nav-about">About</a></li>
                     </ul>
                 </div>
             </nav>
@@ -363,50 +415,50 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
         <div class="hero-bg"></div>
         <div class="container">
             <div class="hero-content">
-                <h2 class="hero-title">A Flower at the Guru's Feet</h2>
-                <p class="hero-subtitle">Curated with love for all seekers, drawing from the eternal wisdom of the Khyapa Parampara</p>
-                <p class="hero-author">Compiled by KaliPutra-Ashish</p>
+                <h2 class="hero-title" data-translate="hero-title">A Flower at the Guru's Feet</h2>
+                <p class="hero-subtitle" data-translate="hero-subtitle">Curated with love for all seekers, drawing from the eternal wisdom of the Khyapa Parampara</p>
+                <p class="hero-author" data-translate="hero-author">Compiled by KaliPutra-Ashish</p>
                 <div class="hero-blessing">
-                    <p class="om-symbol">🕉️</p>
-                    <p>Om Shri Gurubhyo Namaha</p>
-                    <p>Jai Khyapa Parampara</p>
+                    <p class="om-symbol" data-translate="hero-om">🕉️</p>
+                    <p data-translate="hero-blessing-1">Om Shri Gurubhyo Namaha</p>
+                    <p data-translate="hero-blessing-2">Jai Khyapa Parampara</p>
                 </div>
                 
                 <div class="divine-presence">
-                    <p class="divine-caption">Under the eternal gaze of Ma Adya Mahakali, and the blessings of the Khyapas</p>
+                    <p class="divine-caption" data-translate="hero-caption">Under the eternal gaze of Ma Adya Mahakali, and the blessings of the Khyapas</p>
                     <div class="divine-image mother">
                         <picture>
                             <source srcset="uywjs16z45454.webp" type="image/webp">
-                            <img src="uywjs16z45454.jpg" alt="Adya Mahakali - The Divine Mother Goddess of Khyapa Parampara Sahasranama" width="200" height="200" loading="lazy">
+                            <img src="uywjs16z45454.jpg" alt="Adya Mahakali - The Divine Mother Goddess of Khyapa Parampara Sahasranama" width="200" height="200" loading="eager">
                         </picture>
                     </div>
                     <div class="divine-connector"></div>
                     <div class="divine-image son">
                         <picture>
                             <source srcset="Bama_Khepa.webp" type="image/webp">
-                            <img src="Bama_Khepa.jpg" alt="Guru Bama Khepa - Spiritual Master of Tarapith and Khyapa Parampara" width="200" height="200" loading="lazy">
+                            <img src="Bama_Khepa.jpg" alt="Guru Bama Khepa - Spiritual Master of Tarapith and Khyapa Parampara" width="200" height="200" loading="eager">
                         </picture>
                     </div>
                     <div class="divine-connector"></div>
                     <div class="divine-image grandchild">
                         <picture>
                             <source srcset="Shyama_Khepa.webp" type="image/webp">
-                            <img src="Shyama_Khepa.jpg" alt="Guru Shyama Khepa - Successor in Khyapa Parampara Spiritual Lineage" width="200" height="200" loading="lazy">
+                            <img src="Shyama_Khepa.jpg" alt="Guru Shyama Khepa - Successor in Khyapa Parampara Spiritual Lineage" width="200" height="200" loading="eager">
                         </picture>
                     </div>
                     <div class="divine-connector"></div>
                     <div class="divine-image explosion">
                         <picture>
                             <source srcset="praveen_radhakrishnan.webp" type="image/webp">
-                            <img src="praveen_radhakrishnan.jpg" alt="Shri Praveen Radhakrishnan - Torchbearer of Khyapa Parampara" width="200" height="200" loading="lazy">
+                            <img src="praveen_radhakrishnan.jpg" alt="Shri Praveen Radhakrishnan - Torchbearer of Khyapa Parampara" width="200" height="200" loading="eager">
                         </picture>
                     </div>
-                    <p class="divine-labels">The Source • The Realization • The Continuation • The Explosion</p>
+                    <p class="divine-labels" data-translate="hero-labels">The Source • The Realization • The Continuation • The Explosion</p>
                 </div>
             </div>
             
             <div class="scroll-indicator">
-                <span>Begin the Journey</span>
+                <span data-translate="hero-scroll">Begin the Journey</span>
                 <i class="fas fa-chevron-down"></i>
             </div>
         </div>
@@ -420,8 +472,8 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
     <!-- Sanctum: Sacred Texts Section -->
     <section id="sacred-texts" class="library">
         <div class="container">
-            <h2 class="section-title">Treasures for the Seeker</h2>
-            <p class="section-subtitle">Priceless Wisdom, Freely Given. Knowledge is the birthright of the soul.</p>
+            <h2 class="section-title" data-translate="texts-title">Treasures for the Seeker</h2>
+            <p class="section-subtitle" data-translate="texts-subtitle">Priceless Wisdom, Freely Given. Knowledge is the birthright of the soul.</p>
             
             <div class="books-grid">
                 <!-- Book 1: Adya Mahakali 1000 Names -->
@@ -519,43 +571,43 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
     <!-- Courtyard: About Section -->
     <section id="about" class="about">
         <div class="container">
-            <h2 class="section-title">The Scribe's Offering</h2>
+            <h2 class="section-title" data-translate="about-title">The Scribe's Offering</h2>
             <div class="about-content">
                 <div class="about-text">
-                    <p class="intro-text">
+                    <p class="intro-text" data-translate="about-intro">
                         I, KaliPutra-Ashish, am merely the flute; the breath belongs to the Lineage.
                     </p>
                     
-                    <p>
+                    <p data-translate="about-p1" data-html>
                         This digital sanctuary—a temple of knowledge—is the continuation of my vow toward eternal <em>Seva</em>. 
                         Consider every book found here as a single Red Hibiscus placed at the feet of Guru Shrestha. 
                         I have merely acted on an <em>Aadesh</em> (Divine Command).
                     </p>
 
-                    <p>
+                    <p data-translate="about-p2" data-html>
                         Every book is a labor of love, offered freely in the hope that it brings you closer to the Eternal Truth.
                         Yet, this offering is not complete. Like a garland being strung flower by flower, this temple of knowledge is a living vow (<em>Sankalpa</em>). 
                         Many more sacred works are currently in bloom, destined to be shared here in the service of Ma Adya Mahakali and the Khyapa Parampara.
                     </p>
                     
                     <div class="dedication">
-                        <h3>Dedicated to:</h3>
+                        <h3 data-translate="about-dedication-title">Dedicated to:</h3>
                         <ul>
-                            <li>Guru Shri Bamakhepa</li>
-                            <li>Guru Shri Shyamakhepa</li>
-                            <li>Shri Praveen Radhakrishnan</li>
-                            <li>The entire Khepa Parampara</li>
+                            <li data-translate="about-dedication-1">Guru Shri Bamakhepa</li>
+                            <li data-translate="about-dedication-2">Guru Shri Shyamakhepa</li>
+                            <li data-translate="about-dedication-3">Shri Praveen Radhakrishnan</li>
+                            <li data-translate="about-dedication-4">The entire Khepa Parampara</li>
                         </ul>
                     </div>
 
                     <div class="contact">
-                        <h3>Contact</h3>
+                        <h3 data-translate="about-contact-title">Contact</h3>
                         <p>
-                            The compiler, KaliPutra-Ashish, can be verified via Instagram: 
+                            <span data-translate="about-contact-p1">The compiler, KaliPutra-Ashish, can be verified via Instagram:</span> 
                             <a href="https://instagram.com/ashishkaliputra" target="_blank" rel="noopener">@ashishkaliputra</a>
                         </p>
                         <p>
-                            For inquiries: <a href="mailto:kaliputraashish@gmail.com">kaliputraashish@gmail.com</a>
+                            <span data-translate="about-contact-p2">For inquiries:</span> <a href="mailto:kaliputraashish@gmail.com">kaliputraashish@gmail.com</a>
                         </p>
                     </div>
                 </div>
@@ -567,143 +619,143 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
     <section id="faq" class="faq">
         <div class="container">
             <div class="faq-header">
-                <h2 class="section-title">Frequently Asked Questions</h2>
-                <p class="faq-subtitle">Find answers to common questions about our sacred texts and spiritual practices</p>
+                <h2 class="section-title" data-translate="faq-title">Frequently Asked Questions</h2>
+                <p class="faq-subtitle" data-translate="faq-subtitle">Find answers to common questions about our sacred texts and spiritual practices</p>
             </div>
             <div class="faq-container">
                 <!-- FAQ Item 1: Ma Adya Mahakali -->
                 <details class="faq-block" id="faq-adya" data-category="divine">
                     <summary class="faq-block-header">
-                        <h3 class="faq-heading">Who is Ma Adya Mahakali?</h3>
+                        <h3 class="faq-heading" data-translate="faq-q1">Who is Ma Adya Mahakali?</h3>
                     </summary>
                     <div class="faq-content">
-                        <p>Maa Adya Mahakali is the primordial creator, representing the ultimate reality and the source of all creation. "Adya" means "primordial" or "first," signifying her status as the original, unmanifested form of creative feminine energy. She is the embodiment of time, transformation, and the eternal cycle of creation, preservation, and dissolution.</p>
+                        <p data-translate="faq-a1-p1">Maa Adya Mahakali is the primordial creator, representing the ultimate reality and the source of all creation. "Adya" means "primordial" or "first," signifying her status as the original, unmanifested form of creative feminine energy. She is the embodiment of time, transformation, and the eternal cycle of creation, preservation, and dissolution.</p>
                         
-                        <p>As Mahakali, she transcends all forms and limitations, representing the absolute truth beyond duality. She is worshipped as the destroyer of ignorance, ego, and all internal negative forces, guiding bhaktas towards self-realization and oneness.</p>
+                        <p data-translate="faq-a1-p2">As Mahakali, she transcends all forms and limitations, representing the absolute truth beyond duality. She is worshipped as the destroyer of ignorance, ego, and all internal negative forces, guiding bhaktas towards self-realization and oneness.</p>
                     </div>
                 </details>
 
                 <!-- FAQ Item 2: Adya Mahakali Benefits -->
                 <details class="faq-block" id="faq-adya-benefits" data-category="benefits">
                     <summary class="faq-block-header">
-                        <h3 class="faq-heading">Benefits of Chanting Adya Mahakali Sahasranama(1000names)</h3>
+                        <h3 class="faq-heading" data-translate="faq-q2">Benefits of Chanting Adya Mahakali Sahasranama(1000names)</h3>
                     </summary>
                     <div class="faq-content">
-                        <h4>Spiritual Protection</h4>
-                        <p>Chanting the Sahasranama creates a protective shield around the devotee, warding off negative energies, evil influences, and spiritual obstacles on the path to enlightenment.</p>
+                        <h4 data-translate="faq-a2-h1">Spiritual Protection</h4>
+                        <p data-translate="faq-a2-p1">Chanting the Sahasranama creates a protective shield around the devotee, warding off negative energies, evil influences, and spiritual obstacles on the path to enlightenment.</p>
                         
-                        <h4>Destruction of Internal Enemies</h4>
-                        <p>Regular chanting helps eliminate internal enemies such as ego (ahamkara), anger (krodha), greed (lobha), attachment (moha), and ignorance (avidya), leading to inner purification and spiritual growth.</p>
+                        <h4 data-translate="faq-a2-h2">Destruction of Internal Enemies</h4>
+                        <p data-translate="faq-a2-p2">Regular chanting helps eliminate internal enemies such as ego (ahamkara), anger (krodha), greed (lobha), attachment (moha), and ignorance (avidya), leading to inner purification and spiritual growth.</p>
                         
-                        <h4>Removal of Fear</h4>
-                        <p>The sacred vibrations of these names help dissolve fear, anxiety, and mental afflictions, instilling courage, confidence, and inner strength in the devotee.</p>
+                        <h4 data-translate="faq-a2-h3">Removal of Fear</h4>
+                        <p data-translate="faq-a2-p3">The sacred vibrations of these names help dissolve fear, anxiety, and mental afflictions, instilling courage, confidence, and inner strength in the devotee.</p>
                         
-                        <h4>Oneness with Maa Adya (Moksha)</h4>
-                        <p>Chanting with understanding and reverence can lead to oneness with Maa Adya, breaking the cycle of birth and death, and realizing one's true nature as a manifestation of the divine.</p>
+                        <h4 data-translate="faq-a2-h4">Oneness with Maa Adya (Moksha)</h4>
+                        <p data-translate="faq-a2-p4">Chanting with understanding and reverence can lead to oneness with Maa Adya, breaking the cycle of birth and death, and realizing one's true nature as a manifestation of the divine.</p>
                         
-                        <h4>Divine Grace and Blessings</h4>
-                        <p>Regular practice invites the divine grace of Maa Adya Mahakali, bringing peace, prosperity, wisdom, and spiritual fulfillment into one's life now and in future births serving her.</p>
+                        <h4 data-translate="faq-a2-h5">Divine Grace and Blessings</h4>
+                        <p data-translate="faq-a2-p5">Regular practice invites the divine grace of Maa Adya Mahakali, bringing peace, prosperity, wisdom, and spiritual fulfillment into one's life now and in future births serving her.</p>
                     </div>
                 </details>
 
                 <!-- FAQ Item 3: Kalabhairava -->
                 <details class="faq-block" id="faq-kalabhairava">
                     <summary class="faq-block-header">
-                        <h3 class="faq-heading">Who is Kalabhairava?</h3>
+                        <h3 class="faq-heading" data-translate="faq-q3">Who is Kalabhairava?</h3>
                     </summary>
                     <div class="faq-content">
-                        <p><strong>Introduction to Kalabhairava baba</strong></p>
+                        <p data-translate="faq-a3-intro" data-html><strong>Introduction to Kalabhairava baba</strong></p>
                         
-                        <p><strong>Kala (काल):</strong> This word means "Time" and also "Death." He is the master of time, the one who is beyond time, and the one who embodies death.</p>
+                        <p data-translate="faq-a3-kala" data-html><strong>Kala (काल):</strong> This word means "Time" and also "Death." He is the master of time, the one who is beyond time, and the one who embodies death.</p>
                         
-                        <p><strong>Bhairava (भैरव):</strong> This means "terrible," "fearsome," or "formidable." His form inspires awe and fear, but this fear is not for the devotee. It is a fear that destroys the devotee's own inner fears, ego, and attachments.</p>
+                        <p data-translate="faq-a3-bhairava" data-html><strong>Bhairava (भैरव):</strong> This means "terrible," "fearsome," or "formidable." His form inspires awe and fear, but this fear is not for the devotee. It is a fear that destroys the devotee's own inner fears, ego, and attachments.</p>
                         
-                        <p>But don't be deceived by his visual depictions of old and new made by AI. He is not a malevolent deity; rather, his fearsome form is like a coconut. Hard shell with a soft center of a Guru.</p>
+                        <p data-translate="faq-a3-coconut">But don't be deceived by his visual depictions of old and new made by AI. He is not a malevolent deity; rather, his fearsome form is like a coconut. Hard shell with a soft center of a Guru.</p>
                         
-                        <h4>Roles and Qualities</h4>
+                        <h4 data-translate="faq-a3-roles">Roles and Qualities</h4>
                         <ul>
-                            <li>He is the ultimate Guru of Shakti Vidya(5th Veda).</li>
-                            <li>He is the ever present companion and GPS of the Shakta Path.</li>
-                            <li>He guides us to rise above fear, ego, ignorance, and negativity. See the world as witness and rise above the mundane.</li>
-                            <li>He is the supreme guardian (firewall) of the sacred state of Kashi (Ma Kali).</li>
-                            <li>He is not a mere Kshetrapala but rather the "great filter" you have to go through to attain oneness with MA Kali (Kashi, read her 1000 names). Which implies intracies of shakti vidya of any kind are lost unless Kalabhairava baba finds you true and lets you in.</li>
-                            <li>He grants detachment and vairagya.</li>
-                            <li>He hastens the internal samundramanthan (churning) of his bhaktas by taking all the negatives (poison) that arises in their quick uphill journey towards a state of balance (Kashi).</li>
-                            <li>He grants adhara to bhaktas by strengthening their spiritual spine. Allowing them to be free, unconstrained and unlocking the power of their birth designs.</li>
-                            <li>He grants moksha while still being alive(mukti).</li>
-                            <li>He hastens bhaktas spiritual growth by connecting them to their own advanced self in different timelines and in parallel realities of the multiverse.</li>
-                            <li>He is Kalipriya, so by association you come into the eyes of cosmic creator MA Adya Mahakali and the entire ethereal army serving her.</li>
+                            <li data-translate="faq-a3-role1">He is the ultimate Guru of Shakti Vidya(5th Veda).</li>
+                            <li data-translate="faq-a3-role2">He is the ever present companion and GPS of the Shakta Path.</li>
+                            <li data-translate="faq-a3-role3">He guides us to rise above fear, ego, ignorance, and negativity. See the world as witness and rise above the mundane.</li>
+                            <li data-translate="faq-a3-role4">He is the supreme guardian (firewall) of the sacred state of Kashi (Ma Kali).</li>
+                            <li data-translate="faq-a3-role5">He is not a mere Kshetrapala but rather the "great filter" you have to go through to attain oneness with MA Kali (Kashi, read her 1000 names). Which implies intracies of shakti vidya of any kind are lost unless Kalabhairava baba finds you true and lets you in.</li>
+                            <li data-translate="faq-a3-role6">He grants detachment and vairagya.</li>
+                            <li data-translate="faq-a3-role7">He hastens the internal samundramanthan (churning) of his bhaktas by taking all the negatives (poison) that arises in their quick uphill journey towards a state of balance (Kashi).</li>
+                            <li data-translate="faq-a3-role8">He grants adhara to bhaktas by strengthening their spiritual spine. Allowing them to be free, unconstrained and unlocking the power of their birth designs.</li>
+                            <li data-translate="faq-a3-role9">He grants moksha while still being alive(mukti).</li>
+                            <li data-translate="faq-a3-role10">He hastens bhaktas spiritual growth by connecting them to their own advanced self in different timelines and in parallel realities of the multiverse.</li>
+                            <li data-translate="faq-a3-role11">He is Kalipriya, so by association you come into the eyes of cosmic creator MA Adya Mahakali and the entire ethereal army serving her.</li>
                         </ul>
                         
-                        <p><strong>Jai Kalabhairav Baba</strong></p>
+                        <p data-translate="faq-a3-closing"><strong>Jai Kalabhairav Baba</strong></p>
                     </div>
                 </details>
 
                 <!-- FAQ Item 4: Kalabhairava Benefits -->
                 <details class="faq-block" id="faq-kalabhairava-benefits" data-category="benefits">
                     <summary class="faq-block-header">
-                        <h3 class="faq-heading">Benefits of Chanting Kalabhairav Sahasranama(1000names)</h3>
+                        <h3 class="faq-heading" data-translate="faq-q4">Benefits of Chanting Kalabhairav Sahasranama(1000names)</h3>
                     </summary>
                     <div class="faq-content">
                         <ul>
-                            <li>Awakens the guru-tattva that is latent within all living beings.</li>
-                            <li>Awakens Baba's ever-present companionship in your life.</li>
-                            <li>Updates your firmware and awakens Shakti Vidya in the jiva.</li>
+                            <li data-translate="faq-a4-li1">Awakens the guru-tattva that is latent within all living beings.</li>
+                            <li data-translate="faq-a4-li2">Awakens Baba's ever-present companionship in your life.</li>
+                            <li data-translate="faq-a4-li3">Updates your firmware and awakens Shakti Vidya in the jiva.</li>
                         </ul>
                         
-                        <p><strong>What else do you need?</strong> Ask the Kaashikaa-Pura-Adhinaatha, Kalabhairava Baba.</p>
-                        <p>These 1000 names are sufficient to help you attain what you seek on the path of Dharma.</p>
+                        <p data-translate="faq-a4-p1" data-html><strong>What else do you need?</strong> Ask the Kaashikaa-Pura-Adhinaatha, Kalabhairava Baba.</p>
+                        <p data-translate="faq-a4-p2">These 1000 names are sufficient to help you attain what you seek on the path of Dharma.</p>
                     </div>
                 </details>
 
                 <!-- FAQ Item 5: Khyapa Parampara -->
                 <details class="faq-block" id="faq-parampara" data-category="lineage">
                     <summary class="faq-block-header">
-                        <h3 class="faq-heading">What is Khyapa Parampara?</h3>
+                        <h3 class="faq-heading" data-translate="faq-q5">What is Khyapa Parampara?</h3>
                     </summary>
                     <div class="faq-content">
-                        <p>Khyapa Parampara is a spiritual lineage originating from Tarapith, West Bengal, India. It includes revered saints like Guru Bamakhepa and Guru Shyamakhepa who embodied ecstatic devotion (khyapa means "mad with divine love") to MA Tara and MA Kali.</p>
+                        <p data-translate="faq-a5">Khyapa Parampara is a spiritual lineage originating from Tarapith, West Bengal, India. It includes revered saints like Guru Bamakhepa and Guru Shyamakhepa who embodied ecstatic devotion (khyapa means "mad with divine love") to MA Tara and MA Kali.</p>
                     </div>
                 </details>
 
                 <!-- FAQ Item 5b: What is Adya Mahakali Sahasranama -->
                 <details class="faq-block" id="faq-adya-sahasranama" data-category="texts">
                     <summary class="faq-block-header">
-                        <h3 class="faq-heading">What is Adya Mahakali Sahasranama?</h3>
+                        <h3 class="faq-heading" data-translate="faq-q6">What is Adya Mahakali Sahasranama?</h3>
                     </summary>
                     <div class="faq-content">
-                        <p>Adya Mahakali Sahasranama contains 1000+ sacred names of Ma Adya Mahakali, the primordial cosmic form of the Ma Kali. This free ebook compilation includes English and Hindi translations, pronunciation guides, and spiritual insights for devotional practice.</p>
+                        <p data-translate="faq-a6">Adya Mahakali Sahasranama contains 1000+ sacred names of Ma Adya Mahakali, the primordial cosmic form of the Ma Kali. This free ebook compilation includes English and Hindi translations, pronunciation guides, and spiritual insights for devotional practice.</p>
                     </div>
                 </details>
 
                 <!-- FAQ Item 5c: What is Kalabhairava Sahasranama -->
                 <details class="faq-block" id="faq-kalabhairava-sahasranama" data-category="texts">
                     <summary class="faq-block-header">
-                        <h3 class="faq-heading">What is Kalabhairava Sahasranama?</h3>
+                        <h3 class="faq-heading" data-translate="faq-q7">What is Kalabhairava Sahasranama?</h3>
                     </summary>
                     <div class="faq-content">
-                        <p>Kalabhairava Sahasranama contains 1000 sacred names of Lord Kalabhairava. This free ebook compilation includes English and Hindi translations, pronunciation guides, and spiritual insights for devotional practice.</p>
+                        <p data-translate="faq-a7">Kalabhairava Sahasranama contains 1000 sacred names of Lord Kalabhairava. This free ebook compilation includes English and Hindi translations, pronunciation guides, and spiritual insights for devotional practice.</p>
                     </div>
                 </details>
 
                 <!-- FAQ Item 6: How to Chant -->
                 <details class="faq-block" id="faq-chanting" data-category="practice">
                     <summary class="faq-block-header">
-                        <h3 class="faq-heading">How do I use a Sahasranama for chanting?</h3>
+                        <h3 class="faq-heading" data-translate="faq-q8">How do I use a Sahasranama for chanting?</h3>
                     </summary>
                     <div class="faq-content">
-                        <p>Each ebook includes a chanting guide.</p>
+                        <p data-translate="faq-a8-intro">Each ebook includes a chanting guide.</p>
                         
                         <ul>
-                            <li>Just read the names — stutter, fumble, or sing like a song, with OM or without it.</li>
-                            <li>Pronunciation will improve as you read them often.</li>
-                            <li>Chant one at a time, 11 at a time, or all 1000+ in one sitting.</li>
-                            <li>Understand the meanings or not, it doesn't matter.</li>
-                            <li>There is no wrong way to approach these sacred names; the practice itself is the point.</li>
-                            <li>Just like poison kills you if you know something contains it or not.</li>
-                            <li>These 1000 names act like poison for your fears and he makes you fearless in the path of Dharma.</li>
-                            <li>Listen to audio versions, there are plenty on YouTube.</li>
-                            <li>Ma Krishna, the Guru of Kali Yuga, has already decreed that "Nama Japa" is sufficient, so listen to him.</li>
+                            <li data-translate="faq-a8-li1">Just read the names — stutter, fumble, or sing like a song, with OM or without it.</li>
+                            <li data-translate="faq-a8-li2">Pronunciation will improve as you read them often.</li>
+                            <li data-translate="faq-a8-li3">Chant one at a time, 11 at a time, or all 1000+ in one sitting.</li>
+                            <li data-translate="faq-a8-li4">Understand the meanings or not, it doesn't matter.</li>
+                            <li data-translate="faq-a8-li5">There is no wrong way to approach these sacred names; the practice itself is the point.</li>
+                            <li data-translate="faq-a8-li6">Just like poison kills you if you know something contains it or not.</li>
+                            <li data-translate="faq-a8-li7">These 1000 names act like poison for your fears and he makes you fearless in the path of Dharma.</li>
+                            <li data-translate="faq-a8-li8">Listen to audio versions, there are plenty on YouTube.</li>
+                            <li data-translate="faq-a8-li9">Ma Krishna, the Guru of Kali Yuga, has already decreed that "Nama Japa" is sufficient, so listen to him.</li>
                         </ul>
                     </div>
                 </details>
@@ -711,20 +763,20 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
                 <!-- FAQ Item 7: Free Downloads -->
                 <details class="faq-block" id="faq-free" data-category="access">
                     <summary class="faq-block-header">
-                        <h3 class="faq-heading">Are these spiritual ebooks free to download?</h3>
+                        <h3 class="faq-heading" data-translate="faq-q9">Are these spiritual ebooks free to download?</h3>
                     </summary>
                     <div class="faq-content">
-                        <p>Yes, all ebooks from Jai Khyapa Parampara Temple of Knowledge are forever free. Knowledge is the birthright of the soul, and these sacred texts are offered as seva (spiritual service). No registration or payment required.</p>
+                        <p data-translate="faq-a9">Yes, all ebooks from Jai Khyapa Parampara Temple of Knowledge are forever free. Knowledge is the birthright of the soul, and these sacred texts are offered as seva (spiritual service). No registration or payment required.</p>
                     </div>
                 </details>
 
                 <!-- FAQ Item 8: More Ebooks -->
                 <details class="faq-block" id="faq-more" data-category="future">
                     <summary class="faq-block-header">
-                        <h3 class="faq-heading">Will more ebooks be added?</h3>
+                        <h3 class="faq-heading" data-translate="faq-q10">Will more ebooks be added?</h3>
                     </summary>
                     <div class="faq-content">
-                        <p>Yes! This temple of knowledge is a living Sankalpa (sacred vow). More sacred works are being compiled and will be shared freely in service of Ma Adya Mahakali and the Khyapa Parampara.</p>
+                        <p data-translate="faq-a10">Yes! This temple of knowledge is a living Sankalpa (sacred vow). More sacred works are being compiled and will be shared freely in service of Ma Adya Mahakali and the Khyapa Parampara.</p>
                     </div>
                 </details>
             </div>
@@ -733,108 +785,83 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
 
     </main>
 
+    <!-- Deferred inline scripts for better execution order -->
+    <script defer>
+    document.addEventListener('DOMContentLoaded', function() {
+        const faqBlocks = document.querySelectorAll('.faq-block');
+
+        // Keep ARIA expanded/up-to-date for each FAQ summary
+        faqBlocks.forEach(d => {
+            const s = d.querySelector('summary');
+            if (s) s.setAttribute('aria-expanded', d.hasAttribute('open') ? 'true' : 'false');
+            d.addEventListener('toggle', () => {
+                if (s) s.setAttribute('aria-expanded', d.hasAttribute('open') ? 'true' : 'false');
+            });
+        });
+        
+        // Use Intersection Observer to avoid forced reflows
+        const faqAnimationObserver = new IntersectionObserver((entries) => {
+            entries.forEach((entry) => {
+                if (entry.isIntersecting && !entry.target.classList.contains('animated')) {
+                    entry.target.classList.add('animated');
+                }
+            });
+        }, { threshold: 0.1, rootMargin: '0px 0px -100px 0px' });
+        
+        faqBlocks.forEach(block => faqAnimationObserver.observe(block));
+        
+    });
+    </script>
+    
+    <script defer>
+    document.addEventListener('DOMContentLoaded', function(){
+        const vEl = document.getElementById('version-value');
+        const dEl = document.getElementById('last-updated-value');
+
+        if (!vEl && !dEl) return;
+
+        // Get build version from meta tag (update this manually when you make changes)
+        const metaVersion = document.querySelector('meta[name="build-version"]');
+        const buildVersion = metaVersion ? metaVersion.getAttribute('content') : '1.0';
+        
+        // Get build date from meta tag
+        const metaDate = document.querySelector('meta[name="build-date"]');
+        const buildDate = metaDate ? metaDate.getAttribute('content') : new Date().toISOString();
+
+        // Display version
+        if (vEl) vEl.textContent = 'V' + buildVersion;
+        
+        // Display last updated date
+        if (dEl) {
+            try {
+                const dt = new Date(buildDate);
+                if (!isNaN(dt)) {
+                    const options = { year: 'numeric', month: 'long', day: '2-digit', hour: '2-digit', minute: '2-digit', timeZone: 'UTC', timeZoneName: 'short' };
+                    dEl.textContent = dt.toLocaleString('en-US', options).replace('GMT', 'UTC');
+                } else {
+                    dEl.textContent = buildDate;
+                }
+            } catch (e) {
+                dEl.textContent = buildDate;
+            }
+        }
+    });
+    </script>
+
     <!-- Exit: Footer -->
     <footer class="footer">
         <div class="container">
             <div class="footer-content">
-                <p class="footer-blessing">Om Shri Gurubhyo Namaha | Jai Khyapa Parampara</p>
-                <p class="footer-description">May every word read here bring you closer to Ma Adya Mahakali.</p>
-                <p class="footer-meta">&copy; 2025 KaliPutra-Ashish. All knowledge is forever free to share.</p>
-                <p id="site-version" class="footer-version">Version: <span id="version-value">V1.6</span></p>
-                <p id="site-last-updated" class="footer-updated">Last Updated: <span id="last-updated-value">December 13, 2025</span></p>
+                <p class="footer-blessing" data-translate="footer-blessing">Om Shri Gurubhyo Namaha | Jai Khyapa Parampara</p>
+                <p class="footer-description" data-translate="footer-description">May every word read here bring you closer to Ma Adya Mahakali.</p>
+                <p class="footer-meta" data-translate="footer-meta">&copy; 2025 KaliPutra-Ashish. All knowledge is forever free to share.</p>
+                <p id="site-version" class="footer-version"><span data-translate="footer-version">Version:</span> <span id="version-value">V1.7</span></p>
+                <p id="site-last-updated" class="footer-updated"><span data-translate="footer-updated">Last Updated:</span> <span id="last-updated-value">December 15, 2025</span></p>
             </div>
         </div>
     </footer>
 
-        <script src="script.min.js" defer></script>
-        
-        <!-- FAQ Enhancement Script -->
-        <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const faqBlocks = document.querySelectorAll('.faq-block');
-
-            // Keep ARIA expanded/up-to-date for each FAQ summary
-            faqBlocks.forEach(d => {
-                const s = d.querySelector('summary');
-                if (s) s.setAttribute('aria-expanded', d.hasAttribute('open') ? 'true' : 'false');
-                d.addEventListener('toggle', () => {
-                    if (s) s.setAttribute('aria-expanded', d.hasAttribute('open') ? 'true' : 'false');
-                });
-            });
-            
-            // Add entrance animations to FAQ blocks
-            const animateOnScroll = () => {
-                faqBlocks.forEach((block, index) => {
-                    const rect = block.getBoundingClientRect();
-                    const isVisible = rect.top < window.innerHeight && rect.bottom > 0;
-                    
-                    if (isVisible && !block.classList.contains('animated')) {
-                        block.classList.add('animated');
-                        block.style.opacity = '0';
-                        block.style.transform = 'translateY(30px)';
-                        
-                        setTimeout(() => {
-                            block.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
-                            block.style.opacity = '1';
-                            block.style.transform = 'translateY(0)';
-                        }, 100 * index); // Staggered animation
-                    }
-                });
-            };
-            
-            // Initial animation on page load
-            setTimeout(animateOnScroll, 500);
-            
-            // Re-run animation on scroll
-            let ticking = false;
-            window.addEventListener('scroll', () => {
-                if (!ticking) {
-                    requestAnimationFrame(() => {
-                        animateOnScroll();
-                        ticking = false;
-                    });
-                    ticking = true;
-                }
-            });
-        });
-        });
-        </script>
-        
-        <!-- Self-contained version tracker: uses HTML meta tag for version tracking -->
-        <script>
-        document.addEventListener('DOMContentLoaded', function(){
-            const vEl = document.getElementById('version-value');
-            const dEl = document.getElementById('last-updated-value');
-
-            if (!vEl && !dEl) return;
-
-            // Get build version from meta tag (update this manually when you make changes)
-            const metaVersion = document.querySelector('meta[name="build-version"]');
-            const buildVersion = metaVersion ? metaVersion.getAttribute('content') : '1.0';
-            
-            // Get build date from meta tag
-            const metaDate = document.querySelector('meta[name="build-date"]');
-            const buildDate = metaDate ? metaDate.getAttribute('content') : new Date().toISOString();
-
-            // Display version
-            if (vEl) vEl.textContent = 'V' + buildVersion;
-            
-            // Display last updated date
-            if (dEl) {
-                try {
-                    const dt = new Date(buildDate);
-                    if (!isNaN(dt)) {
-                        const options = { year: 'numeric', month: 'long', day: '2-digit', hour: '2-digit', minute: '2-digit', timeZone: 'UTC', timeZoneName: 'short' };
-                        dEl.textContent = dt.toLocaleString('en-US', options).replace('GMT', 'UTC');
-                    } else {
-                        dEl.textContent = buildDate;
-                    }
-                } catch (e) {
-                    dEl.textContent = buildDate;
-                }
-            }
-        });
-        </script>
+    <script src="script.min.js" defer></script>
 
 </body>
 </html>
