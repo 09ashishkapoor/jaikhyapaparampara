@@ -14,7 +14,7 @@ const translations = {
         'hero-om': '🕉️',
         'hero-blessing-1': 'Om Shri Gurubhyo Namaha',
         'hero-blessing-2': 'Jai Khyapa Parampara',
-        'hero-caption': 'Under the eternal gaze of Ma Adya Mahakali, and the blessings of the Khyapas',
+        'hero-caption': 'Under the eternal gaze of Ma Adya Mahakali and the blessings of the Khyapas',
         'hero-labels': 'The Source • The Realization • The Continuation • The Explosion',
         'hero-scroll': 'Begin the Journey',
         
@@ -96,15 +96,15 @@ const translations = {
         'faq-a10': 'Yes! This temple of knowledge is a living Sankalpa (sacred vow). More sacred works are being compiled and will be shared freely in service of Ma Adya Mahakali and the Khyapa Parampara.',
         
         // FAQ Kalabhairava Roles List Items
-        'faq-a3-role1': 'He is the ultimate Guru of Shakti Vidya(5th Veda).',
+        'faq-a3-role1': 'He is the ultimate Guru of Shakti Vidya (5th Veda).',
         'faq-a3-role2': 'He is the ever present companion and GPS of the Shakta Path.',
         'faq-a3-role3': 'He guides us to rise above fear, ego, ignorance, and negativity. See the world as witness and rise above the mundane.',
         'faq-a3-role4': 'He is the supreme guardian (firewall) of the sacred state of Kashi (Ma Kali).',
-        'faq-a3-role5': 'He is not a mere Kshetrapala but rather the "great filter" you have to go through to attain oneness with MA Kali (Kashi, read her 1000 names). Which implies intracies of shakti vidya of any kind are lost unless Kalabhairava baba finds you true and lets you in.',
+        'faq-a3-role5': 'He is not a mere Kshetrapala but rather the "great filter" you have to go through to attain oneness with MA Kali (Kashi, read her 1000 names). Which implies intricacies of shakti vidya of any kind are lost unless Kalabhairava baba finds you true and lets you in.',
         'faq-a3-role6': 'He grants detachment and vairagya.',
         'faq-a3-role7': 'He hastens the internal samundramanthan (churning) of his bhaktas by taking all the negatives (poison) that arises in their quick uphill journey towards a state of balance (Kashi).',
         'faq-a3-role8': 'He grants adhara to bhaktas by strengthening their spiritual spine. Allowing them to be free, unconstrained and unlocking the power of their birth designs.',
-        'faq-a3-role9': 'He grants moksha while still being alive(mukti).',
+        'faq-a3-role9': 'He grants moksha while still being alive (mukti).',
         'faq-a3-role10': 'He hastens bhaktas spiritual growth by connecting them to their own advanced self in different timelines and in parallel realities of the multiverse.',
         'faq-a3-role11': 'He is Kalipriya, so by association you come into the eyes of cosmic creator MA Adya Mahakali and the entire ethereal army serving her.',
         'faq-a3-closing': 'Jai Kalabhairav Baba',
@@ -542,27 +542,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // 6. Initialize Audio
     initAudio();
 
-    // 7. Initialize Scroll Indicator
-    const scrollInd = document.querySelector('.scroll-indicator');
-    if (scrollInd) {
-        scrollInd.addEventListener('click', () => {
-            const librarySection = document.getElementById('library');
-            // Batch DOM reads together
-            const headerOffset = 80;
-            const elementPosition = librarySection.getBoundingClientRect().top;
-            const pageYOffset = window.pageYOffset;
-            
-            // Then calculate and apply
-            const offsetPosition = elementPosition + pageYOffset - headerOffset;
-            window.scrollTo({
-                top: offsetPosition,
-                behavior: 'smooth'
-            });
-            
-            // Invalidate cache after scroll
-            sectionCacheValid = false;
-        });
-    }
+    // Scroll indicator removed — no click handler required.
     
     // 8. Initialize Particle Effect
     initParticles();
@@ -593,11 +573,13 @@ const initAudio = () => {
         if (isPlaying) {
             audio.pause();
             audioBtn.classList.remove('playing');
-            audioBtn.innerHTML = '<i class="fas fa-music"></i>';
+            audioBtn.setAttribute('data-state', 'paused');
+            audioBtn.setAttribute('aria-label', 'Play Temple Ambience');
         } else {
             audio.play().catch(err => console.log("Audio play failed:", err));
             audioBtn.classList.add('playing');
-            audioBtn.innerHTML = '<i class="fas fa-volume-up"></i>';
+            audioBtn.setAttribute('data-state', 'playing');
+            audioBtn.setAttribute('aria-label', 'Stop Temple Ambience');
         }
         isPlaying = !isPlaying;
     });

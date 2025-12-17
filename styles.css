@@ -609,7 +609,7 @@ main {
 /* Scroll Indicator */
 .scroll-indicator {
     position: absolute;
-    bottom: 4rem;
+    bottom: 5.5rem;
     left: 50%;
     transform: translateX(-50%);
     display: flex;
@@ -654,6 +654,20 @@ main {
     0%, 100% { transform: translate(-50%, 0); opacity: 0.7; }
     50% { transform: translate(-50%, 10px); opacity: 1; }
 }
+
+/* Mobile-first spacing: smaller devices get the baseline spacing, larger
+   screens increase padding using min-width media queries to avoid layout shifts. */
+.hero { padding-bottom: calc(env(safe-area-inset-bottom, 0px) + 6rem); }
+
+@media (min-width: 481px) {
+    .hero { padding-bottom: 9rem; }
+}
+
+@media (min-width: 769px) {
+    .hero { padding-bottom: 10rem; }
+}
+
+/* Note: `.scroll-indicator` has been removed from the markup to avoid overlap on small screens */
 
 /* Shape Dividers */
 .custom-shape-divider-bottom-1685027373 {
@@ -739,32 +753,46 @@ main {
 
 #audio-toggle {
     background: none;
-    border: none;
+    border: 2px solid transparent;
     color: var(--accent-color);
     font-size: 1.5rem;
     cursor: pointer;
-    transition: transform 0.3s ease;
+    transition: all 0.3s ease;
     /* Reserve space to prevent layout shift */
-    width: 2rem;
-    height: 2rem;
+    width: 2.5rem;
+    height: 2.5rem;
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 50%;
+    position: relative;
 }
 
 #audio-toggle:hover {
-    transform: rotate(30deg) scale(1.1);
+    transform: scale(1.15);
+    border-color: var(--accent-color);
+    background: rgba(232, 196, 104, 0.1);
 }
 
 #audio-toggle.playing {
-    animation: pulse 2s infinite;
-    color: var(--primary-color);
+    animation: audioGlow 2s infinite;
+    color: var(--accent-bright);
+    background: rgba(232, 196, 104, 0.15);
+    border-color: var(--accent-color);
+    box-shadow: 0 0 20px rgba(232, 196, 104, 0.4), inset 0 0 10px rgba(232, 196, 104, 0.1);
 }
 
-@keyframes pulse {
-    0% { transform: scale(1); opacity: 1; }
-    50% { transform: scale(1.2); opacity: 0.8; }
-    100% { transform: scale(1); opacity: 1; }
+#audio-toggle.playing:hover {
+    box-shadow: 0 0 30px rgba(232, 196, 104, 0.6), inset 0 0 15px rgba(232, 196, 104, 0.2);
+}
+
+@keyframes audioGlow {
+    0%, 100% { 
+        box-shadow: 0 0 15px rgba(232, 196, 104, 0.3), inset 0 0 8px rgba(232, 196, 104, 0.1);
+    }
+    50% { 
+        box-shadow: 0 0 30px rgba(232, 196, 104, 0.6), inset 0 0 15px rgba(232, 196, 104, 0.2);
+    }
 }
 
 /* Library Controls */
@@ -942,6 +970,21 @@ main {
     margin-bottom: 1.5rem;
     color: var(--text-dark);
     letter-spacing: 0.2px;
+}
+
+/* Ensure Devanagari (Hindi) text renders at readable size
+   Some Devanagari fonts have smaller visual metrics than Latin;
+   increase size slightly and set an acceptable fallback stack. */
+.book-card :lang(hi),
+.book-card .book-description:lang(hi) {
+    font-size: 1.18rem;
+    line-height: 1.85;
+    /* Prefer a Devanagari-capable UI font where available */
+    font-family: 'Noto Sans Devanagari', 'Noto Serif Devanagari', 'Mangal', 'Nirmala UI', serif;
+}
+
+.book-card .book-title:lang(hi) {
+    font-size: 1.8rem; /* match Latin title size */
 }
 
 /* Scroll Reveal Animation Class */

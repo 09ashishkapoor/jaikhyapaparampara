@@ -161,7 +161,7 @@
 
 3. **Create Backlinks:**
    - Link from 1000namesofmakali.com to main site
-   - Link from bhairavakaalikenamosthute.com
+   - Link from bhairavakalikenamosthute.com
    - Improves domain authority
 
 4. **Monitor Core Web Vitals:**

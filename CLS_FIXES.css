@@ -161,7 +161,8 @@
 /* Fix 10: Scroll indicator - prevent shift */
 .scroll-indicator {
     position: absolute;
-    bottom: 30px;
+    /* Use safe-area inset and larger offset to avoid overlap on small screens */
+    bottom: calc(env(safe-area-inset-bottom, 0px) + 3.5rem);
     left: 50%;
     transform: translateX(-50%);
     z-index: 10;
