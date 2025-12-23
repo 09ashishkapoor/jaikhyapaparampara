@@ -116,13 +116,13 @@ main {
 /* Header & Navigation */
 .header {
     background: linear-gradient(135deg, rgba(13, 5, 6, 0.96) 0%, rgba(31, 11, 17, 0.96) 100%);
-    backdrop-filter: blur(20px) saturate(120%);
     padding: 1rem 0;
     position: sticky;
     top: 0;
     z-index: 1000;
     box-shadow: 0 4px 25px var(--shadow-colored), 0 0 20px rgba(232, 196, 104, 0.08);
     border-bottom: 1px solid var(--border-gold);
+    min-height: 80px;
 }
 
 .nav {
@@ -144,6 +144,7 @@ main {
     display: flex;
     list-style: none;
     gap: 2rem;
+    min-height: 1.6rem;
 }
 
 .nav-menu a {
@@ -245,7 +246,6 @@ main {
 
 /* Header scroll effect */
 .header.scrolled {
-    backdrop-filter: blur(30px) saturate(150%);
     box-shadow: 0 6px 35px var(--shadow-colored), 0 0 30px rgba(232, 196, 104, 0.12);
 }
 
@@ -261,7 +261,7 @@ main {
     text-align: center;
     overflow: visible;
     color: var(--text-light);
-    background-attachment: fixed;
+    contain: layout;
 }
 
 .hero-content {
@@ -301,7 +301,7 @@ main {
     letter-spacing: 0.5px;
     will-change: auto; /* Remove will-change */
     /* CRITICAL: Prevent font metric changes during swap */
-    min-height: 3.45rem;
+    min-height: 11rem;
     /* Ensure consistent height even with different fonts */
     display: block;
 }
@@ -316,7 +316,7 @@ main {
     animation: fadeInUp 0.8s ease-out 0.5s both;
     letter-spacing: 0.3px;
     /* Reserve space to prevent shift when font loads */
-    min-height: 2.4rem;
+    min-height: 4.8rem;
     display: block;
 }
 
@@ -354,11 +354,11 @@ main {
     min-height: 100vh;
     z-index: 1;
     background: var(--temple-gradient);
-    background-attachment: fixed;
     will-change: auto;
     transition: none;
     transform: translateZ(0);
     pointer-events: none;
+    contain: strict;
 }
 
 /* Parallax layer for enhanced depth - REMOVED to prevent layout shift */
@@ -381,7 +381,6 @@ main {
     background-position: 0 0, 40px 40px, 20px 20px;
     opacity: 0.15;
     pointer-events: none;
-    animation: twinkle 5s infinite ease-in-out;
 }
 
 @keyframes twinkle {
@@ -399,6 +398,7 @@ main {
     z-index: 4;
     pointer-events: none;
     overflow: visible;
+    contain: strict;
 }
 
 .particle {
@@ -441,7 +441,6 @@ main {
     background: var(--gold-gradient);
     color: #2D0F18; /* Deep rich text for better contrast */
     background-size: 200% 200%;
-    animation: shimmer 6s infinite ease-in-out;
     border: 1.5px solid var(--border-gold);
     font-weight: 700;
     box-shadow: 
@@ -526,7 +525,6 @@ main {
         inset 0 0 30px rgba(13, 5, 6, 0.4);
     margin: 0 auto;
     flex-shrink: 0;
-    animation: divineGlowIdle 3s ease-in-out infinite;
 }
 
 .divine-image:hover {
@@ -685,7 +683,6 @@ main {
     display: block;
     width: calc(100% + 1.3px);
     height: 60px;
-    animation: waveAnimation 20s infinite ease-in-out;
 }
 
 @keyframes waveAnimation {
@@ -775,7 +772,6 @@ main {
 }
 
 #audio-toggle.playing {
-    animation: audioGlow 2s infinite;
     color: var(--accent-bright);
     background: rgba(232, 196, 104, 0.15);
     border-color: var(--accent-color);
@@ -1089,6 +1085,8 @@ main {
 .about {
     padding: 5rem 0;
     background: var(--dark-bg);
+    content-visibility: auto;
+    contain-intrinsic-size: 600px;
 }
 
 .about-content {
@@ -1174,6 +1172,8 @@ main {
     padding: 5rem 0;
     background: var(--temple-gradient);
     position: relative;
+    content-visibility: auto;
+    contain-intrinsic-size: 1200px;
 }
 
 .faq-container {
@@ -2163,6 +2163,8 @@ section {
     position: relative;
     padding: 5rem 0;
     background: linear-gradient(180deg, var(--light-bg) 0%, rgba(31, 11, 17, 0.95) 100%);
+    content-visibility: auto;
+    contain-intrinsic-size: 1000px;
 }
 
 /* Improved mobile navigation */

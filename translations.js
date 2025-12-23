@@ -40,7 +40,7 @@ const translations = {
         
         // FAQ Section
         'faq-title': 'Frequently Asked Questions',
-        'faq-subtitle': 'Find answers to common questions about our sacred texts and spiritual practices',
+        'faq-subtitle': 'Find answers to common questions about our spiritual content and practices',
         
         // FAQ Questions
         'faq-q1': 'Who is Ma Adya Mahakali?',
@@ -74,9 +74,10 @@ const translations = {
         'faq-a5': 'Khyapa Parampara is a spiritual lineage originating from Tarapith, West Bengal, India. It includes revered saints like Guru Bamakhepa and Guru Shyamakhepa who embodied ecstatic devotion (khyapa means "mad with divine love") to MA Tara and MA Kali.',
         
         'faq-q6': 'What is Adya Mahakali Sahasranama?',
-        'faq-a6': 'Adya Mahakali Sahasranama contains 1000+ sacred names of Ma Adya Mahakali, the primordial cosmic form of the Ma Kali. This free ebook compilation includes English and Hindi translations, pronunciation guides, and spiritual insights for devotional practice.',
+        'faq-a6': 'Adya Mahakali Sahasranama contains 1000+ sacred names of Ma Adya Mahakali, the primordial cosmic form of the Ma Kali. Available as free ebooks, audiobooks, and articles with English and Hindi translations, pronunciation guides, and spiritual insights for devotional practice.',
         
         'faq-q7': 'What is Kalabhairava Sahasranama?',
+        'faq-a7': 'Kalabhairava Sahasranama contains 1000 sacred names of Lord Kalabhairava. Available as free ebooks, audiobooks, and articles with English and Hindi translations, pronunciation guides, and spiritual insights for devotional practice.',
         'faq-a7': 'Kalabhairava Sahasranama contains 1000 sacred names of Lord Kalabhairava. This free ebook compilation includes English and Hindi translations, pronunciation guides, and spiritual insights for devotional practice.',
         
         'faq-q8': 'How do I use a Sahasranama for chanting?',
@@ -91,11 +92,11 @@ const translations = {
         'faq-a8-li8': 'Listen to audio versions, there are plenty on YouTube.',
         'faq-a8-li9': 'Ma Krishna, the Guru of Kali Yuga, has already decreed that "Nama Japa" is sufficient, so listen to him.',
         
-        'faq-q9': 'Are these spiritual ebooks free to download?',
-        'faq-a9': 'Yes, all ebooks from Jai Khyapa Parampara Temple of Knowledge are forever free. Knowledge is the birthright of the soul, and these sacred texts are offered as seva (spiritual service). No registration or payment required.',
+        'faq-q9': 'Is all the spiritual content free to access?',
+        'faq-a9': 'Yes, all content from Jai Khyapa Parampara Temple of Knowledge is forever free - ebooks, audiobooks, articles, and sacred texts. Knowledge is the birthright of the soul, and all spiritual content is offered as seva (spiritual service). No registration or payment required.',
         
-        'faq-q10': 'Will more ebooks be added?',
-        'faq-a10': 'Yes! This temple of knowledge is a living Sankalpa (sacred vow). More sacred works are being compiled and will be shared freely in service of Ma Adya Mahakali and the Khyapa Parampara.',
+        'faq-q10': 'Will more content be added?',
+        'faq-a10': 'Yes! This temple of knowledge is a living Sankalpa (sacred vow). More spiritual content - ebooks, audiobooks, articles, and sacred works - are being compiled and will be shared freely in service of Ma Adya Mahakali and the Khyapa Parampara.',
         
         // FAQ Kalabhairava Roles List Items
         'faq-a3-role1': 'He is the ultimate Guru of Shakti Vidya (5th Veda).',
@@ -161,7 +162,7 @@ const translations = {
         
         // FAQ Section
         'faq-title': 'अक्सर पूछे जाने वाले सवाल',
-        'faq-subtitle': 'हमारे पवित्र ग्रंथों और आध्यात्मिक साधनाओं के बारे में आम सवालों के जवाब',
+        'faq-subtitle': 'हमारी आध्यात्मिक सामग्री और साधनाओं के बारे में आम सवालों के जवाब',
         
         // FAQ Questions
         'faq-q1': 'माँ आद्या महाकाली कौन हैं?',
@@ -195,10 +196,10 @@ const translations = {
         'faq-a5': 'ख्यापा परंपरा पश्चिम बंगाल, भारत के तारापीठ से निकली एक आध्यात्मिक वंशावली है। इसमें गुरु बामा खेपा और गुरु श्यामा खेपा जैसे महान संत शामिल हैं जो माँ तारा और माँ काली के प्रति अपनी मस्ती भरी भक्ति (ख्यापा का मतलब है "दिव्य प्रेम में पागल") के लिए जाने जाते हैं।',
         
         'faq-q6': 'आद्या महाकाली सहस्रनाम क्या है?',
-        'faq-a6': 'आद्या महाकाली सहस्रनाम में माँ आद्या महाकाली (माँ काली का आदिम ब्रह्मांडीय रूप) के 1000+ पवित्र नाम हैं। इस मुफ़्त ई-बुक में अंग्रेजी और हिंदी अनुवाद, उच्चारण गाइड और भक्ति साधना के लिए आध्यात्मिक जानकारी शामिल है।',
+        'faq-a6': 'आद्या महाकाली सहस्रनाम में माँ आद्या महाकाली (माँ काली का आदिम ब्रह्मांडीय रूप) के 1000+ पवित्र नाम हैं। मुफ़्त ई-बुक, ऑडियोबुक और लेखों के रूप में अंग्रेजी और हिंदी अनुवाद, उच्चारण गाइड और भक्ति साधना के लिए आध्यात्मिक जानकारी के साथ उपलब्ध है।',
         
         'faq-q7': 'कालभैरव सहस्रनाम क्या है?',
-        'faq-a7': 'कालभैरव सहस्रनाम में भगवान कालभैरव के 1000 पवित्र नाम हैं। इस मुफ़्त ई-बुक में अंग्रेजी और हिंदी अनुवाद, उच्चारण गाइड और भक्ति साधना के लिए आध्यात्मिक जानकारी शामिल है।',
+        'faq-a7': 'कालभैरव सहस्रनाम में भगवान कालभैरव के 1000 पवित्र नाम हैं। मुफ़्त ई-बुक, ऑडियॏबुक और लेखों के रूप में अंग्रेजी और हिंदी अनुवाद, उच्चारण गाइड और भक्ति साधना के लिए आध्यात्मिक जानकारी के साथ उपलब्ध है।',
         
         'faq-q8': 'मैं जाप के लिए सहस्रनाम का उपयोग कैसे करूं?',
         'faq-a8-intro': 'हर ई-बुक में जाप करने का तरीका (chanting guide) दिया गया है।',
@@ -212,11 +213,11 @@ const translations = {
         'faq-a8-li8': 'ऑडियो सुनें, YouTube पर बहुत सारे उपलब्ध हैं।',
         'faq-a8-li9': 'माँ कृष्णा (कलियुग के गुरु) ने पहले ही कह दिया है कि "नाम जप" ही काफ़ी है, तो उनकी बात सुनें।',
         
-        'faq-q9': 'क्या ये आध्यात्मिक ई-बुक्स मुफ़्त हैं?',
-        'faq-a9': 'हाँ, "जय ख्यापा परंपरा ज्ञान मंदिर" की सभी ई-बुक्स हमेशा के लिए मुफ़्त हैं। ज्ञान आत्मा का जन्मसिद्ध अधिकार है, और ये पवित्र ग्रंथ सेवा के रूप में दिए जा रहे हैं। न कोई रजिस्ट्रेशन, न कोई पैसा।',
+        'faq-q9': 'क्या सभी आध्यात्मिक सामग्री मुफ़्त है?',
+        'faq-a9': 'हाँ, "जय ख्यापा परंपरा ज्ञान मंदिर" की सभी सामग्री हमेशा के लिए मुफ़्त है - ई-बुक, ऑडियोबुक, लेख और पवित्र ग्रंथ। ज्ञान आत्मा का जन्मसिद्ध अधिकार है, और सभी आध्यात्मिक सामग्री सेवा के रूप में दी जा रही है। न कोई रजिस्ट्रेशन, न कोई पैसा।',
         
-        'faq-q10': 'क्या और ई-बुक्स जोड़ी जाएंगी?',
-        'faq-a10': 'हाँ! यह ज्ञान का मंदिर एक जीवित "संकल्प" है। माँ आद्या महाकाली और ख्यापा परंपरा की सेवा में कई और पवित्र कार्यों को संकलित किया जा रहा है और उन्हें मुफ़्त में साझा किया जाएगा।',
+        'faq-q10': 'क्या और सामग्री जोड़ी जाएगी?',
+        'faq-a10': 'हाँ! यह ज्ञान का मंदिर एक जीवित "संकल्प" है। माँ आद्या महाकाली और ख्यापा परंपरा की सेवा में कई और आध्यात्मिक सामग्री - ई-बुक, ऑडियोबुक, लेख और पवित्र कार्यों - को संकलित किया जा रहा है और उन्हें मुफ़्त में साझा किया जाएगा।',
         
         // FAQ Kalabhairava Roles List Items
         'faq-a3-role1': 'वे शक्ति विद्या (५वाँ वेद) के परम गुरु हैं।',
