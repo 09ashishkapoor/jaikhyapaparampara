@@ -547,7 +547,10 @@ document.addEventListener('DOMContentLoaded', () => {
     // 8. Initialize Particle Effect
     initParticles();
     
-    // 9. Set initial active nav state
+    // 9. Initialize FAQ Accordion
+    initFAQ();
+    
+    // 10. Set initial active nav state
     updateActiveNav();
     
     // 10. Listen for content changes that might affect section positions
@@ -662,4 +665,77 @@ const initParticles = () => {
     // Insert all particles at once
     particlesContainer.appendChild(fragment);
     heroSection.appendChild(particlesContainer);
+};
+
+// --- FAQ Accordion Animation ---
+const initFAQ = () => {
+    const faqBlocks = document.querySelectorAll('.faq-block');
+    
+    faqBlocks.forEach(block => {
+        const summary = block.querySelector('summary');
+        const content = block.querySelector('.faq-content');
+        
+        if (!summary || !content) return;
+
+        // Wrap content if not already wrapped for smooth transition
+        if (!content.querySelector('.faq-content-inner')) {
+            const inner = document.createElement('div');
+            inner.className = 'faq-content-inner';
+            while (content.firstChild) {
+                inner.appendChild(content.firstChild);
+            }
+            content.appendChild(inner);
+        }
+
+        // Handle click for smooth animation
+        summary.addEventListener('click', (e) => {
+            e.preventDefault();
+            
+            const isOpen = block.hasAttribute('open');
+            
+            if (isOpen) {
+                // Closing animation
+                const contentHeight = content.scrollHeight;
+                content.style.maxHeight = contentHeight + 'px';
+                
+                // Force reflow
+                content.offsetHeight;
+                
+                content.style.maxHeight = '0';
+                
+                setTimeout(() => {
+                    block.removeAttribute('open');
+                    content.style.maxHeight = '';
+                }, 400);
+            } else {
+                // Opening animation
+                // Close other open FAQs
+                document.querySelectorAll('.faq-block[open]').forEach(openBlock => {
+                    if (openBlock !== block) {
+                        const openContent = openBlock.querySelector('.faq-content');
+                        openContent.style.maxHeight = openContent.scrollHeight + 'px';
+                        openContent.offsetHeight;
+                        openContent.style.maxHeight = '0';
+                        setTimeout(() => {
+                            openBlock.removeAttribute('open');
+                            openContent.style.maxHeight = '';
+                        }, 400);
+                    }
+                });
+
+                block.setAttribute('open', '');
+                const contentHeight = content.scrollHeight;
+                content.style.maxHeight = '0';
+                
+                // Force reflow
+                content.offsetHeight;
+                
+                content.style.maxHeight = contentHeight + 'px';
+                
+                setTimeout(() => {
+                    content.style.maxHeight = 'none';
+                }, 400);
+            }
+        });
+    });
 };

@@ -11,9 +11,15 @@
   "categories": ["books", "education", "lifestyle"],
   "icons": [
     {
-      "src": "uywjs16z45454.jpg",
+      "src": "icon-192x192.png",
       "sizes": "192x192",
-      "type": "image/jpeg",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
       "purpose": "any maskable"
     }
   ]
