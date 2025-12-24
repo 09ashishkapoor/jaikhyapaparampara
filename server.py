@@ -47,7 +47,6 @@ class GzipHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
         """Handle GET requests with compression"""
         # Check Accept-Encoding before sending headers
         accept_encoding = self.headers.get('Accept-Encoding', '')
-        should_compress = 'gzip' in accept_encoding and self.path.endswith(('.html', '.js', '.css', '.json', '.xml', '.svg'))
         
         # Read the file to check size and compress if needed
         try:
@@ -57,10 +56,24 @@ class GzipHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):
             else:
                 file_path = self.translate_path(self.path)
             
+            # Clean URLs support: if path is a directory, look for index.html
+            if os.path.isdir(file_path):
+                index_path = os.path.join(file_path, 'index.html')
+                if os.path.isfile(index_path):
+                    file_path = index_path
+            
+            # Clean URLs support: if file doesn't exist, try appending .html
+            if not os.path.isfile(file_path) and not file_path.endswith('.html'):
+                if os.path.isfile(file_path + '.html'):
+                    file_path += '.html'
+            
             # Check if file exists
             if not os.path.isfile(file_path):
                 self.send_error(404)
                 return
+            
+            # Determine if we should compress based on the actual file found
+            should_compress = 'gzip' in accept_encoding and file_path.endswith(('.html', '.js', '.css', '.json', '.xml', '.svg'))
             
             # Read content
             with open(file_path, 'rb') as f:
