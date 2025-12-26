@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
    <url>
       <loc>https://jaikhyapaparampara.com/</loc>
-      <lastmod>2025-12-16</lastmod>
+      <lastmod>2025-12-25</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       <xhtml:link rel="alternate" hreflang="en" href="https://jaikhyapaparampara.com/"/>
@@ -61,6 +61,12 @@
    <url>
       <loc>https://jaikhyapaparampara.com/articles/the-chathurthapurush-and-gupta-sadhak-shyamakhyapa.html</loc>
       <lastmod>2025-12-24</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://jaikhyapaparampara.com/articles/living-bhairava-bama-khepa-guru-parampara.html</loc>
+      <lastmod>2025-12-25</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>

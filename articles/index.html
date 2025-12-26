@@ -59,6 +59,12 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
 .filter-btn{background:transparent;border:2px solid var(--accent-color);color:var(--accent-color);padding:0.6rem 1.5rem;border-radius:25px;cursor:pointer;font-family:'Crimson Text',serif;font-size:1rem;font-weight:600;transition:all 0.3s ease;}
 .filter-btn:hover,.filter-btn.active{background:var(--accent-color);color:var(--light-bg);box-shadow:0 0 15px rgba(232,196,104,0.4);}
 
+/* Search Bar */
+.search-container{max-width:600px;margin:0 auto 2rem auto;position:relative;}
+.search-input{width:100%;background:rgba(45,15,24,0.6);border:1px solid var(--border-gold);border-radius:30px;padding:0.8rem 1.5rem;color:var(--text-light);font-family:'Crimson Text',serif;font-size:1.1rem;transition:all 0.3s ease;outline:none;}
+.search-input:focus{border-color:var(--accent-color);box-shadow:0 0 15px rgba(232,196,104,0.2);background:rgba(45,15,24,0.8);}
+.no-results{text-align:center;padding:3rem;display:none;color:var(--accent-color);font-size:1.2rem;font-style:italic;}
+
 /* Articles Grid */
 .articles-section{padding:3rem 0 5rem 0;}
 .articles-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(350px,1fr));gap:2rem;margin-top:2rem;}
@@ -135,6 +141,10 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
 
     <!-- Category Filters -->
     <section class="container">
+        <div class="search-container">
+            <input type="text" id="articleSearch" class="search-input" placeholder="Search by title or summary..." aria-label="Search articles">
+            <p style="font-size: 0.85rem; color: var(--accent-color); opacity: 0.7; margin-top: 0.5rem; text-align: center;">* Searches titles and excerpts only</p>
+        </div>
         <div class="category-filters">
             <button class="filter-btn active" data-category="all">All Articles</button>
             <button class="filter-btn" data-category="guru-stories">Stories of the Masters</button>
@@ -146,7 +156,22 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
     <!-- Articles Grid -->
     <section class="articles-section">
         <div class="container">
+            <div id="noResults" class="no-results">No articles found matching your search.</div>
             <div class="articles-grid" id="articlesGrid">
+                <!-- Article Card 5 -->
+                <article class="article-card" data-category="guru-stories">
+                    <span class="article-category">Guru Stories</span>
+                    <h3><a href="living-bhairava-bama-khepa-guru-parampara.html">Living Bhairava: Bama Khepa and the Khyapa Parampara</a></h3>
+                    <div class="article-meta">
+                        <span>📅 December 25, 2025</span>
+                        <span>⏱ 10 min read</span>
+                    </div>
+                    <p class="article-excerpt">
+                        Shri Praveen RadhaKrishna reveals his ParamGuru - Bama Khepa Baba, the concept of "Procedural Collapse," and the raw reality of Ma Kali. Learn about the 'divine insanity' of the Khyapa tradition and the bridge between Tripura Sundari and Ma Kali.
+                    </p>
+                    <a href="living-bhairava-bama-khepa-guru-parampara.html" class="read-more">Read Full Article</a>
+                </article>
+
                 <!-- Article Card 4 -->
                 <article class="article-card" data-category="sacred-texts">
                     <span class="article-category">Temple of Knowledge</span>
@@ -218,27 +243,50 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
     </footer>
 
     <script>
-        // Category filtering
         const filterBtns = document.querySelectorAll('.filter-btn');
         const articleCards = document.querySelectorAll('.article-card');
+        const searchInput = document.getElementById('articleSearch');
+        const noResults = document.getElementById('noResults');
 
+        let currentCategory = 'all';
+        let searchQuery = '';
+
+        function filterArticles() {
+            let visibleCount = 0;
+            
+            articleCards.forEach(card => {
+                const title = card.querySelector('h3').textContent.toLowerCase();
+                const excerpt = card.querySelector('.article-excerpt').textContent.toLowerCase();
+                const category = card.dataset.category;
+                
+                const matchesCategory = currentCategory === 'all' || category === currentCategory;
+                const matchesSearch = title.includes(searchQuery) || excerpt.includes(searchQuery);
+
+                if (matchesCategory && matchesSearch) {
+                    card.style.display = 'block';
+                    visibleCount++;
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+
+            noResults.style.display = visibleCount === 0 ? 'block' : 'none';
+        }
+
+        // Category filtering
         filterBtns.forEach(btn => {
             btn.addEventListener('click', () => {
-                // Update active button
                 filterBtns.forEach(b => b.classList.remove('active'));
                 btn.classList.add('active');
-
-                const category = btn.dataset.category;
-
-                // Filter articles
-                articleCards.forEach(card => {
-                    if (category === 'all' || card.dataset.category === category) {
-                        card.style.display = 'block';
-                    } else {
-                        card.style.display = 'none';
-                    }
-                });
+                currentCategory = btn.dataset.category;
+                filterArticles();
             });
+        });
+
+        // Search filtering
+        searchInput.addEventListener('input', (e) => {
+            searchQuery = e.target.value.toLowerCase().trim();
+            filterArticles();
         });
     </script>
 </body>

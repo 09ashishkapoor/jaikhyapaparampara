@@ -11,8 +11,8 @@
     <meta name="robots" content="index, follow">
     
     <!-- Build tracking - UPDATE THESE when you make changes to the site -->
-    <meta name="build-version" content="1.26">
-    <meta name="build-date" content="2025-12-25T12:17:40Z">
+    <meta name="build-version" content="1.27">
+    <meta name="build-date" content="2025-12-25T23:57:46Z">
     
     <link rel="canonical" href="https://jaikhyapaparampara.com/">
     <!-- Hreflang for client-side language switching: x-default covers both languages -->
@@ -97,6 +97,34 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
 .particles-container{display:none}
 .hero-bg{background-image:var(--temple-gradient),radial-gradient(2px 2px at 20% 30%,rgba(232,196,104,.2),transparent),radial-gradient(2px 2px at 60% 70%,rgba(232,196,104,.15),transparent),radial-gradient(1px 1px at 50% 50%,rgba(232,196,104,.25),transparent),radial-gradient(1px 1px at 30% 80%,rgba(232,196,104,.2),transparent),radial-gradient(2px 2px at 90% 10%,rgba(232,196,104,.15),transparent),radial-gradient(1px 1px at 40% 40%,rgba(232,196,104,.18),transparent),radial-gradient(2px 2px at 70% 20%,rgba(232,196,104,.22),transparent),radial-gradient(1px 1px at 10% 60%,rgba(232,196,104,.2),transparent);background-size:auto,200px 200px,200px 200px,200px 200px,200px 200px,200px 200px,200px 200px,200px 200px,200px 200px;background-repeat:no-repeat,repeat,repeat,repeat,repeat,repeat,repeat,repeat,repeat}
 .divine-image{transition:opacity .3s ease!important;transform:none!important}
+.divine-image.mother {
+    width: 320px !important;
+    height: 320px !important;
+    border-radius: 0 !important;
+    clip-path: polygon(0 0, 100% 0, 50% 100%) !important;
+    -webkit-clip-path: polygon(0 0, 100% 0, 50% 100%) !important;
+    border: none !important;
+    background: var(--gold-gradient) !important;
+    padding: 4px !important;
+    filter: drop-shadow(0 0 25px rgba(232, 196, 104, 0.5)) !important;
+}
+.divine-image.mother img {
+    clip-path: polygon(0 0, 100% 0, 50% 100%) !important;
+    -webkit-clip-path: polygon(0 0, 100% 0, 50% 100%) !important;
+    object-position: center 20% !important;
+}
+@media (max-width: 768px) {
+    .divine-image.mother {
+        width: 240px !important;
+        height: 240px !important;
+    }
+}
+@media (max-width: 480px) {
+    .divine-image.mother {
+        width: 200px !important;
+        height: 200px !important;
+    }
+}
 .divine-image:hover{opacity:.9!important;transform:none!important}
 @keyframes divineGlowIdle{0%,100%{box-shadow:0 0 20px var(--accent-color)}}
 @keyframes divineGlow{0%,100%{box-shadow:0 0 25px var(--accent-color)}}
@@ -544,8 +572,8 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                     <p class="divine-caption" data-translate="hero-caption">Under the eternal gaze of Ma Adya Mahakali and the blessings of the Khyapas</p>
                     <div class="divine-image mother">
                         <picture>
-                            <source srcset="uywjs16z45454.webp" type="image/webp">
-                            <img src="uywjs16z45454.jpg" alt="Adya Mahakali - The Divine Mother Goddess of Khyapa Parampara Sahasranama" width="200" height="200" loading="eager">
+                            <source srcset="images/articles/ma-kali-tandava.webp" type="image/webp">
+                            <img src="images/articles/ma-kali-tandava.webp" alt="Adya Mahakali - The Divine Mother Goddess of Khyapa Parampara Sahasranama" width="320" height="320" loading="eager">
                         </picture>
                     </div>
                     <div class="divine-connector"></div>
@@ -994,7 +1022,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                 <p class="footer-blessing" data-translate="footer-blessing">Om Shri Gurubhyo Namaha | Jai Khyapa Parampara</p>
                 <p class="footer-description" data-translate="footer-description">May every word read here bring you closer to Ma Adya Mahakali.</p>
                 <p class="footer-meta" data-translate="footer-meta">&copy; 2025 KaliPutra-Ashish. All knowledge is forever free to share.</p>
-                <p id="site-version" class="footer-version"><span data-translate="footer-version">Version:</span> <span id="version-value">V1.26</span></p>
+                <p id="site-version" class="footer-version"><span data-translate="footer-version">Version:</span> <span id="version-value">V1.27</span></p>
                 <p id="site-last-updated" class="footer-updated"><span data-translate="footer-updated">Last Updated:</span> <span id="last-updated-value">December 25, 2025</span></p>
             </div>
         </div>
