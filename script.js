@@ -702,10 +702,26 @@ document.querySelectorAll('a[target="_blank"]').forEach(link => {
 // --- Particle/Sparkle Effect for Hero Section ---
 // Optimized to use existing container and avoid reflows
 const initParticles = () => {
-    // PERFORMANCE OPTIMIZATION: Disabled JavaScript particles to reduce main-thread work
-    // Replaced with lightweight CSS-only stars in .hero-bg::after
-    // This eliminates ~15 DOM elements and continuous animation calculations
-    return;
+    const container = document.querySelector('.particles-container');
+    if (!container) return;
+
+    // Create particles with staggered animations
+    const particleCount = 15;
+    
+    for (let i = 0; i < particleCount; i++) {
+        const particle = document.createElement('div');
+        particle.className = 'particle';
+        
+        // Random positioning
+        particle.style.left = Math.random() * 100 + '%';
+        particle.style.top = Math.random() * 100 + '%';
+        
+        // Stagger animation delays
+        particle.style.animationDelay = (i * 0.5) + 's';
+        particle.style.animationDuration = (6 + Math.random() * 4) + 's';
+        
+        container.appendChild(particle);
+    }
 };
 
 // --- FAQ Accordion Animation ---
