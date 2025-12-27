@@ -9,9 +9,10 @@ name = "jaikhyapaparampara-production"
 
 # Build configuration for optimal compression
 [build]
-command = "exit 0"  # No build step needed for static site
+command = "npm run build"
 cwd = "."
+watch_paths = ["blog/**", "_includes/**", "*.njk", "*.md"]
 
 # Static site configuration
 [site]
-bucket = "."
+bucket = "_site"
