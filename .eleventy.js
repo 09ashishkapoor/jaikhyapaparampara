@@ -19,8 +19,23 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("apple-touch-icon.png");
   eleventyConfig.addPassthroughCopy("manifest.json");
   eleventyConfig.addPassthroughCopy("robots.txt");
-  eleventyConfig.addPassthroughCopy("sitemap.xml");
   eleventyConfig.addPassthroughCopy("_headers");
+  
+  // Copy sitemap to root after build completes
+  eleventyConfig.on('eleventy.after', async ({ dir, results }) => {
+    const fs = require('fs');
+    const path = require('path');
+    const sitemapSrc = path.join(dir.output, 'sitemap.xml');
+    const sitemapDest = path.join('.', 'sitemap.xml');
+    
+    try {
+      if (fs.existsSync(sitemapSrc)) {
+        fs.copyFileSync(sitemapSrc, sitemapDest);
+      }
+    } catch (err) {
+      console.error('Error copying sitemap:', err);
+    }
+  });
   
   // Add date filter for formatting dates
   eleventyConfig.addFilter("dateDisplay", (dateObj) => {

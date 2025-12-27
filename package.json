@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Jai Khyapa Parampara - Spiritual website with 11ty blog",
   "scripts": {
-    "build": "eleventy && powershell -Command \"Copy-Item -Path '_site/sitemap.xml' -Destination 'sitemap.xml' -Force\"",
+    "build": "eleventy",
     "serve": "eleventy --serve",
     "start": "eleventy --serve"
   },
