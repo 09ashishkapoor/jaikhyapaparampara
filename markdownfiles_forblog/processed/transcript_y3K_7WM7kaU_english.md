@@ -51,13 +51,13 @@ A true disciple is rare. Out of a thousand people initiated, maybe two or three 
 
 **Gurudev:** It is a connection of many births. A "Janmantar Guru" (Guru of many lives) is someone you must eventually find, whether you are in America or Russia. You will start in this life exactly where you left off in the last. It takes many births—sometimes seven—to complete the journey.
 
-I know of disciples of mine who are currently practicing intense meditation in Kamakhya, Pashupatinath, or Varanasi. They don't even call me; I hear about them from others. Once, a powerful Aghori Tantric came all the way from Mayong. He said he came because Lord Mahadev commanded him to perform a ritual here. The path of the Guru and disciple is profound. Often, they don't even need to see each other physically; the Guru helps the disciple from behind the scenes.
+I know of disciples of mine who are currently practicing intense meditation in Kamakhya, Pashupatinath, or Varanasi. They don't even call me; I hear about them from others. Once, a powerful Aghori Tantric came all the way from Mayong. He said he came because Lord Mahadev commanded him to perform a ritual here. The path of the Guru and disciple is sacred. Often, they don't even need to see each other physically; the Guru helps the disciple from behind the scenes.
 
 Unfortunately, nowadays, some people try to "steal" disciples from other Gurus by calling them and luring them away. I don't care about that. If someone wants to leave, they are free to go. I haven't signed a bond with anyone. 
 
 The responsibility of a Guru is immense. He must treat his disciples according to their nature. Not all disciples are good; some are greedy or full of envy. Some even slander the Guru. But it doesn't matter. Slander me if you wish; it doesn't change anything.
 
-**Disciple:** Dear viewers, you’ve heard some profound words from Gurudev. Many people are waiting outside for initiation today because they’ve realized there is no way forward without a Guru or God. However, I must inform you through this episode that due to the extreme heat and Gurudev’s current health, he is unable to give *Diksha* right now. Gurudev has asked those interested to leave their names, and we will contact you once the weather improves and he feels better. 
+**Disciple:** Dear viewers, you’ve heard some powerful words from Gurudev. Many people are waiting outside for initiation today because they’ve realized there is no way forward without a Guru or God. However, I must inform you through this episode that due to the extreme heat and Gurudev’s current health, he is unable to give *Diksha* right now. Gurudev has asked those interested to leave their names, and we will contact you once the weather improves and he feels better. 
 
 **Gurudev:** Yes, giving initiation requires fulfilling many responsibilities, and given my age and health, it is difficult right now. 
 

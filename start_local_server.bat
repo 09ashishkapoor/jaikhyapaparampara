@@ -1,32 +1,36 @@
 @echo off
 echo ========================================
 echo Jai Khyapa Parampara Library
-echo Local Server Launcher
+echo Local Server Launcher (11ty + Blog)
 echo ========================================
 echo.
 
-echo Checking for Python...
-python --version >nul 2>&1
+echo Checking for Node.js...
+node --version >nul 2>&1
 if %errorlevel% neq 0 (
-    echo Python is not installed!
+    echo Node.js is not installed!
     echo.
-    echo Please install Python from: https://www.python.org/downloads/
-    echo Or open index.html directly in your browser.
+    echo Please install Node.js from: https://nodejs.org/
+    echo Or use the Python server with: python server.py
     echo.
     pause
-    start index.html
     exit
 )
 
-echo Python found! Starting local server...
+echo Node.js found! Starting 11ty development server...
+echo.
+echo Building and serving your website with live reload...
 echo.
 echo Your website will be available at:
-echo    http://localhost:8000
+echo    http://localhost:8080
+echo.
+echo Blog section available at:
+echo    http://localhost:8080/blog/
 echo.
 echo Press Ctrl+C to stop the server
 echo ========================================
 echo.
 
 cd /d "%~dp0"
-start http://localhost:8000
-python server.py
+start http://localhost:8080
+npm run serve

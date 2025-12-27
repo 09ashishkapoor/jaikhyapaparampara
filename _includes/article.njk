@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ description }}">
+    <meta name="keywords" content="{{ keywords }}">
+    <meta name="author" content="{{ author or 'KaliPutra-Ashish' }}">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Build tracking -->
+    <meta name="build-version" content="1.0">
+    <meta name="build-date" content="{{ page.date | isoDate }}">
+    
+    <link rel="canonical" href="https://jaikhyapaparampara.com{{ page.url }}">
+    
+    <!-- PWA & Mobile -->
+    <meta name="theme-color" content="#8B2635">
+    
+    <!-- Open Graph -->
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://jaikhyapaparampara.com{{ page.url }}">
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:description" content="{{ description }}">
+    <meta property="og:image" content="https://jaikhyapaparampara.com/{{ featuredImage or 'Bama_Khepa.webp' }}">
+    <meta property="article:published_time" content="{{ page.date | isoDate }}">
+    <meta property="article:author" content="{{ author or 'KaliPutra-Ashish' }}">
+    <meta property="article:section" content="{{ category }}">
+    {% for tag in tags %}
+    {% if tag != "articles" %}
+    <meta property="article:tag" content="{{ tag }}">
+    {% endif %}
+    {% endfor %}
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ title }}">
+    <meta name="twitter:description" content="{{ description }}">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/manifest.json">
+    
+    <title>{{ title }} | Jai Khyapa Parampara</title>
+    
+    <!-- Schema.org structured data for SEO -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "{{ title }}",
+      "description": "{{ description }}",
+      "image": "https://jaikhyapaparampara.com/{{ featuredImage or 'Bama_Khepa.webp' }}",
+      "datePublished": "{{ page.date | isoDate }}",
+      "dateModified": "{{ page.date | isoDate }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ author or 'KaliPutra-Ashish' }}"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Jai Khyapa Parampara",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://jaikhyapaparampara.com/favicon-96x96.png"
+        }
+      },
+      "articleSection": "{{ category }}",
+      "keywords": "{{ keywords }}",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://jaikhyapaparampara.com{{ page.url }}"
+      }
+    }
+    </script>
+    
+    <!-- Breadcrumb structured data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://jaikhyapaparampara.com/"
+      },{
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://jaikhyapaparampara.com/blog/"
+      },{
+        "@type": "ListItem",
+        "position": 3,
+        "name": "{{ title }}",
+        "item": "https://jaikhyapaparampara.com{{ page.url }}"
+      }]
+    }
+    </script>
+    
+    <style>
+:root{--primary-color:#8B2635;--accent-color:#E8C468;--accent-bright:#F4E4C1;--light-bg:#1F0B11;--text-dark:#F0DCC8;--text-light:#FFF8F0;--shadow-colored:rgba(74,14,23,0.7);--border-gold:rgba(232,196,104,0.4);--gold-gradient:linear-gradient(135deg,#B8935A 0%,#C9A962 25%,#E8C468 50%,#F4E4C1 60%,#E8C468 75%,#C9A962 90%,#B8935A 100%);--temple-gradient:radial-gradient(ellipse at top,#2D0F18 0%,#1F0B11 45%,#0D0506 100%);}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);background-color:var(--light-bg);overflow-x:hidden;}
+
+/* Header */
+.header{background:linear-gradient(135deg,rgba(13,5,6,0.96) 0%,rgba(31,11,17,0.96) 100%);padding:1rem 0;position:sticky;top:0;z-index:1000;box-shadow:0 4px 25px var(--shadow-colored),0 0 20px rgba(232,196,104,0.08);border-bottom:1px solid var(--border-gold);min-height:80px;}
+.nav{display:flex;justify-content:space-between;align-items:center;}
+.container{max-width:1200px;margin:0 auto;padding:0 20px;}
+.logo .logo-title{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:1.8rem;font-weight:700;text-shadow:2px 2px 4px rgba(0,0,0,0.5);line-height:1.2;}
+.nav-menu{display:flex;list-style:none;gap:2rem;min-height:1.6rem;}
+.nav-menu a{color:var(--text-light);text-decoration:none;font-size:1.1rem;font-weight:600;transition:color 0.3s ease;}
+.nav-menu a:hover,.nav-menu a.active{color:var(--accent-color);}
+
+/* Breadcrumbs */
+.breadcrumbs{padding:1.5rem 0 0.5rem 0;font-size:0.95rem;}
+.breadcrumbs a{color:var(--accent-color);text-decoration:none;}
+.breadcrumbs a:hover{text-decoration:underline;}
+.breadcrumbs span{color:var(--text-dark);opacity:0.6;margin:0 0.5rem;}
+
+/* Article Header */
+.article-header{padding:2rem 0 1rem 0;border-bottom:1px solid var(--border-gold);}
+.article-category{display:inline-block;background:transparent;border:1px solid var(--accent-color);color:var(--accent-color);padding:0.4rem 1.2rem;border-radius:20px;font-size:0.9rem;font-weight:600;margin-bottom:1.5rem;letter-spacing:0.5px;}
+.article-title{font-family:'Philosopher',sans-serif;color:var(--accent-bright);font-size:2.5rem;line-height:1.3;margin-bottom:1rem;}
+.article-meta{display:flex;gap:2rem;color:var(--accent-color);font-size:0.95rem;margin-bottom:1rem;flex-wrap:wrap;opacity:0.9;}
+.article-source{background:linear-gradient(135deg,rgba(45,15,24,0.4) 0%,rgba(31,11,17,0.4) 100%);border:1px solid var(--border-gold);border-radius:5px;padding:1rem 1.5rem;margin-top:1rem;font-size:0.95rem;line-height:1.6;}
+.article-source p{margin:0.3rem 0;}
+
+/* Article Content */
+.article-content{max-width:900px;margin:0 auto;padding:3rem 20px;}
+.article-content h2{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:1.8rem;margin:2.5rem 0 1rem 0;line-height:1.3;}
+.article-content h3{font-family:'Philosopher',sans-serif;color:var(--accent-bright);font-size:1.4rem;margin:2rem 0 1rem 0;line-height:1.3;}
+.article-content p{margin-bottom:1.5rem;font-size:1.1rem;line-height:1.9;}
+.article-content em{color:var(--accent-bright);font-style:italic;}
+.article-content strong{color:var(--accent-bright);font-weight:700;}
+.article-content ul,.article-content ol{margin:1.5rem 0 1.5rem 2rem;}
+.article-content li{margin-bottom:0.8rem;font-size:1.1rem;line-height:1.8;}
+.article-content blockquote{border-left:4px solid var(--accent-color);padding-left:1.5rem;margin:2rem 0;font-style:italic;color:var(--accent-bright);background:linear-gradient(135deg,rgba(45,15,24,0.3) 0%,rgba(31,11,17,0.3) 100%);padding:1.5rem;border-radius:5px;text-align:center;}
+.recitation-guide{background:rgba(232,196,104,0.05);border:1px solid var(--border-gold);padding:2rem;border-radius:8px;margin:2rem 0;font-family:'Crimson Text',serif;font-size:1.1rem;line-height:1.6;text-align:center;}
+.recitation-guide p{margin-bottom:1rem;}
+
+.sanskrit-verse {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.sanskrit-verse p, p.sanskrit-verse {
+    font-style: italic;
+    color: var(--accent-bright);
+    line-height: 2;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+/* Article Image */
+.article-image-container{margin:2.5rem 0;text-align:center;}
+.article-image{max-width:100%;height:auto;border:1px solid var(--border-gold);border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.5);transition:transform 0.3s ease;}
+.article-image:hover{transform:scale(1.02);border-color:var(--accent-color);}
+.image-caption{margin-top:1rem;font-size:0.95rem;color:var(--accent-color);font-style:italic;opacity:0.8;}
+
+/* Article Footer */
+.article-footer{border-top:1px solid var(--border-gold);padding:3rem 0 2rem 0;margin-top:3rem;}
+.back-link{display:inline-block;background:var(--gold-gradient);color:var(--light-bg);padding:0.8rem 1.8rem;border-radius:5px;text-decoration:none;font-weight:700;transition:all 0.3s ease;box-shadow:0 2px 10px rgba(232,196,104,0.3);}
+.back-link:hover{transform:scale(1.05);box-shadow:0 4px 20px rgba(232,196,104,0.5);}
+.article-tags{margin-top:1.5rem;display:flex;gap:0.8rem;flex-wrap:wrap;}
+.tag{background:transparent;border:1px solid var(--border-gold);color:var(--accent-color);padding:0.4rem 1rem;border-radius:15px;font-size:0.85rem;text-decoration:none;transition:all 0.3s ease;}
+.tag:hover{border-color:var(--accent-color);background:rgba(232,196,104,0.1);}
+
+/* Footer */
+.footer{background:linear-gradient(135deg,#0D0506 0%,#1F0B11 50%,#0D0506 100%);padding:2.5rem 0 3rem 0;text-align:center;border-top:1.5px solid var(--border-gold);box-shadow:0 -4px 25px var(--shadow-colored);}
+.footer-content{display:flex;flex-direction:column;gap:0.5rem;}
+.footer-blessing{font-size:1.2rem;font-weight:600;margin-bottom:0.5rem;color:var(--accent-color);text-shadow:1px 1px 2px rgba(0,0,0,0.5);}
+.footer-description{font-size:1.05rem;margin-bottom:0.5rem;font-style:italic;color:var(--text-dark);}
+.footer-meta{font-size:0.95rem;color:var(--text-dark);opacity:0.9;}
+
+/* Responsive */
+@media(max-width:768px){
+.header{padding:0.6rem 0;min-height:auto;}
+.nav{flex-direction:column;gap:0.6rem;text-align:center;}
+.logo .logo-title{font-size:1.3rem;letter-spacing:1px;}
+.nav-menu{gap:1.2rem;font-size:0.9rem;justify-content:center;width:100%;}
+.nav-menu a{padding:0.4rem 0;display:inline-block;}
+.breadcrumbs{padding:0.8rem 0 0.4rem 0;font-size:0.8rem;line-height:1.4;}
+.article-header{padding:1.2rem 0 0.8rem 0;}
+.article-title{font-size:1.5rem;line-height:1.2;}
+.article-meta{gap:0.6rem;font-size:0.8rem;}
+.article-content{padding:1.5rem 15px;}
+.article-content h2{font-size:1.3rem;margin:1.8rem 0 0.6rem 0;}
+.article-content h3{font-size:1.15rem;}
+.article-content p{font-size:1rem;line-height:1.7;margin-bottom:1.2rem;}
+.article-content blockquote{padding:1rem;margin:1.2rem 0;font-size:1rem;}
+.article-image-container{margin:1.2rem 0;}
+.article-footer{padding:2rem 0 1.5rem 0;margin-top:2rem;text-align:center;}
+.article-tags{justify-content:center;}
+.footer{padding:1.5rem 0.75rem;}
+.footer-content{gap:0.35rem;}
+.footer-blessing{font-size:1rem;}
+.footer-description{font-size:0.9rem;}
+.footer-meta{font-size:0.85rem;}
+}
+    </style>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=Philosopher:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <nav class="nav container">
+            <div class="logo">
+                <div class="logo-title"><a href="/index.html" style="text-decoration:none;color:inherit;">JAI KHYAPA PARAMPARA</a></div>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="/index.html#sacred-texts">Temple of Knowledge</a></li>
+                <li><a href="/blog/" class="active">Blog</a></li>
+                <li><a href="/index.html#about">About</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Breadcrumbs -->
+    <div class="container">
+        <nav class="breadcrumbs">
+            <a href="/index.html">Home</a>
+            <span>›</span>
+            <a href="/blog/">Blog</a>
+            <span>›</span>
+            <span>{{ breadcrumbTitle or title }}</span>
+        </nav>
+    </div>
+
+    <!-- Article Header -->
+    <article>
+        <header class="article-header container">
+            <span class="article-category">{{ category }}</span>
+            <h1 class="article-title">{{ title }}</h1>
+            <div class="article-meta">
+                <span>📅 {{ page.date | dateDisplay }}</span>
+                <span>{% if category != 'Guru Stories' %}✍️ {% endif %}By {{ author or 'KaliPutra-Ashish' }}</span>
+                {% if readingTime %}<span>⏱ {{ readingTime }} min read</span>{% endif %}
+            </div>
+            {% if source %}
+            <div class="article-source">
+                {{ source | safe }}
+            </div>
+            {% endif %}
+        </header>
+
+        <!-- Article Content -->
+        <div class="article-content">
+            {{ content | safe }}
+        </div>
+
+        <!-- Article Footer -->
+        <footer class="article-footer container">
+            <a href="/blog/" class="back-link">← Back to All Articles</a>
+            <div class="article-tags">
+                {% for tag in tags %}
+                {% if tag != "articles" %}
+                <a href="/blog/?tag={{ tag }}" class="tag">{{ tag }}</a>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </footer>
+    </article>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <p class="footer-blessing">Om Shri Gurubhyo Namaha | Jai Khyapa Parampara</p>
+                <p class="footer-description">May every word read here bring you closer to Ma Adya Mahakali.</p>
+                <p class="footer-meta">&copy; 2025 KaliPutra-Ashish. All knowledge is forever free to share.</p>
+                <p class="footer-meta" style="margin-top: 0.5rem; font-size: 0.85rem; opacity: 0.7;">
+                    Built with <a href="https://www.11ty.dev/" target="_blank" rel="noopener" style="color: var(--accent-color); text-decoration: none; border-bottom: 1px solid var(--border-gold);">11ty</a>
+                </p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

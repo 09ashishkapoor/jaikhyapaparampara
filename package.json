@@ -1,0 +1,16 @@
+{
+  "name": "jaikhyapaparampara",
+  "version": "1.0.0",
+  "description": "Jai Khyapa Parampara - Spiritual website with 11ty blog",
+  "scripts": {
+    "build": "eleventy && powershell -Command \"Copy-Item -Path '_site/sitemap.xml' -Destination 'sitemap.xml' -Force\"",
+    "serve": "eleventy --serve",
+    "start": "eleventy --serve"
+  },
+  "keywords": ["spiritual", "blog", "11ty"],
+  "author": "KaliPutra-Ashish",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}

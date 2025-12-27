@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ description or 'Jai Khyapa Parampara - Spiritual wisdom, articles, and sacred teachings' }}">
+    <meta name="theme-color" content="#8B2635">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/manifest.json">
+    <title>{{ title }} | Jai Khyapa Parampara</title>
+    
+    <style>
+:root{--primary-color:#8B2635;--accent-color:#E8C468;--accent-bright:#F4E4C1;--light-bg:#1F0B11;--text-dark:#F0DCC8;--text-light:#FFF8F0;--shadow-colored:rgba(74,14,23,0.7);--border-gold:rgba(232,196,104,0.4);--gold-gradient:linear-gradient(135deg,#B8935A 0%,#C9A962 25%,#E8C468 50%,#F4E4C1 60%,#E8C468 75%,#C9A962 90%,#B8935A 100%);--temple-gradient:radial-gradient(ellipse at top,#2D0F18 0%,#1F0B11 45%,#0D0506 100%);}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);background-color:var(--light-bg);overflow-x:hidden;}
+.header{background:linear-gradient(135deg,rgba(13,5,6,0.96) 0%,rgba(31,11,17,0.96) 100%);padding:1rem 0;position:sticky;top:0;z-index:1000;box-shadow:0 4px 25px var(--shadow-colored),0 0 20px rgba(232,196,104,0.08);border-bottom:1px solid var(--border-gold);min-height:80px;}
+.nav{display:flex;justify-content:space-between;align-items:center;}
+.container{max-width:1200px;margin:0 auto;padding:0 20px;}
+.logo .logo-title{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:1.8rem;font-weight:700;text-shadow:2px 2px 4px rgba(0,0,0,0.5);line-height:1.2;}
+.nav-menu{display:flex;list-style:none;gap:2rem;min-height:1.6rem;}
+.nav-menu a{color:var(--text-light);text-decoration:none;font-size:1.1rem;font-weight:600;transition:color 0.3s ease;}
+.nav-menu a:hover,.nav-menu a.active{color:var(--accent-color);}
+.footer{background:linear-gradient(135deg,#0D0506 0%,#1F0B11 50%,#0D0506 100%);padding:2.5rem 0 3rem 0;text-align:center;border-top:1.5px solid var(--border-gold);box-shadow:0 -4px 25px var(--shadow-colored);margin-top:4rem;}
+.footer-content{display:flex;flex-direction:column;gap:0.5rem;}
+.footer-blessing{font-size:1.2rem;font-weight:600;margin-bottom:0.5rem;color:var(--accent-color);text-shadow:1px 1px 2px rgba(0,0,0,0.5);}
+.footer-description{font-size:1.05rem;margin-bottom:0.5rem;font-style:italic;color:var(--text-dark);}
+.footer-meta{font-size:0.95rem;color:var(--text-dark);opacity:0.9;}
+@media(max-width:768px){
+.header{padding:0.6rem 0;min-height:auto;}
+.nav{flex-direction:column;gap:0.6rem;text-align:center;}
+.logo .logo-title{font-size:1.3rem;}
+.nav-menu{gap:1.2rem;font-size:0.9rem;width:100%;justify-content:center;}
+}
+    </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=Philosopher:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <nav class="nav container">
+            <div class="logo">
+                <div class="logo-title"><a href="/index.html" style="text-decoration:none;color:inherit;">JAI KHYAPA PARAMPARA</a></div>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="/index.html#sacred-texts">Temple of Knowledge</a></li>
+                <li><a href="/blog/" class="active">Blog</a></li>
+                <li><a href="/index.html#about">About</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        {{ content | safe }}
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <p class="footer-blessing">Om Shri Gurubhyo Namaha | Jai Khyapa Parampara</p>
+                <p class="footer-description">May every word read here bring you closer to Ma Adya Mahakali.</p>
+                <p class="footer-meta">&copy; 2025 KaliPutra-Ashish. All knowledge is forever free to share.</p>
+                <p class="footer-meta" style="margin-top: 0.5rem; font-size: 0.85rem; opacity: 0.7;">
+                    Built with <a href="https://www.11ty.dev/" target="_blank" rel="noopener" style="color: var(--accent-color); text-decoration: none; border-bottom: 1px solid var(--border-gold);">11ty</a>
+                </p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

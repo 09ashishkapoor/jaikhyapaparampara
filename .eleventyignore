@@ -1,0 +1,15 @@
+README.md
+node_modules
+articles/
+markdownfiles_forblog/
+website_redesign_plan/
+*.py
+*.bat
+wrangler.toml
+_START_HERE.txt
+HINDI_SEO_CHECKLIST.md
+PERFORMANCE_OPTIMIZATION_REPORT.md
+QUICK_PERFORMANCE_GUIDE.md
+SEO_ENHANCEMENTS_APPLIED.md
+SEO_HINDI_ENHANCEMENTS.md
+report.json

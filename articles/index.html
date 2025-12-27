@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Sacred articles from the Khyapa Parampara - Stories of Gurus, lineage history, and spiritual teachings from the tradition of Bama Khepa and Tarapith. Explore the lives of hidden masters and the path of Kali Sadhana.">
+    <meta name="description" content="Sacred articles from Khyapa Parampara - Stories of Gurus, lineage history, and spiritual teachings from Bama Khepa and Tarapith tradition.">
     <meta name="keywords" content="Khyapa Parampara, Guru stories, lineage history, Bama Khepa, Tarapith, ShyamaKhyapa, spiritual articles, Kali sadhana, Aghori, Tantra, spiritual blog, sacred texts">
     <meta name="author" content="KaliPutra-Ashish">
     <meta name="robots" content="index, follow">
@@ -30,11 +30,55 @@
     <meta name="twitter:description" content="Stories of Gurus, lineage history, and spiritual teachings from the Khyapa Parampara tradition.">
     
     <!-- Favicon -->
-    <link rel="icon" type="image/png" sizes="96x96" href="../favicon-96x96.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/manifest.json">
     
     <title>Our Stories & Wisdom | Jai Khyapa Parampara</title>
     
+    <!-- Schema.org structured data for SEO -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "headline": "Sacred Articles | Jai Khyapa Parampara",
+      "description": "Stories of Gurus, lineage history, and spiritual teachings from the Khyapa Parampara tradition. Explore the path of Kali Sadhana.",
+      "image": "https://jaikhyapaparampara.com/uywjs16z45454.jpg",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Jai Khyapa Parampara",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://jaikhyapaparampara.com/favicon-96x96.png"
+        }
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "url": "https://jaikhyapaparampara.com/articles/did-humans-create-god-guru-shyama-khyapa.html",
+            "name": "Did Humans Create God?"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "url": "https://jaikhyapaparampara.com/articles/guru-purnima-kalki-avatar-shyama-khyapa.html",
+            "name": "Guru Purnima & Kalki Avatar"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "url": "https://jaikhyapaparampara.com/articles/how-to-recognize-true-guru-shyama-khyapa.html",
+            "name": "Recognizing a True Guru"
+          }
+        ]
+      }
+    }
+    </script>
+
     <style>
 :root{--primary-color:#8B2635;--accent-color:#E8C468;--accent-bright:#F4E4C1;--light-bg:#1F0B11;--text-dark:#F0DCC8;--text-light:#FFF8F0;--shadow-colored:rgba(74,14,23,0.7);--border-gold:rgba(232,196,104,0.4);--gold-gradient:linear-gradient(135deg,#B8935A 0%,#C9A962 25%,#E8C468 50%,#F4E4C1 60%,#E8C468 75%,#C9A962 90%,#B8935A 100%);--temple-gradient:radial-gradient(ellipse at top,#2D0F18 0%,#1F0B11 45%,#0D0506 100%);}
 *{margin:0;padding:0;box-sizing:border-box;}
@@ -44,7 +88,7 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
 .header{background:linear-gradient(135deg,rgba(13,5,6,0.96) 0%,rgba(31,11,17,0.96) 100%);padding:1rem 0;position:sticky;top:0;z-index:1000;box-shadow:0 4px 25px var(--shadow-colored),0 0 20px rgba(232,196,104,0.08);border-bottom:1px solid var(--border-gold);min-height:80px;}
 .nav{display:flex;justify-content:space-between;align-items:center;}
 .container{max-width:1200px;margin:0 auto;padding:0 20px;}
-.logo h1{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:1.8rem;font-weight:700;text-shadow:2px 2px 4px rgba(0,0,0,0.5);line-height:1.2;}
+.logo .logo-title{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:1.8rem;font-weight:700;text-shadow:2px 2px 4px rgba(0,0,0,0.5);line-height:1.2;}
 .nav-menu{display:flex;list-style:none;gap:2rem;min-height:1.6rem;}
 .nav-menu a{color:var(--text-light);text-decoration:none;font-size:1.1rem;font-weight:600;transition:color 0.3s ease;}
 .nav-menu a:hover,.nav-menu a.active{color:var(--accent-color);}
@@ -92,7 +136,7 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
 @media(max-width:768px){
 .header{padding:0.6rem 0;min-height:auto;}
 .nav{flex-direction:column;gap:0.6rem;text-align:center;}
-.logo h1{font-size:1.3rem;letter-spacing:1px;}
+.logo .logo-title{font-size:1.3rem;letter-spacing:1px;}
 .nav-menu{gap:1.2rem;font-size:0.9rem;justify-content:center;width:100%;}
 .nav-menu a{padding:0.4rem 0;display:inline-block;}
 .articles-hero{padding:2.5rem 0 1.5rem 0;}
@@ -121,12 +165,12 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
     <header class="header">
         <nav class="nav container">
             <div class="logo">
-                <h1><a href="../index.html" style="text-decoration:none;color:inherit;">JAI KHYAPA PARAMPARA</a></h1>
+                <div class="logo-title"><a href="/index.html" style="text-decoration:none;color:inherit;">JAI KHYAPA PARAMPARA</a></div>
             </div>
             <ul class="nav-menu">
-                <li><a href="../#sacred-texts">Temple of Knowledge</a></li>
+                <li><a href="/index.html#sacred-texts">Temple of Knowledge</a></li>
                 <li><a href="index.html" class="active">Articles</a></li>
-                <li><a href="../#about">About</a></li>
+                <li><a href="/index.html#about">About</a></li>
             </ul>
         </nav>
     </header>
@@ -161,13 +205,13 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
                 <!-- Article Card 10 -->
                 <article class="article-card" data-category="guru-stories">
                     <span class="article-category">Guru Stories</span>
-                    <h3><a href="guru-purnima-kalki-avatar-shyama-khyapa.html">Guru Purnima and the Coming of Kalki — Guru Shyama Khyapa Baba</a></h3>
+                    <h3><a href="guru-purnima-kalki-avatar-shyama-khyapa.html">Guru Purnima and the Coming of Kalki — Guru Baba Shyama Khyapa</a></h3>
                     <div class="article-meta">
                         <span>📅 December 26, 2025</span>
                         <span>⏱ 16 min read</span>
                     </div>
                     <p class="article-excerpt">
-                        Guru Shyama Khyapa Baba discusses the profound significance of Guru Purnima, the sacred bond between Guru and disciple, and the terrifying prophecies of the coming Kalki Avatar as Kali Yuga ends early due to the intensity of human sin.
+                        Guru Baba Shyama Khyapa discusses the deep significance of Guru Purnima, the sacred bond between Guru and disciple, and the terrifying prophecies of the coming Kalki Avatar as Kali Yuga ends early due to the intensity of human sin.
                     </p>
                     <a href="guru-purnima-kalki-avatar-shyama-khyapa.html" class="read-more">Read Full Article</a>
                 </article>
@@ -175,13 +219,13 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
                 <!-- Article Card 9 -->
                 <article class="article-card" data-category="guru-stories">
                     <span class="article-category">Guru Stories</span>
-                    <h3><a href="how-to-recognize-true-guru-shyama-khyapa.html">How to Recognize a True Guru? — Guru Shyama Khyapa Baba</a></h3>
+                    <h3><a href="how-to-recognize-true-guru-shyama-khyapa.html">How to Recognize a True Guru? — Guru Baba Shyama Khyapa</a></h3>
                     <div class="article-meta">
                         <span>📅 December 26, 2025</span>
                         <span>⏱ 14 min read</span>
                     </div>
                     <p class="article-excerpt">
-                        How to distinguish between a real guru and a fake one? Guru Shyama Khyapa Baba explains the eight markers of a Sath-Guru, the true meaning of "Om Tat Sat", and why your own character determines the kind of guru you find.
+                        How to distinguish between a real guru and a fake one? Guru Baba Shyama Khyapa explains the eight markers of a Sath-Guru, the true meaning of "Om Tat Sat", and why your own character determines the kind of guru you find.
                     </p>
                     <a href="how-to-recognize-true-guru-shyama-khyapa.html" class="read-more">Read Full Article</a>
                 </article>
@@ -189,13 +233,13 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
                 <!-- Article Card 8 -->
                 <article class="article-card" data-category="guru-stories">
                     <span class="article-category">Guru Stories</span>
-                    <h3><a href="guru-responsibility-diksha-shyama-khyapa.html">The Essence of Diksha and Guru-Disciple Responsibility — Guru Shyama Khyapa Baba</a></h3>
+                    <h3><a href="guru-responsibility-diksha-shyama-khyapa.html">The Essence of Diksha and Guru-Disciple Responsibility — Guru Baba Shyama Khyapa</a></h3>
                     <div class="article-meta">
                         <span>📅 December 26, 2025</span>
                         <span>⏱ 12 min read</span>
                     </div>
                     <p class="article-excerpt">
-                        Explore the profound meaning of Diksha (initiation) and the sacred bond between Guru and disciple as explained by the mystic Guru Shyama Khyapa Baba. Learn about the Guru's heavy responsibility, the disciple's true duty, and the connection that spans multiple lifetimes.
+                        Explore the deep meaning of Diksha (initiation) and the sacred bond between Guru and disciple as explained by the mystic Guru Baba Shyama Khyapa. Learn about the Guru's heavy responsibility, the disciple's true duty, and the connection that spans multiple lifetimes.
                     </p>
                     <a href="guru-responsibility-diksha-shyama-khyapa.html" class="read-more">Read Full Article</a>
                 </article>
@@ -203,13 +247,13 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
                 <!-- Article Card 7 -->
                 <article class="article-card" data-category="guru-stories">
                     <span class="article-category">Guru Stories</span>
-                    <h3><a href="money-is-useless-guru-shyama-khyapa.html">Money is Useless? — Guru Shyama Khyapa Baba</a></h3>
+                    <h3><a href="money-is-useless-guru-shyama-khyapa.html">Money is Useless? — Guru Baba Shyama Khyapa</a></h3>
                     <div class="article-meta">
                         <span>📅 December 26, 2025</span>
                         <span>⏱ 15 min read</span>
                     </div>
                     <p class="article-excerpt">
-                        A profound teaching on the nature of wealth, greed, and spiritual abundance. Guru Shyama Khyapa Baba shares his personal journey from a wealthy exporter to a seeker of God, explaining why "sinful money" should be avoided and how the Divine Mother provides for true seekers.
+                        A dharmic teaching on the nature of wealth, greed, and spiritual abundance. Guru Shyama Khyapa Baba shares his personal journey from a wealthy exporter to a seeker of God, explaining why "sinful money" should be avoided and how the Divine Mother provides for true seekers.
                     </p>
                     <a href="money-is-useless-guru-shyama-khyapa.html" class="read-more">Read Full Article</a>
                 </article>
@@ -217,7 +261,7 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
                 <!-- Article Card 6 -->
                 <article class="article-card" data-category="guru-stories">
                     <span class="article-category">Guru Stories</span>
-                    <h3><a href="did-humans-create-god-guru-shyama-khyapa.html">Did Humans Create God? — Guru Shyama Khyapa Baba</a></h3>
+                    <h3><a href="did-humans-create-god-guru-shyama-khyapa.html">Did Humans Create God? — Guru Baba Shyama Khyapa</a></h3>
                     <div class="article-meta">
                         <span>📅 December 26, 2025</span>
                         <span>⏱ 18 min read</span>
@@ -361,3 +405,5 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
     </script>
 </body>
 </html>
+
+
