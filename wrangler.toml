@@ -3,7 +3,3 @@ compatibility_date = "2025-11-25"
 
 # Cloudflare Pages configuration
 pages_build_output_dir = "_site"
-
-# Build configuration
-[build]
-command = "npm run build"
