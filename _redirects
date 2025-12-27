@@ -1,0 +1,8 @@
+# Cloudflare Pages redirects and rewrites
+
+# Handle blog pagination
+/blog/2 /blog/2/index.html 200
+/blog/3 /blog/3/index.html 200
+
+# Ensure trailing slashes work
+/blog /blog/index.html 200
