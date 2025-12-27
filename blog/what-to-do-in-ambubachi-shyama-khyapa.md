@@ -28,11 +28,19 @@ source: |
 
 **[00:26 - 00:54] Greeting and Introduction**
 
-**Disciple:** Greetings, Gurudev.
+<div class="speaker-block">
+<span class="speaker-name">Disciple:</span>
+<span class="speech-text">Greetings, Gurudev.</span>
+</div>
+
 
 **Guru:** Greetings, greetings, my son.
 
-**Disciple:** Friends, we are back with a new episode. Ambubachi is just around the corner. I would like to ask Gurudev about the significance and the rules regarding Ambubachi.
+<div class="speaker-block">
+<span class="speaker-name">Disciple:</span>
+<span class="speech-text">Friends, we are back with a new episode. Ambubachi is just around the corner. I would like to ask Gurudev about the significance and the rules regarding Ambubachi.</span>
+</div>
+
 
 ---
 
@@ -102,7 +110,11 @@ I only believe that Mother Nature is menstruating. Therefore, be careful. Do not
 
 However, we who practice Tantra take three days off. We don't do anything because Mother is resting, and we don't want to disturb her even by calling out to her through prayer. 
 
-**Disciple:** You mean no chanting (Japa)?
+<div class="speaker-block">
+<span class="speaker-name">Disciple:</span>
+<span class="speech-text">You mean no chanting (Japa)?</span>
+</div>
+
 
 **Guru:** No, we stop everything. Chanting would disturb her. So, we take a three-day holiday. Ambubachi simply means honoring the water—the new rain that acts like honey for the new life in the soil.
 
@@ -110,14 +122,26 @@ However, we who practice Tantra take three days off. We don't do anything becaus
 
 **[12:51 - 13:35] Conclusion**
 
-**Disciple:** So, it’s actually a celebration of Nature’s cycle—of fertility and growth. And the main festival happens at Kamakhya.
+<div class="speaker-block">
+<span class="speaker-name">Disciple:</span>
+<span class="speech-text">So, it’s actually a celebration of Nature’s cycle—of fertility and growth. And the main festival happens at Kamakhya.</span>
+</div>
+
 
 **Guru:** Yes, but as I said, much of that has become a commercial spectacle. I've even seen land being sold there during the festival. It’s sad to see how low people have stooped. I can't stand it, so I usually keep quiet to avoid arguments.
 
-**Disciple:** You heard it from Gurudev. There is a lot of information out there, but this scientific and geographical explanation makes the most sense.
+<div class="speaker-block">
+<span class="speaker-name">Disciple:</span>
+<span class="speech-text">You heard it from Gurudev. There is a lot of information out there, but this scientific and geographical explanation makes the most sense.</span>
+</div>
+
 
 **Guru:** Exactly. It is a geographical, scientific, and philosophical explanation. Nothing more.
 
-**Disciple:** Let’s end the episode here. Stay healthy and well. Greetings, Gurudev.
+<div class="speaker-block">
+<span class="speaker-name">Disciple:</span>
+<span class="speech-text">Let’s end the episode here. Stay healthy and well. Greetings, Gurudev.</span>
+</div>
+
 
 **Guru:** Greetings, my son.

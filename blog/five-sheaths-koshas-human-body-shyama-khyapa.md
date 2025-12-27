@@ -21,11 +21,19 @@ source: |
   <p><a href="https://www.youtube.com/watch?v=zWSCRZYIuSs" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
 ---
 
-**Disciple:** Greetings, Gurudev.
+<div class="speaker-block">
+<span class="speaker-name">Disciple:</span>
+<span class="speech-text">Greetings, Gurudev.</span>
+</div>
+
 
 **Guru:** Greetings.
 
-**Disciple:** In the live session we did last Saturday, we received a question that I would like to hear more about from you in detail. The question is: What is the *Vijnanamaya Kosha*?
+<div class="speaker-block">
+<span class="speaker-name">Disciple:</span>
+<span class="speech-text">In the live session we did last Saturday, we received a question that I would like to hear more about from you in detail. The question is: What is the *Vijnanamaya Kosha*?</span>
+</div>
+
 
 **Guru:** Yes. There are five *koshas* (sheaths) in the human body. Each has its own function. That day, I couldn't explain it properly. I was asked if it was science, and I said yes, it is a science. But many people don’t have a clear idea about these five sheaths. 
 
@@ -53,6 +61,10 @@ The poet Ramprasad once wrote about how these "five ghosts" (the elements/sheath
 
 So, to the person who asked the question on Saturday, I have analyzed the five sheaths: Annamaya, Pranamaya, Manomaya, Vijnanamaya, and Anandamaya. This is how the human body is structured.
 
-**Disciple:** Thank you, Gurudev. We will conclude today's episode here. My respects to you.
+<div class="speaker-block">
+<span class="speaker-name">Disciple:</span>
+<span class="speech-text">Thank you, Gurudev. We will conclude today's episode here. My respects to you.</span>
+</div>
+
 
 **Guru:** My blessings to you.

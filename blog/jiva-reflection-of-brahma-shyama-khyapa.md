@@ -20,13 +20,25 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
-**Host:** Pronam, Gurudeb.
+<div class="speaker-block">
+<span class="speaker-name">Host:</span>
+<span class="speech-text">Pronam, Gurudeb.</span>
+</div>
 
-**Gurudeb:** Pronam. Yes, go ahead.
+<div class="speaker-block">
+<span class="speaker-name">Gurudev:</span>
+<span class="speech-text">Pronam. Yes, go ahead.</span>
+</div>
 
-**Host:** I have come to you with a few more questions. My first question is this: we often say—and you say as well—that the soul (*Jiva*) is a reflection of Brahman. However, we know that if a mirror breaks, the reflection is lost, but the original remains unchanged. Could you please elaborate on this?
+<div class="speaker-block">
+<span class="speaker-name">Host:</span>
+<span class="speech-text">I have come to you with a few more questions. My first question is this: we often say—and you say as well—that the soul (*Jiva*) is a reflection of Brahman. However, we know that if a mirror breaks, the reflection is lost, but the original remains unchanged. Could you please elaborate on this?</span>
+</div>
 
-**Gurudeb:** You see, "mirror" in this context refers to something specific. In rituals, idols are often made of clay or stone. During certain ceremonies, when we need to perform a ritual bath (*Mahasnan*) or offer various substances to the deity, we use a mirror. We cannot always pour these substances directly onto the idol as it might damage the material. Therefore, we use a mirror to capture the reflection of the deity.
+<div class="speaker-block">
+<span class="speaker-name">Gurudev:</span>
+<span class="speech-text">You see, "mirror" in this context refers to something specific. In rituals, idols are often made of clay or stone. During certain ceremonies, when we need to perform a ritual bath (*Mahasnan*) or offer various substances to the deity, we use a mirror. We cannot always pour these substances directly onto the idol as it might damage the material. Therefore, we use a mirror to capture the reflection of the deity.</span>
+</div>
 
 In every puja, you will find a mirror placed in a pot of water (*Kunda-hari*). It is positioned so that the deity's reflection is clearly visible. When the ritual bath is performed, the water and various medicinal herbs are poured onto the reflection in the mirror. This was a method devised by the great sages of the past to protect the physical idols. 
 

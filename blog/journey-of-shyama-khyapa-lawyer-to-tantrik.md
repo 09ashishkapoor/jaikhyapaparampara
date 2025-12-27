@@ -22,7 +22,11 @@ source: |
 
 **Interviewer:** Dear viewers, on this auspicious evening, I offer my respects to Mother Bama Tara of Shantikunj. Gurudev, I also offer my respects to you. We are starting today's episode. In your colorful life, there was a chapter where you were involved in the legal profession. We have received many comments, and we are also curious to know how you transitioned from that professional life into the spiritual world.
 
-**Gurudev:** Yes, I used to practice law. But once, I received a large order in Nepal, near the Pashupatinath Temple, for bridge coke. There was a bit of greed involved. They asked me to come to finalize the order, which was worth one crore rupees. So, I flew there. I reached Pashupatinath at 4:00 AM and found the deity alone. I had memorized many mantras and prayers since childhood from Durga Puja and Kali Puja, and I started reciting them there. The people there were surprised and asked me what I did for a living.
+<div class="speaker-block">
+<span class="speaker-name">Gurudev:</span>
+<span class="speech-text">Yes, I used to practice law. But once, I received a large order in Nepal, near the Pashupatinath Temple, for bridge coke. There was a bit of greed involved. They asked me to come to finalize the order, which was worth one crore rupees. So, I flew there. I reached Pashupatinath at 4:00 AM and found the deity alone. I had memorized many mantras and prayers since childhood from Durga Puja and Kali Puja, and I started reciting them there. The people there were surprised and asked me what I did for a living.</span>
+</div>
+
 
 Anyway, after visiting Pashupatinath, a change came over me. I returned with the one-crore rupee order, but my mind felt something was wrong. I traveled by plane both ways. I had reached the temple early in the morning, between 3:00 and 4:00 AM, and it was just me and the deity. Even the priests weren't there yet. However, I couldn't execute the order. I lost five lakh rupees because the coal I supplied was sold elsewhere by others. So, that money went down the drain.
 
@@ -30,7 +34,11 @@ After returning, having lost that money, I was sitting in my office one day. A v
 
 **Interviewer:** So, you were an income tax lawyer?
 
-**Gurudev:** Yes, income tax, sales tax, ESI, provident fund, central excise, bank projects, bank loans—I handled all those cases. I had to visit the tax offices frequently. At that time, I had about 35 to 40 assistants working for me. I was a top accountant and had a lot of work. 
+<div class="speaker-block">
+<span class="speaker-name">Gurudev:</span>
+<span class="speech-text">Yes, income tax, sales tax, ESI, provident fund, central excise, bank projects, bank loans—I handled all those cases. I had to visit the tax offices frequently. At that time, I had about 35 to 40 assistants working for me. I was a top accountant and had a lot of work.</span>
+</div>
+
 
 One day, Shubol Babu asked me, "Will you go to Tarapith?" I was hesitant about leaving my cases, but he insisted on a three-day trip—one day to go, one day to stay with the Mother, and one day to return. He had bought a new white Ambassador car and wanted to go in that. I eventually agreed. I had rarely visited Tarapith before, maybe once in 30 years.
 
@@ -40,7 +48,11 @@ After that vision, my mind was troubled. It felt so real, as if someone was spea
 
 **Interviewer:** So, were you doing business alongside your legal practice?
 
-**Gurudev:** Yes, I was doing it for my assistants. But then the firm started declining from 1988. I was worried about how to provide for them, but everything started slipping away. My car was gone, my scooter was gone—it felt like someone was taking everything away from me. This all happened after that divine vision. I didn't plan it. My office became almost empty; I helped my assistants find jobs elsewhere.
+<div class="speaker-block">
+<span class="speaker-name">Gurudev:</span>
+<span class="speech-text">Yes, I was doing it for my assistants. But then the firm started declining from 1988. I was worried about how to provide for them, but everything started slipping away. My car was gone, my scooter was gone—it felt like someone was taking everything away from me. This all happened after that divine vision. I didn't plan it. My office became almost empty; I helped my assistants find jobs elsewhere.</span>
+</div>
+
 
 One day, the landlord of the building where my office was located came to me. My office was on the third and fourth floors. He said, "Shyamal Da, I really want to install a Kali idol here." It was a complete coincidence.
 
@@ -54,11 +66,19 @@ That office room was such that no one wanted to go there alone. My assistants us
 
 **Interviewer:** How did you find such a secluded place in the middle of a market? It seems supernatural.
 
-**Gurudev:** That was my office! On the fourth floor, in that small room, I had established the Mother. Gradually, everything was sold off. I became like a street beggar. No clients came anymore because the office was closed. I completely surrendered at the feet of Mother Tara.
+<div class="speaker-block">
+<span class="speaker-name">Gurudev:</span>
+<span class="speech-text">That was my office! On the fourth floor, in that small room, I had established the Mother. Gradually, everything was sold off. I became like a street beggar. No clients came anymore because the office was closed. I completely surrendered at the feet of Mother Tara.</span>
+</div>
+
 
 **Interviewer:** You were a successful lawyer and businessman. When this downfall happened, didn't you want to go back?
 
-**Gurudev:** No, I had no desire left. I fell at the Mother's feet and stayed there. I didn't want to do accounts anymore. However, the firm still exists—S.K. Bhattacharya and Company. My assistants are running it now. They asked to use my name and banner, and they are doing well. They use computers now, whereas we used to do everything manually. Everyone still knows it as Shyamal Da's office.
+<div class="speaker-block">
+<span class="speaker-name">Gurudev:</span>
+<span class="speech-text">No, I had no desire left. I fell at the Mother's feet and stayed there. I didn't want to do accounts anymore. However, the firm still exists—S.K. Bhattacharya and Company. My assistants are running it now. They asked to use my name and banner, and they are doing well. They use computers now, whereas we used to do everything manually. Everyone still knows it as Shyamal Da's office.</span>
+</div>
+
 
 Then, there was a bit of a situation involving a human skull. I used to meditate while sitting on a human skull. I performed many rituals with it. Gradually, I entered the world of Tantra. I don't know how it happened, but I became deeply involved. I attained Siddhi (spiritual power) in various forms—Bagalamukhi, Kamakhya, Kali, and Tara. It became an obsession. I lost all connection with my home. I used to stay with the Mother all night.
 
@@ -66,11 +86,19 @@ On special days, I performed grand Yajnas (fire rituals). I had little contact w
 
 **Interviewer:** So, Guru-Ma (your wife) was your only support on your spiritual path and helped you reach this height.
 
-**Gurudev:** Yes, she educated both children; they both passed their B.Com. I knew nothing of it. I wasn't even there for my son's wedding; I was in Tarapith. When my daughter got married, I was absorbed in my spiritual practice.
+<div class="speaker-block">
+<span class="speaker-name">Gurudev:</span>
+<span class="speech-text">Yes, she educated both children; they both passed their B.Com. I knew nothing of it. I wasn't even there for my son's wedding; I was in Tarapith. When my daughter got married, I was absorbed in my spiritual practice.</span>
+</div>
+
 
 **Interviewer:** It seems everything happened before the Mother, even without your direct involvement.
 
-**Gurudev:** Yes, it happened without my knowledge. I was in a state of ignorance about worldly matters. When I think back on the things I did, it seems impossible for a normal human, but I did them as if in a trance. My wife never asked where I was going or what I was doing. Later, I took shelter in the cremation ground. I liked it there. It used to be a place for drinking, gambling, and drugs. Much of that has stopped now. I had to interact with those people, and they started respecting me. Gopal Biswas, who managed the cremation ground for 19 years, helped me a lot. I must mention both him and my wife. Initially, he was angry that I was performing mantras in the cremation ground, but later we became close.
+<div class="speaker-block">
+<span class="speaker-name">Gurudev:</span>
+<span class="speech-text">Yes, it happened without my knowledge. I was in a state of ignorance about worldly matters. When I think back on the things I did, it seems impossible for a normal human, but I did them as if in a trance. My wife never asked where I was going or what I was doing. Later, I took shelter in the cremation ground. I liked it there. It used to be a place for drinking, gambling, and drugs. Much of that has stopped now. I had to interact with those people, and they started respecting me. Gopal Biswas, who managed the cremation ground for 19 years, helped me a lot. I must mention both him and my wife. Initially, he was angry that I was performing mantras in the cremation ground, but later we became close.</span>
+</div>
+
 
 There are many memories associated with this place. I have been in this cremation ground for 22 or 23 years. Before that, I worshiped the Mother elsewhere. But I grew to love the cremation ground and started my worship here.
 
@@ -84,14 +112,25 @@ I gave that previous room to those who were there before and told them to serve 
 
 **Interviewer:** Today we learned about your journey from the legal profession to becoming a great devotee of the Mother. It was wonderful to hear.
 
-**Gurudev:** It all happened subconsciously. But the Mother's shadow was always over me. She has supported me throughout and kept her hand on my head. That is why I have reached this point and gained recognition. She is with me, behind me, and in front of me. I can feel her presence and her protection. I have never asked her for anything, nor do I need to. I believe that those who are honest have God with them. I have maintained that honesty and resisted all greed. My wife never asked about money or how the household would run. It's a miracle. Even when I see a hundred people in the morning, she never asks for money. I don't know how it all works. Perhaps some people give her money without telling me. That's how it goes.
+<div class="speaker-block">
+<span class="speaker-name">Gurudev:</span>
+<span class="speech-text">It all happened subconsciously. But the Mother's shadow was always over me. She has supported me throughout and kept her hand on my head. That is why I have reached this point and gained recognition. She is with me, behind me, and in front of me. I can feel her presence and her protection. I have never asked her for anything, nor do I need to. I believe that those who are honest have God with them. I have maintained that honesty and resisted all greed. My wife never asked about money or how the household would run. It's a miracle. Even when I see a hundred people in the morning, she never asks for money. I don't know how it all works. Perhaps some people give her money without telling me. That's how it goes.</span>
+</div>
+
 
 I don't look at worldly things much. I go home briefly for my wife's peace of mind; we are both getting older. I stay for half an hour or an hour and then return. There is always a crowd of people here, from morning to evening.
 
 **Interviewer:** Gurudev, thank you for sharing this. Respects to Mother Bama Tara and to you.
 
-**Gurudev:** Don't call me a "devotee"; just say the Mother is with me. She surrounds me like a shadow and protects me every moment. Everywhere I look, I see her. She is in front, behind, everywhere. I can feel her pulse. That is my reward from her. I have maintained honesty, and that is why she is still with me. 
+<div class="speaker-block">
+<span class="speaker-name">Gurudev:</span>
+<span class="speech-text">Don't call me a "devotee"; just say the Mother is with me. She surrounds me like a shadow and protects me every moment. Everywhere I look, I see her. She is in front, behind, everywhere. I can feel her pulse. That is my reward from her. I have maintained honesty, and that is why she is still with me.</span>
+</div>
+
 
 **Interviewer:** Respects to the Mother and to you. We conclude today's episode. 
 
-**Gurudev:** Blessings.
+<div class="speaker-block">
+<span class="speaker-name">Gurudev:</span>
+<span class="speech-text">Blessings.</span>
+</div>
