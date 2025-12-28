@@ -23,7 +23,7 @@ def standardize_name(text):
     
     return text
 
-directories = ['blog', 'articles', '_includes']
+directories = ['articles', '_includes']
 extensions = ['.html', '.md', '.njk']
 
 for root_dir in directories:

@@ -130,7 +130,7 @@ The woman then told him, "Now you can go and give initiation to those who commit
 </div>
 
 
-As Lord Krishna has directed, things will follow their course. Look at the Jagannath Temple. Lord Jagannath is Krishna himself. Look at the unholy acts (anachar) happening there. These are signs. The more time passes, the faster the *Kali Yuga* (Age of Vice) will take hold. 
+As Lord Krishna has directed, things will follow their course. Look at the Jagannath Temple. Lord Jagannath is Krishna himself. Look at the unholy acts (anachar) happening there. These are signs. The more time passes, the faster the Kali Yuga (Age of Vice) will take hold. 
 
 The first thing Kali does is attack the temple of Jagannath. 
 

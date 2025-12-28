@@ -16,7 +16,7 @@ tags:
   - Protection
 ---
 
-The **Kanda Sasti Kavacam** is a powerful hymn composed by Śrī Deva Raya Swamigal. It is a "Kavacam" (Armor) meant to protect the devotee from all directions, internal and external. Dedicated to Lord Murugan (Skanda/Canda Bhairava).
+The Kanda Sasti Kavacam is a powerful hymn composed by Śrī Deva Raya Swamigal. It is a "Kavacam" (Armor) meant to protect the devotee from all directions, internal and external. Dedicated to Lord Murugan (Skanda/Canda Bhairava).
 
 Below is the complete hymn with English transliteration and a verse-by-verse meaning, formatted for easy reading on both desktop and mobile devices.
 

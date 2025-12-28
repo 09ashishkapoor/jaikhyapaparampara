@@ -36,43 +36,43 @@ source: |
 
 <div class="speaker-block">
 <span class="speaker-name">Disciple:</span>
-<span class="speech-text">I have a few small questions today. Many people want to know which type of *Yoga* is best for common people to practice?</span>
+<span class="speech-text">I have a few small questions today. Many people want to know which type of Yoga is best for common people to practice?</span>
 </div>
 
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">When you say "common people"—not everyone can practice every kind of *Yoga*. There are difficulties. The best *Yoga* for everyone is *Sankhya Yoga*, which you will find in the Bhagavad Gita. If you read that, you will understand. It is a profound *Yoga*. People can study it, but just reading is not enough; one must understand its inner meaning—what *Sankhya Yoga* truly is. Many people recite the Gita and read *Sankhya Yoga*, but if they can understand the commentary and explanations—there are many hidden meanings available now—then it becomes clear.</span>
+<span class="speech-text">When you say "common people"—not everyone can practice every kind of Yoga. There are difficulties. The best Yoga for everyone is Sankhya Yoga, which you will find in the Bhagavad Gita. If you read that, you will understand. It is a profound Yoga. People can study it, but just reading is not enough; one must understand its inner meaning—what Sankhya Yoga truly is. Many people recite the Gita and read Sankhya Yoga, but if they can understand the commentary and explanations—there are many hidden meanings available now—then it becomes clear.</span>
 </div>
 
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">Common people cannot perform complex *Yoga* because there are 18 types mentioned. Most don’t know them. *Yoga* is performed through meditation. After studying *Sankhya Yoga* and understanding the meanings, if one meditates, they can begin to comprehend.</span>
+<span class="speech-text">Common people cannot perform complex Yoga because there are 18 types mentioned. Most don't know them. Yoga is performed through meditation. After studying Sankhya Yoga and understanding the meanings, if one meditates, they can begin to comprehend.</span>
 </div>
 
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">But *Yoga* is a very advanced stage. Do you know what *Yoga* means? Your body stays here, but your soul goes out and works. That is the rule of *Yoga*. But how many can do that? It is nearly impossible. One can perform *Yoga* by letting the soul depart while the body remains still. If you go to *Jnanganj* (a mystical spiritual realm), you will see many bodies lying there while their souls have traveled across the world for spiritual work. When the soul returns, the body gains life again. These are very deep matters.</span>
+<span class="speech-text">But Yoga is a very advanced stage. Do you know what Yoga means? Your body stays here, but your soul goes out and works. That is the rule of Yoga. But how many can do that? It is nearly impossible. One can perform Yoga by letting the soul depart while the body remains still. If you go to Jnanganj (a mystical spiritual realm), you will see many bodies lying there while their souls have traveled across the world for spiritual work. When the soul returns, the body gains life again. These are very deep matters.</span>
 </div>
 
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">*Yoga* is not a "cheap" or easy thing. Furthermore, one should not practice *Yoga* while being attached to worldly possessions. If you have material attachments, *Yoga* cannot happen.</span>
+<span class="speech-text">Yoga is not a "cheap" or easy thing. Furthermore, one should not practice Yoga while being attached to worldly possessions. If you have material attachments, Yoga cannot happen.</span>
 </div>
 
 
 <div class="speaker-block">
 <span class="speaker-name">Disciple:</span>
-<span class="speech-text">So, you are saying it is not possible to do *Yoga* while living a worldly/family life?</span>
+<span class="speech-text">So, you are saying it is not possible to do Yoga while living a worldly/family life?</span>
 </div>
 
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">It happened in the case of Ramprasad. When Ramprasad started receiving money and property from King Krishnachandra, he wrote: *"Now your worldly possessions are destroying my yogic awakening."* Worldly affairs interfere with *Yoga*. Therefore, *Yoga* can only be truly performed by someone who is free from the *Shada-Ripu* (the six internal enemies: lust, anger, greed, etc.). Only such a person is fit for *Yoga*.</span>
+<span class="speech-text">It happened in the case of Ramprasad. When Ramprasad started receiving money and property from King Krishnachandra, he wrote: "Now your worldly possessions are destroying my yogic awakening." Worldly affairs interfere with Yoga. Therefore, Yoga can only be truly performed by someone who is free from the Shada-Ripu (the six internal enemies: lust, anger, greed, etc.). Only such a person is fit for Yoga.</span>
 </div>
 
 
@@ -84,13 +84,13 @@ source: |
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">*Ishto* (the cherished deity). Your Guru is your *Ishto*. *Ishto* means God. He is not a messenger; the Guru should be meditated upon as God Himself. The powers of Brahma, Vishnu, and Maheshwar reside within Him. You see, when we offer salutations to the Guru, what do we say? *"Guru Brahma, Guru Vishnu, Guru Devo Maheshwara."* He holds the power of the Trinity. This means the Guru is even greater than God.</span>
+<span class="speech-text">Ishto (the cherished deity). Your Guru is your Ishto. Ishto means God. He is not a messenger; the Guru should be meditated upon as God Himself. The powers of Brahma, Vishnu, and Maheshwar reside within Him. You see, when we offer salutations to the Guru, what do we say? "Guru Brahma, Guru Vishnu, Guru Devo Maheshwara." He holds the power of the Trinity. This means the Guru is even greater than God.</span>
 </div>
 
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">According to the scriptures, if God is displeased, the Guru can save you. But if the Guru is displeased, even God does not have the power to save you. This is why we call the Guru "*Ishto*." The mantra that the Guru whispers into your ear—if you practice that—it yields great results. Without *Sadhan* (spiritual practice), everything is lost. Many receive the mantra but do not practice it. It’s like a seed; if you don't tend to it, it is destroyed.</span>
+<span class="speech-text">According to the scriptures, if God is displeased, the Guru can save you. But if the Guru is displeased, even God does not have the power to save you. This is why we call the Guru "Ishto." The mantra that the Guru whispers into your ear—if you practice that—it yields great results. Without Sadhan (spiritual practice), everything is lost. Many receive the mantra but do not practice it. It's like a seed; if you don't tend to it, it is destroyed.</span>
 </div>
 
 
@@ -108,19 +108,19 @@ source: |
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">For instance, if you eat without first offering food to your Guru/God, the scriptures say that food is equivalent to filth. Whatever you consume—rice, bread—you must remember the *Ishto*. If you exclude the *Ishto*, it is considered impure. The Guru is not someone to be taken lightly.</span>
+<span class="speech-text">For instance, if you eat without first offering food to your Guru/God, the scriptures say that food is equivalent to filth. Whatever you consume—rice, bread—you must remember the Ishto. If you exclude the Ishto, it is considered impure. The Guru is not someone to be taken lightly.</span>
 </div>
 
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">People find a Guru according to their own nature and karma. You won't always find a *Sadguru* (true Guru) easily. And there is a difficulty for Gurus too; we have given initiation to so many people, and it becomes a burden. The mind is only one—how many people can you think about? Everyone calls out to the Guru; whom should I go to? Sometimes people say they saw me in a dream. Just this morning, a boy told me he saw me in a dream telling him to perform Durga Puja. I told him, "Today is Ashtami, a very auspicious day; go ahead and perform the Puja." Those who call out sincerely, I have to go to them.</span>
+<span class="speech-text">People find a Guru according to their own nature and karma. You won't always find a Sadguru (true Guru) easily. And there is a difficulty for Gurus too; we have given initiation to so many people, and it becomes a burden. The mind is only one—how many people can you think about? Everyone calls out to the Guru; whom should I go to? Sometimes people say they saw me in a dream. Just this morning, a boy told me he saw me in a dream telling him to perform Durga Puja. I told him, "Today is Ashtami, a very auspicious day; go ahead and perform the Puja." Those who call out sincerely, I have to go to them.</span>
 </div>
 
 
 <div class="speaker-block">
 <span class="speaker-name">Disciple:</span>
-<span class="speech-text">Gurudev, I have another question. Regarding *Vaidhavya* (widowhood)—is there any remedy or way to be free from the hardships of widowhood?</span>
+<span class="speech-text">Gurudev, I have another question. Regarding Vaidhavya (widowhood)—is there any remedy or way to be free from the hardships of widowhood?</span>
 </div>
 
 
@@ -132,7 +132,7 @@ source: |
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">Traditionally, widows were forbidden from eating fish, meat, or "strong" foods like masoor dal (red lentils). The only reason for this was to suppress *Kama* (lust/desire). When the husband is gone, where will that desire go? Desires remain until death. If they aren't controlled, the person might seek others. This is happening a lot nowadays. In the past, remarrying a widow was very difficult. You might know that Ishwar Chandra Vidyasagar married off his own son to a widow to set an example.</span>
+<span class="speech-text">Traditionally, widows were forbidden from eating fish, meat, or "strong" foods like masoor dal (red lentils). The only reason for this was to suppress Kama (lust/desire). When the husband is gone, where will that desire go? Desires remain until death. If they aren't controlled, the person might seek others. This is happening a lot nowadays. In the past, remarrying a widow was very difficult. You might know that Ishwar Chandra Vidyasagar married off his own son to a widow to set an example.</span>
 </div>
 
 
@@ -144,7 +144,7 @@ source: |
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">Yes. Before that, if a husband died, the wife would often have to die on his funeral pyre. It was called *Sahamaran* (Sati). People were eventually freed from that by reformers like Raja Ram Mohan Roy and Vidyasagar. Now, you won't find many widows who don't eat fish. I won't lie; many widows now consume everything.</span>
+<span class="speech-text">Yes. Before that, if a husband died, the wife would often have to die on his funeral pyre. It was called Sahamaran (Sati). People were eventually freed from that by reformers like Raja Ram Mohan Roy and Vidyasagar. Now, you won't find many widows who don't eat fish. I won't lie; many widows now consume everything.</span>
 </div>
 
 
@@ -168,7 +168,7 @@ source: |
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">Look, there is the issue of desire. Personally, I don't support it. Why should I? A woman has been widowed; she was "possessed" by someone else. To me, it feels like *Entho* (something already used or "leftover"). One person enjoyed her, and now another will? It doesn't sit well with my personal standards or taste.</span>
+<span class="speech-text">Look, there is the issue of desire. Personally, I don't support it. Why should I? A woman has been widowed; she was "possessed" by someone else. To me, it feels like Entho (something already used or "leftover"). One person enjoyed her, and now another will? It doesn't sit well with my personal standards or taste.</span>
 </div>
 
 
@@ -186,7 +186,7 @@ source: |
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">It is *Entho* (polluted/leftover). You are consuming something used by another. That is not a good sign.</span>
+<span class="speech-text">It is Entho (polluted/leftover). You are consuming something used by another. That is not a good sign.</span>
 </div>
 
 

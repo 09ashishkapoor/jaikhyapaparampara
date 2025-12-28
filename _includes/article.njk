@@ -89,8 +89,8 @@
       },{
         "@type": "ListItem",
         "position": 2,
-        "name": "Blog",
-        "item": "https://jaikhyapaparampara.com/blog/"
+        "name": "Articles",
+        "item": "https://jaikhyapaparampara.com/articles/"
       },{
         "@type": "ListItem",
         "position": 3,
@@ -220,7 +220,7 @@ body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);bac
             </div>
             <ul class="nav-menu">
                 <li><a href="/index.html#sacred-texts">Temple of Knowledge</a></li>
-                <li><a href="/blog/" class="active">Blog</a></li>
+                <li><a href="/articles/" class="active">Articles</a></li>
                 <li><a href="/index.html#about">About</a></li>
             </ul>
         </nav>
@@ -231,7 +231,7 @@ body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);bac
         <nav class="breadcrumbs">
             <a href="/index.html">Home</a>
             <span>›</span>
-            <a href="/blog/">Blog</a>
+            <a href="/articles/">Articles</a>
             <span>›</span>
             <span>{{ breadcrumbTitle or title }}</span>
         </nav>
@@ -261,11 +261,11 @@ body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);bac
 
         <!-- Article Footer -->
         <footer class="article-footer container">
-            <a href="/blog/" class="back-link">← Back to All Articles</a>
+            <a href="/articles/" class="back-link">← Back to All Articles</a>
             <div class="article-tags">
                 {% for tag in tags %}
                 {% if tag != "articles" %}
-                <a href="/blog/?tag={{ tag }}" class="tag">{{ tag }}</a>
+                <a href="/articles/?tag={{ tag }}" class="tag">{{ tag }}</a>
                 {% endif %}
                 {% endfor %}
             </div>

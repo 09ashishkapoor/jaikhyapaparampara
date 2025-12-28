@@ -25,7 +25,7 @@ source: |
 <h2>Introduction: Why Now?</h2>
 Today, after a great deal of contemplation, I have decided to speak about my Guru. I have kept his name *gupta* (hidden) for a very long time. I initially thought I should choose a very large platform for the first time I spoke his name. I have been invited to over 12 podcasts, ranging from those with 50,000 followers to those with over one crore followers, many known specifically for spiritual content.
 
-I thought that if there was one reason to go on a podcast, it would be to reveal my Guru's name for the first time. However, I received a clear message from Devi that there is no bigger channel for me to speak on than the one I currently occupy. Humbled and proud, I have decided to speak about my Guru, **Shri Gupta Sadhak Shyama Khyapa**, from the lineage of **Shri Bama Khepa of Tarapith**.
+I thought that if there was one reason to go on a podcast, it would be to reveal my Guru's name for the first time. However, I received a clear message from Devi that there is no bigger channel for me to speak on than the one I currently occupy. Humbled and proud, I have decided to speak about my Guru, Shri Gupta Sadhak Shyama Khyapa, from the lineage of Shri Bama Khepa of Tarapith.
 
 I hope I can do justice to a man of his stature. To shed light on a *gupta sadhak* (a hidden practitioner) is a powerful and potentially dangerous task. Without her *kripa* (divine blessing), it cannot be done. This is why I call her the "darkness of light." You cannot cast light onto a shadow that is specifically kept as a shadow unless the Divine Mother wills it. Today, with his permission, I seek to shed that light.
 

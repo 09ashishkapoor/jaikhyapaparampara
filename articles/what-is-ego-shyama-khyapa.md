@@ -48,17 +48,17 @@ source: |
 </div>
 
 
-In our spiritual practice, there is a type of worship where nothing else is required—no flowers, no fruits. Only the body is needed. We use this body as an offering (*Naibedya*), as food for the Divine, the mother’s offering. Our inner self is filled with darkness, so a lamp is lit there to dispel that darkness of the mind.
+In our spiritual practice, there is a type of worship where nothing else is required—no flowers, no fruits. Only the body is needed. We use this body as an offering (Naibedya), as food for the Divine, the mother’s offering. Our inner self is filled with darkness, so a lamp is lit there to dispel that darkness of the mind.
 
-Next is incense (*Dhup*). The incense represents the mind. Just as smoke from the incense drifts in every direction with the wind, the mind also wanders everywhere. From this wandering, intelligence is born. The more we observe the external world, the more our intelligence flourishes. We compare this intelligence to "flowers."
+Next is incense (Dhup). The incense represents the mind. Just as smoke from the incense drifts in every direction with the wind, the mind also wanders everywhere. From this wandering, intelligence is born. The more we observe the external world, the more our intelligence flourishes. We compare this intelligence to "flowers."
 
 Finally, Ego is the "garland of flowers." We envision these elements—Mind, Intelligence, and Ego—and perform an internal worship. We surrender this body to the Mother, use the mind as incense, intelligence as flowers, and ego as the garland. This is how the "Mind-Intelligence-Ego" ritual is performed.
 
 Ego is simply the intelligence of the mind. History shows that those who succumbed to pride were destroyed. "Lanka was lost due to excessive pride." Ravana lost his kingdom because of his ego. Whenever someone displays extreme pride, the Divine shatters it. That is why Lord Narayana is called *Darpa-hari Madhusudan*—the one who destroys pride and ego. He cannot tolerate ego and humbles whoever possesses it.
 
-Let me tell you a story. A sage (*Sadhu*) was once meditating under a tree. Suddenly, a crow perched on a branch and defecated on his head. The sage glared at the crow in anger, and instantly, the crow was reduced to ashes. Seeing this, the sage felt a surge of pride. He thought, "I have attained such immense power that a single glance can turn something to ash!"
+Let me tell you a story. A sage (Sadhu) was once meditating under a tree. Suddenly, a crow perched on a branch and defecated on his head. The sage glared at the crow in anger, and instantly, the crow was reduced to ashes. Seeing this, the sage felt a surge of pride. He thought, "I have attained such immense power that a single glance can turn something to ash!"
 
-Later that day, he went out for alms (*Bhiksha*). He reached a house and called out, "Mother, please give me some alms." A lady replied from inside, "Father, please wait a moment. I am busy serving my husband. Once I finish, I will give you such food that you won’t need to go anywhere else today."
+Later that day, he went out for alms (Bhiksha). He reached a house and called out, "Mother, please give me some alms." A lady replied from inside, "Father, please wait a moment. I am busy serving my husband. Once I finish, I will give you such food that you won’t need to go anywhere else today."
 
 The sage, fueled by his ego, thought, "How dare she make me wait? I just turned a crow to ash! Let her come out, I'll show her." When the lady finally came out with food, she saw him glaring. She smiled and said, "Father, do not waste your time. I am not that crow you burned. You cannot harm me. I was serving my sick husband, and that is my duty. Remember, no one can harm a person who performs their duties faithfully—not even the Divine." 
 
@@ -108,7 +108,7 @@ At that moment, the sage’s ego finally vanished. The butcher told him, "Your a
 </div>
 
 
-They master this by working with crows, sometimes even sacrificing them. There is a similar practice in Nepal called *Ullu Tantra* (Owl Tantra), where they work with owls. These are dangerous and dark practices. If the bird escapes during the ritual, it can be fatal for the practitioner. 
+They master this by working with crows, sometimes even sacrificing them. There is a similar practice in Nepal called Ullu Tantra (Owl Tantra), where they work with owls. These are dangerous and dark practices. If the bird escapes during the ritual, it can be fatal for the practitioner. 
 
 In our tradition, we also respect the crow because it is associated with Ketu and the Goddess Dhumavati. In the hidden sciences, finding a twig from a crow's nest is considered very auspicious for certain spiritual goals because of this connection.
 

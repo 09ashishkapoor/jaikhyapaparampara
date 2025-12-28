@@ -46,9 +46,9 @@ source: |
 
 **[00:55 - 01:44] The Meaning of 'Ambubachi'**
 
-**Guru:** I don’t know if you know the meaning of the word "Ambu." First, we must understand the word "Ambubachi." *Ambu* means water. Michael Madhusudan Dutt mentioned this in one of his sonnets. He was the only one to use it this way: *"Kina jane Ambubimbo, Ambu mukhe sadyo pati"* (referencing a classic poetic line). 
+**Guru:** I don’t know if you know the meaning of the word "Ambu." First, we must understand the word "Ambubachi." Ambu means water. Michael Madhusudan Dutt mentioned this in one of his sonnets. He was the only one to use it this way: *"Kina jane Ambubimbo, Ambu mukhe sadyo pati"* (referencing a classic poetic line). 
 
-So, *Ambu* means water. *Bachi* refers to an observance or a rule to follow. To live according to the rules of the water cycle—that is Ambubachi. There is no other complex scientific or philosophical explanation beyond this. This is the main point: following the flow of water.
+So, Ambu means water. Bachi refers to an observance or a rule to follow. To live according to the rules of the water cycle—that is Ambubachi. There is no other complex scientific or philosophical explanation beyond this. This is the main point: following the flow of water.
 
 ---
 
@@ -62,7 +62,7 @@ We say the "burning month" is over, and the "sweet month" (the month of rain) ha
 
 **[03:00 - 03:55] Mother Earth’s "Menstruation"**
 
-**Guru:** During the Ambubachi period, under the *Ardra Nakshatra* (a specific lunar mansion), Mother Earth—or rather, the Earth—is said to menstruate. Everyone knows what this means. It implies that for these three days, the Earth is "unwell." We say she is unwell, just as Lord Jagannath is said to be unwell for fifteen days. Even gods can be "sick."
+**Guru:** During the Ambubachi period, under the Ardra Nakshatra (a specific lunar mansion), Mother Earth—or rather, the Earth—is said to menstruate. Everyone knows what this means. It implies that for these three days, the Earth is "unwell." We say she is unwell, just as Lord Jagannath is said to be unwell for fifteen days. Even gods can be "sick."
 
 Because we practice Mother-worship (Shakti), we do not want to disturb her during this time.
 

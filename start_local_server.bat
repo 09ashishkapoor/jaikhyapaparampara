@@ -1,7 +1,7 @@
 @echo off
 echo ========================================
 echo Jai Khyapa Parampara Library
-echo Local Server Launcher (11ty + Blog)
+echo Local Server Launcher (11ty + Articles)
 echo ========================================
 echo.
 
@@ -24,8 +24,8 @@ echo.
 echo Your website will be available at:
 echo    http://localhost:8080
 echo.
-echo Blog section available at:
-echo    http://localhost:8080/blog/
+echo Articles section available at:
+echo    http://localhost:8080/articles/
 echo.
 echo Press Ctrl+C to stop the server
 echo ========================================

@@ -6,7 +6,11 @@ eleventyExcludeFromCollections: true
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jaikhyapaparampara.com/</loc>
+    {% if collections.articles and collections.articles[0] and collections.articles[0].date %}
     <lastmod>{{ collections.articles[0].date | isoDate }}</lastmod>
+    {% else %}
+    <lastmod>2025-12-27T00:00:00Z</lastmod>
+    {% endif %}
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://jaikhyapaparampara.com/"/>
@@ -52,7 +56,7 @@ eleventyExcludeFromCollections: true
 
   <!-- Tag Pages -->
   {% for tag, posts in collections %}
-  {% if tag != "all" and tag != "articles" %}
+  {% if tag != "all" and tag != "articles" and posts[0] and posts[0].date %}
   <url>
     <loc>https://jaikhyapaparampara.com/tags/{{ tag | slugify }}/</loc>
     <lastmod>{{ posts[0].date | isoDate }}</lastmod>

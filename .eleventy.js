@@ -52,9 +52,9 @@ module.exports = function(eleventyConfig) {
     return new Date(dateObj).toISOString();
   });
 
-  // Create a collection for blog posts
+  // Create a collection for articles
   eleventyConfig.addCollection("articles", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("blog/*.md").sort((a, b) => {
+    return collectionApi.getFilteredByGlob("articles/*.md").sort((a, b) => {
       const dateDiff = b.date - a.date;
       if (dateDiff !== 0) return dateDiff;
       // If dates are identical, sort by filename descending (usually newer files)

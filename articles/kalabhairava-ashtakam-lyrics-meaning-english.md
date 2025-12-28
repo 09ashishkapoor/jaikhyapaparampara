@@ -114,7 +114,7 @@ The refrain (style of repetition in poetry) in each of the first eight verses is
 
 This refrain anchors the entire prayer to his specific role as the overseer of Kashi, the state of liberation. Thats why oneness with baba is moksha while still living in the mortal shell.
 
-**Jai Kalabhairav baba**
+Jai Kalabhairav baba
 
 ---
 
@@ -317,7 +317,7 @@ I worship Kalabhairava, the Supreme Lord of the city of Kashi, who is the leader
 ### Sanskrit:
 <div class="sanskrit-verse">
 
-*Kaalabhairavaassttakam Patthamti Ye Manoharam*  
+Kaalabhairavaassttakam Patthamti Ye Manoharam  
 *Jnyaana-Mukti-Saadhanam Vicitra-Punnya-Vardhanam |*  
 *Shoka-Moha-Dainya-Lobha-Kopa-Taapa-Naashanam*  
 *Prayaanti Kaalabhairava-Amghri-Sannidhim Naraa Dhruvam ||9||*

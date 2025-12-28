@@ -56,7 +56,7 @@ Ultimately, we are alive because of one element: air. If our breathing stops, we
 
 **Gurudeb:** It’s not partiality; we have to look at this through the lens of both spirituality and science. We say Lord Brahma created everything. But why? He created humans specifically so they could understand and realize God. 
 
-As for animals, science explains their existence differently, but in our tradition, we see them associated with the deities. Brahma is often depicted with a swan, Durga with a lion, Ganesha with a mouse, Kartikeya with a peacock, and Shiva with a bull. The deities chose these animals as their mounts (*Vahanas*).
+As for animals, science explains their existence differently, but in our tradition, we see them associated with the deities. Brahma is often depicted with a swan, Durga with a lion, Ganesha with a mouse, Kartikeya with a peacock, and Shiva with a bull. The deities chose these animals as their mounts (Vahanas).
 
 If you look at the theory of evolution (*Krama-Vivartanvad*), it aligns with the sequence of the avatars. Life began in the water (Matsya), then moved to both land and water (Kurma), then to land animals (Varaha), then a transition between animal and man (Narasimha), and finally to various stages of human development. 
 
@@ -66,11 +66,11 @@ So, while spiritualists might say God created everything, science provides a str
 
 **Host:** So science and God are interconnected?
 
-**Gurudeb:** Exactly. We live in a world governed by three types of experiences: *Adhibhautik* (bodily or mental), *Adhidaivik* (supernatural or divine), and *Bhautik* (physical or material). 
+**Gurudeb:** Exactly. We live in a world governed by three types of experiences: Adhibhautik (bodily or mental), Adhidaivik (supernatural or divine), and Bhautik (physical or material). 
 
-When we see something miraculous, we call it *Bhautik*. *Adhibhautik* refers to the sufferings or changes within our own bodies. *Adhidaivik* refers to the forces of nature—storms, rain, and floods—which we attribute to the divine or the laws of nature. 
+When we see something miraculous, we call it Bhautik. Adhibhautik refers to the sufferings or changes within our own bodies. Adhidaivik refers to the forces of nature—storms, rain, and floods—which we attribute to the divine or the laws of nature. 
 
-Today, we are heavily dependent on science. If there is no electricity, we can't even pump water. We have moved away from the practices of the ancient sages who would perform *Yajnas* to invoke rain because we now rely on technology. However, when science fails, we still turn to God. And when we seek material progress, we look to science. They are two sides of the same coin, and we must navigate through both.
+Today, we are heavily dependent on science. If there is no electricity, we can't even pump water. We have moved away from the practices of the ancient sages who would perform Yajnas to invoke rain because we now rely on technology. However, when science fails, we still turn to God. And when we seek material progress, we look to science. They are two sides of the same coin, and we must navigate through both.
 
 In the past, sages relied entirely on the Divine. Today, humanity relies on science. But both are interconnected and essential for our existence. 
 
