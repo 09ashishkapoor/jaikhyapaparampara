@@ -87,7 +87,7 @@ Bama Khepa was an avatar of Bhairava. Bhairava is not just a form you see in a t
 
 When Devi takes fondness for you, she breaks everything; societal norms, scriptures, and identity until nothing exists but you and Her. That is the message of my Param Guru, Shri Bama Khepa.
 
-*Prepared by Kaliputra-Ashish*
+Prepared by Kaliputra-Ashish
 
 **Jai Ma.**
 

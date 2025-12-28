@@ -36,19 +36,19 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Disciple:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Today, after a long time, it is Amavasya (the new moon). Shantikunja is unusually quiet; there are no crowds. Only about 10 or 15 people are sitting here. It feels empty because they aren't here for consultations; they’ve just come to visit. Since we don't usually get days like this, I wanted to discuss a different topic. Gurudev, many young people—as well as the elderly—are coming to you saying, "Gurudev, I want *Diksha* (initiation) from you." Why is the young generation so attracted to you right now? And what exactly is this "Diksha"? Since childhood, we’ve heard the phrase "*Shiksha-Diksha*" (Education and Initiation) used together.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Today, after a long time, it is Amavasya (the new moon). Shantikunja is unusually quiet; there are no crowds. Only about 10 or 15 people are sitting here. It feels empty because they aren't here for consultations; they’ve just come to visit. Since we don't usually get days like this, I wanted to discuss a different topic. Gurudev, many young people—as well as the elderly—are coming to you saying, "Gurudev, I want Diksha (initiation) from you." Why is the young generation so attracted to you right now? And what exactly is this "Diksha"? Since childhood, we’ve heard the phrase "Shiksha-Diksha" (Education and Initiation) used together.</span>
 </div>
 
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Exactly. If there is education (*Shiksha*), there can be initiation (*Diksha*). One who is educated can be initiated. They are hyphenated terms. People often say, "You have no *Shiksha-Diksha*" or "Your parents didn't give you any *Shiksha-Diksha*." This term has been in use for a long time. The meaning of *Diksha* is to purify the body and the mind. It is also about self-development and growth—*Vikas*. Some people turn to initiation when they are in trouble, thinking their problems will be solved. They aren't wrong.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Exactly. If there is education (Shiksha), there can be initiation (Diksha). One who is educated can be initiated. They are hyphenated terms. People often say, "You have no Shiksha-Diksha" or "Your parents didn't give you any Shiksha-Diksha." This term has been in use for a long time. The meaning of Diksha is to purify the body and the mind. It is also about self-development and growth—Vikas. Some people turn to initiation when they are in trouble, thinking their problems will be solved. They aren't wrong.</span>
 </div>
 
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">In *Diksha*, there is a giver and a taker. The one who takes it often goes around telling everyone, "I received initiation from Shyamaba." People hear this and more come. The word has spread that Shyamaba gives initiation for just a *Haritaki* (a medicinal fruit) and doesn't take any money. That news has reached everywhere, which is why the crowds are so large.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">In Diksha, there is a giver and a taker. The one who takes it often goes around telling everyone, "I received initiation from Shyamaba." People hear this and more come. The word has spread that Shyamaba gives initiation for just a Haritaki (a medicinal fruit) and doesn't take any money. That news has reached everywhere, which is why the crowds are so large.</span>
 </div>
 
 
@@ -84,13 +84,13 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">First, he must consider the condition of the person seeking initiation. He must not take a single penny from them. I tell people clearly not to give money, though some still try. I have initiated many poor people who were told elsewhere they couldn't get *Diksha* without money. I tell them, "Just bring a *Haritaki* in the morning," and I initiate them.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">First, he must consider the condition of the person seeking initiation. He must not take a single penny from them. I tell people clearly not to give money, though some still try. I have initiated many poor people who were told elsewhere they couldn't get Diksha without money. I tell them, "Just bring a Haritaki in the morning," and I initiate them.</span>
 </div>
 
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">I wrote proudly on this temple: "Do not give a single penny." Yet, there are some people who still beg for money from visitors. Is the Goddess a beggar? Does she need you to feed her? She is the one feeding you! People boast about "feeding" the Mother with rice and lentils, but God provides for Himself. Not only that, He arranges food for others too. I’ve seen it with my own eyes. One day, we were worrying about how to arrange the ritual food (*Bhoga*) because we had no rice or lentils. That afternoon, a gentleman arrived in a car, dropped off a sack of rice and a sack of lentils, bowed to the Mother, and left without saying a word. That is how God works.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">I wrote proudly on this temple: "Do not give a single penny." Yet, there are some people who still beg for money from visitors. Is the Goddess a beggar? Does she need you to feed her? She is the one feeding you! People boast about "feeding" the Mother with rice and lentils, but God provides for Himself. Not only that, He arranges food for others too. I’ve seen it with my own eyes. One day, we were worrying about how to arrange the ritual food (Bhoga) because we had no rice or lentils. That afternoon, a gentleman arrived in a car, dropped off a sack of rice and a sack of lentils, bowed to the Mother, and left without saying a word. That is how God works.</span>
 </div>
 
 
@@ -108,7 +108,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">It is not impossible at all. Many people have seen me at their homes while I was physically here. I’ve heard stories of people inviting me, and though I thought it was too far to go, they claim I showed up that night and even ate with them. One person even sent me *Posto* (poppy seeds) because they said I ate it at their house and seemed to like it! I’ve had people from as far as America say the same.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">It is not impossible at all. Many people have seen me at their homes while I was physically here. I’ve heard stories of people inviting me, and though I thought it was too far to go, they claim I showed up that night and even ate with them. One person even sent me Posto (poppy seeds) because they said I ate it at their house and seemed to like it! I’ve had people from as far as America say the same.</span>
 </div>
 
 
@@ -120,7 +120,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">It isn't possible for everyone. Only advanced practitioners (*Sadhaks*) know these things, and they usually don't disclose them. But there are thousands of proofs—people seeing me, me riding on their cycles, or appearing to give them instructions. I usually try to avoid discussing these things publicly because such matters shouldn't be gossiped about.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">It isn't possible for everyone. Only advanced practitioners (Sadhaks) know these things, and they usually don't disclose them. But there are thousands of proofs—people seeing me, me riding on their cycles, or appearing to give them instructions. I usually try to avoid discussing these things publicly because such matters shouldn't be gossiped about.</span>
 </div>
 
 
@@ -132,13 +132,13 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Your duty is not to feed or serve the Guru. Your duty is to look after your parents, your wife, and your children. Why should the Guru eat your money? Your task is to perform *Japa* (chanting) and call upon God constantly. Don't worry about what the Guru is eating. If you focus on the wrong things, you cannot rise spiritually.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Your duty is not to feed or serve the Guru. Your duty is to look after your parents, your wife, and your children. Why should the Guru eat your money? Your task is to perform Japa (chanting) and call upon God constantly. Don't worry about what the Guru is eating. If you focus on the wrong things, you cannot rise spiritually.</span>
 </div>
 
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">A true disciple is rare. Out of a thousand people initiated, maybe two or three actually focus on their *Sadhana* (practice). Most disciples don't need to see the Guru constantly. The Guru knows if the disciple is doing the work, and the disciple feels the Guru's presence. There is no need to sit and massage the Guru's feet.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">A true disciple is rare. Out of a thousand people initiated, maybe two or three actually focus on their Sadhana (practice). Most disciples don't need to see the Guru constantly. The Guru knows if the disciple is doing the work, and the disciple feels the Guru's presence. There is no need to sit and massage the Guru's feet.</span>
 </div>
 
 
@@ -174,7 +174,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Disciple:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Dear viewers, you’ve heard some powerful words from Gurudev. Many people are waiting outside for initiation today because they’ve realized there is no way forward without a Guru or God. However, I must inform you through this episode that due to the extreme heat and Gurudev’s current health, he is unable to give *Diksha* right now. Gurudev has asked those interested to leave their names, and we will contact you once the weather improves and he feels better.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Dear viewers, you’ve heard some powerful words from Gurudev. Many people are waiting outside for initiation today because they’ve realized there is no way forward without a Guru or God. However, I must inform you through this episode that due to the extreme heat and Gurudev’s current health, he is unable to give Diksha right now. Gurudev has asked those interested to leave their names, and we will contact you once the weather improves and he feels better.</span>
 </div>
 
 

@@ -72,13 +72,13 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Disciple:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, I want to ask something for the disciples. I have seen many disciples come to you and, after a few days, ask for *Diksha* (initiation). Later, you find out they already had another Guru and they hid the fact.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, I want to ask something for the disciples. I have seen many disciples come to you and, after a few days, ask for Diksha (initiation). Later, you find out they already had another Guru and they hid the fact.</span>
 </div>
 
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">I always ask them, "Did you have a Guru before?" If they say yes, I don't give them *Diksha*. One shouldn't change Gurus repeatedly. Even if the previous Guru has passed away, the Guru never truly dies. A Guru lives on. It is possible that some might be "thief Gurus" or "dacoit Gurus" who don't know anything, but I don't want to get into that controversy. I only say that once you have accepted and welcomed someone as your Guru in your heart, you cannot deny it later. When you take *Diksha*, you take an oath. Once that is done, I don't give initiation again. A few people have mistakenly taken *Diksha* twice from me by hiding the truth, and they later suffer for it. They eventually come back to apologize, saying they hid the truth about their previous Guru.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">I always ask them, "Did you have a Guru before?" If they say yes, I don't give them Diksha. One shouldn't change Gurus repeatedly. Even if the previous Guru has passed away, the Guru never truly dies. A Guru lives on. It is possible that some might be "thief Gurus" or "dacoit Gurus" who don't know anything, but I don't want to get into that controversy. I only say that once you have accepted and welcomed someone as your Guru in your heart, you cannot deny it later. When you take Diksha, you take an oath. Once that is done, I don't give initiation again. A few people have mistakenly taken Diksha twice from me by hiding the truth, and they later suffer for it. They eventually come back to apologize, saying they hid the truth about their previous Guru.</span>
 </div>
 
 
@@ -120,13 +120,13 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Some people just show off. We say, "Worship God, don't worship people." You should worship God yourself, but don't try to "worship" others by showing off. People are committing sins one after another, and God is punishing them for it. People think they can get away with anything, but the Guru sees everything. He is *Trikaldarshi* (one who sees the past, present, and future). He is in the sky, on the earth, and in the world. He sees the whole world from where he sits. You only see as far as the trees in front of you. You don't have the "third eye" or the vision to see far. But we see everything happening in the world. We cannot say everything, but it hurts to see. God's creation is being destroyed by God himself. No one wants destruction, but people are doing such sinful things.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Some people just show off. We say, "Worship God, don't worship people." You should worship God yourself, but don't try to "worship" others by showing off. People are committing sins one after another, and God is punishing them for it. People think they can get away with anything, but the Guru sees everything. He is Trikaldarshi (one who sees the past, present, and future). He is in the sky, on the earth, and in the world. He sees the whole world from where he sits. You only see as far as the trees in front of you. You don't have the "third eye" or the vision to see far. But we see everything happening in the world. We cannot say everything, but it hurts to see. God's creation is being destroyed by God himself. No one wants destruction, but people are doing such sinful things.</span>
 </div>
 
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">The lifespan of *Kali Yuga* is 432,000 years. But it is ending after only 5,000 years. Why? Because of sins—theft, deception, even incest. These sins have shortened the age of this era. If you kill a cow, or your parents—and these things are happening—the sins accumulate. It is calculated that 427,000 years have been "spent" because of the intensity of sin. This is the result of sin. *Kali Yuga* is ending early, and a new era will begin.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">The lifespan of Kali Yuga is 432,000 years. But it is ending after only 5,000 years. Why? Because of sins—theft, deception, even incest. These sins have shortened the age of this era. If you kill a cow, or your parents—and these things are happening—the sins accumulate. It is calculated that 427,000 years have been "spent" because of the intensity of sin. This is the result of sin. Kali Yuga is ending early, and a new era will begin.</span>
 </div>
 
 
@@ -138,7 +138,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">The countries that looted us will see their wealth returned sevenfold to India. You will see this; it’s only a matter of a few years. By 2029 or 2030, this era will end, and *Satya Yuga* will begin. There is so much sin and misconduct now. Adultery, sins against the Guru—every sin reduces the lifespan of the era.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">The countries that looted us will see their wealth returned sevenfold to India. You will see this; it’s only a matter of a few years. By 2029 or 2030, this era will end, and Satya Yuga will begin. There is so much sin and misconduct now. Adultery, sins against the Guru—every sin reduces the lifespan of the era.</span>
 </div>
 
 

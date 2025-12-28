@@ -44,19 +44,19 @@ source: |
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="timestamp" style="color:var(--accent-color);font-family:monospace;font-size:0.9rem;display:block;margin-bottom:0.3rem;opacity:0.8;">01:52 - 02:29</span>
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Of course. Humans created God based on their needs. But creating God isn't enough; God needs power. And only a *Sadhak* (spiritual practitioner) can give that power to the Mother. The Mother herself has no inherent power in an idol. If you take a statue of the Mother and break its arms or cut its throat, will it speak? No.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Of course. Humans created God based on their needs. But creating God isn't enough; God needs power. And only a Sadhak (spiritual practitioner) can give that power to the Mother. The Mother herself has no inherent power in an idol. If you take a statue of the Mother and break its arms or cut its throat, will it speak? No.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="timestamp" style="color:var(--accent-color);font-family:monospace;font-size:0.9rem;display:block;margin-bottom:0.3rem;opacity:0.8;">02:30 - 02:46</span>
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">But if you infuse power into it, that power works. Then, if you try to cut its throat, your own throat might be cut. This is the law. *Sadhaks* keep God alive for their own spiritual success.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">But if you infuse power into it, that power works. Then, if you try to cut its throat, your own throat might be cut. This is the law. Sadhaks keep God alive for their own spiritual success.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="timestamp" style="color:var(--accent-color);font-family:monospace;font-size:0.9rem;display:block;margin-bottom:0.3rem;opacity:0.8;">02:47 - 03:00</span>
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">It is said, "*Abhirbhabati Sarvada*"—meaning a *Sadhak*, for their own benefit, awakens the Mother and gives her power.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">It is said, "Abhirbhabati Sarvada"—meaning a Sadhak, for their own benefit, awakens the Mother and gives her power.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -74,13 +74,13 @@ source: |
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="timestamp" style="color:var(--accent-color);font-family:monospace;font-size:0.9rem;display:block;margin-bottom:0.3rem;opacity:0.8;">03:31 - 03:45</span>
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Host:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">So you're saying only a high-level *Sadhak* can take cosmic power and channel it into a deity?</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">So you're saying only a high-level Sadhak can take cosmic power and channel it into a deity?</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="timestamp" style="color:var(--accent-color);font-family:monospace;font-size:0.9rem;display:block;margin-bottom:0.3rem;opacity:0.8;">03:46 - 04:12</span>
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Absolutely. There's no doubt about it. Where there is no *Sadhak*, the Mother is not "awake." The *Sadhak* awakens her and gives her all the power. From that, the *Sadhak* gains realization and shares it with others who come to the Mother with their prayers.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Absolutely. There's no doubt about it. Where there is no Sadhak, the Mother is not "awake." The Sadhak awakens her and gives her all the power. From that, the Sadhak gains realization and shares it with others who come to the Mother with their prayers.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -92,13 +92,13 @@ source: |
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="timestamp" style="color:var(--accent-color);font-family:monospace;font-size:0.9rem;display:block;margin-bottom:0.3rem;opacity:0.8;">04:31 - 04:55</span>
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">But if that God Particle enters someone, their power increases tremendously. This is a recent discovery. Similarly, if a *Sadhak* gives power to the Mother, both the *Sadhak* and the Mother utilize that power.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">But if that God Particle enters someone, their power increases tremendously. This is a recent discovery. Similarly, if a Sadhak gives power to the Mother, both the Sadhak and the Mother utilize that power.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="timestamp" style="color:var(--accent-color);font-family:monospace;font-size:0.9rem;display:block;margin-bottom:0.3rem;opacity:0.8;">04:56 - 05:29</span>
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">A *Sadhak* doesn't play with power directly from the sky. They bring it down, give life to the Mother, and then receive from her. It's a remarkable process. You can't do anything directly; if you do, death is certain.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">A Sadhak doesn't play with power directly from the sky. They bring it down, give life to the Mother, and then receive from her. It's a remarkable process. You can't do anything directly; if you do, death is certain.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -116,19 +116,19 @@ source: |
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="timestamp" style="color:var(--accent-color);font-family:monospace;font-size:0.9rem;display:block;margin-bottom:0.3rem;opacity:0.8;">05:59 - 06:18</span>
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Host:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, all the gods and goddesses we see today were created by some *Sadhak*. Because as you said, you take cosmic power, master it, and then channel it into a deity.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, all the gods and goddesses we see today were created by some Sadhak. Because as you said, you take cosmic power, master it, and then channel it into a deity.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="timestamp" style="color:var(--accent-color);font-family:monospace;font-size:0.9rem;display:block;margin-bottom:0.3rem;opacity:0.8;">06:19 - 06:46</span>
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Look at the *Dasha Mahavidya* or the places where parts of Sati/Parvati fell. Power was created there. The deities there tell us, "I am here; awaken me." You cannot awaken them without humans. Where there are no humans, there is no God.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Look at the Dasha Mahavidya or the places where parts of Sati/Parvati fell. Power was created there. The deities there tell us, "I am here; awaken me." You cannot awaken them without humans. Where there are no humans, there is no God.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="timestamp" style="color:var(--accent-color);font-family:monospace;font-size:0.9rem;display:block;margin-bottom:0.3rem;opacity:0.8;">06:47 - 07:11</span>
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Only a *Sadhak* can keep the Mother awake. No one else has that capacity. When a *Sadhak* leaves, the Mother might leave too. It's not possible for an ordinary person.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Only a Sadhak can keep the Mother awake. No one else has that capacity. When a Sadhak leaves, the Mother might leave too. It's not possible for an ordinary person.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -140,13 +140,13 @@ source: |
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="timestamp" style="color:var(--accent-color);font-family:monospace;font-size:0.9rem;display:block;margin-bottom:0.3rem;opacity:0.8;">07:31 - 08:00</span>
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">That's why there are crowds there. Someone was there who gave their power to the Mother—Bama Khapa. Everyone does this. Power is given to God, and then God gives power to the *Sadhak*.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">That's why there are crowds there. Someone was there who gave their power to the Mother—Bama Khapa. Everyone does this. Power is given to God, and then God gives power to the Sadhak.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="timestamp" style="color:var(--accent-color);font-family:monospace;font-size:0.9rem;display:block;margin-bottom:0.3rem;opacity:0.8;">08:01 - 08:30</span>
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">A *Sadhak* can't take direct power; the whole body would shake. So, the power is brought indirectly and given to the Mother. There's a method for it. Then the *Sadhak* draws from her. Where there is no *Sadhak*, there is no Mother.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">A Sadhak can't take direct power; the whole body would shake. So, the power is brought indirectly and given to the Mother. There's a method for it. Then the Sadhak draws from her. Where there is no Sadhak, there is no Mother.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -158,7 +158,7 @@ source: |
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="timestamp" style="color:var(--accent-color);font-family:monospace;font-size:0.9rem;display:block;margin-bottom:0.3rem;opacity:0.8;">08:48 - 09:18</span>
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Exactly. Humans created God and gave God power. God as an object doesn't exist independently. *Sadhaks* give their power to God, and God enjoys that power as long as the *Sadhak* is nearby.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Exactly. Humans created God and gave God power. God as an object doesn't exist independently. Sadhaks give their power to God, and God enjoys that power as long as the Sadhak is nearby.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -194,7 +194,7 @@ source: |
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="timestamp" style="color:var(--accent-color);font-family:monospace;font-size:0.9rem;display:block;margin-bottom:0.3rem;opacity:0.8;">12:18 - 13:00</span>
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">It happens according to the fruits of your *Karma* (actions). Calling on God or becoming a *Sadhak* is a matter of many lifetimes. Buddha said he had taken birth so many times that his bones would form a mountain. So, one has to be born many times—sometimes with a family, sometimes without—to eventually reach maturity and truly "see" God.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">It happens according to the fruits of your Karma (actions). Calling on God or becoming a Sadhak is a matter of many lifetimes. Buddha said he had taken birth so many times that his bones would form a mountain. So, one has to be born many times—sometimes with a family, sometimes without—to eventually reach maturity and truly "see" God.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

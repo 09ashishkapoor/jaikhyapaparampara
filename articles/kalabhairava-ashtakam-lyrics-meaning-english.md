@@ -123,7 +123,7 @@ Jai Kalabhairav baba
 ### Sanskrit:
 <div class="sanskrit-verse">
 
-*Deva-Raaja-Sevyamaana-Paavana-Angghri-Pangkajam*  
+Deva-Raaja-Sevyamaana-Paavana-Angghri-Pangkajam  
 *Vyaala-Yajnya-Suutram-Indu-Shekharam Krpaakaram |*  
 *Naarada-[A]adi-Yogi-Vrnda-Vanditam Digambaram*  
 *Kaashikaa-Pura-Adhinaatha-Kaalabhairavam Bhaje ||1||*
@@ -150,9 +150,9 @@ I worship Kalabhairava, the Supreme Lord of the city of Kashi, whose sacred lotu
 ### Sanskrit:
 <div class="sanskrit-verse">
 
-*Bhaanu-Kotti-Bhaasvaram Bhavaabdhi-Taarakam Param*  
+Bhaanu-Kotti-Bhaasvaram Bhavaabdhi-Taarakam Param  
 *Niila-Kannttham-Iipsita-Artha-Daayakam Trilocanam |*  
-*Kaala-Kaalam-Ambuja-Akssam-Akssa-Shuulam-Akssaram*  
+Kaala-Kaalam-Ambuja-Akssam-Akssa-Shuulam-Akssaram  
 *Kaashikaa-Pura-Adhinaatha-Kaalabhairavam Bhaje ||2||*
 
 </div>
@@ -177,9 +177,9 @@ I worship Kalabhairava, the Supreme Lord of the city of Kashi, who is as resplen
 ### Sanskrit:
 <div class="sanskrit-verse">
 
-*Shuula-Ttangka-Paasha-Danndda-Paannim-Aadi-Kaarannam*  
+Shuula-Ttangka-Paasha-Danndda-Paannim-Aadi-Kaarannam  
 *Shyaama-Kaayam-Aadi-Devam-Akssaram Nir-Aamayam |*  
-*Bhiimavikramam Prabhum Vicitra-Taannddava-Priyam*  
+Bhiimavikramam Prabhum Vicitra-Taannddava-Priyam  
 *Kaashikaa-Pura-Adhinaatha-Kaalabhairavam Bhaje ||3||*
 
 </div>
@@ -202,9 +202,9 @@ I worship Kalabhairava, the Supreme Lord of the city of Kashi, who holds the tri
 ### Sanskrit:
 <div class="sanskrit-verse">
 
-*Bhukti-Mukti-Daayakam Prashasta-Caaru-Vigraham*  
+Bhukti-Mukti-Daayakam Prashasta-Caaru-Vigraham  
 *Bhakta-Vatsalam Sthitam Samasta-Loka-Vigraham |*  
-*Vi-Nikvannan-Manojnya-Hema-Kingkinnii-Lasat-Kattim*  
+Vi-Nikvannan-Manojnya-Hema-Kingkinnii-Lasat-Kattim  
 *Kaashikaa-Pura-Adhinaatha-Kaalabhairavam Bhaje ||4||*
 
 </div>
@@ -225,9 +225,9 @@ I worship Kalabhairava, the Supreme Lord of the city of Kashi, who is the giver 
 ### Sanskrit:
 <div class="sanskrit-verse">
 
-*Dharma-Setu-Paalakam Tu-Adharma-Maarga-Naashakam*  
+Dharma-Setu-Paalakam Tu-Adharma-Maarga-Naashakam  
 *Karma-Paasha-Mocakam Su-Sharma-Daayakam Vibhum |*  
-*Svarnna-Varnna-Shessa-Paasha-Shobhitaangga-Mannddalam*  
+Svarnna-Varnna-Shessa-Paasha-Shobhitaangga-Mannddalam  
 *Kaashikaa-Pura-Adhinaatha-Kaalabhairavam Bhaje ||5||*
 
 </div>
@@ -248,9 +248,9 @@ I worship Kalabhairava, the Supreme Lord of the city of Kashi, who is the protec
 ### Sanskrit:
 <div class="sanskrit-verse">
 
-*Ratna-Paadukaa-Prabhaabhi-Raama-Paada-Yugmakam*  
+Ratna-Paadukaa-Prabhaabhi-Raama-Paada-Yugmakam  
 *Nityam-Advitiiyam-Isstta-Daivatam Niramjanam |*  
-*Mrtyu-Darpa-Naashanam Karaala-Damssttra-Mokssannam*  
+Mrtyu-Darpa-Naashanam Karaala-Damssttra-Mokssannam  
 *Kaashikaa-Pura-Adhinaatha-Kaalabhairavam Bhaje ||6||*
 
 </div>
@@ -271,9 +271,9 @@ I worship Kalabhairava, the Supreme Lord of the city of Kashi, whose pair of fee
 ### Sanskrit:
 <div class="sanskrit-verse">
 
-*Atttta-Haasa-Bhinna-Padmaja-Anndda-Kosha-Samtatim*  
+Atttta-Haasa-Bhinna-Padmaja-Anndda-Kosha-Samtatim  
 *Drsstti-Paata-Nasstta-Paapa-Jaalam-Ugra-Shaasanam |*  
-*Asstta-Siddhi-Daayakam Kapaala-Maalikaa-Dharam*  
+Asstta-Siddhi-Daayakam Kapaala-Maalikaa-Dharam  
 *Kaashikaa-Pura-Adhinaatha-Kaalabhairavam Bhaje ||7||*
 
 </div>
@@ -294,9 +294,9 @@ I worship Kalabhairava, the Supreme Lord of the city of Kashi, whose deafening r
 ### Sanskrit:
 <div class="sanskrit-verse">
 
-*Bhuuta-Samgha-Naayakam Vishaala-Kiirti-Daayakam*  
+Bhuuta-Samgha-Naayakam Vishaala-Kiirti-Daayakam  
 *Kaashi-Vaasa-Loka-Punnya-Paapa-Shodhakam Vibhum |*  
-*Niiti-Maarga-Kovidam Puraatanam Jagatpatim*  
+Niiti-Maarga-Kovidam Puraatanam Jagatpatim  
 *Kaashikaapuraadhinaathakaalabhairavam Bhaje ||8||*
 
 </div>
@@ -319,7 +319,7 @@ I worship Kalabhairava, the Supreme Lord of the city of Kashi, who is the leader
 
 Kaalabhairavaassttakam Patthamti Ye Manoharam  
 *Jnyaana-Mukti-Saadhanam Vicitra-Punnya-Vardhanam |*  
-*Shoka-Moha-Dainya-Lobha-Kopa-Taapa-Naashanam*  
+Shoka-Moha-Dainya-Lobha-Kopa-Taapa-Naashanam  
 *Prayaanti Kaalabhairava-Amghri-Sannidhim Naraa Dhruvam ||9||*
 
 </div>

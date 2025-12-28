@@ -22,7 +22,7 @@ source: |
 
 <div class="speaker-block">
 <span class="speaker-name">Disciple:</span>
-<span class="speech-text">Friends, I welcome you from Shantikunj. To those who are new to the *Gupta Sadhak Shyamakapa* YouTube channel, I welcome you, and to our old friends, thank you for being with us. Pranam, Gurudev.</span>
+<span class="speech-text">Friends, I welcome you from Shantikunj. To those who are new to the Gupta Sadhak Shyamakapa YouTube channel, I welcome you, and to our old friends, thank you for being with us. Pranam, Gurudev.</span>
 </div>
 
 
@@ -108,7 +108,7 @@ The woman then told him, "Now you can go and give initiation to those who commit
 
 <div class="speaker-block">
 <span class="speaker-name">Disciple:</span>
-<span class="speech-text">So, what you are saying, Gurudev, is that **Greed** is the guru of sin.</span>
+<span class="speech-text">So, what you are saying, Gurudev, is that *Greed* is the guru of sin.</span>
 </div>
 
 

@@ -32,15 +32,15 @@ source: |
 
 <div class="speaker-block">
 <span class="speaker-name">Host:</span>
-<span class="speech-text">I have come to you with a few more questions. My first question is this: we often say—and you say as well—that the soul (*Jiva*) is a reflection of Brahman. However, we know that if a mirror breaks, the reflection is lost, but the original remains unchanged. Could you please elaborate on this?</span>
+<span class="speech-text">I have come to you with a few more questions. My first question is this: we often say—and you say as well—that the soul (Jiva) is a reflection of Brahman. However, we know that if a mirror breaks, the reflection is lost, but the original remains unchanged. Could you please elaborate on this?</span>
 </div>
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">You see, "mirror" in this context refers to something specific. In rituals, idols are often made of clay or stone. During certain ceremonies, when we need to perform a ritual bath (*Mahasnan*) or offer various substances to the deity, we use a mirror. We cannot always pour these substances directly onto the idol as it might damage the material. Therefore, we use a mirror to capture the reflection of the deity.</span>
+<span class="speech-text">You see, "mirror" in this context refers to something specific. In rituals, idols are often made of clay or stone. During certain ceremonies, when we need to perform a ritual bath (Mahasnan) or offer various substances to the deity, we use a mirror. We cannot always pour these substances directly onto the idol as it might damage the material. Therefore, we use a mirror to capture the reflection of the deity.</span>
 </div>
 
-In every puja, you will find a mirror placed in a pot of water (*Kunda-hari*). It is positioned so that the deity's reflection is clearly visible. When the ritual bath is performed, the water and various medicinal herbs are poured onto the reflection in the mirror. This was a method devised by the great sages of the past to protect the physical idols. 
+In every puja, you will find a mirror placed in a pot of water (Kunda-hari). It is positioned so that the deity's reflection is clearly visible. When the ritual bath is performed, the water and various medicinal herbs are poured onto the reflection in the mirror. This was a method devised by the great sages of the past to protect the physical idols. 
 
 Now, if that mirror breaks, it doesn't affect the deity at all. These rituals and even many of the deities we see today were established or conceptualized by humans through deep meditation and devotion. While some deities have been worshipped since ancient times—like the worship of Goddess Durga by Rama during the war—others emerged through the spiritual visions of sages. 
 
@@ -58,7 +58,7 @@ Ultimately, we are alive because of one element: air. If our breathing stops, we
 
 As for animals, science explains their existence differently, but in our tradition, we see them associated with the deities. Brahma is often depicted with a swan, Durga with a lion, Ganesha with a mouse, Kartikeya with a peacock, and Shiva with a bull. The deities chose these animals as their mounts (Vahanas).
 
-If you look at the theory of evolution (*Krama-Vivartanvad*), it aligns with the sequence of the avatars. Life began in the water (Matsya), then moved to both land and water (Kurma), then to land animals (Varaha), then a transition between animal and man (Narasimha), and finally to various stages of human development. 
+If you look at the theory of evolution (Krama-Vivartanvad), it aligns with the sequence of the avatars. Life began in the water (Matsya), then moved to both land and water (Kurma), then to land animals (Varaha), then a transition between animal and man (Narasimha), and finally to various stages of human development. 
 
 The mystery of creation is profound. Science says everything evolved over time from one form to another. In the beginning, there was nothing but water. Then came mountains, forests, and plants. One species led to another. Today, we even see this in science through "hybrids"—how one species is modified to create many others. 
 

@@ -20,7 +20,6 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
-### **Transcript: Guru Shamakhapa on Ego and "Kakcharit" (Crow Lore)**
 
 **Announcer:** Obeisance to Sri Sri Gupta Sadhak Shamakhapa. Greetings. We are beginning today’s program from Shantikunj by offering our respects to Guru Gupta Sadhak Sri Sri Shamakhapa. Let us all listen together to the invaluable words of the Gurudev.
 
@@ -54,7 +53,7 @@ Next is incense (Dhup). The incense represents the mind. Just as smoke from the 
 
 Finally, Ego is the "garland of flowers." We envision these elements—Mind, Intelligence, and Ego—and perform an internal worship. We surrender this body to the Mother, use the mind as incense, intelligence as flowers, and ego as the garland. This is how the "Mind-Intelligence-Ego" ritual is performed.
 
-Ego is simply the intelligence of the mind. History shows that those who succumbed to pride were destroyed. "Lanka was lost due to excessive pride." Ravana lost his kingdom because of his ego. Whenever someone displays extreme pride, the Divine shatters it. That is why Lord Narayana is called *Darpa-hari Madhusudan*—the one who destroys pride and ego. He cannot tolerate ego and humbles whoever possesses it.
+Ego is simply the intelligence of the mind. History shows that those who succumbed to pride were destroyed. "Lanka was lost due to excessive pride." Ravana lost his kingdom because of his ego. Whenever someone displays extreme pride, the Divine shatters it. That is why Lord Narayana is called Darpa-hari Madhusudan—the one who destroys pride and ego. He cannot tolerate ego and humbles whoever possesses it.
 
 Let me tell you a story. A sage (Sadhu) was once meditating under a tree. Suddenly, a crow perched on a branch and defecated on his head. The sage glared at the crow in anger, and instantly, the crow was reduced to ashes. Seeing this, the sage felt a surge of pride. He thought, "I have attained such immense power that a single glance can turn something to ash!"
 
@@ -80,7 +79,7 @@ At that moment, the sage’s ego finally vanished. The butcher told him, "Your a
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">In Tarapith, there is a *Mazar* (shrine). If you go through the market road, about two kilometers in, you will find it. There are people there who master a specific craft called *Kakcharit* (Crow Lore/Practice). You will often see practitioners who have learned this. They stand in Tarapith waiting for "customers." They can look at you and tell you everything about your life—from childhood to the future. I have even seen them tell people exactly how much money they have in their pockets.</span>
+<span class="speech-text">In Tarapith, there is a Mazar (shrine). If you go through the market road, about two kilometers in, you will find it. There are people there who master a specific craft called Kakcharit (Crow Lore/Practice). You will often see practitioners who have learned this. They stand in Tarapith waiting for "customers." They can look at you and tell you everything about your life—from childhood to the future. I have even seen them tell people exactly how much money they have in their pockets.</span>
 </div>
 
 
@@ -92,7 +91,7 @@ At that moment, the sage’s ego finally vanished. The butcher told him, "Your a
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">Yes, it is a form of Tantra, but it is considered a lower or "worldly" level of practice (*Aparavidya*). Crows are called "friends of the environment" because they consume waste, but in this practice, certain rituals are performed using them. These practitioners use the crow to gain information. They might ask for 500 rupees, and after some bargaining, settle for 50 or 100 rupees and give you a talisman (*Maduli*).</span>
+<span class="speech-text">Yes, it is a form of Tantra, but it is considered a lower or "worldly" level of practice (Aparavidya). Crows are called "friends of the environment" because they consume waste, but in this practice, certain rituals are performed using them. These practitioners use the crow to gain information. They might ask for 500 rupees, and after some bargaining, settle for 50 or 100 rupees and give you a talisman (Maduli).</span>
 </div>
 
 
@@ -114,13 +113,13 @@ In our tradition, we also respect the crow because it is associated with Ketu an
 
 <div class="speaker-block">
 <span class="speaker-name">Devotee:</span>
-<span class="speech-text">Does this *Kakcharit* actually help people?</span>
+<span class="speech-text">Does this Kakcharit actually help people?</span>
 </div>
 
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">It is mostly a way to earn money. It is a form of hypnotism. It has no connection to the Divine or the improvement of the soul. There are many such "dark" arts—like *Daini Vidya* or *Dakini Vidya*—that people practice in deep forests. They are difficult to master but provide no spiritual benefit. It is purely for worldly gain.</span>
+<span class="speech-text">It is mostly a way to earn money. It is a form of hypnotism. It has no connection to the Divine or the improvement of the soul. There are many such "dark" arts—like Daini Vidya or Dakini Vidya—that people practice in deep forests. They are difficult to master but provide no spiritual benefit. It is purely for worldly gain.</span>
 </div>
 
 

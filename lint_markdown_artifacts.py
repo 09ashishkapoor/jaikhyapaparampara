@@ -16,13 +16,14 @@ def find_markdown_artifacts(text):
     """
     artifacts = []
     
-    # Pattern: *word* or *phrase* where it's not part of valid markdown
-    # Matches: *Yoga*, *Sankhya Yoga*, *Ishto*, etc.
-    pattern = r'\*([A-Z][A-Za-z\s]+?)\*'
+    # Pattern: *word* or *phrase* where it's likely a formatting error
+    # Matches: *Yoga*, *Sankhya Yoga*, *Ishto*, *Mazar*, etc.
+    # This includes both capitalized terms and common Sanskrit/Hindi transliterations
+    pattern = r'\*([A-Z][A-Za-z\s\-]+?)\*'
     
     for line_num, line in enumerate(text.split('\n'), 1):
-        # Skip HTML tags and code blocks
-        if '<' in line or '```' in line or line.strip().startswith('```'):
+        # Skip code blocks but check HTML spans which may contain formatted text
+        if '```' in line:
             continue
         
         matches = re.finditer(pattern, line)
