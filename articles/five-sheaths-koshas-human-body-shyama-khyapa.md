@@ -19,6 +19,7 @@ tags:
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=zWSCRZYIuSs" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
+  <p>Verified by KaliPutra-Ashish</p>
 ---
 
 <div class="speaker-block">
