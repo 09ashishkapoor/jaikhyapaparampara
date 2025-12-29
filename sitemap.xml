@@ -3,7 +3,7 @@
   <url>
     <loc>https://jaikhyapaparampara.com/</loc>
     
-    <lastmod>2025-12-27T11:30:00.000Z</lastmod>
+    <lastmod>2025-12-28T00:00:00.000Z</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -39,6 +39,34 @@
   </url>
 
   <!-- Blog Articles -->
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/pacifying-nature-daily-hom-yagya-shyama-khyapa/</loc>
+    <lastmod>2025-12-28T00:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/mahamrityunjaya-yagna-mecca-connection-shyama-khyapa/</loc>
+    <lastmod>2025-12-28T00:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/mahamrityunjay-yagya-1000-days-guru-shyama-khyapa/</loc>
+    <lastmod>2025-12-28T00:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/disaster-of-civilization-2026-predictions-shyama-khyapa/</loc>
+    <lastmod>2025-12-28T00:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   
   <url>
     <loc>https://jaikhyapaparampara.com/articles/yoga-guru-social-traditions-shyama-khyapa/</loc>
@@ -196,60 +224,6 @@
   
   
   <url>
-    <loc>https://jaikhyapaparampara.com/tags/philosophy/</loc>
-    <lastmod>2025-12-27T00:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://jaikhyapaparampara.com/tags/science/</loc>
-    <lastmod>2025-12-27T00:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://jaikhyapaparampara.com/tags/sadhana/</loc>
-    <lastmod>2025-12-26T00:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://jaikhyapaparampara.com/tags/koshas/</loc>
-    <lastmod>2025-12-27T11:25:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://jaikhyapaparampara.com/tags/spirituality/</loc>
-    <lastmod>2025-12-26T00:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://jaikhyapaparampara.com/tags/health/</loc>
-    <lastmod>2025-12-27T11:25:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://jaikhyapaparampara.com/tags/guru-baba-shyama-khyapa/</loc>
     <lastmod>2025-12-24T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -259,7 +233,79 @@
   
   
   <url>
+    <loc>https://jaikhyapaparampara.com/tags/2026-predictions/</loc>
+    <lastmod>2025-12-28T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/world-war-iii/</loc>
+    <lastmod>2025-12-28T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/kali-yuga/</loc>
+    <lastmod>2025-12-26T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/hari-naam-sankirtan/</loc>
+    <lastmod>2025-12-28T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/bama-khapa/</loc>
+    <lastmod>2025-12-26T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/tarapith/</loc>
+    <lastmod>2025-12-24T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://jaikhyapaparampara.com/tags/divine-mother/</loc>
+    <lastmod>2025-12-26T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/sadhak/</loc>
+    <lastmod>2025-12-26T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/sadhana/</loc>
     <lastmod>2025-12-26T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -313,33 +359,6 @@
   
   
   <url>
-    <loc>https://jaikhyapaparampara.com/tags/bama-khapa/</loc>
-    <lastmod>2025-12-26T00:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://jaikhyapaparampara.com/tags/tarapith/</loc>
-    <lastmod>2025-12-24T00:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://jaikhyapaparampara.com/tags/sadhak/</loc>
-    <lastmod>2025-12-26T00:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://jaikhyapaparampara.com/tags/guru-purnima/</loc>
     <lastmod>2025-12-26T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -358,15 +377,6 @@
   
   
   <url>
-    <loc>https://jaikhyapaparampara.com/tags/kali-yuga/</loc>
-    <lastmod>2025-12-26T00:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://jaikhyapaparampara.com/tags/guru-disciple/</loc>
     <lastmod>2025-12-26T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -376,7 +386,7 @@
   
   
   <url>
-    <loc>https://jaikhyapaparampara.com/tags/brahma/</loc>
+    <loc>https://jaikhyapaparampara.com/tags/philosophy/</loc>
     <lastmod>2025-12-27T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -385,7 +395,7 @@
   
   
   <url>
-    <loc>https://jaikhyapaparampara.com/tags/evolution/</loc>
+    <loc>https://jaikhyapaparampara.com/tags/science/</loc>
     <lastmod>2025-12-27T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -394,8 +404,8 @@
   
   
   <url>
-    <loc>https://jaikhyapaparampara.com/tags/biography/</loc>
-    <lastmod>2025-12-27T00:00:00.000Z</lastmod>
+    <loc>https://jaikhyapaparampara.com/tags/koshas/</loc>
+    <lastmod>2025-12-27T11:25:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -403,8 +413,17 @@
   
   
   <url>
-    <loc>https://jaikhyapaparampara.com/tags/tantra/</loc>
-    <lastmod>2025-12-27T00:00:00.000Z</lastmod>
+    <loc>https://jaikhyapaparampara.com/tags/spirituality/</loc>
+    <lastmod>2025-12-26T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/health/</loc>
+    <lastmod>2025-12-27T11:25:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -457,6 +476,42 @@
   
   
   <url>
+    <loc>https://jaikhyapaparampara.com/tags/brahma/</loc>
+    <lastmod>2025-12-27T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/evolution/</loc>
+    <lastmod>2025-12-27T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/biography/</loc>
+    <lastmod>2025-12-27T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/tantra/</loc>
+    <lastmod>2025-12-27T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://jaikhyapaparampara.com/tags/kalabhairava/</loc>
     <lastmod>2025-12-25T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -495,6 +550,42 @@
   <url>
     <loc>https://jaikhyapaparampara.com/tags/sacred-texts/</loc>
     <lastmod>2025-12-25T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/mahamrityunjay-yagya/</loc>
+    <lastmod>2025-12-28T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/world-peace/</loc>
+    <lastmod>2025-12-28T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/vedic-traditions/</loc>
+    <lastmod>2025-12-28T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/spiritual-sacrifice/</loc>
+    <lastmod>2025-12-28T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -547,6 +638,33 @@
   
   
   <url>
+    <loc>https://jaikhyapaparampara.com/tags/hom-yagya/</loc>
+    <lastmod>2025-12-28T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/vedic-principles/</loc>
+    <lastmod>2025-12-28T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/shravan/</loc>
+    <lastmod>2025-12-28T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://jaikhyapaparampara.com/tags/money/</loc>
     <lastmod>2025-12-26T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -574,6 +692,33 @@
   
   
   <url>
+    <loc>https://jaikhyapaparampara.com/tags/mahamrityunjaya-yagna/</loc>
+    <lastmod>2025-12-28T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/mecca/</loc>
+    <lastmod>2025-12-28T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/saptarishi/</loc>
+    <lastmod>2025-12-28T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://jaikhyapaparampara.com/tags/ramakrishna-paramhansa-dev/</loc>
     <lastmod>2025-12-27T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -584,6 +729,15 @@
   
   <url>
     <loc>https://jaikhyapaparampara.com/tags/vivekananda/</loc>
+    <lastmod>2025-12-27T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/ego/</loc>
     <lastmod>2025-12-27T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -646,7 +800,7 @@
   
   
   <url>
-    <loc>https://jaikhyapaparampara.com/tags/ego/</loc>
+    <loc>https://jaikhyapaparampara.com/tags/karma/</loc>
     <lastmod>2025-12-27T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -655,7 +809,7 @@
   
   
   <url>
-    <loc>https://jaikhyapaparampara.com/tags/mother-earth/</loc>
+    <loc>https://jaikhyapaparampara.com/tags/justice/</loc>
     <lastmod>2025-12-27T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -664,7 +818,7 @@
   
   
   <url>
-    <loc>https://jaikhyapaparampara.com/tags/sin/</loc>
+    <loc>https://jaikhyapaparampara.com/tags/society/</loc>
     <lastmod>2025-12-27T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -709,15 +863,6 @@
   
   
   <url>
-    <loc>https://jaikhyapaparampara.com/tags/society/</loc>
-    <lastmod>2025-12-27T00:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://jaikhyapaparampara.com/tags/tradition/</loc>
     <lastmod>2025-12-27T11:30:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -736,7 +881,7 @@
   
   
   <url>
-    <loc>https://jaikhyapaparampara.com/tags/karma/</loc>
+    <loc>https://jaikhyapaparampara.com/tags/mother-earth/</loc>
     <lastmod>2025-12-27T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -745,7 +890,7 @@
   
   
   <url>
-    <loc>https://jaikhyapaparampara.com/tags/justice/</loc>
+    <loc>https://jaikhyapaparampara.com/tags/sin/</loc>
     <lastmod>2025-12-27T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -108,7 +108,7 @@ The woman then told him, "Now you can go and give initiation to those who commit
 
 <div class="speaker-block">
 <span class="speaker-name">Disciple:</span>
-<span class="speech-text">So, what you are saying, Gurudev, is that *Greed* is the guru of sin.</span>
+<span class="speech-text">So, what you are saying, Gurudev, is that Greed is the guru of sin.</span>
 </div>
 
 
