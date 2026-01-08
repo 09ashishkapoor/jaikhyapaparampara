@@ -3,9 +3,9 @@ layout: article
 title: "Sri Ramakrishna Paramhansa Dev: Divine Insights by Guru Baba Shyama Khyapa"
 breadcrumbTitle: "Ramakrishna Dev"
 description: "A discussion on the life, spiritual practices, and gurus of Shri Shri Ramakrishna Paramhansa Dev by Guru Baba Shyama Khyapa."
-keywords: "Ramakrishna Paramhansa Dev, Guru Baba Shyama Khyapa, Vivekananda, Tantra, Dakshineshwar, Bhairabi Maa, Totapuri, spiritual practices"
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Ramakrishna Paramhansa Dev, Guru Baba Shyama Khyapa, Vivekananda, Tantra, Dakshineshwar, Bhairabi Maa, Totapuri, spiritual practices"
 category: "Guru Stories"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27
 readingTime: 15
 tags:
@@ -13,6 +13,10 @@ tags:
   - Ramakrishna Paramhansa Dev
   - Guru Baba Shyama Khyapa
   - Vivekananda
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=lXTZ68S2xMg" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
@@ -231,3 +235,8 @@ So, they gave their verdict: "Immerse the idol and bring a new one." Then Rashmo
 </div>
 
 
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>A discussion on the life, spiritual practices, and gurus of Shri Shri Ramakrishna Paramhansa Dev by Guru Baba Shyama Khyapa.</p>
+</div>

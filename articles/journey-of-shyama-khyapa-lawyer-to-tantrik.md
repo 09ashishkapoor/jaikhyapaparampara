@@ -3,9 +3,9 @@ layout: article
 title: "From Lawyer to Tantrik: The Spiritual Journey of Shyama Khyapa"
 breadcrumbTitle: "The Journey of Shyama Khyapa"
 description: "Gurudev Shyama Khyapa shares his profound transition from a successful legal career and business life to a life of complete surrender to Mother Tara and the path of Tantra."
-keywords: "Shyama Khyapa, Spiritual Journey, Lawyer to Tantrik, Mother Tara, Tarapith, Pashupatinath, Tantra, Divine Vision"
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Gupta Sadhak Shyamakhyapa, Shyama Khyapa, Spiritual Journey, Lawyer to Tantrik, Mother Tara, Tarapith, Pashupatinath, Tantra, Divine Vision"
 category: "Guru Stories"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27
 readingTime: 20
 tags:
@@ -14,6 +14,10 @@ tags:
   - Biography
   - Tarapith
   - Tantra
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=89RNhEUbPGQ" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
@@ -133,4 +137,9 @@ I don't look at worldly things much. I go home briefly for my wife's peace of mi
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
 <span class="speech-text">Blessings.</span>
+</div>
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Gurudev Shyama Khyapa shares his profound transition from a successful legal career and business life to a life of complete surrender to Mother Tara and the path of Tantra.</p>
 </div>

@@ -3,9 +3,9 @@ layout: article
 title: "The Global Essence of Maha Mrityunjaya: From Mecca to the Saptarishi Circle"
 breadcrumbTitle: "Maha Mrityunjaya & Mecca"
 description: "Guru Shyama Khyapa reveals the deep spiritual connections of the Maha Mrityunjaya Yagna, its international recognition, and the surprising link between Mecca and Vedic traditions."
-keywords: "Maha Mrityunjaya Yagna, Guru Shyama Khyapa, Mecca Shiva connection, Shukracharya, Saptarishi, world peace, Samurai Japan, healing mantra"
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Maha Mrityunjaya Yagna, Guru Shyama Khyapa, Mecca Shiva connection, Shukracharya, Saptarishi, world peace, Samurai Japan, healing mantra"
 category: "Rituals & Yagyas"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-28
 readingTime: 15
 tags:
@@ -15,6 +15,10 @@ tags:
   - Mecca
   - Saptarishi
   - World Peace
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=GGX3cyYCk4w" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
@@ -131,4 +135,9 @@ In the Mrityunjaya Yagna, we saw that when offerings (Hovi) are made, they are g
 <span class="speech-text" style="display:block;margin-top:0.5rem;">*(Gurudev recites various Sanskrit Shlokas and Mantras dedicated to the divine and the sacrificial fire.)*</span>
 </div>
 
+</div>
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Guru Shyama Khyapa reveals the deep spiritual connections of the Maha Mrityunjaya Yagna, its international recognition, and the surprising link between Mecca and Vedic traditions.</p>
 </div>

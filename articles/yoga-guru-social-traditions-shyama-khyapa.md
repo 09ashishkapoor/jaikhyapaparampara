@@ -3,9 +3,9 @@ layout: article
 title: "Yoga, the Guru, and Social Traditions: Insights from Guru Baba Shyama Khyapa"
 breadcrumbTitle: "Yoga & Guru"
 description: "Guru Baba Shyama Khyapa explains why Sankhya Yoga is best for common people, the supreme importance of the Guru, and discusses traditional views on widowhood and remarriage."
-keywords: "Guru Baba Shyama Khyapa, Sankhya Yoga, Bhagavad Gita, Guru Brahma, Sadguru, widow remarriage, Sati, Ishwar Chandra Vidyasagar, desire, spiritual practice, Ishto"
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, Sankhya Yoga, Bhagavad Gita, Guru Brahma, Sadguru, widow remarriage, Sati, Ishwar Chandra Vidyasagar, desire, spiritual practice, Ishto"
 category: "Sadhana"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27 11:30:00
 readingTime: 14
 tags:
@@ -17,6 +17,10 @@ tags:
   - Society
   - Tradition
   - Bhagavad Gita
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=ZyiOzNN7qac" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
@@ -212,4 +216,9 @@ source: |
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
 <span class="speech-text">Yes, pranam. Blessings to you.</span>
+</div>
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Guru Baba Shyama Khyapa explains why Sankhya Yoga is best for common people, the supreme importance of the Guru, and discusses traditional views on widowhood and remarriage.</p>
 </div>

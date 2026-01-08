@@ -15,6 +15,8 @@ tags:
   - Bhairava
   - Kashi
   - Sacred Texts
+
+
 image: "/images/articles/kalabhairava-ashtakam.webp"
 ---
 
@@ -352,3 +354,8 @@ If you got this far. Kudos you are meant to read this. Jnana finds its way to th
 **Jai Ma Adya Mahakali. Jai Kalabhairava. Jai Ma Krishna**
 
 
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Complete guide to Kalabhairava Ashtakam by Adi Shankaracharya. Includes English lyrics, translation, and spiritual commentary on time and liberation.</p>
+</div>

@@ -3,9 +3,9 @@ layout: article
 title: "What to do in Ambubachi? What not to do?"
 breadcrumbTitle: "Ambubachi: Rules and Significance"
 description: "Guru Baba Shyama Khyapa explains the scientific and spiritual significance of Ambubachi, Mother Earth's menstruation cycle, and what to observe during this time."
-keywords: "Ambubachi, Guru Baba Shyama Khyapa, Mother Earth, Kamakhya, Tantra, Spiritual, Nature, Gupta Sadhak"
+keywords: "GuruDeva Shyama Khyapa, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Ambubachi, Guru Baba Shyama Khyapa, Mother Earth, Kamakhya, Tantra, Spiritual, Nature, Gupta Sadhak"
 category: "Guru Stories"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27
 readingTime: 10
 tags:
@@ -14,6 +14,10 @@ tags:
   - Ambubachi
   - Mother Earth
   - Kamakhya
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=9BV_WrShwK4" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
@@ -145,3 +149,8 @@ However, we who practice Tantra take three days off. We don't do anything becaus
 
 
 **Guru:** Greetings, my son.
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Guru Baba Shyama Khyapa explains the scientific and spiritual significance of Ambubachi, Mother Earth's menstruation cycle, and what to observe during this time.</p>
+</div>

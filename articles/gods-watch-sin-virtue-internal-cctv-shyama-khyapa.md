@@ -3,9 +3,9 @@ layout: article
 title: "God's Watch: The Internal CCTV of the Soul"
 breadcrumbTitle: "God's Watch: Sin and Virtue"
 description: "Guru Shyama Khyapa explains the concept of sin and virtue, the 'internal CCTV camera' of the soul, and why we should surrender our actions to the Divine for judgment."
-keywords: "Guru Shyama Khyapa, Sin and Virtue, Karma, Paramatma, Internal CCTV, God's Judgment, Spiritual Wisdom, Forgiveness, Shishupala, Vidura, Khyapa Parampara"
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Sin and Virtue, Karma, Paramatma, Internal CCTV, God's Judgment, Spiritual Wisdom, Forgiveness, Shishupala, Vidura, Khyapa Parampara"
 category: "Guru Stories"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-30
 readingTime: 12
 tags:
@@ -16,6 +16,10 @@ tags:
   - Paramatma
   - Spiritual Wisdom
   - Philosophy
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=0uxsBg5dVYQ" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>

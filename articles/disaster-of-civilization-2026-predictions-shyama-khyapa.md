@@ -3,9 +3,9 @@ layout: article
 title: "2026 Predictions: Hari Naam Sankirtan as the Only Refuge in Kali Yuga"
 breadcrumbTitle: "2026 Predictions & Refuge"
 description: "While 2026 brings terrifying predictions of global unrest, Guru Shyama Khyapa reveals why Hari Naam Sankirtan remains the only true refuge and path to peace in Kali Yuga."
-keywords: "Guru Shyama Khyapa, 2026 predictions, World War III, Kali Yuga, Hari Naam Sankirtan, spiritual guidance, disaster of civilization, Gupta Sadhak"
+keywords: "GuruDeva Shyama Khyapa, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, 2026 predictions, World War III, Kali Yuga, Hari Naam Sankirtan, spiritual guidance, disaster of civilization, Gupta Sadhak"
 category: "Guru Messages"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-28
 readingTime: 10
 tags:
@@ -15,6 +15,10 @@ tags:
   - World War III
   - Kali Yuga
   - Hari Naam Sankirtan
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=ZopvQ7SllJw" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
@@ -127,4 +131,9 @@ Only the Name. Only the Holy Name. In this age of Kali, there is no other way, n
 <span class="speech-text" style="display:block;margin-top:0.5rem;">Pranam.</span>
 </div>
 
+</div>
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>While 2026 brings terrifying predictions of global unrest, Guru Shyama Khyapa reveals why Hari Naam Sankirtan remains the only true refuge and path to peace in Kali Yuga.</p>
 </div>

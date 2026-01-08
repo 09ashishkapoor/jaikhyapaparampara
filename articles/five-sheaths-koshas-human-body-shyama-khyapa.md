@@ -3,9 +3,9 @@ layout: article
 title: "The Five Sheaths of the Human Body: Wisdom from Guru Baba Shyama Khyapa"
 breadcrumbTitle: "Five Sheaths (Koshas)"
 description: "Explore the five koshas—Annamaya, Pranamaya, Manomaya, Vijnanamaya, and Anandamaya—and how they govern our physical, mental, and spiritual existence."
-keywords: "Guru Baba Shyama Khyapa, Five Koshas, Annamaya Kosha, Pranamaya Kosha, Manomaya Kosha, Vijnanamaya Kosha, Anandamaya Kosha, human body science, spirituality, Sat-Chit-Ananda, Panchabhuta"
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, Five Koshas, Annamaya Kosha, Pranamaya Kosha, Manomaya Kosha, Vijnanamaya Kosha, Anandamaya Kosha, human body science, spirituality, Sat-Chit-Ananda, Panchabhuta"
 category: "Philosophy"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27 11:25:00
 readingTime: 12
 tags:
@@ -16,6 +16,10 @@ tags:
   - Koshas
   - Spirituality
   - Health
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=zWSCRZYIuSs" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
@@ -69,3 +73,8 @@ So, to the person who asked the question on Saturday, I have analyzed the five s
 
 
 **Guru:** My blessings to you.
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Explore the five koshas—Annamaya, Pranamaya, Manomaya, Vijnanamaya, and Anandamaya—and how they govern our physical, mental, and spiritual existence.</p>
+</div>

@@ -62,6 +62,53 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  // Get all tags from articles
+  eleventyConfig.addCollection("allTags", function(collectionApi) {
+    const articles = collectionApi.getFilteredByGlob("articles/*.md");
+    const tagSet = new Set();
+    
+    articles.forEach(item => {
+      (item.data.tags || []).forEach(tag => {
+        if (tag !== "articles") {
+          tagSet.add(tag);
+        }
+      });
+    });
+
+    return Array.from(tagSet).sort();
+  });
+
+  // Create collections for each tag dynamically
+  eleventyConfig.addCollection("all", function(collectionApi) {
+    const articles = collectionApi.getFilteredByGlob("articles/*.md");
+    
+    // Get all unique tags and group articles by tag
+    const tagMap = new Map();
+    articles.forEach(item => {
+      (item.data.tags || []).forEach(tag => {
+        if (tag !== "articles") {
+          if (!tagMap.has(tag)) {
+            tagMap.set(tag, []);
+          }
+          tagMap.get(tag).push(item);
+        }
+      });
+    });
+
+    // Sort articles within each tag by date (newest first)
+    tagMap.forEach(tagArticles => {
+      tagArticles.sort((a, b) => b.date - a.date);
+    });
+
+    // Return as object so templates can access collections.all[tagName]
+    const result = {};
+    tagMap.forEach((articles, tag) => {
+      result[tag] = articles;
+    });
+
+    return result;
+  });
+
   return {
     dir: {
       input: ".",

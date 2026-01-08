@@ -3,9 +3,9 @@ layout: article
 title: "Why Should We Bear the Sins of Others?"
 breadcrumbTitle: "Sins and Justice"
 description: "Guru Baba Shyama Khyapa discusses the burden of sins, divine justice, and the importance of protesting against injustice in society."
-keywords: "Guru Baba Shyama Khyapa, Sins, Divine Justice, Karma, Bamakhepa, Protesting Injustice, Spirituality, Politics"
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, Sins, Divine Justice, Karma, Bamakhepa, Protesting Injustice, Spirituality, Politics"
 category: "Guru Stories"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27
 readingTime: 15
 tags:
@@ -14,6 +14,10 @@ tags:
   - Karma
   - Justice
   - Society
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=86umWDMwNm4" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
@@ -163,4 +167,9 @@ Yes, God will punish you according to your "Karmaphal" (results of actions). You
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
 <span class="speech-text">Pranam.</span>
+</div>
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Guru Baba Shyama Khyapa discusses the burden of sins, divine justice, and the importance of protesting against injustice in society.</p>
 </div>

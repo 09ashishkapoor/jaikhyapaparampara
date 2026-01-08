@@ -1,11 +1,8 @@
 ---
 pagination:
-  data: collections
+  data: collections.allTags
   size: 1
   alias: tag
-  filter:
-    - all
-    - articles
 layout: base
 eleventyComputed:
   title: "Articles tagged with {{ tag }} | Jai Khyapa Parampara"
@@ -16,6 +13,32 @@ permalink: /tags/{{ tag | slugify }}/
 .blog-header{padding:3rem 0 2rem 0;text-align:center;}
 .blog-title{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:2.8rem;margin-bottom:1rem;}  
 .blog-description{font-size:1.2rem;color:var(--text-dark);max-width:800px;margin:0 auto;}
+
+/* Tags Styles */
+.tags-container {
+    max-width: 1000px;
+    margin: 1rem auto 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.8rem;
+}
+.tag-filter {
+    background: rgba(45, 15, 24, 0.4);
+    border: 1px solid var(--border-gold);
+    color: var(--text-dark);
+    padding: 0.4rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+.tag-filter:hover, .tag-filter.active {
+    background: var(--accent-color);
+    color: white;
+    border-color: var(--accent-color);
+}
 
 .articles-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(350px,1fr));gap:2rem;padding:3rem 0;}   
 .article-card{background:linear-gradient(135deg,rgba(45,15,24,0.4) 0%,rgba(31,11,17,0.4) 100%);border:1px solid var(--border-gold);border-radius:8px;padding:2rem;transition:all 0.3s ease;}                                        .article-card:hover{transform:translateY(-5px);border-color:var(--accent-color);box-shadow:0 10px 30px var(--shadow-colored);}                                                                                                      .article-card-category{display:inline-block;background:transparent;border:1px solid var(--accent-color);color:var(--accent-color);padding:0.3rem 1rem;border-radius:15px;font-size:0.85rem;margin-bottom:1rem;}                     .article-card-title{font-family:'Philosopher',sans-serif;font-size:1.5rem;color:var(--accent-bright);margin-bottom:0.8rem;line-height:1.3;}                                                                                         .article-card-title a{color:var(--accent-bright);text-decoration:none;}
@@ -37,9 +60,21 @@ permalink: /tags/{{ tag | slugify }}/
         <p class="blog-description">Exploring all articles and insights related to "{{ tag }}".</p>
     </div>
 
+    <div class="tags-container">
+        <span style="color: var(--accent-color); font-weight: bold; margin-right: 10px; align-self: center;">Explore Topics:</span>
+        <a href="/articles/" class="tag-filter">All</a>
+        <a href="/tags/gupta-sadhak-shyamakhyapa/" class="tag-filter {% if tag == 'Gupta Sadhak Shyamakhyapa' %}active{% endif %}" style="border-color: var(--accent-bright); background: rgba(232, 196, 104, 0.1);">Shyama Khyapa</a>
+        <a href="/tags/guru-stories/" class="tag-filter {% if tag == 'Guru Stories' %}active{% endif %}">Guru Stories</a>
+        <a href="/tags/sacred-texts/" class="tag-filter {% if tag == 'Sacred Texts' %}active{% endif %}">Sacred Texts</a>
+        <a href="/tags/philosophy/" class="tag-filter {% if tag == 'Philosophy' %}active{% endif %}">Philosophy</a>
+        <a href="/tags/sadhana/" class="tag-filter {% if tag == 'Sadhana' %}active{% endif %}">Sadhana</a>
+        <a href="/tags/bhairava/" class="tag-filter {% if tag == 'Bhairava' %}active{% endif %}">Bhairava</a>
+        <a href="/tags/kali/" class="tag-filter {% if tag == 'Kali' %}active{% endif %}">Kali</a>
+    </div>
+
     <div class="articles-grid">
-        {% set taglist = collections[ tag ] %}
-        {% for article in taglist | reverse %}
+        {% set taglist = collections.all[ tag ] %}
+        {% for article in taglist %}
         <div class="article-card">
             <span class="article-card-category">{{ article.data.category }}</span>
             <h2 class="article-card-title">

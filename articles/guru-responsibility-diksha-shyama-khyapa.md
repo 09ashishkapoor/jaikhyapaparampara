@@ -3,9 +3,9 @@ layout: article
 title: "The Essence of Diksha and Guru-Disciple Responsibility"
 breadcrumbTitle: "Diksha & Guru Responsibility"
 description: "Explore the meaning of Diksha (initiation) and the sacred bond between Guru and disciple as explained by the mystic Guru Baba Shyama Khyapa."
-keywords: "Guru Baba Shyama Khyapa, Diksha, Initiation, Guru, Disciple, Responsibility, Spirituality, Sadhana, Japa, Tarapith, Shantikunja"
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, Diksha, Initiation, Guru, Disciple, Responsibility, Spirituality, Sadhana, Japa, Tarapith, Shantikunja"
 category: "Guru Stories"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-26
 readingTime: 12
 tags:
@@ -15,6 +15,10 @@ tags:
   - Guru Responsibility
   - Sadhana
   - Tarapith
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=y3K_7WM7kaU" rel="noopener" style="color: var(--accent-bright); text-decoration: none; font-style: normal; font-size: 0.95rem; margin-top: 0.5rem; display: inline-block;" target="_blank">📺 Watch Original Bengali Video on YouTube</a></p>
@@ -198,3 +202,8 @@ source: |
 </div>
 
 
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Explore the meaning of Diksha (initiation) and the sacred bond between Guru and disciple as explained by the mystic Guru Baba Shyama Khyapa.</p>
+</div>

@@ -3,9 +3,9 @@ layout: article
 title: "The Truth About Ambubachi: Science vs. Superstition"
 breadcrumbTitle: "Ambubachi Truths"
 description: "Guru Baba Shyama Khyapa debunks common myths about Ambubachi and explains its true scientific and spiritual significance as a period of honoring Mother Earth's cycle."
-keywords: "Ambubachi, Guru Baba Shyama Khyapa, Kamakhya, Mother Earth, Tantra, Science, Superstition, Rituals"
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Ambubachi, Guru Baba Shyama Khyapa, Kamakhya, Mother Earth, Tantra, Science, Superstition, Rituals"
 category: "Guru Stories"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27
 readingTime: 18
 tags:
@@ -14,6 +14,10 @@ tags:
   - Ambubachi
   - Kamakhya
   - Science
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=av4gDTYesvc" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
@@ -165,4 +169,9 @@ Lastly, there's a place called Mayong where Tantra is practiced. It’s not prac
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
 <span class="speech-text">Yes, end it.</span>
+</div>
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Guru Baba Shyama Khyapa debunks common myths about Ambubachi and explains its true scientific and spiritual significance as a period of honoring Mother Earth's cycle.</p>
 </div>

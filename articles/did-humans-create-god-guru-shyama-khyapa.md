@@ -3,9 +3,9 @@ layout: article
 title: "Did Humans Create God?"
 breadcrumbTitle: "Did Humans Create God?"
 description: "A profound conversation with Guru Shyama Khyapa Baba on whether humans created God, the power of Sadhaks, and the awakening of the Divine Mother. Explore the relationship between the practitioner, the deity, and the cosmic power."
-keywords: "Guru Baba Shyama Khyapa, God creation, Sadhak power, Divine Mother, Bama Khapa, spiritual awakening, God Particle, Karma, Tarapith, Khyapa Parampara"
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, God creation, Sadhak power, Divine Mother, Bama Khapa, spiritual awakening, God Particle, Karma, Tarapith, Khyapa Parampara"
 category: "Guru Stories"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-26
 readingTime: 18
 tags:
@@ -15,6 +15,10 @@ tags:
   - Tarapith
   - Divine Mother
   - Sadhak
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=-b4mT_yMAqM" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
@@ -258,3 +262,8 @@ source: |
 <p style="text-align:center;font-size:1.3rem;color:var(--accent-color);margin-top:2rem;"><strong>Jai Ma.</strong></p>
 
 
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>A profound conversation with Guru Shyama Khyapa Baba on whether humans created God, the power of Sadhaks, and the awakening of the Divine Mother. Explore the relationship between the practitioner, the deity, and the cosmic power.</p>
+</div>

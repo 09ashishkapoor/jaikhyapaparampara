@@ -3,7 +3,7 @@ layout: article
 title: "The Living Bhairava: Bama Khepa and the Eternal Khyapa Parampara"
 breadcrumbTitle: "Living Bhairava"
 description: "Explore the life of Bama Khepa, the 'Living Bhairava' of Tarapith. Learn about the Khyapa tradition, Procedural Collapse from Shri Praveen Radhakrishna."
-keywords: "Bama Khepa, Bamdev, Tarapith, Khyapa Parampara, Procedural Collapse, Ma Tara, Kali Sadhana, Praveen Radhakrishna, Living Bhairava, Aghori, Tantra"
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Bama Khepa, Bamdev, Tarapith, Khyapa Parampara, Procedural Collapse, Ma Tara, Kali Sadhana, Praveen Radhakrishna, Living Bhairava, Aghori, Tantra"
 category: "Our Roots"
 author: "KaliPutra-Ashish"
 date: 2025-12-25
@@ -17,6 +17,10 @@ tags:
   - Bhairava
   - Khyapa Parampara
   - Procedural Collapse
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video <a href="https://www.youtube.com/watch?v=UYuIHtyHkps&t" target="_blank" style="color:var(--accent-color);">https://www.youtube.com/watch?v=UYuIHtyHkps&t</a></p>
   <p>A clean, punctuated, and well-formatted transcript of Shri Praveen Radhakrishna's account of revealing his spiritual lineage (Guru Parampara).</p>
@@ -91,3 +95,8 @@ Prepared by Kaliputra-Ashish
 
 **Jai Ma.**
 
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Explore the life of Bama Khepa, the 'Living Bhairava' of Tarapith. Learn about the Khyapa tradition, Procedural Collapse from Shri Praveen Radhakrishna.</p>
+</div>

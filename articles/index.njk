@@ -1,6 +1,7 @@
 ---
 layout: base
 title: Sacred Wisdom & Guru Stories | Jai Khyapa Parampara Articles
+description: "Explore spiritual articles by Gupta Sadhak Shyamakhyapa on Tantra, Sadhana, and Divine Realization. Discover wisdom from the Khyapa Parampara lineage."
 pagination:
   data: collections.articles
   size: 10
@@ -126,6 +127,7 @@ permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber
     <div class="tags-container">
         <span style="color: var(--accent-color); font-weight: bold; margin-right: 10px; align-self: center;">Explore Topics:</span>
         <a href="/articles/" class="tag-filter active">All</a>
+        <a href="/tags/gupta-sadhak-shyamakhyapa/" class="tag-filter" style="border-color: var(--accent-bright); background: rgba(232, 196, 104, 0.1);">Shyama Khyapa</a>
         <a href="/tags/guru-stories/" class="tag-filter">Guru Stories</a>
         <a href="/tags/sacred-texts/" class="tag-filter">Sacred Texts</a>
         <a href="/tags/philosophy/" class="tag-filter">Philosophy</a>
@@ -144,7 +146,7 @@ permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber
 
     <div class="articles-grid" id="articlesGrid">
         {% for article in articles %}
-        <div class="article-card" data-title="{{ article.data.title | lower }}" data-description="{{ article.data.description | lower }}" data-tags="{{ article.data.tags | join(' ') | lower }}">
+        <div class="article-card" data-title="{{ article.data.title | lower }}" data-description="{{ article.data.description | lower }}" data-tags="{{ article.data.tags | join('|') | lower }}" data-category="{{ article.data.category | lower }}">
             <span class="article-card-category">{{ article.data.category }}</span>
             <h2 class="article-card-title">
                 <a href="{{ article.url }}">{{ article.data.title }}</a>
@@ -189,7 +191,149 @@ document.addEventListener('DOMContentLoaded', function() {
     const articlesGrid = document.getElementById('articlesGrid');
     const articleCards = articlesGrid.getElementsByClassName('article-card');
     const noResults = document.getElementById('noResults');
+    const tagFilters = document.querySelectorAll('.tag-filter');
 
+    // Get tag from URL parameter
+    const urlParams = new URLSearchParams(window.location.search);
+    let activeTag = urlParams.get('tag');
+    
+    // Handle URL-encoded spaces (both %20 and +)
+    if (activeTag) {
+        // URLSearchParams.get() should decode automatically, but handle edge cases
+        activeTag = activeTag.replace(/\+/g, ' ').trim();
+    }
+
+    // Filter by tag on page load if tag parameter exists
+    function filterByTag(tag) {
+        let visibleCount = 0;
+        
+        // Normalize tag: handle URL encoding and convert to lowercase
+        let normalizedTag = null;
+        if (tag) {
+            // Replace + with space, decode URI component, then normalize
+            normalizedTag = tag.replace(/\+/g, ' ');
+            try {
+                normalizedTag = decodeURIComponent(normalizedTag);
+            } catch (e) {
+                // If already decoded, use as-is
+            }
+            normalizedTag = normalizedTag.toLowerCase().trim();
+        }
+
+        console.log('=== Tag Filter Debug ===');
+        console.log('Filtering by tag:', normalizedTag);
+        console.log('Total cards on page:', articleCards.length);
+        if (normalizedTag === 'sacred texts') {
+            console.log('Looking for "Sacred Texts" articles...');
+        }
+
+        Array.from(articleCards).forEach((card, index) => {
+            const cardTags = card.getAttribute('data-tags');
+            const cardCategory = card.getAttribute('data-category');
+            const cardTitle = card.querySelector('.article-card-title a')?.textContent || 'Unknown';
+            
+            // Check if the tag matches either in tags or category
+            if (!normalizedTag) {
+                card.style.display = 'block';
+                visibleCount++;
+            } else {
+                let tagMatch = false;
+                let categoryMatch = false;
+                
+                if (cardTags) {
+                    const lowerCardTags = cardTags.toLowerCase();
+                    
+                    // Most robust approach: check if tag appears as complete phrase
+                    // This works for both pipe-delimited and space-delimited formats
+                    if (lowerCardTags.includes('|')) {
+                        // Pipe-delimited: split and check exact match
+                        const pipeTags = lowerCardTags.split('|').map(t => t.trim());
+                        tagMatch = pipeTags.includes(normalizedTag);
+                    }
+                    
+                    // For space-delimited or as fallback, check phrase match
+                    if (!tagMatch) {
+                        // Escape special regex characters in the tag
+                        const escapedTag = normalizedTag.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                        // Match tag as whole phrase: start/boundary + tag + boundary/end
+                        const boundaryRegex = new RegExp('(^|[|\\s])' + escapedTag + '([|\\s]|$)', 'i');
+                        tagMatch = boundaryRegex.test(cardTags);
+                    }
+                    
+                    // Ultimate fallback: simple substring match (less precise but catches edge cases)
+                    if (!tagMatch && lowerCardTags.includes(normalizedTag)) {
+                        tagMatch = true;
+                    }
+                }
+                
+                if (cardCategory) {
+                    categoryMatch = cardCategory.toLowerCase().includes(normalizedTag);
+                }
+                
+                if (tagMatch || categoryMatch) {
+                    card.style.display = 'block';
+                    visibleCount++;
+                    if (normalizedTag === 'sacred texts') {
+                        console.log(`✓ Card ${index + 1} matches: "${cardTitle}"`, { 
+                            tagMatch, 
+                            categoryMatch, 
+                            cardTags: cardTags.substring(0, 100),
+                            normalizedTag 
+                        });
+                    }
+                } else {
+                    card.style.display = 'none';
+                    if (normalizedTag === 'sacred texts') {
+                        console.log(`✗ Card ${index + 1} no match: "${cardTitle}"`, { 
+                            cardTags: cardTags ? cardTags.substring(0, 100) : 'null',
+                            normalizedTag 
+                        });
+                    }
+                }
+            }
+        });
+
+        console.log(`Found ${visibleCount} matching articles`);
+        
+        if (visibleCount === 0) {
+            noResults.style.display = 'block';
+            articlesGrid.style.display = 'none';
+            console.warn('No articles found! Check if articles are on this pagination page.');
+        } else {
+            noResults.style.display = 'none';
+            articlesGrid.style.display = 'grid';
+        }
+
+        // Update active tag filter button
+        tagFilters.forEach(filter => {
+            const filterHref = filter.getAttribute('href');
+            if (normalizedTag && filterHref) {
+                // Extract tag from href and compare (handle both encoded and unencoded spaces)
+                const hrefMatch = filterHref.match(/tag=([^&]*)/);
+                if (hrefMatch) {
+                    const hrefTag = decodeURIComponent(hrefMatch[1]).toLowerCase().trim();
+                    if (hrefTag === normalizedTag) {
+                        filter.classList.add('active');
+                    } else {
+                        filter.classList.remove('active');
+                    }
+                } else {
+                    filter.classList.remove('active');
+                }
+            } else if (!normalizedTag && filterHref === '/articles/') {
+                filter.classList.add('active');
+            } else {
+                filter.classList.remove('active');
+            }
+        });
+    }
+
+    // Apply tag filter on page load
+    if (activeTag) {
+        filterByTag(activeTag);
+    }
+
+    // Search functionality
     searchInput.addEventListener('input', function() {
         const searchTerm = searchInput.value.toLowerCase().trim();
         let visibleCount = 0;
@@ -198,8 +342,38 @@ document.addEventListener('DOMContentLoaded', function() {
             const title = card.getAttribute('data-title');
             const description = card.getAttribute('data-description');
             const tags = card.getAttribute('data-tags');
+            const category = card.getAttribute('data-category');
 
-            if (title.includes(searchTerm) || description.includes(searchTerm) || tags.includes(searchTerm)) {    
+            // If there's an active tag, filter by both tag/category and search term
+            let normalizedActiveTag = null;
+            if (activeTag) {
+                normalizedActiveTag = activeTag.replace(/\+/g, ' ');
+                try {
+                    normalizedActiveTag = decodeURIComponent(normalizedActiveTag);
+                } catch (e) {
+                    // If already decoded, use as-is
+                }
+                normalizedActiveTag = normalizedActiveTag.toLowerCase().trim();
+            }
+            // Handle both pipe and space delimiters
+            let tagArray = [];
+            if (tags) {
+                if (tags.includes('|')) {
+                    tagArray = tags.split('|').map(t => t.trim().toLowerCase());
+                } else {
+                    // Fallback: check if tag appears as whole phrase in space-delimited tags
+                    const lowerTags = tags.toLowerCase();
+                    if (lowerTags.includes(normalizedActiveTag)) {
+                        tagArray = [normalizedActiveTag];
+                    } else {
+                        tagArray = tags.split(/\s+/).map(t => t.trim().toLowerCase());
+                    }
+                }
+            }
+            const matchesTag = !normalizedActiveTag || tagArray.includes(normalizedActiveTag) || (tags && tags.toLowerCase().includes(normalizedActiveTag)) || (category && category.toLowerCase().includes(normalizedActiveTag));
+            const matchesSearch = !searchTerm || title.includes(searchTerm) || description.includes(searchTerm) || tags.includes(searchTerm) || category.includes(searchTerm);
+
+            if (matchesTag && matchesSearch) {    
                 card.style.display = 'block';
                 visibleCount++;
             } else {

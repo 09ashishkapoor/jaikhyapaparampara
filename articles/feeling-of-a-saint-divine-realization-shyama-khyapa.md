@@ -3,9 +3,9 @@ layout: article
 title: "The Feeling of a Saint: A Conversation on Divine Realization"
 breadcrumbTitle: "Feeling of a Saint"
 description: "Guru Baba Shyama Khyapa discusses the mystery of divine work, the transition from physical forms to spiritual essence, and the invisible hand of the Mother in a seeker's life."
-keywords: "Guru Baba Shyama Khyapa, Saint realization, Divine Mother, Bama Khapa, spiritual awakening, Ram Prasad, Sadhak, mystery of God, Pashupatinath, Third Eye"
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, Saint realization, Divine Mother, Bama Khapa, spiritual awakening, Ram Prasad, Sadhak, mystery of God, Pashupatinath, Third Eye"
 category: "Guru Stories"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27 11:20:00
 readingTime: 15
 tags:
@@ -18,6 +18,10 @@ tags:
   - Ramakrishna
   - Diksha
   - Guru Stories
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=aMCBXqwiSGs" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
@@ -137,3 +141,8 @@ Sages sometimes "leave" the Mother, then hold her feet again. This is the game b
 
 
 **Guru:** Blessings, my son.
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Guru Baba Shyama Khyapa discusses the mystery of divine work, the transition from physical forms to spiritual essence, and the invisible hand of the Mother in a seeker's life.</p>
+</div>

@@ -3,9 +3,9 @@ layout: article
 title: "The 1000-Day Mahamrityunjay Yagya for World Peace"
 breadcrumbTitle: "Mahamrityunjay Yagya"
 description: "Guru Shyama Khyapa explains the significance of the 1000-day Mahamrityunjay Yagya performed for global welfare, the sacrifices involved, and the spiritual essence of the inner sky."
-keywords: "Mahamrityunjay Yagya, Guru Shyama Khyapa, world peace, Vedic rituals, Kali Yuga, spiritual sacrifice, Sage Dadhichi, Mrityunjay Mantra"
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Mahamrityunjay Yagya, Guru Shyama Khyapa, world peace, Vedic rituals, Kali Yuga, spiritual sacrifice, Sage Dadhichi, Mrityunjay Mantra"
 category: "Rituals & Yagyas"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-28
 readingTime: 12
 tags:
@@ -15,6 +15,10 @@ tags:
   - World Peace
   - Vedic Traditions
   - Spiritual Sacrifice
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=03XREZx9nQ4" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
@@ -69,4 +73,9 @@ The Vedas contain ten Riks (verses) regarding this, though only nine are current
 *"Sa nabhoni rajang... daksatbang bikashitang... shitang tatpadma kosha madhye... tu mandala chanda rochiso... jaba kusuma sankasham... rakta bandhuka sannibham... rajasattwa tamo rekha... joni mandala manditam... madhye tutang mahadebi... surya koti samaprabham."*</span>
 </div>
 
+</div>
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Guru Shyama Khyapa explains the significance of the 1000-day Mahamrityunjay Yagya performed for global welfare, the sacrifices involved, and the spiritual essence of the inner sky.</p>
 </div>

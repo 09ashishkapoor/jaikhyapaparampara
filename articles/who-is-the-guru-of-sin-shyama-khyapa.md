@@ -3,9 +3,9 @@ layout: article
 title: "Who is the Guru of Sin?"
 breadcrumbTitle: "The Guru of Sin"
 description: "Guru Baba Shyama Khyapa answers a profound question about the origin of sin through a story of a scholar and a courtesan, revealing the true 'Guru of Sin'."
-keywords: "Guru Baba Shyama Khyapa, Sin, Guru of Sin, Greed, Kali Yuga, Jagannath Temple, Badrinath, Spiritual Story"
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, Sin, Guru of Sin, Greed, Kali Yuga, Jagannath Temple, Badrinath, Spiritual Story"
 category: "Guru Stories"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27
 readingTime: 12
 tags:
@@ -14,6 +14,10 @@ tags:
   - Sin
   - Greed
   - Kali Yuga
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=AEQU7xLDMqU" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
@@ -159,4 +163,9 @@ Eventually, the sea will be called forth to submerge the Jagannath temple. Badri
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
 <span class="speech-text">Greed is hard to distance. If greed isn't removed, the conflict remains. Greed will surround people. And now, the consequences will come faster. In the past, it took time, but now death will follow sin almost immediately. This is the hallmark of *Kali(yuga)*.</span>
+</div>
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Guru Baba Shyama Khyapa answers a profound question about the origin of sin through a story of a scholar and a courtesan, revealing the true 'Guru of Sin'.</p>
 </div>

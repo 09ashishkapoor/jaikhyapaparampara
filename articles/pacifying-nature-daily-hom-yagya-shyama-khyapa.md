@@ -3,9 +3,9 @@ layout: article
 title: "Pacifying Nature: The Significance of Daily Hom-Yagya"
 breadcrumbTitle: "Daily Hom-Yagya"
 description: "Guru Shyama Khyapa explains why daily Vedic fire rituals (Hom-Yagya) are essential for balancing nature's agitation and ensuring world peace in these turbulent times."
-keywords: "Guru Shyama Khyapa, Hom-Yagya, Vedic rituals, Gayatri Mantra, Mahamrityunjaya Mantra, world peace, nature balance, Shravan month, spiritual welfare"
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Hom-Yagya, Vedic rituals, Gayatri Mantra, Mahamrityunjaya Mantra, world peace, nature balance, Shravan month, spiritual welfare"
 category: "Rituals & Yagyas"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-28
 readingTime: 8
 tags:
@@ -15,6 +15,10 @@ tags:
   - Vedic Principles
   - World Peace
   - Shravan
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=D6vSlqMD_0g" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
@@ -79,4 +83,9 @@ Recently, a man came with his child. He wanted to offer money for a ritual becau
 <span class="speech-text" style="display:block;margin-top:0.5rem;">Blessings to all. May there be peace.</span>
 </div>
 
+</div>
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Guru Shyama Khyapa explains why daily Vedic fire rituals (Hom-Yagya) are essential for balancing nature's agitation and ensuring world peace in these turbulent times.</p>
 </div>

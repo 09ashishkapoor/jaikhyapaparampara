@@ -11,6 +11,7 @@ readingTime: 12
 tags:
   - articles
   - Temple of Knowledge
+  - Sacred Texts
   - Kali
   - Tandava
   - Shakti
@@ -236,3 +237,8 @@ If you got this far. Kudos you are meant to read this. Jnana finds its way to th
 
 **Jai Ma Adya Mahakali. Jai Kalabhairava. Jai Ma Krishna**
 
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Dive into this simple Ma Kali stotram to understand her nature, imagery so you can go closer into the black mass that is MA Kali. A complete guide with English lyrics, verse-by-verse translations, and a deep look.</p>
+</div>

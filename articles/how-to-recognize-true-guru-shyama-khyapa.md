@@ -3,9 +3,9 @@ layout: article
 title: "How to Recognize a True Guru in the Age of Confusion"
 breadcrumbTitle: "Recognizing a True Guru"
 description: "How to distinguish between a real guru and a fake one? Guru Baba Shyama Khyapa explains the eight markers of a Sath-Guru and the true meaning of 'Om Tat Sat'."
-keywords: "Guru Baba Shyama Khyapa, Sath-Guru, True Guru, Om Tat Sat, Guru Purnima, Diksha, Initiation, Rakshas-kal, Spiritual Testing, Bagalamukhi, Vashikaran"
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, Sath-Guru, True Guru, Om Tat Sat, Guru Purnima, Diksha, Initiation, Rakshas-kal, Spiritual Testing, Bagalamukhi, Vashikaran"
 category: "Guru Stories"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-26
 readingTime: 14
 tags:
@@ -15,6 +15,10 @@ tags:
   - Sath-Guru
   - Om Tat Sat
   - Spiritual Testing
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=aR9PScKzkyQ" rel="noopener" style="color: var(--accent-bright); text-decoration: none; font-style: normal; font-size: 0.95rem; margin-top: 0.5rem; display: inline-block;" target="_blank">📺 Watch Original Bengali Video on YouTube</a></p>
@@ -234,3 +238,8 @@ No Gurudev, let’s end it here for today. Pranam, Gurudev.</span>
 </div>
 
 
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>How to distinguish between a real guru and a fake one? Guru Baba Shyama Khyapa explains the eight markers of a Sath-Guru and the true meaning of 'Om Tat Sat'.</p>
+</div>

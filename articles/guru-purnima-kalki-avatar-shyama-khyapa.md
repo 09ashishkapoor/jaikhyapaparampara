@@ -3,9 +3,9 @@ layout: article
 title: "Guru Purnima and the Coming of Kalki"
 breadcrumbTitle: "Guru Purnima & Kalki"
 description: "Guru Shyama Khyapa Baba discusses the profound significance of Guru Purnima, the sacred bond between Guru and disciple, and the terrifying prophecies of the coming Kalki Avatar as Kali Yuga ends early due to the intensity of human sin."
-keywords: "Guru Baba Shyama Khyapa, Guru Purnima, Kalki Avatar, Kali Yuga, Guru-Disciple, Bama Khepa, Spiritual Teachings, Mahabharata, Prophecy, 2029, 2030"
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, Guru Purnima, Kalki Avatar, Kali Yuga, Guru-Disciple, Bama Khepa, Spiritual Teachings, Mahabharata, Prophecy, 2029, 2030"
 category: "Guru Stories"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-26
 readingTime: 16
 tags:
@@ -15,6 +15,8 @@ tags:
   - Kalki Avatar
   - Kali Yuga
   - Guru-Disciple
+  - Gupta Sadhak Shyamakhyapa
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=dB-_kNaMg9I" rel="noopener" style="color: var(--accent-bright); text-decoration: none; font-style: normal; font-size: 0.95rem; margin-top: 0.5rem; display: inline-block;" target="_blank">📺 Watch Original Bengali Video on YouTube</a></p>
@@ -192,3 +194,8 @@ source: |
 </div>
 
 
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Guru Shyama Khyapa Baba discusses the profound significance of Guru Purnima, the sacred bond between Guru and disciple, and the terrifying prophecies of the coming Kalki Avatar as Kali Yuga ends early due to the intensity of human sin.</p>
+</div>

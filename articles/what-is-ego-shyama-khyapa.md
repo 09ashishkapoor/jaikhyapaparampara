@@ -3,9 +3,9 @@ layout: article
 title: "What is Ego? The Intelligence of the Mind"
 breadcrumbTitle: "Understanding Ego"
 description: "Guru Baba Shyama Khyapa explains the spiritual nature of ego, its relationship with mind and intelligence, and shares a powerful story about a sage, a crow, and a butcher."
-keywords: "Guru Baba Shyama Khyapa, Ego, Mind, Intelligence, Spiritual Practice, Kakcharit, Crow Lore, Tantra, Pride"
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, Ego, Mind, Intelligence, Spiritual Practice, Kakcharit, Crow Lore, Tantra, Pride"
 category: "Guru Stories"
-author: "🗣️ Guru Baba Shyama Khyapa"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27
 readingTime: 15
 tags:
@@ -14,6 +14,10 @@ tags:
   - Ego
   - Philosophy
   - Tantra
+
+  - Gupta Sadhak Shyamakhyapa
+
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=AjJTPwOJzUM" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
@@ -150,3 +154,8 @@ To contact Gurudev, please send a WhatsApp message between 10:00 AM and 6:00 PM 
 **The WhatsApp number is: 80805-39595.**
 
 Offering our salutations to Gurudev and wishing you all his blessings and well-being, we conclude today’s program. Stay well. Namaskar.
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Guru Baba Shyama Khyapa explains the spiritual nature of ego, its relationship with mind and intelligence, and shares a powerful story about a sage, a crow, and a butcher.</p>
+</div>

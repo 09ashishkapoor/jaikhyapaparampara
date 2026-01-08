@@ -439,3 +439,8 @@ Jai Khyapa Parampara. May Lord Murugan protect all seekers on the path of Dharma
 
 **Jai Canda Bhairava. Jai Khyapa Parampara.**
 
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Kanda Sasti Kavacam: Complete guide with English lyrics, meaning, and benefits. Learn how this armor of Lord Murugan provides protection and strength.</p>
+</div>
