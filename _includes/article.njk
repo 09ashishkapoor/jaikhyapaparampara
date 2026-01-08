@@ -244,7 +244,7 @@ body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);bac
             <h1 class="article-title">{{ title }}</h1>
             <div class="article-meta">
                 <span>📅 {{ page.date | dateDisplay }}</span>
-                <span>{% if category not in ['Guru Stories', 'Sadhana', 'Philosophy'] %}✍️ {% endif %}By {{ author or 'KaliPutra-Ashish' }}</span>
+                <span>{% if category not in ['Guru Stories', 'Sadhana', 'Philosophy', 'Guru Messages', 'Rituals & Yagyas', 'Our Roots', 'Temple of Knowledge'] %}✍️ {% endif %}{% if author and '🗣️' in author %}{% else %}By {% endif %}{{ author or 'KaliPutra-Ashish' }}</span>
                 {% if readingTime %}<span>⏱ {{ readingTime }} min read</span>{% endif %}
             </div>
             {% if source %}
