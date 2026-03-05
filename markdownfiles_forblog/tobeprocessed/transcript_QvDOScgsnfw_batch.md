@@ -1,0 +1,115 @@
+Why did the beggar Lord say this? | Guptasadhak Shyamakhyapa
+YouTube Link: https://www.youtube.com/watch?v=QvDOScgsnfw
+
+This is a clean, punctuated, and well-formatted transcript of the audio, translated into English from Bengali. The conversation is between an interviewer and a spiritual figure referred to as "Gurudev."
+
+***
+
+**[00:00 - 00:08]**
+*(Background chanting of spiritual mantras)*
+
+**[00:09 - 00:27]**
+**Interviewer:** Greetings, Gurudev. 
+**Gurudev:** Greetings to you. 
+**Interviewer:** Greetings to all our viewers as well. Today, we are starting a new episode. Today’s discussion is a bit personal. I have something to ask Gurudev and something to share with him as well. 
+
+**[00:28 - 01:04]**
+**Interviewer:** Gurudev, the crowd surrounding you is increasing day by day. We see it growing every single day. Even though you aren't very healthy, you still make time to see everyone. However, there is a sense of restlessness among the people. They think, "Now that I've come to Gurudev, he will fix everything immediately," and they are ready to pay whatever it takes. I’ve heard many people saying this. I wanted to ask you about this, as people often try to offer money to Mother [the deity] all of a sudden.
+
+**[01:05 - 01:34]**
+**Gurudev:** Yesterday, an educated, beautiful girl came here. She suddenly tried to offer money to Mother. Everyone here stopped her. It is clearly written everywhere that not a single rupee should be given in this temple. This is a unique specialty of this temple here in the 24 Parganas. 
+
+**[01:35 - 02:18]**
+**Gurudev:** Not a single rupee is taken here. If someone tries to cheat and we find out, they are dealt with. Mother handles it; we throw them out. Some people come here, stay for a while, mingle with the crowd, and people start trusting them. These scammers then take phone numbers and call people, saying, "Give 4,000 rupees, and I will get your work done through Gurudev." I have seen this myself. Many such incidents have happened. Someone even told me, "Gurudev has received 4,000 rupees." I asked, "What 4,000 rupees?" They said someone claimed Gurudev would fix their problems if they paid. I told them, "Child, I don't take money, nor do I do such work." 
+
+**[02:19 - 03:00]**
+**Gurudev:** I asked that girl, "Why are you giving money?" She said, "It is the custom to give money in temples, but I don't see a donation box here." I told her that as long as I am alive, I will not let anyone give a single penny. I asked her just one question: "Is Mother feeding you, or are you feeding Mother?" 
+
+**[03:01 - 03:30]**
+**Gurudev:** She replied, "Mother is feeding me." Then I said, "Then who are you to give money? Is Mother a beggar that you are throwing five or ten rupees at her? Is she a beggar’s child who can't eat without your money?" I told her clearly, "You are treating Mother like a beggar. You should come to Mother as a beggar yourself. Come without money and say, 'I have come as a beggar, Mother; give me alms.'"
+
+**[03:31 - 04:09]**
+**Gurudev:** This is pride. Money is a symbol of ego, and that is what people display. They come and offer money first. It is written everywhere not to do so, but they don’t read it, nor do they listen. When I tell them this, they start crying. They hold my feet and cry, saying they have never heard such words before. I tell them it is the truth, and no one else will tell them this. 
+
+**[04:10 - 04:48]**
+**Gurudev:** You are educated; tell me, is what I said right or wrong? You should come to Mother as a beggar, discarding your ego. What is there to be proud of before God? Are you competing with God? You give money, and God eats? You are throwing money as if Mother is a beggar’s child who can only eat if people give. Those who throw money like this are the real beggars. They beg for their own lives and then try to give a few coins to Mother. 
+
+**[04:49 - 05:33]**
+**Gurudev:** I really dislike this. I have always said: come to Mother as a beggar and ask for alms. Say, "Mother, I have nothing." Leave your ego behind because money is ego. God stays away from those with ego. There is pride in beauty and pride in many other things. I say, go to any temple as a beggar. Ask Mother for alms. Then pray for whatever you want, and Mother will fulfill it. But if you show off your money, your prayer is lost.
+
+**[05:34 - 06:15]**
+**Interviewer:** This temple is famous for not taking any money. 
+**Gurudev:** This is an example not just in West Bengal, but in all of India. No money is taken here, yet the work gets done. We help 50 to 100 people every day without taking a cent. Why wouldn't we? 
+**Interviewer:** Exactly. Gurudev, you are famous because you serve people this way, and everyone knows how simply you live.
+
+**[06:16 - 06:59]**
+**Gurudev:** Mother has appointed me for service. 
+**Interviewer:** But some isolated incidents have happened before... 
+**Gurudev:** Those people are greedy. Pure greed. That is why Mother kicks them out. Greed is a great ego; it is one of the six internal enemies (*Shada-ripu*). Lust, anger, greed, attachment, pride, and envy. This greed has ruined people. They come here, try to gain influence, and then make promises like, "I'll talk to Gurudev; just give me 4,000 or 5,000 rupees." Some even call me and ask if I received the money!
+
+**[07:00 - 07:31]**
+**Gurudev:** I was shocked. A man named Jaydeb sent 4,000 rupees. The people around here even said, "We can eat because we give money to Gurudev. Otherwise, Gurudev wouldn't be able to eat." I am telling you this before God! I eat from Mother’s hand. Why do I need your money? Mother has taken responsibility for me. If you work in an office, you get a pension. I have served Mother for 30 or 40 years. Won't she give me a pension? She gives me enough. I don't need other people’s money. 
+
+**[07:32 - 08:31]**
+**Gurudev:** This is greed. People want more even when they have enough. "Give, give, give." Beggars! I tell people not to show money to Mother. Don't show your ego. Not a single rupee you give will stay with you. It hurts me that people are so "educated" in West Bengal, yet I’d call them uneducated now. Education has no value if they can't understand this. If I try to explain, they get angry. "Why can't we give money? It's given in all other temples!" Then some ask, "What is your fee?" As if I am a lawyer or a doctor! I tell them, "Talk according to your pocket. If you have no money, come, and the work will be done in Mother’s name. Don't show me the 'heat' of your money."
+
+**[08:32 - 09:15]**
+**Interviewer:** Another thing, Gurudev. Most people coming to you lately have marital problems—divorce, husbands leaving, wives leaving. There is no peace in families. 
+**Gurudev:** It is the year 2024. It will only take a more serious form. Every family is breaking apart because of greed and those six enemies. 
+
+**[09:16 - 10:18]**
+**Gurudev:** Today alone, four or five people came saying their spouse left. I scolded one woman. Did your husband just leave for no reason? Did you do nothing? People only tell one side of the story. I told her, "Your husband left because of your own faults." Men don't just leave suddenly. You must have said or done something that drove him away. 
+
+**[10:19 - 10:48]**
+**Gurudev:** It is getting disgusting to watch. I’m wondering if I should even sit here anymore. Work won’t happen because 2024 is a time of great destruction (*Mahapralay*). God has said not to do any work during this time. I was actually kept bedridden for four months. 
+**Interviewer:** Yes, we saw that. You were at the nursing home and then home for four months. 
+**Gurudev:** Yes, I wasn’t allowed to get up. 
+
+**[10:49 - 11:23]**
+**Gurudev:** This is a time of destruction. Many countries and many people will be wiped out. They won't even have the strength to stand. Diseases are also increasing. Every day there is a new case of cancer or brain tumors. 
+**Interviewer:** One person had a brain tumor, a breast tumor, and an ovarian tumor all at once. 
+
+**[11:24 - 12:01]**
+**Gurudev:** Yes, what can a doctor do? One girl returned from Vellore, and the doctor said nothing more could be done. Another man has had cancer for 12 years, and now he has pain everywhere. Doctors in Vellore and Chennai can't find a remedy. 
+
+**[12:02 - 12:41]**
+**Interviewer:** They come to you because they find a cure here. 
+**Gurudev:** God does that. I keep telling people: come to Mother as a beggar. Ask for your life. 
+**Interviewer:** I agree God does it, but you are the medium. Just as we need a priest to worship God, people see you as a divine figure. Whatever you pick up—a brick, wood, or soil—and give to them, their illness is cured. 
+**Gurudev:** That is my great fault. That is my fate. 
+
+**[12:42 - 13:28]**
+**Gurudev:** I think to myself, people call me God. They say, "Just say yes, and we will be fine." Now, I can’t say "yes" so easily. Earlier, I used to say, "Go, I’ll handle it." I used to sit at the cremation ground, and many people came. My following increased because of that. It is a fact. People say I am *Baak-Siddha* [one whose words come true]. People's diseases were cured. Even now, it happens. 
+
+**[13:29 - 14:10]**
+**Interviewer:** That is why there is a sign outside the ashram: "Trikaldarshi Baak-Siddha Sadhak." 
+**Gurudev:** That is an exaggeration. 
+**Interviewer:** No, it isn’t. Those who know you truly, even if they are few, they know the truth. 
+**Gurudev:** It’s better if fewer people know. The more people know, the shorter my life becomes. 
+**Interviewer:** That is why people say, "Take my life, Gurudev, but you must live." 
+
+**[14:11 - 14:51]**
+**Gurudev:** Can someone really live on another's life? But among those who perform spiritual practices (*Shat-karma*), some can do this. I have seen it with my own eyes—taking someone’s soul to increase one’s own life. We don’t do that, nor do we need to. We live simply. We want people not to fully understand us. If they do, it becomes a problem. 
+
+**[14:52 - 15:35]**
+**Gurudev:** Someone once said Tara Mother has two sons, Bama Khepa and Shyama Khepa. I told them not to compare me to Bama-dev. He insisted, "Bama-dev died and became you. I saw it in a dream." People say many things—that I am God, Shiva, or Jagannath. I just listen and smile to myself. 
+**Interviewer:** But Gurudev, there must be some truth. Why would someone suddenly see you in a dream?
+
+**[15:36 - 16:29]**
+**Gurudev:** It happens. A doctor who lives in America/Canada once asked me to go to his house. He wanted to take me on a plane. I said okay. Later, he invited me for the inauguration of his new house. I "went" there at night, ate rice and poppy seed curry (*posto*). I told him the *posto* was good. Two days later, he came here with a huge amount of *posto*! He said, "I didn't know you liked *posto*. You came to my house in America and ate it twice, so I brought some for you."
+
+**[16:30 - 17:15]**
+**Gurudev:** Such things are happening. I am "going" to people's houses, and they claim they saw me arrive on a bicycle. 
+**Interviewer:** We discussed this "Guru’s responsibility" (*Guru-dayitwa*) in a previous episode. Because you take on the burdens of your disciples, you have stopped giving initiation (*Diksha*) for now. 
+**Gurudev:** Yes, I can’t do it anymore. If I give *Diksha*, I have to carry their burden and their dangers. I am old now; I am weak and have breathing issues. I tell people to take *Diksha* elsewhere, but they insist on waiting for me. 
+
+**[17:16 - 18:13]**
+**Interviewer:** You heard Gurudev's words. He is a bit upset for certain reasons. 
+**Gurudev:** I even tell Mother—"You gave me life, but you didn't give me the work [the strength to do it]. Where did you go? I can't find you."
+
+**[18:14 - 18:50]**
+**Interviewer:** Let’s end it here for today. I will repeat that Gurudev isn't very well. He doesn't want more than 10 people inside at once. He still sees everyone, but please understand he is unwell. Gurudev does not see visitors on Saturdays, Sundays, Full Moon (*Purnima*), New Moon (*Amavasya*), or *Ekadashi*. 
+
+**[18:51 - 20:10]**
+**Interviewer:** He sees people from 4:30 PM to 5:30 PM. Come early to avoid the crowd. If you are coming from Howrah, take a bus to Garia, then an auto to Rajpur cremation ground. From Sealdah, you can come via Sonarpur or take the Metro to Garia. Please do not bother Gurudev with phone calls asking for directions. Stay well, everyone. Greetings, Gurudev. 
+**Gurudev:** Greetings.
