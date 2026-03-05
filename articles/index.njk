@@ -146,7 +146,7 @@ permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber
 
     <div class="articles-grid" id="articlesGrid">
         {% for article in articles %}
-        <div class="article-card" data-title="{{ article.data.title | lower }}" data-description="{{ article.data.description | lower }}" data-tags="{{ article.data.tags | join('|') | lower }}" data-category="{{ article.data.category | lower }}">
+        <div class="article-card" data-title="{{ article.data.title | lower }}" data-description="{{ article.data.description | lower }}" data-tags="{{ article.data.tags | default([]) | join('|') | lower }}" data-category="{{ article.data.category | lower }}">
             <span class="article-card-category">{{ article.data.category }}</span>
             <h2 class="article-card-title">
                 <a href="{{ article.url }}">{{ article.data.title }}</a>
