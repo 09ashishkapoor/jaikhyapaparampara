@@ -3,7 +3,7 @@ layout: base
 title: Sacred Wisdom & Guru Stories | Jai Khyapa Parampara Articles
 description: "Explore spiritual articles by Gupta Sadhak Shyamakhyapa on Tantra, Sadhana, and Divine Realization. Discover wisdom from the Khyapa Parampara lineage."
 pagination:
-  data: collections.articles
+  data: collections.articles | sort(attribute='date') | reverse
   size: 10
   alias: articles
 permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"        
