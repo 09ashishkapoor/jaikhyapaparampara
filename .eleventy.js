@@ -66,17 +66,17 @@ module.exports = function(eleventyConfig) {
   // Get all tags from articles
   eleventyConfig.addCollection("allTags", function(collectionApi) {
     const articles = collectionApi.getFilteredByGlob("articles/*.md");
-    const tagSet = new Set();
+    const tagMap = new Map();
     
     articles.forEach(item => {
       (item.data.tags || []).forEach(tag => {
-        if (tag !== "articles") {
-          tagSet.add(tag);
+        if (tag !== "articles" && typeof tag === 'string') {
+          tagMap.set(tag.toLowerCase(), tag);
         }
       });
     });
 
-    return Array.from(tagSet).sort();
+    return Array.from(tagMap.values()).sort();
   });
 
   // Create collections for each tag dynamically
