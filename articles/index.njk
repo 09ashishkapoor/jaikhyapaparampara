@@ -3,8 +3,8 @@ layout: base
 title: Sacred Wisdom & Guru Stories | Jai Khyapa Parampara Articles
 description: "Explore spiritual articles by Gupta Sadhak Shyamakhyapa on Tantra, Sadhana, and Divine Realization. Discover wisdom from the Khyapa Parampara lineage."
 pagination:
-  data: collections.articles | sort(attribute='date') | reverse
-  size: 10
+  data: collections.articles
+  size: 25
   alias: articles
 permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"        
 ---
@@ -73,12 +73,67 @@ permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber
     font-size: 1.2rem;
 }
 
-.articles-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(350px,1fr));gap:2rem;padding:3rem 0;}   
-.article-card{background:linear-gradient(135deg,rgba(45,15,24,0.4) 0%,rgba(31,11,17,0.4) 100%);border:1px solid var(--border-gold);border-radius:8px;padding:2rem;transition:all 0.3s ease;}                                        .article-card:hover{transform:translateY(-5px);border-color:var(--accent-color);box-shadow:0 10px 30px var(--shadow-colored);}                                                                                                      .article-card-category{display:inline-block;background:transparent;border:1px solid var(--accent-color);color:var(--accent-color);padding:0.3rem 1rem;border-radius:15px;font-size:0.85rem;margin-bottom:1rem;}                     .article-card-title{font-family:'Philosopher',sans-serif;font-size:1.5rem;color:var(--accent-bright);margin-bottom:0.8rem;line-height:1.3;}                                                                                         .article-card-title a{color:var(--accent-bright);text-decoration:none;}
-.article-card-title a:hover{color:var(--accent-color);}
-.article-card-excerpt{color:var(--text-dark);margin-bottom:1rem;line-height:1.6;}
-.article-card-meta{color:var(--accent-color);font-size:0.9rem;opacity:0.8;}
-.article-card-footer{display:flex;justify-content:space-between;align-items:center;margin-top:1.5rem;padding-top:1rem;border-top:1px solid var(--border-gold);}                                                                     .read-more{background:var(--gold-gradient);color:var(--light-bg);padding:0.6rem 1.5rem;border-radius:5px;text-decoration:none;font-weight:700;font-size:0.9rem;transition:all 0.3s ease;}                                           .read-more:hover{transform:scale(1.05);box-shadow:0 4px 15px rgba(232,196,104,0.4);}
+.articles-list {
+    list-style: none;
+    padding: 1rem 0 2rem;
+    margin: 0;
+    border-top: 1px solid var(--border-gold);
+}
+.article-row { border-bottom: 1px solid rgba(232,196,104,0.2); }
+.article-row-link {
+    display: block;
+    padding: 0.85rem 0.75rem 0.85rem 1rem;
+    text-decoration: none;
+    color: inherit;
+    border-left: 3px solid transparent;
+    transition: background 0.2s ease, border-left-color 0.2s ease;
+}
+.article-row-link:hover {
+    background: rgba(232,196,104,0.06);
+    border-left-color: var(--accent-color);
+}
+.article-row-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 0.3rem;
+}
+.article-row-category {
+    display: inline-block;
+    border: 1px solid var(--accent-color);
+    color: var(--accent-color);
+    padding: 0.1rem 0.65rem;
+    border-radius: 12px;
+    font-size: 0.78rem;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+.article-row-meta {
+    color: var(--text-dark);
+    font-size: 0.82rem;
+    opacity: 0.7;
+    white-space: nowrap;
+}
+.article-row-title {
+    font-family: 'Philosopher', sans-serif;
+    font-size: 1.1rem;
+    color: var(--accent-bright);
+    margin-bottom: 0.2rem;
+    line-height: 1.35;
+    font-weight: 700;
+}
+.article-row-excerpt {
+    color: var(--text-dark);
+    font-size: 0.92rem;
+    line-height: 1.5;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    opacity: 0.8;
+    margin: 0;
+}
 
 /* Pagination Styles */
 .pagination {
@@ -112,8 +167,10 @@ permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber
 }
 
 @media(max-width:768px){
-.articles-grid{grid-template-columns:1fr;gap:1.5rem;padding:2rem 0;}
-.article-card{padding:1.5rem;}
+.articles-list{padding:0.5rem 0 1.5rem;}
+.article-row-title{font-size:1rem;}
+.article-row-header{flex-wrap:wrap;gap:0.25rem;}
+.article-row-meta{font-size:0.78rem;}
 .blog-title{font-size:2rem;}
 }
 </style>
@@ -137,31 +194,27 @@ permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber
     </div>
 
     <div class="search-container">
-        <input type="text" id="blogSearch" class="search-input" placeholder="Search articles on this page...">    
+        <input type="text" id="blogSearch" class="search-input" placeholder="Search all articles…">    
     </div>
 
     <div id="noResults" class="no-results">
-        <p>No articles found matching your search on this page. Try another page or a different term.</p>
+        <p>No articles found. Try different keywords.</p>
     </div>
 
-    <div class="articles-grid" id="articlesGrid">
+    <ol class="articles-list" id="articlesGrid">
         {% for article in articles %}
-        <div class="article-card" data-title="{{ article.data.title | lower }}" data-description="{{ article.data.description | lower }}" data-tags="{{ article.data.tags | default([]) | join('|') | lower }}" data-category="{{ article.data.category | lower }}">
-            <span class="article-card-category">{{ article.data.category }}</span>
-            <h2 class="article-card-title">
-                <a href="{{ article.url }}">{{ article.data.title }}</a>
-            </h2>
-            <p class="article-card-excerpt">{{ article.data.description }}</p>
-            <div class="article-card-meta">
-                📅 {{ article.date | dateDisplay }}
-                {% if article.data.readingTime %}• ⏱ {{ article.data.readingTime }} min read{% endif %}
-            </div>
-            <div class="article-card-footer">
-                <a href="{{ article.url }}" class="read-more">Read Article →</a>
-            </div>
-        </div>
+        <li class="article-row" data-title="{{ article.data.title | lower }}" data-description="{{ article.data.description | lower }}" data-tags="{{ article.data.tags | default([]) | join('|') | lower }}" data-category="{{ article.data.category | lower }}">
+            <a href="{{ article.url }}" class="article-row-link">
+                <div class="article-row-header">
+                    <span class="article-row-category">{{ article.data.category }}</span>
+                    <span class="article-row-meta">📅 {{ article.date | dateDisplay }}{% if article.data.readingTime %} · ⏱ {{ article.data.readingTime }} min{% endif %}</span>
+                </div>
+                <h2 class="article-row-title">{{ article.data.title }}</h2>
+                <p class="article-row-excerpt">{{ article.data.description }}</p>
+            </a>
+        </li>
         {% endfor %}
-    </div>
+    </ol>
 
     <!-- Pagination Controls -->
     {% if pagination.pages.length > 1 %}
@@ -187,207 +240,90 @@ permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    const searchInput = document.getElementById('blogSearch');
-    const articlesGrid = document.getElementById('articlesGrid');
-    const articleCards = articlesGrid.getElementsByClassName('article-card');
-    const noResults = document.getElementById('noResults');
-    const tagFilters = document.querySelectorAll('.tag-filter');
+    var searchInput = document.getElementById('blogSearch');
+    var articlesList = document.getElementById('articlesGrid');
+    var noResults = document.getElementById('noResults');
+    var paginationEl = document.querySelector('.pagination');
+    var TOTAL = {{ collections.articles | length }};
+    searchInput.placeholder = 'Search all ' + TOTAL + ' articles\u2026';
 
-    // Get tag from URL parameter
-    const urlParams = new URLSearchParams(window.location.search);
-    let activeTag = urlParams.get('tag');
-    
-    // Handle URL-encoded spaces (both %20 and +)
-    if (activeTag) {
-        // URLSearchParams.get() should decode automatically, but handle edge cases
-        activeTag = activeTag.replace(/\+/g, ' ').trim();
+    var originalHTML = articlesList.innerHTML;
+    var indexData = null;
+    var fetchPromise = null;
+
+    function getIndex() {
+        if (indexData) return Promise.resolve(indexData);
+        if (!fetchPromise) {
+            fetchPromise = fetch('/search-index.json')
+                .then(function(r) { return r.json(); })
+                .then(function(d) { indexData = d; return d; });
+        }
+        return fetchPromise;
     }
 
-    // Filter by tag on page load if tag parameter exists
-    function filterByTag(tag) {
-        let visibleCount = 0;
-        
-        // Normalize tag: handle URL encoding and convert to lowercase
-        let normalizedTag = null;
-        if (tag) {
-            // Replace + with space, decode URI component, then normalize
-            normalizedTag = tag.replace(/\+/g, ' ');
-            try {
-                normalizedTag = decodeURIComponent(normalizedTag);
-            } catch (e) {
-                // If already decoded, use as-is
-            }
-            normalizedTag = normalizedTag.toLowerCase().trim();
-        }
+    function fmtDate(iso) {
+        try {
+            return new Date(iso).toLocaleDateString('en-US', {
+                year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC'
+            });
+        } catch(e) { return iso || ''; }
+    }
 
-        console.log('=== Tag Filter Debug ===');
-        console.log('Filtering by tag:', normalizedTag);
-        console.log('Total cards on page:', articleCards.length);
-        if (normalizedTag === 'sacred texts') {
-            console.log('Looking for "Sacred Texts" articles...');
-        }
+    function escAttr(s) {
+        return String(s || '')
+            .replace(/&/g, '&amp;')
+            .replace(/"/g, '&quot;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;');
+    }
 
-        Array.from(articleCards).forEach((card, index) => {
-            const cardTags = card.getAttribute('data-tags');
-            const cardCategory = card.getAttribute('data-category');
-            const cardTitle = card.querySelector('.article-card-title a')?.textContent || 'Unknown';
-            
-            // Check if the tag matches either in tags or category
-            if (!normalizedTag) {
-                card.style.display = 'block';
-                visibleCount++;
-            } else {
-                let tagMatch = false;
-                let categoryMatch = false;
-                
-                if (cardTags) {
-                    const lowerCardTags = cardTags.toLowerCase();
-                    
-                    // Most robust approach: check if tag appears as complete phrase
-                    // This works for both pipe-delimited and space-delimited formats
-                    if (lowerCardTags.includes('|')) {
-                        // Pipe-delimited: split and check exact match
-                        const pipeTags = lowerCardTags.split('|').map(t => t.trim());
-                        tagMatch = pipeTags.includes(normalizedTag);
-                    }
-                    
-                    // For space-delimited or as fallback, check phrase match
-                    if (!tagMatch) {
-                        // Escape special regex characters in the tag
-                        const escapedTag = normalizedTag.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-                        // Match tag as whole phrase: start/boundary + tag + boundary/end
-                        const boundaryRegex = new RegExp('(^|[|\\s])' + escapedTag + '([|\\s]|$)', 'i');
-                        tagMatch = boundaryRegex.test(cardTags);
-                    }
-                    
-                    // Ultimate fallback: simple substring match (less precise but catches edge cases)
-                    if (!tagMatch && lowerCardTags.includes(normalizedTag)) {
-                        tagMatch = true;
-                    }
-                }
-                
-                if (cardCategory) {
-                    categoryMatch = cardCategory.toLowerCase().includes(normalizedTag);
-                }
-                
-                if (tagMatch || categoryMatch) {
-                    card.style.display = 'block';
-                    visibleCount++;
-                    if (normalizedTag === 'sacred texts') {
-                        console.log(`✓ Card ${index + 1} matches: "${cardTitle}"`, { 
-                            tagMatch, 
-                            categoryMatch, 
-                            cardTags: cardTags.substring(0, 100),
-                            normalizedTag 
-                        });
-                    }
-                } else {
-                    card.style.display = 'none';
-                    if (normalizedTag === 'sacred texts') {
-                        console.log(`✗ Card ${index + 1} no match: "${cardTitle}"`, { 
-                            cardTags: cardTags ? cardTags.substring(0, 100) : 'null',
-                            normalizedTag 
-                        });
-                    }
-                }
-            }
-        });
-
-        console.log(`Found ${visibleCount} matching articles`);
-        
-        if (visibleCount === 0) {
+    function renderResults(results) {
+        if (results.length === 0) {
+            articlesList.innerHTML = '';
             noResults.style.display = 'block';
-            articlesGrid.style.display = 'none';
-            console.warn('No articles found! Check if articles are on this pagination page.');
         } else {
             noResults.style.display = 'none';
-            articlesGrid.style.display = 'grid';
+            articlesList.innerHTML = results.map(function(a) {
+                var tagsLower = (Array.isArray(a.tags) ? a.tags.join('|') : '').toLowerCase();
+                return '<li class="article-row"'
+                    + ' data-title="' + escAttr((a.title || '').toLowerCase()) + '"'
+                    + ' data-description="' + escAttr((a.description || '').toLowerCase()) + '"'
+                    + ' data-tags="' + escAttr(tagsLower) + '"'
+                    + ' data-category="' + escAttr((a.category || '').toLowerCase()) + '">'
+                    + '<a href="' + escAttr(a.url) + '" class="article-row-link">'
+                    + '<div class="article-row-header">'
+                    + '<span class="article-row-category">' + escAttr(a.category) + '</span>'
+                    + '<span class="article-row-meta">\uD83D\uDCC5 ' + fmtDate(a.date)
+                    + (a.readingTime ? ' \u00B7 \u23F1 ' + a.readingTime + ' min' : '') + '</span>'
+                    + '</div>'
+                    + '<h2 class="article-row-title">' + escAttr(a.title) + '</h2>'
+                    + '<p class="article-row-excerpt">' + escAttr(a.description) + '</p>'
+                    + '</a></li>';
+            }).join('');
         }
-
-        // Update active tag filter button
-        tagFilters.forEach(filter => {
-            const filterHref = filter.getAttribute('href');
-            if (normalizedTag && filterHref) {
-                // Extract tag from href and compare (handle both encoded and unencoded spaces)
-                const hrefMatch = filterHref.match(/tag=([^&]*)/);
-                if (hrefMatch) {
-                    const hrefTag = decodeURIComponent(hrefMatch[1]).toLowerCase().trim();
-                    if (hrefTag === normalizedTag) {
-                        filter.classList.add('active');
-                    } else {
-                        filter.classList.remove('active');
-                    }
-                } else {
-                    filter.classList.remove('active');
-                }
-            } else if (!normalizedTag && filterHref === '/articles/') {
-                filter.classList.add('active');
-            } else {
-                filter.classList.remove('active');
-            }
-        });
+        if (paginationEl) paginationEl.style.display = 'none';
     }
 
-    // Apply tag filter on page load
-    if (activeTag) {
-        filterByTag(activeTag);
+    function restorePage() {
+        articlesList.innerHTML = originalHTML;
+        noResults.style.display = 'none';
+        if (paginationEl) paginationEl.style.display = '';
     }
 
-    // Search functionality
     searchInput.addEventListener('input', function() {
-        const searchTerm = searchInput.value.toLowerCase().trim();
-        let visibleCount = 0;
-
-        Array.from(articleCards).forEach(card => {
-            const title = card.getAttribute('data-title');
-            const description = card.getAttribute('data-description');
-            const tags = card.getAttribute('data-tags');
-            const category = card.getAttribute('data-category');
-
-            // If there's an active tag, filter by both tag/category and search term
-            let normalizedActiveTag = null;
-            if (activeTag) {
-                normalizedActiveTag = activeTag.replace(/\+/g, ' ');
-                try {
-                    normalizedActiveTag = decodeURIComponent(normalizedActiveTag);
-                } catch (e) {
-                    // If already decoded, use as-is
-                }
-                normalizedActiveTag = normalizedActiveTag.toLowerCase().trim();
-            }
-            // Handle both pipe and space delimiters
-            let tagArray = [];
-            if (tags) {
-                if (tags.includes('|')) {
-                    tagArray = tags.split('|').map(t => t.trim().toLowerCase());
-                } else {
-                    // Fallback: check if tag appears as whole phrase in space-delimited tags
-                    const lowerTags = tags.toLowerCase();
-                    if (lowerTags.includes(normalizedActiveTag)) {
-                        tagArray = [normalizedActiveTag];
-                    } else {
-                        tagArray = tags.split(/\s+/).map(t => t.trim().toLowerCase());
-                    }
-                }
-            }
-            const matchesTag = !normalizedActiveTag || tagArray.includes(normalizedActiveTag) || (tags && tags.toLowerCase().includes(normalizedActiveTag)) || (category && category.toLowerCase().includes(normalizedActiveTag));
-            const matchesSearch = !searchTerm || title.includes(searchTerm) || description.includes(searchTerm) || tags.includes(searchTerm) || category.includes(searchTerm);
-
-            if (matchesTag && matchesSearch) {    
-                card.style.display = 'block';
-                visibleCount++;
-            } else {
-                card.style.display = 'none';
-            }
+        var term = this.value.toLowerCase().trim();
+        if (!term) { restorePage(); return; }
+        getIndex().then(function(articles) {
+            var results = articles.filter(function(a) {
+                return (a.title && a.title.toLowerCase().includes(term))
+                    || (a.description && a.description.toLowerCase().includes(term))
+                    || (a.category && a.category.toLowerCase().includes(term))
+                    || (Array.isArray(a.tags) && a.tags.some(function(t) {
+                        return t.toLowerCase().includes(term);
+                    }));
+            });
+            renderResults(results);
         });
-
-        if (visibleCount === 0) {
-            noResults.style.display = 'block';
-            articlesGrid.style.display = 'none';
-        } else {
-            noResults.style.display = 'none';
-            articlesGrid.style.display = 'grid';
-        }
     });
 });
 </script>
