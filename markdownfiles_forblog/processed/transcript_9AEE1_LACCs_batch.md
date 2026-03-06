@@ -56,7 +56,7 @@ One should learn the proper technique of *Rechaka* and *Puraka* from an expert. 
 
 In the *Kulakundalini*, we have the *“Kleem”* seed mantra—the seed of desire (*Kama*). No one can live in this world without desire; it is very necessary. However, that doesn't mean you spend it recklessly. Controlling and mastering desire is what "conquering kama" means. 
 
-The longer you hold your breath, the more your body, veins, lungs, and heart will expand. You might not be able to hold it for five or ten minutes at first—that’s almost impossible—but if you hold it for even five minutes, you will feel a restlessness, an urge to breathe. 
+The longer you hold your breath, the more your body, veins, lungs, and heart will expand. You might not be able to hold it for five or ten minutes at first—that’s almost impossible—but if you hold it for even five minutes, you will feel a restlessness, an urge to breathe.
 
 When you perform *Rechaka*, you take the breath in through one nostril, then close it and release it through the other. Let me show you again... *(Guru demonstrates)*. 
 
