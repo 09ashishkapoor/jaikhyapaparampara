@@ -34,7 +34,7 @@ source: |
 </div>
 
 
-**Guru:** Blessings, my son.
+Guru: Blessings, my son.
 
 <div class="speaker-block">
 <span class="speaker-name">Devotee:</span>
@@ -42,7 +42,7 @@ source: |
 </div>
 
 
-**Guru:** Look, there is always a matter of wanting and receiving; it’s not that there isn't. Sadhus (sages) want the Mother’s lotus feet. That is why the saint Ram Prasad said, "Some, O Mother, you give the status of Brahma, while others you cast down." That means Ma gives someone the highest spiritual realization and casts another down according to their karma. This is based on their deeds. 
+Guru: Look, there is always a matter of wanting and receiving; it’s not that there isn't. Sadhus (sages) want the Mother’s lotus feet. That is why the saint Ram Prasad said, "Some, O Mother, you give the status of Brahma, while others you cast down." That means Ma gives someone the highest spiritual realization and casts another down according to their karma. This is based on their deeds. 
 
 When sages first begin their spiritual practice, they need a foundation. Without the virtues of past lives, one cannot become a seeker of the Mother. A seeker will be a seeker in every birth. In some lives, they may have a family, and in others, they may not. This is the rule. Depending on their karma, Ma may give them a family in the next life or may not.
 
@@ -56,7 +56,7 @@ That is why we say, while practicing, take someone as your foundation and move f
 </div>
 
 
-**Guru:** Exactly, you move into a different world. That is the rule; that is what happens. You enter another realm. Ma is always there, but it’s about how much the seeker trusts Ma and how much Ma trusts the seeker. They are complementary to each other. Mother keeps track of everything the seeker does. You’ve seen this in Ram Prasad’s life as well. 
+Guru: Exactly, you move into a different world. That is the rule; that is what happens. You enter another realm. Ma is always there, but it’s about how much the seeker trusts Ma and how much Ma trusts the seeker. They are complementary to each other. Mother keeps track of everything the seeker does. You’ve seen this in Ram Prasad’s life as well. 
 
 Ram Prasad once said, "Does a child not survive if the mother dies? I call out to Mother, but she has her eyes and ears closed. Yet, Ma exists within this suffering child. Does a child not survive if the mother dies?" In another instance, when he was very sad, he told Mother, "This time, Kali, I will eat you! A child born in a great moment is one who eats his mother." He expressed this through his songs. Sages sometimes distance themselves from the Mother, and then reconnect again. We see this often in Ram Prasad’s life. He said, "I eat so many things, but I don't get to taste your love. I traveled to many lands, but I couldn't find your grace." 
 
@@ -68,7 +68,7 @@ These are all the Mother’s workings. Ma works invisibly. A seeker knows but do
 </div>
 
 
-**Guru:** That is the point. Some meanings are beyond human understanding. Otherwise, everyone would become a sage or God. This realization is very difficult—the most difficult of all.
+Guru: That is the point. Some meanings are beyond human understanding. Otherwise, everyone would become a sage or God. This realization is very difficult—the most difficult of all.
 
 <div class="speaker-block">
 <span class="speaker-name">Devotee:</span>
@@ -76,7 +76,7 @@ These are all the Mother’s workings. Ma works invisibly. A seeker knows but do
 </div>
 
 
-**Guru:** Yes, in the end, that is what sages say. "I have nothing; whatever there is, it's with the Mother. Go there and tell her." Now, whether they say this out of frustration or from the depths of their soul, or with what perspective, is hard to tell. It’s a mystery.
+Guru: Yes, in the end, that is what sages say. "I have nothing; whatever there is, it's with the Mother. Go there and tell her." Now, whether they say this out of frustration or from the depths of their soul, or with what perspective, is hard to tell. It’s a mystery.
 
 <div class="speaker-block">
 <span class="speaker-name">Devotee:</span>
@@ -84,7 +84,7 @@ These are all the Mother’s workings. Ma works invisibly. A seeker knows but do
 </div>
 
 
-**Guru:** There’s nothing much to explain. I have practiced, and now people say I am God or that I can do many things. But that’s not it. Ma does everything invisibly. Sages never say, "I did this." They don't need to. They believe in the Mother and send people to her. They say, "Go tell the Mother, I am behind you." Whatever is said to the Mother, the seeker hears. The seeker says, "Ask the Mother for whatever you want." This often comes from a lack of confidence; sometimes sages get frustrated. This has happened to all great souls—from Ramakrishna to Vivekananda to Bama Khepa. If you read their biographies, especially about their later years, you will understand. 
+Guru: There’s nothing much to explain. I have practiced, and now people say I am God or that I can do many things. But that’s not it. Ma does everything invisibly. Sages never say, "I did this." They don't need to. They believe in the Mother and send people to her. They say, "Go tell the Mother, I am behind you." Whatever is said to the Mother, the seeker hears. The seeker says, "Ask the Mother for whatever you want." This often comes from a lack of confidence; sometimes sages get frustrated. This has happened to all great souls—from Ramakrishna to Vivekananda to Bama Khepa. If you read their biographies, especially about their later years, you will understand. 
 
 Whether they did it or Ma did it through them is a great mystery. Even I still don't fully understand who is doing the work. But work is happening. People are coming with faith. Who is doing it? This is a gray area. I can’t explain it even today, but things are getting done. People tell me their problems, and two days later they say the work is done. Who did it? How? It’s hard to say. 
 
@@ -100,7 +100,7 @@ Another great sage taught me something when I was at a peak state. A gentleman c
 </div>
 
 
-**Guru:** Yes, they do come. Even Totapuri came to Ramakrishna to teach him the Vedas and Vedanta. Ramakrishna didn't believe in them at first, but later he became a firm believer. Someone always comes as a messenger of Mother. 
+Guru: Yes, they do come. Even Totapuri came to Ramakrishna to teach him the Vedas and Vedanta. Ramakrishna didn't believe in them at first, but later he became a firm believer. Someone always comes as a messenger of Mother. 
 
 When we finished the Mahamrityunjaya Yajna, I was sitting one evening and a very tall, beautiful man with long matted hair (jata) came and sat at my feet. He bowed to me. I was stunned; he looked exactly like Lord Shiva. I touched his hair, and my hand recoiled. He blessed me. I whispered in his ear, "Father, will you give me something?" He said, "You already have everything; what can I give you?" I asked where he came from, and he said he came from Pashupatinath because he heard the Mahamrityunjaya Yajna was being performed here. I told him it had ended a few days ago. He said, "I know. I have nothing to give you. Everything is within you. Whatever you do will happen." Then he spoke familiarly to me, and as he left, he said, "I will come to you again." I have been waiting for two years for him to return. I know he won't come back, but 22 to 24 people there were witnesses to this.
 
@@ -110,7 +110,7 @@ When we finished the Mahamrityunjaya Yajna, I was sitting one evening and a very
 </div>
 
 
-**Guru:** Yes, I see it, but I still cannot pierce this mystery. They first come as ordinary people, give a lesson, and leave. The one from Pashupatinath had almost no clothes on, but his matted hair was extraordinary. I was so tempted by his hair that when I tried to touch it, my hand was pushed away. He sat at my feet for a long time, bowed, and said he would come again. 
+Guru: Yes, I see it, but I still cannot pierce this mystery. They first come as ordinary people, give a lesson, and leave. The one from Pashupatinath had almost no clothes on, but his matted hair was extraordinary. I was so tempted by his hair that when I tried to touch it, my hand was pushed away. He sat at my feet for a long time, bowed, and said he would come again. 
 
 Gods appear in human form, but humans don't always realize it because they lack that consciousness or that "eye." We see the outer world with these two eyes, but with the Third Eye, we can see much further—into other worlds and even hear the conversations of Gods. That is why Ramakrishna used to say, "I want to see with my physical eyes, but I also want to see with the eye of knowledge (Third Eye)." Those who have opened their Third Eye can see and hear the divine. 
 
@@ -124,7 +124,7 @@ Sages sometimes "leave" the Mother, then hold her feet again. This is the game b
 </div>
 
 
-**Guru:** These are called "Vibhuti" (divine powers). When someone calls out from the heart, Ma doesn't go herself; she sends someone to do the work. I get calls from all over India saying, "You came to my house." I tell them, "The more the devotion, the sweeter the result." It’s through Kriya Yoga that such things happen. Most of these visits happen at night, never during the day. People call from all over saying they saw me. One person even said I visited, they bowed to me, and when they offered me tea, I vanished. Whether this is a state of their mind or something else, I cannot say.
+Guru: These are called "Vibhuti" (divine powers). When someone calls out from the heart, Ma doesn't go herself; she sends someone to do the work. I get calls from all over India saying, "You came to my house." I tell them, "The more the devotion, the sweeter the result." It’s through Kriya Yoga that such things happen. Most of these visits happen at night, never during the day. People call from all over saying they saw me. One person even said I visited, they bowed to me, and when they offered me tea, I vanished. Whether this is a state of their mind or something else, I cannot say.
 
 <div class="speaker-block">
 <span class="speaker-name">Devotee:</span>
@@ -132,7 +132,7 @@ Sages sometimes "leave" the Mother, then hold her feet again. This is the game b
 </div>
 
 
-**Guru:** There are many such cases. Just this morning, a Muslim man from Bangladesh called. He asked, "I am a Muslim; can I be a devotee of Kali?" I said, "Why not? You say your prayers (Namaz), perform your ablutions (Wudu), and also remember Mother Kali." He had a vision of the Mother in his dream and called me. I told him there is no problem. Your Allah and my God are one and the same. Just don't make a public show of it because your society might not understand. He agreed. 
+Guru: There are many such cases. Just this morning, a Muslim man from Bangladesh called. He asked, "I am a Muslim; can I be a devotee of Kali?" I said, "Why not? You say your prayers (Namaz), perform your ablutions (Wudu), and also remember Mother Kali." He had a vision of the Mother in his dream and called me. I told him there is no problem. Your Allah and my God are one and the same. Just don't make a public show of it because your society might not understand. He agreed. 
 
 <div class="speaker-block">
 <span class="speaker-name">Devotee:</span>
@@ -140,7 +140,7 @@ Sages sometimes "leave" the Mother, then hold her feet again. This is the game b
 </div>
 
 
-**Guru:** Blessings, my son.
+Guru: Blessings, my son.
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>

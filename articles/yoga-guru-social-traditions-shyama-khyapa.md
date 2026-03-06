@@ -107,7 +107,7 @@ source: |
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">Bhaba Pagla (a saint) used to say, *"Worship the Guru morning and evening with your heart and soul."* This worship should be done by everyone. But people today are caught in various traps and don't have time. However, practicing the mantra given by the Guru brings great results. If you don't practice, it’s all in vain.</span>
+<span class="speech-text">Bhaba Pagla (a saint) used to say, "Worship the Guru morning and evening with your heart and soul." This worship should be done by everyone. But people today are caught in various traps and don't have time. However, practicing the mantra given by the Guru brings great results. If you don't practice, it’s all in vain.</span>
 </div>
 
 

@@ -23,23 +23,23 @@ source: |
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
-**Host (Prasanta):** Pranam, Gurudev.
+Host (Prasanta): Pranam, Gurudev.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
 <span class="speech-text" style="display:block;margin-top:0.5rem;">Pranam, son.</span>
 </div>
 
-**Prasanta:** Gurudev, in this evening hour, I start today's episode by paying my respects to Maa, Baba, and you. Dear viewers, today we have Gurudev and our technical expert Kaushik to discuss the current situation of COVID-19 and the future, specifically regarding the Delta Plus variant.
+Prasanta: Gurudev, in this evening hour, I start today's episode by paying my respects to Maa, Baba, and you. Dear viewers, today we have Gurudev and our technical expert Kaushik to discuss the current situation of COVID-19 and the future, specifically regarding the Delta Plus variant.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">We have more or less passed the peak of the COVID wave. The cases are gradually decreasing. As a spiritual person, I am trying through spirituality to ensure this disease doesn't return. We are performing rituals like *Homa* and *Yajna*, just as sages did in the past. Honestly, I can now say with conviction that COVID is quite limited in West Bengal. It won't vanish completely, but there won't be massive damage.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">We have more or less passed the peak of the COVID wave. The cases are gradually decreasing. As a spiritual person, I am trying through spirituality to ensure this disease doesn't return. We are performing rituals like Homa and Yajna, just as sages did in the past. Honestly, I can now say with conviction that COVID is quite limited in West Bengal. It won't vanish completely, but there won't be massive damage.</span>
 </div>
 
 However, those who aren't following protocols—not sanitizing, not wearing masks—are the ones getting infected. Earlier, COVID was restricted, but with trains and buses running again, we must be careful. Now, the Delta variant is coming. Some see this as a commercial matter, a business. But Kaushik, what is the current situation? You have the data.
 
-**Kaushik:** Pranam, Gurudev. Regarding the COVID situation today, July 3rd, cases in West Bengal are around 1,422. While numbers decreased, they’ve seen a slight rise recently. Our biggest concern now is Delta Plus. So far, about 51 cases have been seen in India, mostly in Maharashtra, but also in Tamil Nadu, Kerala, and recently West Bengal.
+Kaushik: Pranam, Gurudev. Regarding the COVID situation today, July 3rd, cases in West Bengal are around 1,422. While numbers decreased, they’ve seen a slight rise recently. Our biggest concern now is Delta Plus. So far, about 51 cases have been seen in India, mostly in Maharashtra, but also in Tamil Nadu, Kerala, and recently West Bengal.
 
 Delta Plus is said to be even more infectious than the original Delta variant, potentially infecting up to 12 people from a single person. Dr. Guleria from AIIMS mentioned it has developed significant "immune escape mechanisms," meaning it can bypass vaccine immunity. Furthermore, it might harm organs beyond just the lungs.
 
@@ -54,7 +54,7 @@ We are relying on God. We are praying for COVID to leave. We are performing ritu
 
 To me, some of the panic seems like a rumor. A few cases might happen, but there’s no need to panic if we stay careful. We will continue our rituals to ensure Delta Plus doesn't spread in India.
 
-**Prasanta:** Dear viewers, you heard from Gurudev about the need for caution. Please stay alert and move one step closer to a COVID-free world. Pranam, Gurudev.
+Prasanta: Dear viewers, you heard from Gurudev about the need for caution. Please stay alert and move one step closer to a COVID-free world. Pranam, Gurudev.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>

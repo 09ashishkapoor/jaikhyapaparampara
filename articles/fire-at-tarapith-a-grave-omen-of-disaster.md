@@ -23,14 +23,14 @@ source: |
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
-**Interviewer:** Gurudev, my respects to you.
+Interviewer: Gurudev, my respects to you.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
 <span class="speech-text" style="display:block;margin-top:0.5rem;">My blessings. Tell me.</span>
 </div>
 
-**Interviewer:** Recently, a terrifying fire broke out in the generator room of the Tarapith Temple. What do you have to say about this?
+Interviewer: Recently, a terrifying fire broke out in the generator room of the Tarapith Temple. What do you have to say about this?
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
@@ -41,18 +41,18 @@ Why should there be a fire in the Mother's house? It has never happened before. 
 The Mother will strike them both in their hands and in their stomachs (livelihood). Look at the current lockdown; the Mother is hitting where it hurts. There is so much sacrilege in Her name. Think about a person who fasts all day and stands in line with an offering but cannot see the Mother, while someone else pays 500 rupees and gets to lie at the Mother's feet. How much "merit" do these people think they have to touch the Mother like that?</span>
 </div>
 
-**Interviewer:** But Gurudev, people are saying that because Bama-deb (Saint Bamakhepa) is present here as a "living Shiva," there is no reason to fear.
+Interviewer: But Gurudev, people are saying that because Bama-deb (Saint Bamakhepa) is present here as a "living Shiva," there is no reason to fear.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
 <span class="speech-text" style="display:block;margin-top:0.5rem;">People will say many things. They'll say Bama-deb is there, so nothing will happen. But Bama-deb is the one who is angry! This is his place, and he is watching the disgraceful activities and "rituals" being performed here—things that God and the Mother cannot tolerate. What can Bama-deb do when people act like this? 
 
-I am a devotee of Tara, and I am shocked. Such an incident has never happened at Tarapith before. This is happening because of human sin and corruption—extreme depravity. If the people and the priests (*Pandas*) don't wake up now, the Mother will wipe out their entire lineage. I have been warning about this for a long time. 
+I am a devotee of Tara, and I am shocked. Such an incident has never happened at Tarapith before. This is happening because of human sin and corruption—extreme depravity. If the people and the priests (Pandas) don't wake up now, the Mother will wipe out their entire lineage. I have been warning about this for a long time. 
 
-They are selling the sight of the Mother's bath for money. Do you know, a boy came to me and said he paid 2,000 rupees to see the Mother's bath? I told him, "I'll give you 10,000 rupees; let me watch your wife bathe." I said that to make a point. You aren't supposed to look at that sacred stone (*Shila*); people are said to go blind if they look at it with the wrong intent. Yet, they treat the Mother like she's just a piece of metal? Do they think She has no power? Is human power the only power?</span>
+They are selling the sight of the Mother's bath for money. Do you know, a boy came to me and said he paid 2,000 rupees to see the Mother's bath? I told him, "I'll give you 10,000 rupees; let me watch your wife bathe." I said that to make a point. You aren't supposed to look at that sacred stone (Shila); people are said to go blind if they look at it with the wrong intent. Yet, they treat the Mother like she's just a piece of metal? Do they think She has no power? Is human power the only power?</span>
 </div>
 
-**Interviewer:** We all know how much Mother Tara and Bama-deb are being disrespected lately...
+Interviewer: We all know how much Mother Tara and Bama-deb are being disrespected lately...
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
@@ -61,7 +61,7 @@ They are selling the sight of the Mother's bath for money. Do you know, a boy ca
 The Mother is seeing everything. The time has come. The judgment for this sin and corruption is beginning. These are the signs.</span>
 </div>
 
-**Interviewer:** Is there any way to satisfy Bama-deb and Mother Tara now?
+Interviewer: Is there any way to satisfy Bama-deb and Mother Tara now?
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
@@ -72,7 +72,7 @@ God is angry. Mother is angry. Lord Jagannath is angry. I told you, these are si
 If the government or the locals had been careful before, it would be different. But now, people are just wearing saffron or green robes, performing fake rituals, and drinking alcohol. They must face the music. The time has come. People will suffer terribly. They will scream for the Mother to save them, but it won't work.</span>
 </div>
 
-**Interviewer:** We've seen fires from the Puri temple to the Tarapith generator room. Gurudev, when the fire happened in Puri, you called it an omen of a partial apocalypse. Now it's happening at Tarapith. You keep telling people to be conscious and to call upon God with true devotion.
+Interviewer: We've seen fires from the Puri temple to the Tarapith generator room. Gurudev, when the fire happened in Puri, you called it an omen of a partial apocalypse. Now it's happening at Tarapith. You keep telling people to be conscious and to call upon God with true devotion.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
@@ -83,7 +83,7 @@ I left Tarapith for this very reason. I don't go there much anymore because of t
 The cup of sin is full. Those who did it, those who helped, and those who stood by will all perish.</span>
 </div>
 
-**Interviewer:** Is this what they call "the decree of fate cannot be undone"?
+Interviewer: Is this what they call "the decree of fate cannot be undone"?
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
@@ -92,7 +92,7 @@ The cup of sin is full. Those who did it, those who helped, and those who stood 
 COVID-19 is just the start; there is something even bigger coming that you cannot yet comprehend. We are helpless. We just have to watch and pray. But there is a limit to corruption.</span>
 </div>
 
-**Interviewer:** Gurudev has warned us in many ways to be conscious and not to play games with God. Thank you, Gurudev.
+Interviewer: Gurudev has warned us in many ways to be conscious and not to play games with God. Thank you, Gurudev.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>

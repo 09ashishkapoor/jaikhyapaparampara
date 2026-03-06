@@ -24,7 +24,7 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
-**Student:** Pranam, Gurudev. 
+Student: Pranam, Gurudev. 
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -32,7 +32,7 @@ source: |
 </div>
 
 
-**Student:** Gurudev, today at the temple, before the temple was closed, the Mother was offered fruits, mangoes, bananas…
+Student: Gurudev, today at the temple, before the temple was closed, the Mother was offered fruits, mangoes, bananas…
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -40,7 +40,7 @@ source: |
 </div>
 
 
-**Student:** Yes, it was given yesterday evening. Along with puffed rice, sweets, and all those things before the Mother’s door was closed. 
+Student: Yes, it was given yesterday evening. Along with puffed rice, sweets, and all those things before the Mother’s door was closed. 
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -48,7 +48,7 @@ source: |
 </div>
 
 
-**Student:** Is this rule the same at the Kamakhya temple? 
+Student: Is this rule the same at the Kamakhya temple? 
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -56,7 +56,7 @@ source: |
 </div>
 
 
-**Student:** Some people say that the water turns red...
+Student: Some people say that the water turns red...
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -66,7 +66,7 @@ source: |
 
 Ambubachi. This term was used by Michael Madhusudan Dutt. Everyone knows, "Ambu-bimbo, Ambu-mukhe sattva-paati." This word 'Ambu' was used only by Michael Madhusudan Dutt in his poetry, in his sonnets. 'Ambu' means water. 'Bachan' means to observe or preserve. To preserve water is called Ambubachi. There's nothing else to it. Now, what water are we talking about? In Tantra, it is said that the rainwater that falls on the first day of the month of Ashar should be collected and used to bathe the Mother. Mother cannot be bathed directly, so a large bowl is placed in front of her. Her reflection falls into the water, and that is how she is bathed. There are mantras for it.
 
-**Student:** So, the reflection...
+Student: So, the reflection...
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -74,7 +74,7 @@ Ambubachi. This term was used by Michael Madhusudan Dutt. Everyone knows, "Ambu-
 </div>
 
 
-**Student:** No harm to Mother Earth.
+Student: No harm to Mother Earth.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -82,7 +82,7 @@ Ambubachi. This term was used by Michael Madhusudan Dutt. Everyone knows, "Ambu-
 </div>
 
 
-**Student:** She is resting.
+Student: She is resting.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -90,7 +90,7 @@ Ambubachi. This term was used by Michael Madhusudan Dutt. Everyone knows, "Ambu-
 </div>
 
 
-**Student:** I have one small question. Since Mother shouldn't be disturbed, can we not even chant mantras? Because that would also reach Mother's ears.
+Student: I have one small question. Since Mother shouldn't be disturbed, can we not even chant mantras? Because that would also reach Mother's ears.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -98,7 +98,7 @@ Ambubachi. This term was used by Michael Madhusudan Dutt. Everyone knows, "Ambu-
 </div>
 
 
-**Student:** Gurudev, I’ve heard that before closing the temple at Kamakhya, a white cloth is left inside. It’s said that a white cloth is left there.
+Student: Gurudev, I’ve heard that before closing the temple at Kamakhya, a white cloth is left inside. It’s said that a white cloth is left there.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -106,7 +106,7 @@ Ambubachi. This term was used by Michael Madhusudan Dutt. Everyone knows, "Ambu-
 </div>
 
 
-**Student:** They say the water of some river turns red...
+Student: They say the water of some river turns red...
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -122,7 +122,7 @@ I was at the Kamakhya temple for a long time. I was there alone at night in the 
 
 My dear friends, you have heard some very good things today. Mother is Kameshwari. Mother has a sister, Bageshwari. Where does she stay? She is at the Kamakhya station. There is a temple of Mother there. That is Bageshwari. These two sisters, Kameshwari and Bageshwari. I have seen and understood these things, and I have taken the advice of great people. I used to do Kumari Puja there. People used to bring coconuts. There's a tradition of coconuts there. They would break the coconut and give half to the Mother. I used to eat that half coconut all day. Because a cup of tea and a snack cost 30 rupees. Who can afford that? People like us can't afford it. I wouldn't get any bread or rice all day. In the evening, that priest would feed me. He was a very good man, 82 years old. I asked him many questions, and he gave me very honest answers. There was no deception. He was a simple man. He even performed Kumari Puja for me. He said, "Since you've come this far, do Kumari Puja." I asked, "Where will I find a Kumari?" He arranged everything. At that time, I had to give 600 rupees. He bought all the toys and everything. I was staying outside. He told me, "You've come, so do Kumari Puja." Kamakhya is famous for Kumari Puja. So I did it. I stayed inside the temple for about three or four hours and performed Kumari Puja for a young girl. That was my experience at Kamakhya.
 
-**Student:** Gurudev, is Kamakhya the greatest center of Tantra?
+Student: Gurudev, is Kamakhya the greatest center of Tantra?
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -138,7 +138,7 @@ Pranam, Gurudev. The power went out. Suddenly there's a power cut, Gurudev. So, 
 </div>
 
 
-**Student:** Pranam, Gurudev.
+Student: Pranam, Gurudev.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -146,7 +146,7 @@ Pranam, Gurudev. The power went out. Suddenly there's a power cut, Gurudev. So, 
 </div>
 
 
-**Student:** Okay, let's finish.
+Student: Okay, let's finish.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -156,7 +156,7 @@ Pranam, Gurudev. The power went out. Suddenly there's a power cut, Gurudev. So, 
 
 Lastly, there's a place called Mayong where Tantra is practiced. It’s not practiced anymore; it’s gone. 
 
-**Student:** Black magic.
+Student: Black magic.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -164,7 +164,7 @@ Lastly, there's a place called Mayong where Tantra is practiced. It’s not prac
 </div>
 
 
-**Student:** Pranam, Gurudev. Let's end it here today. 
+Student: Pranam, Gurudev. Let's end it here today. 
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>

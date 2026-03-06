@@ -28,12 +28,12 @@ source: |
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="timestamp" style="color:var(--accent-color);font-family:monospace;font-size:0.9rem;display:block;margin-bottom:0.3rem;opacity:0.8;">00:00 - 00:11</span>
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Intro:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">*(Introductory music and blowing of a conch shell)*</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">(Introductory music and blowing of a conch shell)</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, seeking peace at the feet of Ma Tara and Bamakhepa, and offering my respects to you, I begin today’s episode. One of your viewers sent a question through a comment. He recently visited Tarapith, but what he saw there did not sit well with him, and he wants to know your perspective. When he went, he saw the priests (*Pundas*) grabbing people by the neck and forcing their heads onto the Mother’s feet. Is this right or wrong?</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, seeking peace at the feet of Ma Tara and Bamakhepa, and offering my respects to you, I begin today’s episode. One of your viewers sent a question through a comment. He recently visited Tarapith, but what he saw there did not sit well with him, and he wants to know your perspective. When he went, he saw the priests (Pundas) grabbing people by the neck and forcing their heads onto the Mother’s feet. Is this right or wrong?</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -43,12 +43,12 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Her name is Tara. Whatever anyone says, She is Tara. Many people have become beggars by going to Her. Thousands come to me; they have all become beggars. Only the head of Tara remains; there is no body as such. The priests take people in and force their heads down just to get more money—nothing else. My question is: why would an educated person do this? The Mother sits upon a stone (*Sila*). She sits upon the *Brahmasila*, where Ma Durga is said to nurse Lord Mahadev. That stone is there. Some say it came from Assam, some say Tibet, some say China—there are many opinions.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Her name is Tara. Whatever anyone says, She is Tara. Many people have become beggars by going to Her. Thousands come to me; they have all become beggars. Only the head of Tara remains; there is no body as such. The priests take people in and force their heads down just to get more money—nothing else. My question is: why would an educated person do this? The Mother sits upon a stone (Sila). She sits upon the Brahmasila, where Ma Durga is said to nurse Lord Mahadev. That stone is there. Some say it came from Assam, some say Tibet, some say China—there are many opinions.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Anyway, Bamakhepa always said one thing: "Never look at that stone. If you look at it, you might go mad. And if you touch it, you might go blind." Perhaps the power of that stone has diminished now because so many people touch it; it has lost its original essence. Nevertheless, Ma Tara sits on that *Brahmasila*. No one should look at it, let alone touch it; it can make a person go mad or blind. Bama Baba said this repeatedly. But people don't listen; they think going to Tarapith is some grand event. They go shouting "Jai Tara, Jai Tara."</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Anyway, Bamakhepa always said one thing: "Never look at that stone. If you look at it, you might go mad. And if you touch it, you might go blind." Perhaps the power of that stone has diminished now because so many people touch it; it has lost its original essence. Nevertheless, Ma Tara sits on that Brahmasila. No one should look at it, let alone touch it; it can make a person go mad or blind. Bama Baba said this repeatedly. But people don't listen; they think going to Tarapith is some grand event. They go shouting "Jai Tara, Jai Tara."</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -143,7 +143,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Regarding the *Brahmasila*—a viewer mentioned they heard it shouldn't be looked at, but unfortunately, they saw it. Will it cause them harm?</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Regarding the Brahmasila—a viewer mentioned they heard it shouldn't be looked at, but unfortunately, they saw it. Will it cause them harm?</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -158,7 +158,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Very rarely. Perhaps if someone asks me to fan the Mother with a *Chamar*, I go in, do it, and come out. I am afraid.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Very rarely. Perhaps if someone asks me to fan the Mother with a Chamar, I go in, do it, and come out. I am afraid.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

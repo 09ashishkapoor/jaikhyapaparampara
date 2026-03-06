@@ -52,7 +52,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Now, look, there are two types of money in this world: "sinful money" and "honest money." I once heard a saying: *"Oh money, you are blessed, you reside in the land of India; Oh money, I know you, I bow at your feet."* It’s true that money is necessary. Everyone is running after it—some are working in offices, some are doing business, and everyone is earning to run their household. In that context, money is essential.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Now, look, there are two types of money in this world: "sinful money" and "honest money." I once heard a saying: "Oh money, you are blessed, you reside in the land of India; Oh money, I know you, I bow at your feet." It’s true that money is necessary. Everyone is running after it—some are working in offices, some are doing business, and everyone is earning to run their household. In that context, money is essential.</span>
 </div>
 
 
@@ -64,7 +64,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Money is needed, but for those whom God calls, the combination of "wealth and spiritual jewels" isn't always good. You can’t have both at once. Choose one: either God’s feet or money. God wants to give money, but people don’t know how to keep it in the right place or how to use it. There’s a saying: *"How long does it take for God to take back the wealth He gave, after testing the heart?"*</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Money is needed, but for those whom God calls, the combination of "wealth and spiritual jewels" isn't always good. You can’t have both at once. Choose one: either God’s feet or money. God wants to give money, but people don’t know how to keep it in the right place or how to use it. There’s a saying: "How long does it take for God to take back the wealth He gave, after testing the heart?"</span>
 </div>
 
 
@@ -136,7 +136,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">One day, I went to a temple and saw a lady bringing two simple sugar drops (*batasa*) as an offering. The priests there, who were quite arrogant, mocked her, asking, "What is this? Why did you bring this?" and they threw it away. I told them, "Listen, this is the Mother’s food today. She will eat these sugar drops today; She won't accept your fancy sweets." Honest money is what matters.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">One day, I went to a temple and saw a lady bringing two simple sugar drops (batasa) as an offering. The priests there, who were quite arrogant, mocked her, asking, "What is this? Why did you bring this?" and they threw it away. I told them, "Listen, this is the Mother’s food today. She will eat these sugar drops today; She won't accept your fancy sweets." Honest money is what matters.</span>
 </div>
 
 

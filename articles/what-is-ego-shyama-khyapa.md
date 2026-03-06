@@ -25,7 +25,7 @@ source: |
 ---
 
 
-**Announcer:** Obeisance to Sri Sri Gupta Sadhak Shamakhapa. Greetings. We are beginning today’s program from Shantikunj by offering our respects to Guru Gupta Sadhak Sri Sri Shamakhapa. Let us all listen together to the invaluable words of the Gurudev.
+Announcer: Obeisance to Sri Sri Gupta Sadhak Shamakhapa. Greetings. We are beginning today’s program from Shantikunj by offering our respects to Guru Gupta Sadhak Sri Sri Shamakhapa. Let us all listen together to the invaluable words of the Gurudev.
 
 <div class="speaker-block">
 <span class="speaker-name">Devotee:</span>
@@ -139,7 +139,7 @@ In our tradition, we also respect the crow because it is associated with Ketu an
 </div>
 
 
-**Announcer:** Friends, we have heard in detail from Gurudev about ego. Please subscribe to the Gupta Sadhak Shamakhapa YouTube channel, like the videos, and leave your thoughts in the comments. Salutations, Gurudev.
+Announcer: Friends, we have heard in detail from Gurudev about ego. Please subscribe to the Gupta Sadhak Shamakhapa YouTube channel, like the videos, and leave your thoughts in the comments. Salutations, Gurudev.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -147,11 +147,11 @@ In our tradition, we also respect the crow because it is associated with Ketu an
 </div>
 
 
-**Announcer:** You were listening to the words of Guru Gupta Sadhak Sri Sri Shamakhapa. Please let us know how you liked it. To hear his invaluable words regularly, subscribe, like, and share the Shamakhapa channel.
+Announcer: You were listening to the words of Guru Gupta Sadhak Sri Sri Shamakhapa. Please let us know how you liked it. To hear his invaluable words regularly, subscribe, like, and share the Shamakhapa channel.
 
 To contact Gurudev, please send a WhatsApp message between 10:00 AM and 6:00 PM with your name, location, and phone number. Gurudev will call you back as soon as possible. 
 
-**The WhatsApp number is: 80805-39595.**
+The WhatsApp number is: 80805-39595.
 
 Offering our salutations to Gurudev and wishing you all his blessings and well-being, we conclude today’s program. Stay well. Namaskar.
 

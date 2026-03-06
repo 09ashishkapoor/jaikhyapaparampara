@@ -23,7 +23,7 @@ source: |
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
-**Interviewer:** Gurudev, what is the truth behind the mysterious "Gyan Ganj"? Tibetans call it Shangri-La; we call it Gyan Ganj. Where is it?
+Interviewer: Gurudev, what is the truth behind the mysterious "Gyan Ganj"? Tibetans call it Shangri-La; we call it Gyan Ganj. Where is it?
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
@@ -32,9 +32,9 @@ source: |
 
 There is a Puranic history to this. After Kubera sought protection from Ravana, Mahadev told him to establish his kingdom north of Kailash—"Yaksha Puri"—where Mahadev would guard his riches. This is the place. It is sealed with powerful mantras; even the Chinese military lost many soldiers trying to find it.
 
-Those who enter Gyan Ganj lose their sense of time. They are taught the secrets of creation. There are three sections: *Sthula* (physical/gross), *Sukshma* (subtle), and *Karan Bindu* (causal). Seekers are tested by an ancient female ascetic who is 1,200 years old.
+Those who enter Gyan Ganj lose their sense of time. They are taught the secrets of creation. There are three sections: Sthula (physical/gross), Sukshma (subtle), and Karan Bindu (causal). Seekers are tested by an ancient female ascetic who is 1,200 years old.
 
-**Interviewer:** I have heard that major world events are decided there. Is that true?
+Interviewer: I have heard that major world events are decided there. Is that true?
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
@@ -45,7 +45,7 @@ Many try to find it, but without Mahadev's blessing, no one can enter. Names lik
 
 If I claimed to know everything about Gyan Ganj, I would be a fool. What I tell you is based on the Puranas and spiritual realization. It is Mahadev's sanctuary.
 
-**Interviewer:** My respects to you, Gurudev.
+Interviewer: My respects to you, Gurudev.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>

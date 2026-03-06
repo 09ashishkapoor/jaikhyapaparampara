@@ -22,7 +22,7 @@ source: |
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
-**Interviewer:** Pranam, Gurudev. Please tell us—the month of Bhadra has arrived, and Rakhi Purnima is here today. However, you often say that during the month of Bhadra, people should not come to this temple for any specific spiritual work or auspicious tasks. Yet, we see a continuous crowd of devotees every day.
+Interviewer: Pranam, Gurudev. Please tell us—the month of Bhadra has arrived, and Rakhi Purnima is here today. However, you often say that during the month of Bhadra, people should not come to this temple for any specific spiritual work or auspicious tasks. Yet, we see a continuous crowd of devotees every day.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
@@ -33,7 +33,7 @@ Nothing good happens in this month. According to some beliefs, girls born in the
 That is why I tell people: coming from far away right now won't yield results. The only benefit is that I might listen to your problems, but I cannot perform any rituals or offer solutions with my hands during Bhadra. We have followed this rule for a long time.</span>
 </div>
 
-**Interviewer:** We have mentioned this in previous episodes as well.
+Interviewer: We have mentioned this in previous episodes as well.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
@@ -44,7 +44,7 @@ I request everyone: come to visit, pay your respects, but do not come for specif
 People cannot stay here at night. There are only a few people who guard the Mother at night. We cannot provide space for outsiders. There are various issues—police complications, and the municipality or landowners object to people staying here at night. So, I am asking you to wait until the month of Bhadra passes. I can only start working again after that.</span>
 </div>
 
-**Interviewer:** You also mentioned that Bhadra is considered a "Malla" (impure/blocked) month.
+Interviewer: You also mentioned that Bhadra is considered a "Malla" (impure/blocked) month.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
@@ -53,21 +53,21 @@ People cannot stay here at night. There are only a few people who guard the Moth
 However, I am still seeing those who are very ill or suffering. I provide them with items or rituals for protection. But for general public problems—like "I can't eat" or "my situation is bad"—please do not come right now. I have said this on YouTube: if you come now, you will be disappointed, or I may have to ask you to leave.</span>
 </div>
 
-**Interviewer:** Friends, the main reason for this video is to reiterate that no spiritual work happens here in Bhadra. People spend a lot of money on trains and planes to get here, but their purpose won't be fulfilled.
+Interviewer: Friends, the main reason for this video is to reiterate that no spiritual work happens here in Bhadra. People spend a lot of money on trains and planes to get here, but their purpose won't be fulfilled.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
 <span class="speech-text" style="display:block;margin-top:0.5rem;">Exactly. It's a waste of both time and money. Wait until the month of Ashwin (September-October). People even come for "Diksha" (initiation) now, but I have to tell them that initiation doesn't happen in Bhadra. Come in Ashwin.</span>
 </div>
 
-**Interviewer:** Please come for "Darshan" (to see the Goddess), but don't bring your problems to Gurudev yet. Normally, no one is turned away from the Shantikunja Ashram, but there are protocols to follow.
+Interviewer: Please come for "Darshan" (to see the Goddess), but don't bring your problems to Gurudev yet. Normally, no one is turned away from the Shantikunja Ashram, but there are protocols to follow.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
 <span class="speech-text" style="display:block;margin-top:0.5rem;">And you know what's strange, Koushik? If I ask someone to leave, they don't listen. They sit in a line. Also, the Delta variant (COVID-19) has started in various places. This is another hurdle. People ask why there is such a crowd.</span>
 </div>
 
-**Interviewer:** Yes, some areas are becoming "Red Zones" again due to Delta Plus. I saw the police putting up barricades today. Given the COVID situation and the fact that no work is being done, please don't overwhelm the residents here. Come back after one month.
+Interviewer: Yes, some areas are becoming "Red Zones" again due to Delta Plus. I saw the police putting up barricades today. Given the COVID situation and the fact that no work is being done, please don't overwhelm the residents here. Come back after one month.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
@@ -76,7 +76,7 @@ However, I am still seeing those who are very ill or suffering. I provide them w
 I repeat: unless it is a medical emergency or a severe illness, please wait. For example, a gentleman came today with both kidneys damaged and starting dialysis. I gave him a protective ritual item. Emergency cases are different. But for business problems or general issues, I fold my hands and request you—wait until the first week of September.</span>
 </div>
 
-**Interviewer:** You heard Gurudev. We made this video so you don't have to face disappointment after a long journey.
+Interviewer: You heard Gurudev. We made this video so you don't have to face disappointment after a long journey.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
@@ -85,13 +85,13 @@ I repeat: unless it is a medical emergency or a severe illness, please wait. For
 So, please don't come for work right now, or I will have to ask you to leave. Except for severe illness, like the person I treated this morning who was suffering from a "Ban" (black magic attack). I treated him, let him rest, and fed him before he left. Such cases I will attend to.</span>
 </div>
 
-**Interviewer:** Please respect this request. It will save you from disappointment. Come back to Shantikunja in a month, and Gurudev will help you with your problems.
+Interviewer: Please respect this request. It will save you from disappointment. Come back to Shantikunja in a month, and Gurudev will help you with your problems.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
 <span class="speech-text" style="display:block;margin-top:0.5rem;">Pranam.</span>
 </div>
 
-**Interviewer:** Pranam, Gurudev.
+Interviewer: Pranam, Gurudev.
 
 </div>

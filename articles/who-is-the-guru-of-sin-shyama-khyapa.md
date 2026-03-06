@@ -162,7 +162,7 @@ Eventually, the sea will be called forth to submerge the Jagannath temple. Badri
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
-<span class="speech-text">Greed is hard to distance. If greed isn't removed, the conflict remains. Greed will surround people. And now, the consequences will come faster. In the past, it took time, but now death will follow sin almost immediately. This is the hallmark of *Kali(yuga)*.</span>
+<span class="speech-text">Greed is hard to distance. If greed isn't removed, the conflict remains. Greed will surround people. And now, the consequences will come faster. In the past, it took time, but now death will follow sin almost immediately. This is the hallmark of Kali(yuga).</span>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">

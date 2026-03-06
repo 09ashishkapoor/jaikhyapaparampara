@@ -24,7 +24,7 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
-**Interviewer:** Gurudev, Pranam (Greetings).
+Interviewer: Gurudev, Pranam (Greetings).
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -32,7 +32,7 @@ source: |
 </div>
 
 
-**Interviewer:** Gurudev, we are receiving many comments. These comments arose from a previous episode. There is a lot of resentment in people's minds, and they want to know something. A gentleman named Shriram Naskar asks: "Why should we bear the burden of the sins of dishonest people?"
+Interviewer: Gurudev, we are receiving many comments. These comments arose from a previous episode. There is a lot of resentment in people's minds, and they want to know something. A gentleman named Shriram Naskar asks: "Why should we bear the burden of the sins of dishonest people?"
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -40,7 +40,7 @@ source: |
 </div>
 
 
-**Interviewer:** Could you explain the meaning of that poem you just mentioned?
+Interviewer: Could you explain the meaning of that poem you just mentioned?
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -48,7 +48,7 @@ source: |
 </div>
 
 
-**Interviewer:** If you remember his poem, please tell us.
+Interviewer: If you remember his poem, please tell us.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -56,7 +56,7 @@ source: |
 </div>
 
 
-**Interviewer:** You said one rotten potato spoils the whole sack. That applies to potatoes, but in the case of humans...
+Interviewer: You said one rotten potato spoils the whole sack. That applies to potatoes, but in the case of humans...
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -64,7 +64,7 @@ source: |
 </div>
 
 
-**Interviewer:** But Gurudev, if one person does wrong, why should the four good people living next to him suffer for his sins?
+Interviewer: But Gurudev, if one person does wrong, why should the four good people living next to him suffer for his sins?
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -72,7 +72,7 @@ source: |
 </div>
 
 
-**Interviewer:** Gurudev, regarding the episode you gave our viewers today, we see many comments saying you shouldn't get involved in politics. But how can one avoid politics when it is part of the current situation?
+Interviewer: Gurudev, regarding the episode you gave our viewers today, we see many comments saying you shouldn't get involved in politics. But how can one avoid politics when it is part of the current situation?
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -80,7 +80,7 @@ source: |
 </div>
 
 
-**Interviewer:** Gurudev, you mentioned that Bamakhepa sent money to Bagha Jatin. Can we then assume he was involved in politics?
+Interviewer: Gurudev, you mentioned that Bamakhepa sent money to Bagha Jatin. Can we then assume he was involved in politics?
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -88,7 +88,7 @@ source: |
 </div>
 
 
-**Interviewer:** Pritilata Waddedar, during the Chittagong Armoury Raid?
+Interviewer: Pritilata Waddedar, during the Chittagong Armoury Raid?
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -96,7 +96,7 @@ source: |
 </div>
 
 
-**Interviewer:** The context here is that they were political, but why do spiritual gurus like you get involved?
+Interviewer: The context here is that they were political, but why do spiritual gurus like you get involved?
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -104,7 +104,7 @@ source: |
 </div>
 
 
-**Interviewer:** The common perception is that a spiritual guru should only chant God's name.
+Interviewer: The common perception is that a spiritual guru should only chant God's name.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -112,7 +112,7 @@ source: |
 </div>
 
 
-**Interviewer:** A religious guru is omnipresent.
+Interviewer: A religious guru is omnipresent.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -120,7 +120,7 @@ source: |
 </div>
 
 
-**Interviewer:** I have another question. A lady named Chitra Nag wants to know: when will the world end? Especially with the current COVID situation.
+Interviewer: I have another question. A lady named Chitra Nag wants to know: when will the world end? Especially with the current COVID situation.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -128,7 +128,7 @@ source: |
 </div>
 
 
-**Interviewer:** People are very anxious, which is why they seek light from you.
+Interviewer: People are very anxious, which is why they seek light from you.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -136,7 +136,7 @@ source: |
 </div>
 
 
-**Interviewer:** We are also seeing frequent natural disasters.
+Interviewer: We are also seeing frequent natural disasters.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -144,7 +144,7 @@ source: |
 </div>
 
 
-**Interviewer:** Along with the pandemic, a cyclone is approaching West Bengal and Odisha. We request you to pray so that people don't suffer too much.
+Interviewer: Along with the pandemic, a cyclone is approaching West Bengal and Odisha. We request you to pray so that people don't suffer too much.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -152,7 +152,7 @@ source: |
 </div>
 
 
-**Interviewer:** Many disciples of yours are spread across India. Please give them some hope.
+Interviewer: Many disciples of yours are spread across India. Please give them some hope.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -162,7 +162,7 @@ source: |
 
 Yes, God will punish you according to your "Karmaphal" (results of actions). You must accept that. But if your actions are right, God cannot punish you. If you are honest in your heart, if you don't cheat others, then you are a saint. God will protect you. Don't worry about it. Keep your actions right and live like a good person. Don't cheat, don't abuse, and treat humans as humans. If you can do that and be a "saint" in your mind, nothing else is needed. But we don't do that; we are surrounded by the six enemies (lust, anger, greed, etc.), and we fall into traps.
 
-**Interviewer:** Viewers, today we heard a beautiful discussion that has enriched us. Gurudev spoke about the upcoming cyclone and the pandemic with such wisdom. Gurudev, we conclude for today. Pranam.
+Interviewer: Viewers, today we heard a beautiful discussion that has enriched us. Gurudev spoke about the upcoming cyclone and the pandemic with such wisdom. Gurudev, we conclude for today. Pranam.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>

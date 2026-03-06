@@ -45,11 +45,11 @@ source: |
 
 One day, while I was meditating, he called me from the crematorium grounds. He said, "Come here, I have something to tell you." I asked, "What is it, Father?" He said, "You are meditating here. Place your hand on my body and promise me you will never leave this crematorium. You will find Mother Kali right here. I am a Bhattacharjee, and I am blessing you with both hands—you will soon have a vision of Mother Kali."
 
-I touched his feet to show respect. He got a bit startled and said, "Alright, but do one thing: never leave this place as long as you live." I gave him my word. A Brahmin gave his word to another; he was a Bhattacharjee, and so am I. He seemed very reassured. Then he said, "Wait, there’s one more thing. There is a 'Crematorium Guardian' (*Shmashan Rakshak*) here, and he is terrifying. Always keep a sharp knife with you."
+I touched his feet to show respect. He got a bit startled and said, "Alright, but do one thing: never leave this place as long as you live." I gave him my word. A Brahmin gave his word to another; he was a Bhattacharjee, and so am I. He seemed very reassured. Then he said, "Wait, there’s one more thing. There is a 'Crematorium Guardian' (Shmashan Rakshak) here, and he is terrifying. Always keep a sharp knife with you."
 
 I asked, "Why, Father? What will I do with a knife?" He replied, "You might encounter him one day. He is hideous. I’ve seen him, that’s why I’m telling you. I’m old; I don’t know how much longer I’ll live, but I’m giving you this advice. Keep a sharp knife. If you ever see him in this crematorium—and it was a very desolate place back then—cut your finger and let some blood fall on the ground. If you can’t do that, death is certain. I’m telling you this."
 
-I told him I would remember his words. He also said, "When you come to the crematorium at night, first take permission from the gatekeepers (*Dwar Rakshaks*) before entering." I told him it wasn't necessary for me since I’d been coming here for so long and everyone knew me. He insisted, "No, do it. Bow to the ground and then enter."
+I told him I would remember his words. He also said, "When you come to the crematorium at night, first take permission from the gatekeepers (Dwar Rakshaks) before entering." I told him it wasn't necessary for me since I’d been coming here for so long and everyone knew me. He insisted, "No, do it. Bow to the ground and then enter."
 
 That was when I first learned from him that there are guardians and protectors of the crematorium. He was nearly 80 years old then, frail and trembling, but those two or three things he told me stayed with me. He passed away later—he drank a lot—but I still follow his advice to the letter. I still keep a sharp blade with me. I use it to offer a drop of blood if needed. By God’s grace and his blessings, I haven't encountered that entity yet. I’ve been scared and have run away sometimes, but I haven't seen him specifically. I always carry that protection with me. I’ve told my disciples the same. It’s been about 35 to 40 years now, and I haven't had a direct confrontation.
 
@@ -90,7 +90,7 @@ That was when I first learned from him that there are guardians and protectors o
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes. I discourage people from coming here at night, especially those with long, loose hair or those who haven't protected their bodies (*Deho Bondhon*). I’ve seen people get high fevers after coming here.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes. I discourage people from coming here at night, especially those with long, loose hair or those who haven't protected their bodies (Deho Bondhon). I’ve seen people get high fevers after coming here.</span>
 </div>
 
 I’ll tell you one last story about a man named Bhagirath who works here. Bhagirath is a disciple of mine and stays at this temple. Every day, he goes up to offer food to the spirits. One Tuesday, while offering food, he was slapped—hard—by something invisible. He didn't tell me immediately, but he had done something wrong during the ritual. After that, his health declined rapidly. He was hospitalized for a month and couldn't eat anything.
@@ -125,7 +125,7 @@ Once, a rabid dog that had bitten many people entered while I was meditating. My
 
 The dog eventually passed away. It was very tragic. My son and his wife were struggling to have a child; they had several miscarriages. People said that because of the work I do, we wouldn't have descendants. I went to Tarapith and prayed to Bamdeb Baba. I cried and asked for a grandson.
 
-One night at 4:00 AM, my wife woke up to perform her rituals. She saw a *Sadhu* (holy man) enter the room and then simply vanish. She woke me up, terrified. I realized it was a sign from Bamdeb Baba. Soon after, my grandson was born—and he was born with matted hair (*jata*). That is our history.
+One night at 4:00 AM, my wife woke up to perform her rituals. She saw a Sadhu (holy man) enter the room and then simply vanish. She woke me up, terrified. I realized it was a sign from Bamdeb Baba. Soon after, my grandson was born—and he was born with matted hair (jata). That is our history.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Disciple:</span>

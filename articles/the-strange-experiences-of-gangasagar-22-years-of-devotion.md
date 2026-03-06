@@ -23,14 +23,14 @@ source: |
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
-**Interviewer:** Greetings, Gurudev.
+Interviewer: Greetings, Gurudev.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
 <span class="speech-text" style="display:block;margin-top:0.5rem;">Greetings, my son. Speak.</span>
 </div>
 
-**Interviewer:** Gurudev, today we would like to know about Gangasagar from you. You have been going there for 22 long years. Please enlighten us.
+Interviewer: Gurudev, today we would like to know about Gangasagar from you. You have been going there for 22 long years. Please enlighten us.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
@@ -39,15 +39,15 @@ source: |
 
 I reached there and the Puja went on all night. When it was time for immersion, we were fenced in by toilets and obstacles. I told my companion Khokon that a van would come. He didn't believe it, but a van arrived immediately. Then an old woman appeared, helped us navigate the fencing, and led us to the ocean. She was likely the Mother herself.
 
-We do this every year on the 1st of Magh. The Mother is worshipped in the "underworld" (*Patala*) at Sagar as Bhadrakali and Bishalakshi. Worshipping Bishalakshi is worshipping Mahasaraswati.
+We do this every year on the 1st of Magh. The Mother is worshipped in the "underworld" (Patala) at Sagar as Bhadrakali and Bishalakshi. Worshipping Bishalakshi is worshipping Mahasaraswati.
 
 I recall another event where people were fighting during the Puja. I warned them to stop, but they didn't. At 4:00 AM, the ringleader died of a heart attack right there.
 
-Once, we forgot Bael leaves for the *Homa*. A little girl appeared, begging for clothes and food. I realized who she was and fed her the *bhog* and gave her the deity's clothes. She vanished instantly. The other monks were moved, realizing the Mother had come in person.
+Once, we forgot Bael leaves for the Homa. A little girl appeared, begging for clothes and food. I realized who she was and fed her the bhog and gave her the deity's clothes. She vanished instantly. The other monks were moved, realizing the Mother had come in person.
 
-Going to the Sagar is a big part of my life. I live only on tea, believing that at a pilgrimage site (*Pith*), one shouldn't eat rice until the work is done. I performed this puja for 22 years with great inner peace. I hope to go again this year.
+Going to the Sagar is a big part of my life. I live only on tea, believing that at a pilgrimage site (Pith), one shouldn't eat rice until the work is done. I performed this puja for 22 years with great inner peace. I hope to go again this year.
 
-**Interviewer:** That is great news. Gurudev, do you have any other such experiences?
+Interviewer: That is great news. Gurudev, do you have any other such experiences?
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
@@ -56,7 +56,7 @@ Going to the Sagar is a big part of my life. I live only on tea, believing that 
 
 The Mother tests our consciousness. My years at Sagar gave me great satisfaction, and I will try to go once more despite my age.
 
-**Interviewer:** Greetings, Gurudev.
+Interviewer: Greetings, Gurudev.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>

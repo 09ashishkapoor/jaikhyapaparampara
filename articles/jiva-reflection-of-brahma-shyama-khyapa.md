@@ -50,15 +50,15 @@ Now, if that mirror breaks, it doesn't affect the deity at all. These rituals an
 
 Look at the ten avatars of Lord Vishnu. They follow a specific sequence: Matsya (the fish), Kurma (the tortoise), Varaha (the boar), Narasimha (the half-man, half-lion), Vamana (the dwarf), Parashurama, Rama, Balarama, Buddha, and finally, Kalki. This sequence reflects a progression. Kalki is considered the final, complete avatar.
 
-**Host:** So, what is the significance of the mirror in relation to God?
+Host: So, what is the significance of the mirror in relation to God?
 
-**Gurudeb:** There is a symbolic connection in worship. However, when you have eyes to see, you don't necessarily need a mirror—your eyes act as the mirror. We say that the "eye is true and the ear is false." What you see with your own eyes is the truth; don't just rely on what you hear or on rumors. Truth and falsehood both reside within you. 
+Gurudeb: There is a symbolic connection in worship. However, when you have eyes to see, you don't necessarily need a mirror—your eyes act as the mirror. We say that the "eye is true and the ear is false." What you see with your own eyes is the truth; don't just rely on what you hear or on rumors. Truth and falsehood both reside within you. 
 
 Ultimately, we are alive because of one element: air. If our breathing stops, we perish. Regarding the "reflection," as long as the eye is open, the reflection exists and is true. In worship, we use the mirror to maintain the sanctity and purity of the deity's physical form while performing rituals on the reflection.
 
-**Host:** My next question is: why did the Supreme Being create such diversity? He made some as humans, some as lions, some as deer, and others as insects. Isn't this a form of partiality on God's part?
+Host: My next question is: why did the Supreme Being create such diversity? He made some as humans, some as lions, some as deer, and others as insects. Isn't this a form of partiality on God's part?
 
-**Gurudeb:** It’s not partiality; we have to look at this through the lens of both spirituality and science. We say Lord Brahma created everything. But why? He created humans specifically so they could understand and realize God. 
+Gurudeb: It’s not partiality; we have to look at this through the lens of both spirituality and science. We say Lord Brahma created everything. But why? He created humans specifically so they could understand and realize God. 
 
 As for animals, science explains their existence differently, but in our tradition, we see them associated with the deities. Brahma is often depicted with a swan, Durga with a lion, Ganesha with a mouse, Kartikeya with a peacock, and Shiva with a bull. The deities chose these animals as their mounts (Vahanas).
 
@@ -68,9 +68,9 @@ The mystery of creation is profound. Science says everything evolved over time f
 
 So, while spiritualists might say God created everything, science provides a structural explanation through evolution. I believe both perspectives have merit. We shouldn't ignore science, nor should we ignore the divine. 
 
-**Host:** So science and God are interconnected?
+Host: So science and God are interconnected?
 
-**Gurudeb:** Exactly. We live in a world governed by three types of experiences: Adhibhautik (bodily or mental), Adhidaivik (supernatural or divine), and Bhautik (physical or material). 
+Gurudeb: Exactly. We live in a world governed by three types of experiences: Adhibhautik (bodily or mental), Adhidaivik (supernatural or divine), and Bhautik (physical or material). 
 
 When we see something miraculous, we call it Bhautik. Adhibhautik refers to the sufferings or changes within our own bodies. Adhidaivik refers to the forces of nature—storms, rain, and floods—which we attribute to the divine or the laws of nature. 
 
@@ -78,9 +78,9 @@ Today, we are heavily dependent on science. If there is no electricity, we can't
 
 In the past, sages relied entirely on the Divine. Today, humanity relies on science. But both are interconnected and essential for our existence. 
 
-**Host:** Thank you, Gurudeb, for these enlightening words. 
+Host: Thank you, Gurudeb, for these enlightening words. 
 
-**Gurudeb:** Pronam. Be well.
+Gurudeb: Pronam. Be well.
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>

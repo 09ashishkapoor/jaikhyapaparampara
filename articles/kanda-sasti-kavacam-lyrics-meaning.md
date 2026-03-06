@@ -60,11 +60,11 @@ Below is the complete hymn with English transliteration and a verse-by-verse mea
                         Sirahiri Velavan Seekkiram Varuha
                     </blockquote>
 
-**Invocation and Benefits:** For those who chant this, heavy karma and sorrow will vanish. For those who hold this in their heart, wealth and courage will flourish. Meditation and wisdom will be attained. This is the Armor of Lord Skanda, bestowed by the Graceful One.
+Invocation and Benefits: For those who chant this, heavy karma and sorrow will vanish. For those who hold this in their heart, wealth and courage will flourish. Meditation and wisdom will be attained. This is the Armor of Lord Skanda, bestowed by the Graceful One.
 
-**Visualization of the Lord:** Focus your heart on the feet of the Lord who fought to end the suffering of the Angels (Devas). Oh Lord Saravanabava, look upon us during this Sashti day. Oh Wielder of the Red Spear who helps the righteous. With anklets ringing on Your holy feet and bells chiming. You arrive riding the peacock that dances to the music.
+Visualization of the Lord: Focus your heart on the feet of the Lord who fought to end the suffering of the Angels (Devas). Oh Lord Saravanabava, look upon us during this Sashti day. Oh Wielder of the Red Spear who helps the righteous. With anklets ringing on Your holy feet and bells chiming. You arrive riding the peacock that dances to the music.
 
-**Calling the Lord for Protection:** Come with the Spear (Vel) in your hand to protect me. Come, come, Oh Lord of the Spear. Come, come, Oh Rider of the Peacock. Praised by Indra and the guardians of the eight directions. Come, come, Oh Lord with the mystic, powerful Vel. Come, nephew of Vishnu, come. Come, you who is loved by the daughter of the hunter clan (Valli). Come, Oh Lord with six faces. Come daily, Oh Lord who wears the holy ash. Come quickly, Oh Lord of the Silagiri hill.
+Calling the Lord for Protection: Come with the Spear (Vel) in your hand to protect me. Come, come, Oh Lord of the Spear. Come, come, Oh Rider of the Peacock. Praised by Indra and the guardians of the eight directions. Come, come, Oh Lord with the mystic, powerful Vel. Come, nephew of Vishnu, come. Come, you who is loved by the daughter of the hunter clan (Valli). Come, Oh Lord with six faces. Come daily, Oh Lord who wears the holy ash. Come quickly, Oh Lord of the Silagiri hill.
 
 <blockquote>
                         Saravana Bavanaar Saduthiyil Varuha<br/>
@@ -84,9 +84,9 @@ Below is the complete hymn with English transliteration and a verse-by-verse mea
                         Nilai Petrenmun Nithamum Olirum
                     </blockquote>
 
-**The Mystic Mantras:** Oh Lord Saravanabava, come instantly. (Chanting of the mystic seed syllables 'Ra', 'Ri', 'Du' invoking the Lord's vibration). Salutations to the brave warrior, Saravanabava.
+The Mystic Mantras: Oh Lord Saravanabava, come instantly. (Chanting of the mystic seed syllables 'Ra', 'Ri', 'Du' invoking the Lord's vibration). Salutations to the brave warrior, Saravanabava.
 
-**The Armor (Protecting the Body):** Come, destroyer of the demons (Asuras). In the hands of the young Lord who rules me, shine the twelve weapons and the goad. Shine the twelve wide, graceful eyes. Come quickly to save me, Oh Lord of the Vel. (Chanting of mystic syllables 'Sau', 'Kili' for life protection). Let me be established in Your light forever.
+The Armor (Protecting the Body): Come, destroyer of the demons (Asuras). In the hands of the young Lord who rules me, shine the twelve weapons and the goad. Shine the twelve wide, graceful eyes. Come quickly to save me, Oh Lord of the Vel. (Chanting of mystic syllables 'Sau', 'Kili' for life protection). Let me be established in Your light forever.
 
 <blockquote>
                         Shanmuhan Neeyum Thaniyoli Yovvum<br/>
@@ -136,7 +136,7 @@ With anklets sounding on your holy feet. (Chanting of rhythmic dance syllables d
                         Adiyen Vathanam Azhahuvel Kaaka
                     </blockquote>
 
-**Direct Plea for Protection:** Rush, rush to the front, Oh Lord Muruga. Oh Lord of the hills who rules me. Grant your son the boons I desire with happiness. You who enjoys the playful divine forms. I hold your holy feet as my only certainty. Place your feet on my head to bless me. Protect the life within my life, Oh Lord. Protect this child with your twelve eyes. Let the Beautiful Vel protect my face.
+Direct Plea for Protection: Rush, rush to the front, Oh Lord Muruga. Oh Lord of the hills who rules me. Grant your son the boons I desire with happiness. You who enjoys the playful divine forms. I hold your holy feet as my only certainty. Place your feet on my head to bless me. Protect the life within my life, Oh Lord. Protect this child with your twelve eyes. Let the Beautiful Vel protect my face.
 
 <blockquote>
                         Podipunai Netriyaip Punithavel Kaaka<br/>
@@ -151,7 +151,7 @@ With anklets sounding on your holy feet. (Chanting of rhythmic dance syllables d
                         Maarbai Irathna Vadivel Kaaka
                     </blockquote>
 
-**Anatomy Protection (Head to Toe):** Let the Holy Vel protect my ash-smeared forehead. Let the Ray-like Vel protect my two eyes. Let the Lord of the Vel protect my ears. Let the Good Vel protect my nostrils. Let the Great Vel protect my mouth. Let the Sharp Vel protect my thirty-two teeth. Let the Red Vel protect my tongue. Let the Ray-like Vel protect my cheeks. Let the Sweet Vel protect my neck. Let the Gem-studded Vel protect my chest.
+Anatomy Protection (Head to Toe): Let the Holy Vel protect my ash-smeared forehead. Let the Ray-like Vel protect my two eyes. Let the Lord of the Vel protect my ears. Let the Good Vel protect my nostrils. Let the Great Vel protect my mouth. Let the Sharp Vel protect my thirty-two teeth. Let the Red Vel protect my tongue. Let the Ray-like Vel protect my cheeks. Let the Sweet Vel protect my neck. Let the Gem-studded Vel protect my chest.
 
 <blockquote>
                         Serila Mulaimaar Thiruvel Kaaka<br/>
@@ -196,7 +196,7 @@ Let the Strong Vel protect my rectum. Let the Wide Vel protect my thighs. Let th
                         Thaakka Thaakka Thadaiyara Thaakka
                     </blockquote>
 
-**Protection in Time and Space:** Let the Vel always be in front to protect me. Whenever I speak or move. Come instantly, Oh Golden Vel, to protect me. Protect me during the day, Oh Diamond Vel. Protect me in the darkness of night, Oh Fire-like Vel. Protect me against the God of Death and during all watches of the day. Remove delays and protect me, Oh Clever Vel. Protect, protect, Oh Golden Vel. Look, look, and protect me in a second. Attack, attack, and remove my obstacles without fail.
+Protection in Time and Space: Let the Vel always be in front to protect me. Whenever I speak or move. Come instantly, Oh Golden Vel, to protect me. Protect me during the day, Oh Diamond Vel. Protect me in the darkness of night, Oh Fire-like Vel. Protect me against the God of Death and during all watches of the day. Remove delays and protect me, Oh Clever Vel. Protect, protect, Oh Golden Vel. Look, look, and protect me in a second. Attack, attack, and remove my obstacles without fail.
 
 <blockquote>
                         Paarka Paarka Paavam Podipada<br/>
@@ -211,7 +211,7 @@ Let the Strong Vel protect my rectum. Let the Wide Vel protect my thighs. Let th
                         Yellilum Iruttilum Yethirpadum Mannarum
                     </blockquote>
 
-**Destruction of Evil and Black Magic:** As you look at them, let my sins turn to dust. Let witchcraft and great enemies vanish. Let powerful demons and spirits of the sky flee. Let the trouble-causing spirits and graveyard ghouls scatter. Let fire-breathing ghosts and deceiving spirits run away. Let all evil spells, mantras, and black magic buried in the house fade away. Let them all disappear upon seeing me (your devotee). Let enemies tremble and retreat when they see me. Let deceivers come and bow down to me. Let the messengers of Death be terrified if they see me.
+Destruction of Evil and Black Magic: As you look at them, let my sins turn to dust. Let witchcraft and great enemies vanish. Let powerful demons and spirits of the sky flee. Let the trouble-causing spirits and graveyard ghouls scatter. Let fire-breathing ghosts and deceiving spirits run away. Let all evil spells, mantras, and black magic buried in the house fade away. Let them all disappear upon seeing me (your devotee). Let enemies tremble and retreat when they see me. Let deceivers come and bow down to me. Let the messengers of Death be terrified if they see me.
 
 <blockquote>
                         Kana Pusai Kollum Kaaliyodu Anaivarum<br/>
@@ -261,7 +261,7 @@ Bind them, break them, destroy them. Pierce through all obstacles with power. Bu
                         Yeliyum Karadiyum Inithodarnthu Oda
                     </blockquote>
 
-**Protection from Wild Animals:** Let the Vel burn like the sun's fire and chase them. Let the Vel fly and scare them away. Let tigers, foxes, wolves, rats, and bears run away in fear. Let all wild creatures flee in terror.
+Protection from Wild Animals: Let the Vel burn like the sun's fire and chase them. Let the Vel fly and scare them away. Let tigers, foxes, wolves, rats, and bears run away in fear. Let all wild creatures flee in terror.
 
 <blockquote>
                         Thelum Paambum Seyyaan Pooraan<br/>
@@ -272,7 +272,7 @@ Bind them, break them, destroy them. Pierce through all obstacles with power. Bu
                         Vaatham Sayithiyam Valippu Pitham
                     </blockquote>
 
-**Protection from Poison and Disease:** Let scorpions, snakes, and centipedes flee. Let their severe poisons come down and leave the body immediately. Let swelling, joint pain, headaches, paralysis, and bile disorders disappear. Let ulcers, colic, skin diseases, and bile problems vanish.
+Protection from Poison and Disease: Let scorpions, snakes, and centipedes flee. Let their severe poisons come down and leave the body immediately. Let swelling, joint pain, headaches, paralysis, and bile disorders disappear. Let ulcers, colic, skin diseases, and bile problems vanish.
 
 <blockquote>
                         Soolai Sayam Kunmam Sokku Sirangu<br/>
@@ -297,9 +297,9 @@ Let arthritis, respiratory diseases, bloating, and headaches cease. Let constipa
                         Arithiru Maruhaa Amaraa Pathiyai
                     </blockquote>
 
-**Social Harmony and Relationships:** Let the fourteen worlds be my kin. Let men and women be favorable to me. Let the kings and rulers be pleased with me.
+Social Harmony and Relationships: Let the fourteen worlds be my kin. Let men and women be favorable to me. Let the kings and rulers be pleased with me.
 
-**Phala Sruti (Conclusion and Benefits):** I praise your holy name, Oh Saravanabava. You who released the Devas from their hard imprisonment. Oh Kanda, Oh Guha, Oh Lord of the Ray-like Vel. You who destroyed the demon Idumban, Oh Sweet Vel Muruga.
+Phala Sruti (Conclusion and Benefits): I praise your holy name, Oh Saravanabava. You who released the Devas from their hard imprisonment. Oh Kanda, Oh Guha, Oh Lord of the Ray-like Vel. You who destroyed the demon Idumban, Oh Sweet Vel Muruga.
 
 <blockquote>
                         Kaathu Thevarkal Kadum Sirai Viduthaay<br/>
@@ -421,23 +421,23 @@ Jai Khyapa Parampara. May Lord Murugan protect all seekers on the path of Dharma
 
 ### Benefits of Chanting Kanda Sasti Kavacam
 
-- **Protection from All Directions:** The kavacam acts as a spiritual armor, protecting the devotee from physical, mental, and spiritual harm.
-- **Removal of Obstacles:** Chanting this hymn destroys negative energies, black magic, and obstacles in one's path.
-- **Health and Prosperity:** It brings health, wealth, and good fortune to the devoted reciter.
-- **Victory Over Enemies:** The kavacam grants courage and strength to overcome adversaries and inner demons.
-- **Spiritual Growth:** Regular recitation deepens one's spiritual practice and devotion to Lord Murugan.
-- **Fulfillment of Desires:** Those who recite with sincere faith receive the blessings of the deity and fulfillment of their righteous desires.
+- Protection from All Directions: The kavacam acts as a spiritual armor, protecting the devotee from physical, mental, and spiritual harm.
+- Removal of Obstacles: Chanting this hymn destroys negative energies, black magic, and obstacles in one's path.
+- Health and Prosperity: It brings health, wealth, and good fortune to the devoted reciter.
+- Victory Over Enemies: The kavacam grants courage and strength to overcome adversaries and inner demons.
+- Spiritual Growth: Regular recitation deepens one's spiritual practice and devotion to Lord Murugan.
+- Fulfillment of Desires: Those who recite with sincere faith receive the blessings of the deity and fulfillment of their righteous desires.
 
 ### How to Recite Kanda Sasti Kavacam
-**Best Time:** Any time of day or night. Use the Youtube Video to sing along or just read along. Slowly you will get the rhythm and meaning.
+Best Time: Any time of day or night. Use the Youtube Video to sing along or just read along. Slowly you will get the rhythm and meaning.
 
-**Frequency:** As you wish. Your bhava (devotion) is what matters most.
+Frequency: As you wish. Your bhava (devotion) is what matters most.
 
-**Place:** Anywhere. There is no place on this loka where this cannot be recited.
+Place: Anywhere. There is no place on this loka where this cannot be recited.
 
-**Attitude:** Total surrender to Lord Murugan. As long as you are aligned to Dharma he answers your call. Ask forgiveness like a child, don't dwell on mistakes.
+Attitude: Total surrender to Lord Murugan. As long as you are aligned to Dharma he answers your call. Ask forgiveness like a child, don't dwell on mistakes.
 
-**Jai Canda Bhairava. Jai Khyapa Parampara.**
+Jai Canda Bhairava. Jai Khyapa Parampara.
 
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">

@@ -17,7 +17,7 @@ tags:
   - Shakti
 ---
 
-*Om Shri GuruBhyo Namah. Jai Khyapa Parampara.*
+Om Shri GuruBhyo Namah. Jai Khyapa Parampara.
 
 Thank you Ma Adya for permitting me to post this. You sent me here again with amnesia. Please forgive any mistakes ever made, will be made (you are trikaldarshi nothing is hidden from you) and unlock thy potential to sing your glory again with the tools of this age.
 
@@ -73,7 +73,7 @@ pretakoṭisamāyukte kālikāyai namo'stute ॥8॥
 kṛpāmayi hare mātaḥ sarvāśāparipūrite ।<br/>
 varade bhogade mokṣe kālikāyai namo'stute ॥9॥
 
-*ityuttaratantrārgatamaṃ śrīkālītāṇḍavastotraṃ sampūrṇam*
+ityuttaratantrārgatamaṃ śrīkālītāṇḍavastotraṃ sampūrṇam
 
 </div>
 
@@ -223,19 +223,19 @@ The final verse is my favorite. It is a beautiful summation of her role as the c
 
 <hr style="border:0;border-top:1px solid var(--border-gold);margin:2rem 0;"/>
 <h2>Conclusion</h2>
-*ityuttaratantrārgatamaṃ śrīkālītāṇḍavastotraṃ sampūrṇam*
+ityuttaratantrārgatamaṃ śrīkālītāṇḍavastotraṃ sampūrṇam
 
 Thus concludes the Shri Kali Tandava Stotram, which is part of the Uttara Tantra.
 
 To conclude this commentary, I want to acknowledge that a lot of these teachings are not my own; they are accumulated from reading and listening to others. I thank Bhairava for sending Praveen anna in my present life and I am eternally grateful to him for dropping the JDAM (phat) of jnana that broke through and reached my jivah/atman.
 
-*Om Shri Gurubhyo Namah. Jai Khyapa Parampara.*
+Om Shri Gurubhyo Namah. Jai Khyapa Parampara.
 
 If you find mistakes in this article, please understand I am a seeker and not a Sanskrit scholar. I have tried my best to make this easy to understand for all who seek Ma Kali. I have surrendered the outcome to her. Rest she will take care. I will keep writing when adesh comes. You will find most of my long form content on this website, shortform content i post on instagram as posts and reels.
 
 If you got this far. Kudos you are meant to read this. Jnana finds its way to those meant to get it. This is the rule of Prakriti. Especially for those in bhairava path (shakti vidya). We all stand on the shoulder of giants, there is no point in gate keeping. We can only become better by teaching and helping each other.
 
-**Jai Ma Adya Mahakali. Jai Kalabhairava. Jai Ma Krishna**
+Jai Ma Adya Mahakali. Jai Kalabhairava. Jai Ma Krishna
 
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">

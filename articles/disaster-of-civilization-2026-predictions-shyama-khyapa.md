@@ -95,7 +95,7 @@ In my opinion, 2026 is the "Year of War." War has already broken out in various 
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">We have started a series on the "Dashavatar" (Ten Avatars) on our other channel, *Gupta Sadhak Bamakhyapa 2.0*. In every episode, Gurudev ends with Hari Naam Sankirtan. The goal was to show that in Kali Yuga, there is nothing else. Please subscribe to that channel if you can. 
+<span class="speech-text" style="display:block;margin-top:0.5rem;">We have started a series on the "Dashavatar" (Ten Avatars) on our other channel, Gupta Sadhak Bamakhyapa 2.0. In every episode, Gurudev ends with Hari Naam Sankirtan. The goal was to show that in Kali Yuga, there is nothing else. Please subscribe to that channel if you can. 
 
 So, as Gurudev said, 2026 is almost here. We must take refuge in God and continue our work. 
 
@@ -116,7 +116,7 @@ Now, a small update on Gurudev’s health: He is not very well. He is currently 
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
 <span class="speech-text" style="display:block;margin-top:0.5rem;">I chant it every time. In Kali Yuga, there is no other way. When God leaves, only one thing remains to keep humanity alive: Hari Naam Sankirtan.
 
-*"Hare Krishna, Hare Krishna, Krishna Krishna, Hare Hare / Hare Rama, Hare Rama, Rama Rama, Hare Hare."*
+"Hare Krishna, Hare Krishna, Krishna Krishna, Hare Hare / Hare Rama, Hare Rama, Rama Rama, Hare Hare."
 
 Only the Name. Only the Holy Name. In this age of Kali, there is no other way, no other way, no other way.</span>
 </div>

@@ -24,7 +24,7 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
-**Interviewer:** Dear viewers, on this auspicious evening, I offer my respects to Mother Bama Tara of Shantikunj. Gurudev, I also offer my respects to you. We are starting today's episode. In your colorful life, there was a chapter where you were involved in the legal profession. We have received many comments, and we are also curious to know how you transitioned from that professional life into the spiritual world.
+Interviewer: Dear viewers, on this auspicious evening, I offer my respects to Mother Bama Tara of Shantikunj. Gurudev, I also offer my respects to you. We are starting today's episode. In your colorful life, there was a chapter where you were involved in the legal profession. We have received many comments, and we are also curious to know how you transitioned from that professional life into the spiritual world.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -36,7 +36,7 @@ Anyway, after visiting Pashupatinath, a change came over me. I returned with the
 
 After returning, having lost that money, I was sitting in my office one day. A very wealthy man, Mr. Shubol Ghosh from Champahati, came to see me. I used to handle his legal paperwork—income tax, sales tax, ESI, provident fund; I managed everything for his factory.
 
-**Interviewer:** So, you were an income tax lawyer?
+Interviewer: So, you were an income tax lawyer?
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -50,7 +50,7 @@ We went there, and for some reason, I felt the urge to go to the cremation pyre.
 
 After that vision, my mind was troubled. It felt so real, as if someone was speaking right next to me. From that day on, I started letting go of my assistants and my business. I even had a factory, which I abandoned.
 
-**Interviewer:** So, were you doing business alongside your legal practice?
+Interviewer: So, were you doing business alongside your legal practice?
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -68,7 +68,7 @@ Eventually, I became completely absorbed in it. I left my office entirely. I tol
 
 That office room was such that no one wanted to go there alone. My assistants used to tell me they felt someone watching them or heard footsteps. The office was right above the market.
 
-**Interviewer:** How did you find such a secluded place in the middle of a market? It seems supernatural.
+Interviewer: How did you find such a secluded place in the middle of a market? It seems supernatural.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -76,7 +76,7 @@ That office room was such that no one wanted to go there alone. My assistants us
 </div>
 
 
-**Interviewer:** You were a successful lawyer and businessman. When this downfall happened, didn't you want to go back?
+Interviewer: You were a successful lawyer and businessman. When this downfall happened, didn't you want to go back?
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -88,7 +88,7 @@ Then, there was a bit of a situation involving a human skull. I used to meditate
 
 On special days, I performed grand Yajnas (fire rituals). I had little contact with my family. My wife never questioned what I was doing or where I was going. It is because of her support that I found the Mother. She managed the household and raised our two children—a son and a daughter—during that time. I don't know how she did it.
 
-**Interviewer:** So, Guru-Ma (your wife) was your only support on your spiritual path and helped you reach this height.
+Interviewer: So, Guru-Ma (your wife) was your only support on your spiritual path and helped you reach this height.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -96,7 +96,7 @@ On special days, I performed grand Yajnas (fire rituals). I had little contact w
 </div>
 
 
-**Interviewer:** It seems everything happened before the Mother, even without your direct involvement.
+Interviewer: It seems everything happened before the Mother, even without your direct involvement.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -114,7 +114,7 @@ Later, my sons took over. They told me I didn't need to do anything and just to 
 
 I gave that previous room to those who were there before and told them to serve the Mother, while I moved permanently to the cremation ground. I haven't left it since. It is very dear to me; I can't sleep or eat if I don't come here. My family knows this. Someone brings me here on a scooter at 10:00 AM, takes me home at 1:30 PM, brings me back at 4:00 PM, and takes me home at 9:00 PM. This has been the routine for a long time. They know I can't stay away from the cremation ground. I don't like being at home; this feels like my true home.
 
-**Interviewer:** Today we learned about your journey from the legal profession to becoming a great devotee of the Mother. It was wonderful to hear.
+Interviewer: Today we learned about your journey from the legal profession to becoming a great devotee of the Mother. It was wonderful to hear.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -124,7 +124,7 @@ I gave that previous room to those who were there before and told them to serve 
 
 I don't look at worldly things much. I go home briefly for my wife's peace of mind; we are both getting older. I stay for half an hour or an hour and then return. There is always a crowd of people here, from morning to evening.
 
-**Interviewer:** Gurudev, thank you for sharing this. Respects to Mother Bama Tara and to you.
+Interviewer: Gurudev, thank you for sharing this. Respects to Mother Bama Tara and to you.
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>
@@ -132,7 +132,7 @@ I don't look at worldly things much. I go home briefly for my wife's peace of mi
 </div>
 
 
-**Interviewer:** Respects to the Mother and to you. We conclude today's episode. 
+Interviewer: Respects to the Mother and to you. We conclude today's episode. 
 
 <div class="speaker-block">
 <span class="speaker-name">Gurudev:</span>

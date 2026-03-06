@@ -37,12 +37,12 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Maharaj:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">I have covered almost all of South India—Karnataka, Tamil Nadu, Andhra Pradesh, and Kerala. I visited all four states. There, I met someone very special, Swami Shantananda Tirtha. He belongs to the Tirtha sect and has had the *Darshan* (divine vision) of Shirdi Sai Baba. He is a follower of Trinath and Dattatreya Muni.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">I have covered almost all of South India—Karnataka, Tamil Nadu, Andhra Pradesh, and Kerala. I visited all four states. There, I met someone very special, Swami Shantananda Tirtha. He belongs to the Tirtha sect and has had the Darshan (divine vision) of Shirdi Sai Baba. He is a follower of Trinath and Dattatreya Muni.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">You will find Dattatreya near Ma Reva (Narmada) as well. He is there. You can have his *Darshan* there. If you try, you can have the *Darshan* of the Mother at Narmada. It is such a place. I have traveled everywhere and finally reached Narmada and had the Mother’s *Darshan*. There’s no point in lying; I received her *Darshan*. I want to spend the rest of my life near Ma Reva. I am preparing to return to Narmada. I have performed penance there; everything is done. But now, the pull is only toward that place. It’s the best place. If you can, go to the banks of the Narmada.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">You will find Dattatreya near Ma Reva (Narmada) as well. He is there. You can have his Darshan there. If you try, you can have the Darshan of the Mother at Narmada. It is such a place. I have traveled everywhere and finally reached Narmada and had the Mother’s Darshan. There’s no point in lying; I received her Darshan. I want to spend the rest of my life near Ma Reva. I am preparing to return to Narmada. I have performed penance there; everything is done. But now, the pull is only toward that place. It’s the best place. If you can, go to the banks of the Narmada.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -52,17 +52,17 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Listen, there is a doctor there, he has a house. He asked me to come over. His house is very close to the Narmada. He has a car and can drop me off. My formal "Sadhana" (disciplined practice) is over; I don't have much left to do. Now, I am only occupied with *Kriya Yoga*. I have left behind traditional rituals and worship. Sometimes, I feel God gets annoyed with too much ritualism. But *Kriya Yoga* feels very good to me; I am always immersed in it. After doing so much, I realized *Kriya Yoga* is the best. And as for the place, the banks of the Narmada are the best. You will have a vision of God there.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Listen, there is a doctor there, he has a house. He asked me to come over. His house is very close to the Narmada. He has a car and can drop me off. My formal "Sadhana" (disciplined practice) is over; I don't have much left to do. Now, I am only occupied with Kriya Yoga. I have left behind traditional rituals and worship. Sometimes, I feel God gets annoyed with too much ritualism. But Kriya Yoga feels very good to me; I am always immersed in it. After doing so much, I realized Kriya Yoga is the best. And as for the place, the banks of the Narmada are the best. You will have a vision of God there.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Maharaj:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">You will see saints who are like God themselves. I am telling you what I have seen. Dattatreya is there in the "Mother’s Garden." I met a saint there who told me, "A person like you has come; just sit on a stone under any tree, and you will have the Mother’s *Darshan*." It was extraordinary. I sat there as he instructed, and in about half an hour, I had the vision. I realized the Mother still wanders there in the mornings and evenings. That place is not yet spoiled. You will also find Bhrigu Kund and the Saptarishis (Seven Sages).</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">You will see saints who are like God themselves. I am telling you what I have seen. Dattatreya is there in the "Mother’s Garden." I met a saint there who told me, "A person like you has come; just sit on a stone under any tree, and you will have the Mother’s Darshan." It was extraordinary. I sat there as he instructed, and in about half an hour, I had the vision. I realized the Mother still wanders there in the mornings and evenings. That place is not yet spoiled. You will also find Bhrigu Kund and the Saptarishis (Seven Sages).</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">These seven rishis haven’t died; they are still alive. They wander in various places. Hanumanji is there, Kripacharya is there, Ashwatthama is there—many are still alive. You might encounter them. They are spiritually thirsty and elevated. Many from the Mahabharata era, like Ashwatthama and Kripacharya, are still here. King Bali is there. They will remain until the end of this *Kalpa* (eon).</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">These seven rishis haven’t died; they are still alive. They wander in various places. Hanumanji is there, Kripacharya is there, Ashwatthama is there—many are still alive. You might encounter them. They are spiritually thirsty and elevated. Many from the Mahabharata era, like Ashwatthama and Kripacharya, are still here. King Bali is there. They will remain until the end of this Kalpa (eon).</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -72,7 +72,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Maharaj:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">"Shudra" doesn't just mean by birth; there are Shudras by temperament too. It’s the influence of the *Tamo Guna* (quality of darkness/ignorance) where falsehood prevails over truth. We see this in society every day. If you speak the truth, you become everyone's enemy; if you lie, you are liked.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">"Shudra" doesn't just mean by birth; there are Shudras by temperament too. It’s the influence of the Tamo Guna (quality of darkness/ignorance) where falsehood prevails over truth. We see this in society every day. If you speak the truth, you become everyone's enemy; if you lie, you are liked.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -92,7 +92,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Maharaj:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">It’s not easy to find. No one will tell you easily. In Gyan Ganj, saints are doing a specific *Kriya*—they want to see what is inside the sun, what it is made of. The great Mahatmas there, some 2,000 or 3,000 years old, are observing the sun. We say the sun is the soul. They are investigating why the sun sustains humans and plants. NASA has sent a probe to the sun, but the analytical power of a machine isn’t as advanced as human consciousness. A machine only analyzes elements and density. Our saints are trying to reach the "Sun-world" and understand the sun's power.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">It’s not easy to find. No one will tell you easily. In Gyan Ganj, saints are doing a specific Kriya—they want to see what is inside the sun, what it is made of. The great Mahatmas there, some 2,000 or 3,000 years old, are observing the sun. We say the sun is the soul. They are investigating why the sun sustains humans and plants. NASA has sent a probe to the sun, but the analytical power of a machine isn’t as advanced as human consciousness. A machine only analyzes elements and density. Our saints are trying to reach the "Sun-world" and understand the sun's power.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -132,7 +132,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">People want to buy God with money. They don't have time to sit with Him for five or ten days. They just pay, look, and leave. What will they get? Can anything be gained without *Sadhana*? They just take a couple of photos and leave. Now, even cameras are often banned.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">People want to buy God with money. They don't have time to sit with Him for five or ten days. They just pay, look, and leave. What will they get? Can anything be gained without Sadhana? They just take a couple of photos and leave. Now, even cameras are often banned.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -147,12 +147,12 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Maharaj:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">People have wealth, muscle power, and the support of priests (*Pandas*). They think they’ve achieved something by catching a glimpse of the deity. They’ve achieved nothing. I’ve seen it all and decided to just sit here and pray for the well-being of people. People are helpless and confused about where to go for peace.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">People have wealth, muscle power, and the support of priests (Pandas). They think they’ve achieved something by catching a glimpse of the deity. They’ve achieved nothing. I’ve seen it all and decided to just sit here and pray for the well-being of people. People are helpless and confused about where to go for peace.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Maharaj:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">The world needs "humanity." But where are the "humans"? There are a few in Gyan Ganj, but you won't get their Darshan easily. We don't have the merit (*Punya*) of previous births to meet such people. Still, I hope someone will appear. There is a sage there, thousands of years old, and Babaji Maharaj is there. Even Netaji Subhash Chandra Bose is said to be in such a place where one can find peace.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">The world needs "humanity." But where are the "humans"? There are a few in Gyan Ganj, but you won't get their Darshan easily. We don't have the merit (Punya) of previous births to meet such people. Still, I hope someone will appear. There is a sage there, thousands of years old, and Babaji Maharaj is there. Even Netaji Subhash Chandra Bose is said to be in such a place where one can find peace.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -177,12 +177,12 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, you have time. Go to Narmada. In Madhya Pradesh, there are many great saints, all devotees of Shiva. You will see many supernatural things there. They have a certain *Yogic* power. I’ve even seen them clap their hands and have food appear. There are many mysteries near the Amarkantak road.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, you have time. Go to Narmada. In Madhya Pradesh, there are many great saints, all devotees of Shiva. You will see many supernatural things there. They have a certain Yogic power. I’ve even seen them clap their hands and have food appear. There are many mysteries near the Amarkantak road.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">What is there to say? It’s all about the vision of God. At Bhrigu Kund, there is water on a high mountain. There’s a stone with water in it. Not everyone finds it. A Maharaj from Bharat Sevashram told me to first pray to Sage Bhrigu and then put my hand in the hole to find water. And I saw the water sparkling inside the stone. Legend says when Sage Bhrigu was meditating there, he asked the Mother for water. She told him, "I will enter your *Kamandalu* (water pot)." After his penance, the pot turned into stone, and that is where the water comes from.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">What is there to say? It’s all about the vision of God. At Bhrigu Kund, there is water on a high mountain. There’s a stone with water in it. Not everyone finds it. A Maharaj from Bharat Sevashram told me to first pray to Sage Bhrigu and then put my hand in the hole to find water. And I saw the water sparkling inside the stone. Legend says when Sage Bhrigu was meditating there, he asked the Mother for water. She told him, "I will enter your Kamandalu (water pot)." After his penance, the pot turned into stone, and that is where the water comes from.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

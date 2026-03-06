@@ -30,7 +30,7 @@ source: |
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="timestamp" style="color:var(--accent-color);font-family:monospace;font-size:0.9rem;display:block;margin-bottom:0.3rem;opacity:0.8;">00:00 - 00:25</span>
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Salutations, Gurudev. First, I greet all our friends. Friends, please subscribe to the YouTube channel *Guptasadhakshyamakhapa.com*. The more you subscribe, the better we will be able to present Gurudev’s wonderful videos to you.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Salutations, Gurudev. First, I greet all our friends. Friends, please subscribe to the YouTube channel Guptasadhakshyamakhapa.com. The more you subscribe, the better we will be able to present Gurudev’s wonderful videos to you.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -132,7 +132,7 @@ In the Mrityunjaya Yagna, we saw that when offerings (Hovi) are made, they are g
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="timestamp" style="color:var(--accent-color);font-family:monospace;font-size:0.9rem;display:block;margin-bottom:0.3rem;opacity:0.8;">12:01 - End</span>
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">*(Gurudev recites various Sanskrit Shlokas and Mantras dedicated to the divine and the sacrificial fire.)*</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">(Gurudev recites various Sanskrit Shlokas and Mantras dedicated to the divine and the sacrificial fire.)</span>
 </div>
 
 </div>

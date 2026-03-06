@@ -27,11 +27,11 @@ source: |
 <hr style="border:0;border-top:1px solid var(--border-gold);margin:2rem 0;"/>
 
 <h2>Introduction: Why Now?</h2>
-Today, after a great deal of contemplation, I have decided to speak about my Guru. I have kept his name *gupta* (hidden) for a very long time. I initially thought I should choose a very large platform for the first time I spoke his name. I have been invited to over 12 podcasts, ranging from those with 50,000 followers to those with over one crore followers, many known specifically for spiritual content.
+Today, after a great deal of contemplation, I have decided to speak about my Guru. I have kept his name gupta (hidden) for a very long time. I initially thought I should choose a very large platform for the first time I spoke his name. I have been invited to over 12 podcasts, ranging from those with 50,000 followers to those with over one crore followers, many known specifically for spiritual content.
 
 I thought that if there was one reason to go on a podcast, it would be to reveal my Guru's name for the first time. However, I received a clear message from Devi that there is no bigger channel for me to speak on than the one I currently occupy. Humbled and proud, I have decided to speak about my Guru, Shri Gupta Sadhak Shyama Khyapa, from the lineage of Shri Bama Khepa of Tarapith.
 
-I hope I can do justice to a man of his stature. To shed light on a *gupta sadhak* (a hidden practitioner) is a powerful and potentially dangerous task. Without her *kripa* (divine blessing), it cannot be done. This is why I call her the "darkness of light." You cannot cast light onto a shadow that is specifically kept as a shadow unless the Divine Mother wills it. Today, with his permission, I seek to shed that light.
+I hope I can do justice to a man of his stature. To shed light on a gupta sadhak (a hidden practitioner) is a powerful and potentially dangerous task. Without her kripa (divine blessing), it cannot be done. This is why I call her the "darkness of light." You cannot cast light onto a shadow that is specifically kept as a shadow unless the Divine Mother wills it. Today, with his permission, I seek to shed that light.
 
 <picture>
 <source srcset="/6r5ewiqha59g1.webp" type="image/webp"/>
@@ -96,7 +96,7 @@ My Guru has performed incredible feats:
 He carries an intense rage, characteristic of Bama Khepa. He cannot be bought. If you offered him money, he would throw it in your face.
 
 <h2>My Personal Connection: The Voice and the Puppy</h2>
-At age 23, I had a deep connection with a Rottweiler puppy. One night, torn with the desire to have this dog but facing family opposition, I heard a voice in my room say in Hindi, *"Soja"* (Sleep). I didn't question it and fell asleep.
+At age 23, I had a deep connection with a Rottweiler puppy. One night, torn with the desire to have this dog but facing family opposition, I heard a voice in my room say in Hindi, "Soja" (Sleep). I didn't question it and fell asleep.
 
 The next day, through a series of unlikely events, the puppy became mine, but I became homeless. I lived in a 600-square-foot house with nothing but a cot and my dog. Years later, when I finally met my Guru, I recognized his voice immediately. It was the same voice I had heard at 3:30 AM in my bedroom years prior.
 
@@ -113,7 +113,7 @@ To those who ask how to succeed in <strong>Shamshan Kali Sadhana</strong>: you m
 
 Shyama Khyapa is no longer <strong>gupta</strong>. His name will be known for the next 2,000 to 5,000 years. May the grace of Bama Khepa, through my Guru Baba Shyama Khyapa, bless all of you.
 
-**Jai Ma.**
+Jai Ma.
 
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
