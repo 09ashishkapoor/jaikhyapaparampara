@@ -10,4 +10,5 @@
 - articles/criticism-without-knowledge-a-fatal-karma-shyama-khyapas-warning.md
 - articles/dasha-mahavidya-the-ten-great-wisdoms-explained.md
 - articles/dharma-and-karma-the-eternal-laws-explained-by-shyama-khyapa.md
+- articles/did-gurudev-signal-a-second-disaster-in-2021-prophecies-of-shyama-khyapa.md
 
