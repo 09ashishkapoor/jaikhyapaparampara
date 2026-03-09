@@ -2,6 +2,15 @@
 <!-- This file is auto-maintained by the blog-converter agent. Do not edit manually. -->
 
 ## Completed Transcripts
+- markdownfiles_forblog/tobeprocessed/transcript_PiPe3iasCM8_batch.md → articles/goddess-durga-destroyer-distress-divine-mother-guru.md
+- markdownfiles_forblog/tobeprocessed/transcript_PI-lmfe6Ddw_batch.md → articles/ramprasad-sen-saint-mothers-grace-spiritual-journey.md
+- markdownfiles_forblog/tobeprocessed/transcript_No0W36s1_m8_batch.md → articles/afghanistan-taliban-hindu-persecution-geopolitics-guru.md
+- markdownfiles_forblog/tobeprocessed/transcript_NkfpcI6ASNE_batch.md → articles/why-saints-die-young-khanjanmas-guru-teaching.md
+- markdownfiles_forblog/tobeprocessed/transcript_Zy49RZAgR-U_batch.md → articles/power-saints-miracles-divine-relationship-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_QappRaRJ1UM_batch.md → articles/narmada-spiritual-seeking-divine-vision-kriya-yoga.md
+- markdownfiles_forblog/tobeprocessed/transcript_QAESEAiM4s8_batch.md → articles/tarapith-tara-bata-truth-brahmasila-spiritual-warning.md
+- markdownfiles_forblog/tobeprocessed/transcript_pIZQmWyhAXs_batch.md → articles/karma-life-role-destiny-good-bad-deeds.md
+- markdownfiles_forblog/tobeprocessed/transcript_lXTZ68S2xMg_english.md → articles/ramakrishna-paramahamsa-complete-spiritual-biography-guru-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_lZ-beblfPdw_batch.md → articles/nature-moon-orbit-change-prophecy-floods-earthquakes.md
 - markdownfiles_forblog/tobeprocessed/transcript_M8Q1KCz213w_batch.md → articles/mangalik-yoga-explained-true-astrology-mars-marriage.md
 - markdownfiles_forblog/tobeprocessed/transcript_mdbkfCeBmHg_batch.md → articles/end-of-world-geopolitics-nuclear-war-mahapralay.md
