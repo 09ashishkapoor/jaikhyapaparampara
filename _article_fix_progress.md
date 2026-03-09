@@ -35,3 +35,16 @@
 - articles/supernatural-guardian-rajpur-crematorium-shyama-khyapa.md
 - articles/the-bitterness-of-modern-society-marriage-family-and-tradition.md
 - articles/the-call-of-the-crematorium-42-years-of-crematorium-sadhana.md
+- articles/the-chariot-of-conscience-finding-peace-in-times-of-crisis.md
+- articles/the-coming-pandemic-and-its-remedy-by-shyama-khyapa.md
+- articles/the-decline-of-mankind-why-did-gurudev-shyama-khyapa-say-this.md
+- articles/the-greatness-of-tantra-practice-in-this-era-gurudev-shyama-khyapas-insights.md
+- articles/the-mystery-of-ambubachi-science-and-tantra-explained.md
+- articles/the-mystery-of-gyan-ganj-the-hidden-spiritual-kingdom.md
+- articles/the-mystery-of-tarapith-who-is-tara-bata-insights-by-guru-shyama-khyapa.md
+- articles/the-return-of-pagla-baba-from-kamakhya-a-spiritual-journey.md
+- articles/the-sacred-pilgrimage-to-reva-gurudev-s-narmada-parikrama.md
+- articles/the-strange-experiences-of-gangasagar-22-years-of-devotion.md
+- articles/the-watch-of-god-sins-virtues-and-the-internal-cctv.md
+- articles/the-world-of-nothingness-divine-insights-from-gurudev-shyama-khyapa.md
+- articles/what-did-gurudev-predict-about-delta-plus-spiritual-insights-on-the-covid-19-pandemic.md

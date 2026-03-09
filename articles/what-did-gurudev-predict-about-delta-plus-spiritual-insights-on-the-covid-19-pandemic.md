@@ -2,62 +2,101 @@
 layout: article
 title: "What did Gurudev Predict about Delta+? Spiritual Insights on the COVID-19 Pandemic"
 breadcrumbTitle: "Delta+ Predictions"
-description: "Gurudev Shyama Khyapa and technical expert Kaushik discuss the Delta Plus variant, vaccination efficacy, and spiritual rituals performed for world peace during the pandemic."
-keywords: "Gurudev Shyama Khyapa, Delta Plus Variant, COVID-19, Vaccination, Spiritual Rituals, Homa, Yajna, Pandemic Predictions, West Bengal COVID"
+description: "Guru Shyama Khyapa and Kaushik discuss the Delta Plus variant, vaccination efficacy, and the spiritual rituals performed for world peace during the pandemic."
+keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Delta Plus Variant, COVID-19, Vaccination, Spiritual Rituals, Homa, Yajna, Pandemic Predictions, West Bengal COVID"
 category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
-readingTime: 10
+readingTime: 18
 tags:
-- articles
-- COVID-19
-- Delta Plus
-- Gurudev Shyama Khyapa
-- Spiritual Insights
-- Pandemic
+  - articles
+  - Guru Baba Shyama Khyapa
+  - COVID-19
+  - Delta Plus
+  - Spiritual Insights
+  - Pandemic
+  - Gupta Sadhak Shyamakhyapa
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
-  <p><a href="https://www.youtube.com/watch?v=-jiMzPSIGr0" rel="noopener" style="color: var(--accent-bright); text-decoration: none; font-style: normal; font-size: 0.95rem; margin-top: 0.5rem; display: inline-block;" target="_blank">📺 Watch Original Bengali Video on YouTube</a></p>
+  <p><a href="https://www.youtube.com/watch?v=-jiMzPSIGr0" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
-Host (Prasanta): Pranam, Gurudev.
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Prasanta:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Pranam, Gurudev.</span>
+</div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
 <span class="speech-text" style="display:block;margin-top:0.5rem;">Pranam, son.</span>
 </div>
 
-Prasanta: Gurudev, in this evening hour, I start today's episode by paying my respects to Maa, Baba, and you. Dear viewers, today we have Gurudev and our technical expert Kaushik to discuss the current situation of COVID-19 and the future, specifically regarding the Delta Plus variant.
-
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">We have more or less passed the peak of the COVID wave. The cases are gradually decreasing. As a spiritual person, I am trying through spirituality to ensure this disease doesn't return. We are performing rituals like Homa and Yajna, just as sages did in the past. Honestly, I can now say with conviction that COVID is quite limited in West Bengal. It won't vanish completely, but there won't be massive damage.</span>
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Prasanta:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, in this evening hour, I start today's episode by paying my respects to Maa, Baba, and you. Dear viewers, as you can see on screen, next to Gurudev is our technical expert who is always with us. I must say he possesses a wealth of knowledge; he knows a lot. Today, he is sitting beside Gurudev as a disciple because both Gurudev and Kaushik will discuss the current situation of COVID-19 and what is to come in the future. Gurudev will speak, and Kaushik will share his insights as well. Gurudev, please begin.</span>
 </div>
 
-However, those who aren't following protocols—not sanitizing, not wearing masks—are the ones getting infected. Earlier, COVID was restricted, but with trains and buses running again, we must be careful. Now, the Delta variant is coming. Some see this as a commercial matter, a business. But Kaushik, what is the current situation? You have the data.
-
-Kaushik: Pranam, Gurudev. Regarding the COVID situation today, July 3rd, cases in West Bengal are around 1,422. While numbers decreased, they’ve seen a slight rise recently. Our biggest concern now is Delta Plus. So far, about 51 cases have been seen in India, mostly in Maharashtra, but also in Tamil Nadu, Kerala, and recently West Bengal.
-
-Delta Plus is said to be even more infectious than the original Delta variant, potentially infecting up to 12 people from a single person. Dr. Guleria from AIIMS mentioned it has developed significant "immune escape mechanisms," meaning it can bypass vaccine immunity. Furthermore, it might harm organs beyond just the lungs.
-
-Data shows that even with two doses of Covishield, immunity is at most 70%. People think they are 100% safe after one dose, but that's a misconception. If people remain indifferent, we might face a third wave.
-
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">I feel Delta Plus won't affect India as much. We will try to keep it limited through ritual fire and prayers. I don't think a third wave will have a huge effect because of vaccinations. However, people coming from abroad are dangerous; the government should focus on limiting entries.</span>
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">We have more or less passed the peak of the COVID wave. The cases are gradually decreasing and stabilizing. It has dropped below 1,500, and the death toll has significantly decreased, around 20–22 deaths. This is noteworthy for West Bengal. In India, it might be slightly higher, but out of 131 crore people, if it's 40,000–50,000, it becomes negligible. It is our great luck that we are moving past such a major disease in a large country like India. However, we have had to pay a heavy price; there has been much loss. The biggest loss is economic—we have fallen behind. Economy and education have suffered. One or two generations might be affected. But there's nothing we can do. As a spiritual person, I am trying through spirituality to ensure this disease doesn't return to this world. I am repeatedly praying to Maa. We are performing rituals like Homa and Yajna, just as sages did in the past.</span>
 </div>
 
-We are relying on God. We are praying for COVID to leave. We are performing rituals not for any individual, but for world peace and human well-being. I am peaceful knowing cases have decreased. But people must remain conscious—you can't trust this disease; it’s a treacherous one.
-
-To me, some of the panic seems like a rumor. A few cases might happen, but there’s no need to panic if we stay careful. We will continue our rituals to ensure Delta Plus doesn't spread in India.
-
-Prasanta: Dear viewers, you heard from Gurudev about the need for caution. Please stay alert and move one step closer to a COVID-free world. Pranam, Gurudev.
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">And we have seen results; it would be a lie to say otherwise. We have performed so many rituals specifically for COVID. Honestly, I can now say with conviction that COVID is quite limited in West Bengal. As days pass, it will decrease further. It won't vanish completely; some remnants will remain. But there won't be massive damage. Those who aren't following protocols—not sanitizing, not wearing masks, and unnecessarily entering crowds—are the ones getting infected. Those staying home aren't getting infected much. The infections are coming from those traveling by bus or train. Earlier, COVID was almost non-existent in South 24 Parganas, but suddenly it increased significantly. It was also high in North 24 Parganas, Howrah, and Kolkata. But now, with trains and many buses not running, we might be getting some relief. I can't say what will happen when they resume. However, COVID is now much more limited, and there's no reason for great concern. But the Delta variant is coming. Now, look, this is a commercial matter. This is a business matter. I doubt if such a huge business has occurred globally before. Much business has been done using this. Some say they suffered losses, couldn't go to the office, or earn money, but those who intended to make money using COVID have done so. Some people faced difficulties, while some clever people did a lot of business with COVID. Now, Kaushik, let me ask you: What is the current situation? You have the data at every moment.</span>
+</div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Kaushik:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Pranam, Gurudev. With your permission, I will speak today. I usually prefer staying behind the scenes, but since Gurudev asked, I am taking this liberty. First, regarding the COVID situation today, July 3rd, the status in West Bengal and India is as follows: In West Bengal, today's cases are 1,422, with 22 deaths. In the entire country, 44,141 active cases were registered today, with 738 deaths. The numbers had decreased significantly a few days ago but have recently seen a slight rise. Maharashtra was the hotspot earlier; now Kerala has taken its place. Almost 50% of infections are occurring in these two states. In terms of global death tolls, the USA is first, followed by Brazil, and India is currently third.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Kaushik:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">But our biggest concern now is Delta Plus. So far, there isn't enough research data on it, but until June 26th, about 51 cases of Delta Plus have been seen. Out of these, 50% are in Maharashtra, which is very scary because we know the original Delta variant also first spread from Maharashtra. There were 22 cases in Maharashtra alone. Besides that, there are 9 cases in Tamil Nadu, 7 in Madhya Pradesh, 3 in Kerala, and 2 each in Punjab and Gujarat. West Bengal has also started being affected. What we are seeing with Delta Plus is that its mutation is causing more harm. The first Delta variant infected 2 to 4 people, but the second wave Delta infected up to 8 people. Now, it's said that Delta Plus will be even more infectious, potentially infecting up to 12 people from a single person. This is the biggest concern.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Kaushik:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">When the Director of AIIMS, Dr. Guleria, was asked, he said: "It is more infectious, causes more deaths, and has developed significant immune escape mechanisms." This means it will infect more, cause more deaths, and has more ways to bypass the immunity we develop through vaccines. When the Director of AIIMS says this, it's a major concern because AIIMS oversees our country's medical framework. Another thing about Delta Plus is that it is said to harm organs. Earlier, it primarily harmed the lungs, but now it will significantly harm other organs, potentially rendering them non-functional. That is very frightening.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Kaushik:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Nowadays, people think that after one dose of the vaccine, they are safe and won't get COVID, so many are roaming without masks. Since cases have decreased, they've stopped using masks and sanitizers. Many such people are seen on the streets now. Earlier, 100% of people wore masks, but that has decreased. But data shows that Covishield—since most people in our country received Covishield—the first dose of Covishield provides only 33% immunity. This means it can save 1 out of 3 people. If someone takes both doses, the immunity is at most 70%. So, if people think they are safe after one dose, they are wrong. Even after two doses, 30 out of 100 people can still get COVID. This is very alarming, and people aren't understanding this yet.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Kaushik:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Since Delta Plus hasn't spread on a vast level yet, there isn't much data, and more research is needed. Scientists say it's not yet time to reach a final conclusion. But in the future, this could be a major concern. India has already witnessed how a bit of recklessness after the first wave led to the second wave, which took lakhs of lives. Fearing the same, everyone is saying we must ensure Delta Plus doesn't affect us. The loss we've already suffered is unimaginable; we don't want India to face that again. That's why scientists are sounding the alarm. The original Delta variant was named B.1.617.2, and this new Delta Plus is B.1.617.2.1. Scientists had predicted such mutations. If people remain indifferent, they might have to pay the price again. Gurudev, you know the spiritual aspect better; I can only provide the data. Please tell us what the future holds for India.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">I feel Delta Plus won't affect India as much. Based on what I know so far, I haven't yet decided on the specific actions to take against it. But we will try to keep it limited through ritual fire and prayers. From a spiritual standpoint, we have been doing this and are satisfied that COVID is decreasing and stabilizing. The death rate has dropped. We can't judge solely by this because it's like an enemy—you never know what form it will take. Scientists are saying the same—it's hard to suppress because its future forms are unpredictable. Currently, there are rumors about a third wave to make people more cautious. I don't think a third wave will have a huge effect on India because almost everyone is getting vaccinated. It won't be able to affect us much, though a few cases might occur.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">People coming from abroad are more dangerous; we've seen before how they brought the virus. So, I believe the government should focus on limiting people entering West Bengal from outside. Long-distance trains are running, and people are arriving at Howrah station. If we aren't careful now, the consequences will be dire. Although we are hopeful because of the vaccines, we can't be sure about this virus's character. Even scientists don't fully understand it. We are relying on God. We are praying for COVID to leave. We are performing rituals, prayers, and whatever is beneficial for global and human welfare. We aren't doing it for any individual but for world peace and human well-being. I am now very peaceful knowing COVID has decreased. Earlier, I used to get many calls from across India about infections, but those have stopped. This confirms that COVID has decreased. The numbers will keep dropping.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">But people must remain conscious. You can't trust this disease; it's a treacherous one. We must continue using sanitizers and masks, just as we did before. Otherwise, the danger is 100%. I hope Delta Plus won't have a major impact on India. To me, it seems like a bit of a rumor. A few cases might happen in a large country like India, but there's no need to panic. We should stay in our place, use masks and sanitizers, and avoid crowds as much as possible. COVID has taught us a great lesson. It was much needed in India, and people have learned from it. If everyone continues to be careful, it will decrease even more. While it's still present in Maharashtra, Gujarat, and Tamil Nadu, it has stabilized here. We will continue our rituals to ensure Delta Plus doesn't spread in India.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Prasanta:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Dear viewers, you heard from Gurudev about the need for caution regarding Delta Plus. You also saw the data, which you can check online yourselves. Please be cautious and encourage your neighbors to be cautious as well. Then we might be able to prevent the new wave, if it comes. We've learned our lesson; let's stay prepared so we don't face such losses again. Many have lost their loved ones, which is very sad. Keeping that in mind, let's stay alert and move one step closer to a COVID-free world. Pranam, Gurudev.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
 <span class="speech-text" style="display:block;margin-top:0.5rem;">Pranam.</span>
 </div>
 
