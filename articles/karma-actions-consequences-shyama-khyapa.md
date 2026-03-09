@@ -17,6 +17,9 @@ tags:
   - Gita
   - Valmiki
   - Spiritual Wisdom
+  - Guru Deva Shyama Khyapa
+  - Gupta Sadhak
+  - Khyapa Parampara
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=pIZQmWyhAXs" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>

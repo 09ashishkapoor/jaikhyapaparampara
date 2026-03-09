@@ -2,29 +2,35 @@
 layout: article
 title: "\"One Should Not See Stars in Amat\": Why Gurudev Warns Against Home Dash Mahavidya Puja"
 breadcrumbTitle: "Dash Mahavidya Warning"
-description: "Gurudev Shyama Khyapa explains the dangers of performing Dash Mahavidya rituals and keeping cremation ground items at home, sharing chilling real-life stories of consequences."
-keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shyama Khyapa, Dash Mahavidya, Tarapith, Mother Tara, Puja at Home, Cremation Ground, Spiritual Warning, Tantra Dangers, Gupta Sadhak Shyamakhyapa"
+description: "Guru Shyama Khyapa reveals dangerous consequences of performing Dash Mahavidya rituals at home and keeping cremation ground items, sharing real-life stories of families destroyed by these practices and warnings about proper worship."
+keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Dash Mahavidya, Tarapith, Mother Tara, Cremation Ground, Spiritual Warning, Tantra Dangers, Home Puja, Sacred Practice"
 category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
-readingTime: 14
+readingTime: 28
 tags:
-- articles
-- Guru Baba Shyama Khyapa
-- Dash Mahavidya
-- Tarapith
-- Mother Tara
-- Spiritual Safety
+  - Guru Deva Shyama Khyapa
+  - Gupta Sadhak
+  - Smashana Bhairava
+  - Khyapa Parampara
 source: |
-  <p><strong>Source:</strong> <a href="https://www.youtube.com/watch?v=oqcCVrePmpU" rel="noopener" style="color: var(--accent-bright); text-decoration: none; font-style: normal; font-size: 0.95rem; margin-top: 0.5rem; display: inline-block;" target="_blank">📺 Watch Original Bengali Video on YouTube</a></p>
-  <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
+  <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
+  <p><a href="https://www.youtube.com/watch?v=oqcCVrePmpU" rel="noopener" style="color: var(--accent-bright); text-decoration: none; font-style: normal; font-size: 0.95rem; margin-top: 0.5rem; display: inline-block;" target="_blank">📺 Watch Original Bengali Video on YouTube</a></p>
+  <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
+
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
-Interviewer: Gurudev, my respects to you.
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, my respects to you.</span>
+</div>
 
-Gurudev: Blessings, my son.
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Blessings, my son.</span>
+</div>
 
 Interviewer: In the last episode, you spoke about Mother Tara and some tragic events that have occurred in people's lives in relation to her. Do you have any specific examples from your own life—things you have seen with your own eyes—that you could share?
 

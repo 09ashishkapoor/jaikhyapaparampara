@@ -20,4 +20,9 @@
 - articles/gurudev-answers-questions-selected-by-devotees.md
 - articles/gurudevs-ban-why-not-to-visit-shantikunj-in-bhadra-month.md
 - articles/irony-of-fate-why-did-gurudev-say-this-to-the-secret-seeker-shyama-khyapa.md
+- articles/jyoti-darshan-the-vision-of-divine-light-explained.md
+- articles/karma-actions-consequences-shyama-khyapa.md
+- articles/miraculous-events-of-rajpur-mahashashan-a-sadhak-s-witness.md
+- articles/mystery-panchamundi-asana-five-skull-seat-shyama-khyapa.md
+- articles/narmada-parikrama-what-did-gurudev-say-by-shyama-khyapa.md
 
