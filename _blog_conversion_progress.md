@@ -32,3 +32,8 @@
 - markdownfiles_forblog/tobeprocessed/transcript_eOIIvCcnT8c.md → articles/prophecy-of-100-crore-deaths-gurudev-on-the-future-of-india-and-societal-decay.md (ALREADY EXISTS - skipped)
 - markdownfiles_forblog/tobeprocessed/transcript_c355alJeW_U.md → articles/dhyana-meditation-dharana-concentration-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_A2D-UT3B3TM.md → articles/mecca-kaaba-mahadev-shukracharya-story-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_AOWiLRspLcg.md → articles/healing-paralyzed-man-bangaon-mahamrityunjaya-ash-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_BYLf37b5-aw.md → articles/vijayadashami-message-durga-puja-covid-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_3qxGZlivw_Y.md → articles/god-of-fate-bhagya-vidhata-story-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_e3iFjIbZtKY.md → articles/covid-vaccine-discussion-doctor-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_-EUn5MojmD8.md → articles/keshavji-maharaj-rss-founder-hedgewar-shyama-khyapa.md

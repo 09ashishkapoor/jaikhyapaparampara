@@ -3,7 +3,7 @@
   <url>
     <loc>https://jaikhyapaparampara.com/</loc>
     
-    <lastmod>2026-03-09T19:04:00.000Z</lastmod>
+    <lastmod>2026-03-09T19:09:00.000Z</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -16,7 +16,7 @@
   <url>
     <loc>https://jaikhyapaparampara.com/articles/</loc>
     
-    <lastmod>2026-03-09T19:04:00.000Z</lastmod>
+    <lastmod>2026-03-09T19:09:00.000Z</lastmod>
     
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -49,6 +49,41 @@
   </url>
 
   <!-- Blog Articles -->
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/keshavji-maharaj-rss-founder-hedgewar-shyama-khyapa/</loc>
+    <lastmod>2026-03-09T19:09:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/covid-vaccine-discussion-doctor-shyama-khyapa/</loc>
+    <lastmod>2026-03-09T19:08:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/god-of-fate-bhagya-vidhata-story-shyama-khyapa/</loc>
+    <lastmod>2026-03-09T19:07:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/vijayadashami-message-durga-puja-covid-shyama-khyapa/</loc>
+    <lastmod>2026-03-09T19:06:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/healing-paralyzed-man-bangaon-mahamrityunjaya-ash-shyama-khyapa/</loc>
+    <lastmod>2026-03-09T19:05:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   
   <url>
     <loc>https://jaikhyapaparampara.com/articles/mecca-kaaba-mahadev-shukracharya-story-shyama-khyapa/</loc>
@@ -2201,6 +2236,33 @@
   
   
   <url>
+    <loc>https://jaikhyapaparampara.com/tags/vaccine/</loc>
+    <lastmod>2026-03-09T19:08:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/doctor/</loc>
+    <lastmod>2026-03-09T19:08:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/immunity/</loc>
+    <lastmod>2026-03-09T19:08:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://jaikhyapaparampara.com/tags/tantra/</loc>
     <lastmod>2025-12-27T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -3272,6 +3334,51 @@
   
   
   <url>
+    <loc>https://jaikhyapaparampara.com/tags/bhagya-vidhata/</loc>
+    <lastmod>2026-03-09T19:07:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/destiny/</loc>
+    <lastmod>2026-03-09T19:07:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/fate/</loc>
+    <lastmod>2026-03-05T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/setra-puja/</loc>
+    <lastmod>2026-03-09T19:07:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/brahma-shapa/</loc>
+    <lastmod>2026-03-09T19:07:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://jaikhyapaparampara.com/tags/kali/</loc>
     <lastmod>2025-12-25T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -3641,6 +3748,33 @@
   
   
   <url>
+    <loc>https://jaikhyapaparampara.com/tags/miracles/</loc>
+    <lastmod>2026-03-09T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/mahamrityunjaya/</loc>
+    <lastmod>2026-03-09T19:05:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/paralysis/</loc>
+    <lastmod>2026-03-09T19:05:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://jaikhyapaparampara.com/tags/sath-guru/</loc>
     <lastmod>2025-12-26T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -3822,15 +3956,6 @@
   
   <url>
     <loc>https://jaikhyapaparampara.com/tags/rajpur-mahashashan/</loc>
-    <lastmod>2026-03-05T00:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://jaikhyapaparampara.com/tags/fate/</loc>
     <lastmod>2026-03-05T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4290,6 +4415,42 @@
   
   <url>
     <loc>https://jaikhyapaparampara.com/tags/spirit-possession/</loc>
+    <lastmod>2026-03-06T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/keshavji-maharaj/</loc>
+    <lastmod>2026-03-09T19:09:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/dr-hedgewar/</loc>
+    <lastmod>2026-03-09T19:09:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/freedom-fighter/</loc>
+    <lastmod>2026-03-09T19:09:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/patriotism/</loc>
     <lastmod>2026-03-06T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5047,15 +5208,6 @@
   <url>
     <loc>https://jaikhyapaparampara.com/tags/saints/</loc>
     <lastmod>2026-03-05T00:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://jaikhyapaparampara.com/tags/miracles/</loc>
-    <lastmod>2026-03-09T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -6332,15 +6484,6 @@
   
   
   <url>
-    <loc>https://jaikhyapaparampara.com/tags/patriotism/</loc>
-    <lastmod>2026-03-06T00:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://jaikhyapaparampara.com/tags/indian-independence/</loc>
     <lastmod>2026-03-06T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -6982,6 +7125,33 @@
   <url>
     <loc>https://jaikhyapaparampara.com/tags/avatars/</loc>
     <lastmod>2026-03-05T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/vijayadashami/</loc>
+    <lastmod>2026-03-09T19:06:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/durga-puja/</loc>
+    <lastmod>2026-03-09T19:06:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/blessings/</loc>
+    <lastmod>2026-03-09T19:06:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
