@@ -48,3 +48,15 @@
 - articles/the-watch-of-god-sins-virtues-and-the-internal-cctv.md
 - articles/the-world-of-nothingness-divine-insights-from-gurudev-shyama-khyapa.md
 - articles/what-did-gurudev-predict-about-delta-plus-spiritual-insights-on-the-covid-19-pandemic.md
+- articles/what-is-the-search-for-truth-the-real-truth-by-shyama-khyapa.md
+- articles/what-is-tuktak-superstition-or-science-amazing-scientific-answer-from-gupta-sadhak-shyama-khyapa.md
+- articles/where-is-the-end-of-space-gurudev-shyama-khyapas-insights.md
+- articles/why-are-saints-born-for-a-short-time-by-shyama-khyapa.md
+- articles/why-dont-people-get-what-they-want-from-god-by-shyama-khyapa.md
+- articles/why-should-we-bear-sins-of-others-suffering-injustice-shyama-khyapa.md
+- articles/astra-vajra-spiritual-code-revolutionaries.md
+- articles/astrology-vs-astronomy-what-is-authentic-insights-from-guru-shyama-khyapa.md
+- articles/contemporary-spiritual-dilemmas-tattoos-predictions-transgender-devotion.md
+- articles/cosmic-cycles-covid-and-the-great-eclipse.md
+- articles/defeat-of-science-climate-and-ancient-viruses.md
+- articles/earth-quickening-rotation-shorter-days.md
