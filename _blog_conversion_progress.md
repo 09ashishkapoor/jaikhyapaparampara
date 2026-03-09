@@ -12,3 +12,5 @@
 - markdownfiles_forblog/tobeprocessed/transcript_P0OOydOSlLY_batch.md → articles/soul-mystery-afterlife-death-journey-reincarnation.md
 - markdownfiles_forblog/tobeprocessed/transcript_PI-lmfe6Ddw_batch.md → articles/ramprasad-sen-saint-who-felt-mothers-grace-unrequited-love.md
 - markdownfiles_forblog/tobeprocessed/transcript_PiPe3iasCM8_batch.md → articles/goddess-durga-destroyer-distress-maternal-grace-shiva-field.md
+- markdownfiles_forblog/processed/transcript__URPLEAXdG8_batch.md → articles/the-significance-of-shivaratri-guru-shyama-khyapa-on-rituals-and-devotion.md
+- markdownfiles_forblog/processed/transcript_P0OOydOSlLY_batch.md → articles/the-mystery-of-the-soul-and-life-after-death-guru-shyama-khyapas-perspective.md
