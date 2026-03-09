@@ -372,15 +372,45 @@ def main() -> None:
     # filter to only files not yet done
     pending_new = [p for p in pending if p.name not in done and not (PROCESSED_DIR / p.name).exists()]
 
+    # ─ detect duplicate video IDs within pending_new ─────────────────────────────────
+    # build a map of video ID → list of filenames for all pending files
+    pending_by_id = {}
+    for p in pending_new:
+        vid = extract_video_id_from_filename(p.name)
+        if vid:
+            if vid not in pending_by_id:
+                pending_by_id[vid] = []
+            pending_by_id[vid].append(p.name)
+
+    # flag any duplicate IDs within the pending batch
+    duplicates_in_pending = {vid: names for vid, names in pending_by_id.items() if len(names) > 1}
+    if duplicates_in_pending:
+        log.warning("[WARNING] Duplicate video IDs found in pending batch:")
+        for vid, names in duplicates_in_pending.items():
+            log.warning("   Video ID %s: %s", vid, ", ".join(names))
+        log.warning("   Only the FIRST occurrence of each duplicate ID will be processed.")
+        # filter pending_new to keep only first occurrence of each video ID
+        seen_ids = set()
+        pending_new_filtered = []
+        for p in pending_new:
+            vid = extract_video_id_from_filename(p.name)
+            if vid and vid in duplicates_in_pending:
+                if vid not in seen_ids:
+                    pending_new_filtered.append(p)
+                    seen_ids.add(vid)
+            else:
+                pending_new_filtered.append(p)
+        pending_new = pending_new_filtered
+
     log.info("=== Blog Converter — model: %s ===", GEMINI_MODEL)
     log.info("Pending: %d files  |  Already completed: %d  |  Video IDs indexed: %d",
              len(pending_new), len(done), len(video_id_index))
 
     if args.dry_run:
-        log.info("DRY RUN — files that would be processed:")
+        log.info("DRY RUN -- files that would be processed:")
         for p in pending_new:
             vid = extract_video_id_from_filename(p.name)
-            already = f" [ID {vid} → articles/{video_id_index[vid]}]" if vid in video_id_index else ""
+            already = f" [ID {vid} -> articles/{video_id_index[vid]}]" if vid in video_id_index else ""
             status = "SKIP" if already else "CONVERT"
             log.info("  [%s] %s%s", status, p.name, already)
         return
