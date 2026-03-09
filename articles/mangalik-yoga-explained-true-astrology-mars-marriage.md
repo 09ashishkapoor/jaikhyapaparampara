@@ -3,7 +3,7 @@ layout: article
 title: "Mangalik Yoga Explained: The Truth About Mars and Marriage—By Santanu Roy"
 breadcrumbTitle: "The Real Truth About Mangalik Yoga"
 description: "Santanu Roy debunks the commercial myth of Mangalik Yoga, explaining that Mars alone does not ruin marriages. Discover the actual astrological calculation behind conjugal life and compatibility."
-keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mangalik Yoga, Mars astrology, marriage astrology, 7th house, scientific astrology, Santanu Roy"
+keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mangalik Yoga, Mars astrology, Marriage astrology, 7th house, Scientific astrology, Santanu Roy, Dosha"
 category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09

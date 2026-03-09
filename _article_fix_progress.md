@@ -2,6 +2,46 @@
 <!-- This file is auto-maintained by the article-fixer agent. Do not edit manually. -->
 
 ## Completed Articles
+- articles/after-tarapeeth-this-is-shantikunj-secret-ascetic-shyamakshayapa-provides-information.md
+- articles/ambubachi-mothers-earth-menstrual-cycle-creation.md
+- articles/ants-grow-wings-taliban-afghanistan-hindu-persecution.md
+- articles/are-you-a-hindu-guru-shyama-khyapa-on-the-awakening-of-sanatan-dharma.md
+- articles/crematorium-bhairav-a-spiritual-dialogue-between-guru-shyama-khyapa-and-maharaj.md
+- articles/does-the-mother-of-the-earth-get-sick-guru-shyama-khyapa-explains.md
+- articles/duties-of-common-people-in-the-modern-age-guru-shyama-khyapas-prophecy.md
+- articles/end-of-world-geopolitics-nuclear-war-mahapralay.md
+- articles/gita-reading-at-gurudevs-house-the-path-of-yoga-and-mind-control.md
+- articles/goddess-durga-destroyer-distress-maternal-grace-shiva-field.md
+- articles/guru-shyama-khyapa-on-sadhus-robes-and-the-esoteric-meaning-of-tantra.md
+- articles/guru-shyama-khyapas-dire-warnings-world-war-3-famine-and-the-bhavishya-malika-prophecies.md
+- articles/gurudevs-faith-was-hurt-a-supernatural-event-at-shantikunj.md
+- articles/is-formal-worship-mandatory-guru-shyama-khyapa-on-rituals-nature-and-brahman.md
+- articles/kailash-and-manasarovar-darshan-secrets-of-the-five-peaks-revealed-by-guru-shyama-khyapa.md
+- articles/mangalik-yoga-explained-true-astrology-mars-marriage.md
+- articles/narmada-parikrama-mothers-protection-service.md
+- articles/nature-moon-orbit-change-prophecy-floods-earthquakes.md
+- articles/predictions-for-2021-guru-shyama-khyapas-warning-of-a-terrifying-year.md
+- articles/ramprasad-sen-saint-who-felt-mothers-grace-unrequited-love.md
+- articles/self-knowledge-atmagyan-who-am-i-guru-shyama-khyapa-on-the-path-to-truth.md
+- articles/shadow-of-unrest-guru-shyama-khyapa-on-nature-humanity-and-spiritual-decay.md
+- articles/solar-storms-and-the-end-of-an-era-guru-shyama-khyapas-2021-predictions.md
+- articles/soul-mystery-afterlife-death-journey-reincarnation.md
+- articles/the-33000-volts-of-divine-power-a-sadhaks-role-in-awakening-the-mother.md
+- articles/the-difference-between-a-sadhu-and-a-sadhak-guru-shyama-khyapa-explains.md
+- articles/the-earths-rotation-and-the-coming-pralaya-guru-shyama-khyapas-prophecy.md
+- articles/the-life-and-vedic-vision-of-balak-brahmachari-guru-shyama-khyapas-insights.md
+- articles/the-messenger-of-death-guru-shyama-khyapa-on-the-moons-shifting-orbit.md
+- articles/the-mystery-of-adya-shakti-and-the-truth-of-reincarnation-guru-shyama-khyapas-wisdom.md
+- articles/the-rigors-of-true-tantra-guru-shyama-khyapa-on-sadhana-gurus-and-resisting-temptation.md
+- articles/the-sacred-path-of-initiation-guru-shyama-khyapa-and-the-new-generation.md
+- articles/the-secrets-of-kaya-kalpa-and-gyanganj-guru-shyama-khyapa-on-immortality.md
+- articles/the-significance-of-shivaratri-guru-shyama-khyapa-on-rituals-and-devotion.md
+- articles/what-happens-to-the-soul-after-death-guru-shyama-khyapa-explains-the-journey-of-the-soul.md
+- articles/what-is-siddhi-guru-shyama-khyapa-explains-spiritual-realization.md
+- articles/who-walks-past-the-crematorium-emperor-guru-shyama-khyapa-and-robi-dom.md
+- articles/why-did-the-beggar-lord-say-this-guru-shyama-khyapa-on-ego-and-greed.md
+- articles/why-saints-die-young-khanjanmas-realization.md
+- articles/why-worldly-life-is-futile-guru-shyama-khyapa-on-the-great-cataclysm.md
 - articles/adhaar-adhikar-rights-capacity-guru-shyama-khyapa.md
 - articles/ants-grow-wings-and-die-secret-seeker-shyama-khyapa-and-dr-sujeeb-kar-on-afghanistan.md
 - articles/are-girls-still-untouchable-what-did-gurudev-shyama-khyapa-say.md
@@ -61,6 +101,9 @@
 - articles/defeat-of-science-climate-and-ancient-viruses.md
 - articles/earth-quickening-rotation-shorter-days.md
 - articles/eternal-guardian-hanuman-mahabharata-kali-yuga.md
+- articles/guru-shyama-khyapa-on-sadhus-robes-and-the-esoteric-meaning-of-tantra.md
+- articles/guru-shyama-khyapas-dire-warnings-world-war-3-famine-and-the-bhavishya-malika-prophecies.md
+- articles/gurudevs-faith-was-hurt-a-supernatural-event-at-shantikunj.md
 - articles/food-and-fate-diet-and-devotion.md
 - articles/from-law-to-liberation-the-spiritual-journey-of-shyama-khyapa.md
 - articles/how-to-recognize-a-sath-guru-eight-markers-of-purity.md
@@ -94,7 +137,7 @@
 - articles/the-sinking-peaks-gurudev-on-rudraprayag-ancient-weapons-and-the-coming-cataclysm.md
 - articles/why-divorce-happens-and-reasons-for-infertility-astrological-insights-by-guru-shyama-khyapa.md
 - articles/terrifying-beauty-of-mother-kali-esoteric-insights.md
-- articles/prophecy-of-100-crore-deaths-gurudev-on-the-future-of-india-and-societal-decay.md
-- articles/radiant-life-of-mother-anandamayi-nirmala-to-mother-of-universe.md
-- articles/the-supreme-guide-gurudev-on-the-greatness-and-glory-of-bhagavad-gita.md
 - articles/terrifying-beauty-of-mother-kali-esoteric-insights.md
+- articles/after-tarapeeth-this-is-shantikunj-secret-ascetic-shyamakshayapa-provides-information.md
+- articles/ambubachi-mothers-earth-menstrual-cycle-creation.md
+- articles/ants-grow-wings-taliban-afghanistan-hindu-persecution.md

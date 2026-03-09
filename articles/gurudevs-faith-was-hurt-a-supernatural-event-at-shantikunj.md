@@ -3,7 +3,7 @@ layout: article
 title: "Gurudev's Faith Was Hurt? A Supernatural Event at Shantikunj"
 breadcrumbTitle: "Gurudev's Faith Was Hurt"
 description: "A devotee experiences a profound trance during initiation at Shantikunj. Guru Shyama Khyapa discusses the scientific perspective on spiritual trances, the power of Ganges water, and the mysterious balance sheet between a seeker and the Goddess."
-keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Shantikunj, Diksha, Spiritual Trance, Supernatural Events, Ganges Water, Khyapa Parampara"
+keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shantikunj, Diksha, Spiritual Trance, Supernatural Events, Ganges Water, Initiation, Mother Divine"
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09

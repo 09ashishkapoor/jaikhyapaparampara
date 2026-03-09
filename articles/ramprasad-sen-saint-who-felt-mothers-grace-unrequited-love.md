@@ -3,7 +3,7 @@ layout: article
 title: "Sadhak Ramprasad Sen: The Saint Who Never Saw Mother Yet Felt Her Touch"
 breadcrumbTitle: "Ramprasad Sen Spiritual Life"
 description: "Guru Shyama Khyapa recounts the remarkable life of Sadhak Ramprasad Sen, the 18th-century Tantric saint and devotional poet who spent his life yearning for Mother Kali while expressing his spiritual struggle through transformative songs."
-keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ramprasad Sen, saint, Kali devotion, Tantra, Bengali saint"
+keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ramprasad Sen, Saint, Kali Devotion, Tantra, Bengali Saint"
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09

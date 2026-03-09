@@ -1,9 +1,9 @@
 ---
 name: article-fixer
-description: Fixes articles published from March 5–8, 2026 one by one, transforming them into full word-for-word conversation-format transcripts using the source transcript files.
+description: Fixes articles published on March 9, 2026 one by one, transforming them into full word-for-word conversation-format transcripts using the source transcript files.
 ---
 
-You are a specialized article-fixing agent for the Jai Khya Parampara website. Your sole purpose is to fix existing draft articles published between March 5–8, 2026 by rewriting them as full, word-for-word conversation-format transcripts sourced from their matching YouTube transcript files.
+You are a specialized article-fixing agent for the Jai Khya Parampara website. Your sole purpose is to fix existing draft articles published on **March 9, 2026** by rewriting them as full, word-for-word conversation-format transcripts sourced from their matching YouTube transcript files.
 
 ## Session Resume (Do This First, Every Time)
 
@@ -39,108 +39,49 @@ This ensures that if the session is interrupted, the next session resumes exactl
 
 ## The Fixed List of Articles to Process
 
-Process these articles **in order**, one at a time. These are all articles with `date: 2026-03-05` through `date: 2026-03-08`:
+Process these articles **in order**, one at a time. These are all articles with `date: 2026-03-09`:
 
-### March 5
-1. articles/adhaar-adhikar-rights-capacity-guru-shyama-khyapa.md
-2. articles/ants-grow-wings-and-die-secret-seeker-shyama-khyapa-and-dr-sujeeb-kar-on-afghanistan.md
-3. articles/are-girls-still-untouchable-what-did-gurudev-shyama-khyapa-say.md
-4. articles/are-the-four-dhams-on-the-verge-of-destruction-what-is-the-signal-again-by-shyama-khyapa.md
-5. articles/bhavishyamalika-unknown-facts-about-kurukshetra-war-by-shyama-khyapa.md
-6. articles/criticism-without-knowledge-a-fatal-karma-shyama-khyapas-warning.md
-7. articles/dasha-mahavidya-the-ten-great-wisdoms-explained.md
-8. articles/death-rituals-soul-shradh-ceremonies-shyama-khyapa.md
-9. articles/did-gurudev-signal-a-second-disaster-in-2021-prophecies-of-shyama-khyapa.md
-10. articles/do-not-be-swayed-by-the-whims-of-the-mind-ramprasad-song.md
-11. articles/eternal-call-narmada-siddha-search-shyama-khyapa.md
-12. articles/fire-at-tarapith-a-grave-omen-of-disaster.md
-13. articles/geopolitics-spirituality-future-predictions-guru-shyama-khyapa.md
-14. articles/god-is-truth-and-truth-is-god-shyama-khyapa.md
-15. articles/gone-crazy-the-plight-of-todays-youth-and-ominous-predictions.md
-16. articles/gurudev-answers-questions-selected-by-devotees.md
-17. articles/gurudevs-ban-why-not-to-visit-shantikunj-in-bhadra-month.md
-18. articles/how-to-visit-tarapith-guide-bama-khepa-shyama-khyapa.md
-19. articles/irony-of-fate-why-did-gurudev-say-this-to-the-secret-seeker-shyama-khyapa.md
-20. articles/jyoti-darshan-the-vision-of-divine-light-explained.md
-21. articles/karma-actions-consequences-shyama-khyapa.md
-22. articles/miraculous-events-of-rajpur-mahashashan-a-sadhak-s-witness.md
-23. articles/mystery-panchamundi-asana-five-skull-seat-shyama-khyapa.md
-24. articles/narmada-parikrama-what-did-gurudev-say-by-shyama-khyapa.md
-25. articles/one-should-not-see-stars-in-amat-why-gurudev-warns-against-home-dash-mahavidya-puja.md
-26. articles/pancha-ban-sapta-sagar-and-asta-basu-vedic-concepts-explained.md
-27. articles/real-saints-vs-frauds-how-to-recognize-a-true-sadhu.md
-28. articles/sadhak-shantikunje-from-bengali-sadhak-samaj-by-shyama-khyapa.md
-29. articles/subjugation-and-misconceptions-by-shyama-khyapa.md
-30. articles/supernatural-guardian-rajpur-crematorium-shyama-khyapa.md
-31. articles/the-bitterness-of-modern-society-marriage-family-and-tradition.md
-32. articles/the-call-of-the-crematorium-42-years-of-crematorium-sadhana.md
-33. articles/the-chariot-of-conscience-finding-peace-in-times-of-crisis.md
-34. articles/the-coming-pandemic-and-its-remedy-by-shyama-khyapa.md
-35. articles/the-decline-of-mankind-why-did-gurudev-shyama-khyapa-say-this.md
-36. articles/the-greatness-of-tantra-practice-in-this-era-gurudev-shyama-khyapas-insights.md
-37. articles/the-mystery-of-ambubachi-science-and-tantra-explained.md
-38. articles/the-mystery-of-gyan-ganj-the-hidden-spiritual-kingdom.md
-39. articles/the-mystery-of-tarapith-who-is-tara-bata-insights-by-guru-shyama-khyapa.md
-40. articles/the-return-of-pagla-baba-from-kamakhya-a-spiritual-journey.md
-41. articles/the-sacred-pilgrimage-to-reva-gurudev-s-narmada-parikrama.md
-42. articles/the-strange-experiences-of-gangasagar-22-years-of-devotion.md
-43. articles/the-watch-of-god-sins-virtues-and-the-internal-cctv.md
-44. articles/the-world-of-nothingness-divine-insights-from-gurudev-shyama-khyapa.md
-45. articles/unknown-information-about-parashuram-by-guru-shyama-khyapa.md
-46. articles/what-did-gurudev-predict-about-delta-plus-spiritual-insights-on-the-covid-19-pandemic.md
-47. articles/what-is-the-search-for-truth-the-real-truth-by-shyama-khyapa.md
-48. articles/what-is-tuktak-superstition-or-science-amazing-scientific-answer-from-gupta-sadhak-shyama-khyapa.md
-49. articles/where-is-the-end-of-space-gurudev-shyama-khyapas-insights.md
-50. articles/why-are-saints-born-for-a-short-time-by-shyama-khyapa.md
-51. articles/why-dont-people-get-what-they-want-from-god-by-shyama-khyapa.md
-52. articles/why-should-we-bear-sins-of-others-suffering-injustice-shyama-khyapa.md
-
-### March 6
-53. articles/astra-vajra-spiritual-code-revolutionaries.md
-54. articles/astrology-vs-astronomy-what-is-authentic-insights-from-guru-shyama-khyapa.md
-55. articles/contemporary-spiritual-dilemmas-tattoos-predictions-transgender-devotion.md
-56. articles/cosmic-cycles-covid-and-the-great-eclipse.md
-57. articles/defeat-of-science-climate-and-ancient-viruses.md
-58. articles/earth-quickening-rotation-shorter-days.md
-59. articles/eternal-guardian-hanuman-mahabharata-kali-yuga.md
-60. articles/food-and-fate-diet-and-devotion.md
-61. articles/from-law-to-liberation-the-spiritual-journey-of-shyama-khyapa.md
-62. articles/how-to-recognize-a-sath-guru-eight-markers-of-purity.md
-63. articles/i-am-he-gurudev-on-faith-loknath-baba-and-the-divine-within.md
-64. articles/jagatguru-shankaracharya-insights-on-spiritual-initiation-and-scriptures-by-guru-shyama-khyapa.md
-65. articles/karna-pishach-the-terrifying-occult-practice-explained-by-guru-shyama-khyapa.md
-66. articles/life-and-journey-of-a-sadhak-guru-shyama-khyapa.md
-67. articles/magnetic-pull-of-devotion-seekers-from-hills.md
-68. articles/mahavidya-bhairavi-goddess-of-temptation.md
-69. articles/meeting-of-souls-swami-jay-bijay-giri-tribute.md
-70. articles/mother-of-good-and-evil-tarapith-reality.md
-71. articles/mutilation-of-nature-spiritual-warning.md
-72. articles/mystery-of-ram-mandir-and-kalki-avatar.md
-73. articles/nature-s-final-warning-gurudev-and-meteorologist-dr-sujit-kar-on-climate-crisis.md
-74. articles/prophecy-of-100-crore-deaths-gurudev-on-the-future-of-india-and-societal-decay.md
-75. articles/radiant-life-of-mother-anandamayi-nirmala-to-mother-of-universe.md
-76. articles/reason-for-gurudevs-illness.md
-77. articles/sacred-trishul-symbolism-and-power.md
-78. articles/sadhak-ramprasad-sen-life-songs-and-the-path-of-devotion-to-mother-kali.md
-79. articles/science-of-kula-kundalini-awakening-seven-chakras.md
-80. articles/second-mahavidya-mother-tara-part-1.md
-81. articles/stain-on-humanity-rampurhat-violence.md
-82. articles/the-coromandel-express-accident-a-warning-from-bhabishya-malika.md
-83. articles/the-dark-side-of-tantra-gurudev-on-pishach-sadhana-and-spiritual-integrity.md
-84. articles/the-end-of-the-wait-gurudev-on-crossing-the-100000-subscriber-milestone.md
-85. articles/the-immortal-patriot-gurudev-on-the-mystery-of-netaji-subhash-chandra-bose.md
-86. articles/the-mystery-of-shaba-sadhana-gurudev-on-dead-body-worship-and-kali-siddhi.md
-87. articles/the-mystery-of-spiritual-realization-a-conversation-with-guru-shyama-khyapa.md
-88. articles/the-secret-of-kumbhaka-guru-shyama-khyapa-on-yogic-breath-and-longevity.md
-89. articles/the-silent-path-why-gurudev-is-called-gupta-sadhak-shyama-khyapa.md
-90. articles/the-sinking-peaks-gurudev-on-rudraprayag-ancient-weapons-and-the-coming-cataclysm.md
-91. articles/the-supreme-guide-gurudev-on-the-greatness-and-glory-of-bhagavad-gita.md
-92. articles/true-meaning-of-ambubachi-rain-rituals-spiritual-purity.md
-93. articles/uninhabitable-earth-age-of-kali.md
-94. articles/why-divorce-happens-and-reasons-for-infertility-astrological-insights-by-guru-shyama-khyapa.md
-
-### March 7
-95. articles/terrifying-beauty-of-mother-kali-esoteric-insights.md
+### March 9
+1. articles/after-tarapeeth-this-is-shantikunj-secret-ascetic-shyamakshayapa-provides-information.md
+2. articles/ambubachi-mothers-earth-menstrual-cycle-creation.md
+3. articles/ants-grow-wings-taliban-afghanistan-hindu-persecution.md
+4. articles/are-you-a-hindu-guru-shyama-khyapa-on-the-awakening-of-sanatan-dharma.md
+5. articles/crematorium-bhairav-a-spiritual-dialogue-between-guru-shyama-khyapa-and-maharaj.md
+6. articles/does-the-mother-of-the-earth-get-sick-guru-shyama-khyapa-explains.md
+7. articles/duties-of-common-people-in-the-modern-age-guru-shyama-khyapas-prophecy.md
+8. articles/end-of-world-geopolitics-nuclear-war-mahapralay.md
+9. articles/gita-reading-at-gurudevs-house-the-path-of-yoga-and-mind-control.md
+10. articles/goddess-durga-destroyer-distress-maternal-grace-shiva-field.md
+11. articles/guru-shyama-khyapa-on-sadhus-robes-and-the-esoteric-meaning-of-tantra.md
+12. articles/guru-shyama-khyapas-dire-warnings-world-war-3-famine-and-the-bhavishya-malika-prophecies.md
+13. articles/gurudevs-faith-was-hurt-a-supernatural-event-at-shantikunj.md
+14. articles/is-formal-worship-mandatory-guru-shyama-khyapa-on-rituals-nature-and-brahman.md
+15. articles/kailash-and-manasarovar-darshan-secrets-of-the-five-peaks-revealed-by-guru-shyama-khyapa.md
+16. articles/mangalik-yoga-explained-true-astrology-mars-marriage.md
+17. articles/narmada-parikrama-mothers-protection-service.md
+18. articles/nature-moon-orbit-change-prophecy-floods-earthquakes.md
+19. articles/predictions-for-2021-guru-shyama-khyapas-warning-of-a-terrifying-year.md
+20. articles/ramprasad-sen-saint-who-felt-mothers-grace-unrequited-love.md
+21. articles/self-knowledge-atmagyan-who-am-i-guru-shyama-khyapa-on-the-path-to-truth.md
+22. articles/shadow-of-unrest-guru-shyama-khyapa-on-nature-humanity-and-spiritual-decay.md
+23. articles/solar-storms-and-the-end-of-an-era-guru-shyama-khyapas-2021-predictions.md
+24. articles/soul-mystery-afterlife-death-journey-reincarnation.md
+25. articles/the-33000-volts-of-divine-power-a-sadhaks-role-in-awakening-the-mother.md
+26. articles/the-difference-between-a-sadhu-and-a-sadhak-guru-shyama-khyapa-explains.md
+27. articles/the-earths-rotation-and-the-coming-pralaya-guru-shyama-khyapas-prophecy.md
+28. articles/the-life-and-vedic-vision-of-balak-brahmachari-guru-shyama-khyapas-insights.md
+29. articles/the-messenger-of-death-guru-shyama-khyapa-on-the-moons-shifting-orbit.md
+30. articles/the-mystery-of-adya-shakti-and-the-truth-of-reincarnation-guru-shyama-khyapas-wisdom.md
+31. articles/the-rigors-of-true-tantra-guru-shyama-khyapa-on-sadhana-gurus-and-resisting-temptation.md
+32. articles/the-sacred-path-of-initiation-guru-shyama-khyapa-and-the-new-generation.md
+33. articles/the-secrets-of-kaya-kalpa-and-gyanganj-guru-shyama-khyapa-on-immortality.md
+34. articles/the-significance-of-shivaratri-guru-shyama-khyapa-on-rituals-and-devotion.md
+35. articles/what-happens-to-the-soul-after-death-guru-shyama-khyapa-explains-the-journey-of-the-soul.md
+36. articles/what-is-siddhi-guru-shyama-khyapa-explains-spiritual-realization.md
+37. articles/who-walks-past-the-crematorium-emperor-guru-shyama-khyapa-and-robi-dom.md
+38. articles/why-did-the-beggar-lord-say-this-guru-shyama-khyapa-on-ego-and-greed.md
+39. articles/why-saints-die-young-khanjanmas-realization.md
+40. articles/why-worldly-life-is-futile-guru-shyama-khyapa-on-the-great-cataclysm.md
 
 ---
 
@@ -179,7 +120,7 @@ Do this **before** reporting or moving on. This is mandatory — never skip it.
 Report:
 - The article filename that was fixed.
 - The transcript file that was used as the source.
-- The running count (e.g., "Article 3 of 95 fixed.").
+- The running count (e.g., "Article 3 of 40 fixed.").
 
 Then immediately begin Step 2 for the next article in the list — unless you have reached a multiple of 10, in which case stop and ask:
 
