@@ -3,14 +3,16 @@ layout: article
 title: "The Law of Karma: Understanding Our Actions and Consequences"
 breadcrumbTitle: "Law of Karma"
 description: "Gurudev Shyama Khyapa explains the profound logic of Karma, Varna, and personal responsibility, drawing wisdom from the Gita and the story of Valmiki."
-keywords: "Karma, Law of Karma, Gurudev Shyama Khyapa, Gita, Varna, Valmiki, Ratnakar, Good and Bad Deeds, Spiritual India, Gupta Sadhak Shyama Khapa"
+keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Karma, Law of Karma, Gita, Varna, Valmiki, Ratnakar, Good and Bad Deeds, Spiritual India"
 category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
-readingTime: 10
+readingTime: 20
 tags:
   - articles
   - Guru Baba Shyama Khyapa
+  - Gupta Sadhak Shyamakhyapa
+  - Smashana Bhairava
   - Karma
   - Gita
   - Valmiki
@@ -18,12 +20,14 @@ tags:
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=pIZQmWyhAXs" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
-  <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
+  <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
-<div class="speaker-block">
-<span class="speaker-name">Host:</span>
-<span class="speech-text">Salutations, Gurudev.</span>
+<div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Devotee:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Salutations, Gurudev.</span>
 </div>
 
 <div class="speaker-block">

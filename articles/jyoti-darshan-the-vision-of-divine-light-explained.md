@@ -3,11 +3,11 @@ layout: article
 title: "Jyoti Darshan: The Vision of Divine Light Explained"
 breadcrumbTitle: "Jyoti Darshan"
 description: "Guru Baba Shyama Khyapa discusses the scientific and spiritual aspects of Jyoti Darshan, the vision of divine light, and its connection to spiritual practices and world peace."
-keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Shyama Khyapa, Jyoti Darshan, Divine Light, Spiritual Practices, Subtle Body, Homa, World Peace"
+keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jyoti Darshan, Divine Light, Spiritual Practices, Subtle Body, Homa, World Peace, Gupta Sadhak Shyamakhyapa"
 category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
-readingTime: 4
+readingTime: 18
 tags:
 - articles
 - Guru Baba Shyama Khyapa

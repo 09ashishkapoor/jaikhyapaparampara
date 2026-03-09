@@ -3,11 +3,11 @@ layout: article
 title: "The Mystery of Panchamundi Asana: The Five Skull Seat of Power"
 breadcrumbTitle: "Panchamundi Asana"
 description: "Gupta Sadhak Shyama Khyapa explains the esoteric significance, composition, and awakening process of the Panchamundi Asana (five-skull seat) in Tantric practice."
-keywords: "Panchamundi Asana, Five Skull Seat, Tantra, Shyama Khyapa, Kamakhya, Shava Sadhana, Spiritual Power, Kundalini, Ramprasad, Krishnananda Agambagish"
+keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Panchamundi Asana, Five Skull Seat, Tantra, Kamakhya, Shava Sadhana, Spiritual Power, Kundalini, Ramprasad, Krishnananda Agambagish, Gupta Sadhak Shyamakhyapa"
 category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
-readingTime: 5
+readingTime: 16
 tags:
 - articles
 - Guru Baba Shyama Khyapa

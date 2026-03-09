@@ -3,7 +3,7 @@ layout: article
 title: "Miraculous Events of Rajpur Mahashashan: A Sadhak's Witness"
 breadcrumbTitle: "Rajpur Crematorium Miracles"
 description: "Gurudev Shyama Khyapa recounts supernatural events at Rajpur Mahashashan, including saving a child's life through spiritual roots and meeting famous personalities like Annadashankar Ray."
-keywords: "Gurudev Shyama Khyapa, Rajpur Mahashashan, Supernatural Miracles, Annadashankar Ray, Nabaneeta Dev Sen, Jyoti Basu, Spiritual Practice, Mahamrityunjay Yagya"
+keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Rajpur Mahashashan, Supernatural Miracles, Annadashankar Ray, Nabaneeta Dev Sen, Jyoti Basu, Spiritual Practice, Mahamrityunjay Yagya, Gupta Sadhak Shyamakhyapa"
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05

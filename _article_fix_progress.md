@@ -19,4 +19,5 @@
 - articles/gone-crazy-the-plight-of-todays-youth-and-ominous-predictions.md
 - articles/gurudev-answers-questions-selected-by-devotees.md
 - articles/gurudevs-ban-why-not-to-visit-shantikunj-in-bhadra-month.md
+- articles/irony-of-fate-why-did-gurudev-say-this-to-the-secret-seeker-shyama-khyapa.md
 

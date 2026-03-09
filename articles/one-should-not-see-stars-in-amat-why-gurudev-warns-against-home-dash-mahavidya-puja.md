@@ -3,11 +3,11 @@ layout: article
 title: "\"One Should Not See Stars in Amat\": Why Gurudev Warns Against Home Dash Mahavidya Puja"
 breadcrumbTitle: "Dash Mahavidya Warning"
 description: "Gurudev Shyama Khyapa explains the dangers of performing Dash Mahavidya rituals and keeping cremation ground items at home, sharing chilling real-life stories of consequences."
-keywords: "Shyama Khyapa, Dash Mahavidya, Tarapith, Mother Tara, Puja at Home, Cremation Ground, Spiritual Warning, Gupta Sadhak, Tantra Dangers"
+keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shyama Khyapa, Dash Mahavidya, Tarapith, Mother Tara, Puja at Home, Cremation Ground, Spiritual Warning, Tantra Dangers, Gupta Sadhak Shyamakhyapa"
 category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
-readingTime: 6
+readingTime: 14
 tags:
 - articles
 - Guru Baba Shyama Khyapa
