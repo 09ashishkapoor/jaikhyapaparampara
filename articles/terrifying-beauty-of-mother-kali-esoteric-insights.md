@@ -7,7 +7,7 @@ keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Para
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-07
-readingTime: 34
+readingTime: 32
 tags:
 - articles
 - Guru Deva Shyama Khyapa
@@ -38,7 +38,7 @@ source: |
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru:</span>
 <span class="speech-text" style="display:block;margin-top:0.5rem;">Ayushman, baba, Ayushman.</span>
 </div>
 

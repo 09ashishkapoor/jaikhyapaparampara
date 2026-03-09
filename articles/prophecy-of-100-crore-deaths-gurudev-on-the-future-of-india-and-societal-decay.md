@@ -2,23 +2,25 @@
 layout: article
 title: "Prophecy of 100 Crore Deaths: Gurudev on the Future of India and Societal Decay"
 breadcrumbTitle: "Prophecy of 100 Crore Deaths"
-description: "Guru Baba Shyama Khyapa delivers a chilling prophecy about India's future, discussing the decline of youth, the breakdown of family values, and the coming crisis of hunger."
-keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Shyama Khyapa, Prophecy, India Future, Societal Decay, Youth Crisis, Women's Rights, Poverty, Hunger, 100 Crore Deaths"
+description: "Guru Shyama Khyapa delivers a chilling prophecy about India's future, discussing the decline of youth, the breakdown of family values, and the coming crisis of malnutrition and hunger. A full conversation between devotee and Guru on societal collapse."
+keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Prophecy, India Future, Societal Decay, Youth Crisis, Women, Tribal People, Poverty, Hunger, 100 Crore Deaths"
 category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
-readingTime: 6
+readingTime: 20
 tags:
-- articles
-- Guru Baba Shyama Khyapa
-- Prophecy
-- India
-- Societal Decay
-- Hunger
-- Youth
+  - articles
+  - Guru Shyama Khyapa
+  - Prophecy
+  - India
+  - Societal Decay
+  - Hunger
+  - Youth
+  - Gupta Sadhak
+  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
-  <p><a href="https://www.youtube.com/watch?v=eOIIvCcnT8c" rel="noopener" style="color: var(--accent-bright); text-decoration: none; font-style: normal; font-size: 0.95rem; margin-top: 0.5rem; display: inline-block;" target="_blank">📺 Watch Original Bengali Video on YouTube</a></p>
+  <p><a href="https://www.youtube.com/watch?v=eOIIvCcnT8c" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
@@ -26,54 +28,148 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Respectful greetings, Gurudev. Today, I want to hear from you regarding the issues we are facing today—specifically the current decline of humanity, the erosion of character, and the loss of human values. I’d also like to hear your thoughts on the future of today’s youth, women, and the indigenous and tribal people.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Respectful greetings, Gurudev.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Look, it has been 75 years since India gained independence. I am also 75 years old. We have seen different political eras, but in terms of real development, nothing has happened. Factories and companies started closing down one by one because of government policies. Actually, a blueprint for this was created a long time ago. Take the COVID situation—this was planned long ago. Without such an event, it wouldn't have been possible to dismiss people from their jobs or implement certain changes. People’s livelihoods were the main target.</span>
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Respectful greetings, my son. Speak.</span>
 </div>
-
-<h2>The Crisis of Modern Youth</h2>
-
-The youth of today have become isolated and disconnected from society. Some see no point in living and have turned to distractions like alcohol just to get by. On the other hand, another section has become deeply religious, feeling that only God can save them now. 
-
-When youth come to me—and 50 to 60 of them come every day—they tell me, "We don't know how to survive, we can't afford food, we have no jobs. Please do something." I tell them, "Look, I can't give you a job. Either join a political party, or go to the authorities and tell them about the situation. Or, become a monk; at least then you'll manage to get some food."
-
-The youth are completely confused. Many who want to return to a normal life have no money. I see families breaking apart because men can't provide. This is happening constantly. The youth are the backbone of the country, and their decline is causing great harm to India.
-
-<h2>The Breakdown of Family and Societal Values</h2>
-
-<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">If you talk about women, the situation has fallen even further. Families are breaking apart because economic demands aren't met. There is a lot of harassment and "ragging" of women. Even highly educated women come to me feeling anxious and cheated in relationships.</span>
-</div>
-
-In the past, there was a different time where women dedicated their lives to their husbands and families. Now, the talk is all about "freedom." But this freedom often leads to isolation. Men and women will prefer to live separately in the coming days; they won't want to live together. A man returns from work exhausted and can't "entertain" his wife. The wife feels her needs aren't met and might look elsewhere. This is becoming a major sign of societal decay.
-
-Men are becoming helpless. I see men whose wives left after marriage and took everything with them. I tell them I can cure a disease like cancer, but I can't solve these legal and relationship issues.
-
-<h2>A Chilling Prophecy: Hunger and Depopulation</h2>
-
-Society's decline has begun, and "development" is often a myth. The government shows a lot on paper, but the reality is different. People are living on hope, but the downward spiral has started.
-
-<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">I am making a prophecy: in the coming days, 100 crore (1 billion) people in India will suffer from extreme poverty and die of starvation. I am saying this based on my calculations. No one will be able to save them. People will snatch food from each other.</span>
-</div>
-
-Today, there are goods in the market, but look at the prices. It won't take long for basic food items to become unaffordable. It is said that there will be food in the country, but people will die because of poor distribution. 100 crore people will die of malnutrition and hunger. I am saying this with certainty. No matter which government comes to power, none of them will be able to do anything.
-
-Regarding the indigenous and tribal people, there is no one to truly look after them. They remain as they were. The government focuses on surface-level issues like roads and lights, but not on the root causes of poverty. India is in a downward spiral because the mindset of the people and the integrity of leaders are declining. As the poet Sukanta wrote: "Born in this country, all I received were kicks." We are being kicked in various ways, and the people will suffer as long as corruption prevails.
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, my respects to you.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Today, I want to hear from you—and you can even share a prophecy if you wish—regarding the issues we are facing today. Specifically, I'm referring to the current decline of humanity—the erosion of character and the loss of human values. I'd also like to hear your thoughts on the future of today's youth, the future of women, and the future of the indigenous and tribal people. If you could shed some light on these topics, we would gain a deeper understanding.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Look, it has been 75 years since India gained independence. I am also 75 years old. We have seen the eras of the Congress party, the CPM, and now the Trinamool Congress. We have witnessed these three periods, but in terms of real development, nothing has happened. The question of development doesn't even arise. Factories and companies started closing down one by one. Couldn't these companies have been kept open? But the government's policies were such that they couldn't stay open.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Actually, a blueprint for this was created a long time ago. Take this COVID situation—this was planned long ago. Without such an event, it wouldn't have been possible to dismiss people from their jobs or implement certain changes. People's livelihoods—the jobs that put food on their tables—were the main target. There are working-class people, farmers, and laborers who work hard to survive. Everyone works hard, no one is exempt, but in terms of development, as you asked, there has been none. On the contrary, a steady decline has begun. The government shows no concern, nor does it look into these matters. Its only priority is to protect its own seat of power.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">The youth of today have become isolated—disconnected from society. Some are asking, "What is the point of living?" and have turned to alcohol or other distractions just to get by. That has become their mindset. On the other hand, another section of youth has become deeply religious. Their view is that only God can save them now. So, the youth are divided into two groups: one that just wants to eat, drink, and live for the moment because they see no future, and another that is clinging to faith.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">When youth come to me—and 50 to 60 of them come every day—they tell me, "We don't know how to survive, we can't afford food, we have no jobs. Please do something." I tell them, "Look, I can't give you a job. Either join a political party, or go to the Chief Minister's house and tell her about the job situation. Or, become a monk; at least then you'll manage to get some food."</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">The youth are completely confused. They don't know what to do. Many who want to return to a normal life have no money. They might have families and children, but when I ask them if they drink, they say, "Yes, I drink. What else can I do? I have no other way. I can't provide for my family, my wife has left and gone back to her father's house." This is happening constantly, every single moment. Because they can't provide money, their wives are leaving.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">The youth are the backbone of the country, and their decline is causing great harm to India.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Are you blaming the government for this?</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">You can't blame the government in that way, but it is their job to provide employment and keep people engaged. They aren't able to do that. They lack a solid foundation or existence of their own. As a result, the common youth are joining political parties—some with TMC, some with BJP—but no real work is getting done. It's like showing a piece of bread to a dog but never letting it eat. That is the state of our society. Everything seems to be there, but nothing is actually available.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Many factories have closed. Not everyone can work as a mason or a laborer. There are certain types of work the youth are reluctant to do.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">You mean the educated youth?</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Almost everyone is educated now. About 80% of the youth have passed their secondary exams. Some couldn't continue their studies and are trying to find other ways to earn a living. Consequently, we see a rise in fraud. People are being misled and cheated. Some people come to me saying they had six lakh rupees in the bank, and someone promised to give them ten lakhs but took their money and disappeared. Many people come to me with such stories. I tell them, "Once the toothpaste is out of the tube, you can't put it back in. Consider that money gone." This is how things are going. Even the youth are resorting to fraud to take advantage of others.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">If you talk about women, they have fallen even further. Families are breaking apart because men cannot meet their demands. Women are looking for jobs, working for meager salaries like 2,000 or 3,000 rupees just to keep the household running or for personal expenses. But the consequences are dire. There is a lot of harassment and "ragging" of women. Highly educated women come to me saying, "I had a boyfriend for two or five years, but now he doesn't talk to me. Can you bring him back? I love him." Even after being educated, women feel they need a man. A man can survive alone—he can put on a loincloth and go to the Himalayas—but a woman feels the need for a man. In these cases, they are often being cheated. Someone stays with them for a month and then leaves for someone else. Women are very anxious about this.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">But Gurudev, we have seen many great women who dedicated their lives to their husbands and families without focusing on these things.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">That was a different time. Now, the talk is all about "freedom." The law and order system is also largely in favor of women, which has made things easier for them. They often threaten men with Section 498A (domestic violence laws) or getting them arrested. This is happening a lot. Thousands of men come to me with legal cases against them. I tell them I can cure a disease like cancer, but I can't solve these legal and relationship issues. People see me on YouTube and think I can bring people back together.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">This decline in society is something we must accept. And in the coming days, this divide will grow. Men and women will prefer to live separately; they won't want to live together. When a man returns from a factory or office, he is exhausted. He just wants to eat and sleep because he knows he has to leave again early the next morning. He can't "entertain" his wife. The wife, in turn, feels her needs aren't being met—biological needs. So, she might look elsewhere. This is becoming very common. A man works hard all day but can't keep his wife because he lacks the energy for a biological relationship. This is a major sign of societal decay.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">But Gurudev, many women have sacrificed their lives for their husbands' satisfaction.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">That time has passed. Now, the demand for freedom is paramount. "Freedom" now means "I will do whatever I want, and no one can say anything because the law is on my side." Men are becoming helpless. I see men whose wives left after the marriage and took everything with them. The humiliation they face is immense. This is happening on a large scale.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Society's decline has begun, and "development" is a myth. It's like a king saying "don't kill the deer," but the deer will be killed anyway by poachers. They say poverty will be eradicated, but people will remain poor. The government shows a lot on paper, but the reality is different. If the government announces tomorrow that they will give everyone four pieces of bread, people will rush for it. You can see the state of things from schemes like 'Swasthya Sathi' (health scheme); you can see where we stand. No one can say what the future holds. People are living on hope, but the decline has started.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">I am making a prophecy: in the coming days, 100 crore (1 billion) people in India will suffer from extreme poverty and die of starvation. I am saying this based on my calculations. No one will be able to save them. People will snatch food from each other. Today, there are goods in the market, but look at the prices—potatoes are 40-42 rupees a kilo. It won't take long for it to reach 100 rupees. The more things are hoarded in godowns, the worse it will get. It is said that there will be food in the country, but people will die because of poor distribution. 100 crore people will die of malnutrition and hunger. I am saying this with certainty. No matter which government comes to power—BJP, Congress, or TMC—none of them will be able to do anything.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">And what about the indigenous and tribal people?</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">There is no one to look after them. They remain as they were. Do you see any real improvement? They get a bit of water and electricity—but those are basic necessities. The government focuses on roads and lights, but not on the root issues. To earn money, there must be a system of work, like the 100-day work scheme (MGNREGA), but look at the corruption and hassle involved in that. What can I say? If the government is ineffective, we say "The King has no clothes." That is the state of the government. I am very worried about whether the government can sustain itself in the future.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Regardless of which party is in power, the issue is supply and demand. Demand is high, and supply is low, especially regarding food. Other things like washing machines, TVs, and ACs are for the wealthy, and they are a small percentage. India is in a downward spiral.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">So, the mindset of the people is also declining?</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Exactly. That is why there is no progress. As the poet Sukanta wrote: "Born in this country, all I received were kicks." We are being kicked in various ways. The people will suffer as long as the leaders and their associates are corrupt. If the "King" is weak or corrupt, the kingdom suffers.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Friends, you have heard Gurudev's perspective. You may agree or disagree with his views, but please consider them. Gurudev, my respects to you.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
 <span class="speech-text" style="display:block;margin-top:0.5rem;">Blessings to you, my son.</span>
 </div>
 
 </div>
+

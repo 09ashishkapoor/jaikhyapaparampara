@@ -94,3 +94,7 @@
 - articles/the-sinking-peaks-gurudev-on-rudraprayag-ancient-weapons-and-the-coming-cataclysm.md
 - articles/why-divorce-happens-and-reasons-for-infertility-astrological-insights-by-guru-shyama-khyapa.md
 - articles/terrifying-beauty-of-mother-kali-esoteric-insights.md
+- articles/prophecy-of-100-crore-deaths-gurudev-on-the-future-of-india-and-societal-decay.md
+- articles/radiant-life-of-mother-anandamayi-nirmala-to-mother-of-universe.md
+- articles/the-supreme-guide-gurudev-on-the-greatness-and-glory-of-bhagavad-gita.md
+- articles/terrifying-beauty-of-mother-kali-esoteric-insights.md
