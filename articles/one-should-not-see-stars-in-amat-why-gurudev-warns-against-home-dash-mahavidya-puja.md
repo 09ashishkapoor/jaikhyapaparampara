@@ -1,13 +1,13 @@
 ---
 layout: article
-title: "\"One Should Not See Stars in Amat\": Why Gurudev Warns Against Home Dash Mahavidya Puja"
+title: "One Should Not Perform Dash Mahavidya Puja at Home: Guru Shyama Khyapa's Warnings"
 breadcrumbTitle: "Dash Mahavidya Warning"
-description: "Guru Shyama Khyapa reveals dangerous consequences of performing Dash Mahavidya rituals at home and keeping cremation ground items, sharing real-life stories of families destroyed by these practices and warnings about proper worship."
+description: "Guru Shyama Khyapa reveals dangerous consequences of performing Dash Mahavidya rituals at home and keeping cremation ground items, sharing real-life stories of families destroyed by these practices and warnings about proper worship at Tarapith."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Dash Mahavidya, Tarapith, Mother Tara, Cremation Ground, Spiritual Warning, Tantra Dangers, Home Puja, Sacred Practice"
 category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
-readingTime: 28
+readingTime: 26
 tags:
   - Guru Deva Shyama Khyapa
   - Gupta Sadhak
@@ -15,10 +15,9 @@ tags:
   - Khyapa Parampara
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
-  <p><a href="https://www.youtube.com/watch?v=oqcCVrePmpU" rel="noopener" style="color: var(--accent-bright); text-decoration: none; font-style: normal; font-size: 0.95rem; margin-top: 0.5rem; display: inline-block;" target="_blank">📺 Watch Original Bengali Video on YouTube</a></p>
+  <p><a href="https://www.youtube.com/watch?v=oqcCVrePmpU" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
-
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
@@ -32,56 +31,157 @@ source: |
 <span class="speech-text" style="display:block;margin-top:0.5rem;">Blessings, my son.</span>
 </div>
 
-Interviewer: In the last episode, you spoke about Mother Tara and some tragic events that have occurred in people's lives in relation to her. Do you have any specific examples from your own life—things you have seen with your own eyes—that you could share?
+## Real-Life Examples of Dash Mahavidya Dangers
 
-Gurudev: Yes, I can share two or three. There are many, but I will tell you three. I was sitting here once when a gentleman arrived in a car. He said, “I have come from Uttarpara.” I asked, “Why have you come from so far?” He said, “You must come to my house; things are very bad. My son is bedridden, my wife is bedridden, and my daughter has passed away.” I said, “You’ve come now; when will I go and when will I return?” He insisted, “No matter how late it gets, I will drop you home.” 
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">In the last episode, you spoke about Mother Tara and some tragic events that have occurred in people's lives in relation to her. Do you have any specific examples from your own life—things you have seen with your own eyes—that you could share?</span>
+</div>
 
-So, I went. When I arrived, I saw a piece of burnt wood from a funeral pyre hanging above the door. Inside the house, there was a large picture of Mother Tara and a ritual pot. Everything was in disarray. The lady was bedridden and could barely speak, and the son was completely incapacitated. I sat down and asked for a cup of tea. After having tea and a cigarette, I asked him what had happened. 
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, I can share two or three. There are many, but I will tell you three. I was sitting here once when a gentleman arrived in a car. He said, "I have come from Uttarpara." I asked, "Why have you come from so far?" He said, "You must come to my house; things are very bad. My son is bedridden, my wife is bedridden, and my daughter has passed away." I said, "You've come now; when will I go and when will I return?" He insisted, "No matter how late it gets, I will drop you home."</span>
+</div>
 
-He said, “I go to Tarapith every Amavasya (new moon) and perform fire rituals (hom-yagya) through others.” I asked, “What is this wood?” He said, “Someone gave it to me from a funeral pyre and told me that keeping it in the house would be beneficial. So, I hung it up. And I worship this picture of Mother Tara.” I was shocked. I asked, “Why did you call me then? You go to Tarapith and perform rituals; continue doing that.” He said, “Everything is nearing its end now.” 
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">So, I went. When I arrived, I saw a piece of burnt wood from a funeral pyre hanging above the door. Inside the house, there was a large picture of Mother Tara and a ritual pot. Everything was in disarray. The lady was bedridden and could barely speak, and the son was completely incapacitated. I sat down and asked for a cup of tea. After having tea and a cigarette, I asked him what had happened.</span>
+</div>
 
-He told me a story about his 13-year-old daughter. One morning, he gave her 10 rupees to go to the shop. On the way, the girl found another 10-rupee note on the road. An old woman followed her, claiming the money was hers. The girl wouldn’t give it back, and the woman followed her all the way home. The father asked the girl if she had the items from the shop, and then the old woman arrived, saying, “Look, your daughter picked up my 10 rupees from the road.” The father scolded the girl and told her to give it back. The girl insisted she found it on the road and it wasn't the woman's. Finally, the father slapped her, took the money, and gave it to the old woman. The woman left. The father then went out, telling the girl to look after her mother and brother. In that short time, the girl hanged herself. 
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">He said, "I go to Tarapith every Amavasya (new moon) and perform fire rituals (hom-yagya) through others." I asked, "What is this wood?" He said, "Someone gave it to me from a funeral pyre and told me that keeping it in the house would be beneficial. So, I hung it up. And I worship this picture of Mother Tara." I was shocked. I asked, "Why did you call me then? You go to Tarapith and perform rituals; continue doing that." He said, "Everything is nearing its end now."</span>
+</div>
 
-Since then, the mother and son have been so ill they cannot get out of bed. I told them to remove the picture of Mother Tara and throw that wood into the Ganges. They lived right by the river in Uttarpara. I told them to give me the picture and 11 rupees. I took the picture—it was a beautiful one—and left. Fifteen to twenty days later, the man returned. He said everything was fine; his wife and son were healthy. He came to pay his respects. This is a true event from my life.
+## The Tragic Case of the Thirteen-Year-Old Daughter
 
-Interviewer: So, one should not perform Dash Mahavidya puja at home?
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">He told me a story about his 13-year-old daughter. One morning, he gave her 10 rupees to go to the shop. On the way, the girl found another 10-rupee note on the road. An old woman followed her, claiming the money was hers. The girl wouldn't give it back, and the woman followed her all the way home. The father asked the girl if she had the items from the shop, and then the old woman arrived, saying, "Look, your daughter picked up my 10 rupees from the road." The father scolded the girl and told her to give it back. The girl insisted she found it on the road and it wasn't the woman's. Finally, the father slapped her, took the money, and gave it to the old woman. The woman left. The father then went out, telling the girl to look after her mother and brother. In that short time, the girl hanged herself.</span>
+</div>
 
-Gurudev: Absolutely not. Under no circumstances. It will ruin the household.
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Since then, the mother and son have been so ill they cannot get out of bed. I told them to remove the picture of Mother Tara and throw that wood into the Ganges. They lived right by the river in Uttarpara. I told them to give me the picture and 11 rupees. I took the picture—it was a beautiful one—and left. Fifteen to twenty days later, the man returned. He said everything was fine; his wife and son were healthy. He came to pay his respects. This is a true event from my life.</span>
+</div>
 
-Interviewer: It seems that wood was the main issue.
+## Dash Mahavidya Puja Should Never Be Done at Home
 
-Gurudev: Yes, primarily that burnt wood from a human pyre. I saw it and fixed the situation. I had a friend named Uma who lived here. One day, his sister came to me and said Uma was in the hospital. I went and saw a large picture of Tara in their house. I learned that he went to Tarapith every new moon to offer prayers. He was a very successful LIC agent and had made a lot of money. But he had this obsession with going to Tarapith every new moon and performing rituals at the cremation ground. In the end, I couldn't save him; he passed away.
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">So, one should not perform Dash Mahavidya puja at home?</span>
+</div>
 
-Interviewer: Was there a similar situation in that house too?
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Absolutely not. Under no circumstances. It will ruin the household.</span>
+</div>
 
-Gurudev: Yes, the same thing. I also know a lady who goes to Tarapith every new moon and returns the same day. She doesn't perform fire rituals, just offers prayers. But about a week ago, her situation turned very bad. Her husband came to me and said, “Gurudev, please stop her. I’ve heard it’s not good to go every new moon.” She wouldn't listen. Now her son—her only child—is in such a state that they’ve come to me for help. I told them, “Go to Tarapith and tell the Mother. Why come to me?”
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">It seems that wood was the main issue.</span>
+</div>
 
-I once saw something horrific at Tarapith. People were taking small birds in cages, dipping them in ghee, and throwing them alive into the sacrificial fire. I cannot describe it—they would take a bird, dip it in ghee, and throw it into the fire. They killed about 30 or 35 birds like that. The man who did it eventually died. I saw it with my own eyes. He was someone I knew. Those who performed the ritual for him at Tarapith are now all paralyzed. 
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, primarily that burnt wood from a human pyre. I saw it and fixed the situation. I had a friend named Uma who lived here. One day, his sister came to me and said Uma was in the hospital. I went and saw a large picture of Tara in their house. I learned that he went to Tarapith every new moon to offer prayers. He was a very successful LIC agent and had made a lot of money. But he had this obsession with going to Tarapith every new moon and performing rituals at the cremation ground. In the end, I couldn't save him; he passed away.</span>
+</div>
 
-I tell everyone: her name is Tara; do not do anything evil there. The consequence is death. No matter what you do, she is Tara. You shouldn't be lighting these kinds of fires there. It is a sacred place where great sages have attained enlightenment. Every grain of sand there is like nectar to me. We do not perform such fire rituals there, and if we do, it is strictly according to the rules. Even then, I once performed a ritual for someone from Uttarakhand at the Smashan Bhairavi site. I didn't perform the ritual myself; I just guided him. Even so, Mother made me suffer for a month and a half afterward. I was very ill. I don't know what he was praying for, but when we perform rituals, it is only for world peace and human welfare. I am only just feeling better now after praying to the Mother.
+## Multiple Cases of the Same Pattern
 
-Interviewer: What is the reason for this?
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Was there a similar situation in that house too?</span>
+</div>
 
-Gurudev: I can't explain the exact reason, but Mother does not tolerate certain things there. I have seen it happen many times. I tell people not to visit on the new moon. Go on Shukla Ashtami (the eighth day of the bright lunar fortnight) instead. 
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, the same thing. I also know a lady who goes to Tarapith every new moon and returns the same day. She doesn't perform fire rituals, just offers prayers. But about a week ago, her situation turned very bad. Her husband came to me and said, "Gurudev, please stop her. I've heard it's not good to go every new moon." She wouldn't listen. Now her son—her only child—is in such a state that they've come to me for help. I told them, "Go to Tarapith and tell the Mother. Why come to me?"</span>
+</div>
 
-We also suggest that people stay and fast from the morning, and then at 3:00 PM, when the Mother is offered tea, she is in a very peaceful state. That is the time to go and tell her what is in your heart. She will listen. She doesn't want to hear anything in the middle of those massive crowds. When we go, we finish our prayers to Bamdev Baba in the morning and then visit the Mother at exactly 3:00 PM. She gives a wonderful darshan then, and there are fewer people. We usually go on a Wednesday or Thursday. 
+## The Horrific Incident at Tarapith
 
-I don't do anything at the cremation ground anymore. Even that one time I did it at Mundamalitala, I fell ill.
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">I once saw something horrific at Tarapith. People were taking small birds in cages, dipping them in ghee, and throwing them alive into the sacrificial fire. I cannot describe it—they would take a bird, dip it in ghee, and throw it into the fire. They killed about 30 or 35 birds like that. The man who did it eventually died. I saw it with my own eyes. He was someone I knew. Those who performed the ritual for him at Tarapith are now all paralyzed.</span>
+</div>
 
-Interviewer: Gurudev, you mentioned before that after visiting the Mother at Tarapith, she doesn't let you stay there?
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">I tell everyone: her name is Tara; do not do anything evil there. The consequence is death. No matter what you do, she is Tara. You shouldn't be lighting these kinds of fires there. It is a sacred place where great sages have attained enlightenment. Every grain of sand there is like nectar to me. We do not perform such fire rituals there, and if we do, it is strictly according to the rules. Even then, I once performed a ritual for someone from Uttarakhand at the Smashan Bhairavi site. I didn't perform the ritual myself; I just guided him. Even so, Mother made me suffer for a month and a half afterward. I was very ill. I don't know what he was praying for, but when we perform rituals, it is only for world peace and human welfare. I am only just feeling better now after praying to the Mother.</span>
+</div>
 
-Gurudev: Exactly. Once the prayers are done, something will happen that will force you to leave Tarapith. I have seen this happen to millions. It is an amazing thing. I stayed there for about 12 years and observed this. Once the puja is over, the Mother doesn't let you stay. Someone might get news from home that someone is ill, and they have to catch the next train. People say they will stay for seven days, and I tell them, \"Then don't perform the puja yet. The day you offer your prayers is the day you will have to leave.\" That is the rule of Mother Tara.
+## The Best Time to Visit Tarapith
 
-Interviewer: One more thing, Gurudev. We see you here at the Rajpur Smashan (cremation ground) in a certain way, but at Tarapith, you seem to be in a trance, as if in another world.
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">What is the reason for this?</span>
+</div>
 
-Gurudev: That's true. I love the rituals there. I visit Bapi’s place and pray to the Mother at Mundamalitala. I love that Goddess Kali. I show her affection, I even kiss the image. 
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">I can't explain the exact reason, but Mother does not tolerate certain things there. I have seen it happen many times. I tell people not to visit on the new moon. Go on Shukla Ashtami (the eighth day of the bright lunar fortnight) instead.</span>
+</div>
 
-Interviewer: Most people couldn't imagine doing that.
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">We also suggest that people stay and fast from the morning, and then at 3:00 PM, when the Mother is offered tea, she is in a very peaceful state. That is the time to go and tell her what is in your heart. She will listen. She doesn't want to hear anything in the middle of those massive crowds. When we go, we finish our prayers to Bamdev Baba in the morning and then visit the Mother at exactly 3:00 PM. She gives a wonderful darshan then, and there are fewer people. We usually go on a Wednesday or Thursday.</span>
+</div>
 
-Gurudev: We go and show our love and care, we talk to her and ask how she is. It is a very maternal, affectionate bond. Like a mother and son, I embrace her and show my love. I have always done that. And Mother Tara is everywhere. If someone calls out to Mother Tara or Bamdev Baba with a sincere heart even on their deathbed, I believe they can be saved from an unnatural death. They will still pass away, but it will be a natural, peaceful death. He has that power.
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">I don't do anything at the cremation ground anymore. Even that one time I did it at Mundamalitala, I fell ill.</span>
+</div>
 
-Interviewer: Friends, you heard Gurudev share his real-life experiences. He has repeatedly warned in various episodes that Dash Mahavidya puja, especially for householders, is dangerous to perform at home. It can ruin a household. These experiences are a warning. We see people coming to him, and after a few days, expressing a desire to practice Tantra or Dash Mahavidya puja. You can understand through Gurudev’s warnings how difficult and serious these things are. Continue watching Gurudev’s valuable videos on the Gupt Sadhak Shyama Khapa YouTube channel. Gurudev, my respects.
+## Mother Tara Does Not Let You Stay
 
-Gurudev: Blessings, my son.
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, you mentioned before that after visiting the Mother at Tarapith, she doesn't let you stay there?</span>
+</div>
 
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Exactly. Once the prayers are done, something will happen that will force you to leave Tarapith. I have seen this happen to millions. It is an amazing thing. I stayed there for about 12 years and observed this. Once the puja is over, the Mother doesn't let you stay. Someone might get news from home that someone is ill, and they have to catch the next train. People say they will stay for seven days, and I tell them, "Then don't perform the puja yet. The day you offer your prayers is the day you will have to leave." That is the rule of Mother Tara.</span>
+</div>
+
+## Affection and Devotion at Tarapith
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">One more thing, Gurudev. We see you here at the Rajpur Smashan (cremation ground) in a certain way, but at Tarapith, you seem to be in a trance, as if in another world.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">That's true. I love the rituals there. I visit Bapi's place and pray to the Mother at Mundamalitala. I love that Goddess Kali. I show her affection, I even kiss the image.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Most people couldn't imagine doing that.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">We go and show our love and care, we talk to her and ask how she is. It is a very maternal, affectionate bond. Like a mother and son, I embrace her and show my love. I have always done that. And Mother Tara is everywhere. If someone calls out to Mother Tara or Bamdev Baba with a sincere heart even on their deathbed, I believe they can be saved from an unnatural death. They will still pass away, but it will be a natural, peaceful death. He has that power.</span>
+</div>
+
+<hr style="border:0;border-top:1px solid var(--border-gold);margin:2rem 0;opacity:0.3;">
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Friends, you heard Gurudev share his real-life experiences. He has repeatedly warned in various episodes that Dash Mahavidya puja, especially for householders, is dangerous to perform at home. It can ruin a household. These experiences are a warning. We see people coming to him, and after a few days, expressing a desire to practice Tantra or Dash Mahavidya puja. You can understand through Gurudev's warnings how difficult and serious these things are. Continue watching Gurudev's valuable videos on the Gupt Sadhak Shyama Khapa YouTube channel. Gurudev, my respects.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Blessings, my son.</span>
+</div>
+
+</div>
+
+<div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
+<h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
+<p>Guru Shyama Khyapa's warnings about Dash Mahavidya puja at home are grounded in real experiences of households destroyed by misguided spiritual practice. The presence of objects from cremation grounds—particularly burnt wood from funeral pyres—combined with worship of powerful deities without proper training and environment, can create devastating consequences. His guidance is clear and unambiguous: such rituals belong in sacred pilgrimage sites like Tarapith, not in domestic homes. For householders seeking spiritual connection with Mother Tara, sincere worship at appropriate times and places, combined with the guidance of a genuine guru, offers the path to blessing rather than calamity.</p>
 </div>

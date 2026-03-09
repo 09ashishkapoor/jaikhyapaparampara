@@ -1,101 +1,98 @@
 ---
 layout: article
-title: "The Mystery of Death and Rituals: Understanding the Soul's Journey After Death"
+title: "Death Rituals and Soul Science: Guru Shyama Khyapa Explains the Mystery of Afterlife"
 breadcrumbTitle: "Death Rituals and Soul Science"
-description: "Guru Shyama Khyapa explains the scientific nature of Hindu death rituals, the soul's journey after death, Shradh ceremonies, and how proper rituals help the soul transition to its next life."
-keywords: "death rituals, soul, Shradh ceremony, Hindu funeral rites, afterlife, karma, soul possession, Pinda-dan, Dasha ritual, spiritual science, Guru Shyama Khyapa, Gupta Sadhak Shyamakhyapa, afterlife practices, ritual impurity, yoga death"
+description: "Guru Shyama Khyapa reveals the truth about what happens to the soul after death, the spiritual science of Shradh ceremonies, Pinda offerings, possession, and the mysterious role of the Yogini in the soul's journey."
+keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, death rituals, soul, Shradh ceremony, Hindu funeral rites, afterlife, karma, soul possession, Pinda-dan, Dasha ritual, spiritual science, Gupta Sadhak Shyamakhyapa, afterlife practices, ritual impurity"
 category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
-readingTime: 18
+readingTime: 22
 tags:
   - articles
-  - Guru Baba Shyama Khyapa
+  - Guru Deva Shyama Khyapa
+  - Gupta Sadhak
+  - Smashana Bhairava
+  - Khyapa Parampara
   - Death Rituals
   - Soul
   - Shradh
-  - Hindu Traditions
-  - Spiritual Science
   - Afterlife
   - Karma
-  - Gupta Sadhak Shyamakhyapa
-  - Smashana Bhairava
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=6CGJ8Q-_Q-Q" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
-  <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
+  <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Greetings, Gurudev.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Greetings, my child, greetings.</span>
+</div>
 
 ## What Happens to the Soul After Death?
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">We were hearing from you about our Shradh rituals, which you mentioned are very scientific. I have a question: Regarding the spiritual work being done for the soul—does the soul stay in the house after the Shradh ceremony, or does it go elsewhere?</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">We were hearing from you about our Shradh rituals, which you mentioned are very scientific. I have a question to ask you here: Regarding the spiritual work being done concerning the soul, does the soul stay in the house after the Shradh ceremony, or does it go elsewhere?</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">After death, the soul stays in the house. People don't realize it because it doesn't have a physical body. Even if it speaks, you won't understand because it has no throat, no eyes, and no ears. The soul doesn't want to leave because, as soon as a person dies, their parents and children become like enemies to the soul—extreme enmity exists. This is about the nature of the soul.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">No, no, no. You are not understanding. After death, the soul stays in the house. People don't realize it because it doesn't have a physical body. Even if it speaks, you won't understand because it has no throat, no eyes, and no ears. Therefore, the soul stays in the house. It doesn't want to leave. Because as soon as a person dies, their parents and children become like enemies to the soul—extreme enmity. When the soul begins its rituals, it can act with extreme enmity. This is about the nature of the soul. At that time, we must consult the almanac (Panji). We see where the Yogini was at the time of death and check for various planetary defects (Pat-dosh). Looking at these, we can warn the family to be careful.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">At that time, we must consult the almanac (Panji). We see where the Yogini was at the time of death and check for various planetary defects (Pat-dosh). Looking at these, we can warn the family to be careful. The soul stays in the house for 10 to 11 days. After a death, people come and go—relatives and friends arrive. The soul sees them, watches them, but cannot speak. If it wants a little water, no one gives it any. This particular process is terrifying, and the soul suffers greatly during this period.</span>
-</div>
-
-## The Soul's Suffering During the Mourning Period
-
-<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Many people arrive, and many known relatives come, but no one talks to it. Even if it wants a glass of water, no one provides it. No one sits with it or talks to it. During this time, the soul feels hurt and neglected. Many times, it then turns into an extreme enemy. That is why, after cremation, one must wear a key. You will see a key attached to the ceremonial cloth (Uttoriya). This is for stability, so that ghosts or spirits cannot touch the person.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Anyway, the soul stays in the house for 10 to 11 days. And after a death, people come and go; relatives and friends arrive. The soul sees them. It watches, but it cannot speak. If it wants a little water, no one gives it any. It sees that no one is talking to it. This particular process is terrifying, and the soul suffers a lot during this period. It is in the house; many people arrive, and many known relatives come, but no one talks to it. Even if it wants a glass of water, no one provides it. No one sits with it or talks to it. During this time, the soul feels hurt and neglected. Many times, it then turns into an extreme enemy. That is why, after cremation, one must first wear a key. You will see a key attached to the ceremonial cloth (Uttoriya). This is for stability, so that ghosts or spirits cannot touch the person. You must have noticed this.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Those who perform the final rites have to wear it.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Everyone in the house should wear such protection. It is a protection for everyone. And we say that if someone dies in a house, drive a nail into the spot where they died. Buy a large nail and drive it into the spot, even if it is under the bed. Nowadays, with flats, it is different, but the principle remains.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Everyone in the house, in fact. Everyone. It is a protection for everyone. And we say that if someone dies in a house, drive a nail into the spot where they died. Buy a large nail and drive it into the spot, even if it is under the bed. Nowadays, with flats, it is different.</span>
 </div>
 
 ## Understanding Asouch: The Shadow of Death
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">There is a custom called observing Asouch (ritual impurity). If you could explain that...</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">One thing Gurudev—there is a custom called observing Asouch (ritual impurity). If you could explain that...</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">It is nothing else but a shadow. A lunar eclipse happens on a shadow. A solar eclipse happens on a shadow. You can call it a shadow of grief—a shadow of death. That is why we say not to perform any worship or rituals with names and lineages after a death. Because there is a black shadow upon you—the shadow of death. You have to carry this for 10-12 days.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">It is nothing else but a shadow. Look, a lunar eclipse happens on a shadow. A solar eclipse happens on a shadow. You can call it a shadow of grief. This shadow is a shadow of death. That is why we say not to perform any worship or rituals with names and lineages after a death. Because there is a black shadow upon you—the shadow of death. You have to carry this for 10-12 days. Now, when the soul stays for 10-12 days, its rites are performed on the 11th day. On the 10th day, a ritual is performed on the banks of the Ganges, or in a cowshed. Ten days later, the Dasha ritual happens. Ten Pindas (offerings) are given. According to the scriptures, the soul has been without food for ten days. Then the soul is ordered to leave the house. We give food for it. Where? At the banks of the Ganges, or in the cowshed, wherever the ritual is performed. We tell the soul, "I am giving you Pinda-dan, so you must leave."</span>
 </div>
 
 ## The Ten-Day Ritual and the Pinda Offering
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">When the soul stays for 10-12 days, its rites are performed on the 11th day. On the 10th day, a ritual is performed on the banks of the Ganges or in a cowshed. Ten days later, the Dasha ritual happens. Ten Pindas (offerings) are given. According to the scriptures, the soul has been without food for ten days. Then the soul is ordered to leave the house. We give food for it at the banks of the Ganges, or in the cowshed, wherever the ritual is performed. We tell the soul, "I am giving you Pinda-dan, so you must leave."</span>
-</div>
-
-<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">After this offering is made, the soul consumes it. After eating, it forgets all current attachments (Maya). The soul forgets everything. It then scrambles to enter a womb. It first tries to enter the womb of its own people. If it doesn't find one among its own, you often see people saying, "He looks like his grandfather," or "He looks like his father," or "He looks like his uncle." People say this in every household.</span>
-</div>
-
-<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">If it finds a womb, the soul enters it. If it doesn't find one among its own, it becomes a wanderer and goes elsewhere. That also depends on its karma. During this time, the soul becomes an extreme enemy to humans.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">After this offering is made, the soul consumes it. After eating, it forgets all current attachments (Maya). The soul forgets everything. It then scrambles to enter a womb. It first tries to enter the womb of its own people. If it doesn't find one among its own, you often see people saying, "He looks like his grandfather," or "He looks like his father," or "He looks like his uncle." People say this in every household. If it finds a womb, the soul enters it. If it doesn't find one among its own, it becomes a wanderer and goes elsewhere. That also depends on its karma. Anyway, during this time, the soul becomes an extreme enemy to humans.</span>
 </div>
 
 ## Soul Possession and Its Origins
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">People often come to you saying that a soul has possessed someone. If you could speak on this...</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">People often come to you saying—or it is heard—that a soul has possessed someone. If you could speak on this...</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">I have encountered many such cases—100-150 cases of possession. These possessions must be cleared; otherwise, they cause great harm. I have done this many times. Everyone here is a witness.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Oh, plenty. I have encountered many such cases. I have handled 100-150 cases of possession. It has been seen. These possessions must be cleared; otherwise, they cause great harm. I have done this many times. Everyone here is a witness.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -105,12 +102,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Once the offering is given—the ten Pindas at the riverside—the soul consumes them. It has been hungry for ten days. The priest orders it to leave the house and come for food, saying it no longer has rights to the house. Then the soul leaves the house after consuming the offering. It then tries to enter a womb. Its restlessness increases, and it no longer thinks of the house.</span>
-</div>
-
-<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">It thinks of which womb to enter. It tries among its own people; if it fails, it goes outside. It will find a womb elsewhere and enter it. But it must enter one. As per the Gita, it must. It consumes the Dasha Pinda, and then forgets everything. It forgets all memories of its previous life after consuming those ten offerings.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">No, no. Once the offering is given—the ten Pindas at the riverside—it consumes them. It has been hungry for ten days. The priest orders it to leave the house and come for food, saying it no longer has rights to the house. Then the soul leaves the house after consuming the offering. It then tries to enter a womb. Its restlessness increases, and it no longer thinks of the house. It thinks of which womb to enter. It tries among its own people; if it fails, it goes outside. It will find a womb elsewhere and enter it. But it must enter one. As per the Gita, it must. It consumes the Dasha Pinda, and then forgets everything. It forgets all memories of its previous life after consuming those ten offerings.</span>
 </div>
 
 ## Special Cases: Unnatural Deaths and Pushkar Remedies
@@ -122,34 +114,14 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">That definitely becomes problematic. After ten days of death, the entire house must be cleaned. Everything, from bedding to mats, must be washed. Then the offering is made at the riverside. The soul then forgets its home and its people. It then searches for a womb for its second birth.</span>
-</div>
-
-<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">But sometimes, there is a specific defect (Chotuspad-dosh) or an accidental death. In cases of such unnatural deaths, there is trouble; they don't want to leave the house because they are not reborn. Then we tell them to go to Pushkar in Rajasthan. Offer the Pinda there. No matter how significant the suicide case or whatever happened, that soul will no longer appear. The soul consumes the offering there and leaves. It no longer troubles the house.</span>
-</div>
-
-<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">We have had many such cases of haunting where we sent them to Pushkar. Go and perform the rites first. Otherwise, you won't survive. It will take away your cows, goats, and everything. Forget humans; it will even take the livestock. So we tell them to go to Pushkar.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">That depends on the specific case. It definitely becomes problematic; there is no doubt about that. That is why there are so many precautions. After ten days of death, the entire house must be cleaned. Everything, from bedding to mats, must be washed. Then the offering is made at the riverside. The soul then forgets its home and its people. It then searches for a womb for its second birth. Do you understand? Then the soul no longer stays in the house. But sometimes, what happens is, say there is a specific defect (Chotuspad-dosh), or an accidental death. In cases of such unnatural deaths, there is a bit of trouble; they don't want to leave the house because they are not reborn. Then we tell them to go to Pushkar in Rajasthan. Offer the Pinda there. No matter how significant the suicide case or whatever happened, that soul will no longer appear. The soul consumes the offering there and leaves. It no longer troubles the house. We have had many such cases of haunting where we sent them to Pushkar. Go and perform the rites first. Otherwise, you won't survive. It will take away your cows, goats, and everything. Forget humans; it will even take the livestock. So we tell them to go to Pushkar.</span>
 </div>
 
 ## The Role of Yogini and Planetary Positions
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">We look at the almanac to see the planetary positions. We see if there is a Chotuspad-dosh or if a Pushkar rite is needed. If the Yogini is in the Northeast, the Yogini comes to take the soul. You will see daily entries in the almanac for various defects. It is written in the Panji—Yogini in the Northeast, East, or West. Many things for the soul and the household depend on the Yogini's position.</span>
-</div>
-
-<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">She can come from eight directions, but not from above or below. The Yogini comes to take the soul. You will see people becoming fearful before death. They feel as if someone has entered the room or is standing there. They scream, "Go away, who is it?" The soul realizes its time has come. This can be seen. Afterwards, the soul forgets everything. They don't remember their previous life or previous home. This happens through our afterlife rituals.</span>
-</div>
-
-<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Through these rituals, the soul is made to forget. There are certain things, certain mantras recited, and certain actions performed, so that it forgets its previous life and previous home. That's it.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">We look at the almanac to see the planetary positions. We see if there is a Chotuspad-dosh or if a Pushkar rite is needed. If the Yogini is in the Northeast... the Yogini comes to take the soul. You will see daily entries in the almanac for various defects. It is written in the Panji—Yogini in the Northeast, East, or West. Many things for the soul and the household depend on the Yogini's position—which direction she comes from. She can come from eight directions, but not from above or below. The Yogini comes to take the soul. You will see people becoming fearful before death. They feel as if someone has entered the room or is standing there. They scream, "Go away, who is it?" The soul realizes its time has come. This can be seen. Afterwards, the soul forgets everything. They don't remember their previous life or previous home. This happens through our afterlife rituals. Through these rituals, the soul is made to forget. There are certain things, certain mantras recited, and certain actions performed, so that it forgets its previous life and previous home. That's it.</span>
 </div>
 
 ## The Shradh Ceremony: A Memorial and Memorial Feast
@@ -161,7 +133,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">It is actually a memorial meeting. Many CPM party members used to have memorial meetings; they never performed Shradh. It is like a memorial. When someone dies, you have to offer rice and fish to the relatives (Gyati) for the deceased to receive food. Before offering to the relatives, you must offer fish, turmeric, and oil to the priest's feet; only then can they eat.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">It is actually a memorial meeting. Many CPM party members used to have memorial meetings; they never performed Shradh. It is like a memorial. When someone dies, you have to offer rice and fish to the relatives (Gyati) for the deceased to receive food. Before offering to the relatives, you must offer fish, turmeric, and oil to the priest's feet; only then can they eat. First, oil and turmeric are offered to the priest's feet, and fish is offered. Only after giving rice to the relatives can they eat. Fish or meat is never served on the day of Shradh. It is not the custom.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -178,7 +150,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">They are "Soshan Bondhu" (friends of the crematorium). We say that whoever can come as far as the crematorium is a Soshan Bondhu. They must be invited. Whether four, ten, or twenty people come as Soshan Bondhu, each one must be invited. We say a friend is one who can come to the crematorium. Those who come with the deceased after death are the Soshan Bondhu, and they must be invited and fed. This is our tradition according to the scriptures, as a gesture of friendship.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">They are "Soshan Bondhu" (friends of the crematorium). We say that whoever can come as far as the crematorium is a Soshan Bondhu. They must be invited. Whether four, ten, or twenty people come as Soshan Bondhu, each one must be invited. They are called Soshan Bondhu. We say a friend is one who can come to the crematorium. Those who come with the deceased after death are the Soshan Bondhu, and they must be invited and fed. This is our tradition according to the scriptures, as a gesture of friendship.</span>
 </div>
 
 ## The Deceased's Favorite Foods in Shradh
