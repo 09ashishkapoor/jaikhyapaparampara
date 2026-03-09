@@ -24,3 +24,11 @@
 - markdownfiles_forblog/tobeprocessed/transcript_emp6MSEwVbI.md → articles/doomsday-coming-apocalypse-2024-guru-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_eXyOeeg-MUU.md → articles/omkar-pranava-mantra-meditation-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_25Er8kS_6x8.md → articles/ras-purnima-krishna-raas-leela-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_d1EvAeLPdBs.md → articles/terrifying-beauty-of-mother-kali-esoteric-insights.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_2yNqEuDs8r8.md → articles/caste-disaster-gurudev-bhagavad-gita-arjuna-krishna.md
+- markdownfiles_forblog/tobeprocessed/transcript_89RNhEUbPGQ.md → articles/journey-of-shyama-khyapa-lawyer-to-tantrik.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_9AEE1_LACCs.md → articles/the-secret-of-kumbhaka-guru-shyama-khyapa-on-yogic-breath-and-longevity.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_EoOwFcwy3rI.md → articles/annapurna-puja-journey-kamakhya-benares-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_eOIIvCcnT8c.md → articles/prophecy-of-100-crore-deaths-gurudev-on-the-future-of-india-and-societal-decay.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_c355alJeW_U.md → articles/dhyana-meditation-dharana-concentration-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_A2D-UT3B3TM.md → articles/mecca-kaaba-mahadev-shukracharya-story-shyama-khyapa.md
