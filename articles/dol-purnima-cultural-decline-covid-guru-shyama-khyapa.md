@@ -6,7 +6,7 @@ description: "Guru Shyama Khyapa discusses the fading traditions of Dol Purnima,
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Dol Purnima, Holi, Cultural Decline, COVID-19, Traditional Values, Festival, Khyapa Parampara"
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 12:00:00
 readingTime: 8
 tags:
   - articles

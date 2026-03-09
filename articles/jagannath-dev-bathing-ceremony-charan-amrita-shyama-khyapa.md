@@ -6,7 +6,7 @@ description: "Guru Shyama Khyapa presides over the sacred bathing ceremony of Lo
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Jagannath Dev, Bathing Ceremony, Charan-Amrita, Vedic Mantras, Snana Yatra, Khyapa Parampara"
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 18:30:00
 readingTime: 4
 tags:
   - articles

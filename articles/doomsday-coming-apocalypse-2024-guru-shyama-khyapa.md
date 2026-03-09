@@ -6,7 +6,7 @@ description: "On the eve of Guru Purnima, Guru Shyama Khyapa delivers dire warni
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Doomsday 2024, Apocalypse, Year of Death, Global Upheaval, Bhavishya Malika, Prophecy, Khyapa Parampara"
 category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 16:00:00
 readingTime: 8
 tags:
   - articles

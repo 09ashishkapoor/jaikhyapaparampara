@@ -6,7 +6,7 @@ description: "Guru Shyama Khyapa discusses the parallels between Greek Goddess H
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Hecate, Greek Goddess, Triple Goddess, Kali, Cross-Cultural, Youth Crisis, Tantra, Khyapa Parampara"
 category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 13:30:00
 readingTime: 6
 tags:
   - articles

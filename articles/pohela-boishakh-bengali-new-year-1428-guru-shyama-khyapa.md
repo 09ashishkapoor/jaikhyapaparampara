@@ -6,7 +6,7 @@ description: "Guru Shyama Khyapa shares insights on Pohela Boishakh, the decline
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Pohela Boishakh, Bengali New Year, 1428, Cultural Heritage, British Influence, Calendar History, Khyapa Parampara"
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 10:00:00
 readingTime: 5
 tags:
   - articles

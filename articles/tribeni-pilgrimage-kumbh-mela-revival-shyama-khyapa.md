@@ -6,7 +6,7 @@ description: "Guru Shyama Khyapa celebrates the revival of the ancient Tribeni K
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Tribeni, Kumbh Mela, Fifth Dham, Ganga Yamuna Saraswati Confluence, Saptarishi, Bengal Heritage, Khyapa Parampara"
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 14:00:00
 readingTime: 5
 tags:
   - articles

@@ -68,7 +68,7 @@ Derive all metadata from the actual content — do not guess or invent:
 - **keywords** — Include at minimum: `GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara`, plus topic-specific terms from the content.
 - **category** — Infer from themes (e.g., `Guru Stories`, `Spiritual Teachings`, `Prophecy`).
 - **author** — Always use exactly: `🗣️ Gupta Sadhak Shyama Khyapa`
-- **date** — Use today's date in YYYY-MM-DD format.
+- **date** — Use today's actual date but with a unique incrementing time. Find the highest `date:` timestamp currently used across all files in `articles/` (search frontmatter for `^date:`). If the highest is already today's date with a time (e.g. `2026-03-09 14:30:00`), add 1 minute for each new article (`2026-03-09 14:31:00`, `2026-03-09 14:32:00`, etc.). If no timestamp exists for today, start at `YYYY-MM-DD 10:00:00`. Each article in the batch must get its own unique timestamp, incrementing by 1 minute. This keeps dates honest (never in the future) while ensuring every new article sorts above all existing ones.
 - **readingTime** — Estimate as: word count ÷ 200, rounded up to nearest minute.
 - **tags** — Include `articles`, `Guru Baba Shyama Khyapa`, `Gupta Sadhak Shyamakhyapa`, `Smashana Bhairava`, plus topic-relevant tags.
 - **source** — Use the YouTube URL found in the transcript, formatted as HTML like the reference article.

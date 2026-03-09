@@ -6,7 +6,7 @@ description: "Guru Shyama Khyapa shares the profound mythology behind Mother Ann
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Annapurna Puja, Shivhin Yajna, Sati, Shakti Peethas, Kashi, Virabhadra, Khyapa Parampara"
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 12:30:00
 readingTime: 8
 tags:
   - articles

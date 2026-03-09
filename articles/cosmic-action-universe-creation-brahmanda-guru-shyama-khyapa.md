@@ -6,7 +6,7 @@ description: "Guru Shyama Khyapa explains the mysteries of Brahmanda (the univer
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Brahmanda, Cosmic Action, Universe Creation, Big Bang, Puranas, Divine Activities, Khyapa Parampara"
 category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 17:30:00
 readingTime: 8
 tags:
   - articles

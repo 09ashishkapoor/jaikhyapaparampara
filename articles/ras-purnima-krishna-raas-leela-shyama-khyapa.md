@@ -6,7 +6,7 @@ description: "Guru Shyama Khyapa explains the sacred significance of Ras Purnima
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Ras Purnima, Raas Leela, Krishna, Gopis, Lord Shiva, Mahadev, Vrindavan, Khyapa Parampara"
 category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 15:00:00
 readingTime: 3
 tags:
   - articles

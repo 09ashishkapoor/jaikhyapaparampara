@@ -6,7 +6,7 @@ description: "Guru Shyama Khyapa witnesses a startling supernatural event where 
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Divine Possession, Dhubguri, Impurity Warning, Trance, Divine Mother, Temple Purity, Khyapa Parampara"
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 11:00:00
 readingTime: 6
 tags:
   - articles

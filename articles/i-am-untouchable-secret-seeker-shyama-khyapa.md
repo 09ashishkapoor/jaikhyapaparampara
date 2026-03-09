@@ -6,7 +6,7 @@ description: "A devoted seeker named Bikram travels from Vrindavan to meet Guru 
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Secret Seeker, Bikram, Vrindavan, Shakti Aradhana, Rajpur Mahashashan, Khyapa Parampara"
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 17:00:00
 readingTime: 5
 tags:
   - articles

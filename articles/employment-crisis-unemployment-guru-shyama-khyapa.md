@@ -6,7 +6,7 @@ description: "Guru Shyama Khyapa shares his eyewitness account of West Bengal's 
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Employment Crisis, Unemployment, Economic Collapse, West Bengal, Job Crisis, Political Corruption, Khyapa Parampara"
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 14:30:00
 readingTime: 9
 tags:
   - articles

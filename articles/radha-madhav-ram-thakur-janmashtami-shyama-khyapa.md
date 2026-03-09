@@ -6,7 +6,7 @@ description: "Guru Shyama Khyapa shares profound insights about Ram Thakur (Ram 
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Ram Thakur, Radha Madhav, Janmashtami, Ram Chandra Chakraborty, Dingamanik, Divine Realization, Khyapa Parampara"
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 19:00:00
 readingTime: 4
 tags:
   - articles

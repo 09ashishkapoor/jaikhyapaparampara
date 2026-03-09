@@ -6,7 +6,7 @@ description: "Guru Shyama Khyapa explains the sacred Arghya offering to Jagadhat
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Jagadhatri Puja, Arghya Offering, Navami Puja, Sandhi Puja, Chandi Path, Khyapa Parampara"
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 16:30:00
 readingTime: 5
 tags:
   - articles

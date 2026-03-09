@@ -6,7 +6,7 @@ description: "Guru Shyama Khyapa answers profound questions on the unity of Maha
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Fake Saint, Real Saint, Bhondo Sadhu, Param Brahma, Mahakali, Raj Yog, Bhakti Yog, Spiritual Test, Khyapa Parampara"
 category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 11:30:00
 readingTime: 12
 tags:
   - articles

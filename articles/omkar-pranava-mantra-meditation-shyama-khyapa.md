@@ -6,7 +6,7 @@ description: "Guru Shyama Khyapa explains the profound practice of Omkar chantin
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Omkar, Pranava Mantra, Om Meditation, Self-Inquiry, Who Am I, Kamakhya, Khyapa Parampara"
 category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 15:30:00
 readingTime: 6
 tags:
   - articles

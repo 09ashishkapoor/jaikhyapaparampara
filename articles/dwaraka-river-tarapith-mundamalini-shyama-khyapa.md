@@ -6,7 +6,7 @@ description: "Guru Shyama Khyapa reveals the mystical secrets of the Dwaraka Riv
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Dwaraka River, Tarapith, Mundamalitala, Uttarabahini, Kumbhaka, Sati Ghat, Divine Mother, Khyapa Parampara"
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 10:30:00
 readingTime: 5
 tags:
   - articles

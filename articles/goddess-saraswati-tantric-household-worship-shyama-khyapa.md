@@ -6,7 +6,7 @@ description: "Guru Shyama Khyapa illuminates the difference between Tantric Maha
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Saraswati Puja, Mahasaraswati, Dhyana Mantra, Vidya, Tantric Worship, Knowledge Decline, Khyapa Parampara"
 category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 13:00:00
 readingTime: 7
 tags:
   - articles

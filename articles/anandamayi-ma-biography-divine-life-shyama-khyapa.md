@@ -6,7 +6,7 @@ description: "Guru Shyama Khyapa shares the remarkable life story of Mother Anan
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Mother Anandamayi, Anandamayi Ma, Nirmala Sundari, Divine Mother, Kankhal, Dehradun, Spiritual Biography, Khyapa Parampara"
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
-date: 2026-03-09
+date: 2026-03-09 18:00:00
 readingTime: 10
 tags:
   - articles
