@@ -11,4 +11,12 @@
 - articles/dasha-mahavidya-the-ten-great-wisdoms-explained.md
 - articles/dharma-and-karma-the-eternal-laws-explained-by-shyama-khyapa.md
 - articles/did-gurudev-signal-a-second-disaster-in-2021-prophecies-of-shyama-khyapa.md
+- articles/do-not-be-swayed-by-the-whims-of-the-mind-ramprasad-song.md
+- articles/eternal-call-narmada-siddha-search-shyama-khyapa.md
+- articles/fire-at-tarapith-a-grave-omen-of-disaster.md
+- articles/geopolitics-spirituality-future-predictions-guru-shyama-khyapa.md
+- articles/god-is-truth-and-truth-is-god-shyama-khyapa.md
+- articles/gone-crazy-the-plight-of-todays-youth-and-ominous-predictions.md
+- articles/gurudev-answers-questions-selected-by-devotees.md
+- articles/gurudevs-ban-why-not-to-visit-shantikunj-in-bhadra-month.md
 
