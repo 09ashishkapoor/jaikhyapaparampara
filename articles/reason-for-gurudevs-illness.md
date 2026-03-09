@@ -1,23 +1,24 @@
 ---
 layout: article
-title: "The Reason for Gurudev’s Illness"
-breadcrumbTitle: "Gurudev’s Illness"
-description: "Gurudev explains why he often falls ill while healing others, touching on COVID and the role of doctors."
-keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Shyama Khyapa, illness, COVID, doctors, healing, Tantra, Mother, diseases, spiritual work"
+title: "The Reason for Gurudev's Illness"
+breadcrumbTitle: "Gurudev's Illness"
+description: "Gurudev Shyama Khyapa explains why he often falls ill while healing others, the spiritual and physical toll of his work, his relationship with doctors, and his perspective on COVID."
+keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, illness, healing, Tantra, Mother Tara, diseases, spiritual work, COVID, doctors"
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
-readingTime: 9
+readingTime: 32
 tags:
 - articles
 - Guru Baba Shyama Khyapa
+- Gupta Sadhak
 - illness
 - COVID
 - healing
-- doctors
 - Tantra
-- Mother
+- Mother Tara
 - spiritual work
+- doctors
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=9pSOOuZy7So" rel="noopener" style="color: var(--accent-bright); text-decoration: none; font-style: normal; font-size: 0.95rem; margin-top: 0.5rem; display: inline-block;" target="_blank">📺 Watch Original Bengali Video on YouTube</a></p>
@@ -26,63 +27,189 @@ source: |
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
-<p><em>(Conch-shell blowing followed by religious chanting in the background.)</em></p>
-
-<h2>Why Gurudev Often Becomes Ill</h2>
-
-<p><strong>Visitor:</strong> Respectful greetings, Master.</p>
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Visitor:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Respectful greetings, Master.</span>
+</div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
 <span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, greetings. Sit, sit.</span>
 </div>
 
-<p><strong>Visitor:</strong> Today a Havan is taking place. Sujip Korta participated, and Dr. Nilanjan Bhattacharya came to examine you.</p>
-
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">He said if I take the medicine properly I will recover. After checking he said, "You seem fine now; I don't see anything wrong." But you know what the problem is? People come from far and wide for the work I do. Among all the trivial things they bring, the issues related to illnesses are the most prominent. For me it's all about these illnesses. I've become accustomed to these diseases. Some come for lack of appetite, some for job issues, some for this and that. But my main concern is these diseases. When I work on them, some illnesses immediately take hold of me. Then again, there are some diseases I can't catch. Like cancer, for example. But if I work on it, it will eventually affect me. It will definitely affect me; it won't even give me twenty‑four hours. It'll get to me.</span>
-</div>
-
-<h2>Taking on Others’ Suffering</h2>
-
-<p>The Guru recounted multiple examples of people he has helped and how their ailments impacted him.</p>
-
-<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
-<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">A boy went into a coma because both of his kidneys failed. His wife and he came to me, crying, "He's our only son, please make him well." I told them to do as required, but asked what they would give me if he got better. They said, "Whatever you want, we will give." I replied, "I only want him to get well and come here to me, to the Mother. Just bring him to see the Mother." Later, even the boy was very hopeful. He said the doctor says nothing will happen, but if I get well, it will be by the Mother's grace. He's undergoing dialysis, both kidneys have failed. He's very optimistic; he's appearing for his exams this year.</span>
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Visitor:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Today, a Havan (ritual) is taking place here. It happens every day. Today, Sujip Korta has participated in this Havan. Sitting beside him is Dr. Nilanjan Bhattacharya.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">A girl once came, suddenly diagnosed with cancer. A twenty‑two‑year‑old educated girl, she never scored less than ninety‑seven. A small swelling appeared, and then it was diagnosed as cancer. I worked on her and told her to see a doctor. I felt it was malignancy, which could mean cancer or TB germs. Later cancer germs were found and the doctor started chemo. She got better, which is good. They even suggested radiation. She's quite healthy now, but that initial work I did affected my body. There are many such tasks that affect me instantly.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, yes. He actually came to examine me. I was feeling very unwell, you know? I suddenly became quite ill. Anyway, he came, examined me, and provided some medicine. He said if I take it properly, I will recover. And after checking, he said, "You seem fine now; I don't see anything wrong."</span>
 </div>
-
-<p>Another devotee told him she would sell her house because snakes were constantly appearing. Gurudev performed a ritual, assuring her the snakes would leave—but that night a snake bit him while he was in bed. "That work I did, there's resentment for that, and it showed its anger," he said.</p>
-
-<p>Work dealing with ghosts and spirits also takes a toll. Driving them out or performing such things makes his body suffer badly; sometimes he must consult doctors despite Mother’s presence. "Mother is always there, no matter how ill I am, I come to Mother and also seek medical help," he added.</p>
-
-<h2>The Role of Doctors and Science</h2>
-
-<p><strong>Visitor:</strong> Since you are a perfected man, can't you heal people before a doctor?</p>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">No. Doctors are like angels, messengers of God. When they say no, when they give up, then we say, "Come to us." Until then, we don't say anything because we are not against science; this is entirely a matter of science. You cannot deny science, you cannot deny doctors. If you have a headache or a stomach ache, will you come to Mother first or go to a doctor? After the doctor examines and says it won't heal, then we say, "Come to us." I try to heal through Tantra. Many major diseases are cured this way. So we say and do it that way.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">But you know what the problem is? People come from far and wide for the work I do. And among all the trivial things they bring, the issues related to illnesses are the most prominent. For me, it's all about these illnesses. I've become accustomed to these diseases. Some come for lack of appetite, some for job issues, some for this and that. But my main concern is these diseases. When I work on them, some illnesses immediately take hold of me. Then again, there are some diseases I can't catch. Like cancer, for example. But if I work on it, it will eventually affect me. It will definitely affect me; it won't even give me 24 hours. It'll get to me. Besides that, there are various kidney diseases, heart problems, lung diseases—many kinds of illnesses. So when these affect me during my work, I find myself confined to bed sometimes, but in some cases, I can't be held down. But in other instances, they completely take over once. Then there's no way out but to consult doctors. The greatest doctor is here—Goddess Tara. There's no doctor greater than her. I believe in this. Now people have started coming from all directions. If I fall slightly ill, everyone starts getting worried, asking, "What happened, Gurudev? What happened?"</span>
 </div>
 
-<p>He also described the physical pain he endures when people touch him seeking blessings. "People carry some toxins... it's worse than cobra venom. When those toxins enter my body, I can't sleep all night; I toss and turn in pain," he said. Often he must remain bedridden for days.</p>
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Well, I usually stay healthy. The issues only start when I undertake significant tasks. I do things that doctors might say won't work. Like that case I showed you the other day. A boy had gone into a coma because both of his kidneys failed. His wife and he came to me, crying at my feet, saying, "He's our only son, please make him well." I told them to do as required, but then asked what they would give me if he got better. They said, "Whatever you want, we will give." I replied, "I only want him to get well and come here to me, to the Mother. Just bring him to see the Mother." Later, even the boy was very hopeful. He said, "The doctor says nothing will happen, but if I get well, it will be by the Mother's grace." He said this in front of his parents, that it doesn't matter what the doctor says, he will recover by the Mother's grace. He's undergoing dialysis, both kidneys have failed. I don't know if God will somehow provide a kidney, but he's very optimistic, that child. He's appearing for his exams this year. There are many such incidents...</span>
+</div>
 
-<h2>COVID, Government, and Public Behavior</h2>
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">A girl once came to me, suddenly diagnosed with cancer. A 22-year-old educated girl, she never scored less than 97. She even showed me her marksheet. I was amazed. A small swelling appeared here, and then it was diagnosed as cancer. Initially, when she came to me, I worked on her and told her to see a doctor. I felt it was malignancy, although I couldn't say for sure. Malignancy could mean cancer or T.B. germs. Later, she told me cancer germs were found, and the doctor started chemo. She got better, which is good. They even suggested radiation. It's fine; she should take whatever treatment the doctor suggests. Now, she's quite healthy, but that initial work I did, it affected my body. There are many such tasks that affect me instantly.</span>
+</div>
 
-<p>Gurudev commented extensively on the pandemic, criticizing the government’s decisions to allow festivals and trains to run while beds were scarce. He acknowledged the doctor’s advice to stay away from people but shrugged it off, saying he treats COVID "with indifference" and refuses to wear a mask.</p>
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Like another girl who told me, "Father, I'll sell my house." I asked, "Why sell your house for Mother? Where will you stay? What will you eat? A roof over your head is everything." She said, "No, that's not it, Father. There are so many snakes in the house. When I go to the pump, a snake is coiled around it. What are you saying? When I go to cook, a snake is coiled around the gas cylinder. I can't take it anymore. When I go to sleep, there's a snake." I told her, "Okay, do one thing. Bring some bananas and cow's milk for Mother." She brought them in a stone bowl. I performed a ritual and told her, "Go, the snakes won't stay in your house anymore, I've made arrangements." But you won't believe it, that night I spent in bed. In the morning, while I was sitting for worship, a snake came out of the room and bit me. Can you believe it? The snake came out and bit me. It was so angry, the sound it made... I was stunned.</span>
+</div>
 
-<p>"COVID is gone; there's nothing left. The death rate has come down to 1.1 percent," he claimed. He blamed business interests for prolonging the crisis and warned that upcoming festivals would spread the virus further. He lamented people’s arrogance in ignoring distancing rules and noted families moving away from neighbors who contract the disease.</p>
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Visitor:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">So you didn't see the snake there?</span>
+</div>
 
-<p>Despite these critiques, he said, "Our only fear is of the divine. Like storms, earthquakes—we are very afraid of those because we don't want to interfere with them. I can stop a storm; all arrangements are there. But we can't do it because we would have to face consequences... The place where we stay won't be harmed. Within a few kilometers of where we are, there won't be any danger. That's 100 percent certain."</p>
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">How could I see? I've been performing worship all my life... But that work I did, there's resentment for that, and it showed its anger. That's all. Now, there are many such things. Then there's work related to ghosts and spirits. Driving out ghosts or doing such things, it takes a toll on the body. Then it gets very bad, and there's no way to survive without a doctor. Mother is always there, no matter how ill I am, I come to Mother and also seek medical help.</span>
+</div>
 
-<h2>Conclusion</h2>
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Visitor:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, let me ask you a question. Since you are people of the spiritual world and a perfected great man, can't you do these things before a doctor? I mean, can't these things be done before a doctor intervenes?</span>
+</div>
 
-<p>By taking on others’ ailments—whether cancer, kidney failure, snake bites, or the fear of COVID—Gurudev protects those who come to him. "In some cases, if the intensity is high, and they might not survive, then we have to take it upon ourselves; we have to endure it," he said. He attributes all achievements to Mother and insists that he is merely a conduit. For him, the illnesses are a burden he voluntarily bears in service of humanity.</p>
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">No. Doctors are like angels, messengers of God. When they say no, when they give up, then we say, "Come to us." Until then, we don't say anything because we are not against science; this is entirely a matter of science. You cannot deny science, you cannot deny doctors. If you have a headache or a stomach ache, will you come to Mother first or go to a doctor?</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Visitor:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, one must go to a doctor first.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, after the doctor examines and says it won't heal, then we say, "Come to us." I try to heal through Tantra (ritualistic practice). Many major diseases are cured this way. So we say and do it that way. And I fall ill from time to time. Sometimes I don't tell anyone, but sometimes people find out when I can't even get out of bed. There are times when I'm so ill I can't even get out of bed, you know. I have to bear the illness; I have to endure it, my friend. No god will take it; no one will. I have to bear it and digest it. If I can't digest it, I'll die. There's nothing to be done, as it's something I've taken upon myself. That's why none of these can overcome me; illnesses aren't overcoming me. Metaphysical or physical things can't overcome us. Our only fear is of the divine. Like natural disasters—storms, earthquakes—we are very afraid of those because we don't want to interfere with them. We don't want to meddle with the divine. I can stop a storm; all arrangements are there. But we can't do it because we would have to face consequences. Nature gives what it gives—major storms, earthquakes, floods. But you know what happens? The place where we stay won't be harmed. Within a few kilometers of where we are, there won't be any danger. That's 100 percent certain, no doubt about it. So maybe there won't be major loss; it will pass over. Since I've attained some mastery, they can't touch me. And physical things don't touch us either; ghosts and spirits don't touch us. I don't care about them. I've driven out many big spirits, that's true. I don't worry about them, like how people usually drive out ghosts with various items... I don't have all that. I can drive out a ghost sitting right here; one doesn't need to take anything. I do this too; many things have to be done, and I have to take them upon myself.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Visitor:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">So, from what you're saying, the main thing I've gathered is that you take upon yourself the illnesses of those who come here ill.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Exactly. In some cases, if the intensity is high, and they might not survive, then we have to take it upon ourselves; we have to endure it.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Visitor:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">You're doing humanitarian work, Gurudev.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Well, doing humanitarian work... God won't show you any mercy here. Not a bit. God might show you a good doctor or medicine; you won't lack anything. But what Mother will do is hard to say. I have to take it into my body and...</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Visitor:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">And in doing so, you fall ill.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">I don't sleep all night; I just toss and turn in pain. Like you see, fifty to sixty people come every day. They touch me, or I touch them. They believe that if I just touch them, they will get better. And what happens is, people carry some toxins... it's worse than cobra venom. When those toxins enter my body, I can't sleep all night, calling out to my parents. I toss and turn; I can't sleep properly. The physical pain is immense. It comes from people touching us, seeking blessings, or when we perform healing on them. And once it's taken upon oneself, rest assured, you'll be bedridden for a few days.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Visitor:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">I saw that you were mostly at home for about three days.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">For two or three days, I was completely bedridden. Now I've managed to stand up again, no problems anymore. I've come to the Mother; I see the ritual is going on. Now, the point is, one has to take all this upon oneself. God can't be blamed for this. You know what happened in Bama-deb's case when people chased after him to get the dust from his feet. He wouldn't give the dust from his feet; he would give dust from the ground to the people, and they would get better. So many people started coming that he got angry with the Mother. And the Mother slapped him twice. Okay. After being slapped, he never went to the Mother's room again. So there's no point in blaming the Mother. Mother works unseen; everything is fine. But the point is, you have to take the illness as you're susceptible to it. You have to take this illness in your body, whether it's cancer or AIDS. Whatever is in the body, those final things won't be able to overcome you.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Visitor:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">You're taking it into your body, but it will never be able to overcome you.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">No, it can't overcome me, but you can say it's Mother's gift. Another thing...</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Visitor:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">That is also your greatest achievement, Gurudev.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Achievement... everything is Mother's achievement. Who would come here if Mother weren't here? Who would come to this abode of death? This is the abode of death; who would come? People come because Mother is here. I come and sit like anyone else. People have come to know that I can do so much good work. That's why people come to me, with the firm belief that if I just touch them or give them something... I give brick, wood, soil—I have nothing of my own to give. I give brick, wood, soil, and that's how people get well. People are crazy for that. If you come at seven in the morning, you'll see a line forming from then.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Visitor:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, Gurudev, I've seen it many times.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">You've seen it, right? It gets very crowded. Those who are ill come, seek blessings, touch me, and all that. Now, touching them often makes it better for us too.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Visitor:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">But Gurudev, the doctor who came today told you to stay away from people for a few days. But you aren't listening to that, Gurudev.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Oh, scientists, they will say that, my friend. Every moment they will say stay away from people. Such a big COVID phase passed; so many people came. Thousands of people came. They touched me; so tell me what happened to me? That's true, right? In scientific terms, they will sanitize, but I don't. I don't wear a mask. This is how I am; I don't care about all that. I treat COVID with indifference; I dismiss it. Some ask me if I said COVID is gone. I say, yes, COVID is gone; there's nothing left. The death rate has come down to 1 percent. In COVID, the death rate has dropped to 1 point one percent. So even if it hasn't completely gone, what of it? It's gone, but it's not being allowed to go; it's a big business now. I've said it before, and I'm saying it now, there's no bigger business currently than COVID. Just business, business, business. COVID is gradually fading away. Its back is broken, the head and tail are separated; you can see whatever little is left. And if people were more aware, this COVID would have been gone long ago. Look, yesterday roads were blocked and there was a baton-charge for starting train services. It's hard to say how many more people will be affected if trains start. And the doctor said there are no beds in any hospital. We can't even give references; we can't give references for our own family members.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Visitor:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, now that the festive season is approaching, people will go out, and they will spread COVID even more.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">They will go out and get ill; nothing can be done. If I dig my own grave... I'm like Kalidas. I'm cutting the branch I'm sitting on, so what's there to happen to me? And our government is even more frantic; they've given fifty thousand rupees to clubs. Well, everyone knows why they've given it. I don't want to argue about why the money was given. They've done a very good job. And they're doing even better work if 10 to 50 thousand people get attacked after the festival. You'll see. It was almost gone; it was at 4 percent. But then this festival happened, and people were allowed out. Now, every day 3 to 5 thousand are affected. Maybe the death rate is negligible, but people are getting attacked.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Visitor:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">So Gurudev, are you saying this is a wrong notion of our West Bengal government?</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">People's arrogance and people not accepting this disease... people not maintaining distance from one another—these are people's arrogance, and they will have to face the consequences. What's happening is, they will face the consequences. If someone next door gets it, people are leaving their homes and moving away. If a neighbor gets it, since houses are so close nowadays, people are taking their children and moving elsewhere. If they get it during these times, think of the problems. And amidst all this, if the government encourages such excitement, then we can't do anything. If the government provides fuel, it's fine; the government will manage. The doctor said not a single seat is vacant. Now, if someone gets COVID, where will they go? It's fine, it's fine; government decisions are fine, people's decisions are fine. Now, everyone has to look out for themselves.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Visitor:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">So Gurudev, today I learned the real reason for your illness, why you fall ill from time to time. And I also learned about the current wrong decision of the government.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Of course, it's not a wrong decision; what's happening is... I also feel it shouldn't be so.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Visitor:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, my respectful greetings to you.</span>
+</div>
 
 </div>
