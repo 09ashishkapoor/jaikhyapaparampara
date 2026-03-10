@@ -37,3 +37,51 @@
 - markdownfiles_forblog/tobeprocessed/transcript_3qxGZlivw_Y.md → articles/god-of-fate-bhagya-vidhata-story-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_e3iFjIbZtKY.md → articles/covid-vaccine-discussion-doctor-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_-EUn5MojmD8.md → articles/keshavji-maharaj-rss-founder-hedgewar-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_CZCTSD4R9gg.md → articles/nothing-is-mine-pre-established-harmony-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_Cu-_Zz08Rbc.md → articles/krishna-birth-kamsa-prison-janmashtami-story-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_1m0mubGYz9Q.md → articles/bhavishya-malika-scientific-validation-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_-4RRRRgY0hA.md → articles/covid-19-divine-creation-celestial-prophecy-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_-b4mT_yMAqM.md → articles/did-humans-create-god-guru-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_-c7k29_mDXQ.md → articles/universal-truth-jesus-christ-power-universe-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_-FaUZB2WngQ.md → articles/puri-temple-flag-inauspicious-sign-apocalypse-warning.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_-EVLaDLbBHM.md → articles/covid-19-medical-insights-dr-nilanjana-bhattacharya-ruby-hospital.md
+- markdownfiles_forblog/tobeprocessed/transcript_-fVx1p-51jk.md → articles/did-gurudev-signal-a-second-disaster-in-2021-prophecies-of-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_-jiMzPSIGr0.md → articles/what-did-gurudev-predict-about-delta-plus-spiritual-insights-on-the-covid-19-pandemic.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_-MFen0-Zff4.md → articles/mahakal-temple-ujjain-mystery-liquor-offering-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_-OPR2V7jXqE.md → articles/geopolitics-spirituality-future-predictions-guru-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_-oX5xn0476w.md → articles/gurudevs-enlightenment-mother-tara-tarapith-pilgrimage.md
+- markdownfiles_forblog/tobeprocessed/transcript_-q7oeGz9GlE.md → articles/sapta-sati-sati-peetha-sacred-sites-spiritual-power-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_-qOf5rdyD_c.md → articles/youtube-channel-hacked-recovery-story-sanket-achievement.md
+- markdownfiles_forblog/tobeprocessed/transcript_-qOuxj6KLQ8.md → articles/name-fame-respect-wealth-ego-spiritual-perspective-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_-SD8ryMPfOk.md → articles/women-not-untouchable-shantikunj-equality-homa-rituals.md
+- markdownfiles_forblog/tobeprocessed/transcript_-sV7IBR3Bno.md → articles/durga-puja-arrival-departure-omens-storms-rain-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_-t8__vTg3WQ.md → articles/mother-elephant-killing-consequences-kali-yuga-cruelty-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_-zIycXzon38.md → articles/annada-thakur-addya-ma-divine-story-eden-gardens.md
+- markdownfiles_forblog/tobeprocessed/transcript_0_ORHcsXqok.md → articles/ban-mara-black-magic-remedy-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_02LVWqsjZWs.md → articles/real-meaning-god-dualism-non-dualism-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_03XREZx9nQ4.md → articles/mahamrityunjay-yagya-1000-days-guru-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_09sBJIF1dfc.md → articles/pagla-baba-kamakhya-padayatra-1400km-pilgrimage.md
+- markdownfiles_forblog/tobeprocessed/transcript_0A0ntWBDXlk.md → articles/duggi-real-name-durga-four-names-kola-bou-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_0DkMBiRFvuA.md → articles/pagla-baba-journey-naxalbari-divine-mother-escort.md
+- markdownfiles_forblog/tobeprocessed/transcript_0fzt4w1XDMI.md → articles/seven-chakras-body-medical-spiritual-perspective.md
+- markdownfiles_forblog/tobeprocessed/transcript_0i12jXzTh2g.md → articles/saptarshi-book-biography-gurudev-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_0lu3qT4sEfE.md → articles/gurudev-will-not-see-again-apocalypse-2023-kali-raj.md
+- markdownfiles_forblog/tobeprocessed/transcript_0SFyEvFuqdA.md → articles/rahu-birth-story-final-episode-surya-chandra-eclipse.md
+- markdownfiles_forblog/tobeprocessed/transcript_8Wr5ikd57P0.md → articles/mother-freed-chain-divine-message-shantikunj.md
+- markdownfiles_forblog/tobeprocessed/transcript_6ejwSE1mh6c.md → articles/vibhuti-holy-ash-mystery-healing-homa-ritual.md
+- markdownfiles_forblog/tobeprocessed/transcript_ELPkHKPRaKY.md → articles/ten-directions-dash-dik-pal-guardians-mantras-vastu.md
+- markdownfiles_forblog/tobeprocessed/transcript_FkllXUOSkeM.md → articles/gupta-sadhak-secret-22-years-time-settle-accounts.md
+- markdownfiles_forblog/tobeprocessed/transcript_aYPK-rvWATA.md → articles/astika-muni-mansa-devi-mahabharata-nag-panchami.md
+- markdownfiles_forblog/tobeprocessed/transcript_aiLSETraaWM.md → articles/mahashivratri-four-phases-puja-bael-leaves-hunter-story.md
+- markdownfiles_forblog/tobeprocessed/transcript_f2oaERaGHYs.md → articles/durga-puja-only-way-salvation-pandemic-covid.md
+- markdownfiles_forblog/tobeprocessed/transcript_9_qpkHlItTI.md → articles/narmada-chief-priest-meeting-spiritual-dialogue.md
+- markdownfiles_forblog/tobeprocessed/transcript_8rLfiyqMsZ0.md → articles/decline-of-mankind-social-collapse-family-breakdown.md
+- markdownfiles_forblog/tobeprocessed/transcript_2RBLlfzMcu8.md → articles/dharma-moral-teachers-gurus-modern-times.md
+- markdownfiles_forblog/tobeprocessed/transcript_6RbUwDA-XOQ.md → articles/bharat-sevashram-sangha-pushkar-pindadaan-suicide.md
+- markdownfiles_forblog/tobeprocessed/transcript_EhJ_R35NFhI.md → articles/knowing-understanding-god-parents-children-dharma.md
+- markdownfiles_forblog/tobeprocessed/transcript_6BRkvqohLMM.md → articles/science-spirituality-doctors-meet-gurudev.md
+- markdownfiles_forblog/tobeprocessed/transcript_fxlZmd2VsT0.md → articles/annual-festival-mother-tara-chokkhudaan-preparations.md
+- markdownfiles_forblog/tobeprocessed/transcript_9nKm3-zEjvY_english.md → articles/tarapith-sadhana-brahma-shila-bama-khepa.md
+- markdownfiles_forblog/tobeprocessed/transcript_0uxsBg5dVYQ.md → articles/gods-watch-sin-virtue-internal-cctv-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_0vbqCzhqauw.md → articles/gotras-lineages-16-bengali-sages-rishi-bloodlines.md
+- markdownfiles_forblog/tobeprocessed/transcript_0YqdxDlXlsg.md → articles/baba-lokenath-life-160-years-himalayas-barodi.md

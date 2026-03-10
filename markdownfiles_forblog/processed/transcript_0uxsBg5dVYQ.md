@@ -1,27 +1,18 @@
-What we do everyday, is there anyone who is watching? God's Watch, Part One
-YouTube Link: https://www.youtube.com/watch?v=0uxsBg5dVYQ
+What we do everyday, is there anyone who is watching? God's Watch, Part One YouTube Link: https://www.youtube.com/watch?v=0uxsBg5dVYQ
 
 Here is the clean, punctuated, and well-formatted transcript of the audio in English:
 
-***
+[00:00 - 00:11] (Traditional ritualistic music and trumpet sounds)
 
-**[00:00 - 00:11]**
-*(Traditional ritualistic music and trumpet sounds)*
+Narrator: Salutations to the respected spiritual seeker, Shri Shri Guptasadhak Syamakhapa. Greetings from Shantikunj. We are beginning today’s program. Let us all listen to the invaluable words of the Guru.
 
-**Narrator:**
-Salutations to the respected spiritual seeker, Shri Shri Guptasadhak Syamakhapa. Greetings from Shantikunj. We are beginning today’s program. Let us all listen to the invaluable words of the Guru.
+Disciple: Greetings, Guru Dev.
 
-**Disciple:**
-Greetings, Guru Dev.
+Guru Syamakhapa: Blessings, my child. Tell me.
 
-**Guru Syamakhapa:**
-Blessings, my child. Tell me.
+Disciple: Guru Dev, we call upon God daily. We work tirelessly to survive in this society. Someone must be watching us. He must be judging our sins and virtues. What do you have to say about this?
 
-**Disciple:**
-Guru Dev, we call upon God daily. We work tirelessly to survive in this society. Someone must be watching us. He must be judging our sins and virtues. What do you have to say about this?
-
-**Guru Syamakhapa:**
-Look, you do not have the power to judge sins and virtues. We often say one thing: whatever actions you perform throughout the day, tell them to God at night. Tell Him, "I have performed these actions today." If you have committed a sin for some reason—and many people commit sins just to survive—remember that no one is born a sinner. People commit sins based on their circumstances.
+Guru Syamakhapa: Look, you do not have the power to judge sins and virtues. We often say one thing: whatever actions you perform throughout the day, tell them to God at night. Tell Him, "I have performed these actions today." If you have committed a sin for some reason—and many people commit sins just to survive—remember that no one is born a sinner. People commit sins based on their circumstances.
 
 Not everyone is a sinner; there are many virtuous souls as well. Our teaching is this: whatever you do during the day, report it to God at night. Whether it is sin or virtue, let Him judge it. We do not have the capacity to judge sins and virtues ourselves. We often don't even know which of our actions are sins and which are virtues.
 
@@ -55,31 +46,22 @@ The Guru said, "You are the right person. Because you realized that whatever act
 
 If you do bad deeds, you must wait for the consequences in the next life. If you do good deeds, you also wait for the rewards. This is the law.
 
-**Disciple:**
-Guru Dev, I have a question. When someone commits a grave sin, people say, "You will have to suffer the punishment. Yamaraj will punish you after death." What is the meaning of this?
+Disciple: Guru Dev, I have a question. When someone commits a grave sin, people say, "You will have to suffer the punishment. Yamaraj will punish you after death." What is the meaning of this?
 
-**Guru Syamakhapa:**
-In our current social system, when we do not get proper justice, we say these things. We have courts of law, but everything is being bought and sold with money. In the place where I am supposed to get justice, things are corrupted. As I’ve said before, a book of law costs five rupees, but the book on how to break the law costs five hundred rupees. When laws are made, loopholes are created so that certain people can escape. Injustice has spread across the country. If you have money or political power, people will support your sins. This is how the "infection" of sin spreads. A powerful man's sins are not judged by men. Only God can judge him.
+Guru Syamakhapa: In our current social system, when we do not get proper justice, we say these things. We have courts of law, but everything is being bought and sold with money. In the place where I am supposed to get justice, things are corrupted. As I’ve said before, a book of law costs five rupees, but the book on how to break the law costs five hundred rupees. When laws are made, loopholes are created so that certain people can escape. Injustice has spread across the country. If you have money or political power, people will support your sins. This is how the "infection" of sin spreads. A powerful man's sins are not judged by men. Only God can judge him.
 
 That is why we say, when we don't get justice on Earth, we turn to God and say, "God will judge you." When no other path is open, God becomes our only resource.
 
-**Disciple:**
-You mentioned the "cup of sin" being filled.
+Disciple: You mentioned the "cup of sin" being filled.
 
-**Guru Syamakhapa:**
-Yes, the cup of sin gets filled. Like the story of Shishupala, God sets a limit. He says, "Do not go beyond this." But humans ignore that limit. They are blinded by greed for money and power. They have no sense of proportion. God has a limit, but common people don't know it. They commit one sin after another. They are supported by the "leaders" or the powerful people of the village or society, and so crime increases. They think, "If he can do it, why can't I?" They join a political party and commit all sorts of crimes in God's name. The result is terrible.
+Guru Syamakhapa: Yes, the cup of sin gets filled. Like the story of Shishupala, God sets a limit. He says, "Do not go beyond this." But humans ignore that limit. They are blinded by greed for money and power. They have no sense of proportion. God has a limit, but common people don't know it. They commit one sin after another. They are supported by the "leaders" or the powerful people of the village or society, and so crime increases. They think, "If he can do it, why can't I?" They join a political party and commit all sorts of crimes in God's name. The result is terrible.
 
 Some people tell me, "He committed so many sins and then just died suddenly." I tell them, God took him away like that, but think about his next birth. A man might commit great sins and then die in an accident before he could even see a doctor. People ask, "He's dead now, so how will he suffer for his sins?" I say, the sin is carried over to the next birth. He had that much time in this life, so God ended it, but the next life He gives will be terrifying.
 
 So, you don't have the power to judge. God will judge. Surrender to Him. Surrender both your sins and your virtues to Him. You have no other way. "Nanya pantha vidyate" (There is no other way). Understand Him, know Him, and surrender. Do your work, but do not obsess over the results. Surrender your actions to Him. But people don't do this. They are driven by the heat of their blood and the ego of their wealth. Let them be.
 
-**Disciple:**
-Friends, please subscribe to the Guptasadhak Syamakhapa YouTube channel, like the videos, and leave your comments. Stay tuned for more invaluable videos from the Guru. Greetings, Guru Dev.
+Disciple: Friends, please subscribe to the Guptasadhak Syamakhapa YouTube channel, like the videos, and leave your comments. Stay tuned for more invaluable videos from the Guru. Greetings, Guru Dev.
 
-**Guru Syamakhapa:**
-Blessings, my child.
+Guru Syamakhapa: Blessings, my child.
 
-**Narrator:**
-You were listening to the words of Guru Guptasadhak Shri Shri Syamakhapa. Let us know how you liked it. To hear the Guru's invaluable words regularly, please subscribe, like, share, and comment on the Syamakhapa channel. To contact the Guru, please WhatsApp your name, location, and phone number only between 10 AM and 6 PM. The Guru will call you back as soon as possible. The WhatsApp number is 8080539595. With salutations to the Guru and wishing you all the best and the Guru's blessings, we end today's program. Stay well. Namaskar.
-
-***
+Narrator: You were listening to the words of Guru Guptasadhak Shri Shri Syamakhapa. Let us know how you liked it. To hear the Guru's invaluable words regularly, please subscribe, like, share, and comment on the Syamakhapa channel. To contact the Guru, please WhatsApp your name, location, and phone number only between 10 AM and 6 PM. The Guru will call you back as soon as possible. The WhatsApp number is 8080539595. With salutations to the Guru and wishing you all the best and the Guru's blessings, we end today's program. Stay well. Namaskar.
