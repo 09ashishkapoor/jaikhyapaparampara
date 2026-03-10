@@ -2,6 +2,20 @@
 <!-- This file is auto-maintained by the blog-converter agent. Do not edit manually. -->
 
 ## Completed Transcripts
+- markdownfiles_forblog/tobeprocessed/transcript_1kQqKf0Wezk.md → articles/swami-vivekananda-women-education-youth-suicide-horoscopes-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_56Jhs2Fpfqc.md → articles/22-years-bablu-de-testimony-miracles-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_96D9kIEqTT4.md → articles/divine-coconut-idol-amphan-cyclone-ajay-mondal-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_G3oQAX4fcW8.md → articles/fire-ritual-world-peace-mundamalini-khepada-kalu-babu-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_eKPBYWJDx1E.md → articles/unknown-bamdeb-part-3-temper-mother-tara-confrontation-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_ferI1mWZ5Sw.md → articles/jambavan-unknown-information-ramayana-mahabharata-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_bv89iE42-gw.md → articles/god-hears-cries-of-children-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_5NjHfabglNA.md → articles/seven-seas-thirteen-rivers-internal-external-ritual-significance-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_1dlWwKd9Ajc.md → articles/jupiter-saturn-conjunction-saturn-birth-story-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_4DGD0P_9E_o.md → articles/chanting-world-peace-mrityunjay-prayer-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_6xK8QESnqNw.md → articles/sati-peeth-part-one-seven-mahasatis-kamakhya-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_C54Pq47uB0c.md → articles/satyanveshi-water-calculation-method-kriya-yoga-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_DLTltPx6ok4.md → articles/arrival-smashan-kali-102-year-old-image-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_9AEE1_LACCs.md → articles/the-secret-of-kumbhaka-guru-shyama-khyapa-on-yogic-breath-and-longevity.md (ALREADY EXISTS - skipped)
 - markdownfiles_forblog/tobeprocessed/transcript_31UcFLLWrac.md → articles/ambubachi-mothers-earth-menstrual-cycle-creation.md
 - markdownfiles_forblog/processed/transcript_zu8VhFbYoos_batch.md → articles/is-formal-worship-mandatory-guru-shyama-khyapa-on-rituals-nature-and-brahman.md
 - markdownfiles_forblog/tobeprocessed/transcript_-0WmbAQQoyw.md → articles/prophecy-2025-disaster-signs-saturn-pisces-eclipse-shyama-khyapa.md
@@ -108,3 +122,7 @@
 - markdownfiles_forblog/processed/transcript_Ap-lJ-Hf1A4.md → articles/khona-khonar-bochon-legendary-woman-varahamihira-shyama-khyapa.md
 - markdownfiles_forblog/processed/transcript_deNhJoTtWZk.md → articles/one-goal-different-paths-delta-plus-dr-amitabha-paul-homa-shyama-khyapa.md
 - markdownfiles_forblog/processed/transcript_AEQU7xLDMqU.md → articles/who-is-the-guru-of-sin-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_9AEE1_LACCs.md → articles/the-secret-of-kumbhaka-guru-shyama-khyapa-on-yogic-breath-and-longevity.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_92Pqe4cQNDM.md → articles/mother-visit-vama-tara-chained-shanti-kunj-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_FlgY5yqvw1o.md → articles/name-best-kali-hari-naam-sankirtan-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_fP0Vf5789kM.md → articles/gurudev-memory-tarapith-crematorium-siddhi-pyres-shyama-khyapa.md
