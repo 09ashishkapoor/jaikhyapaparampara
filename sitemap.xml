@@ -3,7 +3,7 @@
   <url>
     <loc>https://jaikhyapaparampara.com/</loc>
     
-    <lastmod>2026-03-09T20:03:00.000Z</lastmod>
+    <lastmod>2026-03-10T10:09:00.000Z</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -16,7 +16,7 @@
   <url>
     <loc>https://jaikhyapaparampara.com/articles/</loc>
     
-    <lastmod>2026-03-09T20:03:00.000Z</lastmod>
+    <lastmod>2026-03-10T10:09:00.000Z</lastmod>
     
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -49,6 +49,76 @@
   </url>
 
   <!-- Blog Articles -->
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/one-goal-different-paths-delta-plus-dr-amitabha-paul-homa-shyama-khyapa/</loc>
+    <lastmod>2026-03-10T10:09:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/khona-khonar-bochon-legendary-woman-varahamihira-shyama-khyapa/</loc>
+    <lastmod>2026-03-10T10:08:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/special-announcement-gurudev-not-seeing-visitors-shyama-khyapa/</loc>
+    <lastmod>2026-03-10T10:07:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/vishwakarma-puja-discussion-durga-puja-mahalaya-shyama-khyapa/</loc>
+    <lastmod>2026-03-10T10:06:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/narada-sanbad-story-poor-brahmin-durba-grass-shyama-khyapa/</loc>
+    <lastmod>2026-03-10T10:05:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/you-be-honest-real-fake-guru-eight-markers-om-tat-sat-shyama-khyapa/</loc>
+    <lastmod>2026-03-10T10:04:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/gyanvapi-mosque-temple-kashi-vishwanath-aurangzeb-shyama-khyapa/</loc>
+    <lastmod>2026-03-10T10:03:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/vijaya-dashami-rituals-essence-bijoya-durga-puja-shyama-khyapa/</loc>
+    <lastmod>2026-03-10T10:02:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/pagla-baba-current-location-jangipur-kamakhya-pilgrimage-shyama-khyapa/</loc>
+    <lastmod>2026-03-10T10:01:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/do-saints-discriminate-between-religions-islam-sanatana-dharma-shyama-khyapa/</loc>
+    <lastmod>2026-03-10T10:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   
   <url>
     <loc>https://jaikhyapaparampara.com/articles/kaushiki-amavasya-meaning-ritual-warning-shyama-khyapa/</loc>
@@ -3242,6 +3312,33 @@
   
   
   <url>
+    <loc>https://jaikhyapaparampara.com/tags/islam/</loc>
+    <lastmod>2026-03-10T10:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/sanatana-dharma/</loc>
+    <lastmod>2026-03-10T10:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/religious-unity/</loc>
+    <lastmod>2026-03-10T10:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://jaikhyapaparampara.com/tags/ma-tara/</loc>
     <lastmod>2026-03-05T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -4646,6 +4743,24 @@
   
   
   <url>
+    <loc>https://jaikhyapaparampara.com/tags/gyanvapi/</loc>
+    <lastmod>2026-03-10T10:03:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/kashi-vishwanath/</loc>
+    <lastmod>2026-03-10T10:03:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://jaikhyapaparampara.com/tags/miracles/</loc>
     <lastmod>2026-03-09T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -5411,6 +5526,24 @@
   
   
   <url>
+    <loc>https://jaikhyapaparampara.com/tags/khona/</loc>
+    <lastmod>2026-03-10T10:08:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/khonar-bochon/</loc>
+    <lastmod>2026-03-10T10:08:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://jaikhyapaparampara.com/tags/parents/</loc>
     <lastmod>2026-03-09T19:47:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -6122,6 +6255,24 @@
   
   
   <url>
+    <loc>https://jaikhyapaparampara.com/tags/narada/</loc>
+    <lastmod>2026-03-10T10:05:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/durba-grass/</loc>
+    <lastmod>2026-03-10T10:05:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://jaikhyapaparampara.com/tags/narmada/</loc>
     <lastmod>2026-03-05T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -6311,6 +6462,15 @@
   
   
   <url>
+    <loc>https://jaikhyapaparampara.com/tags/delta-plus/</loc>
+    <lastmod>2026-03-05T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://jaikhyapaparampara.com/tags/shakha/</loc>
     <lastmod>2026-03-09T20:01:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -6358,6 +6518,15 @@
   <url>
     <loc>https://jaikhyapaparampara.com/tags/pagla-baba/</loc>
     <lastmod>2026-03-05T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/kamakhya-pilgrimage/</loc>
+    <lastmod>2026-03-10T10:01:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -8561,6 +8730,24 @@
   
   
   <url>
+    <loc>https://jaikhyapaparampara.com/tags/vijaya-dashami/</loc>
+    <lastmod>2026-03-10T10:02:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/bijoya/</loc>
+    <lastmod>2026-03-10T10:02:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://jaikhyapaparampara.com/tags/vijayadashami/</loc>
     <lastmod>2026-03-09T19:06:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -8579,8 +8766,8 @@
   
   
   <url>
-    <loc>https://jaikhyapaparampara.com/tags/delta-plus/</loc>
-    <lastmod>2026-03-05T00:00:00.000Z</lastmod>
+    <loc>https://jaikhyapaparampara.com/tags/vishwakarma-puja/</loc>
+    <lastmod>2026-03-10T10:06:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -8950,6 +9137,15 @@
   <url>
     <loc>https://jaikhyapaparampara.com/tags/tradition/</loc>
     <lastmod>2025-12-27T11:30:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/real-guru/</loc>
+    <lastmod>2026-03-10T10:04:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

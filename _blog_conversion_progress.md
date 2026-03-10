@@ -97,3 +97,14 @@
 - markdownfiles_forblog/tobeprocessed/transcript_9dZaw9g5mN0.md → articles/mother-hangseshwari-bansberia-tantric-architecture.md
 - markdownfiles_forblog/processed/transcript_EZBKaiy0_R8.md → articles/gurudev-rajdarshan-sobhabazar-rajbari-gopinath-shyama-khyapa.md
 - markdownfiles_forblog/processed/transcript_EtBCdy3jlGs.md → articles/kaushiki-amavasya-meaning-ritual-warning-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_fDLSeWtM9QU.md → articles/do-saints-discriminate-between-religions-islam-sanatana-dharma-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_fBzfHvbAqrM.md → articles/pagla-baba-current-location-jangipur-kamakhya-pilgrimage-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_f5zNlJkNo5c.md → articles/vijaya-dashami-rituals-essence-bijoya-durga-puja-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_BFvB0lTXopM.md → articles/gyanvapi-mosque-temple-kashi-vishwanath-aurangzeb-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_aR9PScKzkyQ.md → articles/you-be-honest-real-fake-guru-eight-markers-om-tat-sat-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_FISGLvV-DJI.md → articles/narada-sanbad-story-poor-brahmin-durba-grass-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_7BwDgDBj_9M.md → articles/vishwakarma-puja-discussion-durga-puja-mahalaya-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_g2VXQddjqjQ.md → articles/special-announcement-gurudev-not-seeing-visitors-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_Ap-lJ-Hf1A4.md → articles/khona-khonar-bochon-legendary-woman-varahamihira-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_deNhJoTtWZk.md → articles/one-goal-different-paths-delta-plus-dr-amitabha-paul-homa-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_AEQU7xLDMqU.md → articles/who-is-the-guru-of-sin-shyama-khyapa.md (ALREADY EXISTS - skipped)

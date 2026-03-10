@@ -12,13 +12,13 @@ Gurudev: The spiritual leader/teacher
 
 [00:09] Devotee: Pranams, Gurudev. Today I would like to discuss a topic with you. If you could say something about the Gyanvapi Temple near the Kashi Vishwanath Temple—the one people are calling a mosque.
 
-[00:22] Gurudev: Gyanvapi... that is a Hindu name, not a Muslim one. First of all, the very name refers to a Hindu context. During Aurangzeb’s time, almost all prominent temples were demolished and mosques were built in their place. Every single one.
+[00:22] Gurudev: Gyanvapi... that is a Hindu name, not a Muslim one. First of all, the very name refers to a Hindu context. During Aurangzeb's time, almost all prominent temples were demolished and mosques were built in their place. Every single one.
 
 [00:43] Devotee: Ayodhya...
 
-[00:44] Gurudev: Yes, the Babri Masjid in Ayodhya was the same. Wherever there are large, significant temples, you will see a mosque built right next to them. If they couldn’t completely destroy the temple, they built a mosque beside it. You will see this throughout India.
+[00:44] Gurudev: Yes, the Babri Masjid in Ayodhya was the same. Wherever there are large, significant temples, you will see a mosque built right next to them. If they couldn't completely destroy the temple, they built a mosque beside it. You will see this throughout India.
 
-[00:59] Gurudev: I have been to the Gyanvapi mosque. Since I stayed in Benares for a long time and performed penance there, I visited it. It is a massive structure. At the time, I couldn’t even imagine that such magnificent architecture—our Hindu architecture—lay beneath it. Deva-dhideva Mahadev (Lord Shiva) is there.
+[00:59] Gurudev: I have been to the Gyanvapi mosque. Since I stayed in Benares for a long time and performed penance there, I visited it. It is a massive structure. At the time, I couldn't even imagine that such magnificent architecture—our Hindu architecture—lay beneath it. Deva-dhideva Mahadev (Lord Shiva) is there.
 
 [1:16] Devotee: They had blocked it all by building artificial walls. Many idols of gods and goddesses were there.
 
@@ -34,9 +34,9 @@ Gurudev: The spiritual leader/teacher
 
 [1:57] Devotee: The hearing is ongoing in the High Court; the final decision is expected on Monday.
 
-[2:01] Gurudev: If that happens... although it is a very sensitive issue. There is a lot to consider because it’s incredibly sensitive. First, there was Ayodhya, and if the Gyanvapi temple follows, it might lead to some difficulties from other perspectives.
+[2:01] Gurudev: If that happens... although it is a very sensitive issue. There is a lot to consider because it's incredibly sensitive. First, there was Ayodhya, and if the Gyanvapi temple follows, it might lead to some difficulties from other perspectives.
 
-[2:19] Gurudev: Regardless, the main point is that we are Hindus. Our "Hindu Rashtra" (Hindu Nation) is about to be initiated. Therefore, we will perform our rituals and worship. Puja will be conducted according to the Hindu tradition. The High Court’s ruling makes one thing clear: there are Hindu deities there, so worship should happen. It has already begun under the guidance of Brahmins, and there have been no objections so far.
+[2:19] Gurudev: Regardless, the main point is that we are Hindus. Our "Hindu Rashtra" (Hindu Nation) is about to be initiated. Therefore, we will perform our rituals and worship. Puja will be conducted according to the Hindu tradition. The High Court's ruling makes one thing clear: there are Hindu deities there, so worship should happen. It has already begun under the guidance of Brahmins, and there have been no objections so far.
 
 [2:53] Devotee: Worship had been stopped there since 1993.
 
@@ -54,7 +54,7 @@ Gurudev: The spiritual leader/teacher
 
 [3:49] Gurudev: In many places. As I said, wherever there were grand temples that Aurangzeb couldn't fully destroy, he built a mosque right next to them. You will see mosques adjacent to almost every major temple. They did this to assert their religion and suppress ours.
 
-[4:06] Gurudev: This happened primarily during Aurangzeb’s time. There is a saying: "Babur's era brought fever, and the remedy was found in medicine." They ruled for 500 years—from Akbar onwards.
+[4:06] Gurudev: This happened primarily during Aurangzeb's time. There is a saying: "Babur's era brought fever, and the remedy was found in medicine." They ruled for 500 years—from Akbar onwards.
 
 [4:21] Devotee: Shah Jahan did it too.
 
@@ -94,7 +94,7 @@ Gurudev: The spiritual leader/teacher
 
 [8:02] Gurudev: 13 or 15. They will attack India. I have also heard there might be a missile attack on the Kalighat temple.
 
-[8:10] Devotee: It’s possible.
+[8:10] Devotee: It's possible.
 
 [8:11] Gurudev: And not just there; it could happen to the Ram Temple as well. They are trying their hardest. Groups like the Taliban cannot accept this. They will try in the near future. They may not succeed, but they will not stop trying. They simply cannot accept any religion above their own.
 
@@ -102,7 +102,7 @@ Gurudev: The spiritual leader/teacher
 
 [8:41] Gurudev: Look, just as our Kalki Avatar is coming to destroy the wicked and protect the righteous, their "Mahdi" is also coming. He is said to have arrived already and has a fearsome appearance. He has begun the slaughter of Muslims—the destruction of the wicked and the protection of the righteous is happening on all sides.
 
-[9:04] Gurudev: Everyone is saying that 2024, 2025, and 2026 will be three very dangerous years. Many people will be wiped off the earth. Ultimately, India might even be broken into pieces. It’s hard to say, but when a magnitude 8 earthquake occurs on the Richter scale, many things will shift.
+[9:04] Gurudev: Everyone is saying that 2024, 2025, and 2026 will be three very dangerous years. Many people will be wiped off the earth. Ultimately, India might even be broken into pieces. It's hard to say, but when a magnitude 8 earthquake occurs on the Richter scale, many things will shift.
 
 [9:31] Gurudev: The Sunderbans might be divided.
 
@@ -128,7 +128,7 @@ Gurudev: The spiritual leader/teacher
 
 [12:11] Gurudev: Therefore, we can say that in the coming days, the tides will stop, and the water will gradually recede and turn into sand. That is what will happen.
 
-[12:28] Devotee: Gurudev, let’s leave it here for today. Pranams.
+[12:28] Devotee: Gurudev, let's leave it here for today. Pranams.
 
 [12:31] Gurudev: Pranams.
 
