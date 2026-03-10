@@ -139,3 +139,9 @@
 - markdownfiles_forblog/tobeprocessed/transcript_5XSnFxRoetQ.md → articles/the-greatness-of-tantra-practice-in-this-era-gurudev-shyama-khyapas-insights.md (ALREADY EXISTS - skipped)
 - markdownfiles_forblog/tobeprocessed/transcript_awvKQRa6SPQ.md → articles/prophecy-new-bengali-year-kalki-avatar-mahapralay-2024.md (ALREADY EXISTS - skipped)
 - markdownfiles_forblog/tobeprocessed/transcript_cP8lAhsXBe8.md → articles/lunar-eclipse-advice-buddha-purnima-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_6Erg1QvOezU.md → articles/guruma-amrit-lok-yatra-mourning-guidance-disciples.md
+- markdownfiles_forblog/tobeprocessed/transcript_fidJJDPdKH8.md → articles/how-is-gurudev-health-update-message-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_f7JZDWBp6eQ.md → articles/homam-world-peace-shantikunj-2021-predictions-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_C1h7RRLxy0k.md → articles/astrology-vs-astronomy-what-is-authentic-insights-from-guru-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_a1YvtY2EZks.md → articles/mother-annapurna-secrets-gyanganj-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_BCOBjUa3tuA.md → articles/nature-technology-metro-tunnel-climate-dialogue-shyama-khyapa.md

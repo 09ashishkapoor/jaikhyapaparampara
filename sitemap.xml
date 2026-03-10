@@ -3,7 +3,7 @@
   <url>
     <loc>https://jaikhyapaparampara.com/</loc>
     
-    <lastmod>2026-03-10T10:29:00.000Z</lastmod>
+    <lastmod>2026-03-10T10:34:00.000Z</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -16,7 +16,7 @@
   <url>
     <loc>https://jaikhyapaparampara.com/articles/</loc>
     
-    <lastmod>2026-03-10T10:29:00.000Z</lastmod>
+    <lastmod>2026-03-10T10:34:00.000Z</lastmod>
     
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -49,6 +49,41 @@
   </url>
 
   <!-- Blog Articles -->
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/nature-technology-metro-tunnel-climate-dialogue-shyama-khyapa/</loc>
+    <lastmod>2026-03-10T10:34:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/mother-annapurna-secrets-gyanganj-guru-shyama-khyapa/</loc>
+    <lastmod>2026-03-10T10:33:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/homam-world-peace-shantikunj-2021-predictions-shyama-khyapa/</loc>
+    <lastmod>2026-03-10T10:32:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/how-is-gurudev-health-update-message-shyama-khyapa/</loc>
+    <lastmod>2026-03-10T10:31:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/guruma-amrit-lok-yatra-mourning-guidance-disciples/</loc>
+    <lastmod>2026-03-10T10:30:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   
   <url>
     <loc>https://jaikhyapaparampara.com/articles/lunar-eclipse-advice-buddha-purnima-guru-shyama-khyapa/</loc>
@@ -5203,6 +5238,42 @@
   
   
   <url>
+    <loc>https://jaikhyapaparampara.com/tags/guruma/</loc>
+    <lastmod>2026-03-10T10:30:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/amrit-lok/</loc>
+    <lastmod>2026-03-10T10:30:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/mourning/</loc>
+    <lastmod>2026-03-10T10:30:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/disciples/</loc>
+    <lastmod>2026-03-10T10:30:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://jaikhyapaparampara.com/tags/gyanvapi/</loc>
     <lastmod>2026-03-10T10:03:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -5250,6 +5321,69 @@
   <url>
     <loc>https://jaikhyapaparampara.com/tags/virus/</loc>
     <lastmod>2026-03-09T19:55:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/homam/</loc>
+    <lastmod>2026-03-10T10:32:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/world-peace/</loc>
+    <lastmod>2026-03-10T10:32:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/2021-predictions/</loc>
+    <lastmod>2026-03-10T10:32:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/rituals/</loc>
+    <lastmod>2026-03-10T10:29:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/health-update/</loc>
+    <lastmod>2026-03-10T10:31:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/recovery/</loc>
+    <lastmod>2026-03-10T10:31:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/warning/</loc>
+    <lastmod>2026-03-10T10:31:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -6202,15 +6336,6 @@
   
   
   <url>
-    <loc>https://jaikhyapaparampara.com/tags/rituals/</loc>
-    <lastmod>2026-03-10T10:29:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  
-  
-  <url>
     <loc>https://jaikhyapaparampara.com/tags/purification/</loc>
     <lastmod>2026-03-10T10:29:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -6573,6 +6698,24 @@
   <url>
     <loc>https://jaikhyapaparampara.com/tags/greed/</loc>
     <lastmod>2025-12-26T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/mythology/</loc>
+    <lastmod>2026-03-10T10:33:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/yakshapuri/</loc>
+    <lastmod>2026-03-10T10:33:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -7023,6 +7166,51 @@
   <url>
     <loc>https://jaikhyapaparampara.com/tags/kalpanta/</loc>
     <lastmod>2026-03-06T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/nature/</loc>
+    <lastmod>2026-03-10T10:34:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/technology/</loc>
+    <lastmod>2026-03-10T10:34:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/climate-change/</loc>
+    <lastmod>2026-03-10T10:34:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/pollution/</loc>
+    <lastmod>2026-03-10T10:34:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/metro-tunnel/</loc>
+    <lastmod>2026-03-10T10:34:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
