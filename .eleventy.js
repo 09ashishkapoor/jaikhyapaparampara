@@ -63,48 +63,67 @@ module.exports = function(eleventyConfig) {
     });
   });
 
-  // Get all tags from articles
+  // Slugify helper - must match Nunjucks slugify for consistent permalinks
+  function slugifyTag(str) {
+    return String(str).toLowerCase().trim()
+      .replace(/\s+/g, '-')
+      .replace(/[^\w\-]+/g, '')
+      .replace(/\-\-+/g, '-');
+  }
+
+  // Get all tags from articles (deduplicated by slug to avoid permalink conflicts)
   eleventyConfig.addCollection("allTags", function(collectionApi) {
     const articles = collectionApi.getFilteredByGlob("articles/*.md");
-    const tagMap = new Map();
+    const slugToTags = new Map(); // slug -> Set of tag names that slugify to it
     
     articles.forEach(item => {
       (item.data.tags || []).forEach(tag => {
         if (tag !== "articles" && typeof tag === 'string') {
-          tagMap.set(tag.toLowerCase(), tag);
+          const slug = slugifyTag(tag);
+          if (!slugToTags.has(slug)) slugToTags.set(slug, new Set());
+          slugToTags.get(slug).add(tag);
         }
       });
     });
 
-    return Array.from(tagMap.values()).sort();
+    // Use lexicographically first tag as canonical for consistency
+    return Array.from(slugToTags.values())
+      .map(tags => [...tags].sort()[0])
+      .sort();
   });
 
-  // Create collections for each tag dynamically
+  // Create collections for each tag dynamically (merge tags that slugify to same URL)
   eleventyConfig.addCollection("all", function(collectionApi) {
     const articles = collectionApi.getFilteredByGlob("articles/*.md");
-    
-    // Get all unique tags and group articles by tag
-    const tagMap = new Map();
+    const slugToTags = new Map();   // slug -> Set of tag names
+    const slugToArticles = new Map();  // slug -> articles array
+
     articles.forEach(item => {
       (item.data.tags || []).forEach(tag => {
         if (tag !== "articles") {
-          if (!tagMap.has(tag)) {
-            tagMap.set(tag, []);
+          const slug = slugifyTag(tag);
+          if (!slugToTags.has(slug)) {
+            slugToTags.set(slug, new Set());
+            slugToArticles.set(slug, []);
           }
-          tagMap.get(tag).push(item);
+          slugToTags.get(slug).add(tag);
+          if (!slugToArticles.get(slug).includes(item)) {
+            slugToArticles.get(slug).push(item);
+          }
         }
       });
     });
 
     // Sort articles within each tag by date (newest first)
-    tagMap.forEach(tagArticles => {
-      tagArticles.sort((a, b) => b.date - a.date);
+    slugToArticles.forEach(articles => {
+      articles.sort((a, b) => b.date - a.date);
     });
 
-    // Return as object so templates can access collections.all[tagName]
+    // Use same canonical (lexicographically first) as allTags
     const result = {};
-    tagMap.forEach((articles, tag) => {
-      result[tag] = articles;
+    slugToTags.forEach((tags, slug) => {
+      const canonicalTag = [...tags].sort()[0];
+      result[canonicalTag] = slugToArticles.get(slug);
     });
 
     return result;

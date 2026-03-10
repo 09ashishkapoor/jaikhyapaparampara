@@ -85,3 +85,13 @@
 - markdownfiles_forblog/tobeprocessed/transcript_0uxsBg5dVYQ.md → articles/gods-watch-sin-virtue-internal-cctv-shyama-khyapa.md (ALREADY EXISTS - skipped)
 - markdownfiles_forblog/tobeprocessed/transcript_0vbqCzhqauw.md → articles/gotras-lineages-16-bengali-sages-rishi-bloodlines.md
 - markdownfiles_forblog/tobeprocessed/transcript_0YqdxDlXlsg.md → articles/baba-lokenath-life-160-years-himalayas-barodi.md
+- markdownfiles_forblog/tobeprocessed/transcript_6EyI0648Hmc.md → articles/last-day-meeting-gurudev-tarapith-visit.md
+- markdownfiles_forblog/tobeprocessed/transcript_bTPpbJbNllE.md → articles/pagla-baba-journey-alipurduar-jamtala-ma-tara.md
+- markdownfiles_forblog/tobeprocessed/transcript_f8XvUcCDilw.md → articles/initiation-deeksha-spiritual-disciple-tradition.md
+- markdownfiles_forblog/tobeprocessed/transcript_3b0_B2SnjOo.md → articles/misinformation-protest-gurudev-warning-slander.md
+- markdownfiles_forblog/tobeprocessed/transcript_9GARCVOQWiI.md → articles/hmpv-virus-new-panic-2025-prediction.md
+- markdownfiles_forblog/tobeprocessed/transcript_b-vqK4OL-KE.md → articles/dhumavati-dashamahabidya-seventh-mahavidya.md
+- markdownfiles_forblog/tobeprocessed/transcript_D2nkKzy6Qwc.md → articles/phetkarini-tantra-boli-sacrifice-hindu-tradition.md
+- markdownfiles_forblog/tobeprocessed/transcript_aWJC15qH9tw.md → articles/traveling-subtle-body-sukshmo-shorir-spiritual-vibration.md
+- markdownfiles_forblog/tobeprocessed/transcript_D262H6n722A.md → articles/kamalakanta-bhattacharya-shakta-poet-siddha-purusha.md
+- markdownfiles_forblog/tobeprocessed/transcript_9dZaw9g5mN0.md → articles/mother-hangseshwari-bansberia-tantric-architecture.md
