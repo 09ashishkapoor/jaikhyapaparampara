@@ -14,29 +14,29 @@ Guru: Oh, Haripada-da? I was very well-acquainted with him. We had a great conne
 
 Visitor: In our Rajbari, our ancestors—you know, Nabakrishna Deb Bahadur...
 
-Guru: Yes, Nabakrishna Deb Bahadur. I have a very close and cordial relationship with Dr. Kousari, who used to perform the pujas there. I’m not sure if he still does. He is known as the Rajbari priest. Not only that, but he is highly respected even in the newspapers. People consult him whenever they face any difficulties.
+Guru: Yes, Nabakrishna Deb Bahadur. I have a very close and cordial relationship with Dr. Kousari, who used to perform the pujas there. I'm not sure if he still does. He is known as the Rajbari priest. Not only that, but he is highly respected even in the newspapers. People consult him whenever they face any difficulties.
 
-Visitor: During our Gopinath’s Dol (festival), the Kings were called to prove how great Gopinath is. Nabakrishna Bahadur... during the Barodol festival... the crown of Siraj ud-Daulah is placed on our Gopinath’s head.
+Visitor: During our Gopinath's Dol (festival), the Kings were called to prove how great Gopinath is. Nabakrishna Bahadur... during the Barodol festival... the crown of Siraj ud-Daulah is placed on our Gopinath's head.
 
 Guru: Oh, I see!
 
-Visitor: Our Raja Ramakrishna Deb Bahadur won it. When he was asked to wear it, he said, "I will not wear it; place it on my Gopinath’s head instead."
+Visitor: Our Raja Ramakrishna Deb Bahadur won it. When he was asked to wear it, he said, "I will not wear it; place it on my Gopinath's head instead."
 
 Guru: Is that Gopinath still there?
 
 Visitor: Yes, he is. At one time, the crown was worn under police guard during the festivals, but that has stopped now. It has become very difficult. But the crown is still there.
 
-Guru: That’s wonderful.
+Guru: That's wonderful.
 
-Visitor: I am a Shebait (custodian) of Gopinath. I live under His shelter. I have a flat in Tollygunge now; that’s where I stay. I visit the Rajbari during Durga Puja. To be honest, the Rajbari is quite dilapidated now.
+Visitor: I am a Shebait (custodian) of Gopinath. I live under His shelter. I have a flat in Tollygunge now; that's where I stay. I visit the Rajbari during Durga Puja. To be honest, the Rajbari is quite dilapidated now.
 
-Guru: I know, I have seen it. It’s in poor condition. I am aware of the whole situation. Anyway, it was nice meeting you. Feel free to visit whenever you like. I actually met you before at Mundomanitala.
+Guru: I know, I have seen it. It's in poor condition. I am aware of the whole situation. Anyway, it was nice meeting you. Feel free to visit whenever you like. I actually met you before at Mundomanitala.
 
 Visitor: Yes, at Mundomanitala.
 
-Guru: We met there several times. And now, after a long time, you’ve come to my home. We met about two years ago, in 2021. At Bapi’s shop in Mundomanitala. The Mother (deity) is there, and I perform puja there. I really love Mundomanitala.
+Guru: We met there several times. And now, after a long time, you've come to my home. We met about two years ago, in 2021. At Bapi's shop in Mundomanitala. The Mother (deity) is there, and I perform puja there. I really love Mundomanitala.
 
-Visitor: I love it too. I’ve been there while you were performing puja, and at other times as well. I’ve met you many times.
+Visitor: I love it too. I've been there while you were performing puja, and at other times as well. I've met you many times.
 
 Guru: It feels good to have met you again. Meeting a member of the Rajbari, a part-owner and custodian, is a great thing for us.
 
@@ -50,6 +50,6 @@ Guru: I saw the Janmashtami celebrations there; it's a massive puja.
 
 Visitor: During the five days of Durga Puja, Gopinath is moved to the upper veranda, and Ma Durga stays downstairs.
 
-Guru: I’ve seen all of that. Because I am so close with Kousari, I’ve seen everything. Please mention me to him when you see him.
+Guru: I've seen all of that. Because I am so close with Kousari, I've seen everything. Please mention me to him when you see him.
 
 Visitor: Yes, I certainly will.

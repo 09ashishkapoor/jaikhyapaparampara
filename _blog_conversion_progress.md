@@ -95,3 +95,5 @@
 - markdownfiles_forblog/tobeprocessed/transcript_aWJC15qH9tw.md → articles/traveling-subtle-body-sukshmo-shorir-spiritual-vibration.md
 - markdownfiles_forblog/tobeprocessed/transcript_D262H6n722A.md → articles/kamalakanta-bhattacharya-shakta-poet-siddha-purusha.md
 - markdownfiles_forblog/tobeprocessed/transcript_9dZaw9g5mN0.md → articles/mother-hangseshwari-bansberia-tantric-architecture.md
+- markdownfiles_forblog/processed/transcript_EZBKaiy0_R8.md → articles/gurudev-rajdarshan-sobhabazar-rajbari-gopinath-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_EtBCdy3jlGs.md → articles/kaushiki-amavasya-meaning-ritual-warning-shyama-khyapa.md

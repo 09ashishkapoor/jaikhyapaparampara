@@ -166,6 +166,25 @@ permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber
     cursor: not-allowed;
 }
 
+.article-count-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 1rem;
+    padding: 0.5rem 1.4rem;
+    border: 1px solid var(--border-gold);
+    border-radius: 20px;
+    background: rgba(232, 196, 104, 0.08);
+    color: var(--text-dark);
+    font-family: 'Philosopher', sans-serif;
+    font-size: 1rem;
+    letter-spacing: 0.03em;
+}
+.article-count-badge strong {
+    color: var(--accent-color);
+    font-weight: 700;
+}
+
 @media(max-width:768px){
 .articles-list{padding:0.5rem 0 1.5rem;}
 .article-row-title{font-size:1rem;}
@@ -174,6 +193,7 @@ permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber
 .blog-title{font-size:2rem;}
 .pagination{gap:0.4rem;margin:2rem 0;flex-wrap:wrap;}
 .pagination-item{padding:0.55rem 0.8rem;font-size:0.9rem;min-width:44px;min-height:44px;display:flex;align-items:center;justify-content:center;text-align:center;}
+.article-count-badge{font-size:0.88rem;padding:0.4rem 1rem;}
 }
 </style>
 
@@ -181,6 +201,7 @@ permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber
     <div class="blog-header">
         <h1 class="blog-title">Articles & Insights</h1>
         <p class="blog-description">Deep dives into spiritual wisdom, guru stories, and sacred teachings from the Khyapa Parampara tradition.</p>
+        <div class="article-count-badge">✦ A growing library of <strong>{{ collections.articles | length }} sacred articles</strong> — and counting</div>
     </div>
 
     <div class="tags-container">

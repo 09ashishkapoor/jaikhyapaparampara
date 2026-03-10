@@ -3,7 +3,7 @@
   <url>
     <loc>https://jaikhyapaparampara.com/</loc>
     
-    <lastmod>2026-03-09T20:02:00.000Z</lastmod>
+    <lastmod>2026-03-09T20:03:00.000Z</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -16,7 +16,7 @@
   <url>
     <loc>https://jaikhyapaparampara.com/articles/</loc>
     
-    <lastmod>2026-03-09T20:02:00.000Z</lastmod>
+    <lastmod>2026-03-09T20:03:00.000Z</lastmod>
     
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -49,6 +49,20 @@
   </url>
 
   <!-- Blog Articles -->
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/kaushiki-amavasya-meaning-ritual-warning-shyama-khyapa/</loc>
+    <lastmod>2026-03-09T20:03:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/gurudev-rajdarshan-sobhabazar-rajbari-gopinath-shyama-khyapa/</loc>
+    <lastmod>2026-03-09T20:02:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   
   <url>
     <loc>https://jaikhyapaparampara.com/articles/gopal-lap-mahadev-janmashtami-naughty-child/</loc>
@@ -4542,6 +4556,24 @@
   
   
   <url>
+    <loc>https://jaikhyapaparampara.com/tags/sobhabazar-rajbari/</loc>
+    <lastmod>2026-03-09T20:02:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/gopinath/</loc>
+    <lastmod>2026-03-09T20:02:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://jaikhyapaparampara.com/tags/kali-raj/</loc>
     <lastmod>2026-03-09T19:32:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -5334,6 +5366,15 @@
   
   
   <url>
+    <loc>https://jaikhyapaparampara.com/tags/kaushiki-amavasya/</loc>
+    <lastmod>2026-03-06T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://jaikhyapaparampara.com/tags/keshavji-maharaj/</loc>
     <lastmod>2026-03-09T19:09:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -5939,15 +5980,6 @@
   <url>
     <loc>https://jaikhyapaparampara.com/tags/tantric-architecture/</loc>
     <lastmod>2026-03-09T20:00:00.000Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://jaikhyapaparampara.com/tags/kaushiki-amavasya/</loc>
-    <lastmod>2026-03-06T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
