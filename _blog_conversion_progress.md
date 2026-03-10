@@ -2,6 +2,8 @@
 <!-- This file is auto-maintained by the blog-converter agent. Do not edit manually. -->
 
 ## Completed Transcripts
+- markdownfiles_forblog/tobeprocessed/transcript_12bkroMqhy0.md → articles/gurudev-shyama-khyapa-saptarishi-seven-sages-connection.md
+- markdownfiles_forblog/tobeprocessed/transcript_1h1ncCiyzJw.md → articles/covid-crisis-mirror-philosophy-conscience-guru-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_1kQqKf0Wezk.md → articles/swami-vivekananda-women-education-youth-suicide-horoscopes-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_56Jhs2Fpfqc.md → articles/22-years-bablu-de-testimony-miracles-guru-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_96D9kIEqTT4.md → articles/divine-coconut-idol-amphan-cyclone-ajay-mondal-shyama-khyapa.md
@@ -126,3 +128,14 @@
 - markdownfiles_forblog/tobeprocessed/transcript_92Pqe4cQNDM.md → articles/mother-visit-vama-tara-chained-shanti-kunj-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_FlgY5yqvw1o.md → articles/name-best-kali-hari-naam-sankirtan-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_fP0Vf5789kM.md → articles/gurudev-memory-tarapith-crematorium-siddhi-pyres-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_F7PBw-sjoKg.md → articles/grandpa-advice-children-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_8_Y9Y2I0mfs.md → articles/sadhak-shantikunje-from-bengali-sadhak-samaj-by-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_2IuESwxZpC4.md → articles/the-mystery-of-gyan-ganj-the-hidden-spiritual-kingdom.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_4npEP1SWw8s.md → articles/miraculous-events-of-rajpur-mahashashan-a-sadhak-s-witness.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_2f_K0JCxhqs.md → articles/narmada-parikrama-what-did-gurudev-say-by-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_asbPM7bePaQ.md → articles/kindness-vs-justice-dualism-god-will-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_EbUYbHTFCCI.md → articles/mother-chamunda-origin-worship-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_EtYJ_yrjL10.md → articles/spiritualism-india-introduction-shyama-khepa-maharaj.md
+- markdownfiles_forblog/tobeprocessed/transcript_5XSnFxRoetQ.md → articles/the-greatness-of-tantra-practice-in-this-era-gurudev-shyama-khyapas-insights.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_awvKQRa6SPQ.md → articles/prophecy-new-bengali-year-kalki-avatar-mahapralay-2024.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_cP8lAhsXBe8.md → articles/lunar-eclipse-advice-buddha-purnima-guru-shyama-khyapa.md

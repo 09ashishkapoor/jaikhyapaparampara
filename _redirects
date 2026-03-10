@@ -1,5 +1,8 @@
 # Cloudflare Pages redirects and rewrites
 
+# Redirect non-www to www (canonical domain)
+https://jaikhyapaparampara.com/* https://www.jaikhyapaparampara.com/:splat 301
+
 # Handle articles pagination
 /articles/2 /articles/2/index.html 200
 /articles/3 /articles/3/index.html 200
