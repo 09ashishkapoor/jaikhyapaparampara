@@ -163,3 +163,63 @@
 - markdownfiles_forblog/tobeprocessed/transcript_5MdE85MLPFw.md → articles/ashtami-pujapath-home-complete-ritual-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_CxgaKRn1cTE.md → articles/birth-from-death-soul-journey-rebirth-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_D7rIl-AM6IY.md → articles/deep-sound-mystery-power-omkar-aum-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_1Hu5YKQcdvw.md → articles/gurudev-serves-patient-asansol-healing-testimony-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_1Khq0T4CWSw_english.md → articles/dashamahabidya-kali-part-1-first-last-wisdom-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_1npue_wsrKU.md → articles/kali-tantra-puja-home-warning-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_1oBqhc1DPSA.md → articles/gurudev-74th-birthday-celebration-blessings-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_1QE-zrC6nZk.md → articles/end-of-world-part-1-geopolitics-war-prophecy-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_1Ts5cMMuFDg.md → articles/india-will-not-fall-behind-great-souls-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_3_yH0cW7fxI.md → articles/dattatreya-trimurti-incarnate-yogeshwar-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_33oiIsq_q-g.md → articles/sadhu-vs-sadhak-spiritual-practitioner-path-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_3ibNaPWcFDU.md → articles/the-call-of-the-crematorium-42-years-of-crematorium-sadhana.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_3Szrmt_Ix7Q.md → articles/overcoming-financial-difficulties-akanda-root-remedy-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_3Vo2Y1qdAXU.md → articles/secret-saints-surviving-without-food-gyan-ganj-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_46ZIrwhEoP0.md → articles/gopal-lap-mahadev-janmashtami-naughty-child.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_4ehz9fL93pg.md → articles/aghori-disciple-devotion-healing-ritual-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_4enF7ARxjf8.md → articles/jhulan-rakhi-purnima-homa-world-peace-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_4I7XH0ELBkU.md → articles/naimisharanya-sacred-forest-sages-puranas-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_4IM6DYUH9dk.md → articles/amend-constitution-republic-day-india-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_4nOTP_6EmjI.md → articles/cremation-ground-insights-miracles-rajpur-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_4QHLTe4gwGM.md → articles/temple-president-kali-narayan-singh-roy-khyapa-baba.md
+- markdownfiles_forblog/tobeprocessed/transcript_4Ryt6h5RSi0.md → articles/not-time-festival-akshaya-tritiya-garland-removed-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_4tg5Io-SxrI.md → articles/initiator-vs-teacher-shiksha-diksha-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_4YwZfDyU3gA.md → articles/contact-information-guidelines-gurudev-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_50tLoH2ja04.md → articles/unknown-things-aiims-doctor-who-visit-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_5B2F7Bx4oiQ.md → articles/bengali-year-1429-predictions-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_5GkuHpiwXGk.md → articles/the-bitterness-of-modern-society-marriage-family-and-tradition.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_5VpW_0J5X70.md → articles/year-2024-predictions-covid-world-war-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_66n_5jfCCf4.md → articles/the-world-of-nothingness-divine-insights-from-gurudev-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_6CGJ8Q-_Q-Q.md → articles/death-rituals-soul-shradh-ceremonies-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_6kJ4nx0ysgg.md → articles/navagraha-rahu-planet-chhinnamasta-connection-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_6kSGWDgC8zE.md → articles/eight-perfections-ashta-siddhi-hanuman-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_6tfH6wrq4Ls.md → articles/birth-cycle-reincarnation-past-lives-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_739bY-zre2c.md → articles/jiva-reflection-of-brahma-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_74KNxl8S0v8.md → articles/jagannath-snanjatra-bathing-festival-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_7CZMalooafY.md → articles/gana-deva-nara-rakshasa-astrology-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_7KKop2hc3vM.md → articles/pagla-baba-visits-gurudev-after-long-time-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_7RJbfj_o4uI.md → articles/brother-phota-bhratri-dwitiya-festival-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_7RF-lAN6eUk.md → articles/totka-folk-remedies-marriage-children-health-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_7So1_sMzC28.md → articles/bamdev-shivratri-shanti-kunj-celebration-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_7VK3rCNb3Ko.md → articles/predictions-2022-disease-disasters-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_7dWYSZOF5Lk.md → articles/police-administration-guidance-covid-lockdown-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_7jDaZVtwFkc.md → articles/warning-mountains-sea-natural-disasters-part-1-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_7xaoU_OfO8Q.md → articles/tarapith-crematorium-shmashankali-panchamundi-asana-guru-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_81bmO2ASzF8.md → articles/brahmacharya-part-1-celibacy-spiritual-practice-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_86umWDMwNm4.md → articles/why-should-we-bear-sins-of-others-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_89vOs2L_LqI.md → articles/lies-name-gurudev-money-fraud-warning-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_8A79YLZOjaY.md → articles/anjali-prayer-world-peace-covid-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_8CHAUMjZEqY.md → articles/moksha-liberation-spiritual-freedom-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_8EAoNrkSSqg.md → articles/mother-boglar-bagalamukhi-kalyani-visit-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_8Nc5gDzIQ4I.md → articles/gurudev-blessings-partha-government-official-disciple-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_8REoF36u7bQ.md → articles/birthday-homecoming-maha-mrityunjaya-ritual-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_8-VvVKcg73M.md → articles/har-har-mahadev-meaning-shiva-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_8iGy_Z24ySc.md → articles/unraveling-mysteries-waves-gupteswar-nath-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_8kOPBoDZKpA.md → articles/director-to-director-ramprasad-bamakhepa-film-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_8kVRNXYB_Hc.md → articles/adyashakti-kali-temple-sonarpur-homa-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_8xRFQpJFlXE.md → articles/shantikunja-mourning-keshab-ji-passing-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_92I26Dw9jW4.md → articles/god-reside-within-humans-duality-creation-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_9BV_WrShwK4.md → articles/what-to-do-in-ambubachi-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_9CIzADfxg3Q.md → articles/akshaya-tritiya-importance-giving-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_9MJJmyrtrbk.md → articles/gift-from-devotee-portrait-jalpaiguri-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_9OmUvc5s3wE.md → articles/brahmin-food-rules-diet-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_9pSOOuZy7So.md → articles/reason-for-gurudevs-illness.md (ALREADY EXISTS - skipped)
