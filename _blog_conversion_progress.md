@@ -145,3 +145,21 @@
 - markdownfiles_forblog/tobeprocessed/transcript_C1h7RRLxy0k.md → articles/astrology-vs-astronomy-what-is-authentic-insights-from-guru-shyama-khyapa.md (ALREADY EXISTS - skipped)
 - markdownfiles_forblog/tobeprocessed/transcript_a1YvtY2EZks.md → articles/mother-annapurna-secrets-gyanganj-guru-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_BCOBjUa3tuA.md → articles/nature-technology-metro-tunnel-climate-dialogue-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_fky1vz3jFC4.md → articles/dol-purnima-shantikunj-holi-harinam-sankirtan-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_cuCLefRrFhk.md → articles/enemy-rise-enmity-food-crisis-prophecy-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_CtenWksV6qc.md → articles/meeting-aghori-arnibana-unity-spiritual-paths-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_ftJjymCQdSU.md → articles/destiny-cannot-be-undone-ordainer-story-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_dl0uh9ifupM.md → articles/kandari-warning-covid-third-wave-social-responsibility-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_Flx3vexv5gk.md → articles/grihi-sanyasi-householder-ascetic-social-responsibility-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_8aQtHYxfcUM.md → articles/bhavishyamalika-unknown-facts-about-kurukshetra-war-by-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_EftBprmhykg.md → articles/protection-charm-tabeez-kavach-tantra-science-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_1pzZxK1NQM8.md → articles/what-is-rath-yatra-without-radha-jagannath-chariot-festival-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_8bdqStMmhRU.md → articles/gyanvapi-mosque-temple-kashi-vishwanath-aurangzeb-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_ackNPV3mBsk.md → articles/falaharini-amabashya-homa-partial-cataclysm-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_D_YBrI_Z6c4.md → articles/gain-immortality-worship-while-alive-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_3kQfeFiVb14.md → articles/did-god-turn-face-omicron-nature-wrath-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_5qrMmoF0VHk.md → articles/jagadhatri-puja-mantra-gurudev-mouth-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_APlvwKfEIvM.md → articles/seven-tongues-agni-fire-mantras-vedic-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_5MdE85MLPFw.md → articles/ashtami-pujapath-home-complete-ritual-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_CxgaKRn1cTE.md → articles/birth-from-death-soul-journey-rebirth-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_D7rIl-AM6IY.md → articles/deep-sound-mystery-power-omkar-aum-shyama-khyapa.md
