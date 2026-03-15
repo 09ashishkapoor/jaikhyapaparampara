@@ -1,0 +1,173 @@
+---
+layout: article
+title: "World War III and Biodiversity Extinction: Guru Shyama Khyapa's Warning"
+breadcrumbTitle: "World War III Biodiversity Extinction Warning"
+description: "Guru Shyama Khyapa discusses the Russia-Ukraine war, the threat of nuclear conflict, environmental devastation, and the approaching end times as predicted in the Bhavishya Malika."
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, World War III, Russia-Ukraine War, Nuclear War, Biodiversity Extinction, Environmental Crisis, Putin, Atomic Strike, Kalki Avatar"
+category: "Prophecy"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
+date: 2026-03-15 10:55:00
+readingTime: 6
+tags:
+  - articles
+  - Guru Baba Shyama Khyapa
+  - Gupta Sadhak Shyamakhyapa
+  - Smashana Bhairava
+  - World War III
+  - Prophecy
+  - Nuclear War
+  - Environmental Crisis
+
+source: |
+  <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
+  <p><a href="https://www.youtube.com/watch?v=FH0FguUv6fU" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
+---
+
+<div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Host:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Pranam, Gurudev.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Bless you, son. Bless you.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Host:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, you have already released a video discussing the possibility of World War III and provided detailed insights on the subject. Today marks the 13th day of the Russia-Ukraine war. As the days pass, the situation seems to be worsening. What is your opinion on this? You mentioned World War III before, and now, with various countries becoming involved, what do you see happening?</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">This is exactly what happened during the Second World War. It starts in one place and then gradually spreads. We are seeing the same pattern with Russia and Ukraine. Countries like Hungary and Poland are slowly getting drawn in. Many European countries are getting involved. One of Putin's most concerning tendencies is the threat of an atomic strike. An atomic attack will not improve his image or bring him glory. The world has already seen the horrors of Hiroshima and Nagasaki. I don't understand how someone can even consider it. Millions of people will die.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Even without that, as I mentioned before, there has already been a massive loss of life. There is death and destruction everywhere—in the air, in the wind, everywhere. If this continues, the world's population will dwindle. Look at the state of European countries now; if a third world war truly breaks out, Europe as a continent could be devastated.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Furthermore, consider the environmental impact. The heat generated by the constant shelling and bombing has already raised the temperature by three to four degrees. This could lead to the melting of polar ice. Scientists are deeply concerned. They are worried about the immense heat from these bombs.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Then there is the daily impact on us, such as the cost of gas. Supply has been disrupted. Oil and gas prices have skyrocketed and may soon be beyond the reach of the common man. But Putin doesn't seem to care. He wants to do things his way, and he doesn't want anyone else to have a say.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Observe how leaders like Biden and Modi are treading carefully. This is because if a third world war occurs, history will not forgive those involved. Their names will be tarnished, much like the bombings of Hiroshima and Nagasaki are remembered as a disgrace.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Host:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">The effects of those bombings are still being felt today.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Exactly. And the names of those responsible are repeatedly brought up. We are on the brink of a third world war. If an atomic strike happens—by any means—it will be catastrophic. Ukraine isn't just sitting idle; they are reportedly developing "dirty bombs." They have plenty of uranium and other materials to create atomic weapons, and they are already working on it. They are in a position where if they are attacked, they will retaliate.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Putin keeps threatening an atomic strike almost every day. He isn't thinking about the people. Because of a conflict between two countries, so many other nations will suffer. If there is an atomic strike, the destruction will be unimaginable. Specifically, cancer will become rampant. You will find cancer patients in almost every home. Just the other day, I met a doctor who has lung cancer. The WHO (World Health Organization) had predicted that there would eventually be a cancer patient in every household. I remember reading that in the newspapers.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">If people don't become more aware, a third world war is inevitable. It has been predicted that Europe will be the center of this destruction. World War III will likely originate in Europe and spread from its coasts. The signs are all aligning. It's hard to say exactly how far it will go. We see the news every day, and it's pathetic. Bodies are lying in the streets of a civilized country. People are shooting each other in broad daylight. It's shocking that children are witnessing this. No one knows when this will end. Some say if Modi intervenes, it might stop, but it's not that simple. Destiny cannot be easily changed.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">We are heading toward World War III. Everything that was predicted about it starting in Europe seems to be coming true. You can't even imagine Putin's mentality. He just wants to launch an atomic strike without considering the devastation. He treats these countries as if he owns them. Look at what happened with the explosion on the moon recently, involving China. We don't yet know the full impact of that, but it will have an effect. People think the moon, the sun, and the planets are their personal property to be used however they please. Who is there to stop China? Or Russia? Or America? They think these are their assets.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Putin is dangerous. Everyone will have to answer for this and face the consequences. Day by day, sanctions against Russia are increasing, but Russia is also threatening back. As one of the largest suppliers of gas and oil, Russia's threats are causing the cost of transportation and goods to rise globally. The world economy will collapse. It's already happening slowly. The stock market has crashed significantly. This is common during wartime, but this is a massive crash. India and its people will have to bear a heavy burden.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">With modernization, we have upgraded our nuclear and other weapons. We might end up destroying the very earth we live on.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Host:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">As you mentioned, the environmental impact and global warming are serious.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, and nature will react. I mentioned in a video recently that first the land was polluted, then the water, and now the air and sky are being polluted by so many satellites. Where else is there to go? Land, water, and sky—all three are being ruined. There's nothing more to be done.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">I see videos claiming the world will end tomorrow or the day after. They talk about massive storms in America and elsewhere. It's true that storms are occurring, but these daily predictions of the world ending are just meant to scare people. This is all part of a larger plan. No one can end this world until the Creator decides it's time. The earth has its own resilience. There have been massive meteor strikes 10,000, 20,000, or 50,000 years ago, and the earth survived. My belief is that since humans have harmed the earth, the earth itself will deal with humanity. Just like the dinosaurs were wiped out without anyone having to kill them, an entire species perished.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Host:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">And many civilizations after the dinosaurs also disappeared for unknown reasons.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Exactly. Whenever they went against nature, they were wiped out. Their existence vanished, and we only find them in history books now. Humans have become so aggressive and full of hatred. How long can the earth tolerate this? The end of humanity seems near, even if it's not the end of the world itself.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Humans have changed little since their early ancestors. While our bodies have evolved, our mentality remains the same. People are constantly searching for peace. I have people coming to see me from all over—Bombay, Delhi, Siliguri. They are restless. They are looking for "good people." They tell me they haven't found anyone as good as me. It's a sad thing to hear that in a vast country like India, people feel there are no good people left. I hear this five or six times a day. People are so self-centered and busy looking out for their own interests. This is also reflected in the war—everyone is looking at what they can gain from it.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Host:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Ultimately, people are so preoccupied with their own gains.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, what will they get after the war? Every country is looking out for itself. It's the same with people here. You wouldn't believe the number of people coming from Delhi, Bombay, Madras, and Kerala. They say they have no place to stay, and I tell them I don't even have enough space for myself, but they say they will manage. It shows that people are still searching for a glimmer of hope, like a flickering lamp. They are waiting for someone to pour oil into that lamp so it can burn brightly again.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">It's painful to see humanity in this state. People can't tolerate even a single word from others. Everyone is trying to get ahead of everyone else. Until people learn to be humble, nothing will change.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Host:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Friends, we are concluding our discussion here today. The outcome of the Russia-Ukraine war remains to be seen.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">It's following the same pattern as the first two World Wars, where countries eventually divided into groups. We haven't seen that clearly yet with Russia and Ukraine, but many are saying "I am with you" to one side or the other. No one has officially stepped in to fight yet, but they might be waiting for a trigger. Once that happens, the whole world could be plunged into a third world war. This is how it started before, and this is where it seems to be heading now. Major powers like China, Japan, America, Russia, and India—it remains to be seen where they will align. In the Second World War, they had to choose a side. If a third world war happens, it could mean the end of humanity and all living beings. Nothing will be left.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">We say we want silence and peace, but we are screaming for it. We are like people who are already in the water but are screaming for water. We are surrounded by what we need, but we don't realize it.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Host:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Pranam, Gurudev.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Bless you.</span>
+</div>
+
+</div>
