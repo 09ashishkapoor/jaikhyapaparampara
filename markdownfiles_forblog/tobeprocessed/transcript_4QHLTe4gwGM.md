@@ -1,0 +1,11 @@
+Temple President Kali Narayan Singh Roy says something about the temple YouTube Link: https://www.youtube.com/watch?v=4QHLTe4gwGM
+
+Sure, here’s a transcript of the audio, translated into English and formatted for clarity:
+
+Speaker 1 (Shri Kalinarayan Singha Roy): "His name is ‘Khyapa Baba.’ He asked me to call him Khyapa Baba or ‘Bangla Baba.’ We are truly blessed that he has come here today. We feel proud to be able to serve him. His Pada Yatra (walking pilgrimage) serves a great purpose, especially during this global COVID-19 pandemic. His aim is for the people of the world to live in peace and harmony. His journey started from Sonarpur and will end at the Kamakhya Dham. I hope and pray that his pilgrimage is successful.
+
+I am Shri Kalinarayan Singha Roy, the President of the Bramhanandaganj Mahastitwa Temple and a member of the Hindu Milan Mandir. I wish him all the very best on his journey."
+
+Speaker 2 (Khyapa Baba / Bangla Baba): "My Guru performed a 1,000-day Mahamrityunjaya Yagna (a sacred fire ritual for overcoming death and disease) for world peace from 2015 to 2017. I am following in the footsteps of my Guru, the Siddha Sadhak Shama Khyapa, and I will continue to follow his path. Just as he performed rituals for world peace, I am undertaking this walking pilgrimage for global peace and for the world to be free from disease.
+
+Currently, everyone is terrified and distressed by the COVID situation; it has become a nightmare for everyone. My hard work and the effort of this walking pilgrimage to the Kamakhya Temple is an offering to the Goddess. I pray that not only India but every country in the world is released from this nightmare. I pray to the Mother to cure these diseases and bring the world back to a state of peace. This is my prayer to Ma Kamakhya. As I travel, I am visiting every temple of the Mother along the way, offering the same prayer. I feel deeply fulfilled to dedicate myself to the well-being of the world. Thank you. Joy Ma, Joy Tara, Joy Hind."

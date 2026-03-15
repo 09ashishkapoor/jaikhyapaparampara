@@ -1,0 +1,13 @@
+How is Gurudev now? || Is he seeing his devotees now? || by Shyama Khyapa YouTube Link: https://www.youtube.com/watch?v=gGFhnEtiTr0
+
+Here is a clean and well-formatted transcript of the audio, translated into English.
+
+Speaker 1 (Disciple): "If you could please check Gurudev’s health and share an update with us, we would be very grateful. We are all very worried about him. Lately, his condition has been inconsistent—he’s well one day but unwell the next. He might be healthy for a day, only to fall sick for the next five. All of his disciples are anxious to know how he is doing. We request you to please examine him and provide us with some reassurance regarding his health."
+
+Speaker 2 (Doctor): "Pranam to Gurudev, and greetings to everyone. I wish you all a Happy Dolyatra (Holi). I have just examined him. Clinically, his chest infection appears much better than before. His blood pressure has also normalized significantly compared to previous readings. I won't specify the exact values as they might still seem high to some, but there is a definite improvement. Overall, his condition is stable. However, he needs to continue his medication and adhere to certain restrictions. Given the recent rise in COVID-19 cases, I would suggest minimizing visitors and disturbances for a few more days to allow him to recover. That is my medical opinion; the rest is up to Gurudev."
+
+Speaker 3 (Gurudev): "I am doing well; there is no issue. I can feel a lot of improvement. It would be very helpful if I could have a bit more time to rest. The doctor visits almost every day to check on me and provide medication. I feel much better now—there has been a significant improvement from the state I was in previously. I give the doctor full credit for this recovery."
+
+Speaker 1 (Disciple): "Gurudev, on behalf of all your devotees, we have a humble request: please focus on getting completely healthy. When you are well, everyone feels at peace. It is difficult for all of us when you are unwell. We know you are doing your part, perhaps through your own inner strength—which we may not fully understand—but please, get well so you can look after your followers as you always have. This is our sincere request to you."
+
+Speaker 3 (Gurudev): "I keep telling people, but they don't seem to listen. They think I am joking or being lighthearted, but that isn't the case. The truth is that I was genuinely unwell. I have seen a lot of improvement thanks to the treatment. I must give myself the necessary time to recover, regardless of who wants to visit. This isn't a business where I rely on visitors for my livelihood. I am fine; there is no problem. Thank you."
