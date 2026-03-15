@@ -22,7 +22,7 @@ I told them, "Look, we don't have enough monks for that." They suggested we brin
 
 Host: In the old days, families with four or five sons would often dedicate one to spiritual life. They valued religion. Now, parents want a monk to teach their son culture and values, but they still want the son to return to the same materialistic life they lead. They don't want him to pursue a life of renunciation. So, how will things truly improve?
 
-Maharaj: In Punjab, at least one son from a family often joins the military to serve the country. In other places like Bihar or Gujarat, there is still great respect for monks. I’ve traveled through the Himalayas and Uttarakhand; even small children will greet you with "Hari Om, Maharaj." But in West Bengal, if I walk down the street, people shout, "Look, a monk!" as if they’re seeing a wild animal. They often view monks as frauds. It feels like we are no longer "Hindus" in Bengal. I remember my grandmother and aunts giving great importance to rituals like Itu Puja or Lakshmi Puja, but that is fading. The new generation doesn't care.
+Maharaj: In Punjab, at least one son from a family often joins the military to serve the country. In other places like Bihar or Gujarat, there is still great respect for monks. I've traveled through the Himalayas and Uttarakhand; even small children will greet you with "Hari Om, Maharaj." But in West Bengal, if I walk down the street, people shout, "Look, a monk!" as if they're seeing a wild animal. They often view monks as frauds. It feels like we are no longer "Hindus" in Bengal. I remember my grandmother and aunts giving great importance to rituals like Itu Puja or Lakshmi Puja, but that is fading. The new generation doesn't care.
 
 The root cause is the modern education system. Even in our monk-managed schools, we have to follow an English-medium syllabus so the kids can get into other schools later. If we told parents we would only teach meditation and Sanatana Dharma, they would ask, "What about their future?"
 
@@ -30,9 +30,9 @@ Host: Maharaj, another point. We see students topping the Secondary exams but th
 
 Maharaj: This is happening because there is a government push to show that district schools are improving. While the intention of spreading education is good, the lack of neutrality in evaluation is a problem. We want people to understand what they truly want and the price they must pay for it. You can't get anything valuable for free. People want to "buy" education with money rather than earning it through perseverance. Parents provide everything to their children on a silver platter, so the children never learn to work hard.
 
-Host: It’s the result of over-indulgent parenting.
+Host: It's the result of over-indulgent parenting.
 
-Maharaj: It’s the whole social system. Parents see what other parents are doing and follow the trend. There is a massive lack of ideals. When I was younger, we would touch our teachers' feet in respect. Now, students might ask their teacher for a cigarette.
+Maharaj: It's the whole social system. Parents see what other parents are doing and follow the trend. There is a massive lack of ideals. When I was younger, we would touch our teachers' feet in respect. Now, students might ask their teacher for a cigarette.
 
 I know of a teacher in a school where a female student (under the age of 18) used to come to school drunk. When the school called her father, who was a local political figure and businessman, he came to the school and threatened the teacher. The teacher was actually forced to apologize to the student for questioning her about the alcohol. In such an environment, no teacher wants to take the responsibility of correcting a student. They prioritize their own safety.
 

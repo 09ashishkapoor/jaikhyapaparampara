@@ -1,0 +1,99 @@
+---
+layout: article
+title: "The Awakening of the 64 Yoginis: Signs of the End of Kali Yuga"
+breadcrumbTitle: "Awakening of 64 Yoginis"
+description: "Guru Shyama Khyapa discusses the significance of the 64 Yoginis, the predicted seven days of darkness, and the terrifying signs that will mark the transition of eras."
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, 64 Yoginis, Kali Yuga End, Prophecy, Mother Durga, Seven Days of Darkness, Dakinis, Navami Puja, Bija Mantras, Pralay"
+category: "Prophecy"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
+date: 2026-03-15 10:19:00
+readingTime: 5
+tags:
+  - articles
+  - Guru Baba Shyama Khyapa
+  - Gupta Sadhak Shyamakhyapa
+  - Smashana Bhairava
+  - 64 Yoginis
+  - Kali Yuga
+  - Prophecy
+  - Spiritual Awakening
+  - Mother Durga
+source: |
+  <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
+  <p><a href="https://www.youtube.com/watch?v=GRC4-TASOGQ" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
+  <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
+---
+
+<div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Narrator:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Greetings, viewers. We are starting today's episode by offering our salutations to Gurudev and to all of you. I hope everyone is doing well. Gurudev, there is something being discussed everywhere, and I’ve seen a few videos on YouTube about it as well. People are saying that the apocalypse is near and that the Kaliyuga (the current age) is coming to an end. It is said that when the 64 Yoginis awaken, it will mark the end of this era and the beginning of a new one. Gurudev, could you please explain more about these 64 Yoginis?</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">The 64 Yoginis assisted Goddess Durga during her battle against the demon Mahishasura. They are extremely powerful and fearsome. It is said that when they awaken, their terrifying cries will be heard by everyone. The sound of their wailing and screaming will be so loud that you will realize the end of Kaliyuga has arrived. This will be the final sign.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">We have heard—and I don’t want to mislead anyone—that upon Mother Durga’s command, the sun will not provide light to the Earth for seven days. The world will be shrouded in darkness for those seven days. Day and night will become indistinguishable. During that time, the Dakinis and the 64 Yoginis will awaken. The cries of foxes, dogs, lions, and tigers will fill the air, causing great confusion and panic among humans. This will mark the transition of the eras. This is what I have gathered.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Sri Ramakrishna Paramahamsa used to frequently suggest worshipping the 64 Yoginis to attain spiritual success (siddhi). These 64 Yoginis are worshipped on the day of Navami during Durga Puja. Each is worshipped with a specific Bija Mantra (seed mantra) and name. They are believed to reside in the crevices and caves of scenic mountain ranges. When Kaliyuga ends, they will awaken along with the wild animals. The commotion will be so intense that some people might even suffer heart attacks from fear.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Narrator:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, I’ve read somewhere that one should not chant their mantras without a Guru’s permission. Is that true?</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, that is correct. They are very closely related to Mother Durga. I have personally performed their puja many times during Durga Puja and Kali Puja. I have previously listed their names. Their nature is quite intense, and when they awaken, the world will tremble.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Narrator:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, could you list some of their names for our viewers?</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, let’s list them: Brahmani (the presiding goddess of Brahma), Chandika, Raudri, Gauri, Indrani (the presiding goddess of Indra), Kaumari (the presiding goddess of Kartikeya), Bhairavi, Durga, Narasimhi (the half-lion, half-human form), Kalika, Chamunda, Shivaduti (she who appointed Lord Shiva as her messenger), Varahi (associated with the Varaha avatar), Kaushiki, Maheshwari, Shankari, Jayanti, Sarvamangala, Kali, Karalini, Medha, Shiva, Shakambhari, Bhima, Shanta, Bhramari, Rudrani, Ambika, Kshama, Dhatri, Swaha (represents the Mother in mantras), Swadha (represents the Father in mantras), Aparna (Parvati, who didn't even eat a leaf during her penance), Mahadevi, Ghorarupa, Mahakali, Bhadrakali, Kapalini, Kshemankari, Ugrachanda, Chanda, Chandanayika, Chamunda, Chandawati, Chandi, Mahamaya, Priyankari, Balavikarni, Balapramathini, Madonmadini, Sarvabhutadamani, Uma, Tara, Mahanidra, Vijaya, Jaya, Shailaputri, Chandraghanta, Kushmanda, Skandamata, Katyayani, Kalaratri (also known as Shitala), Mahagauri, Sidhidhatri.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">These are the 64 forms. We use seed mantras like “Aim Hreem Shreem” to invoke them. When they are pleased through proper rituals, great spiritual heights can be achieved.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Narrator:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, you mentioned the seven days of darkness. Is this predicted to happen between 2023 and 2030? You also mentioned previously that even the Chariot Festival (Rath Yatra) of Puri might be affected.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, these events are predicted to happen during this period. There are various prophecies. It is said that Kolkata and the Kalighat temple might face attacks involving drones, potentially involving a conflict with several nations.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Regarding the darkness, it is predicted that the sun will lose its effect for seven days. This will coincide with the awakening of the Yoginis and the wild animals. It will be a very difficult time. There are prominent 64 Yogini temples, such as the ones in Joshimath and Bilaspur. They are awakening to bring about the destruction of the old to make way for the new.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Narrator:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">So, viewers, you’ve heard about the 64 Yoginis from Gurudev. Please do not be afraid; the grace of the Mother and the blessings of Gurudev are with everyone. Stay healthy and stay well. Pronam, Gurudev.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Blessings to all.</span>
+</div>
+
+</div>

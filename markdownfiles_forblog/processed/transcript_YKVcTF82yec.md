@@ -6,9 +6,9 @@ Sure! Here's a transcript of the audio provided in English:
 
 Host: Good afternoon, everyone. Welcome to our program. Today, we have with us the esteemed Gurudev Shri Shangkhapa Maharaj and the renowned meteorologist, Mr. Sujit Kar. Welcome, Sujit-da, and pranam to you, Gurudev.
 
-Today’s discussion revolves around the Moon's orbit around the Earth. We have been noticing a slight shift in the Moon's axis, and we would like to understand what this means for our planet. Gurudev, could you start by sharing your thoughts?
+Today's discussion revolves around the Moon's orbit around the Earth. We have been noticing a slight shift in the Moon's axis, and we would like to understand what this means for our planet. Gurudev, could you start by sharing your thoughts?
 
-Gurudev: You see, for the past few years, we have frequently observed the Moon appearing red. According to ancient scriptures, a blood-colored moon signifies turmoil and bloodshed on Earth. We have seen this for some time. But recently, the Moon has appeared clearer and more transparent. However, I’ve noticed that its position seems to have shifted slightly. It was tilted, but now it appears straighter. Sujit, could you explain the reason behind this and the potential impact it might have on Earth?
+Gurudev: You see, for the past few years, we have frequently observed the Moon appearing red. According to ancient scriptures, a blood-colored moon signifies turmoil and bloodshed on Earth. We have seen this for some time. But recently, the Moon has appeared clearer and more transparent. However, I've noticed that its position seems to have shifted slightly. It was tilted, but now it appears straighter. Sujit, could you explain the reason behind this and the potential impact it might have on Earth?
 
 Sujit Kar: Namaskar to everyone. To address your first point about the color change, the light from the Moon reaches us through our atmosphere. The density of the atmospheric layers is changing rapidly due to various factors like seasonal shifts and pollution levels. This affects how we perceive the Moon's color at different times of the year.
 
@@ -30,7 +30,7 @@ Gurudev: This is a very serious concern. Besides the tides, how will this affect
 
 Sujit Kar: The Moon's gravitational pull also affects the fluids in the human body, particularly blood circulation. People with high blood pressure or heart conditions are already advised to be careful during full and new moons. If the gravitational pull increases, the risk of strokes and other circulatory issues could rise significantly.
 
-Gurudev: It’s interesting you say that. Scientists and NASA have also predicted that by 2030, nearly 70% of coastal cities could face severe flooding due to these changes.
+Gurudev: It's interesting you say that. Scientists and NASA have also predicted that by 2030, nearly 70% of coastal cities could face severe flooding due to these changes.
 
 Sujit Kar: Exactly. This is part of a larger cycle of climate change. Earth has gone through such phases before, like the end of an ice age. When one era ends, it often leads to the extinction of the dominant species, which in this case, is humans. The Earth will eventually recycle and find a new balance, but it could take millions of years for life to thrive again.
 

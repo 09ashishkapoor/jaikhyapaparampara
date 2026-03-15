@@ -2,7 +2,7 @@ Gurudev's testimonial | Secret ascetic Shyamakshayapa provides information YouTu
 
 Here is the clean, punctuated, and well-formatted transcript of the audio, translated into English:
 
-Speaker 1: This evening at Shanti Kunj is a very special and attractive one. The reason is that our colleague and Gurudev’s most beloved disciple, Shri Bamananda Deb, is being honored with the title "Vidya Kalpadrum" by Gurudev today.
+Speaker 1: This evening at Shanti Kunj is a very special and attractive one. The reason is that our colleague and Gurudev's most beloved disciple, Shri Bamananda Deb, is being honored with the title "Vidya Kalpadrum" by Gurudev today.
 
 Throughout his life, he has achieved immense proficiency in various ancient texts, including the Vedas, Gita, Ramayana, Mahabharata, and Upanishads. Furthermore, he has gained vast knowledge in medical and biological sciences. He is able to provide solutions to the most complex problems of people in an instant, benefiting people across different parts of India. We are truly proud to have him as a member of Shanti Kunj. For this reason, Gurudev is honoring him today with the "Vidya Kalpadrum" title to recognize the expansion of his wisdom and to introduce him as a true man of knowledge.
 
@@ -26,7 +26,7 @@ One thing must be said: generally, people perceive him as just a human being. Fr
 
 He treats me with the love, care, and compassion of a father. I often call him "Doyal Thakur" (the Merciful Lord). There are many reasons for this. He can get very angry in a moment, and in the next, become as soft as water. How can I explain this with my own words? The Guru is called "Parabrahma" (the Supreme Reality); the Guru is above all gods and goddesses.
 
-My conclusion is that the entire world lies at the Guru’s feet. There is no need for temples, pilgrimages, or retreats—just stay at the Guru's feet. But yes, do so without selfishness, only with devotion. He knows everything. Anyone who tries to "inform" him or make him "understand" is a fool. Coming before him is like being scanned—one’s entire being is revealed. People don't realize this yet, and that is my only regret.
+My conclusion is that the entire world lies at the Guru's feet. There is no need for temples, pilgrimages, or retreats—just stay at the Guru's feet. But yes, do so without selfishness, only with devotion. He knows everything. Anyone who tries to "inform" him or make him "understand" is a fool. Coming before him is like being scanned—one's entire being is revealed. People don't realize this yet, and that is my only regret.
 
 With these words, I conclude. Salutations to everyone.
 

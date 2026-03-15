@@ -12,7 +12,7 @@ Interviewer: This coming 21st, Sunday, is Guru Purnima. We all celebrate Guru Pu
 
 Guru: It is a deeply rooted Vedic tradition. One specific full moon (Purnima) is dedicated to the Guru, which is why it is called Guru Purnima. Its significance is immense. In our scriptures, it is said that if the Gods are angry with you, the Guru can save you; but if the Guru is angry, even the Gods cannot save you.
 
-The word "Guru" has a profound meaning. "Gu" refers to that which is hidden, unknown, or the darkness of ignorance. "Ru" refers to light. Therefore, the one who leads us from the darkness of ignorance toward the light of knowledge is the Guru. A Guru’s role is not just to provide Diksha (initiation) but also to provide Shiksha (education and guidance) to their disciples.
+The word "Guru" has a profound meaning. "Gu" refers to that which is hidden, unknown, or the darkness of ignorance. "Ru" refers to light. Therefore, the one who leads us from the darkness of ignorance toward the light of knowledge is the Guru. A Guru's role is not just to provide Diksha (initiation) but also to provide Shiksha (education and guidance) to their disciples.
 
 This day is also intricately linked with Lord Shiva in his form as Dakshinamurti. During this time, Mahadev assumed the form of Dakshinamurti to impart supreme knowledge. It is also related to the Sapta Rishis (the Seven Sages).
 
@@ -20,7 +20,7 @@ Interviewer: Yes, the Seven Sages.
 
 Guru: These seven sages are Atri, Vashistha, Pulaha, Pulastya, Angira, Marichi, and Ketu. They are represented in the sky as the Saptarshi Mandal (the Big Dipper constellation). There is also a "Little Saptarshi" (the Little Dipper), which we often associate with the North Star.
 
-In Varanasi, at the temple of Lord Vishwanath, the Sapta Rishis are symbolically worshiped on Mahadev’s head. There is a specific priest, Guddu Maharaj, who performs this Aarti and puja daily. This tradition is very strong not just in India, but also in Nepal and Bhutan, where Buddhist and Bhutanese Tantric traditions hold this day in high regard.
+In Varanasi, at the temple of Lord Vishwanath, the Sapta Rishis are symbolically worshiped on Mahadev's head. There is a specific priest, Guddu Maharaj, who performs this Aarti and puja daily. This tradition is very strong not just in India, but also in Nepal and Bhutan, where Buddhist and Bhutanese Tantric traditions hold this day in high regard.
 
 Interviewer: How is Ved Vyasa connected to this day?
 
