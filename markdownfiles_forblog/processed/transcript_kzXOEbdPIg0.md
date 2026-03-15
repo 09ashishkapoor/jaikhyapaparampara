@@ -20,7 +20,7 @@ Speaker 1: Many people come now to practice, and some may even achieve success. 
 
 Speaker 2: That is a matter of birth and the fruits of past lives. You cannot compare anyone to Bamakhepa; he was on a different level. Even discussing it might be considered audacity on our part. He was a liberated and high-level soul.
 
-Speaker 1: Our visit to Tarapith, our travels here, coming to the Mother and the Father, visiting the Father’s birthplace—all of this must have some divine attraction.
+Speaker 1: Our visit to Tarapith, our travels here, coming to the Mother and the Father, visiting the Father's birthplace—all of this must have some divine attraction.
 
 Speaker 2: I wouldn't call it "divine" in that sense. I call it a "pull." There is some kind of magnetism here that draws me back, no matter where I am in the world. The Mother herself is magnetic. Millions have been coming here for ages. As the poet Ramprasad said in his song, "Tara is the essence of this world." We come here as worldly beings because Tara is the ultimate truth.
 
@@ -28,15 +28,15 @@ Speaker 1: The Shmashan Kali (Cremation Ground Kali) temple is also here at Mund
 
 Speaker 2: Yes, this is a very old temple. The entire area used to be a cremation ground (Shmashan). There are many bodies buried beneath the ground here. In the past, people were both cremated and buried here. Now, there are no more burials as electric crematoriums have been introduced nearby.
 
-Speaker 1: We have been greatly enriched by learning about this place associated with the Mother’s memory. Many tourists and pilgrims of all religions and sects come here to fulfill their hearts' desires.
+Speaker 1: We have been greatly enriched by learning about this place associated with the Mother's memory. Many tourists and pilgrims of all religions and sects come here to fulfill their hearts' desires.
 
 Speaker 2: As Ramprasad said, "The Moghuls call you Tara, the Gods call you by other names, the Muslims call you Khoda." Everyone comes to the Mother, regardless of their religion. The Mother draws everyone to her. She doesn't mind the crowds or the "torture" of so many people seeking her; she seems to like it. That is my philosophy.
 
-Speaker 1: We have heard much about the greatness of Mother Tara’s playground and Bamakhepa’s spiritual field. With the chants of "Jai Ma Tara" and "Jai Bamdev," we conclude this segment.
+Speaker 1: We have heard much about the greatness of Mother Tara's playground and Bamakhepa's spiritual field. With the chants of "Jai Ma Tara" and "Jai Bamdev," we conclude this segment.
 
 Speaker 1 (Narrator/Closing): About 2 billion years ago, as the Indian subcontinent was forming through geological changes, this unique landscape in the western part of West Bengal was created. It is part of the Chota Nagpur plateau. A geological fault line separated this land, which subsequently changed the course of the Dwaraka River. How would you describe this? It must be a miraculous act of God.
 
-Speaker 2: Who knows God’s plan? Nature knows what it will do; no human can predict if there will be a storm, an earthquake, or a flood tomorrow morning. Nature controls everything. In our language, Nature is God. By destroying Nature, we are destroying God. Eventually, humans will not be able to survive. The more trees are cut and Nature is destroyed, the sooner humanity will perish. There is no doubt about this. Mother Durga says, "I have no fixed form; I am the manifestation of this universe." This Nature you see is Her. The scriptures say the same: "She is everywhere."
+Speaker 2: Who knows God's plan? Nature knows what it will do; no human can predict if there will be a storm, an earthquake, or a flood tomorrow morning. Nature controls everything. In our language, Nature is God. By destroying Nature, we are destroying God. Eventually, humans will not be able to survive. The more trees are cut and Nature is destroyed, the sooner humanity will perish. There is no doubt about this. Mother Durga says, "I have no fixed form; I am the manifestation of this universe." This Nature you see is Her. The scriptures say the same: "She is everywhere."
 
 Speaker 1: Nature is the Mother, and the Mother is Creation.
 

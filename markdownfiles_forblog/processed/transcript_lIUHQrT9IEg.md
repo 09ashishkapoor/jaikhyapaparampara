@@ -14,7 +14,7 @@ When we talk about Venus, we refer to Shukracharya (the Guru of the Asuras). He 
 
 Shukracharya alone possesses the "Amrita" (nectar of immortality). The Mahamrityunjaya Yagya we performed was dedicated to him because he is the lord of Venus. In the human body, women have eggs (Dimbanu) and men have sperm (Shukranu). If Venus is weak or debilitated (Neecha) at the time of birth—meaning it lacks strength or degrees—it causes significant problems in married life.
 
-The primary function of Venus is procreation. If someone’s Venus is low, they struggle to have children. This is why we emphasize the strength of Venus so much. If Venus is joined with the Sun (Ravi), it creates Daridra Yoga (a combination indicating poverty).
+The primary function of Venus is procreation. If someone's Venus is low, they struggle to have children. This is why we emphasize the strength of Venus so much. If Venus is joined with the Sun (Ravi), it creates Daridra Yoga (a combination indicating poverty).
 
 Interviewer: So, it leads to debt in all directions?
 
@@ -36,7 +36,7 @@ If Venus is absent or weak, there is unrest in the household. Conversely, if som
 
 For those who lack Venus strength, we sometimes suggest wearing a diamond (Heera). However, a diamond does not suit everyone. If other planets are poorly placed, a diamond can actually turn someone into a beggar. I have personally asked many people to remove their diamonds because they lost everything after wearing one. You must consult a very experienced astrologer before wearing a diamond.
 
-As I mentioned, the combination of Venus and Sun leads to poverty. But if Venus is strong and well-placed, it brings abundance and children. Maa Bhuvaneshwari’s mantra consists of three syllables: “Aam Hreem Kroom Shreemat Bhuvaneshwaryai Swaha Namah.” This is the mantra of the three-syllable Mother, the deity of Venus.
+As I mentioned, the combination of Venus and Sun leads to poverty. But if Venus is strong and well-placed, it brings abundance and children. Maa Bhuvaneshwari's mantra consists of three syllables: "Aam Hreem Kroom Shreemat Bhuvaneshwaryai Swaha Namah." This is the mantra of the three-syllable Mother, the deity of Venus.
 
 Regarding the gemstone, as I said, it must be worn with great caution. We also provide certain herbal roots (Shekor) here which are very helpful. We provide mantras and roots, and many people have benefited.
 

@@ -14,7 +14,7 @@ Gurudev: My blessings.
 
 Host: Welcome to all our friends to the "Gupta Sadhak Shyama Khyapa" YouTube channel. Today is the sacred birth anniversary of Swami Vivekananda. Although our channel has previously broadcast episodes about Vivekananda and Gurudev, today is a particularly significant day in our nation's history. Therefore, I request Gurudev to offer his tribute and speak about the great icon of this era, Vivekananda.
 
-Gurudev (01:42): I bow to him first; millions of salutations at his feet. Such a great man was born on this Indian soil on January 12, 1863. We observe this day because, in my view, he was a ‘Yugavatar’ (incarnation for the age). Ramakrishna was the master, and Vivekananda came as his associate. He lived only 39 years, passing away in 1902. Within those few years, he created a spiritual tremor across India through his deeds—from establishing the Belur Math to his various social works. There has never been another like him, nor will there be.
+Gurudev (01:42): I bow to him first; millions of salutations at his feet. Such a great man was born on this Indian soil on January 12, 1863. We observe this day because, in my view, he was a 'Yugavatar' (incarnation for the age). Ramakrishna was the master, and Vivekananda came as his associate. He lived only 39 years, passing away in 1902. Within those few years, he created a spiritual tremor across India through his deeds—from establishing the Belur Math to his various social works. There has never been another like him, nor will there be.
 
 He passed away on July 4, 1902, holding his prayer beads. He was lying on his bed, chanting, and in that meditative state, he left his physical body. A small amount of blood trickled from his nose. He used to say that the body is like a worn-out garment; he would cast it aside when the time came.
 
@@ -26,19 +26,19 @@ Gurudev (04:51): When he delivered his historic speech at the Parliament of Reli
 
 It was during this time that he met Sister Nivedita. He initiated her in Kolkata. She was completely dedicated to him. Once, when the plague broke out in Kolkata, Swamiji ordered her to clean the streets. Carrying a broom, she personally cleaned the city to prevent the spread of the disease.
 
-Nivedita learned much about Ramakrishna Paramahamsa from Swamiji. She came from Ireland, and Sarada Ma (the Holy Mother) affectionately called her ‘Khuki’ (little girl). Sarada Ma used to say, "She is one of our own; she was only born in Ireland by mistake."
+Nivedita learned much about Ramakrishna Paramahamsa from Swamiji. She came from Ireland, and Sarada Ma (the Holy Mother) affectionately called her 'Khuki' (little girl). Sarada Ma used to say, "She is one of our own; she was only born in Ireland by mistake."
 
 Gurudev (10:42): Vivekananda had immense respect for Buddha and Christ. He said that if Buddha were alive, he would have taken initiation from him because of his infinite patience. He also said that if he ever met Christ, he would wash his feet with his own blood.
 
 In his youth, he was a bit of a rebel, but he became very gentle later on. He knew he would have to leave once his work at Belur Math was finished.
 
-Host (12:00): Gurudev, we see you practicing service to humanity alongside your spiritual practices. Many people find peace and solutions to their problems here. Vivekananda’s life was a testament to ‘Karmayoga’ (the yoga of action). Could you speak on that?
+Host (12:00): Gurudev, we see you practicing service to humanity alongside your spiritual practices. Many people find peace and solutions to their problems here. Vivekananda's life was a testament to 'Karmayoga' (the yoga of action). Could you speak on that?
 
 Gurudev (12:45): We perform spiritual practices for the welfare of humanity. As long as I have breath, I will work for the people, regardless of the hardship. Vivekananda taught us to work like heroes. He said, "Work so that when you die, your name is written in golden letters in history." He believed in serving others without expecting rewards. He emphasized that one should always think of the welfare of others and never cause harm. This philosophy has always been my inspiration.
 
 Great men like him are rare. It is said that when Netaji Subhas Chandra Bose was gravely ill as a child and doctors had given up hope, a saffron-clad monk visited and blessed him, saying he would survive. Netaji held Vivekananda in the highest regard throughout his life.
 
-Gurudev (16:00): In today’s world, society is often driven by greed and conflict. The teachings of these great souls are being forgotten. Vivekananda saw God in every being—from an ant to a tree. He was deeply pained by the decay of society. Once, out of anger at the corruption he saw, he even said he wished he had a 'Sten gun' to clear the rot.
+Gurudev (16:00): In today's world, society is often driven by greed and conflict. The teachings of these great souls are being forgotten. Vivekananda saw God in every being—from an ant to a tree. He was deeply pained by the decay of society. Once, out of anger at the corruption he saw, he even said he wished he had a 'Sten gun' to clear the rot.
 
 Gurudev (19:01): Once, Swamiji invited Nivedita for a meal. Even though he was fasting, he personally served her and then washed her hands and dried them with a towel—just as his guru, Ramakrishna, had once done for him. Nivedita felt it was a sign that his time was near. Shortly after, she witnessed a ball of fire rising from the Ganges, signifying that his soul had departed.
 

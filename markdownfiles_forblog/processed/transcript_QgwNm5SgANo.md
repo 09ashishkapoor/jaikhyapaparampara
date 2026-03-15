@@ -16,9 +16,9 @@ Gurudev: This is an invaluable asset. We are very fortunate. These gentlemen cho
 
 Disciple: This book was written 500 to 600 years ago, Gurudev.
 
-Gurudev: It was written back then, but it is only coming to light now. It was kept secret for a long time. It was never released before. Now it is being revealed because a "Mandal" (organization) has been formed. Given the rate at which sins are increasing, a group called "Kalika Mandal" has emerged. It’s all related to Krishna. There is a dialogue where Krishna speaks with Kali. That has also come to light. This is the authentic version. It predicts what will happen to India and the world, when the war will start, what the outcome will be, and which countries will take which sides. People must read this to be cautious. If they aren't careful, there will be great danger. It says that 700 crore (7 billion) people will perish in these seven years. I don’t know exactly how, but one part mentions people dying while vomiting blood. Interestingly, a virus has recently been found in Africa where children are dying within an hour. This makes one wonder if such a disease is coming.
+Gurudev: It was written back then, but it is only coming to light now. It was kept secret for a long time. It was never released before. Now it is being revealed because a "Mandal" (organization) has been formed. Given the rate at which sins are increasing, a group called "Kalika Mandal" has emerged. It's all related to Krishna. There is a dialogue where Krishna speaks with Kali. That has also come to light. This is the authentic version. It predicts what will happen to India and the world, when the war will start, what the outcome will be, and which countries will take which sides. People must read this to be cautious. If they aren't careful, there will be great danger. It says that 700 crore (7 billion) people will perish in these seven years. I don't know exactly how, but one part mentions people dying while vomiting blood. Interestingly, a virus has recently been found in Africa where children are dying within an hour. This makes one wonder if such a disease is coming.
 
-Disciple: It’s not just diseases, Gurudev. There will be various calamities—earthquakes, and even a nuclear war is about to begin.
+Disciple: It's not just diseases, Gurudev. There will be various calamities—earthquakes, and even a nuclear war is about to begin.
 
 Gurudev: Yes, it has almost started. Taiwan and China are at odds, and the Russia-Ukraine conflict could lead to World War III.
 
@@ -36,7 +36,7 @@ Gurudev: No more water. Just as King Bhagirath brought the freshwater of the Gan
 
 Disciple: Swami Achyutananda Das says he is the reincarnation of Vyasadeva.
 
-Gurudev: Yes. The main point is the Battle of Kurukshetra. During that war, many great warriors couldn't even use their weapons because Lord Krishna’s Sudarshan Chakra was the only weapon that truly mattered. Other weapons like the Pashupatastra or the Brahmastra were used and lost. Now, those same souls—the Pandavas and the Kauravas—have been reborn because they want to fight again. They feel their true heroism was never fully displayed.
+Gurudev: Yes. The main point is the Battle of Kurukshetra. During that war, many great warriors couldn't even use their weapons because Lord Krishna's Sudarshan Chakra was the only weapon that truly mattered. Other weapons like the Pashupatastra or the Brahmastra were used and lost. Now, those same souls—the Pandavas and the Kauravas—have been reborn because they want to fight again. They feel their true heroism was never fully displayed.
 
 Disciple: You mean at the end of the Mahabharata war, a part was left incomplete?
 
@@ -46,9 +46,9 @@ Disciple: Gurudev, Bhabisya Malika says that out of 145 crore Indians, only 33 c
 
 Gurudev: Yes, only about 63 to 65 crore people will remain on Earth. Out of those, 33 crore will be in India and the remaining 30 crore will be spread across the rest of the world. European countries will become like deserts. Many places will be completely wiped out. Pakistan will be totally destroyed.
 
-Disciple: It’s amazing, Gurudev. This was written 600 years ago. When the authors wrote this, Pakistan didn't even exist, yet Pakistan is mentioned by name.
+Disciple: It's amazing, Gurudev. This was written 600 years ago. When the authors wrote this, Pakistan didn't even exist, yet Pakistan is mentioned by name.
 
-Gurudev: Yes, many things that didn't exist then are mentioned and have now come into being. This is why I request everyone to read Bhabisya Malika. It’s a small expense for a great wealth of knowledge for the next seven years.
+Gurudev: Yes, many things that didn't exist then are mentioned and have now come into being. This is why I request everyone to read Bhabisya Malika. It's a small expense for a great wealth of knowledge for the next seven years.
 
 Disciple: What is the way to be saved from these sins, Gurudev?
 

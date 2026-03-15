@@ -4,15 +4,15 @@ Student: Pranam, Gurudev.
 
 Gurudev: Pranam, my son.
 
-Student: To our viewers, I hope everyone is doing well. We are starting a new episode today. Gurudev, I noticed your mood seems a bit heavy today. I’m asking this in front of our audience, please don't mind.
+Student: To our viewers, I hope everyone is doing well. We are starting a new episode today. Gurudev, I noticed your mood seems a bit heavy today. I'm asking this in front of our audience, please don't mind.
 
-Gurudev: No, it’s nothing like that. My heart is heavy because two of my boys [disciples] are currently performing the Narmada Parikrama [circumambulation of the Narmada River]. The Narmada Parikrama is no small feat. It involves walking nearly 2,500 to 3,000 kilometers on foot. They have started their journey, passing through dense forests. There are dangers—wild animals, bears, and the harshness of the wilderness. I am very worried about them. They are out there performing this sacred walk; they even asked for my blessings before they left so they could complete it successfully.
+Gurudev: No, it's nothing like that. My heart is heavy because two of my boys [disciples] are currently performing the Narmada Parikrama [circumambulation of the Narmada River]. The Narmada Parikrama is no small feat. It involves walking nearly 2,500 to 3,000 kilometers on foot. They have started their journey, passing through dense forests. There are dangers—wild animals, bears, and the harshness of the wilderness. I am very worried about them. They are out there performing this sacred walk; they even asked for my blessings before they left so they could complete it successfully.
 
 Performing the Narmada Parikrama on foot takes exactly three years, three months, and thirteen days. That is the traditional rule. They are on their way now. Just yesterday or the day before, they visited the cave of Rishi Markandeya. You must have heard of Markandeya Rishi, who wrote the Chandi. They visited his cave, shared some photos, and continued their journey. They walk about 25 to 30 kilometers a day. One cannot travel faster because of the dense forests. They move from one shelter to another.
 
 Even though I know Mother Narmada is always watchful—her abode is called "Sajag Dham" (The Wakeful Abode)—I still worry. She keeps a close eye on everyone. I have immense faith that Mother Narmada stays with those who perform the Parikrama and doesn't let any harm befall them. Still, a human heart is bound to worry. I remember when Bagla Baba walked to Kamakhya; I was anxious then too. But this is much bigger. They won't be back for over three years. They walk 25 to 30 kilometers maximum during the day, moving from one camp to the next. There are many great saints living along the banks of the Narmada. My boys stay in those camps. They call me occasionally to check in. They mentioned the weather is good, with occasional light rain.
 
-Student: Gurudev, before we dive into our main topic, I apologize for bringing up your mood. The question I wanted to ask you today is about death. Right before someone passes away—say, a day or so before—can they sense it? Can the people around them feel it? I’ve heard that there are signs.
+Student: Gurudev, before we dive into our main topic, I apologize for bringing up your mood. The question I wanted to ask you today is about death. Right before someone passes away—say, a day or so before—can they sense it? Can the people around them feel it? I've heard that there are signs.
 
 Gurudev: Only those who are deeply and spiritually connected can truly understand it. Others might see it as a coincidence. About a month ago, someone very close to me passed away. I was with him during his last days. He was admitted to a liver foundation, and top doctors were treating him. Suddenly, while he was on oxygen, he turned to me and said, "I have been discharged."
 
@@ -28,7 +28,7 @@ Student: And is anything felt after death?
 
 Gurudev: Right before leaving the physical plane, the soul often does something to signal its departure. It's a universal truth. Sometimes a branch of a tree breaks, or a piece of a wall falls. There is always a sign. This recent experience really saddened me. Whenever I asked him how he was, he would only say, "I've been discharged." I remembered a story called "Chutir Ghanta" (The Vacation Bell). I realized his time was up. He passed away that very day.
 
-Student: Gurudev, I’ve seen many devotees come to you, burdened by life's problems, asking for "Mukti" (liberation or death).
+Student: Gurudev, I've seen many devotees come to you, burdened by life's problems, asking for "Mukti" (liberation or death).
 
 Gurudev: Yes, that happens. Once, a man even left his keys and a list of his debts with me. He told me that when he gets money—he didn't say from where—I should settle his debts. I asked him, "What are you planning? Are you going to hang yourself at the Kalighat temple?" He didn't answer. He just left. He came back the next day, and I asked, "Didn't you die?" He stayed silent.
 

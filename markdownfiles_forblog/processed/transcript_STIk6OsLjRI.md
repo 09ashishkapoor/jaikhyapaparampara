@@ -6,7 +6,7 @@ Transcript: Spiritual Discourse by Gupta Sadhaka Shri Shri Shyamakhapa
 
 Host (Sujata Rai): Pranam, Gurudev. Shri Shri Shyamakhapai Namah.
 
-Warm greetings and best wishes to everyone from Shantikunj Ashram. I am Sujata Rai, and I am beginning today’s program. After many years of secret meditation (Gupta Sadhana), our Gurudev, at our request, is sharing his wisdom not only in Bengal or India but across the entire world. Through his YouTube channel, "Shyamakhapa," Gurudev shares his spiritual life lessons and works toward world peace by solving the problems and miseries of the general public. Today, Gurudev is engaging in a special discussion. I hope you all find it enlightening.
+Warm greetings and best wishes to everyone from Shantikunj Ashram. I am Sujata Rai, and I am beginning today's program. After many years of secret meditation (Gupta Sadhana), our Gurudev, at our request, is sharing his wisdom not only in Bengal or India but across the entire world. Through his YouTube channel, "Shyamakhapa," Gurudev shares his spiritual life lessons and works toward world peace by solving the problems and miseries of the general public. Today, Gurudev is engaging in a special discussion. I hope you all find it enlightening.
 
 Disciple: Pranam, Gurudev. Today, we would like to learn from you about the concepts of Creation and Dissolution (Srishti and Laya).
 
@@ -66,7 +66,7 @@ Disciple: Are there signs of this approaching destruction?
 
 Gurudev: Yes. Look at the signs at the Jagannath Temple in Puri. First, the flag fell during a storm. Then, the temple spire caught fire. Recently, a kite—a bird that usually never sits there—was seen perched on the flag. These are all warnings from Lord Jagannath that a bad time is coming. Nature is signaling us to be cautious.
 
-Host (Sujata Rai): We just heard a profound discussion by Gupta Sadhaka Shri Shri Shyamakhapa. To see more such videos, please subscribe, like, and share Gurudev’s channel.
+Host (Sujata Rai): We just heard a profound discussion by Gupta Sadhaka Shri Shri Shyamakhapa. To see more such videos, please subscribe, like, and share Gurudev's channel.
 
 To contact Gurudev for advice or to visit his Shantikunj Ashram, you must take a prior appointment via WhatsApp between 10:00 AM and 6:00 PM.
 

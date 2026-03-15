@@ -8,7 +8,7 @@ Gurudev: Namaskar. Tell me.
 
 Disciple: First of all, Namaskar to all our friends. You are watching this video on our website, guptasadhakshyamakhapa.com. Please subscribe to this channel so we can bring more valuable videos like this to you.
 
-Gurudev, today’s topic of discussion is "Omkar." Please tell us something about the Omkar sound. What are its benefits?
+Gurudev, today's topic of discussion is "Omkar." Please tell us something about the Omkar sound. What are its benefits?
 
 Gurudev: The benefits of Omkar are immense. Omkar is what we call the "Pranava." Whenever we recite any mantra, we use the word "Om" before and after it. Now, if you break down the word "Om," three sounds emerge: A, U, and M. In our Bengali understanding, it is A-U-M.
 
@@ -34,7 +34,7 @@ What is my duty?
 
 When these three are combined, it becomes Omkar. Our poets once wrote that there was a time when the great Omkar sound resonated tirelessly through the strings of the heart as the mantra of the One. In ancient times, great tasks were accomplished through Omkar. It is a "Nadh" (divine sound vibration).
 
-For example, Bamakhepa used to shout, "Tara! Tara!" That was also a "Nadh"—a vibration. Omkar is a sound that leaves our mouth, travels through the air, and reaches the "Amritamayi Tejomayi Purusha" (The Immortal Resplendent Being) in the sky. As I’ve mentioned before, there is an "Inner Sky" (Antar-Akash) within the heart where Lord Shiva resides.
+For example, Bamakhepa used to shout, "Tara! Tara!" That was also a "Nadh"—a vibration. Omkar is a sound that leaves our mouth, travels through the air, and reaches the "Amritamayi Tejomayi Purusha" (The Immortal Resplendent Being) in the sky. As I've mentioned before, there is an "Inner Sky" (Antar-Akash) within the heart where Lord Shiva resides.
 
 Swami Vivekananda said, "Jiva is Shiva." Shiva resides in your inner sky and my inner sky. But we do not look within; nobody explains this to us. When you chant Omkar, He hears it within your inner sky.
 

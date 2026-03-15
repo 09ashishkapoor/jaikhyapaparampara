@@ -30,7 +30,7 @@ Annamaya Kosha: This is the food sheath. If the body doesn't get food, this shea
 
 Our task is to keep these five sheaths and three bodies active. We often say we have "captured" something within us; this is related to these sheaths.
 
-Let’s talk about the Pranamaya Kosha again. To sustain life, we need the Annamaya Kosha (food). Without food, life cannot be sustained.
+Let's talk about the Pranamaya Kosha again. To sustain life, we need the Annamaya Kosha (food). Without food, life cannot be sustained.
 
 The mind, intellect, and ego are all synonymous in this context. The Manomaya Kosha stores our experiences, our joys, and our sorrows. If this sheath fails, the mind itself fails. The Vijnanamaya Kosha acts as a judge, verifying what we see and hear. It is often a skeptical or "doubting" sheath, always verifying facts. Finally, once you transcend these, you reach the Anandamaya Kosha. If this is active, you experience bliss; if it is dormant, you remain in a state of misery.
 
