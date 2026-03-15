@@ -2,6 +2,17 @@
 <!-- This file is auto-maintained by the blog-converter agent. Do not edit manually. -->
 
 ## Completed Transcripts
+- markdownfiles_forblog/tobeprocessed/transcript_bgYz43G7_4I.md → articles/pagla-baba-location-update-kamakhya-journey-plassey.md
+- markdownfiles_forblog/tobeprocessed/transcript_biAMe5tssN0.md → articles/gurudev-health-update-hospital-kali-puja-world-war-prophecy.md
+- markdownfiles_forblog/tobeprocessed/transcript_bmr5iSn5Tf4.md → articles/jagannath-invitation-letter-tantric-certificate-mahapralay-prophecy.md
+- markdownfiles_forblog/tobeprocessed/transcript_Bu1V6QBTF6o.md → articles/full-of-sins-greed-guru-education-sold-warning.md
+- markdownfiles_forblog/tobeprocessed/transcript_bU15Kp8hSnk.md → articles/locust-plague-biblical-prophecy-kalighat-protection-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_c0-ihKLx8fE.md → articles/ambubachi-part-2-kamakhya-truth-red-cloth-myth-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_C2RE9apP3U0.md → articles/singapore-devotee-biraja-shakti-peeth-viroja-river-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_c6Uz2o78v-8.md → articles/maha-saptami-ashtami-durga-puja-rituals-sandhi-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_c84knq3qr14.md → articles/bagha-jatin-revolutionary-burhibalam-battle-india-future-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_cA9WYbRE_cA.md → articles/eagles-eye-chitragupta-divine-cctv-karma-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_bgpYbu4TkxM.md → articles/reunion-after-21-years-guru-shyama-khyapa-sadhika-sangeeta.md
 - markdownfiles_forblog/tobeprocessed/transcript_ALp00Wr4sWs.md → articles/pagla-baba-pilgrimage-kamakhya-journey-devotion.md
 - markdownfiles_forblog/tobeprocessed/transcript_AjJTPwOJzUM.md → articles/ego-intelligence-mind-kakcharit-practice-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_12bkroMqhy0.md → articles/gurudev-shyama-khyapa-saptarishi-seven-sages-connection.md
@@ -48,6 +59,8 @@
 - markdownfiles_forblog/tobeprocessed/transcript_9AEE1_LACCs.md → articles/the-secret-of-kumbhaka-guru-shyama-khyapa-on-yogic-breath-and-longevity.md (ALREADY EXISTS - skipped)
 - markdownfiles_forblog/tobeprocessed/transcript_EoOwFcwy3rI.md → articles/annapurna-puja-journey-kamakhya-benares-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_eOIIvCcnT8c.md → articles/prophecy-of-100-crore-deaths-gurudev-on-the-future-of-india-and-societal-decay.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_b4sC5-2BGAg.md → articles/what-is-the-reason-for-such-a-change-in-brahmins.md
+- markdownfiles_forblog/tobeprocessed/transcript_B9RwwiI53OQ.md → articles/ambubachi-by-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_c355alJeW_U.md → articles/dhyana-meditation-dharana-concentration-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_A2D-UT3B3TM.md → articles/mecca-kaaba-mahadev-shukracharya-story-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_AOWiLRspLcg.md → articles/healing-paralyzed-man-bangaon-mahamrityunjaya-ash-shyama-khyapa.md
@@ -146,6 +159,8 @@
 - markdownfiles_forblog/tobeprocessed/transcript_2IuESwxZpC4.md → articles/the-mystery-of-gyan-ganj-the-hidden-spiritual-kingdom.md (ALREADY EXISTS - skipped)
 - markdownfiles_forblog/tobeprocessed/transcript_4npEP1SWw8s.md → articles/miraculous-events-of-rajpur-mahashashan-a-sadhak-s-witness.md (ALREADY EXISTS - skipped)
 - markdownfiles_forblog/tobeprocessed/transcript_2f_K0JCxhqs.md → articles/narmada-parikrama-what-did-gurudev-say-by-shyama-khyapa.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/processed/transcript_bzxrXvfEfSs.md → articles/sadhak-shyamakhyapa-about-rajpur-burning-ghat.md
+- markdownfiles_forblog/processed/transcript_bf1_c1ihRKM.md → articles/vasudev-kutumbakam-what-did-gurudev-gupta-sadhak-shyamakhyapa-say-about-bangladesh.md
 - markdownfiles_forblog/tobeprocessed/transcript_asbPM7bePaQ.md → articles/kindness-vs-justice-dualism-god-will-guru-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_EbUYbHTFCCI.md → articles/mother-chamunda-origin-worship-guru-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_EtYJ_yrjL10.md → articles/spiritualism-india-introduction-shyama-khepa-maharaj.md
@@ -259,3 +274,8 @@
 - markdownfiles_forblog/tobeprocessed/transcript_B-WqCTeOW2s.md → articles/blind-boys-song-to-mother-world-war-three-signs.md
 - markdownfiles_forblog/processed/transcript_Ay6igzX9dvE.md → articles/official-book-release-bona-fide-spiritual-master-shanti-kunj.md
 - markdownfiles_forblog/processed/transcript_azRZkWJKkmI.md → articles/atma-jnana-brahma-jnana-self-divine-knowledge-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_bCwV0pud_h0.md → articles/how-important-is-respect-devotion-love-in-ones-own-life-family-and-society.md
+- markdownfiles_forblog/processed/transcript_BvvCrJyjyYM.md → articles/the-relationship-between-tantra-and-vedas-durgaprasanna-paramhansas-divine-grace.md
+- markdownfiles_forblog/processed/transcript_BvxwQRSIE6Y.md → articles/pawanputra-hanuman-the-eternal-devotee.md
+- markdownfiles_forblog/processed/transcript_Byo_93vNRr8.md → articles/flag-on-fire-at-puri-temple-sign-of-cataclysm.md
+- markdownfiles_forblog/processed/transcript_bZPw_GqoWFg.md → articles/deeksha-part-two-initiation-from-the-disciples-perspective.md

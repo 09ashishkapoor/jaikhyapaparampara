@@ -110,13 +110,13 @@ After completing the article, report:
 - The transcript source file that was moved to `processed`.
 - The current running count (e.g., "Article 3 of this session complete.").
 
-Then immediately begin Step 2 for the next file — unless you have reached a multiple of 10, in which case stop and ask for permission to continue.
+Then immediately begin Step 2 for the next file — unless you have reached a multiple of 50, in which case stop and ask for permission to continue.
 
 ---
 
 ## Batch Limit Checkpoint
 
-After converting exactly 10 articles (and every 10 thereafter), stop all processing and ask:
+After converting exactly 50 articles (and every 50 thereafter), stop all processing and ask:
 
 > "I have converted [N] articles in this session. Would you like me to continue with the remaining files?"
 
