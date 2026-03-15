@@ -2,6 +2,8 @@
 <!-- This file is auto-maintained by the blog-converter agent. Do not edit manually. -->
 
 ## Completed Transcripts
+- markdownfiles_forblog/tobeprocessed/transcript_ALp00Wr4sWs.md → articles/pagla-baba-pilgrimage-kamakhya-journey-devotion.md
+- markdownfiles_forblog/tobeprocessed/transcript_AjJTPwOJzUM.md → articles/ego-intelligence-mind-kakcharit-practice-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_12bkroMqhy0.md → articles/gurudev-shyama-khyapa-saptarishi-seven-sages-connection.md
 - markdownfiles_forblog/tobeprocessed/transcript_1h1ncCiyzJw.md → articles/covid-crisis-mirror-philosophy-conscience-guru-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_1kQqKf0Wezk.md → articles/swami-vivekananda-women-education-youth-suicide-horoscopes-shyama-khyapa.md
@@ -96,6 +98,13 @@
 - markdownfiles_forblog/tobeprocessed/transcript_6RbUwDA-XOQ.md → articles/bharat-sevashram-sangha-pushkar-pindadaan-suicide.md
 - markdownfiles_forblog/tobeprocessed/transcript_EhJ_R35NFhI.md → articles/knowing-understanding-god-parents-children-dharma.md
 - markdownfiles_forblog/tobeprocessed/transcript_6BRkvqohLMM.md → articles/science-spirituality-doctors-meet-gurudev.md
+- markdownfiles_forblog/tobeprocessed/transcript_aNVrKHnrO_0.md → articles/mahakal-worship-wheel-of-time-puri-temple-om-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_AocaCSM6wWo.md → articles/tantra-kula-kundalini-breath-retention-chakra-practice.md
+- markdownfiles_forblog/tobeprocessed/transcript_APIugBYEcpY.md → articles/russian-devotee-tara-sadhana-tarapith-pilgrimage-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_AqBLOlBGwh4.md → articles/shri-bhrigu-son-of-brahma-amarnath-narmada-sacred-sites.md
+- markdownfiles_forblog/tobeprocessed/transcript_aqxbQN_MsGk.md → articles/fish-ashore-puri-sea-warning-earthquakes-2023-inauspicious-omens.md
+- markdownfiles_forblog/tobeprocessed/transcript_AyU25f96xdE.md → articles/water-filled-earth-glacial-melting-coastal-submersion-crisis.md
+- markdownfiles_forblog/tobeprocessed/transcript_AyzkvSDsJBY.md → articles/mahalaya-clothing-distribution-community-service-shantikunj.md
 - markdownfiles_forblog/tobeprocessed/transcript_fxlZmd2VsT0.md → articles/annual-festival-mother-tara-chokkhudaan-preparations.md
 - markdownfiles_forblog/tobeprocessed/transcript_9nKm3-zEjvY_english.md → articles/tarapith-sadhana-brahma-shila-bama-khepa.md
 - markdownfiles_forblog/tobeprocessed/transcript_0uxsBg5dVYQ.md → articles/gods-watch-sin-virtue-internal-cctv-shyama-khyapa.md (ALREADY EXISTS - skipped)
@@ -109,6 +118,10 @@
 - markdownfiles_forblog/tobeprocessed/transcript_b-vqK4OL-KE.md → articles/dhumavati-dashamahabidya-seventh-mahavidya.md
 - markdownfiles_forblog/tobeprocessed/transcript_D2nkKzy6Qwc.md → articles/phetkarini-tantra-boli-sacrifice-hindu-tradition.md
 - markdownfiles_forblog/tobeprocessed/transcript_aWJC15qH9tw.md → articles/traveling-subtle-body-sukshmo-shorir-spiritual-vibration.md
+- markdownfiles_forblog/tobeprocessed/transcript_aMCBXqwiSGs.md → articles/the-feeling-of-a-saint-guru-shyama-khyapa-spiritual-realization.md
+- markdownfiles_forblog/tobeprocessed/transcript_av4gDTYesvc.md → articles/what-the-mystic-shyama-khyapa-says-about-ambubachi.md
+- markdownfiles_forblog/tobeprocessed/transcript_Ay6igzX9dvE.md → articles/official-launch-bona-fide-spiritual-master-book-release.md
+- markdownfiles_forblog/tobeprocessed/transcript_azRZkWJKkmI.md → articles/self-knowledge-divine-knowledge-atma-jnana-brahma-jnana.md
 - markdownfiles_forblog/tobeprocessed/transcript_D262H6n722A.md → articles/kamalakanta-bhattacharya-shakta-poet-siddha-purusha.md
 - markdownfiles_forblog/tobeprocessed/transcript_9dZaw9g5mN0.md → articles/mother-hangseshwari-bansberia-tantric-architecture.md
 - markdownfiles_forblog/processed/transcript_EZBKaiy0_R8.md → articles/gurudev-rajdarshan-sobhabazar-rajbari-gopinath-shyama-khyapa.md
@@ -236,3 +249,8 @@
 - markdownfiles_forblog/processed/transcript_Ah48KNoPyJs.md → articles/home-gods-current-situation.md
 - markdownfiles_forblog/processed/transcript_aI74Q5-i_o0.md → articles/has-kalkis-game-begun-what-did-gurudev-say.md
 - markdownfiles_forblog/processed/transcript_ajFlyMtss-Y.md → articles/gurudev-shyamakshapa-discussed-totapuri.md
+- markdownfiles_forblog/processed/transcript_AzroUNconNk.md → articles/sraddha-ceremonies-pret-lok-soul-journey-ten-months-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_B-WqCTeOW2s.md → articles/blind-boys-song-mother-world-war-three-prophecy.md
+- markdownfiles_forblog/processed/transcript_b4sC5-2BGAg.md → articles/hindu-sanatan-dharma-decline-brahmins-shudra-age.md
+- markdownfiles_forblog/processed/transcript_BAfWiFfMVTY.md → articles/vivekananda-birthday-saint-grandeur-brahman-realization.md
+- markdownfiles_forblog/processed/transcript_bBqq-T6BPP4.md → articles/astrology-marriage-divorce-infertility-causes.md
