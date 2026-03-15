@@ -2,6 +2,12 @@
 <!-- This file is auto-maintained by the blog-converter agent. Do not edit manually. -->
 
 ## Completed Transcripts
+- markdownfiles_forblog/tobeprocessed/transcript_CpK-JsFobzY.md → articles/rahu-birth-history-part-2-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_crzUjMxjszA.md → articles/science-and-spirituality-doctor-perspective-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_CiRPXrr0Uzg.md → articles/kakabhasma-and-kaka-charita-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_cJZ-xHR7xkw.md → articles/warning-secret-saint-shyamakhapa-rituals-world-peace-crisis.md
+- markdownfiles_forblog/tobeprocessed/transcript_cMrSe-ccNyE.md → articles/kuhok-moho-illusion-infatuation-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_CmWjfc9AkDw.md → articles/all-over-kalki-avatar-end-times-prophecy-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/transcript_bgYz43G7_4I.md → articles/pagla-baba-location-update-kamakhya-journey-plassey.md
 - markdownfiles_forblog/tobeprocessed/transcript_biAMe5tssN0.md → articles/gurudev-health-update-hospital-kali-puja-world-war-prophecy.md
 - markdownfiles_forblog/tobeprocessed/transcript_bmr5iSn5Tf4.md → articles/jagannath-invitation-letter-tantric-certificate-mahapralay-prophecy.md
@@ -279,3 +285,34 @@
 - markdownfiles_forblog/processed/transcript_BvxwQRSIE6Y.md → articles/pawanputra-hanuman-the-eternal-devotee.md
 - markdownfiles_forblog/processed/transcript_Byo_93vNRr8.md → articles/flag-on-fire-at-puri-temple-sign-of-cataclysm.md
 - markdownfiles_forblog/processed/transcript_bZPw_GqoWFg.md → articles/deeksha-part-two-initiation-from-the-disciples-perspective.md
+- markdownfiles_forblog/tobeprocessed/transcript_cfGXkuROitA.md → articles/jagannath-gundicha-ovens-destroyed-kalki-avatar-warning.md
+- markdownfiles_forblog/tobeprocessed/transcript_cGnMP0Zgy64.md → articles/tarapith-dondi-ritual-mundomalini-bama-khepa-world-peace.md
+- markdownfiles_forblog/tobeprocessed/transcript_cIj3Z549n_4.md → articles/pagla-baba-mahahom-tarapith-mahachita-covid-eradication.md
+- markdownfiles_forblog/tobeprocessed/transcript_CS7SBeT7kWo.md → articles/who-can-give-advice-wisdom-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_cT88AD7rSt0.md → articles/shirdi-sai-baba-saint-love-faith-patience-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_CTW543WwUb4.md → articles/gurudev-answers-selected-questions-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_cURNWf1590g.md → articles/bamdev-baba-samadhi-temple-vision-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_CvYzpK3wR8A.md → articles/solar-storm-earth-sun-crack-warning-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_CWa3gmwjClA.md → articles/shiksha-guru-diksha-guru-guru-disciple-relationship-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_cx6S-0Iz4iw.md → articles/bargabhima-sati-peeth-tamluk-visit-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_czUqEVVj5SM.md → articles/khelvi-bama-baba-curse-mother-tara-illness-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_D_HT8GHHo6c.md → articles/kailash-pati-shiva-hiranyagarbha-vedic-truth-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_D0vdWyodctc.md → articles/devbhoomi-destruction-joshimath-ganga-drying-prophecy-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_d2KQk1fttP0.md → articles/red-moon-blood-moon-omen-lakshmi-puja-eclipse-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_D3a4oblHTJw.md → articles/sin-virtue-paap-punya-judgment-god-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_dAoBhfn3YJI.md → articles/covid-vaccine-experience-dr-nilanjan-bhattacharjee-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_daSI-23CJCM.md → articles/sacred-origin-narmada-guru-shyama-khyapa-dr-sujit-kar.md
+- markdownfiles_forblog/tobeprocessed/transcript_dB-1kXnxwsU.md → articles/self-protection-first-guru-shyama-khyapa-ego-spiritual-lesson.md
+- markdownfiles_forblog/tobeprocessed/transcript_dgpnzIBOgEc.md → articles/maha-ashtami-rituals-significance-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_DKwdDnOSV1c.md → articles/kali-puja-bhoot-chaturdashi-rituals-tantric-methods-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_dLfeRSx9nDk.md → articles/west-bengal-danger-covid-lockdown-amavasya-warning-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_dqu89iC5E04.md → articles/meaning-of-mukti-liberation-stories-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_DrviNSh7rVc.md → articles/shiva-black-hole-creation-destruction-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_dIFo5qVFxAk.md → articles/origin-shankha-conch-bangles-sanatani-tradition.md (ALREADY EXISTS - skipped)
+- markdownfiles_forblog/tobeprocessed/transcript_DX7idmMVw2o.md → articles/pravritti-nivritti-marg-part-2-kundalini-awakening-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_DXJ3EynEU_g.md → articles/sthan-kaal-patra-place-time-recipient-spiritual-discourse-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_DZJDKa0sBxw.md → articles/english-biography-surya-kriya-sun-science-gyanganj-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_e4Br4bN3PZQ.md → articles/durga-puja-covid-celebrations-guidance-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_e6eBmMwat9U.md → articles/navami-puja-rituals-siddhidatri-worship-guide-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_E9uRDI9daP0.md → articles/akalipur-guhya-kali-secret-fierce-goddess-birbhum-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/transcript_EaQFDfe6gG8.md → articles/vedas-vedanta-brahma-creation-human-purpose-shyama-khyapa.md

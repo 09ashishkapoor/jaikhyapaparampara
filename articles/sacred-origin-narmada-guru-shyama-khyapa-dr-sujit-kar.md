@@ -1,0 +1,172 @@
+---
+layout: article
+title: "The Sacred Origin of Narmada: Guru Shyama Khyapa and Dr. Sujit Kar's Revelations"
+breadcrumbTitle: "Sacred Origin of Narmada River"
+description: "Guru Shyama Khyapa and renowned meteorologist Dr. Sujit Kar discuss the geological and spiritual origins of the Narmada River, its significance for sadhus, and the mystical aspects of Amarkantak."
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Narmada River, Amarkantak, Dr. Sujit Kar, Sri Yantra, Shiva Linga, Khyapa Parampara"
+category: "Spiritual Teachings"
+author: "🗣️ Gupta Sadhak Shyama Khyapa"
+date: 2026-03-15 10:27:00
+readingTime: 12
+tags:
+  - articles
+  - Guru Baba Shyama Khyapa
+  - Gupta Sadhak Shyamakhyapa
+  - Smashana Bhairava
+  - Narmada River
+  - Amarkantak
+  - Shiva Linga
+source: |
+  <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
+  <p><a href="https://www.youtube.com/watch?v=daSI-23CJCM" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
+  <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
+---
+
+<div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Devotee:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, Pranam.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Pranam.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Devotee:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Today, Dr. Sujit Kar, a renowned meteorologist, is with us. At everyone's request, we have both of you here today. We want to know some special, unknown facts about the Narmada. We would be very happy if you both could discuss this topic.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">There's not much to say about Narmada. Truly speaking, we tell the sadhus, "Go to Narmada, everything is there." Narmada is the real place. A sadhu who hasn't set foot in Narmada can't truly be called a sadhu. Every sadhu must visit Narmada; it's a part of the system. I have also been there, stayed there, and performed Japa-Tapa. The story of Narmada is vast, not a small one. It is said that Narmada originated from Shiva's sweat. There are many opinions, but this one is widely accepted. Others, and the Puranas, say Shiva once fought a battle, during which one of his eyes was injured. This caused tears to flow, from which Narmada was born. Whatever it is, everything is in Narmada. Every sadhu must set foot in Narmada; otherwise, he is not a sadhu. Nowadays, Narmada parikrama has become very easy; roads have been built. It's a 2400-kilometer journey to go and come back. It is said, "If you haven't seen Kutch, you haven't seen anything." People are visiting Kutch. Now, I don't know what Saheb (Dr. Kar) will say; he is more expert than me and has done a lot of research on these matters. Let him speak.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Dr. Sujit Kar:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">First of all, greetings to everyone. What we see as Narmada today, this region was once under the sea. About 130 crore years ago, as the Indian landmass was gradually shifting towards the north and northeast—a triangular landmass—the original landmass of southern India was like a triangle, a "Sri Yantra." North of that landmass, there was a crescent-shaped depression where the seawater resided. 130 crore years ago, as the landmass moved north and northeast, the sediment accumulated in this water body began to fold. But this folding was incomplete. From this folding, the first mountain range that emerged is today's Mahadev mountain. Along with that, two other significant events occurred. A deep fault or crack was created within the Indian landmass. Due to this fault, a massive tectonic shift occurred throughout the landmass. As a result, the Vindhya mountains were created on one side, and the Satpura mountains on the other. Even today, if you go to the source of the Narmada River and look at it from a satellite, it appears like a triangle. The "Sri Yantra" is the characteristic of this mountain; there are three specific peaks, and connecting them forms a triangle, which is the Sri Yantra. Its shape is very much like a "Kula-Kundalini," which is why sadhus consider this place the best for yoga practice. This is why sadhus have been attracted to Narmada for ages.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Dr. Sujit Kar:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Besides, there are several other important facts. From this Mahadev mountain, the river began to flow through this deep fault line. Simultaneously, another river flowed through the peripheral area, named Bhima, also known locally as the Son River. Remarkably, the Son and Narmada flowed almost parallel for some distance. Locally, it is said that there was a possibility of marriage between Narmada and Son. But due to some event, a great dispute arose between them. In reality, we have seen that about 110 crore years ago, another fault line was created there. Due to that fault, the Son River went in one direction, and Narmada in another.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Dr. Sujit Kar:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Another important point is that this river is much older than the Ganges. The river we know as the Ganges today is not its original flow. In the past, the Ganges flowed from the northeast, crossed the whole of North India, and fell into the Arabian Sea. This river was named Indo-Brahm or Shivalik. But due to geological changes, about 100 crore years ago, two massive shifts occurred in the Indian landmass. As a result, a part of the Chota Nagpur plateau broke off and moved towards the northeast, which is now the Shillong plateau. Simultaneously, a part of the Aravalli mountains increased in height and moved forward, now known as the Delhi Ridge. This Delhi Ridge and the Shillong plateau created the first water divide in the path of the river's flow. The river broke into three segments. The northeastern flow, which we call the Brahmaputra, is the main flow; it now flows through Bangladesh into the Bay of Bengal. Another part, which was in the central region, had its path destroyed. Later, other small rivers originating from the Himalayas merged with its bed, took the name Ganges, and flowed towards the Bay of Bengal. The third segment, which was on the western side, took the name Indus and, as you all know, flows through Pakistan into the Arabian Sea.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Dr. Sujit Kar:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Now, coming back to Narmada, since its origin about 130 crore years ago, this river has not changed its bed. Signs of many ice ages are carried within this riverbed. The rock nature here is mostly quartz. Besides, in some areas, there is feldspar. This is why the Shiva Lingas obtained from Narmada are mostly made of quartz and feldspar; some granite Shiva Lingas are also found. That is why it's said that the Shiva Lingas from Narmada are naturally endowed with divinity; they don't need separate consecration to be worshipped at home. But the Shiva Lingas from the Ganges or other places need to be consecrated.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Dr. Sujit Kar:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">As you all know, the place we see as the main Narmada temple and consider as its source is not the actual source. About 26 kilometers away from there, in the deep forest, this river originates. The characteristic of this river is that groundwater flows within its bed; it doesn't just carry rainwater. Groundwater is transported through it. The region through which it flows carries much more water than the Ganges. This is why this river is considered very holy. In our prayers and mantras, Narmada's water is often mentioned. Even after flowing for so long, its path hasn't changed. The waterfalls within its course, like the famous Dhuandhar waterfall, haven't changed much. There are about eight to nine reservoirs, each holding much more water than other reservoirs. The capacity of this river is much higher than others.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Dr. Sujit Kar:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Overall, the landmass's structure is controlled by Narmada flowing down from Amarkantak. That's why everything from the farming of local people to animal husbandry and even industrial water supply comes from Narmada. It's not just about worship; people's lives, livelihoods, society, folklore, and literature are all connected to Narmada.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Dr. Sujit Kar:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Another important point: Narmadeshwar or Goddess Narmada is a very living deity. Most people circumambulate the Narmada Kund and say they've done the parikrama. But that's not it. To parikrama Narmada, one has to travel about 3000 kilometers, which is very difficult for ordinary people. That's why Narmada Prayag is often chosen, and circumambulating that Prayag is considered completing the parikrama.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Dr. Sujit Kar:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Anyway, the scientific truth is deeply intertwined with Narmada. When I first went to Narmada, I also wondered why so many sadhus and sanyasis visit here repeatedly and why so many have attained enlightenment here. When I first saw the map of Narmada, it took on a new form in my eyes. While thinking about it, I reached the source of Narmada, 26 kilometers into the deep forest. Then I realized that the origin of Narmada is very unique. Every stone broken by the water's erosion takes the shape of a Shiva Linga. That's why it's said that Shiva exists in every grain of sand in Narmada's water. Even more important, it's rumored that Mother Ganga bathes in Narmada once a year. Typically, it's heard that during that time, the water level in Narmada rises suddenly. I don't know the reason behind it, but we have seen many supernatural things at Narmada. Especially "Bhrigu Kamandalu," a detached rock on the high plateau. The local belief is that a pure-souled person will find water if they reach inside it. I had a doubt in my mind. I put my hand in and found water. I did it again and found water. That water is offered to Shiva. I did it a third time and found water. Being a geographer, I was curious and started looking for where the water was coming from. Not only did I find water, but it felt like a river was flowing inside that rock. Naturally, it means there must be a connection with water somewhere. There's a big tunnel near that rock. I even struggled to enter that tunnel and looked everywhere for a connection with the river, but I found none. It is said that when Bhrigu was meditating, he became very thirsty. He told Mother Narmada, "Mother, I can't continue my meditation; I have to leave." Narmada said, "Don't worry, your Kamandalu (water pot) will always be full of water; you will find water whenever you are thirsty." It is said that the Kamandalu has now turned into that massive rock.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">It has become a mummy.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Dr. Sujit Kar:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, a mummy. And even now, there is that flowing water inside it. It has no connection with the ground.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">When Bhrigu finished his meditation, he left his Kamandalu behind by mistake. That Kamandalu has taken the form of a stone today. This is what is mentioned in the Puranas.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Dr. Sujit Kar:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">So, there are many such supernatural things scattered in various places. Anyone visiting Amarkantak will feel that if there is any place for God, it is Amarkantak. There's such pure peace. There are many trees, forests, and various animals like tigers and lions. Lions are not usually found in other forests, but they are sometimes found in this forest. Besides, many deer and bears roam around. Despite that, you will feel a strange attraction to explore more. Everywhere, you will feel the touch of Shiva's hand, and the hands of other deities. A Sri Yantra temple is being built there, where the 64 Yogini statues are being installed, which will further enhance the attraction of this region. Very close to it is the 64 Yogini temple; anyone can visit it.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Dr. Sujit Kar:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">But I would say that those who want to practice meditation or spiritual sadhana should visit Amarkantak once. I went for research because I am a person who looks at stones, soil, and trees. But if anyone goes there for meditation, they will surely find it a place for attaining enlightenment. It has attracted people for ages and still does. I don't know if this attraction will remain if these characteristics are lost in the future. But there is no reason to think there are no more places for meditation in the world because Amarkantak and this Kula-Kundalini region are still alive. So you can go there without hesitation and experience Mother's wonderful grace.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Dr. Sujit Kar:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">One more thing I must mention: in Amarkantak or near Narmadeshwar, no one remains hungry. I have seen sadhus meditating in the deep forest with almost no clothes or a house, just sitting in the open. I was curious and asked what they eat. They told me that food just comes to them.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Mother gives it.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Dr. Sujit Kar:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">It is locally said that Mother herself provides food for everyone who practices yoga in the forest. It's a deep forest that's scary even during the day, yet three or four sadhus sit there peacefully, regardless of winter or summer.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Another thing, about the mountain they've cut, the 5-kilometer stretch. You can't climb that mountain because of the bears. There's a severe bear problem. And there are some "Inrej Guha" (English Caves) there.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Dr. Sujit Kar:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, they are also called "Saheb Guha."</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">English people used to practice meditation there. They don't allow people there now because of the bears. It's quite high up. Many "Sahebs" (foreigners) have practiced meditation there, hence the name. And some people think they've completed the Narmada parikrama by just circling that 5-kilometer area. That's not the case. It's almost 3000 kilometers. Now roads have been built, and vehicles are going. A 2400-kilometer road has been built up to Kutch and back. People are going; maybe not on foot, but by car. The land of Narmada is a great "Tapobhumi" (land of penance). It's an ideal place for Japa-Tapa. So, those who are practicing meditation or are seekers, or monks and sages, their journey is incomplete without visiting Narmada. One must go to Mother, take her dust, and Mother is very merciful. She looks after everyone who goes there. From food to everything, Mother arranges it. People don't know, but when the sadhus clap their hands, food arrives. Tribal women come and provide food. I have seen this with my own eyes. There's no problem with food; Mother is always awake there. She helps everyone who goes there to meditate. This was very surprising to me. I also went and meditated there. A naked sadhu told me, "Sit here, you will have a vision of Mother." He specified a place for me. I sat there and within an hour, I had a vision of Mother. It was very peculiar. It still makes me think. It is said that Mother walks around like a girl.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Dr. Sujit Kar:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">From Bhrigu Kund to Bhrigu Kamandalu, these areas are very close. And there's Dattatreya and "Mayer Bagicha" (Mother's Garden). The place is very good and secluded.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">The local sadhus advise not to go out alone in the evening because of bears or tigers. I have parikramaed that 5-kilometer path several times. They told me not to go alone. It's better to sit in Mother Narmada's temple; the Sri Yantra is there. It's good to work on that Yantra. But there's one problem: there are monkeys who won't let you sit. They will drive you away. If someone's soul is not pure, they will drive them away. We have meditated at those points many times at night. They don't let you finish. They will drive you away. I have seen this myself. And Shiva is under the water of Mother Narmada. Arati and Japa are performed for that underwater Shiva. The glory of Narmada is immense. I tell everyone to set foot in Narmada at least once.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Dr. Sujit Kar:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Omkareshwar is nearby, and the confluence of Narmada is there. Many people consider circumambulating that confluence as completing the Narmada parikrama.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">But Mother Ganga meets her once a year. This is a well-known truth. Mother Ganga comes once a year to meet Narmada. I can't say the exact time, but I've heard it from the locals.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Dr. Sujit Kar:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Actually, that's why it's called Son-Ganga. The flow comes through Son in Bihar. Son River is also famous.</span>
+</div>
+
+<div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
+<span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Devotee:</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Thank you, Gurudev. Thank you, Sujit Babu. We also thank another person whom we can't see on the screen, our brother and Gurudev's disciple who lives in Narmada, known as "Khepa." Thank you all for providing us with so much unknown information.</span>
+</div>
+
+</div>
