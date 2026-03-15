@@ -609,6 +609,167 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
         </div>
     </section>
 
+    <!-- ══════════════════════════════════════════
+         ARTICLE DISCOVERY SECTIONS
+         Styles for: search strip, spotlight, start-here, topic cloud
+    ══════════════════════════════════════════ -->
+    <style>
+    /* ── Shared ── */
+    .hp-section{padding:3.5rem 0;border-bottom:1px solid var(--border-gold);}
+    .hp-section-title{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:1.9rem;margin-bottom:0.5rem;text-align:center;}
+    .hp-section-subtitle{text-align:center;color:var(--text-dark);opacity:0.75;font-size:1.05rem;margin-bottom:2rem;}
+
+    /* ── Search Strip ── */
+    .hp-search-strip{background:linear-gradient(135deg,rgba(24,10,15,0.9) 0%,rgba(31,11,17,0.9) 100%);padding:2.5rem 0;}
+    .hp-search-inner{display:flex;flex-direction:column;align-items:center;gap:1.2rem;}
+    .hp-count-badge{display:inline-flex;align-items:center;gap:0.5rem;padding:0.45rem 1.4rem;border:1px solid var(--border-gold);border-radius:20px;background:rgba(232,196,104,0.08);color:var(--text-dark);font-family:'Philosopher',sans-serif;font-size:1rem;}
+    .hp-count-badge strong{color:var(--accent-color);font-weight:700;}
+    .hp-search-row{display:flex;gap:0.7rem;width:100%;max-width:620px;align-items:center;}
+    .hp-search-input{flex:1;min-width:0;padding:0.95rem 1.4rem;background:rgba(45,15,24,0.5);border:1px solid var(--border-gold);border-radius:30px;color:var(--accent-bright);font-size:1.05rem;outline:none;transition:all 0.3s ease;font-family:'Crimson Text',serif;}
+    .hp-search-input:focus{border-color:var(--accent-color);box-shadow:0 0 15px rgba(139,38,53,0.3);}
+    .hp-search-input::placeholder{color:var(--text-dark);opacity:0.55;}
+    .hp-search-btn{background:var(--gold-gradient);color:var(--light-bg);border:none;padding:0.95rem 1.6rem;border-radius:30px;font-size:1rem;font-family:'Philosopher',sans-serif;font-weight:700;cursor:pointer;flex-shrink:0;transition:all 0.3s ease;}
+    .hp-search-btn:hover{box-shadow:0 4px 18px rgba(232,196,104,0.4);transform:scale(1.03);}
+    .hp-search-hint{font-size:0.9rem;color:var(--text-dark);opacity:0.65;}
+    .hp-search-hint a{color:var(--accent-color);text-decoration:none;border-bottom:1px solid var(--border-gold);}
+    .hp-search-hint a:hover{opacity:1;border-color:var(--accent-color);}
+
+    /* ── Article of the Day ── */
+    .hp-spotlight{background:linear-gradient(135deg,rgba(18,7,12,0.95) 0%,rgba(31,11,17,0.95) 100%);padding:3.5rem 0;}
+    .hp-spotlight-card{max-width:820px;margin:0 auto;padding:2rem 2.5rem;border:1px solid var(--border-gold);border-radius:10px;background:rgba(45,15,24,0.35);position:relative;}
+    .hp-spotlight-day{font-size:0.85rem;color:var(--accent-color);opacity:0.7;margin-bottom:0.8rem;letter-spacing:0.05em;text-transform:uppercase;}
+    .hp-spotlight-category{display:inline-block;border:1px solid var(--accent-color);color:var(--accent-color);padding:0.15rem 0.85rem;border-radius:12px;font-size:0.82rem;margin-bottom:1rem;}
+    .hp-spotlight-title{font-family:'Philosopher',sans-serif;color:var(--accent-bright);font-size:1.9rem;line-height:1.3;margin-bottom:1rem;}
+    .hp-spotlight-excerpt{color:var(--text-dark);font-size:1.1rem;line-height:1.8;margin-bottom:1.4rem;opacity:0.9;}
+    .hp-spotlight-meta{font-size:0.9rem;color:var(--accent-color);opacity:0.65;margin-bottom:1.5rem;}
+    .hp-spotlight-btn{display:inline-block;background:var(--gold-gradient);color:var(--light-bg);padding:0.75rem 1.8rem;border-radius:5px;text-decoration:none;font-family:'Philosopher',sans-serif;font-weight:700;font-size:1rem;transition:all 0.3s ease;box-shadow:0 2px 10px rgba(232,196,104,0.25);}
+    .hp-spotlight-btn:hover{box-shadow:0 4px 20px rgba(232,196,104,0.45);transform:scale(1.03);}
+    .hp-spotlight-loading{text-align:center;color:var(--text-dark);opacity:0.5;padding:2rem;font-style:italic;}
+
+    /* ── Start Here ── */
+    .hp-start-here{padding:3.5rem 0;border-bottom:1px solid var(--border-gold);}
+    .hp-start-list{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:1rem;max-width:860px;margin:0 auto;}
+    .hp-start-item{display:flex;align-items:flex-start;gap:1.4rem;padding:1.2rem 1.5rem;border:1px solid var(--border-gold);border-radius:8px;background:rgba(45,15,24,0.3);text-decoration:none;transition:all 0.3s ease;}
+    .hp-start-item:hover{border-color:var(--accent-color);background:rgba(45,15,24,0.55);transform:translateX(4px);}
+    .hp-start-num{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:1.6rem;font-weight:700;line-height:1;flex-shrink:0;min-width:2.2rem;opacity:0.7;}
+    .hp-start-body{display:flex;flex-direction:column;gap:0.3rem;}
+    .hp-start-cat{font-size:0.78rem;color:var(--accent-color);opacity:0.8;text-transform:uppercase;letter-spacing:0.05em;}
+    .hp-start-title{font-family:'Philosopher',sans-serif;color:var(--accent-bright);font-size:1.1rem;font-weight:700;line-height:1.35;}
+    .hp-start-desc{font-size:0.92rem;color:var(--text-dark);opacity:0.75;line-height:1.5;}
+
+    /* ── Topic Cloud ── */
+    .hp-topic-cloud{padding:3rem 0;border-bottom:1px solid var(--border-gold);}
+    .hp-cloud-tags{display:flex;flex-wrap:wrap;justify-content:center;gap:0.75rem;min-height:4rem;}
+    .hp-cloud-tag{display:inline-block;padding:0.45rem 1.1rem;border:1px solid var(--border-gold);border-radius:20px;color:var(--text-dark);text-decoration:none;font-size:0.9rem;background:rgba(45,15,24,0.3);transition:all 0.3s ease;}
+    .hp-cloud-tag:hover{background:var(--accent-color);color:var(--light-bg);border-color:var(--accent-color);transform:scale(1.05);}
+    .hp-cloud-tag-loading{color:var(--text-dark);opacity:0.4;font-style:italic;align-self:center;}
+
+    @media(max-width:768px){
+    .hp-search-row{flex-direction:column;}
+    .hp-search-btn{width:100%;}
+    .hp-spotlight-card{padding:1.4rem 1.2rem;}
+    .hp-spotlight-title{font-size:1.4rem;}
+    .hp-start-item{padding:1rem 1rem;}
+    .hp-start-num{font-size:1.3rem;min-width:1.8rem;}
+    }
+    </style>
+
+    <!-- ① Search Strip -->
+    <section class="hp-search-strip" id="article-search">
+        <div class="container">
+            <div class="hp-search-inner">
+                <div class="hp-count-badge">✦ <strong><span id="hp-count-num">300+</span> sacred articles</strong> — and counting</div>
+                <div class="hp-search-row">
+                    <input type="text" id="hp-search-input" class="hp-search-input" placeholder="Search all articles…" autocomplete="off" aria-label="Search articles">
+                    <button id="hp-search-btn" class="hp-search-btn">Search</button>
+                </div>
+                <p class="hp-search-hint">Or <a href="/articles/">browse all articles</a> and explore by topic below</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ② Article of the Day -->
+    <section class="hp-spotlight" id="article-spotlight">
+        <div class="container">
+            <h2 class="hp-section-title">✦ Article of the Day</h2>
+            <p class="hp-section-subtitle">A different teaching surfaces each day — selected from the full library</p>
+            <div id="hp-spotlight-card" class="hp-spotlight-card">
+                <p class="hp-spotlight-loading">Loading today's article…</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ③ Start Here — 5 Oldest Articles -->
+    <section class="hp-start-here" id="start-here">
+        <div class="container">
+            <h2 class="hp-section-title">✦ New Here? Start with These</h2>
+            <p class="hp-section-subtitle">The first articles ever published on this site — the foundations of the lineage</p>
+            <ul class="hp-start-list">
+                <li>
+                    <a href="/articles/living-bhairava-bama-khepa-guru-parampara/" class="hp-start-item">
+                        <span class="hp-start-num">01</span>
+                        <div class="hp-start-body">
+                            <span class="hp-start-cat">Guru Stories</span>
+                            <span class="hp-start-title">The Living Bhairava: Bama Khepa and the Eternal Khyapa Parampara</span>
+                            <span class="hp-start-desc">Explore the life of Bama Khepa, the 'Living Bhairava' of Tarapith, and the Khyapa tradition.</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="/articles/kalabhairava-ashtakam-lyrics-meaning-english/" class="hp-start-item">
+                        <span class="hp-start-num">02</span>
+                        <div class="hp-start-body">
+                            <span class="hp-start-cat">Sacred Texts</span>
+                            <span class="hp-start-title">Kalabhairava Ashtakam: The Song of the Lord of Time</span>
+                            <span class="hp-start-desc">Complete guide with English lyrics, translation, and spiritual commentary on time and liberation.</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="/articles/kanda-sasti-kavacam-lyrics-meaning/" class="hp-start-item">
+                        <span class="hp-start-num">03</span>
+                        <div class="hp-start-body">
+                            <span class="hp-start-cat">Sacred Texts</span>
+                            <span class="hp-start-title">Kanda Sasti Kavacam: English Lyrics, Meaning & Benefits</span>
+                            <span class="hp-start-desc">The armor of Lord Murugan — lyrics, meaning, and how it provides protection and strength.</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="/articles/shri-kali-tandava-stotram-lyrics-meaning-commentary/" class="hp-start-item">
+                        <span class="hp-start-num">04</span>
+                        <div class="hp-start-body">
+                            <span class="hp-start-cat">Sacred Texts</span>
+                            <span class="hp-start-title">Shri Kali Tandava Stotram: English Lyrics, Meaning & Commentary</span>
+                            <span class="hp-start-desc">Verse-by-verse translation and a deep look into Ma Kali's nature and cosmic imagery.</span>
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="/articles/did-humans-create-god-guru-shyama-khyapa/" class="hp-start-item">
+                        <span class="hp-start-num">05</span>
+                        <div class="hp-start-body">
+                            <span class="hp-start-cat">Guru Stories</span>
+                            <span class="hp-start-title">Did Humans Create God?</span>
+                            <span class="hp-start-desc">A profound conversation with Guru Shyama Khyapa Baba on the relationship between practitioner, deity, and cosmic power.</span>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- ④ Topic Cloud -->
+    <section class="hp-topic-cloud" id="topic-cloud">
+        <div class="container">
+            <h2 class="hp-section-title">✦ Explore by Topic</h2>
+            <p class="hp-section-subtitle">Browse articles grouped by the themes that matter most to seekers</p>
+            <div id="hp-cloud-tags" class="hp-cloud-tags">
+                <span class="hp-cloud-tag-loading">Loading topics…</span>
+            </div>
+        </div>
+    </section>
+
     <!-- Sanctum: Sacred Texts Section -->
     <section id="sacred-texts" class="library">
         <div class="container">
@@ -1028,6 +1189,122 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
             </div>
         </div>
     </footer>
+
+    <!-- Article Discovery — Search strip, Spotlight, Tag Cloud, Count badge -->
+    <script>
+    (function() {
+        var indexData = null;
+        var fetchPromise = null;
+
+        function getIndex() {
+            if (indexData) return Promise.resolve(indexData);
+            if (!fetchPromise) {
+                fetchPromise = fetch('/search-index.json')
+                    .then(function(r) { return r.json(); })
+                    .then(function(d) { indexData = d; return d; });
+            }
+            return fetchPromise;
+        }
+
+        function escHTML(s) {
+            return String(s || '')
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;');
+        }
+
+        function slugifyTag(str) {
+            return String(str).toLowerCase().trim()
+                .replace(/\s+/g, '-')
+                .replace(/[^\w\-]+/g, '')
+                .replace(/\-\-+/g, '-');
+        }
+
+        function fmtDate(iso) {
+            try {
+                return new Date(iso).toLocaleDateString('en-US', {
+                    year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC'
+                });
+            } catch(e) { return iso || ''; }
+        }
+
+        // ── Count Badge ──
+        function initCountBadge(articles) {
+            var el = document.getElementById('hp-count-num');
+            if (el) el.textContent = articles.length;
+        }
+
+        // ── Article of the Day ──
+        function initSpotlight(articles) {
+            var card = document.getElementById('hp-spotlight-card');
+            if (!card || !articles.length) return;
+            var idx = Math.floor(Date.now() / 86400000) % articles.length;
+            var a = articles[idx];
+            var today = new Date().toLocaleDateString('en-US', {
+                weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
+            });
+            card.innerHTML =
+                '<p class="hp-spotlight-day">' + escHTML(today) + '</p>' +
+                '<span class="hp-spotlight-category">' + escHTML(a.category) + '</span>' +
+                '<h3 class="hp-spotlight-title">' + escHTML(a.title) + '</h3>' +
+                '<p class="hp-spotlight-excerpt">' + escHTML(a.description) + '</p>' +
+                '<p class="hp-spotlight-meta">' +
+                    (a.readingTime ? '⏱ ' + escHTML(String(a.readingTime)) + ' min read · ' : '') +
+                    '📅 ' + escHTML(fmtDate(a.date)) +
+                '</p>' +
+                '<a href="' + escHTML(a.url) + '" class="hp-spotlight-btn">Read Today\'s Article →</a>';
+        }
+
+        // ── Topic Cloud ──
+        function initTagCloud(articles) {
+            var container = document.getElementById('hp-cloud-tags');
+            if (!container) return;
+            var freq = {};
+            articles.forEach(function(a) {
+                (a.tags || []).forEach(function(t) {
+                    if (t && t !== 'articles') freq[t] = (freq[t] || 0) + 1;
+                });
+            });
+            var sorted = Object.keys(freq).sort(function(a, b) { return freq[b] - freq[a]; }).slice(0, 18);
+            if (!sorted.length) { container.innerHTML = ''; return; }
+            container.innerHTML = sorted.map(function(tag) {
+                return '<a href="/tags/' + escHTML(slugifyTag(tag)) + '/" class="hp-cloud-tag">' + escHTML(tag) + '</a>';
+            }).join('');
+        }
+
+        // ── Search Strip ──
+        function initSearch() {
+            var input = document.getElementById('hp-search-input');
+            var btn = document.getElementById('hp-search-btn');
+            function doSearch() {
+                var q = (input.value || '').trim();
+                var url = q
+                    ? '/articles/?q=' + encodeURIComponent(q)
+                    : '/articles/';
+                window.location.href = url;
+            }
+            if (btn) btn.addEventListener('click', doSearch);
+            if (input) {
+                input.addEventListener('keydown', function(e) {
+                    if (e.key === 'Enter') doSearch();
+                });
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            initSearch();
+            getIndex().then(function(articles) {
+                initCountBadge(articles);
+                initSpotlight(articles);
+                initTagCloud(articles);
+            }).catch(function() {
+                var card = document.getElementById('hp-spotlight-card');
+                if (card) card.innerHTML = '<p class="hp-spotlight-loading">Could not load article. <a href="/articles/" style="color:var(--accent-color)">Browse all articles →</a></p>';
+            });
+        });
+    })();
+    </script>
 
     <script src="script.min.js" defer></script>
 

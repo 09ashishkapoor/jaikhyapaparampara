@@ -159,8 +159,17 @@ body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);bac
     text-align: center;
 }
 
-/* Article Image */
-.article-image-container{margin:2.5rem 0;text-align:center;}
+/* Related Articles */
+.related-articles{padding:3rem 0 2rem;border-top:1px solid var(--border-gold);margin-top:2rem;}
+.related-articles-title{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:1.5rem;margin-bottom:1.5rem;text-align:center;}
+.related-articles-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:1.2rem;}
+.related-article-card{display:flex;flex-direction:column;gap:0.4rem;padding:1.2rem 1.4rem;border:1px solid var(--border-gold);border-radius:8px;text-decoration:none;background:rgba(45,15,24,0.3);transition:all 0.3s ease;}
+.related-article-card:hover{border-color:var(--accent-color);background:rgba(45,15,24,0.55);transform:translateY(-2px);box-shadow:0 6px 20px rgba(74,14,23,0.5);}
+.related-article-category{font-size:0.78rem;color:var(--accent-color);border:1px solid var(--accent-color);border-radius:12px;padding:0.1rem 0.65rem;align-self:flex-start;}
+.related-article-name{font-family:'Philosopher',sans-serif;font-size:1.05rem;color:var(--accent-bright);font-weight:700;line-height:1.3;}
+.related-article-excerpt{font-size:0.88rem;color:var(--text-dark);opacity:0.8;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;}
+.related-article-meta{font-size:0.8rem;color:var(--accent-color);opacity:0.7;margin-top:auto;}
+@media(max-width:768px){.related-articles-grid{grid-template-columns:1fr;}}
 .article-image{max-width:100%;height:auto;border:1px solid var(--border-gold);border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.5);transition:transform 0.3s ease;}
 .article-image:hover{transform:scale(1.02);border-color:var(--accent-color);}
 .image-caption{margin-top:1rem;font-size:0.95rem;color:var(--accent-color);font-style:italic;opacity:0.8;}
@@ -258,6 +267,26 @@ body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);bac
         <div class="article-content">
             {{ content | safe }}
         </div>
+
+        <!-- Related Articles -->
+        {% set related = collections.articles | relatedArticles(tags, page.url) %}
+        {% if related | length %}
+        <section class="related-articles">
+            <div class="container">
+                <h3 class="related-articles-title">✦ Related Articles</h3>
+                <div class="related-articles-grid">
+                    {% for item in related %}
+                    <a href="{{ item.url }}" class="related-article-card">
+                        <span class="related-article-category">{{ item.data.category }}</span>
+                        <span class="related-article-name">{{ item.data.title }}</span>
+                        <span class="related-article-excerpt">{{ item.data.description }}</span>
+                        <span class="related-article-meta">⏱ {{ item.data.readingTime or '?' }} min · {{ item.date | dateDisplay }}</span>
+                    </a>
+                    {% endfor %}
+                </div>
+            </div>
+        </section>
+        {% endif %}
 
         <!-- Article Footer -->
         <footer class="article-footer container">

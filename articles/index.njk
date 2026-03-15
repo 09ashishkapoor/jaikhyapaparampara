@@ -45,9 +45,15 @@ permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber
     max-width: 600px;
     margin: 2rem auto;
     position: relative;
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 .search-input {
-    width: 100%;
+    flex: 1;
+    min-width: 0;
     padding: 1rem 1.5rem;
     background: rgba(45, 15, 24, 0.4);
     border: 1px solid var(--border-gold);
@@ -64,6 +70,25 @@ permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber
 .search-input::placeholder {
     color: var(--text-dark);
     opacity: 0.6;
+}
+.surprise-btn {
+    background: transparent;
+    border: 1px solid var(--border-gold);
+    color: var(--accent-color);
+    padding: 0.85rem 1.4rem;
+    border-radius: 30px;
+    font-size: 1rem;
+    font-family: 'Philosopher', sans-serif;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+.surprise-btn:hover {
+    background: var(--accent-color);
+    color: var(--light-bg);
+    border-color: var(--accent-color);
+    box-shadow: 0 0 15px rgba(232,196,104,0.3);
 }
 .no-results {
     display: none;
@@ -217,7 +242,8 @@ permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber
     </div>
 
     <div class="search-container">
-        <input type="text" id="blogSearch" class="search-input" placeholder="Search all articles…">    
+        <input type="text" id="blogSearch" class="search-input" placeholder="Search all articles…">
+        <button id="surpriseMe" class="surprise-btn" title="Take me to a random article">✦ Surprise Me</button>
     </div>
 
     <div id="noResults" class="no-results">
@@ -269,6 +295,21 @@ document.addEventListener('DOMContentLoaded', function() {
     var paginationEl = document.querySelector('.pagination');
     var TOTAL = {{ collections.articles | length }};
     searchInput.placeholder = 'Search all ' + TOTAL + ' articles\u2026';
+
+    // Pre-fill search from URL query param (e.g. ?q=guru from homepage search bar)
+    var urlQ = new URLSearchParams(window.location.search).get('q');
+    if (urlQ) { searchInput.value = urlQ; searchInput.dispatchEvent(new Event('input')); }
+
+    // Surprise Me — navigate to a random article
+    var surpriseBtn = document.getElementById('surpriseMe');
+    if (surpriseBtn) {
+        surpriseBtn.addEventListener('click', function() {
+            getIndex().then(function(articles) {
+                var pick = articles[Math.floor(Math.random() * articles.length)];
+                if (pick && pick.url) window.location.href = pick.url;
+            });
+        });
+    }
 
     var originalHTML = articlesList.innerHTML;
     var indexData = null;

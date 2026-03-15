@@ -53,6 +53,16 @@ module.exports = function(eleventyConfig) {
     return new Date(dateObj).toISOString();
   });
 
+  // Get up to 4 related articles that share at least one content tag with the current article
+  eleventyConfig.addFilter("relatedArticles", function(articles, currentTags, currentUrl) {
+    const contentTags = (currentTags || []).filter(t => t !== "articles");
+    if (!contentTags.length) return [];
+    return articles
+      .filter(a => a.url !== currentUrl)
+      .filter(a => Array.isArray(a.data.tags) && a.data.tags.some(t => contentTags.includes(t)))
+      .slice(0, 4);
+  });
+
   // Create a collection for articles
   eleventyConfig.addCollection("articles", function(collectionApi) {
     return collectionApi.getFilteredByGlob("articles/*.md").sort((a, b) => {
