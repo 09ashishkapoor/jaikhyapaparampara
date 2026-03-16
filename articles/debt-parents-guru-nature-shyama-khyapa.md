@@ -13,7 +13,10 @@ tags:
   - "Guru Baba Shyama Khyapa"
   - "Gupta Sadhak Shyamakhyapa"
   - "Smashana Bhairava"
-source: '<a href="https://www.youtube.com/watch?v=Fq2Q4jK7yUo" target="_blank">https://www.youtube.com/watch?v=Fq2Q4jK7yUo</a>'
+source: |
+  <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
+  <p><a href="https://www.youtube.com/watch?v=Fq2Q4jK7yUo" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
+  <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
 <div class="transcript-container" style="background-color:var(--bg-secondary);border:1px solid var(--border-color);border-radius:12px;padding:2rem;margin:2rem 0;box-shadow:0 4px 6px rgba(0,0,0,0.1);">

@@ -20,6 +20,7 @@ tags:
 source: |
   <p><strong>Source:</strong> YouTube video | English</p>
   <p><a href="https://www.youtube.com/watch?v=eXr9xN8CH_k" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Video</a></p>
+  <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
   <p style="margin-top:0.5rem;"><em>On 4th February, Biswa cancer will be cured by Gurudev and his family.</em></p>
 ---
 
