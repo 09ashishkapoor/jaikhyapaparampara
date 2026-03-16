@@ -53,3 +53,4 @@ Speaker 1 (Disciple/Host): (Interrupting) Stop here for a bit.
 Speaker 3 (Doctor): Then he said, “I am telling you, go and study in this Srirampur College.” Then it was seen that in that very year, the BA course started in Srirampur College. From there, after passing BA, he lived in Panthi Boarding House, from where by his Guru's order, he went to America. And Babaji Maharaj came and instructed him, “Mukunda, you go. Go to America and spread Kriya Yoga.” From then on, he became very popular there as an advanced Yogi.
 
 Speaker 1 (Disciple/Host): Okay, that's all for today. Doctor, a terrible storm has started outside. So we are ending today's episode here. There has also been a power cut here. Gurudev, please accept my respects. We are finishing.
+

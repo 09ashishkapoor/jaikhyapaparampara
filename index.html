@@ -677,7 +677,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
     <section class="hp-search-strip" id="article-search">
         <div class="container">
             <div class="hp-search-inner">
-                <div class="hp-count-badge">✦ <strong><span id="hp-count-num">300+</span> sacred articles</strong> — and counting</div>
+                <div class="hp-count-badge">✦ <strong><span id="hp-count-num">{{ collections.articles | length }}</span> sacred articles</strong> — and counting</div>
                 <div class="hp-search-row">
                     <input type="text" id="hp-search-input" class="hp-search-input" placeholder="Search all articles…" autocomplete="off" aria-label="Search articles">
                     <button id="hp-search-btn" class="hp-search-btn">Search</button>

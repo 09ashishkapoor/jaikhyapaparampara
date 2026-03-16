@@ -1,0 +1,87 @@
+# Blog Conversion Progress — Instance A
+<!-- This file is auto-maintained by the blog-converter-a agent. Do not edit manually. -->
+
+## Completed Transcripts
+- markdownfiles_forblog/processed/transcript_q3Af1KJiQKI.md → articles/coromandel-express-accident-survivor-miracle-prophecy-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_Q4Wl4f4Ds-8.md → articles/pagla-baba-arrives-kamakhya-greetings-six-month-sadhana.md
+- markdownfiles_forblog/processed/transcript_q6XQq4NE3Pg.md → articles/warning-part-2-el-nino-earthquake-2025-mars-mahapralay-prophecy.md
+- markdownfiles_forblog/processed/transcript_q8fv-Eh_N6k.md → articles/gurudev-answers-devotee-questions-death-krishna-bama-baba-anniversary.md
+- markdownfiles_forblog/processed/transcript_Q8S1j-2OUtk.md → articles/atma-part-2-bama-khyapa-miracles-karma-paramatma-soul-journey.md
+- markdownfiles_forblog/processed/transcript_Q9hqLcYipy0.md → articles/bamdeb-baba-samadhi-six-chakras-spiritual-teachings-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_qDkBLBuLmtw.md → articles/dr-nilanjan-bhattacharya-covid-vaccine-second-dose-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_Qg90MD_kaew.md → articles/ashtavakra-muni-life-story-king-janaka-gita-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_QITVF3UCGgU.md → articles/ram-rajatwa-ayodhya-mandir-kaliyug-kalki-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_Q_c-EGIG_RE.md → articles/durga-saptami-nabapatrika-anjali-mantras-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_Uah-pAilinM.md → articles/kali-influence-amarnath-kedarnath-jagannath-dhenkanal-warning.md
+- markdownfiles_forblog/processed/transcript_UB25VkzmdR4.md → articles/pinaki-banerjee-dinhata-government-job-guru-blessings-bama-baba.md
+- markdownfiles_forblog/processed/transcript_UC3VGrpXClQ.md → articles/kamakhya-sapta-sati-seven-chaste-women-batuk-guardians.md
+- markdownfiles_forblog/processed/transcript_uEQ4-GfZHwc.md → articles/kama-menstruation-fertility-spiritual-science-yagya-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_UF7Ihbn_KSQ.md → articles/khatu-shyam-barbarika-mahabharata-three-arrows-krishna.md
+- markdownfiles_forblog/processed/transcript_uGaZZOF4cl4.md → articles/jagannath-mahaprasad-annaprashan-ceremony-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_uG_tbwm2p_Q.md → articles/manasarovar-kailash-divine-creation-brahma-shiva-parvati.md
+- markdownfiles_forblog/processed/transcript_uhwV3NVy-PM.md → articles/puri-jagannath-temple-ovens-broken-pralay-warning.md
+- markdownfiles_forblog/processed/transcript_ui-UDiO-gVE.md → articles/sandhi-puja-chamunda-ashtami-nabami-48-minutes.md
+- markdownfiles_forblog/processed/transcript_UKCFSLJfi5M.md → articles/homa-yajna-poila-boishakh-coronavirus-world-peace-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_UkUgeTOZiyg.md → articles/shmashana-kali-puja-chaturdashi-amavasya-tantric-veera.md
+- markdownfiles_forblog/processed/transcript_uN_VGtJwS9E.md → articles/bargabhima-shakti-peetha-tamluk-shyama-khyapa-visit.md
+- markdownfiles_forblog/processed/transcript_UpIgg-9Nb1Y.md → articles/gupta-sadhak-secret-practice-public-outreach-balance.md
+- markdownfiles_forblog/processed/transcript_UQd3oQCbiKw.md → articles/neel-shashti-charak-puja-mahadev-lineage-vow.md
+- markdownfiles_forblog/processed/transcript_uRYVUEukznw.md → articles/durga-puja-shashti-nabapatrika-nine-plants-maha-snan.md
+- markdownfiles_forblog/processed/transcript_usAF0hYludw.md → articles/sadhu-sangha-brahmananda-giri-18-mahavidyas-guru-devotion.md
+- markdownfiles_forblog/processed/transcript_UuDgaa9FFXE.md → articles/adyashakti-mahamaya-puja-covid-primordial-power-home-worship.md
+- markdownfiles_forblog/processed/transcript_uUfGVuttQgo.md → articles/blind-girl-miracle-vision-restored-guru-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_uUTU3RWvRVQ.md → articles/panchamundi-asana-five-skull-seat-tantric-power-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_uVVvKsAJepI.md → articles/bangladesh-devotee-shantikunj-service-only-religion-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_uYBn2jXye4g.md → articles/covid-second-wave-warning-guru-shyama-khyapa-doctor-masks-immunity.md
+- markdownfiles_forblog/processed/transcript_UZu2GPVJz44.md → articles/june-23-covid-prediction-verified-solar-eclipse-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_v-Qmn0_KhWg.md → articles/dr-indranil-raipur-diksha-ekadashi-guru-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_V0KY8axRdfk.md → articles/science-spirituality-vedic-education-east-west-kriya-yoga.md
+- markdownfiles_forblog/processed/transcript_v3nQ3Iceeuk.md → articles/annaprashan-vedic-tantric-homa-childless-couples-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_V4ln6S8A69k.md → articles/siddhai-certificate-anshuman-siddha-yogi-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_V4mgdEkrSxs.md → articles/pagla-baba-fraud-warning-no-money-shantikunj-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_v6VBXKxw2BA.md → articles/keshavji-beautiful-child-mother-india-father-son-bond-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_V7jw_UEq_tg.md → articles/bamdeb-baba-comes-shantikunj-miracle-mantra-tarapith-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_v86yNYbQZzg.md → articles/jagannath-khidirpur-bhavishya-malika-64-yoginis-kali-yuga-end.md
+- markdownfiles_forblog/processed/transcript_VbaAorbteCU.md → articles/tarakhepa-netaji-guru-revolutionary-gold-earth-spiritual-history.md
+- markdownfiles_forblog/processed/transcript_VBEtoXH1-d4.md → articles/mahalaya-shantikunj-amavasya-homa-guruma-goddess-younger.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_kxAphSDc16U.md → articles/mahalaya-full-moon-worship-fire-ritual-dakshina-kali.md- markdownfiles_forblog/processed/transcript_otwLnj3svk4.md → articles/truth-god-gita-eightfold-path-honest-life.md
+- markdownfiles_forblog/processed/transcript_ouIQxMp-8JQ.md → articles/mahalaya-festival-2023-divine-mother-worship-temple-celebration.md
+- markdownfiles_forblog/processed/transcript_ovr_KEAETIQ.md → articles/gurudev-warning-fraudulent-online-money-schemes-temple-integrity.md
+- markdownfiles_forblog/processed/transcript_oyN96dveLYQ.md → articles/living-shiva-tarapeeth-bama-deb-baba-miraculous-stories.md
+- markdownfiles_forblog/processed/transcript_OZZyQCDoTYk.md → articles/conquering-death-maha-mrityunjaya-ritual-kabach-amulet.md - markdownfiles_forblog/tobeprocessed/queue-a/transcript_kW81e4sxFso.md → articles/mothers-cosmetics-divine-child-guru-sacred-bond-goddess.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_KTyl3fpOfSc.md → articles/reiki-healing-power-third-eye-chakra-awakening-buddha.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_KT9LIkRVPLA.md → articles/cobblers-golden-bangles-internal-devotion-spiritual-connection.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_kSWNLrSUcrM.md → articles/skandamata-worship-navratri-maha-ashtami-anjali-ritual.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_kSMMJ-7oDiQ.md → articles/tale-mermaid-vyasadeva-creation-parashara-muni-mahabharata.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_k-6QBM1Djlw.md → articles/woman-round-face-dream-imon-spiritual-experience-shyama-khyapa.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_K0AwQXMLpco.md → articles/awaken-conscience-saving-society-violence-political-play-shyama-khyapa.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_K14YnVrnGb0.md → articles/feeling-lonely-overcoming-loneliness-dharma-service-shyama-khyapa.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_K7D2ebnb21M.md → articles/durga-darshan-sandhi-puja-mother-chamunda-shyama-khyapa.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_K7UIB_UJIyQ.md → articles/shiba-bhog-jackal-offering-beshya-dwaro-mrittika-shyama-khyapa.md
+ - markdownfiles_forblog/processed/transcript_UBmZ4ug1wnE.md → articles/mothers-worship-method-at-shantikunj-gurudev-shyama-khyapas-explanation.md
+ - markdownfiles_forblog/processed/transcript_py0Rkp9tBmU.md → articles/paramahansa-yogananda-kriya-yoga-yogoda-satsanga-gurudev-shyama-khyapa-conversation.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_k85nXIKSxE0.md → articles/guru-purnima-indrani-suryatapa-devotional-singing-shyama-khyapa.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_kCB0-harnT0.md → articles/shivaratri-vrat-hunter-blessing-shiva-puja-shyama-khyapa.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_KFf2R8JoSc0.md → articles/ram-mandir-bhoomi-pujan-hindutva-victory-shyama-khyapa.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_KjC9bZaNNvA.md → articles/twelve-suns-global-warming-kali-yuga-shyama-khyapa.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_Kk_Ig6c3yZs.md → articles/jagannath-leaves-puri-blood-idol-kalki-avatar-shyama-khyapa.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_kkPt-_CUrEE.md → articles/ayo-stri-traditional-hindu-married-woman-shyama-khyapa.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_KMaYQ7oJCjU.md → articles/guru-purnima-moksha-ekadashi-wife-consecration-shyama-khyapa.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_knbrE8R_iFw.md → articles/fire-vaishno-devi-saturn-mars-omen-shyama-khyapa.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_knhhfcvQeVw.md → articles/kaal-sarp-dosh-vedic-truth-astrology-myth-shyama-khyapa.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_KNYX8W7J9nk.md → articles/annular-solar-eclipse-ring-fire-covid-end-shyama-khyapa.md
+ - markdownfiles_forblog/tobeprocessed/queue-a/transcript_KPfTEd-Xtj0.md → articles/shani-maharaj-birth-shadow-18-year-trial-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_PaHwjjbUj30.md → articles/tirupati-scandal-divine-justice-the-one-eye-watches-all.md
+- markdownfiles_forblog/processed/transcript_pByKmV15snM.md → articles/bengali-new-year-1432-prophecy-fire-blood-mahapralaya.md
+- markdownfiles_forblog/processed/transcript_pFz4EiPKOXQ.md → articles/jagannath-snan-yatra-bathing-ritual-prophecy-mahapralaya.md
+- markdownfiles_forblog/processed/transcript_pHao_v8esQs.md → articles/mahashtami-anjali-mantra-sacred-offering-divine-mother-durga.md
+- markdownfiles_forblog/processed/transcript_phs9DxV72FY.md → articles/ram-janmabhoomi-hindutva-hindu-identity-spiritual-awakening.md
+- markdownfiles_forblog/processed/transcript_pjt-Np-CHl0.md → articles/maha-shashthi-sacred-vow-nabapatrika-ritual.md
+- markdownfiles_forblog/processed/transcript_pk1D5bVQqZw.md → articles/why-humans-meat-forbidden-vedic-law-inauspicious.md
+- markdownfiles_forblog/processed/transcript_pLJelCT5Zl0.md → articles/india-independence-midnight-freedom-unfulfilled-dreams.md
+- markdownfiles_forblog/processed/transcript_plLk1rYsiEw.md → articles/devoted-disciple-spiritual-protection-guru-bond.md
+- markdownfiles_forblog/processed/transcript_pLZRD7FYpbA.md → articles/angulimala-transformation-guru-grace-buddhist-story.md
+- markdownfiles_forblog/processed/transcript_pm9eCcuI4hQ.md → articles/world-war-3-prophecy-middle-east-nuclear-threat.md
+- markdownfiles_forblog/processed/transcript_PTqxRT18owI.md → articles/chaitanya-mahaprabhu-mahamantra-nama-sankirtana.md
+- markdownfiles_forblog/processed/transcript_Py6uIw6usZ0.md → articles/from-maldah-to-shantikunj-journey-faith-healing-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_PucsD4eBlRs.md → articles/exclusive-interview-dr-anjan-dasgupta-covid-19-pandemic-shyama-khyapa.md

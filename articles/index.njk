@@ -4,7 +4,7 @@ title: Sacred Wisdom & Guru Stories | Jai Khyapa Parampara Articles
 description: "Explore spiritual articles by Gupta Sadhak Shyamakhyapa on Tantra, Sadhana, and Divine Realization. Discover wisdom from the Khyapa Parampara lineage."
 pagination:
   data: collections.articles
-  size: 25
+  size: 50
   alias: articles
 permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"        
 ---
@@ -267,16 +267,35 @@ permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber
 
     <!-- Pagination Controls -->
     {% if pagination.pages.length > 1 %}
+    {% set currentPage = pagination.pageNumber + 1 %}
+    {% set totalPages = pagination.pages.length %}
     <nav class="pagination">
         {% if pagination.href.previous %}
-            <a href="{{ pagination.href.previous }}" class="pagination-item">← Previous</a>
+            <a href="{{ pagination.href.previous }}" class="pagination-item">← Prev</a>
         {% else %}
-            <span class="pagination-item disabled">← Previous</span>
+            <span class="pagination-item disabled">← Prev</span>
         {% endif %}
 
-        {% for pageEntry in pagination.pages %}
-            <a href="{{ pagination.hrefs[ loop.index0 ] }}" class="pagination-item {% if page.url == pagination.hrefs[ loop.index0 ] %}active{% endif %}">{{ loop.index }}</a>
+        {# Always show first page #}
+        <a href="{{ pagination.hrefs[0] }}" class="pagination-item {% if currentPage == 1 %}active{% endif %}">1</a>
+
+        {# Ellipsis after first if needed #}
+        {% if currentPage > 4 %}<span class="pagination-item disabled">…</span>{% endif %}
+
+        {# Pages around current #}
+        {% for i in range(2, totalPages) %}
+            {% if i >= currentPage - 2 and i <= currentPage + 2 %}
+                <a href="{{ pagination.hrefs[i - 1] }}" class="pagination-item {% if currentPage == i %}active{% endif %}">{{ i }}</a>
+            {% endif %}
         {% endfor %}
+
+        {# Ellipsis before last if needed #}
+        {% if currentPage < totalPages - 3 %}<span class="pagination-item disabled">…</span>{% endif %}
+
+        {# Always show last page #}
+        {% if totalPages > 1 %}
+            <a href="{{ pagination.hrefs[totalPages - 1] }}" class="pagination-item {% if currentPage == totalPages %}active{% endif %}">{{ totalPages }}</a>
+        {% endif %}
 
         {% if pagination.href.next %}
             <a href="{{ pagination.href.next }}" class="pagination-item">Next →</a>
@@ -284,6 +303,7 @@ permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber
             <span class="pagination-item disabled">Next →</span>
         {% endif %}
     </nav>
+    <p style="text-align:center;color:var(--text-dark);opacity:0.6;font-size:0.88rem;margin-top:-1.5rem;">Page {{ currentPage }} of {{ totalPages }} &nbsp;·&nbsp; {{ collections.articles | length }} articles total</p>
     {% endif %}
 </div>
 
