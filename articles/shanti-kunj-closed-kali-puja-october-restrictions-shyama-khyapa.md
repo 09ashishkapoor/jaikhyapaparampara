@@ -57,7 +57,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">You have also mentioned many times that the Puja performed at the cremation grounds (Shoshan) is unique. There is often debate about whether the general public should witness it.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">You have also mentioned many times that the Puja performed at the cremation grounds (Shhmashana) is unique. There is often debate about whether the general public should witness it.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -87,7 +87,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">When people come to us, we suggest wearing lead (sisa), as lead acts as an "anti" to Rahu. Otherwise, there is another remedy: go to a "Moshan"—a place where sacrifices are regularly made to Maa Chhinnamasta, Tara, or Kali. I am speaking to you from a Shoshan (crematorium), but a Moshan is where goats or buffaloes are sacrificed daily.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">When people come to us, we suggest wearing lead (sisa), as lead acts as an "anti" to Rahu. Otherwise, there is another remedy: go to a "Moshan"—a place where sacrifices are regularly made to Maa Chhinnamasta, Tara, or Kali. I am speaking to you from a Shhmashana (crematorium), but a Moshan is where goats or buffaloes are sacrificed daily.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

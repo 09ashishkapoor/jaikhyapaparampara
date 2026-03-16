@@ -2,8 +2,8 @@
 layout: article
 title: "Pagla Baba's Hom at Tarapith: Why the Guru Cannot Be Present"
 breadcrumbTitle: "Pagla Baba Hom at Tarapith"
-description: "Pagla Baba explains performing a hom at Shoshan Kali temple in Tarapith, and Gurudev reveals why a Guru cannot be present when disciples perform rituals."
-keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Pagla Baba, Tarapith, Hom, Fire Ritual, Shoshan Kali, Guru Tradition, Khyapa Parampara"
+description: "Pagla Baba explains performing a hom at Shhmashana Kali temple in Tarapith, and Gurudev reveals why a Guru cannot be present when disciples perform rituals."
+keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Pagla Baba, Tarapith, Hom, Fire Ritual, Shhmashana Kali, Guru Tradition, Khyapa Parampara"
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:00:00
@@ -74,17 +74,17 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Pagla Baba:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">It felt very good. Performing the hom on Gurudev's command felt very good. I felt fulfilled doing it myself. And since it's a great cremation ground (Maha Shoshan), it's a different kind of feeling. It was performed in complete silence and peace. It was opposite the Shoshan Kali temple. The Mother (Goddess Kali) is very "awakened" there.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">It felt very good. Performing the hom on Gurudev's command felt very good. I felt fulfilled doing it myself. And since it's a great cremation ground (Maha Shhmashana), it's a different kind of feeling. It was performed in complete silence and peace. It was opposite the Shhmashana Kali temple. The Mother (Goddess Kali) is very "awakened" there.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Narrator:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">I want to know one thing about what you said. Where you sat for the hom, there was something like a temple opposite. Is that the Shoshan Kali temple?</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">I want to know one thing about what you said. Where you sat for the hom, there was something like a temple opposite. Is that the Shhmashana Kali temple?</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Pagla Baba:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">That is the Shoshan Kali temple. The Mother there is very benevolent and very awakened. I performed it there. By the Mother's and Gurudev's infinite grace, the hom was completed successfully. That's all there is to say.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">That is the Shhmashana Kali temple. The Mother there is very benevolent and very awakened. I performed it there. By the Mother's and Gurudev's infinite grace, the hom was completed successfully. That's all there is to say.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -104,7 +104,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Narrator:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, your great disciple Pagla Baba performed a hom in front of Shoshan Kali. Seeing that, many have asked why you weren't there. I wanted to know directly from him, and he said that performing a ritual in front of the Guru is audacity. He said you teach them beforehand, and then they perform it themselves. Is this correct?</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Gurudev, your great disciple Pagla Baba performed a hom in front of Shhmashana Kali. Seeing that, many have asked why you weren't there. I wanted to know directly from him, and he said that performing a ritual in front of the Guru is audacity. He said you teach them beforehand, and then they perform it themselves. Is this correct?</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

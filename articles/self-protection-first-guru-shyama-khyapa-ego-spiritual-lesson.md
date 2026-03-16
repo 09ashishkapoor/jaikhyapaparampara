@@ -131,7 +131,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">When I used to meditate in cremation grounds (Shoshan) or old temples, someone once told me to keep a physical weapon nearby. He told me that if I ever saw something supernatural or threatening, I should take that weapon and drop a tiny bit of blood from my finger onto the earth. That act would ensure nothing could harm me.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">When I used to meditate in cremation grounds (Shhmashana) or old temples, someone once told me to keep a physical weapon nearby. He told me that if I ever saw something supernatural or threatening, I should take that weapon and drop a tiny bit of blood from my finger onto the earth. That act would ensure nothing could harm me.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

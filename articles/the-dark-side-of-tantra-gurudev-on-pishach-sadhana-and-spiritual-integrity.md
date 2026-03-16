@@ -44,7 +44,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Now, regarding Pishach sadhana and Pishachi sadhana, there is a specific place for it. It cannot be done everywhere. Shoshane prantare bapi sunnyagare bisheshoto (In crematoriums, open fields, or especially in empty houses). That is, in a crematorium, a vast open field, or a shunagar—a house where no clothes are dried, no hair is combed, and no women reside. Such a place is called a shunagar. They appear very quickly in these places.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Now, regarding Pishach sadhana and Pishachi sadhana, there is a specific place for it. It cannot be done everywhere. Shhmashanae prantare bapi sunnyagare bisheshoto (In crematoriums, open fields, or especially in empty houses). That is, in a crematorium, a vast open field, or a shunagar—a house where no clothes are dried, no hair is combed, and no women reside. Such a place is called a shunagar. They appear very quickly in these places.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -309,22 +309,22 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Host:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Every practitioner knows that before entering a crematorium, one must protect their body with a ritual and then take permission from the Shoshan-rokkhok (Protector of the Crematorium).</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Every practitioner knows that before entering a crematorium, one must protect their body with a ritual and then take permission from the Shhmashana-rokkhok (Protector of the Crematorium).</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">There is a Shoshan-rokkhok and a Shoshan-dwari (Gatekeeper). Ma used to protect us. When we went home, she would send two guards with us. After a few years, she stopped. She would give us a protection mantra and a stick. They would drop me home and come back.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">There is a Shhmashana-rokkhok and a Shhmashana-dwari (Gatekeeper). Ma used to protect us. When we went home, she would send two guards with us. After a few years, she stopped. She would give us a protection mantra and a stick. They would drop me home and come back.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Host:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Have you personally felt or seen the Shoshan-rokkhok here?</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Have you personally felt or seen the Shhmashana-rokkhok here?</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">It is our rule—if you ever come face-to-face with the Shoshan-rokkhok, it is a terrifying sight. At that moment, you must cut your finger and offer a few drops of blood to the soil. Otherwise, death is certain. Just offer the blood, nothing else is needed.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">It is our rule—if you ever come face-to-face with the Shhmashana-rokkhok, it is a terrifying sight. At that moment, you must cut your finger and offer a few drops of blood to the soil. Otherwise, death is certain. Just offer the blood, nothing else is needed.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -334,7 +334,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, I had to do it. I used to keep a knife with me. I don't need it now. Now we are well-acquainted—the crematorium, the spirits, the gatekeepers. No matter how late I come at night, no one questions me. Even now, many young men come here at midnight, and they have to give an account of themselves. The Shoshan-rokkhok is terrifying. If he appears, you must offer blood from your finger. He has a massive body. Every crematorium has a Shoshan-rokkhok and a Shoshan-dwari.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Yes, I had to do it. I used to keep a knife with me. I don't need it now. Now we are well-acquainted—the crematorium, the spirits, the gatekeepers. No matter how late I come at night, no one questions me. Even now, many young men come here at midnight, and they have to give an account of themselves. The Shhmashana-rokkhok is terrifying. If he appears, you must offer blood from your finger. He has a massive body. Every crematorium has a Shhmashana-rokkhok and a Shhmashana-dwari.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -389,7 +389,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">About a year. Tarapith has lost its charm. There is nothing left of the crematorium's significance. Everything is ruined. Cars are driving over the crematorium. I'm speaking from my own experience—seven or eight years ago, the crematorium had a certain gravity. Now it's gone. You can't even tell where the crematorium begins. Shoshan comes from the word shun-shan (desolate/silent). We come to the crematorium; we have a friendship with it now, so it doesn't scare us or question us.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">About a year. Tarapith has lost its charm. There is nothing left of the crematorium's significance. Everything is ruined. Cars are driving over the crematorium. I'm speaking from my own experience—seven or eight years ago, the crematorium had a certain gravity. Now it's gone. You can't even tell where the crematorium begins. Shhmashana comes from the word shun-shan (desolate/silent). We come to the crematorium; we have a friendship with it now, so it doesn't scare us or question us.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

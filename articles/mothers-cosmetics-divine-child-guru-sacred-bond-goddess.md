@@ -78,7 +78,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">I see her as my daughter. Mother resides here as my daughter. She is very active and present (jagrata). Whatever people ask for, Mother grants it. That is why I have told Mother repeatedly: "You will stay right here." She loves staying in the crematorium (shoshan), so she stays here.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">I see her as my daughter. Mother resides here as my daughter. She is very active and present (jagrata). Whatever people ask for, Mother grants it. That is why I have told Mother repeatedly: "You will stay right here." She loves staying in the crematorium (shhmashana), so she stays here.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

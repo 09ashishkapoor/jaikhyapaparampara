@@ -629,6 +629,8 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
     .hp-search-input::placeholder{color:var(--text-dark);opacity:0.55;}
     .hp-search-btn{background:var(--gold-gradient);color:var(--light-bg);border:none;padding:0.95rem 1.6rem;border-radius:30px;font-size:1rem;font-family:'Philosopher',sans-serif;font-weight:700;cursor:pointer;flex-shrink:0;transition:all 0.3s ease;}
     .hp-search-btn:hover{box-shadow:0 4px 18px rgba(232,196,104,0.4);transform:scale(1.03);}
+    .hp-surprise-btn{background:transparent;color:var(--accent-color);border:1px solid var(--border-gold);padding:0.7rem 1.4rem;border-radius:30px;font-size:0.95rem;font-family:'Philosopher',sans-serif;font-weight:700;cursor:pointer;transition:all 0.3s ease;letter-spacing:0.03em;}
+    .hp-surprise-btn:hover{border-color:var(--accent-color);background:rgba(232,196,104,0.1);box-shadow:0 4px 18px rgba(232,196,104,0.2);transform:scale(1.03);}
     .hp-search-hint{font-size:0.9rem;color:var(--text-dark);opacity:0.65;}
     .hp-search-hint a{color:var(--accent-color);text-decoration:none;border-bottom:1px solid var(--border-gold);}
     .hp-search-hint a:hover{opacity:1;border-color:var(--accent-color);}
@@ -666,6 +668,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
     @media(max-width:768px){
     .hp-search-row{flex-direction:column;}
     .hp-search-btn{width:100%;}
+    .hp-surprise-btn{width:100%;max-width:620px;}
     .hp-spotlight-card{padding:1.4rem 1.2rem;}
     .hp-spotlight-title{font-size:1.4rem;}
     .hp-start-item{padding:1rem 1rem;}
@@ -682,6 +685,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                     <input type="text" id="hp-search-input" class="hp-search-input" placeholder="Search all articles…" autocomplete="off" aria-label="Search articles">
                     <button id="hp-search-btn" class="hp-search-btn">Search</button>
                 </div>
+                <button id="hp-surprise-btn" class="hp-surprise-btn" aria-label="Go to a random article">🎲 Surprise Me</button>
                 <p class="hp-search-hint">Or <a href="/articles/">browse all articles</a> and explore by topic below</p>
             </div>
         </div>
@@ -702,7 +706,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
     <section class="hp-start-here" id="start-here">
         <div class="container">
             <h2 class="hp-section-title">✦ New Here? Start with These</h2>
-            <p class="hp-section-subtitle">The first articles ever published on this site — the foundations of the lineage</p>
+            <p class="hp-section-subtitle">The first articles ever published on this site</p>
             <ul class="hp-start-list">
                 <li>
                     <a href="/articles/living-bhairava-bama-khepa-guru-parampara/" class="hp-start-item">
@@ -1276,6 +1280,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
         function initSearch() {
             var input = document.getElementById('hp-search-input');
             var btn = document.getElementById('hp-search-btn');
+            var surpriseBtn = document.getElementById('hp-surprise-btn');
             function doSearch() {
                 var q = (input.value || '').trim();
                 var url = q
@@ -1287,6 +1292,18 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
             if (input) {
                 input.addEventListener('keydown', function(e) {
                     if (e.key === 'Enter') doSearch();
+                });
+            }
+            if (surpriseBtn) {
+                surpriseBtn.addEventListener('click', function() {
+                    surpriseBtn.textContent = '✨ Opening…';
+                    getIndex().then(function(articles) {
+                        if (!articles.length) return;
+                        var pick = articles[Math.floor(Math.random() * articles.length)];
+                        window.location.href = pick.url;
+                    }).catch(function() {
+                        window.location.href = '/articles/';
+                    });
                 });
             }
         }

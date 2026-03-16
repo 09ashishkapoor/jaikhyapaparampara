@@ -136,7 +136,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Interviewer:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Friends, you just heard from Gurudev. Throughout his long spiritual journey at the Shantikunj of Rajpur Maha Shoshan, he has witnessed many supernatural events. Spirituality is such that until we can explain or truly feel these experiences, they appear to us as miracles.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Friends, you just heard from Gurudev. Throughout his long spiritual journey at the Shantikunj of Rajpur Maha Shhmashana, he has witnessed many supernatural events. Spirituality is such that until we can explain or truly feel these experiences, they appear to us as miracles.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

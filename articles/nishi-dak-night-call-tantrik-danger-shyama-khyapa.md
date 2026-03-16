@@ -57,7 +57,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Gurudev:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">Later, they use that captured sound in cremation grounds (shoshan). It is a very horrific practice. As I have said before and will say again, these are very low-level spiritual practices, yet many people are doing them. Some do it out of excitement, some for pleasure, or some to take revenge on someone they dislike.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">Later, they use that captured sound in cremation grounds (shhmashana). It is a very horrific practice. As I have said before and will say again, these are very low-level spiritual practices, yet many people are doing them. Some do it out of excitement, some for pleasure, or some to take revenge on someone they dislike.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

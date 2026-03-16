@@ -44,7 +44,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">This is a very significant and heavy question, and I do not have a direct answer. I have been living in this crematorium (Shoshan) for 35 long years. I haven't even seen a ghost yet, let alone God. I wait through the nights just to see a ghost. I haven't seen one yet.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">This is a very significant and heavy question, and I do not have a direct answer. I have been living in this crematorium (Shhmashana) for 35 long years. I haven't even seen a ghost yet, let alone God. I wait through the nights just to see a ghost. I haven't seen one yet.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
@@ -144,7 +144,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">We have come to the crematorium (Shoshan). The word "Shoshan" refers to a place where no one else stays. People only think of it when someone dies. We have come here in total silence after discarding the six enemies. When a person dies, those enemies leave the body because they can no longer act through it.</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">We have come to the crematorium (Shhmashana). The word "Shhmashana" refers to a place where no one else stays. People only think of it when someone dies. We have come here in total silence after discarding the six enemies. When a person dies, those enemies leave the body because they can no longer act through it.</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

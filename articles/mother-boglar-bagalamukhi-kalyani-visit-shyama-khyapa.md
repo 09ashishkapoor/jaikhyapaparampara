@@ -62,7 +62,7 @@ source: |
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Guru Shyama Khyapa:</span>
-<span class="speech-text" style="display:block;margin-top:0.5rem;">She sent people to me, explaining that she was bedridden. I told the messenger to wait. I went to the crematorium (shoshan), performed some rituals, and prepared a "maduli" (protective talisman). I told him to take the talisman and go straight to her without looking back. I told him to put it around her neck and that she would recover. She did indeed recover completely. I had forgotten about the talisman, but she showed it to me yesterday, saying, "You gave me this, and I am still wearing it."</span>
+<span class="speech-text" style="display:block;margin-top:0.5rem;">She sent people to me, explaining that she was bedridden. I told the messenger to wait. I went to the crematorium (shhmashana), performed some rituals, and prepared a "maduli" (protective talisman). I told him to take the talisman and go straight to her without looking back. I told him to put it around her neck and that she would recover. She did indeed recover completely. I had forgotten about the talisman, but she showed it to me yesterday, saying, "You gave me this, and I am still wearing it."</span>
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
