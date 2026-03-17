@@ -2,6 +2,10 @@
 <!-- This file is auto-maintained by the blog-converter-a agent. Do not edit manually. -->
 
 ## Completed Transcripts
+- markdownfiles_forblog/tobeprocessed/queue-a/transcript_fWKJja8Ynx4.md → articles/guru-shishya-parampara-finding-true-guru-divine-grace-praveen.md
+- markdownfiles_forblog/tobeprocessed/queue-a/transcript_GSPAzVyZoc8.md → articles/saraswati-puja-2026-goddess-knowledge-intellect-prosperity.md
+- markdownfiles_forblog/tobeprocessed/queue-a/transcript_iTKI6iA9HXs.md → articles/nine-planets-dashamahavidya-vedic-tantra-secret-power.md
+- markdownfiles_forblog/tobeprocessed/queue-a/transcript_ZopvQ7SllJw.md → articles/disaster-civilization-2026-world-war-three-prophecy-shyama-khyapa.md
 - markdownfiles_forblog/processed/transcript_rx65fuNvFNw.md → articles/guru-purnima-announcement-gurudev-recovery-health-update.md
 - markdownfiles_forblog/processed/transcript_qPEOl9ZK9dU.md → articles/pagla-baba-dakshina-kali-raiganj-siddha-peeth-pilgrimage.md
 - markdownfiles_forblog/processed/transcript_mv9AzNhHqzU.md → articles/pagla-baba-arrives-kamakhya-guru-shyama-khyapa-health-crisis.md
