@@ -2,6 +2,12 @@
 <!-- This file is auto-maintained by the blog-converter-a agent. Do not edit manually. -->
 
 ## Completed Transcripts
+- markdownfiles_forblog/tobeprocessed/queue-a/transcript_-ciZv39nqfw.md → articles/varaha-avatar-third-incarnation-vishnu-bhudevi-rescue-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/queue-a/transcript_1idjQOURgN4.md → articles/parashurama-avatar-sixth-incarnation-immortal-warrior-vishnu-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/queue-a/transcript_3Y5YMwuAx0o.md → articles/godless-earth-kali-yuga-kalki-warning-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/queue-a/transcript_4AqjruV8tUI.md → articles/ma-shodashi-kamakhya-third-mahavidya-mercury-kumari-puja-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/queue-a/transcript_7NZ652VHT7g.md → articles/lord-rama-seventh-avatar-vishnu-ram-rajya-dharma-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/queue-a/transcript_7xc6j5x-Lvw.md → articles/matsya-avatar-first-incarnation-vishnu-great-flood-satyavrata-shyama-khyapa.md
 - markdownfiles_forblog/tobeprocessed/queue-a/transcript_fWKJja8Ynx4.md → articles/guru-shishya-parampara-finding-true-guru-divine-grace-praveen.md
 - markdownfiles_forblog/tobeprocessed/queue-a/transcript_GSPAzVyZoc8.md → articles/saraswati-puja-2026-goddess-knowledge-intellect-prosperity.md
 - markdownfiles_forblog/tobeprocessed/queue-a/transcript_iTKI6iA9HXs.md → articles/nine-planets-dashamahavidya-vedic-tantra-secret-power.md
@@ -141,3 +147,7 @@
 - markdownfiles_forblog/processed/transcript_GYAa4OqucO0.md  articles/daily-homa-for-world-peace-eclipse-warning-narayana-ritual.md
 - markdownfiles_forblog/processed/transcript_ismCwXz_8q8.md  articles/gurudev-rajpur-special-ahuti-world-peace-yagna.md
 - markdownfiles_forblog/processed/transcript_Iy32hEyp8BE.md  articles/understanding-death-signs-before-and-after-gurudev-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/queue-a/transcript_rNEe4Sp-LPo.md → articles/vijaya-dashami-gurudev-stories-kinaram-babu-hanumanji.md
+- markdownfiles_forblog/tobeprocessed/queue-a/transcript_SHOypTCPnlc.md → articles/dasha-mahavidya-mother-tara-tantra-tarapith-guru-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/queue-a/transcript_TsPcRKzEeIU.md → articles/kurma-avatar-second-incarnation-vishnu-samudra-manthan-shyama-khyapa.md
+- markdownfiles_forblog/tobeprocessed/queue-a/transcript_UTH_FpW2iek.md → articles/dasha-mahavidya-maa-kali-first-goddess-tantra-shyama-khyapa.md

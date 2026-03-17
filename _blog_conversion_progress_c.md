@@ -2,6 +2,9 @@
 <!-- This file is auto-maintained by the blog-converter-c agent. Do not edit manually. -->
 
 ## Completed Transcripts
+- markdownfiles_forblog/processed/transcript_xez5cgaNGTs.md → articles/balarama-eighth-avatar-haladhar-plough-mace-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_wmxW9kujiw0.md → articles/vamana-avatar-first-treta-yuga-incarnation-vishnu-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_WA0k5mmnFv8.md → articles/dasha-mahavidya-bhairavi-fifth-goddess-no-planet-shyama-khyapa.md
 - markdownfiles_forblog/processed/transcript_OEhYzB1h9lc.md → articles/god-and-demon-in-one-body-shyama-khyapa-on-the-yugas.md
 - markdownfiles_forblog/processed/transcript_OGpEcVOkar4.md → articles/prophecy-warning-part-2-bhabisya-malika-apocalypse.md
 - markdownfiles_forblog/processed/transcript_OiI4wx0VTk8.md → articles/shantikunj-guru-purnima-program-kalyani-kazi.md
@@ -73,3 +76,6 @@
 - markdownfiles_forblog/processed/transcript_W0GcDOnAiUI.md  articles/annapurna-puja-at-the-cremation-ground-service-and-devotion.md
 - markdownfiles_forblog/processed/transcript_wJ5HjiwU82c.md  articles/can-you-recognize-him-old-photo-of-shyama-khyapa.md- markdownfiles_forblog/processed/transcript_wTi4zJ4WJjk.md → articles/gurudevs-final-days-shantikunj-temple-closure-spiritual-service.md- markdownfiles_forblog/processed/transcript_xyffY_IkrdE.md → articles/guru-mas-sacred-vow-rare-moment-devotion-at-temple.md
 - markdownfiles_forblog/processed/transcript_y45MCk_dH1Q.md → articles/ram-rajya-established-babur-babri-masjid-correction-shyama-khyapa.md
+- markdownfiles_forblog/processed/transcript_lr2M2g7U_1k.md  articles/kalki-avatar-prophecies-bhavishya-malika-kali-yuga-signs.md
+- markdownfiles_forblog/processed/transcript_LS6DsHVikI4.md  articles/mother-bhuvaneshwari-moon-and-chandrayan.md
+- markdownfiles_forblog/processed/transcript_rNEe4Sp-LPo.md  articles/bijoya-dashami-wishes-kinaram-babu-tulsidas-stories.md
