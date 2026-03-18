@@ -22,3 +22,10 @@
 - markdownfiles_forblog/tobeprocessed/queue-a/018_transcript_9dpJS8-8z54.md → articles/part-2-batuka-bhairava-maa-durga-or-maa-kali-9dpJS8-8z54.md
 - markdownfiles_forblog/tobeprocessed/queue-a/019_transcript_rychW8T66cg.md → articles/bhairava-sadhana-depression-shri-krishna-loneliness-rychW8T66cg.md
 - markdownfiles_forblog/tobeprocessed/queue-a/020_transcript_oL71YsLkubc.md → articles/bhairava-kaali-sadhana-becoming-her-child-attitude-desires-celibacy-oL71YsLkubc.md
+- markdownfiles_forblog/tobeprocessed/queue-a/031_transcript_bOq5zINlIrE.md → articles/bhairava-vs-narasimha-sadhana-kula-devata-karma-maa-kamala-case-study-maa-kamakhya-bOq5zINlIrE.md
+- markdownfiles_forblog/tobeprocessed/queue-a/032_transcript_8xzWsnW1CfU.md → articles/fear-of-kala-bhairava-sadhana-vairagya-eligibility-and-missing-kula-devata-8xzWsnW1CfU.md
+- markdownfiles_forblog/tobeprocessed/queue-a/033_transcript_GRusYQHEEBs.md → articles/maha-adya-kali-sadhana-sri-krishnas-adesha-defeat-kali-yuga-bhairava-kripa-GRusYQHEEBs.md
+- markdownfiles_forblog/tobeprocessed/queue-a/034_transcript_hBqp4RwhEDM.md → articles/shri-ramas-sadhana-of-maa-adya-kali-the-bhakti-marga-hanuman-hBqp4RwhEDM.md
+- markdownfiles_forblog/tobeprocessed/queue-a/035_transcript_7Te0cmm5zAU.md → articles/the-secret-of-bhairava-sadhana-the-fifth-veda-brahma-kapala-guru-7Te0cmm5zAU.md
+- markdownfiles_forblog/tobeprocessed/queue-a/036_transcript_8A67eKRcDv4.md → articles/bhairava-sadhana-for-women-young-men-right-age-asana-stability-8A67eKRcDv4.md
+
