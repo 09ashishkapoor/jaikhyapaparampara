@@ -539,6 +539,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                         <li><a href="#home" data-translate="nav-home">Home</a></li>
                         <li><a href="#sacred-texts" data-translate="nav-texts">Sacred Texts</a></li>
                         <li><a href="articles/">Articles</a></li>
+                        <li><a href="https://calendar.jaikhyapaparampara.com/" data-translate="nav-calendar" target="_blank" rel="noopener">Calendar</a></li>
                         <li><a href="#faq" data-translate="nav-faq">FAQ</a></li>
                         <li><a href="#about" data-translate="nav-about">About</a></li>
                     </ul>
@@ -651,6 +652,10 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
     .hp-start-here{padding:3.5rem 0;border-bottom:1px solid var(--border-gold);}
     .hp-start-list{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:1rem;max-width:860px;margin:0 auto;}
     .hp-start-item{display:flex;align-items:flex-start;gap:1.4rem;padding:1.2rem 1.5rem;border:1px solid var(--border-gold);border-radius:8px;background:rgba(45,15,24,0.3);text-decoration:none;transition:all 0.3s ease;}
+    .hp-start-item--featured{border-color:var(--accent-color);background:linear-gradient(90deg,rgba(232,196,104,0.18) 0%,rgba(45,15,24,0.35) 45%,rgba(45,15,24,0.25) 100%);box-shadow:0 12px 24px rgba(0,0,0,0.2);position:relative;padding-left:1.9rem;}
+    .hp-start-item--featured::before{content:"";position:absolute;left:0.6rem;top:0.9rem;bottom:0.9rem;width:4px;border-radius:6px;background:var(--accent-color);opacity:0.9;}
+    .hp-start-item--featured .hp-start-title{font-size:1.18rem;}
+    .hp-start-item--featured .hp-start-cat{display:inline-flex;align-self:flex-start;background:rgba(232,196,104,0.16);border:1px solid rgba(232,196,104,0.35);padding:0.18rem 0.55rem;border-radius:999px;letter-spacing:0.08em;font-weight:700;}
     .hp-start-item:hover{border-color:var(--accent-color);background:rgba(45,15,24,0.55);transform:translateX(4px);}
     .hp-start-num{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:1.6rem;font-weight:700;line-height:1;flex-shrink:0;min-width:2.2rem;opacity:0.7;}
     .hp-start-body{display:flex;flex-direction:column;gap:0.3rem;}
@@ -708,6 +713,16 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
             <h2 class="hp-section-title">✦ New Here? Start with These</h2>
             <p class="hp-section-subtitle">Handpicked for You</p>
             <ul class="hp-start-list">
+                <li>
+                    <a href="https://calendar.jaikhyapaparampara.com/" class="hp-start-item hp-start-item--featured" target="_blank" rel="noopener">
+                        <span class="hp-start-num">00</span>
+                        <div class="hp-start-body">
+                            <span class="hp-start-cat">New Visitors</span>
+                            <span class="hp-start-title">Check the Spiritual Calendar</span>
+                            <span class="hp-start-desc">See important observances, spiritual dates, and upcoming timings before you begin exploring the site.</span>
+                        </div>
+                    </a>
+                </li>
                 <li>
                     <a href="/articles/living-bhairava-bama-khepa-guru-parampara/" class="hp-start-item">
                         <span class="hp-start-num">01</span>

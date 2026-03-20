@@ -6,6 +6,7 @@ const translations = {
         // Navigation
         'nav-home': 'Home',
         'nav-texts': 'Sacred Texts',
+        'nav-calendar': 'Calendar',
         'nav-faq': 'FAQ',
         'nav-about': 'About',
         
@@ -128,6 +129,7 @@ const translations = {
         // Navigation
         'nav-home': 'होम',
         'nav-texts': 'पवित्र ग्रंथ',
+        'nav-calendar': 'कैलेंडर',
         'nav-faq': 'FAQ',
         'nav-about': 'हमारे बारे में',
         
