@@ -8,6 +8,15 @@
     <meta name="author" content="{{ author or 'KaliPutra-Ashish' }}">
     <meta name="robots" content="index, follow">
     
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KCVSN3F2DL"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-KCVSN3F2DL');
+    </script>
+    
     <!-- Build tracking -->
     <meta name="build-version" content="1.0">
     <meta name="build-date" content="{{ page.date | isoDate }}">
