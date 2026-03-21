@@ -7,7 +7,7 @@ keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Param
 category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
-readingTime: 10
+readingTime: 2
 tags:
   - articles
   - Guru Baba Shyama Khyapa

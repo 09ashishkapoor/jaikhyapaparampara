@@ -9,3 +9,9 @@ https://jaikhyapaparampara.pages.dev/* https://www.jaikhyapaparampara.pages.dev/
 
 # Ensure trailing slashes work
 /articles /articles/index.html 200
+
+# Duplicate article redirects (old URL → canonical URL)
+/articles/batuka-swarnakarshana-bhairava-the-hero-nayaka-king-kubera-guru-79a005bKk54/ /articles/batuka-swarnakarshana-bhairava-the-hero-the-nayaka-the-king-kuberas-guru-79a005bKk54/ 301
+/articles/om-bhairavaya-namaha-valid-mantra-good-bad-days-agni-chakra-sadhana-9kGcXNtMJ2Q/ /articles/aum-bhairavaya-namah-a-fake-mantra-good-and-bad-days-in-sadhana-the-agni-chakra-9kGcXNtMJ2Q/ 301
+/articles/bhairava-bhairavi-sadhana-for-women-unmarried-the-ovulation-hack-shiva-linga-t7s-R1FWTrs/ /articles/bhairava-bhairavi-sadhana-for-women-unmarried-women-married-men-shiva-linga-t7s-R1FWTrs/ 301
+/articles/bhairava-sadhana-guru-dakshina-choosing-a-guru-gau-seva-karma-WRyVoCGgw0w/ /articles/bhairava-sadhana-guru-dhakshina-choosing-a-guru-WRyVoCGgw0w/ 301

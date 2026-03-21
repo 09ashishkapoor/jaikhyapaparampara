@@ -7,7 +7,11 @@
     "serve": "eleventy --serve",
     "start": "eleventy --serve"
   },
-  "keywords": ["spiritual", "blog", "11ty"],
+  "keywords": [
+    "spiritual",
+    "blog",
+    "11ty"
+  ],
   "author": "KaliPutra-Ashish",
   "license": "ISC",
   "devDependencies": {
