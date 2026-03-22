@@ -1,6 +1,6 @@
 {
   "name": "jaikhyapaparampara",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Jai Khyapa Parampara - Spiritual website with 11ty blog",
   "scripts": {
     "build": "eleventy",
