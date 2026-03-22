@@ -469,7 +469,7 @@
             <div class="footer-content">
                 <p class="footer-blessing">Om Shri Gurubhyo Namaha | Jai Khyapa Parampara</p>
                 <p class="footer-description">May every image seen here deepen your devotion to Ma Adya Mahakali.</p>
-                <p class="footer-meta">&copy; 2025 KaliPutra-Ashish. All knowledge is forever free to share.</p>
+                <p class="footer-meta">&copy; 2026 KaliPutra-Ashish. All knowledge is forever free to share.</p>
             </div>
         </div>
     </footer>
@@ -514,17 +514,35 @@
             document.getElementById('lightbox-caption').textContent = images[index].caption;
             lb.classList.add('active');
             document.body.style.overflow = 'hidden';
+            // Push history state so back button closes lightbox instead of leaving page
+            history.pushState({ lightbox: true }, '', '#lightbox');
         }
 
         function closeLightbox() {
             document.getElementById('lightbox').classList.remove('active');
             document.getElementById('lightbox-img').src = '';
             document.body.style.overflow = '';
+            // Go back in history if we're still on #lightbox
+            if (window.location.hash === '#lightbox') {
+                history.back();
+            }
         }
 
         function closeLightboxOnBackdrop(e) {
             if (e.target === document.getElementById('lightbox')) closeLightbox();
         }
+
+        // Handle browser back button - close lightbox instead of navigating away
+        window.addEventListener('popstate', function(e) {
+            if (e.state && e.state.lightbox) {
+                // User went back, but we want to stay on gallery - reopen lightbox
+                openLightbox(currentIndex);
+            } else {
+                // No lightbox state, so close it if open
+                document.getElementById('lightbox').classList.remove('active');
+                document.body.style.overflow = '';
+            }
+        });
 
         function shiftLightbox(dir) {
             currentIndex = (currentIndex + dir + images.length) % images.length;
