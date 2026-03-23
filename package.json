@@ -6,6 +6,7 @@
     "build": "eleventy",
     "serve": "eleventy --serve",
     "start": "eleventy --serve"
+    ,"update-build": "bash update_build_info.sh"
   },
   "keywords": [
     "spiritual",
