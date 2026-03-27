@@ -6,7 +6,7 @@ pagination:
 layout: base
 eleventyComputed:
   title: "Articles tagged with {{ tag }} | Jai Khyapa Parampara"
-  robotsMeta: "{% if collections.all[ tag ] | length < 3 %}noindex, follow{% else %}index, follow{% endif %}"
+  robotsMeta: "index, follow"
 permalink: /tags/{{ tag | slugify }}/
 ---
 

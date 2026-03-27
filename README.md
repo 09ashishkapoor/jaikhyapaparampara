@@ -1,124 +1,146 @@
-# Jai Khyapa Parampara Digital Library
+# Jai Khyapa Parampara — Static Eleventy Site
 
-A beautiful, responsive library website hosting free spiritual ebooks compiled by KaliPutra-Ashish. This website is designed to be deployed on Cloudflare Pages.
+## Project Description
 
-## 📚 About
+Jai Khyapa Parampara is a content-focused static website built with Eleventy (11ty) that publishes English-transcribed Bengali conversations and teachings of Guru Shyama Khyapa. The repository contains 500+ articles, templates, conversion helpers, and custom Copilot agents to streamline transcript-to-article workflows and publishing to Cloudflare Pages.
 
-This digital library serves as a repository of divine knowledge and sacred texts, dedicated to the Khepa/Khyapa Parampara lineage. The library currently features:
+## Technology Stack
 
-- **Adya Mahakali Sahasranama** - 1000+ names of Maa with translations and spiritual insights
-- **Kalabhairava Sahasranama** - 1000 sacred names of Kalabhairava with chanting guide
+- Static site generator: Eleventy (11ty)
+- Node.js / npm for build & dev tooling
+- Python 3 for content-processing helpers and scripts
+- Cloudflare Pages for deployment (configured via `wrangler.toml`)
+- Templates: Nunjucks (`_includes/article.njk`, `_includes/base.njk`)
 
-All ebooks are **FOREVER FREE** to download and share.
+## Getting Started
 
-## 🚀 Deployment Instructions for Cloudflare Pages
+Prerequisites:
 
-### Option 1: Deploy via GitHub (Recommended)
+- Node.js (recommended: 18+)
+- npm
+- Python 3
 
-1. **Create a GitHub Repository**
-   - Go to [GitHub](https://github.com) and create a new repository
-   - Name it something like `jaikhyapaparampara-library`
+Install dependencies:
 
-2. **Push Your Code to GitHub**
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit - Jai Khyapa Parampara Library"
-   git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/jaikhyapaparampara-library.git
-   git push -u origin main
-   ```
-
-3. **Connect to Cloudflare Pages**
-   - Log in to [Cloudflare Dashboard](https://dash.cloudflare.com/)
-   - Go to **Pages** in the sidebar
-   - Click **Create a project**
-   - Click **Connect to Git**
-   - Select your GitHub repository
-   - Configure build settings:
-     - **Production branch:** `main`
-     - **Build command:** (leave empty - it's a static site)
-     - **Build output directory:** `/`
-   - Click **Save and Deploy**
-
-4. **Configure Custom Domain**
-   - Once deployed, go to your Pages project
-   - Click **Custom domains**
-   - Add your domain: `jaikhyapaparampara.com`
-   - Follow DNS configuration instructions provided by Cloudflare
-
-### Option 2: Deploy via Direct Upload
-
-1. **Prepare Your Files**
-   - Ensure all files are in one folder:
-     - `index.html`
-     - `styles.css`
-     - `script.js`
-     - `uywjs16z45454.jpg`
-     - `Bama_Khepa.jpg`
-
-2. **Upload to Cloudflare Pages**
-   - Log in to [Cloudflare Dashboard](https://dash.cloudflare.com/)
-   - Go to **Pages** in the sidebar
-   - Click **Create a project**
-   - Click **Direct Upload**
-   - Drag and drop your project folder or select files
-   - Click **Deploy site**
-
-3. **Configure Custom Domain** (same as above)
-
-## 📁 File Structure
-
-```
-jaikhypaparampara_ebook_repo/
-├── index.html              # Main HTML page
-├── styles.css              # Stylesheet
-├── script.js               # JavaScript functionality
-├── uywjs16z45454.jpg       # Adya Mahakali book image
-├── Bama_Khepa.jpg          # Kalabhairava book image
-├── README.md               # This file
-├── DEPLOYMENT_GUIDE.md     # Detailed deployment instructions
-└── cloudflare.json         # Cloudflare Pages configuration
+```bash
+npm install
 ```
 
-## 🎨 Features
+Build the site:
 
-- **Responsive Design** - Works perfectly on desktop, tablet, and mobile
-- **Beautiful UI** - Traditional spiritual aesthetic with modern design
-- **Fast Loading** - Optimized for Cloudflare's global CDN
-- **SEO Optimized** - Proper meta tags and semantic HTML
-- **Smooth Animations** - Elegant scroll effects and transitions
-- **Accessibility** - Proper ARIA labels and semantic structure
+```bash
+npm run build
+```
 
-## 🔗 External Links
+Serve locally with live reload:
 
-The website links to:
-- PDF downloads hosted on Cloudflare R2
-- Internet Archive collections
-- Online searchable name collections at dedicated domains
+```bash
+npm run serve
+# or
+npm start
+```
 
-## 📱 Browser Compatibility
+Output is written to `_site/` (this is the directory published to Cloudflare Pages).
 
-- Chrome/Edge (latest)
-- Firefox (latest)
-- Safari (latest)
-- Mobile browsers (iOS Safari, Chrome Mobile)
+## Project Structure
 
-## 🙏 Dedication
+- `articles/` — Markdown article files (frontmatter + HTML transcript bodies)
+- `markdownfiles_forblog/` — Raw transcripts to be processed
+  - `tobeprocessed/` — raw inputs
+  - `processed/` — converted posts
+  - `redundant/` — archived/duplication
+- `_includes/` — Nunjucks templates (`article.njk`, `base.njk`)
+- `_site/` — generated site output (build artifact)
+- `scripts/` and root-level Python utilities — helpers for migration, SEO, and content checks
+- `.github/agents/` and `.github/skills/` — custom Copilot agents and skills
+- `wrangler.toml` — Cloudflare Pages build config
+- Utility files: `sitemap.njk`, `search-index.11ty.js`, `performance-optimizations.css`, etc.
 
-This library is dedicated to:
-- Guru Shri Bamakhepa
-- Guru Shri Shyamakhepa
-- Shri Praveen RadhaKrishnan
-- The entire Khyapa Parampara
+## Article Conventions (Reference)
 
-## 📧 Contact
+- Frontmatter schema (required fields): `layout`, `title`, `breadcrumbTitle`, `description`, `keywords`, `category`, `author`, `date`, `readingTime`, `tags`, `source`.
+- Body format: every article uses a `transcript-container` div with `speaker-block` entries — avoid plain Markdown paragraphs for dialogues.
+- Categories: exactly one of `"Guru Stories"`, `"Spiritual Teachings"`, or `"Discourse"`.
+- Reading time: `ceil(wordCount / 200)`.
 
-**Compiler:** KaliPutra-Ashish
-- **Instagram:** [@ashishkaliputra](https://instagram.com/ashishkaliputra)
-- **Email:** kaliputraashish@gmail.com
+(See `.github/copilot-instructions.md` for full conventions and examples.)
+
+## Key Features
+
+- Automated conversion pipelines and helper scripts to transform YouTube transcripts into publishable articles.
+- Custom Copilot agents: `blog-converter`, `article-fixer`, and parallel converter instances for batch processing.
+- SEO-focused frontmatter and tag normalization/slugification via Eleventy config.
+- Passthrough handling for static assets (CSS/JS/images) and sitemap generation.
+
+## Development Workflow
+
+Common tasks:
+
+- Convert raw transcripts: use the `blog-converter` agent or the `markdownfiles_forblog/tobeprocessed/` pipelines.
+- Fix published stub articles: use the `article-fixer` agent (configured to run in controlled increments).
+- Add a new article: create a markdown file in `articles/` following the required frontmatter and transcript HTML format.
+
+Scripts and helpers:
+
+- `convert_transcript_format.py`, `convert_articles.py`, and other Python scripts assist automated conversions.
+- `update_build.py` / `update_last_updated.py` helpers run post-build tasks.
+
+Agent usage note: custom agents and skills are defined under `.github/agents/` and `.github/skills/`. These include `blog-converter`, `article-fixer`, and parallel converters (`blog-converter-a`, `-b`, `-c`).
+
+## Testing & Verification
+
+- Build locally and inspect `_site/`:
+
+```bash
+npm run build
+# inspect _site/
+```
+
+- Serve locally to verify templates and live reload:
+
+```bash
+npm run serve
+```
+
+- Scripts for audits and checks:
+
+- `seo_audit.py`, `audit_site.py`, `analyze_lighthouse.py` — run as needed (ensure Python deps are installed).
+
+## Contributing
+
+- Follow the article frontmatter and transcript HTML conventions. Use the provided Copilot agents for bulk processing and the Python helpers for targeted fixes.
+- When adding or modifying scripts, keep changes minimal and consistent with existing patterns.
+- For major changes (wide renames, schema changes), prepare a Destructive Action Plan (DAP) and request review.
+
+## Useful Commands
+
+```bash
+# Install dependencies
+npm install
+
+# Build
+npm run build
+
+# Serve locally
+npm run serve
+
+# Run a Python content script (example)
+python3 scripts/check_duplicates.py
+```
+
+## Where to Look Next
+
+- Conventions and agent usage: `.github/copilot-instructions.md`
+- Templates: `_includes/article.njk`, `_includes/base.njk`
+- Raw transcripts: `markdownfiles_forblog/tobeprocessed/`
+- Progress trackers: `_article_fix_progress.md`, `_blog_conversion_progress*.md`
+
+## License
+
+This repository does not include an explicit license file. Add a `LICENSE` file if you intend to permit reuse.
 
 ---
 
-**Om Shri Gurubhyo Namaha**  
-**Jai Khyapa Parampara**
+If you'd like, I can now:
+- expand any section with examples, or
+- open a PR with this README and a short CHANGELOG entry.

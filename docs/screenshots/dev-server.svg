@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="160" viewBox="0 0 800 160">
+  <rect width="800" height="160" fill="#0f1724" rx="8" />
+  <text x="24" y="36" fill="#9ae6b4" font-family="monospace" font-size="18">$ npm run serve</text>
+  <text x="24" y="66" fill="#cbd5e1" font-family="monospace" font-size="14">Eleventy is serving your site — Local URL: http://localhost:8080</text>
+  <rect x="24" y="84" width="740" height="60" rx="6" fill="#071233" stroke="#1e293b"/>
+  <text x="40" y="108" fill="#e6eef8" font-family="monospace" font-size="13">/articles/sample-article/ — previewing article with transcript-container</text>
+</svg>

@@ -1,8 +1,5 @@
 # Cloudflare Pages redirects and rewrites
 
-# Redirect apex domain to www
-https://jaikhyapaparampara.pages.dev/* https://www.jaikhyapaparampara.pages.dev/:splat 301
-
 # Handle articles pagination
 /articles/2 /articles/2/index.html 200
 /articles/3 /articles/3/index.html 200

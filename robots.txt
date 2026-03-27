@@ -5,9 +5,6 @@ User-agent: *
 Allow: /
 Disallow: /version.json
 
-# Crawl-delay for polite crawling
-Crawl-delay: 1
-
 # Google specific
 User-agent: Googlebot
 Allow: /
