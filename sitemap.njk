@@ -49,8 +49,8 @@ eleventyExcludeFromCollections: true
   {% endfor %}
 
   <!-- Tag Pages -->
-  {% for tag, posts in collections %}
-  {% if tag != "all" and tag != "articles" and tag != "allTags" and posts[0] and posts[0].date and posts | length >= 3 %}
+  {% for tag, posts in collections.all %}
+  {% if posts | length >= 3 %}
   <url>
     <loc>https://jaikhyapaparampara.com/tags/{{ tag | slugify }}/</loc>
     <lastmod>{{ posts[0].date | isoDate }}</lastmod>
