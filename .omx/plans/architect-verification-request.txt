@@ -1,0 +1,24 @@
+﻿Architect review request for the /articles directory redesign.
+
+Changed files:
+- .eleventy.js
+- articles/index.njk
+- articles/topics.njk
+
+Requirements:
+- /articles becomes directory-first and topic-led
+- no date-based grouping in primary IA or exhaustive fallback
+- preserve article URLs, content, and search
+- avoid editorial curation bias
+- group entry points must lead to browse states/lists, not hand-picked articles
+
+Fresh evidence:
+- npm run build PASS
+- node --check .eleventy.js PASS
+- generated pages exist for /articles/, /articles/2/, and /articles/topics/prophecies-world-events/
+
+Please review current working tree diff in .omx/plans/ralph-current-diff.patch and return a concise architect verdict with:
+1. Verdict: APPROVE or REJECT
+2. Main strengths
+3. Risks/issues
+4. Required fixes if any

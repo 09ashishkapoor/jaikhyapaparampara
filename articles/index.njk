@@ -1,327 +1,511 @@
 ---
 layout: base
-title: Sacred Wisdom & Guru Stories | Jai Khyapa Parampara Articles
-description: "Explore spiritual articles by Gupta Sadhak Shyamakhyapa on Tantra, Sadhana, and Divine Realization. Discover wisdom from the Khyapa Parampara lineage."
+description: "Browse Jai Khyapa Parampara articles through clear themes, topic-led pathways, and an A-Z directory of spiritual teachings."
 pagination:
-  data: collections.articles
+  data: collections.articlesAlpha
   size: 50
-  alias: articles
-permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"        
+  alias: pagedArticles
+permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+eleventyComputed:
+  title: "{% if pagination.pageNumber > 0 %}Browse All Articles A-Z · Page {{ pagination.pageNumber + 1 }}{% else %}Articles Directory & Topics{% endif %}"
 ---
 
-<style>
-.blog-header{padding:3rem 0 2rem 0;text-align:center;}
-.blog-title{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:2.8rem;margin-bottom:1rem;}  
-.blog-description{font-size:1.2rem;color:var(--text-dark);max-width:800px;margin:0 auto;}
+{% set currentPage = pagination.pageNumber + 1 %}
+{% set totalPages = pagination.pages.length %}
+{% set totalArticles = collections.articles | length %}
+{% set totalThemes = collections.browseGroups | length %}
 
-/* Tags Styles */
-.tags-container {
-    max-width: 1000px;
-    margin: 1rem auto 2rem;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 0.8rem;
-}
-.tag-filter {
-    background: rgba(45, 15, 24, 0.4);
+<style>
+.archive-shell { padding: 3rem 0 4rem; }
+.archive-header { text-align: center; margin-bottom: 2rem; }
+.archive-eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    padding: 0.45rem 1rem;
+    border-radius: 999px;
     border: 1px solid var(--border-gold);
+    background: rgba(232, 196, 104, 0.08);
+    color: var(--accent-color);
+    font-family: 'Philosopher', sans-serif;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    font-size: 0.82rem;
+}
+.archive-title {
+    font-family: 'Philosopher', sans-serif;
+    color: var(--accent-bright);
+    font-size: clamp(2.35rem, 4vw, 3.6rem);
+    margin: 1.25rem auto 0.85rem;
+    line-height: 1.12;
+    max-width: 900px;
+}
+.archive-description {
+    max-width: 860px;
+    margin: 0 auto;
+    font-size: 1.12rem;
     color: var(--text-dark);
-    padding: 0.4rem 1rem;
-    border-radius: 20px;
-    font-size: 0.9rem;
-    cursor: pointer;
-    transition: all 0.3s ease;
+    opacity: 0.9;
+}
+.archive-stats {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+    margin: 2rem 0 2.4rem;
+}
+.stat-card {
+    padding: 1.25rem;
+    border-radius: 18px;
+    border: 1px solid var(--border-gold);
+    background: linear-gradient(145deg, rgba(45,15,24,0.62) 0%, rgba(24,8,12,0.94) 100%);
+    box-shadow: 0 18px 45px rgba(0, 0, 0, 0.18);
+}
+.stat-card strong {
+    display: block;
+    font-size: 1.8rem;
+    color: var(--accent-bright);
+    font-family: 'Philosopher', sans-serif;
+}
+.stat-card span {
+    display: block;
+    margin-top: 0.3rem;
+    color: var(--text-dark);
+    opacity: 0.82;
+}
+.search-panel {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 2.4rem;
+}
+.surprise-btn,
+.cta-link,
+.pagination-item,
+.group-card-link,
+.theme-pill {
     text-decoration: none;
 }
-.tag-filter:hover, .tag-filter.active {
-    background: var(--accent-color);
-    color: white;
-    border-color: var(--accent-color);
-}
-
-/* Search Styles */
-.search-container {
-    max-width: 600px;
-    margin: 2rem auto;
-    position: relative;
-    display: flex;
-    gap: 0.75rem;
+.surprise-btn,
+.cta-link {
+    display: inline-flex;
     align-items: center;
-    flex-wrap: wrap;
     justify-content: center;
-}
-.search-input {
-    flex: 1;
-    min-width: 0;
-    padding: 1rem 1.5rem;
-    background: rgba(45, 15, 24, 0.4);
+    gap: 0.45rem;
+    min-height: 48px;
+    padding: 0.9rem 1.35rem;
+    border-radius: 999px;
     border: 1px solid var(--border-gold);
-    border-radius: 30px;
-    color: var(--accent-bright);
-    font-size: 1.1rem;
-    outline: none;
-    transition: all 0.3s ease;
-}
-.search-input:focus {
-    border-color: var(--accent-color);
-    box-shadow: 0 0 15px rgba(139, 38, 53, 0.3);
-}
-.search-input::placeholder {
-    color: var(--text-dark);
-    opacity: 0.6;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 0.98rem;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
 }
 .surprise-btn {
     background: transparent;
+    color: var(--accent-color);
+}
+.surprise-btn:hover,
+.cta-link:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 24px rgba(0,0,0,0.24);
+}
+.cta-link {
+    background: var(--gold-gradient);
+    color: var(--light-bg);
+    font-weight: 700;
+}
+.directory-panel {
+    border: 1px solid var(--border-gold);
+    border-radius: 24px;
+    background: linear-gradient(145deg, rgba(45,15,24,0.52) 0%, rgba(17,6,9,0.96) 100%);
+    box-shadow: 0 22px 50px rgba(0, 0, 0, 0.2);
+    padding: 1.4rem;
+    margin-bottom: 2.5rem;
+}
+.directory-intro {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.2rem;
+}
+.directory-intro h2,
+.fallback-heading {
+    font-family: 'Philosopher', sans-serif;
+    color: var(--accent-bright);
+}
+.directory-intro h2 { font-size: 1.95rem; margin-bottom: 0.35rem; }
+.directory-intro p,
+.fallback-copy {
+    color: var(--text-dark);
+    opacity: 0.85;
+    max-width: 760px;
+}
+.theme-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1rem;
+}
+.group-card-link {
+    display: block;
+    height: 100%;
+    padding: 1.3rem;
+    border-radius: 18px;
+    border: 1px solid rgba(232, 196, 104, 0.22);
+    background: linear-gradient(145deg, rgba(255,255,255,0.03) 0%, rgba(255,255,255,0.01) 100%);
+    color: inherit;
+    transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+}
+.group-card-link:hover {
+    transform: translateY(-4px);
+    border-color: var(--accent-color);
+    background: linear-gradient(145deg, rgba(232, 196, 104, 0.12) 0%, rgba(255,255,255,0.02) 100%);
+}
+.group-card-meta {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.8rem;
+    align-items: center;
+    margin-bottom: 0.9rem;
+}
+.group-count {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 60px;
+    padding: 0.28rem 0.7rem;
+    border-radius: 999px;
+    background: rgba(232,196,104,0.13);
+    color: var(--accent-bright);
+    font-family: 'Philosopher', sans-serif;
+    font-size: 0.88rem;
+}
+.group-card-title {
+    font-family: 'Philosopher', sans-serif;
+    color: var(--accent-bright);
+    font-size: 1.34rem;
+    line-height: 1.25;
+    margin-bottom: 0.55rem;
+}
+.group-card-copy {
+    color: var(--text-dark);
+    opacity: 0.85;
+    min-height: 4.3rem;
+}
+.group-pill-row {
+    display: flex;
+    gap: 0.55rem;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+}
+.theme-pill {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.32rem 0.72rem;
+    border-radius: 999px;
+    border: 1px solid rgba(232,196,104,0.28);
+    color: var(--text-dark);
+    font-size: 0.82rem;
+    background: rgba(255,255,255,0.03);
+}
+.group-card-action {
+    margin-top: 1rem;
+    color: var(--accent-color);
+    font-weight: 700;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+}
+.browse-everything {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.2rem;
+}
+.a-z-label {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.4rem 0.75rem;
+    border-radius: 999px;
     border: 1px solid var(--border-gold);
     color: var(--accent-color);
-    padding: 0.85rem 1.4rem;
-    border-radius: 30px;
-    font-size: 1rem;
+    background: rgba(232, 196, 104, 0.06);
     font-family: 'Philosopher', sans-serif;
-    cursor: pointer;
-    transition: all 0.3s ease;
-    white-space: nowrap;
-    flex-shrink: 0;
+    font-size: 0.88rem;
 }
-.surprise-btn:hover {
-    background: var(--accent-color);
-    color: var(--light-bg);
-    border-color: var(--accent-color);
-    box-shadow: 0 0 15px rgba(232,196,104,0.3);
-}
-.no-results {
-    display: none;
-    text-align: center;
-    padding: 3rem;
-    color: var(--text-dark);
-    font-size: 1.2rem;
-}
-
 .articles-list {
     list-style: none;
-    padding: 1rem 0 2rem;
     margin: 0;
-    border-top: 1px solid var(--border-gold);
+    padding: 0;
+    border-top: 1px solid rgba(232,196,104,0.22);
 }
-.article-row { border-bottom: 1px solid rgba(232,196,104,0.2); }
+.article-row {
+    border-bottom: 1px solid rgba(232,196,104,0.16);
+}
 .article-row-link {
     display: block;
-    padding: 0.85rem 0.75rem 0.85rem 1rem;
-    text-decoration: none;
+    padding: 1rem 0.95rem;
     color: inherit;
+    text-decoration: none;
     border-left: 3px solid transparent;
-    transition: background 0.2s ease, border-left-color 0.2s ease;
+    transition: border-left-color 0.2s ease, background 0.2s ease;
 }
 .article-row-link:hover {
-    background: rgba(232,196,104,0.06);
     border-left-color: var(--accent-color);
+    background: rgba(232,196,104,0.05);
 }
 .article-row-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     gap: 1rem;
-    margin-bottom: 0.3rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.35rem;
 }
 .article-row-category {
-    display: inline-block;
-    border: 1px solid var(--accent-color);
+    display: inline-flex;
+    align-items: center;
+    padding: 0.2rem 0.7rem;
+    border-radius: 999px;
+    border: 1px solid rgba(232,196,104,0.38);
     color: var(--accent-color);
-    padding: 0.1rem 0.65rem;
-    border-radius: 12px;
-    font-size: 0.78rem;
+    font-size: 0.8rem;
     white-space: nowrap;
-    flex-shrink: 0;
 }
 .article-row-meta {
     color: var(--text-dark);
-    font-size: 0.82rem;
     opacity: 0.7;
-    white-space: nowrap;
+    font-size: 0.84rem;
 }
 .article-row-title {
     font-family: 'Philosopher', sans-serif;
-    font-size: 1.1rem;
     color: var(--accent-bright);
-    margin-bottom: 0.2rem;
+    font-size: 1.12rem;
+    margin-bottom: 0.15rem;
     line-height: 1.35;
-    font-weight: 700;
 }
 .article-row-excerpt {
     color: var(--text-dark);
-    font-size: 0.92rem;
-    line-height: 1.5;
-    overflow: hidden;
-    display: -webkit-box;
-    -webkit-line-clamp: 1;
-    -webkit-box-orient: vertical;
-    opacity: 0.8;
-    margin: 0;
+    opacity: 0.82;
+    line-height: 1.55;
 }
-
-/* Pagination Styles */
 .pagination {
     display: flex;
-    justify-content: center;
     align-items: center;
-    gap: 1rem;
-    margin: 3rem 0;
+    justify-content: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-top: 2rem;
 }
 .pagination-item {
-    padding: 0.6rem 1.2rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 46px;
+    min-height: 46px;
+    padding: 0.75rem 1rem;
+    border-radius: 14px;
     border: 1px solid var(--border-gold);
-    border-radius: 5px;
     color: var(--accent-bright);
-    text-decoration: none;
-    transition: all 0.3s ease;
+    background: rgba(255,255,255,0.03);
+    transition: background 0.2s ease, border-color 0.2s ease;
 }
 .pagination-item:hover:not(.disabled) {
-    background: var(--accent-color);
-    color: white;
+    background: rgba(232,196,104,0.12);
     border-color: var(--accent-color);
 }
 .pagination-item.active {
     background: var(--gold-gradient);
     color: var(--light-bg);
-    font-weight: bold;
-}
-.pagination-item.disabled {
-    opacity: 0.5;
-    cursor: not-allowed;
-}
-
-.article-count-badge {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    margin-top: 1rem;
-    padding: 0.5rem 1.4rem;
-    border: 1px solid var(--border-gold);
-    border-radius: 20px;
-    background: rgba(232, 196, 104, 0.08);
-    color: var(--text-dark);
-    font-family: 'Philosopher', sans-serif;
-    font-size: 1rem;
-    letter-spacing: 0.03em;
-}
-.article-count-badge strong {
-    color: var(--accent-color);
     font-weight: 700;
 }
-
-@media(max-width:768px){
-.articles-list{padding:0.5rem 0 1.5rem;}
-.article-row-title{font-size:1rem;}
-.article-row-header{flex-wrap:wrap;gap:0.25rem;}
-.article-row-meta{font-size:0.78rem;}
-.blog-title{font-size:2rem;}
-.pagination{gap:0.4rem;margin:2rem 0;flex-wrap:wrap;}
-.pagination-item{padding:0.55rem 0.8rem;font-size:0.9rem;min-width:44px;min-height:44px;display:flex;align-items:center;justify-content:center;text-align:center;}
-.article-count-badge{font-size:0.88rem;padding:0.4rem 1rem;}
+.pagination-item.disabled {
+    opacity: 0.45;
+    cursor: not-allowed;
+}
+.pagination-note {
+    margin-top: 0.75rem;
+    text-align: center;
+    color: var(--text-dark);
+    opacity: 0.7;
+    font-size: 0.88rem;
+}
+@media (max-width: 900px) {
+    .archive-stats { grid-template-columns: 1fr; }
+}
+@media (max-width: 768px) {
+    .archive-shell { padding-top: 2rem; }
+    .directory-panel { padding: 1rem; }
+    .directory-intro h2,
+    .fallback-heading { font-size: 1.6rem; }
+    .group-card-copy { min-height: auto; }
+    .article-row-link { padding: 0.9rem 0.7rem; }
 }
 </style>
 
-<div class="container">
-    <div class="blog-header">
-        <h1 class="blog-title">Articles & Insights</h1>
-        <p class="blog-description">Deep dives into spiritual wisdom, guru stories, and sacred teachings from the Khyapa Parampara tradition.</p>
-        <div class="article-count-badge">✦ A growing library of <strong>{{ collections.articles | length }} sacred articles</strong> — and counting</div>
-    </div>
-
-    <div class="tags-container">
-        <span style="color: var(--accent-color); font-weight: bold; margin-right: 10px; align-self: center;">Explore Topics:</span>
-        <a href="/articles/" class="tag-filter active">All</a>
-        <a href="/tags/gupta-sadhak-shyamakhyapa/" class="tag-filter" style="border-color: var(--accent-bright); background: rgba(232, 196, 104, 0.1);">Shyama Khyapa</a>
-        <a href="/tags/guru-stories/" class="tag-filter">Guru Stories</a>
-        <a href="/tags/sacred-texts/" class="tag-filter">Sacred Texts</a>
-        <a href="/tags/philosophy/" class="tag-filter">Philosophy</a>
-        <a href="/tags/sadhana/" class="tag-filter">Sadhana</a>
-        <a href="/tags/bhairava/" class="tag-filter">Bhairava</a>
-        <a href="/tags/kali/" class="tag-filter">Kali</a>
-    </div>
-
-    <div class="search-container">
-        <input type="text" id="blogSearch" class="search-input" placeholder="Search all articles…">
-        <button id="surpriseMe" class="surprise-btn" title="Take me to a random article">✦ Surprise Me</button>
-    </div>
-
-    <div id="noResults" class="no-results">
-        <p>No articles found. Try different keywords.</p>
-    </div>
-
-    <ol class="articles-list" id="articlesGrid">
-        {% for article in articles %}
-        <li class="article-row" data-title="{{ article.data.title | lower }}" data-description="{{ article.data.description | lower }}" data-tags="{{ article.data.tags | default([]) | join('|') | lower }}" data-category="{{ article.data.category | lower }}">
-            <a href="{{ article.url }}" class="article-row-link">
-                <div class="article-row-header">
-                    <span class="article-row-category">{{ article.data.category }}</span>
-                    <span class="article-row-meta">📅 {{ article.date | dateDisplay }}{% if article.data.readingTime %} · ⏱ {{ article.data.readingTime }} min{% endif %}</span>
-                </div>
-                <h2 class="article-row-title">{{ article.data.title }}</h2>
-                <p class="article-row-excerpt">{{ article.data.description }}</p>
-            </a>
-        </li>
-        {% endfor %}
-    </ol>
-
-    <!-- Pagination Controls -->
-    {% if pagination.pages.length > 1 %}
-    {% set currentPage = pagination.pageNumber + 1 %}
-    {% set totalPages = pagination.pages.length %}
-    <nav class="pagination">
-        {% if pagination.href.previous %}
-            <a href="{{ pagination.href.previous }}" class="pagination-item">← Prev</a>
-        {% else %}
-            <span class="pagination-item disabled">← Prev</span>
-        {% endif %}
-
-        {# Always show first page #}
-        <a href="{{ pagination.hrefs[0] }}" class="pagination-item {% if currentPage == 1 %}active{% endif %}">1</a>
-
-        {# Ellipsis after first if needed #}
-        {% if currentPage > 4 %}<span class="pagination-item disabled">…</span>{% endif %}
-
-        {# Pages around current #}
-        {% for i in range(2, totalPages) %}
-            {% if i >= currentPage - 2 and i <= currentPage + 2 %}
-                <a href="{{ pagination.hrefs[i - 1] }}" class="pagination-item {% if currentPage == i %}active{% endif %}">{{ i }}</a>
+<div class="container archive-shell">
+    <header class="archive-header">
+        <span class="archive-eyebrow">✦ Library of Sacred Teachings</span>
+        <h1 class="archive-title">
+            {% if currentPage == 1 %}
+            Find your way through the knowledge without guessing which page to open.
+            {% else %}
+            Browse the library alphabetically, one clear page at a time.
             {% endif %}
-        {% endfor %}
+        </h1>
+        <p class="archive-description">
+            {% if currentPage == 1 %}
+            Begin with a path of teachings, follow what calls to you, or scan the full library A-Z. This library is arranged to make discovery gentle without changing the articles themselves.
+            {% else %}
+            This A-Z path keeps the full library open for exploration without relying on chronology as the main way to begin.
+            {% endif %}
+        </p>
+    </header>
 
-        {# Ellipsis before last if needed #}
-        {% if currentPage < totalPages - 3 %}<span class="pagination-item disabled">…</span>{% endif %}
-
-        {# Always show last page #}
-        {% if totalPages > 1 %}
-            <a href="{{ pagination.hrefs[totalPages - 1] }}" class="pagination-item {% if currentPage == totalPages %}active{% endif %}">{{ totalPages }}</a>
-        {% endif %}
-
-        {% if pagination.href.next %}
-            <a href="{{ pagination.href.next }}" class="pagination-item">Next →</a>
-        {% else %}
-            <span class="pagination-item disabled">Next →</span>
-        {% endif %}
-    </nav>
-    <p style="text-align:center;color:var(--text-dark);opacity:0.6;font-size:0.88rem;margin-top:-1.5rem;">Page {{ currentPage }} of {{ totalPages }} &nbsp;·&nbsp; {{ collections.articles | length }} articles total</p>
+    {% if currentPage == 1 %}
+    <section class="archive-stats" aria-label="Archive overview">
+        <div class="stat-card">
+            <strong>{{ totalArticles }}</strong>
+            <span>articles available to explore</span>
+        </div>
+        <div class="stat-card">
+            <strong>{{ totalThemes }}</strong>
+            <span>guided paths for easier discovery</span>
+        </div>
+        <div class="stat-card">
+            <strong>A–Z</strong>
+            <span>a full-library path beyond chronology</span>
+        </div>
+    </section>
     {% endif %}
+
+    <div class="search-panel">
+        <a class="cta-link" href="#browse-all">Enter the A-Z library</a>
+        <button id="surpriseMe" class="surprise-btn" title="Take me to a random article">Surprise Me</button>
+    </div>
+
+    {% if currentPage == 1 %}
+    <section class="directory-panel" aria-labelledby="theme-directory-title">
+        <div class="directory-intro">
+            <div>
+                <h2 id="theme-directory-title">Explore by path</h2>
+                <p>Each path opens into a complete, non-curated list of related articles. No date buckets. No featured track. Only clearer ways to enter the library.</p>
+            </div>
+            <a class="cta-link" href="#browse-all">Enter the A-Z library</a>
+        </div>
+
+        <div class="theme-grid">
+            {% for group in collections.browseGroups %}
+            <a class="group-card-link" href="{{ group.url }}">
+                <div class="group-card-meta">
+                    <span class="group-count">{{ group.count }} articles</span>
+                    <span class="article-row-meta">Library path →</span>
+                </div>
+                <h2 class="group-card-title">{{ group.name }}</h2>
+                <p class="group-card-copy">{{ group.description }}</p>
+                {% if group.categoryLabels.length %}
+                <div class="group-pill-row">
+                    {% for label in group.categoryLabels %}
+                    <span class="theme-pill">{{ label }}</span>
+                    {% endfor %}
+                </div>
+                {% endif %}
+                <span class="group-card-action">Enter this path <span aria-hidden="true">→</span></span>
+            </a>
+            {% endfor %}
+        </div>
+    </section>
+    {% endif %}
+
+    <section id="browse-all" class="directory-panel" aria-labelledby="browse-all-title">
+        <div class="browse-everything">
+            <div>
+                <span class="a-z-label">A–Z library path</span>
+                <h2 id="browse-all-title" class="fallback-heading">Browse every article by title</h2>
+                <p class="fallback-copy">
+                    {% if currentPage == 1 %}
+                    If you prefer the full library view, this list keeps every article within reach while staying free from date-based grouping.
+                    {% else %}
+                    You are viewing page {{ currentPage }} of {{ totalPages }} in the full alphabetical library.
+                    {% endif %}
+                </p>
+            </div>
+            {% if currentPage > 1 %}
+            <a class="cta-link" href="/articles/">Return to the library paths</a>
+            {% endif %}
+        </div>
+
+
+        <ol class="articles-list" id="articlesGrid">
+            {% for article in pagedArticles %}
+            <li class="article-row" data-title="{{ article.data.title | lower }}" data-description="{{ article.data.description | lower }}" data-tags="{{ article.data.tags | default([]) | join('|') | lower }}" data-category="{{ article.data.category | lower }}">
+                <a href="{{ article.url }}" class="article-row-link">
+                    <div class="article-row-header">
+                        <span class="article-row-category">{{ article.data.category }}</span>
+                        <span class="article-row-meta">{% if article.data.readingTime %}⏱ {{ article.data.readingTime }} min{% else %}Open article{% endif %}</span>
+                    </div>
+                    <h2 class="article-row-title">{{ article.data.title }}</h2>
+                    <p class="article-row-excerpt">{{ article.data.description }}</p>
+                </a>
+            </li>
+            {% endfor %}
+        </ol>
+
+        {% if totalPages > 1 %}
+        <nav class="pagination" aria-label="Alphabetical article pages">
+            {% if pagination.href.previous %}
+                <a href="{{ pagination.href.previous }}#browse-all" class="pagination-item">← Prev</a>
+            {% else %}
+                <span class="pagination-item disabled">← Prev</span>
+            {% endif %}
+
+            <a href="{{ pagination.hrefs[0] }}#browse-all" class="pagination-item {% if currentPage == 1 %}active{% endif %}">1</a>
+            {% if currentPage > 4 %}<span class="pagination-item disabled">…</span>{% endif %}
+
+            {% for i in range(2, totalPages) %}
+                {% if i >= currentPage - 2 and i <= currentPage + 2 %}
+                    <a href="{{ pagination.hrefs[i - 1] }}#browse-all" class="pagination-item {% if currentPage == i %}active{% endif %}">{{ i }}</a>
+                {% endif %}
+            {% endfor %}
+
+            {% if currentPage < totalPages - 3 %}<span class="pagination-item disabled">…</span>{% endif %}
+            {% if totalPages > 1 %}
+                <a href="{{ pagination.hrefs[totalPages - 1] }}#browse-all" class="pagination-item {% if currentPage == totalPages %}active{% endif %}">{{ totalPages }}</a>
+            {% endif %}
+
+            {% if pagination.href.next %}
+                <a href="{{ pagination.href.next }}#browse-all" class="pagination-item">Next →</a>
+            {% else %}
+                <span class="pagination-item disabled">Next →</span>
+            {% endif %}
+        </nav>
+        <p class="pagination-note">Page {{ currentPage }} of {{ totalPages }} · {{ totalArticles }} total articles · sorted A-Z</p>
+        {% endif %}
+    </section>
 </div>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    var searchInput = document.getElementById('blogSearch');
-    var articlesList = document.getElementById('articlesGrid');
-    var noResults = document.getElementById('noResults');
-    var paginationEl = document.querySelector('.pagination');
-    var TOTAL = {{ collections.articles | length }};
-    searchInput.placeholder = 'Search all ' + TOTAL + ' articles\u2026';
-
-    // Pre-fill search from URL query param (e.g. ?q=guru from homepage search bar)
-    var urlQ = new URLSearchParams(window.location.search).get('q');
-    if (urlQ) { searchInput.value = urlQ; searchInput.dispatchEvent(new Event('input')); }
-
-    // Surprise Me — navigate to a random article
     var surpriseBtn = document.getElementById('surpriseMe');
+    var indexData = null;
+    var fetchPromise = null;
+
+    function getIndex() {
+        if (indexData) return Promise.resolve(indexData);
+        if (!fetchPromise) {
+            fetchPromise = fetch('/search-index.json')
+                .then(function(response) { return response.json(); })
+                .then(function(data) { indexData = data; return data; });
+        }
+        return fetchPromise;
+    }
+
     if (surpriseBtn) {
         surpriseBtn.addEventListener('click', function() {
             getIndex().then(function(articles) {
@@ -330,84 +514,5 @@ document.addEventListener('DOMContentLoaded', function() {
             });
         });
     }
-
-    var originalHTML = articlesList.innerHTML;
-    var indexData = null;
-    var fetchPromise = null;
-
-    function getIndex() {
-        if (indexData) return Promise.resolve(indexData);
-        if (!fetchPromise) {
-            fetchPromise = fetch('/search-index.json')
-                .then(function(r) { return r.json(); })
-                .then(function(d) { indexData = d; return d; });
-        }
-        return fetchPromise;
-    }
-
-    function fmtDate(iso) {
-        try {
-            return new Date(iso).toLocaleDateString('en-US', {
-                year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC'
-            });
-        } catch(e) { return iso || ''; }
-    }
-
-    function escAttr(s) {
-        return String(s || '')
-            .replace(/&/g, '&amp;')
-            .replace(/"/g, '&quot;')
-            .replace(/</g, '&lt;')
-            .replace(/>/g, '&gt;');
-    }
-
-    function renderResults(results) {
-        if (results.length === 0) {
-            articlesList.innerHTML = '';
-            noResults.style.display = 'block';
-        } else {
-            noResults.style.display = 'none';
-            articlesList.innerHTML = results.map(function(a) {
-                var tagsLower = (Array.isArray(a.tags) ? a.tags.join('|') : '').toLowerCase();
-                return '<li class="article-row"'
-                    + ' data-title="' + escAttr((a.title || '').toLowerCase()) + '"'
-                    + ' data-description="' + escAttr((a.description || '').toLowerCase()) + '"'
-                    + ' data-tags="' + escAttr(tagsLower) + '"'
-                    + ' data-category="' + escAttr((a.category || '').toLowerCase()) + '">'
-                    + '<a href="' + escAttr(a.url) + '" class="article-row-link">'
-                    + '<div class="article-row-header">'
-                    + '<span class="article-row-category">' + escAttr(a.category) + '</span>'
-                    + '<span class="article-row-meta">\uD83D\uDCC5 ' + fmtDate(a.date)
-                    + (a.readingTime ? ' \u00B7 \u23F1 ' + a.readingTime + ' min' : '') + '</span>'
-                    + '</div>'
-                    + '<h2 class="article-row-title">' + escAttr(a.title) + '</h2>'
-                    + '<p class="article-row-excerpt">' + escAttr(a.description) + '</p>'
-                    + '</a></li>';
-            }).join('');
-        }
-        if (paginationEl) paginationEl.style.display = 'none';
-    }
-
-    function restorePage() {
-        articlesList.innerHTML = originalHTML;
-        noResults.style.display = 'none';
-        if (paginationEl) paginationEl.style.display = '';
-    }
-
-    searchInput.addEventListener('input', function() {
-        var term = this.value.toLowerCase().trim();
-        if (!term) { restorePage(); return; }
-        getIndex().then(function(articles) {
-            var results = articles.filter(function(a) {
-                return (a.title && a.title.toLowerCase().includes(term))
-                    || (a.description && a.description.toLowerCase().includes(term))
-                    || (a.category && a.category.toLowerCase().includes(term))
-                    || (Array.isArray(a.tags) && a.tags.some(function(t) {
-                        return t.toLowerCase().includes(term);
-                    }));
-            });
-            renderResults(results);
-        });
-    });
 });
 </script>

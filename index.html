@@ -11,8 +11,8 @@
     <meta name="robots" content="index, follow">
     
     <!-- Build tracking - UPDATE THESE when you make changes to the site -->
-    <meta name="build-version" content="1.53">
-    <meta name="build-date" content="2026-03-23T04:26:31Z">
+    <meta name="build-version" content="1.54">
+    <meta name="build-date" content="2026-04-06T01:54:49Z">
     
     <link rel="canonical" href="https://jaikhyapaparampara.com/">
     <!-- Hreflang for client-side language switching: x-default covers both languages -->
@@ -625,11 +625,8 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
     .hp-search-inner{display:flex;flex-direction:column;align-items:center;gap:1.2rem;}
     .hp-count-badge{display:inline-flex;align-items:center;gap:0.5rem;padding:0.45rem 1.4rem;border:1px solid var(--border-gold);border-radius:20px;background:rgba(232,196,104,0.08);color:var(--text-dark);font-family:'Philosopher',sans-serif;font-size:1rem;}
     .hp-count-badge strong{color:var(--accent-color);font-weight:700;}
-    .hp-search-row{display:flex;gap:0.7rem;width:100%;max-width:620px;align-items:center;}
-    .hp-search-input{flex:1;min-width:0;padding:0.95rem 1.4rem;background:rgba(45,15,24,0.5);border:1px solid var(--border-gold);border-radius:30px;color:var(--accent-bright);font-size:1.05rem;outline:none;transition:all 0.3s ease;font-family:'Crimson Text',serif;}
-    .hp-search-input:focus{border-color:var(--accent-color);box-shadow:0 0 15px rgba(139,38,53,0.3);}
-    .hp-search-input::placeholder{color:var(--text-dark);opacity:0.55;}
-    .hp-search-btn{background:var(--gold-gradient);color:var(--light-bg);border:none;padding:0.95rem 1.6rem;border-radius:30px;font-size:1rem;font-family:'Philosopher',sans-serif;font-weight:700;cursor:pointer;flex-shrink:0;transition:all 0.3s ease;}
+    .hp-search-row{display:flex;gap:0.7rem;width:100%;max-width:620px;align-items:center;justify-content:center;}
+    .hp-search-btn{display:inline-flex;align-items:center;justify-content:center;background:var(--gold-gradient);color:var(--light-bg);border:none;padding:0.95rem 1.6rem;border-radius:30px;font-size:1rem;font-family:'Philosopher',sans-serif;font-weight:700;cursor:pointer;flex-shrink:0;transition:all 0.3s ease;text-decoration:none;}
     .hp-search-btn:hover{box-shadow:0 4px 18px rgba(232,196,104,0.4);transform:scale(1.03);}
     .hp-surprise-btn{background:transparent;color:var(--accent-color);border:1px solid var(--border-gold);padding:0.7rem 1.4rem;border-radius:30px;font-size:0.95rem;font-family:'Philosopher',sans-serif;font-weight:700;cursor:pointer;transition:all 0.3s ease;letter-spacing:0.03em;}
     .hp-surprise-btn:hover{border-color:var(--accent-color);background:rgba(232,196,104,0.1);box-shadow:0 4px 18px rgba(232,196,104,0.2);transform:scale(1.03);}
@@ -688,8 +685,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
             <div class="hp-search-inner">
                 <div class="hp-count-badge">✦ <strong><span id="hp-count-num">{{ collections.articles | length }}</span> sacred articles</strong> — and counting</div>
                 <div class="hp-search-row">
-                    <input type="text" id="hp-search-input" class="hp-search-input" placeholder="Search all articles…" autocomplete="off" aria-label="Search articles">
-                    <button id="hp-search-btn" class="hp-search-btn">Search</button>
+                    <a href="/articles/" id="hp-search-btn" class="hp-search-btn">Browse by Topic</a>
                 </div>
                 <button id="hp-surprise-btn" class="hp-surprise-btn" aria-label="Go to a random article">🎲 Surprise Me</button>
                 <p class="hp-search-hint">Or <a href="/articles/">browse all articles</a> and explore by topic below</p>
@@ -1197,8 +1193,8 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                 <p class="footer-blessing" data-translate="footer-blessing">Om Shri Gurubhyo Namaha | Jai Khyapa Parampara</p>
                 <p class="footer-description" data-translate="footer-description">May every word read here bring you closer to Ma Adya Mahakali.</p>
                 <p class="footer-meta" data-translate="footer-meta">&copy; 2026 KaliPutra-Ashish. All knowledge is forever free to share.</p>
-                <p id="site-version" class="footer-version"><span data-translate="footer-version">Version:</span> <span id="version-value">V1.53</span></p>
-                <p id="site-last-updated" class="footer-updated"><span data-translate="footer-updated">Last Updated:</span> <span id="last-updated-value">March 23, 2026</span></p>
+                <p id="site-version" class="footer-version"><span data-translate="footer-version">Version:</span> <span id="version-value">V1.54</span></p>
+                <p id="site-last-updated" class="footer-updated"><span data-translate="footer-updated">Last Updated:</span> <span id="last-updated-value">April 06, 2026</span></p>
             </div>
         </div>
     </footer>
@@ -1287,26 +1283,11 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
         }
 
         // ── Search Strip ──
-        function initSearch() {
-            var input = document.getElementById('hp-search-input');
-            var btn = document.getElementById('hp-search-btn');
+        function initArchiveActions() {
             var surpriseBtn = document.getElementById('hp-surprise-btn');
-            function doSearch() {
-                var q = (input.value || '').trim();
-                var url = q
-                    ? '/articles/?q=' + encodeURIComponent(q)
-                    : '/articles/';
-                window.location.href = url;
-            }
-            if (btn) btn.addEventListener('click', doSearch);
-            if (input) {
-                input.addEventListener('keydown', function(e) {
-                    if (e.key === 'Enter') doSearch();
-                });
-            }
             if (surpriseBtn) {
                 surpriseBtn.addEventListener('click', function() {
-                    surpriseBtn.textContent = '✨ Opening…';
+                    surpriseBtn.textContent = 'Opening...';
                     getIndex().then(function(articles) {
                         if (!articles.length) return;
                         var pick = articles[Math.floor(Math.random() * articles.length)];
@@ -1319,7 +1300,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
         }
 
         document.addEventListener('DOMContentLoaded', function() {
-            initSearch();
+            initArchiveActions();
             getIndex().then(function(articles) {
                 initCountBadge(articles);
                 initSpotlight(articles);

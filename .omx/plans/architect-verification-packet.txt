@@ -1,0 +1,6 @@
+﻿Architect verification packet:
+- PRD: .omx/plans/prd-articles-directory-navigation.md
+- Changed files: .eleventy.js, articles/index.njk, articles/topics.njk
+- Current diff: .omx/plans/ralph-current-diff.patch
+- Fresh evidence: npm run build PASS; node --check .eleventy.js PASS; generated /articles/, /articles/2/, and /articles/topics/prophecies-world-events/ pages verified.
+- Constraints: no date-based grouping; preserve article URLs/content/search; avoid editorial curation bias; group entry points must lead to browse states/lists.
