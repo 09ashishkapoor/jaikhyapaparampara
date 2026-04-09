@@ -1,55 +1,150 @@
 # Git Configuration
-# Ignore these files/folders when pushing to GitHub
+# Only essential build files are tracked. See README for project structure.
 
-# System files
+# ── System files ─────────────────────────────────────────────
 .DS_Store
 Thumbs.db
 desktop.ini
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 
-# Editor files
+# ── Editor / IDE ──────────────────────────────────────────────
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
+.kilocodemodes
+.omx/
 
-# Logs
+# ── Logs ──────────────────────────────────────────────────────
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Dependencies (if you add Node.js later)
+# ── Dependencies & lock files ─────────────────────────────────
 node_modules/
 package-lock.json
 yarn.lock
+.npm-cache/
 
-# Build outputs
+# ── Build outputs ─────────────────────────────────────────────
 _site/
 dist/
 build/
 .cache/
+version.json
 
-# Environment variables
+# ── Environment variables & secrets ───────────────────────────
 .env
 .env.local
 .env.production
 
-# Cloudflare
+# ── Cloudflare ────────────────────────────────────────────────
 .wrangler/
 wrangler.toml.backup
 
-# Temporary files
+# ── Python environments ───────────────────────────────────────
+.venv/
+.venv_docs/
+__pycache__/
+*.pyc
+
+# ── Temp / backup ─────────────────────────────────────────────
 *.tmp
 *.temp
 .tmp/
-
-# Documentation backups
 *.bak
 *.backup
 
-# OS specific
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-version.json
+# ── Git hooks (local only) ────────────────────────────────────
+.githooks/
+
+# ── Raw working files (not needed to build the site) ──────────
+markdownfiles_forblog/
+newImage_gallery_forwebsite/
+docs/
+website_redesign_plan/
+website_redesign_plan
+
+# ── Agent progress tracking files ─────────────────────────────
+_article_fix_progress.md
+_blog_conversion_progress.md
+_blog_conversion_progress_a.md
+_blog_conversion_progress_b.md
+_blog_conversion_progress_c.md
+_blog_conversion_progress_praveen.md
+🎯_START_HERE.txt
+
+# ── Internal audit / data files ───────────────────────────────
+audit_report.txt
+report.json
+all.txt
+other.txt
+articles_descending_order.txt
+youtube_ids.csv
+batukbhairavabrahmakavach.md
+
+# ── Internal-only documentation ───────────────────────────────
+AGENTS.md
+CONTRIBUTING.md
+ARTICLE_FIXING_PROMPT.md
+BLOG_MIGRATION_GUIDE.md
+DOCUMENTATION.md
+HINDI_SEO_CHECKLIST.md
+MIGRATION_COMPLETE.md
+PERFORMANCE_OPTIMIZATION_REPORT.md
+QUICK_PERFORMANCE_GUIDE.md
+SEO_ENHANCEMENTS_APPLIED.md
+SEO_HINDI_ENHANCEMENTS.md
+
+# ── Utility / maintenance Python scripts (not part of build) ──
+add_spiritual_insights.py
+analyze_lighthouse.py
+audit_site.py
+check_duplicates_final.py
+check_insights.py
+clean_guru_tags.py
+compare_reports.py
+convert_articles.py
+convert_blog_gemini.py
+convert_docx_to_markdown.py
+convert_transcript_format.py
+escape_quotes.py
+final_comparison.py
+find_and_move_redundant.py
+find_duplicates.py
+fix_all_quotes.py
+fix_quotes.py
+fix_string_quotes.py
+fix_yaml_indent.py
+isolate_small_transcripts.py
+lint_markdown_artifacts.py
+optimize_images.py
+run_server.py
+server.py
+seo_audit.py
+sort_articles.py
+standardize_dialogue_style.py
+standardize_dialogue_style_v2.py
+standardize_names.py
+test_minify_scripts.py
+update_article_links.py
+update_guru_seo.py
+update_build_info.bat
+update_build_info.sh
+start_local_server.bat
+create-critical-css.js
+script-optimizations.js
+
+# ── Random / unnamed root images (not referenced in site) ──────
+1761861220.png
+6r5ewiqha59g1.jpeg
+6r5ewiqha59g1.jpg
+6r5ewiqha59g1.webp
+main-qimg-7a14d87caf067bf98e335bc6b0d5da81-lq.jpg
+uywjs16z45454.jpg
+uywjs16z45454.webp
+1111.mp3
