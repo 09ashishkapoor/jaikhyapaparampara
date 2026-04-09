@@ -1,14 +1,38 @@
-# Jai Khyapa Parampara
+<div align="center">
 
-*Om Shri Gurubhyo Namaha*
+# 🔱 Jai Khyapa Parampara 🔱
 
-A devotional website dedicated to Gurushreshta Ma Adya Mahakali and Baba Kalabhairava. It contains wisdom and teachings of **Gurubaba Shyama Khyapa** — the ChaturthaPurusha , GuptaSadhaka of the Khyapa Parampara and **Shri Praveen RadhaKrishnan** founder of Kaliputra Mission and my Guru.The site publishes 1000+ articles: conversations, stories, spiritual discourses, and prophecies, originally spoken in Bengali and transcribed into English.
+### *ॐ श्री गुरुभ्यो नमः*
+### *Om Shri Gurubhyo Namaha*
 
-It also hosts free spiritual ebooks and sacred texts including the Adya Mahakali and Kalabhairava Sahasranamas with chanting guides.
+---
 
-Compiled by KaliPutra-Ashish. Curated with love for all seekers.
+**A living digital shrine to the Khyapa Parampara tradition**
 
-> Feel free to clone, fork, and build your own version.
+Dedicated to **Gurushreshta Ma Adya Mahakali** and **Baba Kalabhairava**
+
+</div>
+
+---
+
+This site preserves and shares the wisdom of two luminaries of the tradition:
+
+- 🕉️ **Gurubaba Shyama Khyapa** — ChaturthaPurusha, GuptaSadhaka of the Khyapa Parampara
+- 🙏 **Shri Praveen RadhaKrishnan** — Founder of Kaliputra Mission and my Guru
+
+1000+ articles: conversations, stories, spiritual discourses, and prophecies — originally spoken in Bengali, transcribed and translated into English.
+
+Also hosts **free spiritual ebooks and sacred texts** — including the Adya Mahakali and Kalabhairava Sahasranamas with chanting guides.
+
+*Compiled by KaliPutra-Ashish. Curated with love for all seekers.*
+
+---
+
+<div align="center">
+
+### 🌟 Clone it. Fork it. Build your own. Share the light. 🌟
+
+</div>
 
 ---
 

@@ -61,6 +61,7 @@ __pycache__/
 
 # ── Git hooks (local only) ────────────────────────────────────
 .githooks/
+.github/
 
 # ── Raw working files (not needed to build the site) ──────────
 markdownfiles_forblog/
