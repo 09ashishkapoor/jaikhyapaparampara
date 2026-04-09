@@ -26,7 +26,7 @@ The site contains **1,084 articles**: word-for-word conversations, Guru stories,
 
 ### The Tradition
 
-The Khyapa Parampara is a living Tantric lineage rooted in the worship of **Ma Kali** and **Kalabhairava Baba**. Its teachings are are available now in English. *Khyapas* — mean the divine mad who dont shy away from the truth. Irrespective of the consequences.   
+The Khyapa Parampara is a living Tantric lineage rooted in the worship of **Ma Kali** and **Kalabhairava Baba**. Its teachings are available now in English. *Khyapas* — mean the divine mad who dont shy away from the truth. Irrespective of the consequences.   
 
 This site documents two luminaries of the lineage:
 
