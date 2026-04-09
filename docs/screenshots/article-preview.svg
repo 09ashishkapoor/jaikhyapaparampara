@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320">
-  <rect width="640" height="320" fill="#fff8f0" rx="6"/>
-  <text x="24" y="36" fill="#5b4636" font-family="sans-serif" font-size="18" font-weight="700">Sample Article — Guru Conversation</text>
-  <rect x="24" y="52" width="592" height="220" rx="6" fill="#fff" stroke="#f0e6dc"/>
-  <text x="40" y="92" fill="#7a5a43" font-family="monospace" font-size="13">GURU SHYAMA KHYAPA: The teaching begins here...</text>
-  <text x="40" y="116" fill="#7a5a43" font-family="monospace" font-size="13">DEVOTEE: A short question from the devotee.</text>
-</svg>
