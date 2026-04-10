@@ -64,7 +64,7 @@ The site also hosts **free downloadable ebooks**:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/jaikhyapaparampara.git
+git clone https://github.com/09ashishkapoor/jaikhyapaparampara.git
 cd jaikhyapaparampara
 
 # Install dependencies
