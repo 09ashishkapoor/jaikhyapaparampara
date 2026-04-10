@@ -1,7 +1,0 @@
----
-permalink: /search-index.json
-eleventyExcludeFromCollections: true
----
-[{%- for article in collections.articles -%}
-{"title":{{ (article.data.title or "") | dump | safe }},"url":{{ article.url | dump | safe }},"description":{{ (article.data.description or "") | dump | safe }},"category":{{ (article.data.category or "") | dump | safe }},"tags":{{ (article.data.tags or []) | dump | safe }},"date":{{ article.date | isoDate | dump | safe }},"readingTime":{{ article.data.readingTime or 0 }}}{%- if not loop.last %},{% endif %}
-{%- endfor %}]

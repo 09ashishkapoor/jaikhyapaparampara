@@ -226,7 +226,8 @@ eleventyComputed:
             <h2 id="topic-browse-title" class="section-heading">Browse every title in this theme</h2>
             <p class="section-copy">Jump to a letter or scroll the full list. Articles are grouped alphabetically so the path stays neutral and easy to scan.</p>
 
-            {% if group.letters.length > 1 %}
+            {% assign lettersCount = group.letters | size %}
+            {% if lettersCount > 1 %}
             <nav class="letter-jump" aria-label="Jump to letter section">
                 {% for bucket in group.letters %}
                 <a href="#letter-{{ bucket.slug }}">{{ bucket.letter }} <span aria-hidden="true">·</span> {{ bucket.count }}</a>

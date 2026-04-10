@@ -53,7 +53,7 @@ The site also hosts **free downloadable ebooks**:
 | Layer | Technology |
 |---|---|
 | Static site generator | [Eleventy (11ty)](https://www.11ty.dev/) v2 |
-| Templating engine | Nunjucks |
+| Templating engine | [Liquid](https://shopify.github.io/liquid/) (Eleventy built-in) |
 | Content format | Markdown + YAML frontmatter + inline HTML |
 | Deployment | [Cloudflare Pages](https://pages.cloudflare.com/) (auto-deploy on push to `main`) |
 | Node version | 18 (pinned in `.node-version`) |
@@ -85,9 +85,9 @@ After cloning, the site builds and serves identically to production — no envir
 
 ```
 articles/                     # 1084 Markdown articles
-_includes/                    # Nunjucks templates
-│   base.njk                  #   Site shell (head, nav, footer)
-│   article.njk               #   Per-article layout
+_includes/                    # Liquid templates
+│   base.liquid               #   Site shell (head, nav, footer)
+│   article.liquid            #   Per-article layout
 images/                       # Site images (WebP optimised)
 markdownfiles_forblog/        # Raw YouTube transcript staging area
 │   tobeprocessed/            #   Awaiting conversion → articles/
@@ -100,8 +100,8 @@ wrangler.toml                 # Cloudflare Pages config
 styles.css / styles.min.css   # Stylesheet (source + minified)
 script.js  / script.min.js    # Frontend JS (source + minified)
 translations.js               # i18n strings (EN / HI)
-sitemap.njk                   # Sitemap template → sitemap.xml
-search-index.njk              # Client-side search index
+sitemap.liquid                # Sitemap template → sitemap.xml
+search-index.11ty.js          # Client-side search index (JS template)
 gallery.html                  # Sacred image gallery
 _headers                      # Cloudflare HTTP response headers
 _redirects                    # Cloudflare URL redirects

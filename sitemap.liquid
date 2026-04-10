@@ -41,7 +41,7 @@ eleventyExcludeFromCollections: true
   <!-- Blog Articles -->
   {% for article in collections.articles %}
   <url>
-    <loc>https://jaikhyapaparampara.com{{ article.url | replace("index.html", "") }}</loc>
+    <loc>https://jaikhyapaparampara.com{{ article.url | replace: 'index.html', '' }}</loc>
     <lastmod>{{ article.date | isoDate }}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -49,8 +49,10 @@ eleventyExcludeFromCollections: true
   {% endfor %}
 
   <!-- Tag Pages -->
-  {% for tag, posts in collections.all %}
-  {% if posts | length >= 3 %}
+  {% for tag in collections.allTags %}
+  {% assign posts = collections.all[tag] %}
+  {% assign postsSize = posts | size %}
+  {% if postsSize >= 3 %}
   <url>
     <loc>https://jaikhyapaparampara.com/tags/{{ tag | slugify }}/</loc>
     <lastmod>{{ posts[0].date | isoDate }}</lastmod>

@@ -74,7 +74,7 @@ permalink: /tags/{{ tag | slugify }}/
     </div>
 
     <div class="articles-grid">
-        {% set taglist = collections.all[ tag ] %}
+        {% assign taglist = collections.all[tag] %}
         {% for article in taglist %}
         <div class="article-card">
             <span class="article-card-category">{{ article.data.category }}</span>

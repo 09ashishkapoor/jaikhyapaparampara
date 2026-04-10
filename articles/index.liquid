@@ -5,15 +5,15 @@ pagination:
   data: collections.articlesAlpha
   size: 50
   alias: pagedArticles
-permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber | plus: 1 }}/{% endif %}index.html"
 eleventyComputed:
-  title: "{% if pagination.pageNumber > 0 %}Browse All Articles A-Z · Page {{ pagination.pageNumber + 1 }}{% else %}Articles Directory & Topics{% endif %}"
+  title: "{% if pagination.pageNumber > 0 %}Browse All Articles A-Z · Page {{ pagination.pageNumber | plus: 1 }}{% else %}Articles Directory & Topics{% endif %}"
 ---
 
-{% set currentPage = pagination.pageNumber + 1 %}
-{% set totalPages = pagination.pages.length %}
-{% set totalArticles = collections.articles | length %}
-{% set totalThemes = collections.browseGroups | length %}
+{% assign currentPage = pagination.pageNumber | plus: 1 %}
+{% assign totalPages = pagination.pages | size %}
+{% assign totalArticles = collections.articles | size %}
+{% assign totalThemes = collections.browseGroups | size %}
 
 <style>
 .archive-shell { padding: 3rem 0 4rem; }
@@ -409,7 +409,8 @@ eleventyComputed:
                 </div>
                 <h2 class="group-card-title">{{ group.name }}</h2>
                 <p class="group-card-copy">{{ group.description }}</p>
-                {% if group.categoryLabels.length %}
+                {% assign labelsSize = group.categoryLabels | size %}
+                {% if labelsSize > 0 %}
                 <div class="group-pill-row">
                     {% for label in group.categoryLabels %}
                     <span class="theme-pill">{{ label }}</span>
@@ -444,7 +445,7 @@ eleventyComputed:
 
         <ol class="articles-list" id="articlesGrid">
             {% for article in pagedArticles %}
-            <li class="article-row" data-title="{{ article.data.title | lower }}" data-description="{{ article.data.description | lower }}" data-tags="{{ article.data.tags | default([]) | join('|') | lower }}" data-category="{{ article.data.category | lower }}">
+            <li class="article-row" data-title="{{ article.data.title | downcase }}" data-description="{{ article.data.description | downcase }}" data-tags="{{ article.data.tags | join: '|' | downcase }}" data-category="{{ article.data.category | downcase }}">
                 <a href="{{ article.url }}" class="article-row-link">
                     <div class="article-row-header">
                         <span class="article-row-category">{{ article.data.category }}</span>
@@ -468,15 +469,22 @@ eleventyComputed:
             <a href="{{ pagination.hrefs[0] }}#browse-all" class="pagination-item {% if currentPage == 1 %}active{% endif %}">1</a>
             {% if currentPage > 4 %}<span class="pagination-item disabled">…</span>{% endif %}
 
-            {% for i in range(2, totalPages) %}
-                {% if i >= currentPage - 2 and i <= currentPage + 2 %}
-                    <a href="{{ pagination.hrefs[i - 1] }}#browse-all" class="pagination-item {% if currentPage == i %}active{% endif %}">{{ i }}</a>
-                {% endif %}
+            {% for href in pagination.hrefs %}
+                {%- assign loopIdx = forloop.index -%}
+                {%- unless forloop.first or forloop.last -%}
+                    {%- assign minPage = currentPage | minus: 2 -%}
+                    {%- assign maxPage = currentPage | plus: 2 -%}
+                    {%- if loopIdx >= minPage and loopIdx <= maxPage -%}
+                    <a href="{{ href }}#browse-all" class="pagination-item {% if currentPage == loopIdx %}active{% endif %}">{{ loopIdx }}</a>
+                    {%- endif -%}
+                {%- endunless -%}
             {% endfor %}
 
-            {% if currentPage < totalPages - 3 %}<span class="pagination-item disabled">…</span>{% endif %}
+            {%- assign maxShowPage = totalPages | minus: 3 -%}
+            {% if currentPage < maxShowPage %}<span class="pagination-item disabled">…</span>{% endif %}
+            {%- assign lastPageIdx = totalPages | minus: 1 -%}
             {% if totalPages > 1 %}
-                <a href="{{ pagination.hrefs[totalPages - 1] }}#browse-all" class="pagination-item {% if currentPage == totalPages %}active{% endif %}">{{ totalPages }}</a>
+                <a href="{{ pagination.hrefs[lastPageIdx] }}#browse-all" class="pagination-item {% if currentPage == totalPages %}active{% endif %}">{{ totalPages }}</a>
             {% endif %}
 
             {% if pagination.href.next %}

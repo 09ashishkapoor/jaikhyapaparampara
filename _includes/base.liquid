@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="{{ description or 'Jai Khyapa Parampara - Spiritual wisdom, articles, and sacred teachings' }}">
-    <meta name="robots" content="{{ robotsMeta or 'index, follow' }}">
+    <meta name="description" content="{{ description | default: 'Jai Khyapa Parampara - Spiritual wisdom, articles, and sacred teachings' }}">
+    <meta name="robots" content="{{ robotsMeta | default: 'index, follow' }}">
     <meta name="google" content="notranslate">
     <meta name="theme-color" content="#8B2635">
     <link rel="canonical" href="https://jaikhyapaparampara.com{{ page.url }}">
@@ -13,7 +13,7 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://jaikhyapaparampara.com{{ page.url }}">
     <meta property="og:title" content="{{ title }} | Jai Khyapa Parampara">
-    <meta property="og:description" content="{{ description or 'Jai Khyapa Parampara - Spiritual wisdom, articles, and sacred teachings' }}">
+    <meta property="og:description" content="{{ description | default: 'Jai Khyapa Parampara - Spiritual wisdom, articles, and sacred teachings' }}">
     <meta property="og:image" content="https://jaikhyapaparampara.com/Bama_Khepa.webp">
     <meta property="og:image:alt" content="Bama Khepa - Jai Khyapa Parampara">
     <meta property="og:site_name" content="Jai Khyapa Parampara">
@@ -21,7 +21,7 @@
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ title }} | Jai Khyapa Parampara">
-    <meta name="twitter:description" content="{{ description or 'Jai Khyapa Parampara - Spiritual wisdom, articles, and sacred teachings' }}">
+    <meta name="twitter:description" content="{{ description | default: 'Jai Khyapa Parampara - Spiritual wisdom, articles, and sacred teachings' }}">
     <meta name="twitter:image" content="https://jaikhyapaparampara.com/Bama_Khepa.webp">
     <meta name="twitter:image:alt" content="Bama Khepa - Jai Khyapa Parampara">
 
@@ -76,7 +76,7 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
     </header>
 
     <main>
-        {{ content | safe }}
+        {{ content }}
     </main>
 
     <footer class="footer">

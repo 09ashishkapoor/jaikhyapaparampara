@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="{{ description }}">
     <meta name="keywords" content="{{ keywords }}">
-    <meta name="author" content="{{ author or 'KaliPutra-Ashish' }}">
+    <meta name="author" content="{{ author | default: 'KaliPutra-Ashish' }}">
     <meta name="robots" content="index, follow">
     
     <!-- Google tag (gtag.js) -->
@@ -31,12 +31,12 @@
     <meta property="og:url" content="https://jaikhyapaparampara.com{{ page.url }}">
     <meta property="og:title" content="{{ title }}">
     <meta property="og:description" content="{{ description }}">
-    <meta property="og:image" content="https://jaikhyapaparampara.com/{{ featuredImage or 'Bama_Khepa.webp' }}">
+    <meta property="og:image" content="https://jaikhyapaparampara.com/{{ featuredImage | default: 'Bama_Khepa.webp' }}">
     <meta property="og:image:alt" content="{{ title }}">
     <meta property="og:site_name" content="Jai Khyapa Parampara">
     <meta property="og:locale" content="en_US">
     <meta property="article:published_time" content="{{ page.date | isoDate }}">
-    <meta property="article:author" content="{{ author or 'KaliPutra-Ashish' }}">
+    <meta property="article:author" content="{{ author | default: 'KaliPutra-Ashish' }}">
     <meta property="article:section" content="{{ category }}">
     {% for tag in tags %}
     {% if tag != "articles" %}
@@ -48,7 +48,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ title }}">
     <meta name="twitter:description" content="{{ description }}">
-    <meta name="twitter:image" content="https://jaikhyapaparampara.com/{{ featuredImage or 'Bama_Khepa.webp' }}">
+    <meta name="twitter:image" content="https://jaikhyapaparampara.com/{{ featuredImage | default: 'Bama_Khepa.webp' }}">
     <meta name="twitter:image:alt" content="{{ title }}">
     
     <!-- Favicon -->
@@ -66,12 +66,12 @@
       "@type": "Article",
       "headline": "{{ title }}",
       "description": "{{ description }}",
-      "image": "https://jaikhyapaparampara.com/{{ featuredImage or 'Bama_Khepa.webp' }}",
+      "image": "https://jaikhyapaparampara.com/{{ featuredImage | default: 'Bama_Khepa.webp' }}",
       "datePublished": "{{ page.date | isoDate }}",
       "dateModified": "{{ page.date | isoDate }}",
       "author": {
         "@type": "Person",
-        "name": "{{ (author or 'KaliPutra-Ashish') | replace('🗣️ ', '') }}"
+        "name": "{{ author | default: 'KaliPutra-Ashish' | replace: '🗣️ ', '' }}"
       },
       "publisher": {
         "@type": "Organization",
@@ -257,7 +257,7 @@ body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);bac
             <span>›</span>
             <a href="/articles/">Articles</a>
             <span>›</span>
-            <span>{{ breadcrumbTitle or title }}</span>
+            <span>{{ breadcrumbTitle | default: title }}</span>
         </nav>
     </div>
 
@@ -268,24 +268,25 @@ body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);bac
             <h1 class="article-title">{{ title }}</h1>
             <div class="article-meta">
                 <span>📅 {{ page.date | dateDisplay }}</span>
-                <span>{% if category not in ['Guru Stories', 'Sadhana', 'Philosophy', 'Guru Messages', 'Rituals & Yagyas', 'Our Roots', 'Temple of Knowledge'] %}✍️ {% endif %}{% if author and '🗣️' in author %}{% else %}By {% endif %}{{ author or 'KaliPutra-Ashish' }}</span>
+                <span>{% unless category == 'Guru Stories' or category == 'Sadhana' or category == 'Philosophy' or category == 'Guru Messages' or category == 'Rituals & Yagyas' or category == 'Our Roots' or category == 'Temple of Knowledge' %}✍️ {% endunless %}{% if author contains '🗣️' %}{% else %}By {% endif %}{{ author | default: 'KaliPutra-Ashish' }}</span>
                 {% if readingTime %}<span>⏱ {{ readingTime }} min read</span>{% endif %}
             </div>
             {% if source %}
             <div class="article-source">
-                {{ source | safe }}
+                {{ source }}
             </div>
             {% endif %}
         </header>
 
         <!-- Article Content -->
         <div class="article-content">
-            {{ content | safe }}
+            {{ content }}
         </div>
 
         <!-- Related Articles -->
-        {% set related = collections.articles | relatedArticles(tags, page.url) %}
-        {% if related | length %}
+        {% assign related = collections.articles | relatedArticles: tags, page.url %}
+        {% assign relatedSize = related | size %}
+        {% if relatedSize > 0 %}
         <section class="related-articles">
             <div class="container">
                 <h3 class="related-articles-title">✦ Related Articles</h3>
@@ -295,7 +296,7 @@ body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);bac
                         <span class="related-article-category">{{ item.data.category }}</span>
                         <span class="related-article-name">{{ item.data.title }}</span>
                         <span class="related-article-excerpt">{{ item.data.description }}</span>
-                        <span class="related-article-meta">⏱ {{ item.data.readingTime or '?' }} min · {{ item.date | dateDisplay }}</span>
+                        <span class="related-article-meta">⏱ {{ item.data.readingTime | default: '?' }} min · {{ item.date | dateDisplay }}</span>
                     </a>
                     {% endfor %}
                 </div>
