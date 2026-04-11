@@ -177,6 +177,43 @@ main {
     animation: slideIn 0.3s ease-out;
 }
 
+/* Mobile hamburger toggle button - hidden by default */
+.nav-toggle {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 6px;
+    min-width: 44px;
+    min-height: 44px;
+    flex-shrink: 0;
+}
+
+.nav-toggle span {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background: var(--accent-color);
+    border-radius: 2px;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.nav-toggle[aria-expanded="true"] span:nth-child(1) {
+    transform: translateY(7px) rotate(45deg);
+}
+
+.nav-toggle[aria-expanded="true"] span:nth-child(2) {
+    opacity: 0;
+}
+
+.nav-toggle[aria-expanded="true"] span:nth-child(3) {
+    transform: translateY(-7px) rotate(-45deg);
+}
+
 /* Language Toggle Styles */
 .nav-controls {
     display: flex;
@@ -1727,50 +1764,60 @@ main {
     }
 
     .header {
-        padding: 0.75rem 0;
+        padding: 0.5rem 0;
     }
 
     .nav {
         flex-wrap: wrap;
-        justify-content: space-between;
-        align-items: flex-start;
+        align-items: center;
+    }
+
+    .logo {
+        flex: 1;
     }
 
     .logo h1 {
-        font-size: 1.4rem;
+        font-size: 1.3rem;
         word-break: break-word;
     }
 
     .nav-controls {
         display: flex;
         align-items: center;
-        gap: 1rem;
+        gap: 0.75rem;
         order: 2;
         min-height: 44px;
-        /* CRITICAL: Prevent CLS from dynamic resizing */
-        min-width: 120px;
+    }
+
+    .nav-toggle {
+        display: flex;
     }
 
     .nav-menu {
-        display: flex;
+        display: none;
         order: 3;
         width: 100%;
-        flex-direction: row;
-        justify-content: center;
-        gap: 1rem;
-        padding-top: 0.5rem;
-        flex-wrap: wrap;
+        flex-direction: column;
+        gap: 0;
+        padding: 0.25rem 0;
+    }
+
+    .nav-menu.open {
+        display: flex;
     }
 
     .nav-menu a {
         font-size: 0.95rem;
-        padding: 0.5rem 0.8rem;
+        padding: 0.75rem 0.75rem;
         min-height: 44px;
-        min-width: 44px;
         display: flex;
         align-items: center;
-        justify-content: center;
+        border-bottom: 1px solid rgba(232, 196, 104, 0.12);
         white-space: nowrap;
+    }
+
+    .nav-menu li:last-child a {
+        border-bottom: none;
     }
 
     /* Hero Section Mobile */
@@ -1930,19 +1977,13 @@ main {
     }
 
     .logo h1 {
-        font-size: 1.1rem;
+        font-size: 1rem;
         word-break: break-word;
     }
 
-    .nav-menu {
-        gap: 0.75rem;
-        font-size: 0.85rem;
-    }
-
     .nav-menu a {
-        font-size: 0.85rem;
-        padding: 0.4rem 0.6rem;
-        min-width: 40px;
+        font-size: 0.92rem;
+        padding: 0.7rem 0.75rem;
     }
 
     #audio-toggle {

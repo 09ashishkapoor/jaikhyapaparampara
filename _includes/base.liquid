@@ -48,11 +48,21 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
 .footer-blessing{font-size:1.2rem;font-weight:600;margin-bottom:0.5rem;color:var(--accent-color);text-shadow:1px 1px 2px rgba(0,0,0,0.5);}
 .footer-description{font-size:1.05rem;margin-bottom:0.5rem;font-style:italic;color:var(--text-dark);}
 .footer-meta{font-size:0.95rem;color:var(--text-dark);opacity:0.9;}
+.nav-toggle{display:none;flex-direction:column;justify-content:center;align-items:center;gap:5px;background:none;border:none;cursor:pointer;padding:6px;min-width:44px;min-height:44px;flex-shrink:0;}
+.nav-toggle span{display:block;width:22px;height:2px;background:var(--accent-color);border-radius:2px;transition:transform 0.3s ease,opacity 0.3s ease;}
+.nav-toggle[aria-expanded="true"] span:nth-child(1){transform:translateY(7px) rotate(45deg);}
+.nav-toggle[aria-expanded="true"] span:nth-child(2){opacity:0;}
+.nav-toggle[aria-expanded="true"] span:nth-child(3){transform:translateY(-7px) rotate(-45deg);}
 @media(max-width:768px){
-.header{padding:0.6rem 0;min-height:auto;}
-.nav{flex-direction:column;gap:0.6rem;text-align:center;}
-.logo .logo-title{font-size:1.3rem;}
-.nav-menu{gap:1.2rem;font-size:0.9rem;width:100%;justify-content:center;}
+.header{padding:0.5rem 0;min-height:auto;}
+.nav{flex-wrap:wrap;align-items:center;}
+.logo{flex:1;}
+.logo .logo-title{font-size:1.2rem;}
+.nav-toggle{display:flex;order:2;}
+.nav-menu{display:none;order:3;width:100%;flex-direction:column;gap:0;padding:0.25rem 0;}
+.nav-menu.open{display:flex;}
+.nav-menu a{font-size:0.95rem;padding:0.75rem 0.5rem;min-height:44px;display:flex;align-items:center;border-bottom:1px solid rgba(232,196,104,0.12);}
+.nav-menu li:last-child a{border-bottom:none;}
 }
     </style>
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -66,6 +76,11 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
             <div class="logo">
                 <div class="logo-title"><a href="/" style="text-decoration:none;color:inherit;" translate="no">JAI KHYAPA PARAMPARA</a></div>
             </div>
+            <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
             <ul class="nav-menu">
                 <li><a href="/#sacred-texts">Temple of Knowledge</a></li>
                 <li><a href="/articles/" class="active">Articles</a></li>
@@ -91,5 +106,29 @@ body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);bac
             </div>
         </div>
     </footer>
+    <script>
+    (function(){
+        var toggle = document.querySelector('.nav-toggle');
+        var menu = document.querySelector('.nav-menu');
+        if (!toggle || !menu) return;
+        toggle.addEventListener('click', function(){
+            var isOpen = menu.classList.toggle('open');
+            toggle.setAttribute('aria-expanded', String(isOpen));
+        });
+        menu.querySelectorAll('a').forEach(function(link){
+            link.addEventListener('click', function(){
+                menu.classList.remove('open');
+                toggle.setAttribute('aria-expanded', 'false');
+            });
+        });
+        document.addEventListener('click', function(e){
+            var header = toggle.closest('header');
+            if (header && !header.contains(e.target)) {
+                menu.classList.remove('open');
+                toggle.setAttribute('aria-expanded', 'false');
+            }
+        });
+    })();
+    </script>
 </body>
 </html>

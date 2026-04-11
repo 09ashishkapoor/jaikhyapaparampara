@@ -678,7 +678,30 @@ const initParallax = () => {
 
 // Mobile menu is now always visible, no toggle needed
 const createMobileMenu = () => {
-    // Navigation is responsive via CSS - no JS needed
+    const toggle = document.querySelector('.nav-toggle');
+    const menu = document.querySelector('.nav-menu');
+    if (!toggle || !menu) return;
+
+    toggle.addEventListener('click', () => {
+        const isOpen = menu.classList.toggle('open');
+        toggle.setAttribute('aria-expanded', String(isOpen));
+    });
+
+    // Close when a nav link is clicked
+    menu.querySelectorAll('a').forEach(link => {
+        link.addEventListener('click', () => {
+            menu.classList.remove('open');
+            toggle.setAttribute('aria-expanded', 'false');
+        });
+    });
+
+    // Close when clicking outside the header
+    document.addEventListener('click', (e) => {
+        if (!toggle.closest('header').contains(e.target)) {
+            menu.classList.remove('open');
+            toggle.setAttribute('aria-expanded', 'false');
+        }
+    });
 };
 
 // Track download clicks for analytics (optional)
