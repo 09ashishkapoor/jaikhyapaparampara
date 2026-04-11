@@ -1,0 +1,297 @@
+---
+layout: base
+description: "Browse Jai Khyapa Parampara articles in A-Z order, switch back to newest first, and explore spiritual teachings through clear archive paths."
+pagination:
+  data: collections.articlesAlpha
+  size: 50
+  alias: pagedArticles
+permalink: "/articles/a-z/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber | plus: 1 }}/{% endif %}index.html"
+eleventyComputed:
+  title: "{% if pagination.pageNumber > 0 %}Articles A-Z - Page {{ pagination.pageNumber | plus: 1 }}{% else %}Articles A-Z Archive{% endif %}"
+---
+
+{% assign currentPage = pagination.pageNumber | plus: 1 %}
+{% assign totalPages = pagination.pages | size %}
+{% assign totalArticles = collections.articles | size %}
+
+<style>
+.archive-shell { padding: 3rem 0 4rem; }
+.archive-header { text-align: center; margin-bottom: 2rem; }
+.archive-eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    padding: 0.45rem 1rem;
+    border-radius: 999px;
+    border: 1px solid var(--border-gold);
+    background: rgba(232, 196, 104, 0.08);
+    color: var(--accent-color);
+    font-family: 'Philosopher', sans-serif;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    font-size: 0.82rem;
+}
+.archive-title {
+    font-family: 'Philosopher', sans-serif;
+    color: var(--accent-bright);
+    font-size: clamp(2.15rem, 4vw, 3.2rem);
+    margin: 1.25rem auto 0.85rem;
+    line-height: 1.12;
+    max-width: 900px;
+}
+.archive-description {
+    max-width: 860px;
+    margin: 0 auto;
+    font-size: 1.08rem;
+    color: var(--text-dark);
+    opacity: 0.9;
+}
+.directory-panel {
+    border: 1px solid var(--border-gold);
+    border-radius: 24px;
+    background: linear-gradient(145deg, rgba(45,15,24,0.52) 0%, rgba(17,6,9,0.96) 100%);
+    box-shadow: 0 22px 50px rgba(0, 0, 0, 0.2);
+    padding: 1.4rem;
+    margin-bottom: 2.5rem;
+}
+.browse-everything {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 1.2rem;
+}
+.sort-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    flex-wrap: wrap;
+}
+.sort-pill {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 42px;
+    padding: 0.7rem 1rem;
+    border-radius: 999px;
+    border: 1px solid var(--border-gold);
+    color: var(--accent-bright);
+    background: rgba(255,255,255,0.03);
+    text-decoration: none;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 0.9rem;
+    transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+}
+.sort-pill:hover {
+    background: rgba(232,196,104,0.12);
+    border-color: var(--accent-color);
+    transform: translateY(-1px);
+}
+.sort-pill.active {
+    background: var(--gold-gradient);
+    color: var(--light-bg);
+    font-weight: 700;
+}
+.a-z-label {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.4rem 0.75rem;
+    border-radius: 999px;
+    border: 1px solid var(--border-gold);
+    color: var(--accent-color);
+    background: rgba(232, 196, 104, 0.06);
+    font-family: 'Philosopher', sans-serif;
+    font-size: 0.88rem;
+}
+.fallback-heading {
+    font-family: 'Philosopher', sans-serif;
+    color: var(--accent-bright);
+    font-size: 1.9rem;
+    margin-top: 0.4rem;
+}
+.fallback-copy {
+    color: var(--text-dark);
+    opacity: 0.85;
+    max-width: 760px;
+}
+.articles-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid rgba(232,196,104,0.22);
+}
+.article-row {
+    border-bottom: 1px solid rgba(232,196,104,0.16);
+}
+.article-row-link {
+    display: block;
+    padding: 1rem 0.95rem;
+    color: inherit;
+    text-decoration: none;
+    border-left: 3px solid transparent;
+    transition: border-left-color 0.2s ease, background 0.2s ease;
+}
+.article-row-link:hover {
+    border-left-color: var(--accent-color);
+    background: rgba(232,196,104,0.05);
+}
+.article-row-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.35rem;
+}
+.article-row-category {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.2rem 0.7rem;
+    border-radius: 999px;
+    border: 1px solid rgba(232,196,104,0.38);
+    color: var(--accent-color);
+    font-size: 0.8rem;
+    white-space: nowrap;
+}
+.article-row-meta {
+    color: var(--text-dark);
+    opacity: 0.7;
+    font-size: 0.84rem;
+}
+.article-row-title {
+    font-family: 'Philosopher', sans-serif;
+    color: var(--accent-bright);
+    font-size: 1.12rem;
+    margin-bottom: 0.15rem;
+    line-height: 1.35;
+}
+.article-row-excerpt {
+    color: var(--text-dark);
+    opacity: 0.82;
+    line-height: 1.55;
+}
+.pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+}
+.pagination-item {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 46px;
+    min-height: 46px;
+    padding: 0.75rem 1rem;
+    border-radius: 14px;
+    border: 1px solid var(--border-gold);
+    color: var(--accent-bright);
+    background: rgba(255,255,255,0.03);
+    text-decoration: none;
+}
+.pagination-item.active {
+    background: var(--gold-gradient);
+    color: var(--light-bg);
+    font-weight: 700;
+}
+.pagination-item.disabled {
+    opacity: 0.45;
+    cursor: not-allowed;
+}
+.pagination-note {
+    margin-top: 0.75rem;
+    text-align: center;
+    color: var(--text-dark);
+    opacity: 0.7;
+    font-size: 0.88rem;
+}
+@media (max-width: 768px) {
+    .archive-shell { padding-top: 2rem; }
+    .directory-panel { padding: 1rem; }
+    .fallback-heading { font-size: 1.55rem; }
+    .article-row-link { padding: 0.9rem 0.7rem; }
+}
+</style>
+
+<div class="container archive-shell">
+    <header class="archive-header">
+        <span class="archive-eyebrow">Library of Sacred Teachings</span>
+        <h1 class="archive-title">Browse the archive alphabetically when you know roughly what you want to find.</h1>
+        <p class="archive-description">
+            The A-Z path is useful when title scanning matters more than recency. Switch back to newest first whenever you want to see fresh additions.
+        </p>
+    </header>
+
+    <section id="browse-all" class="directory-panel" aria-labelledby="browse-all-title">
+        <div class="browse-everything">
+            <div>
+                <span class="a-z-label">A-Z archive</span>
+                <h2 id="browse-all-title" class="fallback-heading">Browse every article by title</h2>
+                <p class="fallback-copy">
+                    You are viewing page {{ currentPage }} of {{ totalPages }} in the full alphabetical archive.
+                </p>
+            </div>
+            <div class="sort-toggle" aria-label="Archive sort options">
+                <a class="sort-pill" href="/articles/#browse-all">Newest</a>
+                <a class="sort-pill active" href="/articles/a-z/#browse-all">A-Z</a>
+            </div>
+        </div>
+
+        <ol class="articles-list" id="articlesGrid">
+            {% for article in pagedArticles %}
+            <li class="article-row">
+                <a href="{{ article.url }}" class="article-row-link">
+                    <div class="article-row-header">
+                        <span class="article-row-category">{{ article.data.category }}</span>
+                        <span class="article-row-meta">{{ article.date | dateDisplay }}{% if article.data.readingTime %} · {{ article.data.readingTime }} min{% endif %}</span>
+                    </div>
+                    <h2 class="article-row-title">{{ article.data.title }}</h2>
+                    <p class="article-row-excerpt">{{ article.data.description }}</p>
+                </a>
+            </li>
+            {% endfor %}
+        </ol>
+
+        {% if totalPages > 1 %}
+        <nav class="pagination" aria-label="Alphabetical article pages">
+            {% if pagination.href.previous %}
+                <a href="{{ pagination.href.previous }}#browse-all" class="pagination-item"><- Prev</a>
+            {% else %}
+                <span class="pagination-item disabled"><- Prev</span>
+            {% endif %}
+
+            <a href="{{ pagination.hrefs[0] }}#browse-all" class="pagination-item {% if currentPage == 1 %}active{% endif %}">1</a>
+            {% if currentPage > 4 %}<span class="pagination-item disabled">...</span>{% endif %}
+
+            {% for href in pagination.hrefs %}
+                {%- assign loopIdx = forloop.index -%}
+                {%- unless forloop.first or forloop.last -%}
+                    {%- assign minPage = currentPage | minus: 2 -%}
+                    {%- assign maxPage = currentPage | plus: 2 -%}
+                    {%- if loopIdx >= minPage and loopIdx <= maxPage -%}
+                    <a href="{{ href }}#browse-all" class="pagination-item {% if currentPage == loopIdx %}active{% endif %}">{{ loopIdx }}</a>
+                    {%- endif -%}
+                {%- endunless -%}
+            {% endfor %}
+
+            {%- assign maxShowPage = totalPages | minus: 3 -%}
+            {% if currentPage < maxShowPage %}<span class="pagination-item disabled">...</span>{% endif %}
+            {%- assign lastPageIdx = totalPages | minus: 1 -%}
+            {% if totalPages > 1 %}
+                <a href="{{ pagination.hrefs[lastPageIdx] }}#browse-all" class="pagination-item {% if currentPage == totalPages %}active{% endif %}">{{ totalPages }}</a>
+            {% endif %}
+
+            {% if pagination.href.next %}
+                <a href="{{ pagination.href.next }}#browse-all" class="pagination-item">Next -></a>
+            {% else %}
+                <span class="pagination-item disabled">Next -></span>
+            {% endif %}
+        </nav>
+        <p class="pagination-note">Page {{ currentPage }} of {{ totalPages }} · {{ totalArticles }} total articles · sorted A-Z</p>
+        {% endif %}
+    </section>
+</div>

@@ -639,6 +639,20 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
     .hp-search-hint a{color:var(--accent-color);text-decoration:none;border-bottom:1px solid var(--border-gold);}
     .hp-search-hint a:hover{opacity:1;border-color:var(--accent-color);}
 
+    /* Recently Added */
+    .hp-recent{padding:3.5rem 0;border-bottom:1px solid var(--border-gold);}
+    .hp-recent-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem;}
+    .hp-recent-card{display:flex;flex-direction:column;gap:0.55rem;padding:1.2rem 1.3rem;border:1px solid var(--border-gold);border-radius:10px;background:rgba(45,15,24,0.3);text-decoration:none;transition:all 0.3s ease;}
+    .hp-recent-card:hover{border-color:var(--accent-color);background:rgba(45,15,24,0.55);transform:translateY(-2px);}
+    .hp-recent-meta{display:flex;justify-content:space-between;gap:0.7rem;flex-wrap:wrap;font-size:0.82rem;color:var(--accent-color);opacity:0.85;}
+    .hp-recent-category{display:inline-flex;align-items:center;padding:0.18rem 0.65rem;border:1px solid rgba(232,196,104,0.38);border-radius:999px;}
+    .hp-recent-title{font-family:'Philosopher',sans-serif;color:var(--accent-bright);font-size:1.08rem;line-height:1.35;}
+    .hp-recent-desc{font-size:0.92rem;color:var(--text-dark);opacity:0.78;line-height:1.55;}
+    .hp-recent-cta{margin-top:0.2rem;font-size:0.88rem;color:var(--accent-color);font-weight:700;}
+    .hp-recent-footer{margin-top:1.4rem;text-align:center;}
+    .hp-recent-link{display:inline-flex;align-items:center;justify-content:center;gap:0.45rem;padding:0.8rem 1.5rem;border-radius:999px;border:1px solid var(--border-gold);color:var(--accent-bright);text-decoration:none;font-family:'Philosopher',sans-serif;transition:all 0.3s ease;}
+    .hp-recent-link:hover{border-color:var(--accent-color);background:rgba(232,196,104,0.1);transform:translateY(-1px);}
+
     /* ── Article of the Day ── */
     .hp-spotlight{background:linear-gradient(135deg,rgba(18,7,12,0.95) 0%,rgba(31,11,17,0.95) 100%);padding:3.5rem 0;}
     .hp-spotlight-card{max-width:820px;margin:0 auto;padding:2rem 2.5rem;border:1px solid var(--border-gold);border-radius:10px;background:rgba(45,15,24,0.35);position:relative;}
@@ -677,6 +691,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
     .hp-search-row{flex-direction:column;}
     .hp-search-btn{width:100%;}
     .hp-surprise-btn{width:100%;max-width:620px;}
+    .hp-recent-grid{grid-template-columns:1fr;}
     .hp-spotlight-card{padding:1.4rem 1.2rem;}
     .hp-spotlight-title{font-size:1.4rem;}
     .hp-start-item{padding:1rem 1rem;}
@@ -690,7 +705,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
             <div class="hp-search-inner">
                 <div class="hp-count-badge">✦ <strong><span id="hp-count-num">{{ collections.articles | size }}</span> sacred articles</strong> — and counting</div>
                 <form class="hp-search-row" action="/search/" method="get" role="search" style="gap:0.7rem;width:100%;max-width:620px;display:flex;align-items:center;justify-content:center;">
-                    <input type="search" name="q" placeholder="Search teachings, topics, keywords…" autocomplete="off" autocorrect="off" spellcheck="false" aria-label="Search articles" style="flex:1;padding:0.9rem 1.2rem;border-radius:30px;border:1.5px solid var(--border-gold);background:rgba(45,15,24,0.7);color:var(--text-light);font-family:'Crimson Text',serif;font-size:1.05rem;outline:none;min-height:48px;">
+                    <input type="search" name="q" placeholder="Search teachings, topics, keywords..." autocomplete="off" autocorrect="off" spellcheck="false" aria-label="Search articles" style="flex:1;padding:0.9rem 1.2rem;border-radius:30px;border:1.5px solid var(--border-gold);background:rgba(45,15,24,0.7);color:var(--text-light);font-family:'Crimson Text',serif;font-size:1.05rem;outline:none;min-height:48px;">
                     <button type="submit" class="hp-search-btn" style="background:var(--gold-gradient);color:var(--light-bg);border:none;padding:0.95rem 1.6rem;border-radius:30px;font-size:1rem;font-family:'Philosopher',sans-serif;font-weight:700;cursor:pointer;flex-shrink:0;transition:all 0.3s ease;text-decoration:none;display:inline-flex;align-items:center;justify-content:center;">Search</button>
                 </form>
                 <button id="hp-surprise-btn" class="hp-surprise-btn" aria-label="Go to a random article">🎲 Surprise Me</button>
@@ -700,6 +715,29 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
     </section>
 
     <!-- ② Article of the Day -->
+    <section class="hp-recent" id="recently-added">
+        <div class="container">
+            <h2 class="hp-section-title">Recently Added</h2>
+            <p class="hp-section-subtitle">New articles surface here first, so fresh teachings are easy to find</p>
+            <div class="hp-recent-grid">
+                {% for article in collections.articles limit: 6 %}
+                <a href="{{ article.url }}" class="hp-recent-card">
+                    <div class="hp-recent-meta">
+                        <span class="hp-recent-category">{{ article.data.category }}</span>
+                        <span>{{ article.date | dateDisplay }}</span>
+                    </div>
+                    <span class="hp-recent-title">{{ article.data.title }}</span>
+                    <span class="hp-recent-desc">{{ article.data.description }}</span>
+                    <span class="hp-recent-cta">Read article -></span>
+                </a>
+                {% endfor %}
+            </div>
+            <div class="hp-recent-footer">
+                <a href="/articles/" class="hp-recent-link">Open latest articles archive -></a>
+            </div>
+        </div>
+    </section>
+
     <section class="hp-spotlight" id="article-spotlight">
         <div class="container">
             <h2 class="hp-section-title">✦ Article of the Day</h2>
