@@ -80,6 +80,28 @@ eleventyComputed:
     flex-wrap: wrap;
     margin-bottom: 2.4rem;
 }
+.archive-search-input {
+    flex: 1;
+    min-width: 220px;
+    max-width: 380px;
+    padding: 0.9rem 1.2rem;
+    border-radius: 12px;
+    border: 1.5px solid var(--border-gold);
+    background: rgba(45,15,24,0.6);
+    color: var(--text-light);
+    font-family: 'Crimson Text', serif;
+    font-size: 1.05rem;
+    outline: none;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    min-height: 48px;
+}
+.archive-search-input::placeholder { color: rgba(240,220,200,0.4); }
+.archive-search-input:focus {
+    border-color: var(--accent-color);
+    box-shadow: 0 0 0 3px rgba(232,196,104,0.15);
+}
+    margin-bottom: 2.4rem;
+}
 .surprise-btn,
 .cta-link,
 .pagination-item,
@@ -385,10 +407,21 @@ eleventyComputed:
     </section>
     {% endif %}
 
-    <div class="search-panel">
-        <a class="cta-link" href="#browse-all">Enter the A-Z library</a>
-        <button id="surpriseMe" class="surprise-btn" title="Take me to a random article">Surprise Me</button>
-    </div>
+    <form class="search-panel" id="articleSearchForm" action="/search/" method="get" role="search">
+        <input
+            type="search"
+            name="q"
+            id="articleSearchInput"
+            class="archive-search-input"
+            placeholder="Search teachings, topics, keywords…"
+            autocomplete="off"
+            autocorrect="off"
+            spellcheck="false"
+            aria-label="Search all articles"
+        >
+        <button type="submit" class="cta-link" style="min-height:48px;padding:0.9rem 1.35rem;">Search</button>
+        <button id="surpriseMe" class="surprise-btn" title="Take me to a random article" type="button">Surprise Me</button>
+    </form>
 
     {% if currentPage == 1 %}
     <section class="directory-panel" aria-labelledby="theme-directory-title">

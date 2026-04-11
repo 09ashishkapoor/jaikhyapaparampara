@@ -1,0 +1,387 @@
+---
+layout: base
+title: "Search Articles"
+description: "Search all spiritual teachings, conversations, and articles from Jai Khyapa Parampara."
+permalink: "/search/index.html"
+eleventyExcludeFromCollections: true
+---
+
+<style>
+.search-shell { padding: 3rem 0 4rem; }
+.search-header { text-align: center; margin-bottom: 2.5rem; }
+.search-eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    padding: 0.45rem 1rem;
+    border-radius: 999px;
+    border: 1px solid var(--border-gold);
+    background: rgba(232,196,104,0.08);
+    color: var(--accent-color);
+    font-family: 'Philosopher', sans-serif;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    font-size: 0.82rem;
+}
+.search-title {
+    font-family: 'Philosopher', sans-serif;
+    color: var(--accent-bright);
+    font-size: clamp(2rem, 4vw, 3rem);
+    margin: 1rem auto 0.75rem;
+    line-height: 1.15;
+}
+.search-description {
+    color: var(--text-dark);
+    opacity: 0.85;
+    font-size: 1.05rem;
+    max-width: 640px;
+    margin: 0 auto;
+}
+/* Search bar */
+.search-bar-wrap {
+    display: flex;
+    gap: 0.65rem;
+    max-width: 660px;
+    margin: 2.2rem auto 0;
+    align-items: stretch;
+}
+.search-input {
+    flex: 1;
+    padding: 0.9rem 1.2rem;
+    border-radius: 12px;
+    border: 1.5px solid var(--border-gold);
+    background: rgba(45,15,24,0.6);
+    color: var(--text-light);
+    font-family: 'Crimson Text', serif;
+    font-size: 1.1rem;
+    outline: none;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    min-height: 52px;
+}
+.search-input::placeholder { color: rgba(240,220,200,0.45); }
+.search-input:focus {
+    border-color: var(--accent-color);
+    box-shadow: 0 0 0 3px rgba(232,196,104,0.15);
+}
+.search-clear-btn {
+    padding: 0.9rem 1.3rem;
+    border-radius: 12px;
+    border: 1.5px solid var(--border-gold);
+    background: transparent;
+    color: var(--accent-color);
+    font-family: 'Philosopher', sans-serif;
+    font-size: 0.98rem;
+    cursor: pointer;
+    transition: background 0.2s ease, border-color 0.2s ease;
+    display: none;
+    min-height: 52px;
+    white-space: nowrap;
+}
+.search-clear-btn:hover { background: rgba(232,196,104,0.1); border-color: var(--accent-color); }
+/* Status line */
+.search-status {
+    text-align: center;
+    margin: 1.2rem 0 0.5rem;
+    font-size: 0.92rem;
+    color: var(--text-dark);
+    opacity: 0.72;
+    min-height: 1.3em;
+}
+/* Results */
+.search-results-panel {
+    border: 1px solid var(--border-gold);
+    border-radius: 20px;
+    background: linear-gradient(145deg, rgba(45,15,24,0.52) 0%, rgba(17,6,9,0.96) 100%);
+    box-shadow: 0 22px 50px rgba(0,0,0,0.2);
+    padding: 0.5rem 1rem;
+    margin-top: 1.5rem;
+}
+.results-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid rgba(232,196,104,0.18);
+}
+.result-item {
+    border-bottom: 1px solid rgba(232,196,104,0.12);
+}
+.result-link {
+    display: block;
+    padding: 1rem 0.95rem;
+    color: inherit;
+    text-decoration: none;
+    border-left: 3px solid transparent;
+    transition: border-left-color 0.2s ease, background 0.2s ease;
+}
+.result-link:hover {
+    border-left-color: var(--accent-color);
+    background: rgba(232,196,104,0.05);
+}
+.result-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.35rem;
+}
+.result-category {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.2rem 0.7rem;
+    border-radius: 999px;
+    border: 1px solid rgba(232,196,104,0.38);
+    color: var(--accent-color);
+    font-size: 0.8rem;
+    white-space: nowrap;
+}
+.result-meta {
+    color: var(--text-dark);
+    opacity: 0.65;
+    font-size: 0.84rem;
+}
+.result-title {
+    font-family: 'Philosopher', sans-serif;
+    color: var(--accent-bright);
+    font-size: 1.12rem;
+    margin-bottom: 0.15rem;
+    line-height: 1.35;
+}
+.result-excerpt {
+    color: var(--text-dark);
+    opacity: 0.82;
+    line-height: 1.55;
+    font-size: 0.97rem;
+}
+mark {
+    background: rgba(232,196,104,0.3);
+    color: var(--accent-bright);
+    padding: 0 2px;
+    border-radius: 3px;
+}
+/* Empty/loading states */
+.search-empty {
+    text-align: center;
+    padding: 3rem 1rem;
+    color: var(--text-dark);
+    opacity: 0.65;
+}
+.search-empty p { margin-bottom: 0.6rem; }
+.search-empty a { color: var(--accent-color); text-decoration: none; border-bottom: 1px solid var(--border-gold); }
+.search-placeholder {
+    text-align: center;
+    padding: 3.5rem 1rem;
+    color: var(--text-dark);
+    opacity: 0.5;
+}
+.results-header-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    padding: 0.75rem 0.95rem 0.5rem;
+    font-size: 0.9rem;
+    color: var(--text-dark);
+    opacity: 0.75;
+    border-bottom: 1px solid rgba(232,196,104,0.15);
+}
+@media (max-width: 640px) {
+    .search-bar-wrap { flex-direction: column; }
+    .search-clear-btn { display: block !important; width: 100%; text-align: center; }
+}
+</style>
+
+<div class="container search-shell">
+    <header class="search-header">
+        <span class="search-eyebrow">✦ Search the Library</span>
+        <h1 class="search-title">Search All Articles</h1>
+        <p class="search-description">Search across 500+ teachings — by title, topic, keyword, or any word spoken by Guru Shyama Khyapa.</p>
+
+        <div class="search-bar-wrap">
+            <input
+                type="search"
+                id="searchInput"
+                class="search-input"
+                placeholder="Search teachings, topics, keywords…"
+                autocomplete="off"
+                autocorrect="off"
+                spellcheck="false"
+                aria-label="Search articles"
+            >
+            <button id="clearBtn" class="search-clear-btn" aria-label="Clear search">Clear</button>
+        </div>
+        <p class="search-status" id="searchStatus" aria-live="polite"></p>
+    </header>
+
+    <div class="search-results-panel" id="resultsPanel">
+        <div class="search-placeholder" id="searchPlaceholder">
+            <p>Start typing to search all articles.</p>
+        </div>
+        <div class="results-header-bar" id="resultsHeaderBar" style="display:none;">
+            <span id="resultsCount"></span>
+            <a href="/articles/" style="color:var(--accent-color);text-decoration:none;font-size:0.88rem;">Browse all articles →</a>
+        </div>
+        <ul class="results-list" id="resultsList" style="display:none;"></ul>
+        <div class="search-empty" id="noResults" style="display:none;">
+            <p>No articles found for that search.</p>
+            <p>Try a different keyword, or <a href="/articles/">browse all articles</a>.</p>
+        </div>
+    </div>
+</div>
+
+<script>
+(function() {
+    var input = document.getElementById('searchInput');
+    var clearBtn = document.getElementById('clearBtn');
+    var status = document.getElementById('searchStatus');
+    var placeholder = document.getElementById('searchPlaceholder');
+    var headerBar = document.getElementById('resultsHeaderBar');
+    var resultsList = document.getElementById('resultsList');
+    var noResults = document.getElementById('noResults');
+    var resultsCount = document.getElementById('resultsCount');
+
+    var articles = null;
+    var fetchPromise = null;
+    var debounceTimer = null;
+
+    function getIndex() {
+        if (articles) return Promise.resolve(articles);
+        if (!fetchPromise) {
+            fetchPromise = fetch('/search-index.json')
+                .then(function(r) { return r.json(); })
+                .then(function(d) { articles = d; return d; });
+        }
+        return fetchPromise;
+    }
+
+    function escHTML(s) {
+        return String(s || '')
+            .replace(/&/g, '&amp;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;')
+            .replace(/"/g, '&quot;');
+    }
+
+    function highlight(text, terms) {
+        if (!terms.length) return escHTML(text);
+        var escaped = escHTML(text);
+        terms.forEach(function(term) {
+            if (!term) return;
+            var re = new RegExp('(' + term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
+            escaped = escaped.replace(re, '<mark>$1</mark>');
+        });
+        return escaped;
+    }
+
+    function getExcerpt(content, terms, maxLen) {
+        if (!content) return '';
+        // Try to find a snippet around the first term match
+        var lc = content.toLowerCase();
+        var pos = -1;
+        for (var i = 0; i < terms.length; i++) {
+            pos = lc.indexOf(terms[i].toLowerCase());
+            if (pos !== -1) break;
+        }
+        var start = 0;
+        if (pos !== -1) {
+            start = Math.max(0, pos - 60);
+        }
+        var excerpt = content.slice(start, start + maxLen);
+        if (start > 0) excerpt = '…' + excerpt;
+        if (start + maxLen < content.length) excerpt = excerpt + '…';
+        return excerpt;
+    }
+
+    function search(query) {
+        var q = query.trim();
+        if (!q) {
+            placeholder.style.display = '';
+            headerBar.style.display = 'none';
+            resultsList.style.display = 'none';
+            noResults.style.display = 'none';
+            status.textContent = '';
+            clearBtn.style.display = 'none';
+            return;
+        }
+        clearBtn.style.display = '';
+        status.textContent = 'Searching…';
+        placeholder.style.display = 'none';
+
+        getIndex().then(function(data) {
+            var terms = q.toLowerCase().split(/\s+/).filter(Boolean);
+            var results = data.filter(function(a) {
+                var haystack = [
+                    a.title, a.description,
+                    (a.tags || []).join(' '),
+                    a.category, a.content || ''
+                ].join(' ').toLowerCase();
+                return terms.every(function(t) { return haystack.indexOf(t) !== -1; });
+            });
+
+            // Score: title matches ranked higher
+            results.sort(function(a, b) {
+                var at = a.title.toLowerCase();
+                var bt = b.title.toLowerCase();
+                var aInTitle = terms.filter(function(t){ return at.indexOf(t) !== -1; }).length;
+                var bInTitle = terms.filter(function(t){ return bt.indexOf(t) !== -1; }).length;
+                return bInTitle - aInTitle;
+            });
+
+            if (!results.length) {
+                headerBar.style.display = 'none';
+                resultsList.style.display = 'none';
+                noResults.style.display = '';
+                status.textContent = 'No results for "' + escHTML(q) + '"';
+                return;
+            }
+
+            var shown = results.slice(0, 60);
+            resultsCount.textContent = results.length + ' article' + (results.length !== 1 ? 's' : '') + ' found';
+            headerBar.style.display = 'flex';
+            noResults.style.display = 'none';
+
+            resultsList.innerHTML = shown.map(function(a) {
+                var excerpt = a.description || getExcerpt(a.content, terms, 200);
+                return '<li class="result-item">' +
+                    '<a href="' + escHTML(a.url) + '" class="result-link">' +
+                        '<div class="result-header">' +
+                            '<span class="result-category">' + escHTML(a.category) + '</span>' +
+                            (a.readingTime ? '<span class="result-meta">⏱ ' + escHTML(String(a.readingTime)) + ' min read</span>' : '') +
+                        '</div>' +
+                        '<h2 class="result-title">' + highlight(a.title, terms) + '</h2>' +
+                        '<p class="result-excerpt">' + highlight(excerpt, terms) + '</p>' +
+                    '</a>' +
+                    '</li>';
+            }).join('');
+
+            resultsList.style.display = '';
+            status.textContent = results.length + ' result' + (results.length !== 1 ? 's' : '') + (results.length > 60 ? ' (showing first 60)' : '');
+        }).catch(function() {
+            status.textContent = 'Could not load search index. Please try again.';
+        });
+    }
+
+    input.addEventListener('input', function() {
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(function() { search(input.value); }, 220);
+    });
+
+    clearBtn.addEventListener('click', function() {
+        input.value = '';
+        input.focus();
+        search('');
+    });
+
+    // Pre-fill from URL ?q=…
+    var params = new URLSearchParams(window.location.search);
+    var preQ = params.get('q');
+    if (preQ) {
+        input.value = preQ;
+        getIndex().then(function() { search(preQ); });
+    }
+
+    // Start loading index in background
+    getIndex();
+})();
+</script>

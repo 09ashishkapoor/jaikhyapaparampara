@@ -689,9 +689,10 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
         <div class="container">
             <div class="hp-search-inner">
                 <div class="hp-count-badge">✦ <strong><span id="hp-count-num">{{ collections.articles | size }}</span> sacred articles</strong> — and counting</div>
-                <div class="hp-search-row">
-                    <a href="/articles/" id="hp-search-btn" class="hp-search-btn">Browse by Topic</a>
-                </div>
+                <form class="hp-search-row" action="/search/" method="get" role="search" style="gap:0.7rem;width:100%;max-width:620px;display:flex;align-items:center;justify-content:center;">
+                    <input type="search" name="q" placeholder="Search teachings, topics, keywords…" autocomplete="off" autocorrect="off" spellcheck="false" aria-label="Search articles" style="flex:1;padding:0.9rem 1.2rem;border-radius:30px;border:1.5px solid var(--border-gold);background:rgba(45,15,24,0.7);color:var(--text-light);font-family:'Crimson Text',serif;font-size:1.05rem;outline:none;min-height:48px;">
+                    <button type="submit" class="hp-search-btn" style="background:var(--gold-gradient);color:var(--light-bg);border:none;padding:0.95rem 1.6rem;border-radius:30px;font-size:1rem;font-family:'Philosopher',sans-serif;font-weight:700;cursor:pointer;flex-shrink:0;transition:all 0.3s ease;text-decoration:none;display:inline-flex;align-items:center;justify-content:center;">Search</button>
+                </form>
                 <button id="hp-surprise-btn" class="hp-surprise-btn" aria-label="Go to a random article">🎲 Surprise Me</button>
                 <p class="hp-search-hint">Or <a href="/articles/">browse all articles</a> and explore by topic below</p>
             </div>
