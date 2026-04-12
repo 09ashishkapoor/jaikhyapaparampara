@@ -63,128 +63,128 @@ In the case of Kalabhairava, the names highlight his links to **time, death, kar
 
 ### Names 1-18
 
-1. **Kalabhairavadevaya**: The Divine Lord Kalabhairava, revered deity of time and transcendence.
-2. **Kalakalaya**: The destroyer of destruction, the Lord who conquers time itself.
-3. **Kaladandadhrite**: Wielder of the rod of time, upholder of divine judgment.
+1. **Kala-bhairava-devaya**: The Divine Lord Kalabhairava, revered deity of time and transcendence.
+2. **Kala-kalaya**: The destroyer of destruction, the Lord who conquers time itself.
+3. **Kala-danda-dhrite**: Wielder of the rod of time, upholder of divine judgment.
 4. **Kalatmane**: The soul of time, pervading and animating all existence.
-5. **Kamamantratmane**: Embodiment of the desire-inciting mantra, the essence of creative will.
-6. **Kasikapuranayakaya**: Protector and lord of the sacred city of Kashi.
-7. **Karunavaridhaye**: Ocean of compassion for his devotees.
-8. **Kantamilitaya**: The beloved, ever-residing in the hearts of his devotees.
-9. **Kalikatanave**: Destroyer of all strife and calamities.
-10. **Kalajaya**: Victorious over time, transcending all temporal limitation.
-11. **Kukkutarudhaya**: Mounted upon a rooster, symbol of vigilance and victory over ignorance.
+5. **Kama-mantratmane**: Embodiment of the desire-inciting mantra, the essence of creative will.
+6. **Kasika-pura-nayakaya**: Protector and lord of the sacred city of Kashi.
+7. **Karuna-varidhaye**: Ocean of compassion for his devotees.
+8. **Kanta-militaya**: The beloved, ever-residing in the hearts of his devotees.
+9. **Kalika-tanave**: Destroyer of all strife and calamities.
+10. **Kala-jaya**: Victorious over time, transcending all temporal limitation.
+11. **Kukkuta-arudhaya**: Mounted upon a rooster, symbol of vigilance and victory over ignorance.
 12. **Kapaline**: Bearer of the skull, symbol of detachment from worldly existence.
-13. **Kalanemighne**: Destroyer of the demon Kalanemi, vanquisher of obstacles and ignorance.
-14. **Kalakanthaya**: The dark-throated one, bearing the poison of the cosmic ocean.
-15. **Kataksanugrahitakhilasevakaya**: Whose gracious glance blesses all his devotees.
-16. **Kapalakarparotkristabhiksapatradharaya**: Holder of the uplifted skull-bowl, symbolizing renunciation and sacred detachment.
+13. **Kalanemi-ghne**: Destroyer of the demon Kalanemi, vanquisher of obstacles and ignorance.
+14. **Kala-kanthaya**: The dark-throated one, bearing the poison of the cosmic ocean.
+15. **Kataksa-anugrahita-akhila-sevakaya**: Whose gracious glance blesses all his devotees.
+16. **Kapala-karparotkrista-bhiksa-patra-dharaya**: Holder of the uplifted skull-bowl, symbolizing renunciation and sacred detachment.
 17. **Kavaye**: The supreme poet and knower of all wisdom.
-18. **Kalpantadahanakaya**: Whose form is the cosmic fire at the end of an age.
+18. **Kalpanta-dahanakaya**: Whose form is the cosmic fire at the end of an age.
 
 ### Names 19-36
 
-19. **Kalanidhikaladharaya**: Adorned with the moon, repository of arts and knowledge.
-20. **Kapalamalikaabhuosaya**: Adorned with a garland of skulls, signifying victory over ego and mortality.
-21. **Kalikulavarapradaya**: Bestower of boons to the lineage of Kala, the stream of destinies.
-22. **Kaliikalavatiidiiksasamskaaropasanapriyaya**: Delighting in initiation, purification, and worship for those who seek the mysteries of Kali.
-23. **Kalikadaksaparsvasthaya**: Seated at the right side of Goddess Kali, embodying fierce protection.
-24. **Kalividyasvarupavate**: Embodiment of the knowledge needed in the Kali age.
-25. **Kaliikurcasamayuktabhuvanakutabhasuraya**: Resplendent amid the seed powers that hold the universe together.
-26. **Kaliidhyanajapaasaktahrdaakaranavasakaya**: Whose heart is absorbed in meditation and mantra-japa of Kali.
-27. **Kalikavarivastyaadipradhanakalpapadapaya**: The primordial wish-fulfilling tree rooted in the essence of Kali.
-28. **Kalyugravasavabraahmiipramukhacaryanaayakaya**: Leader among the divine powers who preside in the Kali Yuga.
-29. **Kankalamalikadharine**: Wearer of a garland of bones and skulls, victor over death.
-30. **Kaamaniyajatadharaya**: Beautifully adorned with matted locks.
-31. **Konarekhastabhadrasthapradesabindupithakaya**: Whose sacred seat rests in the subtle bindu of the auspicious mystical field.
-32. **Kadaliikaraviirakakanjhomarcanapriyaya**: One who delights in worship offered with sacred flowers.
-33. **Kurmapithadisaktisaya**: Resting upon the cosmic tortoise-seat and primordial Shakti.
-34. **Kalakasthadhipalakaya**: Guardian of the furthest reaches of time.
-35. **Kathabhrave**: The one whose terrible roar removes impurity and obstruction.
-36. **Kamasancarane**: He who moves according to his own divine will.
+19. **Kala-nidhi-kala-dharaya**: Adorned with the moon, repository of arts and knowledge.
+20. **Kapala-malika-bhusaya**: Adorned with a garland of skulls, signifying victory over ego and mortality.
+21. **Kali-kula-vara-pradaya**: Bestower of boons to the lineage of Kala, the stream of destinies.
+22. **Kalii-kalavatii-diiksa-samskara-upasana-priyaya**: Delighting in initiation, purification, and worship for those who seek the mysteries of Kali.
+23. **Kalika-daksa-parsva-sthaya**: Seated at the right side of Goddess Kali, embodying fierce protection.
+24. **Kali-vidya-svarupa-vate**: Embodiment of the knowledge needed in the Kali age.
+25. **Kalii-kurca-sama-yukta-bhuvana-kuta-bhasuraya**: Resplendent amid the seed powers that hold the universe together.
+26. **Kalii-dhyana-japa-asakta-hrda-akarana-vasakaya**: Whose heart is absorbed in meditation and mantra-japa of Kali.
+27. **Kalika-varivastyaadi-pradhana-kalpa-padapaya**: The primordial wish-fulfilling tree rooted in the essence of Kali.
+28. **Kali-ugra-vasava-brahmii-pramukha-carya-nayakaya**: Leader among the divine powers who preside in the Kali Yuga.
+29. **Kankala-malika-dharine**: Wearer of a garland of bones and skulls, victor over death.
+30. **Kaamaniya-jata-dharaya**: Beautifully adorned with matted locks.
+31. **Kona-rekhastha-bhadrastha-pradesa-bindu-pithakaya**: Whose sacred seat rests in the subtle bindu of the auspicious mystical field.
+32. **Kadalii-karaviiraka-kanjha-homa-arcana-priyaya**: One who delights in worship offered with sacred flowers.
+33. **Kurma-pithadi-sakti-isaya**: Resting upon the cosmic tortoise-seat and primordial Shakti.
+34. **Kala-kastha-adhipalakaya**: Guardian of the furthest reaches of time.
+35. **Katha-bhrave**: The one whose terrible roar removes impurity and obstruction.
+36. **Kama-sancarane**: He who moves according to his own divine will.
 
 ### Names 37-54
 
-37. **Kamaraye**: Enemy of desire, destroyer of illusion born of lust.
-38. **Kamarupavate**: Possessing the power to assume any form at will.
-39. **Kanthadisarvacakrasthaya**: Residing in all chakras from the throat upward.
-40. **Kriyadikotidiipakaya**: Illuminator of countless paths of action.
-41. **Karnahiinopavitapaya**: Adorned with an unusual sacred thread, signifying supreme renunciation.
-42. **Kanakacaladehavate**: Possessing a body radiant like a golden mountain.
-43. **Kandharakaradahaaragasabhaasuramuurtimate**: Of splendid form, radiant with skull-garlands and terrible beauty.
-44. **Kapalamocanantaya**: Liberator from the sin of Brahmahatya, remover of deep impurity.
-45. **Kalarajaya**: King of time, sovereign over its dominion.
-46. **Kriyapradaya**: Bestower of action and its proper fruit.
-47. **Karanadhipataye**: Lord of all causes, primal source behind manifestation.
-48. **Karmakarakaya**: Agent of all action, orchestrator of karma.
-49. **Kartrinayakaya**: Supreme doer and leader of all action.
-50. **Kanthadyakhiladesahibhusanadhyaya**: Adorned with all directions as ornaments.
-51. **Kalatmakaya**: The very embodiment of time.
-52. **Karmakhandadhipaya**: Overlord of the realms of action and destiny.
-53. **Kilbisamocine**: Remover of sin and releaser from faults.
-54. **Kamakostakaya**: Dweller in the womb of desire, granter of cherished wishes.
+37. **Kama-araye**: Enemy of desire, destroyer of illusion born of lust.
+38. **Kama-rupa-vate**: Possessing the power to assume any form at will.
+39. **Kanthadi-sarva-cakrasthaya**: Residing in all chakras from the throat upward.
+40. **Kriyadi-koti-diipakaya**: Illuminator of countless paths of action.
+41. **Karna-hiina-upavitapaya**: Adorned with an unusual sacred thread, signifying supreme renunciation.
+42. **Kanaka-acala-deha-vate**: Possessing a body radiant like a golden mountain.
+43. **Kandhara-karada-hara-agasabha-asura-murti-mate**: Of splendid form, radiant with skull-garlands and terrible beauty.
+44. **Kapala-mocana-antaya**: Liberator from the sin of Brahmahatya, remover of deep impurity.
+45. **Kala-rajaya**: King of time, sovereign over its dominion.
+46. **Kriya-pradaya**: Bestower of action and its proper fruit.
+47. **Karana-adhipataye**: Lord of all causes, primal source behind manifestation.
+48. **Karma-karakaya**: Agent of all action, orchestrator of karma.
+49. **Kartri-nayakaya**: Supreme doer and leader of all action.
+50. **Kanthadya-akhila-desa-ahi-bhusana-adhyaya**: Adorned with all directions as ornaments.
+51. **Kala-atmakaya**: The very embodiment of time.
+52. **Karma-khanda-adhipaya**: Overlord of the realms of action and destiny.
+53. **Kilbisa-mocine**: Remover of sin and releaser from faults.
+54. **Kama-kosthakaaya**: Dweller in the womb of desire, granter of cherished wishes.
 
 ### Names 55-72
 
-55. **Kalakantharavanandine**: Rejoicing in the sweet song of the night bird.
-56. **Karmasraddhavarapradaya**: Bestower of steadfast faith in righteous action.
-57. **Gunabhakirnagandharasancarane**: Pervading the subtle essences of qualities, fragrance, and inner refinement.
-58. **Gaumatismitaya**: Possessor of a gentle smile and serene wisdom.
-59. **Kinkinimannjunirvanakatisutaravirajitaya**: Adorned with a waist-belt of tinkling bells that sing of liberation.
-60. **Kalyanakrtkalidhvamsine**: Benefactor who destroys the darkness of the Kali Yuga.
-61. **Karmasaksine**: Witness to all actions performed by all beings.
-62. **Kritajnapaya**: Known and honored through his deeds.
-63. **Karaladamstraya**: Possessor of frightful fangs that terrify evil forces.
-64. **Kandarpadarpaghnaya**: Shatterer of the pride of Kama, the god of desire.
-65. **Kamabhedanaya**: Piercer of desire, remover of lust and craving.
-66. **Kalaguruvilioptangaya**: Whose limbs are adorned in dark and majestic beauty.
-67. **Kadaraarthabhayapradaya**: Granter of fearlessness to the distressed and anxious.
-68. **Kalantikabharadaya**: Bearer of the end of time, symbol of final dissolution and renewal.
-69. **Kalibhaktalokaavarapradaya**: Bestower of boons to the devotees of Kali.
-70. **Kaminiikancanaabhaktamocakaya**: Liberator from attachment to lust and gold.
-71. **Kamaleksanaya**: He whose eyes are as beautiful as lotus petals.
-72. **Kadambarirasasvaadalolupaya**: Delighting in divine sweetness and mystical intoxication.
+55. **Kala-kantha-rava-nandine**: Rejoicing in the sweet song of the night bird.
+56. **Karma-sraddha-vara-pradaya**: Bestower of steadfast faith in righteous action.
+57. **Gunabha-kirna-gandhara-sancarane**: Pervading the subtle essences of qualities, fragrance, and inner refinement.
+58. **Gaumati-smitaya**: Possessor of a gentle smile and serene wisdom.
+59. **Kinkini-manju-nirvana-kati-sutara-virajitaya**: Adorned with a waist-belt of tinkling bells that sing of liberation.
+60. **Kalyana-krt-kali-dhvamsine**: Benefactor who destroys the darkness of the Kali Yuga.
+61. **Karma-saksine**: Witness to all actions performed by all beings.
+62. **Krita-jnapaya**: Known and honored through his deeds.
+63. **Karala-damstraya**: Possessor of frightful fangs that terrify evil forces.
+64. **Kandarpa-darpa-ghnaya**: Shatterer of the pride of Kama, the god of desire.
+65. **Kama-bhedanaya**: Piercer of desire, remover of lust and craving.
+66. **Kala-guru-vilioptangaya**: Whose limbs are adorned in dark and majestic beauty.
+67. **Kadara-artha-abhaya-pradaya**: Granter of fearlessness to the distressed and anxious.
+68. **Kalantika-bhara-daya**: Bearer of the end of time, symbol of final dissolution and renewal.
+69. **Kali-bhakta-loka-avara-pradaya**: Bestower of boons to the devotees of Kali.
+70. **Kaminii-kancanaa-bhakta-mocakaya**: Liberator from attachment to lust and gold.
+71. **Kamala-iksanaya**: He whose eyes are as beautiful as lotus petals.
+72. **Kadambari-rasa-svaada-lolupaya**: Delighting in divine sweetness and mystical intoxication.
 
 ### Names 73-90
 
-73. **Kanksitarthadaya**: Bestower of desired aims and fulfillment.
-74. **Kabandhanavaaya**: Remover of spiritual bondage and unseen obstruction.
-75. **Kamakhyakancyadiksetrapaalakaya**: Guardian of sacred places such as Kamakhya and Kanchi.
-76. **Kaivalyapradamandaaraya**: Bestower of absolute freedom, bliss, and liberation.
-77. **Kotisuryasamaprabhaya**: Radiant like ten million suns.
-78. **Kriyecchaajnanasaktipradiipakanalalocanaya**: Whose fiery eyes illumine action, will, and knowledge.
-79. **Kamyadikarmmasarvasvaphaladaya**: Giver of the fruits of all rightful desired actions.
-80. **Karmaposakaya**: Nourisher and sustainer of all action and its results.
-81. **Karyakarananirmatre**: Creator and regulator of cause and effect.
-82. **Karagrihavimocakaya**: Liberator from the prison of worldly bondage.
-83. **Kalaparyayamulasthaya**: Root of the cycles of time and transformation.
-84. **Karyasiddhipradayakaya**: Bestower of success in undertakings.
-85. **Kalanurupakarmangamoksanaabhrantinasanaya**: Destroyer of delusion regarding action, time, and their fruits.
-86. **Kalacakraprabhedine**: Breaker of the wheel of time, liberator from repetitive existence.
-87. **Kalimmanyayoginiipriyaya**: Beloved of the Yoginis who dwell in the sacred mandala of Kali.
-88. **Kahalaadimahavaadyaatalataandavalaalasaya**: Delighting in the cosmic dance amid the roar of great instruments.
-89. **Kulakundaliniisaktayogasiddhipradayakaya**: Bestower of yogic accomplishment through awakened Kundalini Shakti.
-90. **Kalaratrimaharatrisivaratryaadikarakaya**: Lord of Kalaratri, Maharatri, Shivaratri, and other sacred nights.
+73. **Kanksita-artha-daya**: Bestower of desired aims and fulfillment.
+74. **Kabandhana-avaya**: Remover of spiritual bondage and unseen obstruction.
+75. **Kamakhya-kancya-adi-ksetrapalakaya**: Guardian of sacred places such as Kamakhya and Kanchi.
+76. **Kaivalya-prada-mandaraya**: Bestower of absolute freedom, bliss, and liberation.
+77. **Koti-surya-sama-prabhaya**: Radiant like ten million suns.
+78. **Kriya-iccha-jnana-sakti-pradiipaka-anala-locanaya**: Whose fiery eyes illumine action, will, and knowledge.
+79. **Kamya-adi-karmma-sarvasva-phala-daya**: Giver of the fruits of all rightful desired actions.
+80. **Karma-posakaya**: Nourisher and sustainer of all action and its results.
+81. **Karya-karana-nirmatre**: Creator and regulator of cause and effect.
+82. **Kara-griha-vimocakaya**: Liberator from the prison of worldly bondage.
+83. **Kala-paryaya-mula-sthaya**: Root of the cycles of time and transformation.
+84. **Karya-siddhi-pradayakaya**: Bestower of success in undertakings.
+85. **Kala-anurupa-karmanga-moksanaa-bhranti-nasanaya**: Destroyer of delusion regarding action, time, and their fruits.
+86. **Kala-cakra-prabhedine**: Breaker of the wheel of time, liberator from repetitive existence.
+87. **Kali-m-manya-yoginii-priyaya**: Beloved of the Yoginis who dwell in the sacred mandala of Kali.
+88. **Kahala-adi-maha-vaadya-atala-taandava-laalasaya**: Delighting in the cosmic dance amid the roar of great instruments.
+89. **Kula-kundalinii-sakta-yoga-siddhi-pradayakaya**: Bestower of yogic accomplishment through awakened Kundalini Shakti.
+90. **Kala-ratri-maha-ratri-siva-ratri-adi-karakaya**: Lord of Kalaratri, Maharatri, Shivaratri, and other sacred nights.
 
 ### Names 91-108
 
-91. **Kolahaladhvanaye**: The one whose roar fills the universe.
+91. **Kolahala-dhvanaye**: The one whose roar fills the universe.
 92. **Kopine**: The wrathful one who destroys ignorance and dispenses justice.
-93. **Kaulaamargapravartakaya**: Originator and revealer of the Kaula path.
-94. **Karmakausalyasantosine**: Delighted by skillful and proper action.
-95. **Kelihasanalaalasaya**: Radiant with playful laughter.
-96. **Kritsnapravrttivisvandapancakrityavidaayakaya**: Granter of the five cosmic functions: creation, preservation, dissolution, concealment, and grace.
-97. **Kalanathaparaya**: Supreme Lord beyond the bounds of time.
+93. **Kaulaa-marga-pravartakaya**: Originator and revealer of the Kaula path.
+94. **Karma-kausalya-santosine**: Delighted by skillful and proper action.
+95. **Keli-hasana-laalasaya**: Radiant with playful laughter.
+96. **Kritsna-pravrtti-visvanda-panca-kritya-vidayakaya**: Granter of the five cosmic functions: creation, preservation, dissolution, concealment, and grace.
+97. **Kala-natha-paraya**: Supreme Lord beyond the bounds of time.
 98. **Kalaya**: Controller of time and destroyer of illusion.
-99. **Kaladharmapravartakaya**: Establisher of the laws of time and cosmic order.
-100. **Kulacaryaya**: Revered teacher of the spiritual lineage.
-101. **Kulacarataya**: Upholder of lineage, tradition, and sacred conduct.
-102. **Guhvastamiipriyaya**: Fond of the sacred eighth lunar day associated with his worship.
-103. **Karmabandhakhilacchedine**: Severer of all karmic bondage.
-104. **Gostasthabhairavaagranye**: Foremost among Bhairavas and leader of divine hosts.
-105. **Katoraujasyabhismaajnapaalakinkaarasevitaya**: Served by mighty and fearsome attendants who uphold his commands.
-106. **Kalarudraya**: The fierce Rudra of time whose wrath governs the cosmic cycle.
-107. **Kalavelahoramsamurtimate**: Embodiment of every division of time, from moments to day and night.
+99. **Kala-dharma-pravartakaya**: Establisher of the laws of time and cosmic order.
+100. **Kula-caryaya**: Revered teacher of the spiritual lineage.
+101. **Kula-carataya**: Upholder of lineage, tradition, and sacred conduct.
+102. **Guhya-astamii-priyaya**: Fond of the sacred eighth lunar day associated with his worship.
+103. **Karma-bandha-akhila-chedine**: Severer of all karmic bondage.
+104. **Gosthastha-bhairava-agranye**: Foremost among Bhairavas and leader of divine hosts.
+105. **Katora-aujasya-bhisma-ajna-paala-kinkaara-sevitaya**: Served by mighty and fearsome attendants who uphold his commands.
+106. **Kala-rudraya**: The fierce Rudra of time whose wrath governs the cosmic cycle.
+107. **Kala-vela-hora-amsa-murtimate**: Embodiment of every division of time, from moments to day and night.
 108. **Karaya**: The doer of all deeds and actions in the universe.
 
 ---
