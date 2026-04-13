@@ -2,7 +2,7 @@
 layout: article
 title: "Shri Batuka Bhairava Brahma Kavacham: Sanskrit Text & English Meaning"
 breadcrumbTitle: "Batuka Bhairava Brahma Kavacham"
-description: "Complete Shri Batuka Bhairava Brahma Kavacham with Sanskrit transliteration and plain English meaning side by side. From the Rudra Yamala Tantra — the divine armor of Batuka Bhairava."
+description: "Complete Shri Batuka Bhairava Brahma Kavacham with Sanskrit transliteration and plain English meaning side by side. Drawn from the Rudra Yamala Tantra, this text is presented for study and recitation."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Batuka Bhairava, Brahma Kavacham, Rudra Yamala, Bhairava mantra, kavacham Sanskrit English"
 category: "Temple of Knowledge"
 author: "KaliPutra-Ashish"
@@ -22,7 +22,7 @@ source: |
   <p style="margin-top:0.5rem;"><em>Compiled by KaliPutra-Ashish</em></p>
 ---
 
-The **Shri Batuka Bhairava Brahma Kavacham** is a powerful protective armor (*kavacham*) from the **Shri Rudra Yamala Tantra**. Batuka Bhairava — "the young Bhairava" — is the fierce yet benevolent child-form of Lord Bhairava, remover of misfortunes and destroyer of all obstacles. This kavacham was revealed by Lord Shiva himself to the Goddess Parvati, and its 22-syllable root mantra is:
+The **Shri Batuka Bhairava Brahma Kavacham** is a protective *kavacham* from the **Shri Rudra Yamala Tantra**. Batuka Bhairava, the youthful form of Bhairava, is revered as a guardian who removes danger and clears obstacles. In this text, Lord Shiva reveals the kavacham to Goddess Parvati. Its 22-syllable root mantra is:
 
 <div style="text-align:center;margin:2rem 0;padding:1.5rem 2rem;background:rgba(45,15,24,0.6);border:2px solid var(--border-gold);border-radius:8px;font-size:1.2rem;letter-spacing:1px;color:var(--accent-bright);">
   <strong>oṃ hrīṃ baṭukāya āpaduddhāraṇāya kuru kuru baṭukāya hrīṃ</strong>
@@ -31,7 +31,7 @@ The **Shri Batuka Bhairava Brahma Kavacham** is a powerful protective armor (*ka
 
 <figure style="text-align:center;margin:2rem 0;padding:1.5rem;background:linear-gradient(135deg,rgba(45,15,24,0.2) 0%,rgba(31,11,17,0.2) 100%);border-radius:8px;">
 <img alt="Batuka Bhairava — the divine child form of Bhairava, holding a severed head and a bowl of offerings" src="/images/articles/batuk-bhairava-brahma-kavacham.jpg" style="max-width:380px;width:100%;height:auto;border-radius:8px;margin-bottom:1rem;box-shadow:0 10px 30px rgba(0,0,0,0.5);"/>
-<figcaption style="font-size:0.95rem;color:var(--accent-color);font-style:italic;">Batuka Bhairava — the eternal child-form of Bhairava, ever youthful, ever fierce, ever merciful</figcaption>
+<figcaption style="font-size:0.95rem;color:var(--accent-color);font-style:italic;">Batuka Bhairava — youthful, fierce, and compassionate</figcaption>
 </figure>
 
 ---
@@ -189,7 +189,7 @@ The final <em>Batukaya</em> is used for paralyzing and stopping obstacles in the
 <h3>Viniyoga — Ritual Dedication</h3>
 <div style="padding:1rem 1.5rem;background:rgba(45,15,24,0.4);border-left:3px solid var(--accent-color);border-radius:4px;margin-bottom:1rem;">
 <span style="color:var(--accent-bright);font-style:italic;">oṃ asya śrībaṭukabhairavabrahmakavacasya bhairava ṛṣiḥ . anuṣṭup chandaḥ . śrībaṭukabhairavo devatā . mama śrībaṭukabhairavaprasādasiddhayarthe jape viniyogaḥ ..</span>
-<div style="color:#d4c4b0;font-size:0.9rem;margin-top:0.75rem;">Of this Shri Batuka Bhairava Brahma Kavacham: the Seer (Rishi) is Bhairava · the Meter is Anushtup · the Deity is Shri Batuka Bhairava · it is used for the attainment of his grace and perfection.</div>
+<div style="color:#d4c4b0;font-size:0.9rem;margin-top:0.75rem;">For this Shri Batuka Bhairava Brahma Kavacham, the seer is Bhairava, the meter is Anushtup, the deity is Shri Batuka Bhairava, and the recitation is offered for the attainment of his grace and siddhi.</div>
 </div>
 </div>
 
@@ -199,13 +199,13 @@ The final <em>Batukaya</em> is used for paralyzing and stopping obstacles in the
 <h3>The Kavacham — The Divine Armor (Verses 10–21)</h3>
 
 <div style="background:rgba(80,20,10,0.45);border:2px solid var(--accent-bright);border-radius:8px;padding:1.25rem 1.5rem;margin-bottom:1.75rem;">
-  <div style="font-weight:700;color:var(--accent-bright);letter-spacing:1px;margin-bottom:0.6rem;">🔱 BEGIN KAVACHAM — Recite the root mantra before starting:</div>
+  <div style="font-weight:700;color:var(--accent-bright);letter-spacing:1px;margin-bottom:0.6rem;">Root Mantra Before Recitation</div>
   <div style="font-style:italic;color:#e8d5b0;font-size:1.05rem;letter-spacing:0.5px;margin-bottom:0.6rem;">oṃ hrīṃ baṭukāya āpaduddhāraṇāya kuru kuru baṭukāya hrīṃ</div>
   <div style="font-size:0.85rem;color:#bbb;">(Chant 11 or 21 times, then proceed with the verses below)</div>
 </div>
 
 <div style="background:rgba(20,40,20,0.35);border:1px solid #5a8a5a;border-radius:6px;padding:1rem 1.4rem;margin-bottom:1.75rem;font-size:0.9rem;color:#c8ddc8;">
-  <strong style="color:#90c890;">📿 For multiple recitations in one sitting:</strong> Only this Kavacham section (Verses 10–21) needs to be repeated for each round. The Prologue, Root Mantra Explained, and Viniyoga — Ritual Dedication sections are recited just once at the beginning of the sitting. After all rounds are complete, recite the Phalashruti once at the very end.
+  <strong style="color:#90c890;">For multiple recitations in one sitting:</strong> Recite the Prologue, Root Mantra Explained, and Viniyoga once at the beginning. Repeat only this Kavacham section (Verses 10–21) for each round, then recite the Phalashruti once at the end.
 </div>
 
 <div class="verse-grid">
@@ -352,9 +352,9 @@ May <em>Oṃ</em> protect my whole body; may <em>Hrīṃ</em> protect me in stat
 </div>
 
 <div style="background:rgba(80,20,10,0.45);border:2px solid var(--accent-bright);border-radius:8px;padding:1.25rem 1.5rem;margin-top:1.75rem;">
-  <div style="font-weight:700;color:var(--accent-bright);letter-spacing:1px;margin-bottom:0.6rem;">🔱 END KAVACHAM — Recite the root mantra again to close each round:</div>
+  <div style="font-weight:700;color:var(--accent-bright);letter-spacing:1px;margin-bottom:0.6rem;">Root Mantra After Recitation</div>
   <div style="font-style:italic;color:#e8d5b0;font-size:1.05rem;letter-spacing:0.5px;margin-bottom:0.6rem;">oṃ hrīṃ baṭukāya āpaduddhāraṇāya kuru kuru baṭukāya hrīṃ</div>
-  <div style="font-size:0.85rem;color:#bbb;">(Chant 11 or 21 times · If doing multiple rounds, return to BEGIN KAVACHAM above · Otherwise proceed to Phalashruti)</div>
+  <div style="font-size:0.85rem;color:#bbb;">(Chant 11 or 21 times. If doing multiple rounds, return to the Kavacham section above. Otherwise proceed to the Phalashruti.)</div>
 </div>
 
 </div>
