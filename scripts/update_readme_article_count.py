@@ -17,17 +17,18 @@ def update_readme(count: int) -> bool:
     if not readme_path.exists():
         raise FileNotFoundError(f"README not found: {readme_path}")
 
+    count_with_commas = f"{count:,}"
     original = readme_path.read_text(encoding="utf-8")
     updated = original
 
     updated = re.sub(
-        r"(The site contains \*\*)(\d+)(\s+articles\*\*)",
-        lambda match: f"{match.group(1)}{count}{match.group(3)}",
+        r"(The site contains \*\*)([\d,]+)(\s+articles\*\*)",
+        lambda match: f"{match.group(1)}{count_with_commas}{match.group(3)}",
         updated,
     )
 
     updated = re.sub(
-        r"(articles/\s+#\s*)(\d+)(\s+Markdown articles)",
+        r"(articles/\s+#\s*)([\d,]+)(\s+Markdown articles)",
         lambda match: f"{match.group(1)}{count}{match.group(3)}",
         updated,
     )

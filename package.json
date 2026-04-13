@@ -4,7 +4,7 @@
   "description": "Jai Khyapa Parampara - Spiritual website with 11ty blog",
   "scripts": {
     "prepare": "husky",
-    "sync-readme-count": "python scripts/update_readme_article_count.py",
+    "sync-readme-count": "node scripts/update_readme_article_count.js || python scripts/update_readme_article_count.py || python3 scripts/update_readme_article_count.py",
     "build": "npm run sync-readme-count && eleventy",
     "serve": "npm run sync-readme-count && eleventy --serve",
     "start": "npm run sync-readme-count && eleventy --serve",

@@ -12,11 +12,12 @@ module.exports = function(eleventyConfig) {
       }
 
       const articleCount = fs.readdirSync(articlesDir).filter((fileName) => fileName.endsWith(".md")).length;
+      const articleCountWithCommas = articleCount.toLocaleString("en-US");
       const original = fs.readFileSync(readmePath, "utf8");
       let updated = original;
 
-      updated = updated.replace(/(The site contains \*\*)(\d+)(\s+articles\*\*)/, `$1${articleCount}$3`);
-      updated = updated.replace(/(articles\/\s+#\s*)(\d+)(\s+Markdown articles)/, `$1${articleCount}$3`);
+      updated = updated.replace(/(The site contains \*\*)([\d,]+)(\s+articles\*\*)/, `$1${articleCountWithCommas}$3`);
+      updated = updated.replace(/(articles\/\s+#\s*)([\d,]+)(\s+Markdown articles)/, `$1${articleCount}$3`);
 
       if (updated !== original) {
         fs.writeFileSync(readmePath, updated, "utf8");
