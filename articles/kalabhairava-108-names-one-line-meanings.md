@@ -21,18 +21,18 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-If you are looking for **Kalabhairava 108 names in English**, this article presents the **Kalabhairava Ashtottarashata Namavali** in a readable devotional format with one-line meanings. It is designed for seekers who want a simple way to read, chant, study, or contemplate the names of Kala Bhairava without losing the spiritual mood of the stotram tradition.
+Here are the **108 names of Kalabhairava in English**, presented as a devotional **Ashtottarashata Namavali** with short one-line meanings. This version is meant for seekers who want to read, chant, contemplate, or study the names of Kala Bhairava in a simple and usable form while keeping the devotional spirit intact.
 
-The **Kalabhairava Ashtottarashata Namavali** is a garland of 108 names that reveals Lord Kalabhairava through many dimensions at once: as the Lord of Time, destroyer of fear, guardian of Kashi, giver of liberation, witness of karma, and fierce protector of the sincere devotee.
+In these 108 names, Kalabhairava appears again and again as lord of time, guardian of Kashi, destroyer of fear, witness of karma, giver of liberation, and fierce protector of the sincere devotee.
 
-This article presents the names in a simple blog-friendly format with **one-line English meanings** so readers can use them for:
+The one-line meanings below are offered so readers can use them for:
 
 - daily prayer
 - slow contemplative reading
 - japa before or after sadhana
 - study of Bhairava tattva through divine epithets
 
-These meanings are devotional aids, not strict academic Sanskrit glosses. Their purpose is to help a seeker enter the bhava of the names. The spellings below follow a stricter, consistent ASCII transliteration style: compound forms are flattened, long vowels are kept with doubled letters where useful, and obvious transcription artifacts have been removed without attempting a full scholarly reconstruction.
+These meanings are devotional aids, not strict academic Sanskrit glosses. Their purpose is to help the reader enter the bhava of each name. The spellings below follow a consistent ASCII transliteration style. Obvious transcription artifacts have been cleaned up, but this is not presented as a full critical reconstruction.
 
 <figure style="text-align:center;margin:2rem 0;">
   <figcaption style="font-size:0.98rem;color:var(--accent-color);font-style:italic;">Kalabhairava is fierce to ego, illusion, and bondage, but deeply compassionate to the bhakta who approaches with sincerity.</figcaption>
@@ -44,13 +44,13 @@ These meanings are devotional aids, not strict academic Sanskrit glosses. Their 
 
 ## How To Read This Namavali
 
-You do not need to rush through all 108 names in one sitting. One useful way is to read a small set daily and pause on whichever name strikes the heart. Some names emphasize **time**, some **karma**, some **liberation**, some **Shakti**, and some the **fierce protective aspect** of Bhairava Baba.
+You do not have to read all 108 names at once. Many devotees take a few names each day and sit a little longer with the ones that stay in the mind. Some names speak of **time**, some of **karma**, some of **liberation**, some of **Shakti**, and some of Bhairava Baba's **fierce protective form**.
 
 If a particular name keeps returning to your mind, stay with it. Often one name is enough for a day of contemplation.
 
 ## What Is Kalabhairava Ashtottarashata Namavali?
 
-The phrase **Ashtottarashata Namavali** simply means a sacred list of 108 names. In practice, devotees use a namavali for:
+**Ashtottarashata Namavali** means a sacred garland of 108 names. Devotees use such a namavali for:
 
 - chanting during puja
 - meditative repetition before japa
@@ -191,26 +191,26 @@ In the case of Kalabhairava, the names highlight his links to **time, death, kar
 
 ## A Simple Way To Contemplate These Names
 
-If you read through the full namavali, a few major currents appear again and again:
+Certain currents keep appearing throughout the namavali.
 
-- **Kalabhairava as Time**: He rules cycles, endings, decay, destiny, and the hidden law behind change.
+- **Kalabhairava as Time**: He governs cycles, endings, decay, destiny, and the hidden law inside change.
 - **Kalabhairava as Protector**: He guards Kashi, sacred spaces, devotees, lineages, and the path itself.
-- **Kalabhairava as Liberator**: He cuts karma, shatters delusion, destroys fear, and grants kaivalya.
-- **Kalabhairava as Witness**: He sees all action, all intention, and all consequence.
+- **Kalabhairava as Liberator**: He cuts karma, breaks delusion, destroys fear, and grants kaivalya.
+- **Kalabhairava as Witness**: He sees action, intention, and consequence.
 - **Kalabhairava as Guru-Tattva**: He teaches through shock, detachment, discipline, and uncompromising truth.
 
-That is why Bhairava can appear terrifying to ego but deeply merciful to the soul.
+That is why Bhairava can look terrifying to the ego while remaining deeply merciful to the soul.
 
 ## Why Devotees Read the 108 Names of Kalabhairava
 
-Devotees turn to the **108 names of Kalabhairava** not only for information, but for alignment. The names can be read as prayer, remembrance, protection, philosophical meditation, or preparation for deeper Bhairava sadhana.
+People read the **108 names of Kalabhairava** not only to learn them, but to align themselves inwardly. The namavali can be used as prayer, remembrance, protection, meditation, or preparation for deeper Bhairava sadhana.
 
-For many readers, this namavali becomes a bridge between two things:
+For many devotees, each name works in two ways at once:
 
 - **devotion**, because each name is an offering
 - **understanding**, because each name reveals one aspect of Bhairava tattva
 
-Even without elaborate ritual, reading the names with steadiness and reverence can help settle the mind into a more serious spiritual mood.
+Even without elaborate ritual, a steady and reverent reading of the names can quiet the mind and bring it into a more serious spiritual mood.
 
 ## Quick FAQ
 
@@ -220,21 +220,21 @@ They are a devotional list of 108 sacred names, also called the **Kalabhairava A
 
 ### Can I read Kalabhairava 108 names in English?
 
-Yes. Many devotees use English meanings as a study and prayer aid, especially when learning the namavali for the first time.
+Yes. Many devotees use English meanings as a support for study and prayer, especially when first learning the namavali.
 
 ### Is this a strict Sanskrit critical edition?
 
-No. This article is a devotional reading version with normalized romanized spellings and one-line meanings for accessibility.
+No. This is a devotional reading version with normalized romanized spellings and one-line meanings meant to keep the text accessible.
 
 ## Closing Reflection
 
-The 108 names of Kalabhairava are not merely titles. They are windows into a living spiritual reality. Some names humble the mind, some awaken courage, some purify desire, and some point directly toward liberation.
+The 108 names of Kalabhairava are more than titles. They show different faces of one reality. Some humble the mind, some awaken courage, some purify desire, and some point straight toward liberation.
 
-Read them slowly. Sit with them. Let one name follow you through the day.
+Read them slowly. Stay with them. Let one name remain with you through the day.
 
 Jai Kalabhairava Baba. Jai Ma Adya. Jai Khyapa Parampara.
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>The 108 names of Kalabhairava reveal him as lord of time, witness of karma, fierce guardian, and compassionate liberator. Read devotionally, each name becomes a doorway into Bhairava tattva.</p>
+<p>The 108 names of Kalabhairava reveal him as lord of time, witness of karma, fierce guardian, and compassionate liberator. Read with devotion, each name becomes a doorway into Bhairava tattva.</p>
 </div>
