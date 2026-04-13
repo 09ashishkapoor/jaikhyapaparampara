@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "Jai Khyapa Parampara - Spiritual website with 11ty blog",
   "scripts": {
-    "build": "eleventy",
+    "build": "python3 scripts/update_build.py && eleventy",
     "serve": "eleventy --serve",
     "start": "eleventy --serve"
-    ,"update-build": "bash update_build_info.sh"
+    ,"update-build": "python3 scripts/update_build.py"
   },
   "keywords": [
     "spiritual",
