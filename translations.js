@@ -120,7 +120,7 @@ const translations = {
         // Footer
         'footer-blessing': 'Om Shri Gurubhyo Namaha | Jai Khyapa Parampara',
         'footer-description': 'May every word read here bring you closer to Ma Adya Mahakali.',
-        'footer-meta': '© 2026 KaliPutra-Ashish. All knowledge shared here is free to read and share.',
+        'footer-meta': '© ' + CURRENT_YEAR + ' KaliPutra-Ashish. All knowledge shared here is free to read and share.',
         'footer-version': 'Version:',
         'footer-updated': 'Last Updated:'
     },
@@ -242,7 +242,7 @@ const translations = {
         // Footer
         'footer-blessing': 'ॐ श्री गुरुभ्यो नमः | जय ख्यापा परंपरा',
         'footer-description': 'यहाँ पढ़ा गया हर शब्द आपको माँ आद्या महाकाली के और करीब लाए।',
-        'footer-meta': '© 2025 कालीपुत्र-आशीष। सारा ज्ञान साझा करने के लिए हमेशा मुफ़्त है।',
+        'footer-meta': '© ' + CURRENT_YEAR + ' कालीपुत्र-आशीष। सारा ज्ञान साझा करने के लिए हमेशा मुफ़्त है।',
         'footer-version': 'संस्करण:',
         'footer-updated': 'अंतिम अपडेट:'
     }
@@ -343,7 +343,7 @@ Object.assign(translations.hi, {
     'faq-a4-li1': 'ये नाम साहस को जगाने के लिए जपे जाते हैं।',
     'faq-a4-li2': 'ये भीतर के गुरु-तत्त्व को गहरा करते हैं।',
     'faq-a4-li3': 'ये धर्ममार्ग पर चलने की शक्ति को दृढ़ करते हैं।',
-    'footer-meta': '© 2026 कालीपुत्र-आशीष। यहाँ साझा किया गया सारा ज्ञान पढ़ने और बाँटने के लिए निःशुल्क है।',
+    'footer-meta': '© ' + CURRENT_YEAR + ' कालीपुत्र-आशीष। यहाँ साझा किया गया सारा ज्ञान पढ़ने और बाँटने के लिए निःशुल्क है।',
     'hp-count-label': 'पवित्र लेख',
     'hp-count-suffix': 'और निरंतर बढ़ते हुए',
     'hp-search-placeholder': 'शिक्षाएँ, विषय, कीवर्ड खोजें...',

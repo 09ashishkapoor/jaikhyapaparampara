@@ -474,12 +474,16 @@
             <div class="footer-content">
                 <p class="footer-blessing">Om Shri Gurubhyo Namaha | Jai Khyapa Parampara</p>
                 <p class="footer-description">May every image seen here deepen your devotion to Ma Adya Mahakali.</p>
-                <p class="footer-meta">&copy; 2026 KaliPutra-Ashish. All knowledge is forever free to share.</p>
+                <p class="footer-meta">&copy; <span data-current-year></span> KaliPutra-Ashish. All knowledge is forever free to share.</p>
             </div>
         </div>
     </footer>
 
     <script>
+        document.querySelectorAll('[data-current-year]').forEach(node => {
+            node.textContent = new Date().getFullYear();
+        });
+
         const images = [
             { src: '/images/gallery/bhairava_0344.webp', caption: 'bhairava_0344' },
             { src: '/images/gallery/bhairava_2199.webp', caption: 'bhairava_2199' },
