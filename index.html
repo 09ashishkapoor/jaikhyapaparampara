@@ -11,8 +11,8 @@
     <meta name="robots" content="index, follow">
     
     <!-- Build tracking - UPDATE THESE when you make changes to the site -->
-    <meta name="build-version" content="1.61">
-    <meta name="build-date" content="2026-04-13T11:55:31Z">
+    <meta name="build-version" content="1.65">
+    <meta name="build-date" content="2026-04-13T22:56:44Z">
     
     <link rel="canonical" href="https://jaikhyapaparampara.com/">
     <!-- Hreflang for client-side language switching: x-default covers both languages -->
@@ -1236,9 +1236,9 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
             <div class="footer-content">
                 <p class="footer-blessing" data-translate="footer-blessing">Om Shri Gurubhyo Namaha | Jai Khyapa Parampara</p>
                 <p class="footer-description" data-translate="footer-description">May every word read here bring you closer to Ma Adya Mahakali.</p>
-                <p class="footer-meta" data-translate="footer-meta">&copy; 2026 KaliPutra-Ashish. All knowledge is forever free to share.</p>
+                <p class="footer-meta" data-translate="footer-meta">&copy; <span data-current-year></span> KaliPutra-Ashish. All knowledge is forever free to share.</p>
                 <p class="footer-meta"><a href="https://github.com/09ashishkapoor/jaikhyapaparampara" target="_blank" rel="noopener" style="color:var(--accent-bright);text-decoration:none;">⭐ Open Source on GitHub</a></p>
-                <p id="site-version" class="footer-version"><span data-translate="footer-version">Version:</span> <span id="version-value">V1.61</span></p>
+                <p id="site-version" class="footer-version"><span data-translate="footer-version">Version:</span> <span id="version-value">V1.65</span></p>
                 <p id="site-last-updated" class="footer-updated"><span data-translate="footer-updated">Last Updated:</span> <span id="last-updated-value">April 13, 2026</span></p>
             </div>
         </div>
@@ -1356,6 +1356,12 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
             });
         });
     })();
+    </script>
+
+    <script>
+    document.querySelectorAll('[data-current-year]').forEach(node => {
+        node.textContent = new Date().getFullYear();
+    });
     </script>
 
     <script src="script.min.js" defer></script>

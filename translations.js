@@ -1,6 +1,8 @@
 // This file contains the complete translations object
 // Copy this into script.js at the beginning, before other code
 
+const CURRENT_YEAR = new Date().getFullYear();
+
 const translations = {
     en: {
         // Navigation
@@ -121,7 +123,7 @@ const translations = {
         // Footer
         'footer-blessing': 'Om Shri Gurubhyo Namaha | Jai Khyapa Parampara',
         'footer-description': 'May every word read here bring you closer to Ma Adya Mahakali.',
-        'footer-meta': '© 2025 KaliPutra-Ashish. All knowledge is forever free to share.',
+        'footer-meta': '© ' + CURRENT_YEAR + ' KaliPutra-Ashish. All knowledge is forever free to share.',
         'footer-version': 'Version:',
         'footer-updated': 'Last Updated:'
     },
@@ -243,7 +245,7 @@ const translations = {
         // Footer
         'footer-blessing': 'ॐ श्री गुरुभ्यो नमः | जय ख्यापा परंपरा',
         'footer-description': 'यहाँ पढ़ा गया हर शब्द आपको माँ आद्या महाकाली के और करीब लाए।',
-        'footer-meta': '© 2025 कालीपुत्र-आशीष। सारा ज्ञान साझा करने के लिए हमेशा मुफ़्त है।',
+        'footer-meta': '© ' + CURRENT_YEAR + ' कालीपुत्र-आशीष। सारा ज्ञान साझा करने के लिए हमेशा मुफ़्त है।',
         'footer-version': 'संस्करण:',
         'footer-updated': 'अंतिम अपडेट:'
     }
