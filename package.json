@@ -3,10 +3,12 @@
   "version": "1.1.0",
   "description": "Jai Khyapa Parampara - Spiritual website with 11ty blog",
   "scripts": {
-    "build": "eleventy",
-    "serve": "eleventy --serve",
-    "start": "eleventy --serve"
-    ,"update-build": "bash update_build_info.sh"
+    "prepare": "husky",
+    "sync-readme-count": "node scripts/update_readme_article_count.js || python scripts/update_readme_article_count.py || python3 scripts/update_readme_article_count.py",
+    "build": "npm run sync-readme-count && python3 scripts/update_build.py && eleventy",
+    "serve": "npm run sync-readme-count && eleventy --serve",
+    "start": "npm run sync-readme-count && eleventy --serve",
+    "update-build": "python3 scripts/update_build.py"
   },
   "keywords": [
     "spiritual",
@@ -16,6 +18,7 @@
   "author": "KaliPutra-Ashish",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.1"
+    "@11ty/eleventy": "^2.0.1",
+    "husky": "^9.0.0"
   }
 }

@@ -22,7 +22,7 @@ Dedicated to **Gurushreshta Ma Adya Mahakali** and **Baba Kalabhairava**
 
 This repository is the complete source code for **[jaikhyapaparampara.com](https://jaikhyapaparampara.com)** — a spiritual knowledge archive preserving the oral wisdom of the Khyapa Parampara lineage.
 
-The site contains **1,084 articles**: word-for-word conversations, Guru stories, spiritual discourses, and prophecies — originally spoken in **Bengali**, transcribed from YouTube and translated into **English**.
+The site contains **1,193 articles**: word-for-word conversations, Guru stories, spiritual discourses, and prophecies — originally spoken in **Bengali**, transcribed from YouTube and translated into **English**.
 
 ### The Tradition
 
@@ -84,7 +84,7 @@ After cloning, the site builds and serves identically to production — no envir
 ## Repository Structure
 
 ```
-articles/                     # 1084 Markdown articles
+articles/                     # 1193 Markdown articles
 _includes/                    # Liquid templates
 │   base.liquid               #   Site shell (head, nav, footer)
 │   article.liquid            #   Per-article layout

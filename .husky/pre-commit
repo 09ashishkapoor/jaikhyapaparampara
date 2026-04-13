@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+
+npm run sync-readme-count
+git add README.md || true
+
