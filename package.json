@@ -5,10 +5,10 @@
   "scripts": {
     "prepare": "husky",
     "sync-readme-count": "node scripts/update_readme_article_count.js || python scripts/update_readme_article_count.py || python3 scripts/update_readme_article_count.py",
-    "build": "npm run sync-readme-count && eleventy",
+    "build": "npm run sync-readme-count && python3 scripts/update_build.py && eleventy",
     "serve": "npm run sync-readme-count && eleventy --serve",
     "start": "npm run sync-readme-count && eleventy --serve",
-    "update-build": "bash update_build_info.sh"
+    "update-build": "python3 scripts/update_build.py"
   },
   "keywords": [
     "spiritual",
