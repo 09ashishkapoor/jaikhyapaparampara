@@ -41,9 +41,9 @@ def update_build_info():
                 content
             )
             
-            print(f"✓ Version: {current_version} → {new_version}")
+            print(f"OK Version: {current_version} -> {new_version}")
         else:
-            print("✗ Error: Could not find build-version tag")
+            print("Error: Could not find build-version tag")
             return False
         
         # Update date to UTC
@@ -67,17 +67,17 @@ def update_build_info():
             content
         )
         
-        print(f"✓ Date: {utc_timestamp}")
+        print(f"OK Date: {utc_timestamp}")
         
         # Write back
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write(content)
         
-        print("✓ index.html updated successfully!")
+        print("OK index.html updated successfully!")
         return True
         
     except Exception as e:
-        print(f"✗ Error: {e}")
+        print(f"Error: {e}")
         return False
 
 if __name__ == "__main__":
