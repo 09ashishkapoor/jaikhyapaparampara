@@ -1,4 +1,31 @@
 module.exports = function(eleventyConfig) {
+  const fs = require("fs");
+  const path = require("path");
+
+  function syncReadmeArticleCount() {
+    try {
+      const articlesDir = path.join(__dirname, "articles");
+      const readmePath = path.join(__dirname, "README.md");
+
+      if (!fs.existsSync(articlesDir) || !fs.existsSync(readmePath)) {
+        return;
+      }
+
+      const articleCount = fs.readdirSync(articlesDir).filter((fileName) => fileName.endsWith(".md")).length;
+      const original = fs.readFileSync(readmePath, "utf8");
+      let updated = original;
+
+      updated = updated.replace(/(The site contains \*\*)(\d+)(\s+articles\*\*)/, `$1${articleCount}$3`);
+      updated = updated.replace(/(articles\/\s+#\s*)(\d+)(\s+Markdown articles)/, `$1${articleCount}$3`);
+
+      if (updated !== original) {
+        fs.writeFileSync(readmePath, updated, "utf8");
+      }
+    } catch (error) {
+      console.error("Failed to sync README article count:", error);
+    }
+  }
+
   // Copy static assets to output
   eleventyConfig.addPassthroughCopy("styles.css");
   eleventyConfig.addPassthroughCopy("styles.min.css");
@@ -22,10 +49,12 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("_headers");
   eleventyConfig.addPassthroughCopy("_redirects");
 
+  eleventyConfig.on("eleventy.before", async () => {
+    syncReadmeArticleCount();
+  });
+
   // Copy sitemap to root after build completes
   eleventyConfig.on("eleventy.after", async ({ dir }) => {
-    const fs = require("fs");
-    const path = require("path");
     const sitemapSrc = path.join(dir.output, "sitemap.xml");
     const sitemapDest = path.join(".", "sitemap.xml");
 
