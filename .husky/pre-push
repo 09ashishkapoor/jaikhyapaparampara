@@ -1,0 +1,10 @@
+#!/usr/bin/env sh
+
+echo "Running Playwright validation before push..."
+npm run validate
+
+if [ $? -ne 0 ]; then
+  echo "Playwright validation failed. Push blocked."
+  echo "Fix the failing tests before pushing."
+  exit 1
+fi
