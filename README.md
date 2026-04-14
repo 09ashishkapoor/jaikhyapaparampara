@@ -81,6 +81,38 @@ After cloning, the site builds and serves identically to production — no envir
 
 ---
 
+## Validation Baseline
+
+This repo now ships with a lightweight Playwright-based validation baseline for merge review:
+
+- smoke coverage for the homepage, search flow, and sacred art gallery
+- a scoped `@axe-core/playwright` accessibility check for the search experience
+- 3 stable visual regression snapshots
+- a homepage performance budget test
+- GitHub Actions for Playwright validation and CI link checking
+
+### Local usage
+
+```bash
+# Install browser dependencies once after npm install
+npx playwright install chromium
+
+# Run the full validation suite
+npm run validate
+```
+
+### Updating visual baselines intentionally
+
+```bash
+npm run validate:update-snapshots
+```
+
+Re-run `npm run validate` after refreshing snapshots, then review the changed files under `tests/visual/*-snapshots/` before committing.
+
+For the repo-standardized pattern and reuse notes, see [VALIDATION_BASELINE.md](VALIDATION_BASELINE.md).
+
+---
+
 ## Repository Structure
 
 ```

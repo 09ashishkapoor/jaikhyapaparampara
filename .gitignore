@@ -30,6 +30,7 @@ node_modules/
 package-lock.json
 yarn.lock
 .npm-cache/
+!package-lock.json
 
 # ── Build outputs ─────────────────────────────────────────────
 _site/
@@ -160,3 +161,9 @@ kalabhairava_108names_onelinemeanings.md
 !.github/ISSUE_TEMPLATE/feature_request.yml
 !.github/ISSUE_TEMPLATE/config.yml
 !.github/pull_request_template.md
+!.github/workflows/
+!.github/workflows/validation.yml
+
+# Validation artifacts
+playwright-report/
+test-results/

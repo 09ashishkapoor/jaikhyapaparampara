@@ -8,7 +8,9 @@
     "build": "npm run sync-readme-count && node scripts/update_build.js && eleventy",
     "serve": "npm run sync-readme-count && eleventy --serve",
     "start": "npm run sync-readme-count && eleventy --serve",
-    "update-build": "node scripts/update_build.js"
+    "update-build": "node scripts/update_build.js",
+    "validate": "playwright test",
+    "validate:update-snapshots": "playwright test tests/visual --update-snapshots"
   },
   "keywords": [
     "spiritual",
@@ -19,6 +21,8 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
+    "@axe-core/playwright": "^4.11.1",
+    "@playwright/test": "^1.59.1",
     "husky": "^9.0.0"
   }
 }
