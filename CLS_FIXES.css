@@ -183,7 +183,7 @@
 /* SECTION 2: NAV-CONTROLS FIXES
    ========================================================================== */
 
-/* Fix 11: Nav controls - prevent reflow on language switch */
+/* Fix 11: Nav controls - prevent control wrapping */
 .nav-controls {
     display: flex;
     align-items: center;
@@ -191,54 +191,6 @@
     flex-wrap: nowrap;  /* Prevent wrapping */
 }
 
-/* Fix 12: Language toggle container */
-.lang-toggle {
-    display: flex;
-    gap: 0.5rem;
-    align-items: center;
-    flex-shrink: 0;  /* Critical: prevent shrinking */
-}
-
-/* Fix 13: Language buttons - CRITICAL - lock dimensions */
-.lang-btn {
-    background: transparent;
-    border: 2px solid rgba(232, 196, 104, 0.3);
-    color: var(--text-light);
-    padding: 0;  /* Remove padding, use explicit width/height */
-    font-size: 0.95rem;
-    font-weight: 700;
-    font-family: 'Philosopher', 'Trebuchet MS', Arial, sans-serif;
-    cursor: pointer;
-    border-radius: 8px;
-    transition: all 0.3s ease;
-    /* CRITICAL: Lock dimensions to prevent button shift */
-    width: 85px;
-    height: 44px;
-    min-width: 85px;
-    min-height: 44px;
-    max-width: 85px;
-    max-height: 44px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-transform: capitalize;
-    letter-spacing: 0.3px;
-    white-space: nowrap;
-    flex-shrink: 0;  /* Prevent button from shrinking */
-}
-
-.lang-btn:hover {
-    border-color: var(--accent-color);
-    background: rgba(232, 196, 104, 0.1);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(232, 196, 104, 0.2);
-}
-
-.lang-btn.active {
-    background: linear-gradient(135deg, rgba(232, 196, 104, 0.2) 0%, rgba(139, 38, 53, 0.1) 100%);
-    border-color: var(--accent-color);
-    box-shadow: 0 0 15px rgba(232, 196, 104, 0.3);
-}
 
 /* Fix 14: Audio toggle button - lock dimensions */
 #audio-toggle {
@@ -337,16 +289,6 @@ h1, h2, h3, .hero-title {
         gap: 1rem;
     }
 
-    .lang-btn {
-        width: 75px;
-        height: 40px;
-        min-width: 75px;
-        min-height: 40px;
-        max-width: 75px;
-        max-height: 40px;
-        font-size: 0.85rem;
-    }
-
     #audio-toggle {
         width: 40px;
         height: 40px;
@@ -372,16 +314,6 @@ h1, h2, h3, .hero-title {
         width: 120px;
         height: 120px;
     }
-
-    .lang-btn {
-        width: 65px;
-        height: 36px;
-        min-width: 65px;
-        min-height: 36px;
-        max-width: 65px;
-        max-height: 36px;
-        font-size: 0.8rem;
-    }
 }
 
 /* ============================================================================
@@ -391,7 +323,6 @@ h1, h2, h3, .hero-title {
    
    ☐ Hero section height is locked (no overflow)
    ☐ Images load without causing layout shift
-   ☐ Language buttons don't change size when clicked
    ☐ Audio button alignment is stable
    ☐ Font loading doesn't cause text reflow (use DevTools Network > Slow 3G)
    ☐ Mobile responsiveness maintained

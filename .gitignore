@@ -17,6 +17,7 @@ ehthumbs.db
 *~
 .kilocodemodes
 .omx/
+.codex/
 
 # ── Logs ──────────────────────────────────────────────────────
 *.log

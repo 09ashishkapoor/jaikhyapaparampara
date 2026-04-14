@@ -1,5 +1,7 @@
 README.md
 node_modules
+.codex
+.omx
 markdownfiles_forblog/
 website_redesign_plan/
 *.py

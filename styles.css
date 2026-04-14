@@ -221,54 +221,6 @@ main {
     gap: 1.5rem;
 }
 
-.lang-toggle {
-    display: flex;
-    gap: 0.5rem;
-    align-items: center;
-}
-
-.lang-btn {
-    background: transparent;
-    border: 2px solid rgba(232, 196, 104, 0.3);
-    color: var(--text-light);
-    padding: 0.5rem 1rem;
-    font-size: 0.95rem;
-    font-weight: 700;
-    font-family: 'Philosopher', 'Trebuchet MS', Arial, sans-serif;
-    cursor: pointer;
-    border-radius: 8px;
-    transition: all 0.3s ease;
-    min-width: 70px;
-    min-height: 44px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-transform: capitalize;
-    letter-spacing: 0.3px;
-    white-space: nowrap;
-    /* CRITICAL: Prevent CLS from active state changes */
-    line-height: 1.2;
-}
-
-.lang-btn:hover {
-    border-color: var(--accent-color);
-    background: rgba(232, 196, 104, 0.1);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(232, 196, 104, 0.2);
-}
-
-.lang-btn.active {
-    background: var(--gold-gradient);
-    color: var(--primary-dark);
-    border-color: var(--accent-bright);
-    box-shadow: 0 4px 15px rgba(232, 196, 104, 0.4);
-    font-weight: 800;
-}
-
-.lang-btn:focus {
-    outline: 2px solid var(--accent-color);
-    outline-offset: 2px;
-}
 
 @keyframes slideIn {
     from {
@@ -1555,17 +1507,6 @@ main {
         gap: 1rem;
     }
     
-    .lang-toggle {
-        gap: 0.35rem;
-    }
-    
-    .lang-btn {
-        padding: 0.4rem 0.8rem;
-        font-size: 0.95rem;
-        min-width: 45px;
-        min-height: 44px;
-    }
-    
     .faq-grid {
         max-width: 100%;
         gap: 1rem;
@@ -1610,15 +1551,6 @@ main {
 }
 
 @media (max-width: 480px) {
-    .lang-toggle {
-        gap: 0.3rem;
-    }
-    
-    .lang-btn {
-        padding: 0.35rem 0.7rem;
-        font-size: 0.9rem;
-        min-width: 42px;
-    }
     
     .faq-question {
         padding: 1rem;

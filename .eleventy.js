@@ -35,7 +35,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("CLS_FIXES.css");
   eleventyConfig.addPassthroughCopy("script.js");
   eleventyConfig.addPassthroughCopy("script.min.js");
-  eleventyConfig.addPassthroughCopy("translations.js");
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("gallery.html");
   eleventyConfig.addPassthroughCopy("*.png");
@@ -50,12 +49,12 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("_headers");
   eleventyConfig.addPassthroughCopy("_redirects");
 
-  eleventyConfig.on("eleventy.before", async () => {
+  eleventyConfig.on("eleventy.before", () => {
     syncReadmeArticleCount();
   });
 
   // Copy sitemap to root after build completes
-  eleventyConfig.on("eleventy.after", async ({ dir }) => {
+  eleventyConfig.on("eleventy.after", ({ dir }) => {
     const sitemapSrc = path.join(dir.output, "sitemap.xml");
     const sitemapDest = path.join(".", "sitemap.xml");
 

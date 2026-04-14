@@ -99,7 +99,6 @@ scripts/                      # Python build & audit helpers
 wrangler.toml                 # Cloudflare Pages config
 styles.css / styles.min.css   # Stylesheet (source + minified)
 script.js  / script.min.js    # Frontend JS (source + minified)
-translations.js               # i18n strings (EN / HI)
 sitemap.liquid                # Sitemap template → sitemap.xml
 search-index.11ty.js          # Client-side search index (JS template)
 gallery.html                  # Sacred image gallery
