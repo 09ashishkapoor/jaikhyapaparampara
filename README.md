@@ -95,6 +95,8 @@ This repo now ships with a lightweight Playwright-based validation baseline for 
 
 All validations run automatically before every `git push` (including VS Code sync). If any test fails, the push is blocked until fixed — no manual steps needed.
 
+> **Note:** The performance budget test is excluded from the pre-push hook — LCP timing varies by machine and runs reliably on GitHub CI only. All other tests (smoke, accessibility, visual snapshots) run locally.
+
 To bypass in an emergency:
 ```bash
 git push --no-verify
