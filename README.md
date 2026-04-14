@@ -91,13 +91,22 @@ This repo now ships with a lightweight Playwright-based validation baseline for 
 - a homepage performance budget test
 - GitHub Actions for Playwright validation and CI link checking
 
+### Pre-push hook (automatic)
+
+All validations run automatically before every `git push` (including VS Code sync). If any test fails, the push is blocked until fixed — no manual steps needed.
+
+To bypass in an emergency:
+```bash
+git push --no-verify
+```
+
 ### Local usage
 
 ```bash
 # Install browser dependencies once after npm install
 npx playwright install chromium
 
-# Run the full validation suite
+# Run the full validation suite manually
 npm run validate
 ```
 
