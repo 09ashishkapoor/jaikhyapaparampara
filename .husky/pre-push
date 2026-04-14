@@ -2,7 +2,7 @@
 
 echo "Running Playwright validation before push..."
 # Exclude performance tests — LCP timing is machine-dependent and runs reliably on CI only
-npx playwright test --ignore=tests/performance
+npx playwright test tests/smoke tests/visual tests/accessibility
 
 if [ $? -ne 0 ]; then
   echo "Playwright validation failed. Push blocked."
