@@ -2,13 +2,13 @@
 layout: article
 title: "Kalabhairava Name 78: Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya - Meaning and Significance"
 breadcrumbTitle: "Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya"
-description: "Discover the deep spiritual English meaning and elaboration of Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya, the 78th name of Lord Kalabhairava: Whose fiery eyes illuminate the powers of action, will, and knowledge."
+description: "English meaning and spiritual significance of Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya, the 78th name of Lord Kalabhairava, whose fiery eyes illumine action, will, and knowledge."
 keywords: "Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya, Kalabhairava name 78, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Temple of Knowledge"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"
-readingTime: 2
+readingTime: 3
 tags:
   - articles
   - Kalabhairava
@@ -26,26 +26,31 @@ Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
 **Whose fiery eyes illuminate the powers of action, will, and knowledge.**
 
-As we continue to unfold the spiritual depth of the 108 names of Kalabhairava, we turn our attention to name number 78: **Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya**. Each name in this sacred sequence is a mantra in its own right. Known as *'whose fiery eyes illuminate the powers of action, will, and knowledge.'*, this particular attribute highlights a fascinating aspect of Kalabhairava's cosmic role. Read on to discover the symbolic and philosophical significance behind this divine name.
+The seventy-eighth name, **Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya**, is one of the most intricate in the namavali. Its imagery is vivid: Bhairava's eyes blaze like fire, and that blazing vision illumines the three divine powers of action, will, and knowledge. The name does not describe a passive splendor. It presents consciousness itself as awake, fierce, and world-shaping.
 
 ### Elaboration
 
-This intricate name combines several profound concepts, describing Kalabhairava's eyes (Locana) as the source of illumination (Pradīpa) for the fundamental cosmic powers: Kriyā (Action), Icchā (Will/Desire), and Jñana (Knowledge).
+In Shaiva understanding, **iccha-shakti**, **jnana-shakti**, and **kriya-shakti** are three foundational powers of the Divine. Will initiates, knowledge discerns, and action manifests. This name praises Kalabhairava as the one whose fiery gaze reveals and animates all three.
 
-Fiery Eyes of Illumination (Kriyecchājñānaśakti Pradīpa Kṣaṇalocanāya)
-The phrase "Kṣaṇalocanāya" (often abbreviated or slightly varied as "Kanalalocanāya" in some traditions for poetic flow) literally means "whose eyes are like fire/momentary glances." These eyes are not merely physical organs but symbolic portals through which divine consciousness radiates. They are "Pradīpa" – lamps that illuminate, signifying that these powers are made manifest and perceptible through His divine gaze.
+**The Fire in Bhairava's Eyes**
 
-Kriyā-Śakti: The Power of Action
-Kriyā-Śakti is the divine power of creative activity, the force that brings all phenomena into being and sustains them. It is the dynamic aspect of the Divine that performs, manifests, and acts within the cosmos. Kalabhairava's fiery eyes illuminate this power, meaning He is the ultimate orchestrator and source of all action, making it possible for the universe to unfold. For a devotee, it implies that true, effective action must align with the divine will revealed by His gaze.
+The image of fiery eyes suggests more than wrath. Fire illuminates, purifies, and transforms. When the name says Bhairava's eyes are lamps of these powers, it implies that divine vision is itself active. His gaze does not simply observe the universe from a distance. It awakens, directs, and energizes the forces through which the cosmos unfolds.
 
-Icchā-Śakti: The Power of Will/Desire
-Icchā-Śakti is the divine will or desire, the supreme intention from which all creation springs. It is the initial impulse, the desire for manifestation, the primordial "let there be." Kalabhairava's illumination of Icchā-Śakti means that His will is supreme and drives all existence. All desires, all intentions, whether cosmic or individual, ultimately flow from or are permitted by His divine will. Recognizing this helps a devotee align their own will with the divine.
+**Iccha-Shakti: The Power of Divine Will**
 
-Jñana-Śakti: The Power of Knowledge
-Jñana-Śakti is the divine power of infinite knowledge, wisdom, and awareness. It is the consciousness that comprehends all things, past, present, and future, without limitation. Kalabhairava's fiery eyes illuminating Jñana-Śakti means He is the fount of all knowledge, and through His gaze, all truth is revealed. He is the ultimate knower, and His knowledge is the light that dispels ignorance and illusion. For the seeker, His gaze grants true discerning wisdom.
+**Iccha-shakti** is the power of intention, the primordial urge toward manifestation. It is the movement by which the unmanifest turns toward expression. To say Bhairava illumines this power is to say that divine will is not blind impulse. It is conscious, ordered, and rooted in awareness. For the devotee, this points toward the need to align personal desire with a higher will rather than remain driven by restless craving.
 
-The Triad of Śaktis (Powers)
-Kriyā, Icchā, and Jñana Śaktis are considered the fundamental powers (Śaktis) of the Divine in Shaivism, particularly in Kashmiri Shaivism. They are often seen as inseparable aspects of Shiva's consciousness, yet distinct in their function. By having His fiery eyes illuminate them, Kalabhairava is presented as the very embodiment and activating principle of these three cardinal forces that govern creation, sustenance, and dissolution. His gaze makes these abstract powers tangible and dynamic, revealing their profound interplay within the cosmos and within the individual.
+**Jnana-Shakti: The Power of Knowledge**
+
+**Jnana-shakti** is the power of knowing, the clarity by which things are understood as they are. Under Bhairava's fiery gaze, knowledge is not dry accumulation. It is penetrating insight. It cuts through appearance, exposes illusion, and reveals the deeper pattern within life. This is why the name carries both philosophical and devotional force: Bhairava is honored as the light behind true discernment.
+
+**Kriya-Shakti: The Power of Action**
+
+**Kriya-shakti** is the power by which intention and knowledge take form in creation. It is movement, manifestation, and effective doing. When Bhairava illumines this power, action is shown in its sacred dimension. Deeds are not separate from consciousness; they are its outward expression. The name therefore points beyond mere activity and toward action guided by wisdom and aligned with divine purpose.
+
+**The Three Powers Held Together**
+
+The beauty of this name is that it keeps these powers united. Will without knowledge becomes impulse. Knowledge without action remains incomplete. Action without right will becomes scattered. Bhairava's fiery eyes illumine all three together, revealing the harmony through which divine consciousness creates, sustains, and transforms the world.
 
 ---
 
@@ -63,5 +68,5 @@ Kriyā, Icchā, and Jñana Śaktis are considered the fundamental powers (Śakti
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Each name of Lord Kalabhairava is a gateway to deeper consciousness. Contemplating on <strong>Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya</strong> helps the seeker align with the divine attributes of time, protection, and transformation.</p>
+<p>Contemplating <strong>Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya</strong> reminds the seeker that Bhairava's vision is not inert: it kindles right will, clear knowledge, and purposeful action together.</p>
 </div>

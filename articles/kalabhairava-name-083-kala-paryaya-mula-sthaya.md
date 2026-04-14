@@ -2,13 +2,13 @@
 layout: article
 title: "Kalabhairava Name 83: Kala-Paryaya-Mula-Sthaya - Meaning and Significance"
 breadcrumbTitle: "Kala-Paryaya-Mula-Sthaya"
-description: "Discover the deep spiritual English meaning and elaboration of Kala-Paryaya-Mula-Sthaya, the 83rd name of Lord Kalabhairava: The Root of the Cycles of Time and Transformation."
+description: "English meaning and spiritual significance of Kala-Paryaya-Mula-Sthaya, the 83rd name of Lord Kalabhairava, the abiding source behind the cycles and transformations of time."
 keywords: "Kala-Paryaya-Mula-Sthaya, Kalabhairava name 83, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Paryaya-Mula-Sthaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Temple of Knowledge"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"
-readingTime: 2
+readingTime: 3
 tags:
   - articles
   - Kalabhairava
@@ -26,23 +26,27 @@ Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
 **The Root of the Cycles of Time and Transformation.**
 
-There is immense power in understanding the names we chant. Today, we are exploring the 83rd name from the Kalabhairava Namavali: **Kala-Paryaya-Mula-Sthaya**. With a core definition of *'the Root of the Cycles of Time and Transformation.'*, this title is far more than just a descriptor—it is a profound spiritual revelation. Let's look closer at the elaboration of this name and what it can teach us about time, existence, and ultimate liberation.
+The eighty-third name, **Kala-Paryaya-Mula-Sthaya**, takes the mind straight into the mystery of time. It presents Lord Kalabhairava not only as the ruler of time, but as the hidden root from which its cycles arise. Days and nights, birth and death, creation and dissolution, growth and decline all move in turning rhythms. This name teaches that those rhythms are not ultimate in themselves. Their source rests in Bhairava.
 
 ### Elaboration
 
-This name breaks down into Kāla (Time), Paryāya (Cycles/Revolutions), Mūla (Root/Source), and Sthāya (He who stands/abides). Thus, "He who is the fundamental source and foundation of the cycles and transformations of Time."
+The name may be unfolded as follows: **kala** means time, **paryaya** suggests cycles, turns, or recurring phases, **mula** means root or source, and **sthaya** points to one who abides or remains established. Together the title praises Kalabhairava as the abiding source behind the recurring transformations of time.
 
-The Root of Time's Cycles (Kāla-Paryāya-Mūla)
-Kalabhairava is depicted not merely as a lord of time, but as the very bedrock and origin of how time unfolds. "Paryāya" signifies the cyclical nature of time – the eternal recurrence of creation, preservation, and dissolution (Sr̥ṣṭi, Sthiti, Saṃhāra). He is the fundamental energy from which these cycles emerge and into which they ultimately return. He is the blueprint and the prime mover of cosmic evolution and involution.
+**The Cycles of Time**
 
-Source of Transformation
-Because he is the root of these cycles, he is also the source of all transformation. Every change, every becoming, every decay in the universe is fundamentally rooted in his being. This emphasizes his role as the ultimate alchemist, orchestrating the continuous processes of change that drive the cosmos.
+Time in Hindu thought is rarely imagined as a straight line alone. It moves in repeating currents: dawn follows night, seasons return, lives unfold, worlds arise and dissolve. These recurring phases are captured in the word **paryaya**. By linking Bhairava to their root, the name says something profound: he is not merely moving with the wheel of time; he stands beneath it as its source.
 
-The Abiding Foundation (Sthāya)
-While everything else is subject to these cycles and transformations, Kalabhairava himself, as the "Sthāya" (one who abides/stands), remains eternal and unchanging. He is the still point around which the colossal wheel of time rotates. He is the constant substratum that supports all transient phenomena. This paradoxical nature—being simultaneously the dynamic source of change and the immutable ground of existence—is a hallmark of Shiva's ultimate reality.
+**The Root of Transformation**
 
-Philosophical Significance
-This name profoundly asserts his ultimate sovereignty and transcendence. He is not merely a force within time; he is the very metaphysical structure and sustained reality of time itself. Devotion to Kalabhairava in this aspect helps a devotee understand the impermanence of all things conditioned by time, while simultaneously connecting them to the eternal, unchanging source from which all temporality springs.
+If time moves in cycles, then all change belongs to those cycles. Birth leads toward growth, fullness leads toward decline, and dissolution clears the ground for renewal. In that sense Bhairava is also the source of transformation itself. Every shift in form, every ending, and every beginning stands within the field of his power. This gives the name both a philosophical depth and a devotional tenderness, because change is no longer meaningless flux. It is held within sacred order.
+
+**The One Who Abides While All Else Changes**
+
+The final part of the name, **sthaya**, adds an important paradox. Bhairava is the root of movement, yet he also abides. The world changes, but he remains. Time flows, but he is not swept away by it. This is one of the deepest Shaiva insights: the Divine is both the source of cosmic process and the changeless ground that supports it. The devotee therefore learns to look beyond passing appearances toward the stable reality in which they arise.
+
+**What This Means for the Devotee**
+
+To meditate on **Kala-Paryaya-Mula-Sthaya** is to soften one's fear of change. What is born will pass, and what passes may return in another form. But underneath these movements there is an abiding presence. Bhairava is that presence. Remembering this can steady the heart in times of uncertainty, loss, transition, or waiting. The name does not deny impermanence; it reveals the eternal source from which impermanence unfolds.
 
 ---
 
@@ -60,5 +64,5 @@ This name profoundly asserts his ultimate sovereignty and transcendence. He is n
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Each name of Lord Kalabhairava is a gateway to deeper consciousness. Contemplating on <strong>Kala-Paryaya-Mula-Sthaya</strong> helps the seeker align with the divine attributes of time, protection, and transformation.</p>
+<p>Contemplating <strong>Kala-Paryaya-Mula-Sthaya</strong> helps the seeker rest in the abiding source beneath all change, rather than being overwhelmed by the turning of time.</p>
 </div>

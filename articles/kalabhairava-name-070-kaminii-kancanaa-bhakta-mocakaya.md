@@ -2,13 +2,13 @@
 layout: article
 title: "Kalabhairava Name 70: Kaminii-Kancanaa-Bhakta-Mocakaya - Meaning and Significance"
 breadcrumbTitle: "Kaminii-Kancanaa-Bhakta-Mocakaya"
-description: "Discover the deep spiritual English meaning and elaboration of Kaminii-Kancanaa-Bhakta-Mocakaya, the 70th name of Lord Kalabhairava: The Liberator of Devotees from Attachment to Women and Gold."
+description: "English meaning and spiritual significance of Kaminii-Kancanaa-Bhakta-Mocakaya, the 70th name of Lord Kalabhairava, who frees devotees from bondage to lust and greed."
 keywords: "Kaminii-Kancanaa-Bhakta-Mocakaya, Kalabhairava name 70, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kaminii-Kancanaa-Bhakta-Mocakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Temple of Knowledge"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"
-readingTime: 2
+readingTime: 3
 tags:
   - articles
   - Kalabhairava
@@ -24,25 +24,31 @@ Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
-**The Liberator of Devotees from Attachment to Women and Gold.**
+**The liberator of devotees from attachment to lust and gold.**
 
-As we continue to unfold the spiritual depth of the 108 names of Kalabhairava, we turn our attention to name number 70: **Kaminii-Kancanaa-Bhakta-Mocakaya**. Each name in this sacred sequence is a mantra in its own right. Known as *'the Liberator of Devotees from Attachment to Women and Gold.'*, this particular attribute highlights a fascinating aspect of Kalabhairava's cosmic role. Read on to discover the symbolic and philosophical significance behind this divine name.
+The seventieth name, **Kaminii-Kancanaa-Bhakta-Mocakaya**, praises Kalabhairava as the one who frees the devotee from two of the oldest bondages named in spiritual life: craving and possessiveness. In traditional devotional language, "women and gold" points to sensual desire and greed for wealth. The force of the name is not contempt for the world, nor contempt for women. It is a warning that when desire hardens into bondage, the mind loses its freedom. Bhairava is invoked here as the Lord who cuts that bondage at its root.
 
 ### Elaboration
 
-This name is a compound of several significant terms: Kaminī (lustful woman), Kānchana (gold, wealth), Ābhakta (a devotee, one who is dedicated), and Mochakāya (one who liberates or releases).
+The name may be understood through four parts: **kaminii**, sensual attraction or lust; **kancanaa**, gold or worldly wealth; **bhakta**, the devotee; and **mocakaya**, the one who releases or liberates.
 
-Liberator from Attachment to Women (Kaminī)
-Kaminī here signifies not just women, but more broadly, lust, sensual desires, and the attachments that arise from them. Kalabhairava, as Kaminīmochaka, releases his devotees from the bondage of these intense worldly desires. This does not imply misogyny but rather a profound spiritual teaching: that excessive attachment to sensual pleasures can hinder one's spiritual progress and lead to suffering. He frees the mind from the intoxicating power of lust, allowing for a higher focus.
+**Freedom from Sensual Bondage**
 
-Liberator from Attachment to Gold (Kānchana)
-Kānchana represents material wealth, possessions, and the insatiable desire for them. Attachment to gold and material possessions is seen as a major impediment to spiritual liberation in many traditions. Kalabhairava, as Kānchanamochaka, liberates his devotees from the avarice and greed associated with wealth, helping them to cultivate detachment (vairagya). This detachment is not about renouncing wealth itself, but about transcending the obsessive desire for it and its illusory sense of security.
+The first half of the name points toward the pull of pleasure, fascination, and emotional entanglement. In many devotional traditions, such longing is not condemned simply because it exists. It becomes a problem when it rules the mind and draws the seeker away from truth, steadiness, and remembrance of the Divine. Bhairava's grace is asked for at exactly that point. He loosens obsession so that desire no longer governs one's inner life.
 
-The Devotee's Journey (Ābhakta)
-The term Ābhakta implies a devotee who genuinely seeks liberation. This liberation is not given indiscriminately but is bestowed upon those who have shown dedication and a sincere desire to move beyond worldly entanglements. It emphasizes the active role of the seeker in submitting to the divine will for release.
+**Freedom from Greed and Possessiveness**
 
-Ultimate Spiritual Freedom (Mochakāya)
-Mochakāya refers to the act of liberation or release. In a spiritual context, this means freeing the soul from the cycles of karma and rebirth (samsara). By releasing devotees from the primary attachments of sensory pleasure (represented by Kaminī) and material possessions (represented by Kānchana), Kalabhairava guides them toward moksha, ultimate spiritual freedom. This liberation allows the mind to turn inward and realize its true, divine nature, unburdened by worldly distractions.
+The second image is gold. Wealth itself is not treated as evil here; attachment to wealth is the real concern. Gold symbolizes security, status, accumulation, and the restless fear of losing what one has gathered. This name honors Bhairava as the one who helps the devotee step out of that anxiety. When greed softens, the heart becomes lighter, generosity becomes possible, and spiritual practice becomes more sincere.
+
+**Why the Devotee Is Named**
+
+The inclusion of **bhakta** matters. This is not an abstract philosophical formula. It is a devotional relationship. The Lord is praised as the liberator **of the devotee** because freedom is received in surrender, prayer, discipline, and repeated turning toward him. The name suggests that detachment is not accomplished by willpower alone. It ripens through grace.
+
+**Toward Inner Release**
+
+Seen together, lust and greed stand for the larger machinery of worldly bondage. One binds through pleasure, the other through possession. Bhairava is remembered here as the fierce compassion that releases the seeker from both. His liberation does not require the devotee to hate the world. Rather, it teaches how to live in the world without being owned by its hungers.
+
+Meditating on **Kaminii-Kancanaa-Bhakta-Mocakaya** therefore becomes a prayer for inward clarity. It asks Bhairava to free the heart from compulsions that promise satisfaction yet keep it restless, so that the mind may turn again toward truth, discipline, and liberation.
 
 ---
 
@@ -60,5 +66,5 @@ Mochakāya refers to the act of liberation or release. In a spiritual context, t
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Each name of Lord Kalabhairava is a gateway to deeper consciousness. Contemplating on <strong>Kaminii-Kancanaa-Bhakta-Mocakaya</strong> helps the seeker align with the divine attributes of time, protection, and transformation.</p>
+<p>Contemplating <strong>Kaminii-Kancanaa-Bhakta-Mocakaya</strong> reminds the seeker to ask Bhairava for freedom from craving and greed, so devotion may become steadier and more inwardly free.</p>
 </div>

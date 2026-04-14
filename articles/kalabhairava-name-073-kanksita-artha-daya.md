@@ -2,13 +2,13 @@
 layout: article
 title: "Kalabhairava Name 73: Kanksita-Artha-Daya - Meaning and Significance"
 breadcrumbTitle: "Kanksita-Artha-Daya"
-description: "Discover the deep spiritual English meaning and elaboration of Kanksita-Artha-Daya, the 73rd name of Lord Kalabhairava: Bestower of Desired Boons and Fulfillment."
+description: "English meaning and spiritual significance of Kanksita-Artha-Daya, the 73rd name of Lord Kalabhairava, who grants the sincerely sought aims and blessings of his devotees."
 keywords: "Kanksita-Artha-Daya, Kalabhairava name 73, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kanksita-Artha-Daya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Temple of Knowledge"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"
-readingTime: 1
+readingTime: 3
 tags:
   - articles
   - Kalabhairava
@@ -24,22 +24,29 @@ Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
-**Bestower of Desired Boons and Fulfillment.**
+**Bestower of desired blessings and fulfillment.**
 
-Namaste, seekers. In our journey through the sacred Kalabhairava Ashtottarashata Namavali, we arrive at the 73rd name: **Kanksita-Artha-Daya**. Chanting or meditating upon this powerful epithet brings its own unique blessings. Essentially meaning *'bestower of Desired Boons and Fulfillment.'*, this name opens a distinct doorway into understanding the fierce yet compassionate nature of Lord Kalabhairava. Let's unpack the esoteric and practical wisdom hidden within this title.
+The seventy-third name, **Kanksita-Artha-Daya**, reveals a tender and reassuring side of Bhairava. Many names in the namavali emphasize fierceness, guardianship, or the destruction of impurity. This one reminds the devotee that the same Lord who cuts through fear and delusion also responds to sincere longing. Bhairava is not distant from human need. He is the giver of what is truly sought.
 
 ### Elaboration
 
-This name elucidates Kalabhairava's benevolent aspect, where he acts as a divine benefactor who grants the heartfelt wishes (kāṅkṣita) of his devotees, leading to their prosperity and contentment (artha) and ultimately their spiritual fulfillment (dāya).
+The name is usually understood through three parts: **kanksita**, **artha**, and **daya**. **Kanksita** means what is desired, hoped for, or longed for. **Artha** can refer to an aim, benefit, meaning, or material well-being. **Daya** here carries the sense of giving or bestowing. Together, the name points to Bhairava as the one who grants the sought-for good.
 
-Bestower of Desired Boons (Kāṅkṣitārthadāya)
-The term "kāṅkṣita" refers to cherished or deeply desired objects, goals, or aspirations. "Artha" encompasses both material prosperity, worldly well-being, and also the broader meaning of purpose or value. "Dāya" signifies the act of bestowing or granting. Thus, Kalabhairava is depicted here not merely as a terrifying Destroyer, but as a compassionate Lord who understands and fulfills the earnest desires of those who worship him with sincerity.
+**More Than Material Gain**
 
-Fulfillment for Devotees
-This aspect highlights that while Kalabhairava embodies ultimate reality and fierce justice, he is also profoundly accessible and responsive to the prayers of his devotees. He grants both material and spiritual boons, guiding them towards a life that is both materially stable and spiritually enriched. This suggests his role in balancing the immediate needs of human existence with the ultimate quest for liberation.
+At first glance, the name may sound as though it refers only to worldly success. But **artha** is wider than possession or wealth. It can also mean purpose, value, and what gives direction to life. In that sense, Bhairava is not praised as a giver of random favors. He is honored as the Lord who grants what is genuinely needed, whether that appears as protection, stability, clarity, opportunity, or inner strength.
 
-Balancing Ferocity with Benevolence
-This name beautifully complements his fierce aspects. It underscores the Shaivite understanding that the Divine encompasses all dualities—destruction and creation, terror and compassion. His ferocity purges impurities and obstacles, creating a clear path for the granting of boons and spiritual progress. The blessings he bestows are thus often a result of the inner transformation facilitated by his powerful presence.
+**The Devotee's Longing Matters**
+
+This name also speaks to the devotional relationship itself. Bhairava is fierce, but never indifferent. When prayer arises from sincerity rather than greed, it is received. The tradition often holds that divine grace does not merely satisfy desire at the surface level; it also purifies desire so that the seeker begins to ask for what is worthy, sustaining, and liberating. In that way, fulfillment becomes both outer support and inner maturation.
+
+**Grace Working Through Transformation**
+
+Kanksita-Artha-Daya should therefore be read alongside Bhairava's more formidable names. He grants blessings not by bypassing truth, but by clearing the obstacles that keep the devotee bound. What he gives may come through discipline, loss of illusion, removal of fear, or the strength to endure a necessary change. His generosity is inseparable from wisdom.
+
+**What the Name Offers the Devotee**
+
+For the seeker, meditating on **Kanksita-Artha-Daya** becomes a way of examining desire in the light of devotion. What do I really seek? What would actually nourish the path? This name encourages trust that Bhairava knows the difference between passing craving and heartfelt need. To remember him in this form is to place one's hopes before a Lord who protects, provides, and guides the soul toward deeper fulfillment.
 
 ---
 
@@ -57,5 +64,5 @@ This name beautifully complements his fierce aspects. It underscores the Shaivit
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Each name of Lord Kalabhairava is a gateway to deeper consciousness. Contemplating on <strong>Kanksita-Artha-Daya</strong> helps the seeker align with the divine attributes of time, protection, and transformation.</p>
+<p>Contemplating <strong>Kanksita-Artha-Daya</strong> reminds the seeker that Bhairava's grace does not only remove obstacles; it also grants what truly serves the path.</p>
 </div>
