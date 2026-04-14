@@ -1,14 +1,3 @@
-kalabhairava-name-001-kala-bhairava-devaya.md
-kalabhairava-name-002-kala-kalaya.md
-kalabhairava-name-003-kala-danda-dhrite.md
-kalabhairava-name-004-kalatmane.md
-kalabhairava-name-005-kama-mantratmane.md
-kalabhairava-name-006-kasika-pura-nayakaya.md
-kalabhairava-name-007-karuna-varidhaye.md
-kalabhairava-name-008-kanta-militaya.md
-kalabhairava-name-009-kalika-tanave.md
-kalabhairava-name-010-kala-jaya.md
-kalabhairava-name-011-kukkuta-arudhaya.md
 kalabhairava-name-012-kapaline.md
 kalabhairava-name-013-kalanemi-ghne.md
 kalabhairava-name-014-kala-kanthaya.md
