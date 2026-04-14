@@ -24,7 +24,7 @@ module.exports = defineConfig({
     viewport: desktopViewport
   },
   webServer: {
-    command: `npm run build && node scripts/serve_test_site.js ${port} _site`,
+    command: `npm run build:test && node scripts/serve_test_site.js ${port} _site`,
     url: baseURL,
     reuseExistingServer: false,
     timeout: 180_000
