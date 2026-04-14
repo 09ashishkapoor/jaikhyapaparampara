@@ -1,17 +1,3 @@
-kalabhairava-name-012-kapaline.md
-kalabhairava-name-013-kalanemi-ghne.md
-kalabhairava-name-014-kala-kanthaya.md
-kalabhairava-name-015-kataksa-anugrahita-akhila-sevakaya.md
-kalabhairava-name-016-kapala-karparotkrista-bhiksa-patra-dharaya.md
-kalabhairava-name-017-kavaye.md
-kalabhairava-name-018-kalpanta-dahanakaya.md
-kalabhairava-name-019-kala-nidhi-kala-dharaya.md
-kalabhairava-name-020-kapala-malika-bhusaya.md
-kalabhairava-name-021-kali-kula-vara-pradaya.md
-kalabhairava-name-022-kali-kalavatii-diiksa-samskaaropasanapriyaya.md
-kalabhairava-name-023-kalika-daksa-parsva-sthaya.md
-kalabhairava-name-024-kali-vidya-svarupa-vate.md
-kalabhairava-name-025-kalii-kurca-sama-yukta-bhuvana-kuta-bhasuraya.md
 kalabhairava-name-026-kalii-dhyana-japa-asakta-hrda-akarana-vasakaya.md
 kalabhairava-name-027-kalika-varivastyaadi-pradhana-kalpa-padapaya.md
 kalabhairava-name-028-kalyugravasava-braahmii-pramukhacaryanaayakaya.md
