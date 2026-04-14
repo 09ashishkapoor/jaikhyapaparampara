@@ -11,8 +11,8 @@
     <meta name="robots" content="index, follow">
     
     <!-- Build tracking - UPDATE THESE when you make changes to the site -->
-    <meta name="build-version" content="1.79">
-    <meta name="build-date" content="2026-04-14T00:49:07Z">
+    <meta name="build-version" content="1.80">
+    <meta name="build-date" content="2026-04-14T01:11:25Z">
     
     <link rel="canonical" href="https://jaikhyapaparampara.com/">
 
@@ -525,7 +525,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
         <div class="container">
             <div class="hero-content">
                 <h2 class="hero-title">A Flower at the Guru's Feet</h2>
-                <p class="hero-subtitle">Compiled with love for all seekers, with the eternal wisdom of the Khyapa Parampara</p>
+                <p class="hero-subtitle">An offering for seekers drawn to truth and wisdom of the Khyapa Parampara</p>
                 <p class="hero-author">Compiled by KaliPutra-Ashish</p>
                 <div class="hero-blessing">
                     <p class="om-symbol">🕉️</p>
@@ -534,7 +534,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                 </div>
                 
                 <div class="divine-presence">
-                    <p class="divine-caption">Under the gaze of Ma Adya Mahakali and the blessings of the Khyapas</p>
+                    <p class="divine-caption">Held beneath the gaze of Ma Adya Mahakali and the blessings of the Khyapas</p>
                     <div class="divine-image mother">
                         <picture>
                             <source srcset="images/articles/ma-kali-tandava.webp" type="image/webp">
@@ -562,7 +562,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                             <img src="praveen_radhakrishnan.jpg" alt="Shri Praveen Radhakrishnan - Torchbearer of Khyapa Parampara" width="200" height="200" loading="eager">
                         </picture>
                     </div>
-                    <p class="divine-labels">The Source • The Realization • The Continuation • The Explosion</p>
+                    <p class="divine-labels">The Source • The Realization • The Continuation • The Unfolding</p>
                 </div>
             </div>
         </div>
@@ -661,13 +661,13 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
     <section class="hp-search-strip" id="article-search">
         <div class="container">
             <div class="hp-search-inner">
-                <div class="hp-count-badge">✦ <strong><span id="hp-count-num">{{ collections.articles | size }}</span> <span>sacred articles</span></strong> — <span>and counting</span></div>
+                <div class="hp-count-badge">✦ <strong><span id="hp-count-num">{{ collections.articles | size }}</span> <span>sacred articles</span></strong> — <span>in the archive</span></div>
                 <form class="hp-search-row" action="/search/" method="get" role="search" style="gap:0.7rem;width:100%;max-width:620px;display:flex;align-items:center;justify-content:center;">
-                    <input type="search" name="q" placeholder="Search teachings, topics, keywords..." autocomplete="off" autocorrect="off" spellcheck="false" aria-label="Search articles" style="flex:1;padding:0.9rem 1.2rem;border-radius:30px;border:1.5px solid var(--border-gold);background:rgba(45,15,24,0.7);color:var(--text-light);font-family:'Crimson Text',serif;font-size:1.05rem;outline:none;min-height:48px;">
+                    <input type="search" name="q" placeholder="Search by teaching, deity, practice, or keyword..." autocomplete="off" autocorrect="off" spellcheck="false" aria-label="Search articles" style="flex:1;padding:0.9rem 1.2rem;border-radius:30px;border:1.5px solid var(--border-gold);background:rgba(45,15,24,0.7);color:var(--text-light);font-family:'Crimson Text',serif;font-size:1.05rem;outline:none;min-height:48px;">
                     <button type="submit" class="hp-search-btn" style="background:var(--gold-gradient);color:var(--light-bg);border:none;padding:0.95rem 1.6rem;border-radius:30px;font-size:1rem;font-family:'Philosopher',sans-serif;font-weight:700;cursor:pointer;flex-shrink:0;transition:all 0.3s ease;text-decoration:none;display:inline-flex;align-items:center;justify-content:center;">Search</button>
                 </form>
-                <button id="hp-surprise-btn" class="hp-surprise-btn" aria-label="Go to a random article">🎲 Surprise Me</button>
-                <p class="hp-search-hint">Or <a href="/articles/">browse all articles</a> and explore by topic below</p>
+                <button id="hp-surprise-btn" class="hp-surprise-btn" aria-label="Go to a random article">🎲 Open a Random Article</button>
+                <p class="hp-search-hint">Or <a href="/articles/">browse all articles</a> and continue by topic below</p>
             </div>
         </div>
     </section>
@@ -676,7 +676,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
     <section class="hp-recent" id="recently-added">
         <div class="container">
             <h2 class="hp-section-title">Recently Added</h2>
-            <p class="hp-section-subtitle">New articles surface here first, so fresh teachings are easy to find</p>
+            <p class="hp-section-subtitle">The newest additions appear here first.</p>
             <div class="hp-recent-grid">
                 {% for article in collections.articles limit: 6 %}
                 <a href="{{ article.url }}" class="hp-recent-card">
@@ -686,12 +686,12 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                     </div>
                     <span class="hp-recent-title">{{ article.data.title }}</span>
                     <span class="hp-recent-desc">{{ article.data.description }}</span>
-                    <span class="hp-recent-cta">Read article -></span>
+                    <span class="hp-recent-cta">Read the article -></span>
                 </a>
                 {% endfor %}
             </div>
             <div class="hp-recent-footer">
-                <a href="/articles/" class="hp-recent-link">Open latest articles archive -></a>
+                <a href="/articles/" class="hp-recent-link">Browse all articles -></a>
             </div>
         </div>
     </section>
@@ -699,9 +699,9 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
     <section class="hp-spotlight" id="article-spotlight">
         <div class="container">
             <h2 class="hp-section-title">✦ Article of the Day</h2>
-            <p class="hp-section-subtitle">A different teaching surfaces each day — selected from the full library</p>
+            <p class="hp-section-subtitle">Each day, one article is brought forward from the Library.</p>
             <div id="hp-spotlight-card" class="hp-spotlight-card">
-                <p class="hp-spotlight-loading">Loading today's article...</p>
+                <p class="hp-spotlight-loading">Bringing today's article forward...</p>
             </div>
         </div>
     </section>
@@ -710,7 +710,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
     <section class="hp-start-here" id="start-here">
         <div class="container">
             <h2 class="hp-section-title">✦ New Here? Start with These</h2>
-            <p class="hp-section-subtitle">Handpicked for You</p>
+            <p class="hp-section-subtitle">A simple place to begin.</p>
             <ul class="hp-start-list">
                 <li>
                     <a href="https://calendar.jaikhyapaparampara.com/" class="hp-start-item hp-start-item--featured" target="_blank" rel="noopener">
@@ -718,7 +718,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                         <div class="hp-start-body">
                             <span class="hp-start-cat">New Visitors</span>
                             <span class="hp-start-title">Check the Spiritual Calendar</span>
-                            <span class="hp-start-desc">See important observances, spiritual dates, and upcoming timings before you begin exploring the site.</span>
+                            <span class="hp-start-desc">See important observances, sacred dates, and upcoming timings before you begin exploring the site.</span>
                         </div>
                     </a>
                 </li>
@@ -728,7 +728,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                         <div class="hp-start-body">
                             <span class="hp-start-cat">Sacred Art</span>
                             <span class="hp-start-title">Sacred Art Gallery — Bhairava, Kali &amp; Kalika</span>
-                            <span class="hp-start-desc">26 sacred images of Bhairava, Kali, Kalika, and Shmashana Kali — ancient art from the Khyapa Parampara lineage.</span>
+                            <span class="hp-start-desc">A collection of 26 sacred images of Bhairava Baba and Ma Kali.</span>
                         </div>
                     </a>
                 </li>
@@ -738,7 +738,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                         <div class="hp-start-body">
                             <span class="hp-start-cat">Guru Stories</span>
                             <span class="hp-start-title">The Living Bhairava: Bama Khepa and the Eternal Khyapa Parampara</span>
-                            <span class="hp-start-desc">Explore the life of Bama Khepa, the 'Living Bhairava' of Tarapith, and the Khyapa tradition.</span>
+                            <span class="hp-start-desc">Read about the life of Bama Khepa, remembered as the Living Bhairava of Tarapith, and the Khyapa tradition around him.</span>
                         </div>
                     </a>
                 </li>
@@ -748,7 +748,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                         <div class="hp-start-body">
                             <span class="hp-start-cat">Our Roots</span>
                             <span class="hp-start-title">The Chathurthapurush and Gupta Sadhak Shyama Khyapa</span>
-                            <span class="hp-start-desc">Shri Praveen RadhaKrishna reveals the identity and journey of Guru Baba Shyama Khyapa from the Khyapa lineage of Tarapith.</span>
+                            <span class="hp-start-desc">Shri Praveen Radhakrishna speaks about Guru Baba Shyama Khyapa, his identity, and his path within the Khyapa lineage.</span>
                         </div>
                     </a>
                 </li>
@@ -758,7 +758,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                         <div class="hp-start-body">
                             <span class="hp-start-cat">Rituals &amp; Yagyas</span>
                             <span class="hp-start-title">The 1000-Day Mahamrityunjay Yagya for World Peace</span>
-                            <span class="hp-start-desc">Guru Shyama Khyapa explains the significance of the 1000-day Mahamrityunjay Yagya, its sacrifices, and its purpose for global welfare.</span>
+                            <span class="hp-start-desc">Guru Shyama Khyapa explains the meaning of the 1000-day Mahamrityunjay Yagya, the sacrifice it asks for, and the welfare it is meant to serve.</span>
                         </div>
                     </a>
                 </li>
@@ -768,7 +768,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                         <div class="hp-start-body">
                             <span class="hp-start-cat">Guru Stories</span>
                             <span class="hp-start-title">How to Recognize a True Guru in the Age of Confusion</span>
-                            <span class="hp-start-desc">Learn the core markers of a Sath-Guru and the deeper meaning of Om Tat Sat from Guru Shyama Khyapa Baba.</span>
+                            <span class="hp-start-desc">Learn the marks of a Sat-Guru and the deeper meaning of Om Tat Sat through Guru Shyama Khyapa Baba's teaching.</span>
                         </div>
                     </a>
                 </li>
@@ -778,7 +778,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                         <div class="hp-start-body">
                             <span class="hp-start-cat">Guru Messages</span>
                             <span class="hp-start-title">2026 Predictions: Hari Naam Sankirtan as the Only Refuge in Kali Yuga</span>
-                            <span class="hp-start-desc">Guru Shyama Khyapa explains why spiritual refuge and Hari Naam Sankirtan remain vital amid global unrest predictions.</span>
+                            <span class="hp-start-desc">Guru Shyama Khyapa explains why spiritual refuge and Hari Naam Sankirtan remain vital in a time of unrest.</span>
                         </div>
                     </a>
                 </li>
@@ -790,9 +790,9 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
     <section class="hp-topic-cloud" id="topic-cloud">
         <div class="container">
             <h2 class="hp-section-title">✦ Explore by Topic</h2>
-            <p class="hp-section-subtitle">Browse articles grouped by the themes that matter most to seekers</p>
+            <p class="hp-section-subtitle">Follow the subjects you want to read more deeply.</p>
             <div id="hp-cloud-tags" class="hp-cloud-tags">
-                <span class="hp-cloud-tag-loading">Loading topics...</span>
+                <span class="hp-cloud-tag-loading">Gathering topics...</span>
             </div>
         </div>
     </section>
@@ -935,11 +935,11 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                     </p>
                     
                     <p>
-                        This website is offered in seva. The books, articles, and teachings shared here are placed at the feet of Guru Shrestha in obedience to Aadesh.
+                        This website is offered as seva. The books, articles, and teachings shared here are laid at the feet of Guru Shrestha in obedience to Aadesh.
                     </p>
 
                     <p>
-                        These writings are offerings of devotion for those who seek truth through the Khyapa Parampara. Many have already been shared, and more will continue to be added with the same intention.
+                        These writings are devotional offerings for those who seek truth through the Khyapa Parampara. Much has already been shared, and more will continue to be added in the same spirit.
                     </p>
 
                     <p>
@@ -947,7 +947,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                     </p>
                     
                     <p style="margin-top: 2rem; font-style: italic;">
-                        May every word read here bring you closer to Ma Adya Mahakali.<br>
+                        May whatever you read here bring you a little closer to Ma Adya Mahakali.<br>
                         <strong>Jai Ma Adya</strong>
                     </p>
                 </div>
@@ -960,7 +960,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
         <div class="container">
             <div class="faq-header">
                 <h2 class="section-title">Frequently Asked Questions</h2>
-                <p class="faq-subtitle">Answers to common questions about the texts, the lineage, and chanting practice.</p>
+                <p class="faq-subtitle">Common questions about the texts, the lineage, and the way of chanting.</p>
             </div>
             <div class="faq-container">
                 <!-- FAQ Item 1: Ma Adya Mahakali -->
@@ -971,7 +971,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                     <div class="faq-content">
                         <p>Ma Adya Mahakali is the primordial source, the power behind creation, dissolution, and transformation.</p>
                         
-                        <p>She is worshipped as the force beyond limitation and fear, and as the destroyer of ignorance, ego, and inner darkness. For the devotee, she leads the seeker toward truth and oneness.</p>
+                        <p>She is worshipped as the power beyond fear and limitation, the one who destroys ignorance, ego, and inner darkness. For the devotee, she draws the seeker toward truth and oneness.</p>
                     </div>
                 </details>
 
@@ -982,19 +982,19 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                     </summary>
                     <div class="faq-content">
                         <h4>Spiritual Protection</h4>
-                        <p>Chanting these names is approached as a practice of protection, purification, and surrender.</p>
+                        <p>These names are chanted as a practice of protection, purification, and surrender.</p>
                         
                         <h4>Destruction of Internal Enemies</h4>
-                        <p>Devotees turn to the Sahasranama to weaken ego, fear, anger, greed, attachment, and ignorance.</p>
+                        <p>Devotees turn to the Sahasranama to work against ego, fear, anger, greed, attachment, and ignorance.</p>
                         
                         <h4>Removal of Fear</h4>
-                        <p>This practice is taken up to steady the mind and strengthen the heart in times of fear and inner struggle.</p>
+                        <p>This practice is often taken up to steady the mind and strengthen the heart in times of fear and inner struggle.</p>
                         
-                        <h4>Oneness with Maa Adya (Moksha)</h4>
-                        <p>Through steady chanting and reverence, the seeker deepens nearness to Ma Adya and moves toward truth and liberation.</p>
+                        <h4>Oneness with Maa Adya Mahakali (Moksha)</h4>
+                        <p>Through steady chanting and reverence, the seeker grows closer to Ma Adya Mahakali and moves toward truth and liberation.</p>
                         
                         <h4>Divine Grace and Blessings</h4>
-                        <p>For the devotee, the fruit of this practice is inner change, grace, and deeper remembrance of her.</p>
+                        <p>For the devotee, the fruit of this practice is inner change, grace, and a deeper remembrance of her.</p>
                     </div>
                 </details>
 
@@ -1006,9 +1006,9 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                     <div class="faq-content">
                         <p><strong>Kalabhairava</strong></p>
                         
-                        <p><strong>Kala:</strong> He stands beyond fear and time.</p>
+                        <p><strong>Kala:</strong> He stands beyond time and fear.</p>
                         
-                        <p><strong>Bhairava:</strong> His form may appear terrible, but for the devotee he is a protector, guide, and Guru.</p>
+                        <p><strong>Bhairava:</strong> His form may appear terrible, but to the devotee he is a protector, guide, and Guru.</p>
                         
                         <p>He is remembered here as fierce in form and compassionate in nature.</p>
                         
@@ -1043,8 +1043,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                             <li>They strengthen one's walk on the path of Dharma.</li>
                         </ul>
                         
-                        <p><strong>For the devotee,</strong> they are a support in fear, confusion, and inner struggle.</p>
-                        <p>They are taken up as a steady support on the path of Dharma.</p>
+                        <p><strong>For the devotee,</strong> they offer support in fear, confusion, and inner struggle, and become a steady companion on the path of Dharma.</p>
                     </div>
                 </details>
 
@@ -1054,7 +1053,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                         <h3 class="faq-heading">What is Khyapa Parampara?</h3>
                     </summary>
                     <div class="faq-content">
-                        <p>Khyapa Parampara is a spiritual lineage rooted in Tarapith, West Bengal. It is associated with saints such as Guru Bamakhepa and Guru Shyamakhepa, whose lives expressed intense devotion to Ma Tara and Ma Kali.</p>
+                        <p>Khyapa Parampara is a spiritual lineage rooted in Tarapith, West Bengal. It is associated with saints such as Guru Bamakhepa and Guru Shyamakhepa, whose lives were marked by intense devotion to Bhairava Baba, Ma Tara and Ma Kali.</p>
                     </div>
                 </details>
 
@@ -1064,7 +1063,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                         <h3 class="faq-heading">What is Adya Mahakali Sahasranama?</h3>
                     </summary>
                     <div class="faq-content">
-                        <p>Adya Mahakali Sahasranama is a collection of 1000+ sacred names of Ma Adya Mahakali. On this site it is offered through free ebooks, audiobooks, and articles, with guidance for reading, pronunciation, and devotional use.</p>
+                        <p>Adya Mahakali Sahasranama is a collection of 1000+ sacred names of Ma Adya Mahakali. On this site it is offered through free ebooks, audiobooks, and articles, along with guidance for reading, pronunciation, and devotional use.</p>
                     </div>
                 </details>
 
@@ -1074,7 +1073,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                         <h3 class="faq-heading">What is Kalabhairava Sahasranama?</h3>
                     </summary>
                     <div class="faq-content">
-                        <p>Kalabhairava Sahasranama is a collection of 1000 sacred names of Kalabhairava. It is offered here through free ebooks, audiobooks, and articles for chanting and study.</p>
+                        <p>Kalabhairava Sahasranama is a collection of 1000 sacred names of Kalabhairava. It is offered here through free ebooks, audiobooks, and articles for study and chanting.</p>
                     </div>
                 </details>
 
@@ -1084,13 +1083,13 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                         <h3 class="faq-heading">How do I use a Sahasranama for chanting?</h3>
                     </summary>
                     <div class="faq-content">
-                        <p>Each ebook includes a chanting guide.</p>
+                        <p>Each ebook includes simple guidance for chanting.</p>
                         
                         <ul>
                             <li>You may read the names slowly, imperfectly, aloud, silently, with Om, or without it.</li>
                             <li>Pronunciation deepens with repetition.</li>
                             <li>You may chant a few names, eleven names, or the full thousand in one sitting.</li>
-                            <li>Understanding grows over time, but practice can begin immediately.</li>
+                            <li>Understanding grows over time, but practice can begin at once.</li>
                             <li>What matters most is sincerity and repetition.</li>
 
 
@@ -1116,7 +1115,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                         <h3 class="faq-heading">Will more content be added?</h3>
                     </summary>
                     <div class="faq-content">
-                        <p>Yes. This archive is continuing to grow. More books, articles, audio, and sacred works will be shared in service to Ma Adya Mahakali and the Khyapa Parampara.</p>
+                        <p>Yes. This archive continues to grow. More books, articles, audio, and sacred works will be shared in service to Ma Adya Mahakali and the Khyapa Parampara.</p>
                     </div>
                 </details>
             </div>
@@ -1196,7 +1195,7 @@ nav li,.nav-menu li{min-height:1.6rem;contain:layout}
                 <p class="footer-description">May every word read here bring you closer to Ma Adya Mahakali.</p>
                 <p class="footer-meta">&copy; <span data-current-year></span> KaliPutra-Ashish. All knowledge shared here is free to read and share.</p>
                 <p class="footer-meta"><a href="https://github.com/09ashishkapoor/jaikhyapaparampara" target="_blank" rel="noopener" style="color:var(--accent-bright);text-decoration:none;">⭐ Open Source on GitHub</a></p>
-                <p id="site-version" class="footer-version"><span>Version:</span> <span id="version-value">V1.79</span></p>
+                <p id="site-version" class="footer-version"><span>Version:</span> <span id="version-value">V1.80</span></p>
                 <p id="site-last-updated" class="footer-updated"><span>Last Updated:</span> <span id="last-updated-value">April 14, 2026</span></p>
             </div>
         </div>
