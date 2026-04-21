@@ -87,7 +87,8 @@ module.exports = function(eleventyConfig) {
     return articles
       .filter((article) => article.url !== currentUrl)
       .filter((article) => Array.isArray(article.data.tags) && article.data.tags.some((tag) => contentTags.includes(tag)))
-      .slice(0, 4);
+      .sort((a, b) => new Date(b.date) - new Date(a.date))
+      .slice(0, 6);
   });
 
   function getArticles(collectionApi) {
