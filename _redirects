@@ -1,5 +1,8 @@
 # Cloudflare Pages redirects and rewrites
 
+# gallery.html clean URL redirect
+/gallery.html /gallery/ 301
+
 # Handle articles pagination
 /articles/2 /articles/2/index.html 200
 /articles/3 /articles/3/index.html 200
