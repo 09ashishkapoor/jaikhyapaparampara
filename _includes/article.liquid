@@ -264,7 +264,12 @@ body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);bac
     <!-- Article Header -->
     <article>
         <header class="article-header container">
+            {% assign topicUrl = collections.browseGroups | articleTopicUrl: page.url %}
+            {% if topicUrl != "" %}
+            <a href="{{ topicUrl }}" class="article-category" style="text-decoration:none;">{{ category }}</a>
+            {% else %}
             <span class="article-category">{{ category }}</span>
+            {% endif %}
             <h1 class="article-title">{{ title }}</h1>
             <div class="article-meta">
                 <span>📅 {{ page.date | dateDisplay }}</span>

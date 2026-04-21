@@ -80,6 +80,16 @@ module.exports = function(eleventyConfig) {
     return new Date(dateObj).toISOString();
   });
 
+  eleventyConfig.addFilter("articleTopicUrl", function(groups, currentUrl) {
+    if (!groups || !currentUrl) return "";
+    for (const group of groups) {
+      if (group.articles && group.articles.some((a) => a.url === currentUrl)) {
+        return group.url;
+      }
+    }
+    return "";
+  });
+
   eleventyConfig.addFilter("relatedArticles", function(articles, currentTags, currentUrl) {
     const contentTags = (currentTags || []).filter((tag) => tag !== "articles");
     if (!contentTags.length) return [];
@@ -302,7 +312,8 @@ module.exports = function(eleventyConfig) {
           count: groupArticles.length,
           categoryLabels: getTopCategoryLabels(groupArticles),
           letters: letterBuckets,
-          articles: groupArticles
+          articles: groupArticles,
+          exactCategories: group.exactCategories
         };
       })
       .filter((group) => group.count > 0);

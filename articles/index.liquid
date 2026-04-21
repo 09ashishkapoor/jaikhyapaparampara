@@ -476,6 +476,14 @@ eleventyComputed:
     </section>
     {% endif %}
 
+    {% unless currentPage == 1 %}
+    <nav class="sort-toggle" aria-label="Topic paths" style="flex-wrap:wrap;gap:0.5rem;margin-bottom:1.5rem;">
+        {% for group in collections.browseGroups %}
+        <a class="sort-pill" href="{{ group.url }}">{{ group.name }}</a>
+        {% endfor %}
+    </nav>
+    {% endunless %}
+
     <section id="browse-all" class="directory-panel" aria-labelledby="browse-all-title">
         <div class="browse-everything">
             <div>
