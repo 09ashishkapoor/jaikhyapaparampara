@@ -45,7 +45,7 @@ The site also hosts **free downloadable ebooks**:
 
 - **Adya Mahakali Sahasranama** — 1000 names with chanting guide (English & Hindi)
 - **Kalabhairava Sahasranama** — 1000 names with chanting guide (English & Hindi)
-
+- **Kalabhairava Ashtottara Namavali** — 108 names with chanting guide (English)
 ---
 
 ## Tech Stack
