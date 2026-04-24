@@ -16,7 +16,11 @@ test('homepage shell stays within the repo performance budget', async ({ page })
   });
 
   await page.goto('/', { waitUntil: 'load' });
-  await page.waitForLoadState('networkidle');
+  try {
+    await page.waitForLoadState('networkidle', { timeout: 5000 });
+  } catch {
+    // The homepage can keep background requests alive; proceed with load-complete metrics.
+  }
   await stabilizePage(page);
 
   const metrics = await page.evaluate(() => {

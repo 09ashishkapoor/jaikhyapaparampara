@@ -41,7 +41,13 @@ async function stabilizePage(page) {
 async function gotoAndStabilize(page, url, options = {}) {
   await blockExternalNoise(page);
   await page.goto(url, { waitUntil: 'domcontentloaded', ...options });
-  await page.waitForLoadState('networkidle');
+  await page.waitForLoadState('load');
+  try {
+    // Some pages keep a request open (analytics/fetch timing), so use networkidle as best-effort.
+    await page.waitForLoadState('networkidle', { timeout: 5000 });
+  } catch {
+    // Proceed once DOM + load are complete; visual assertions target stable regions.
+  }
   await stabilizePage(page);
 }
 
