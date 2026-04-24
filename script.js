@@ -238,24 +238,40 @@ const initAudio = () => {
     const audio = document.getElementById('temple-audio');
     if (!audioBtn || !audio) return;
 
-    let isPlaying = false;
+    const updateAudioButton = (isPlaying) => {
+        audioBtn.classList.toggle('playing', isPlaying);
+        audioBtn.setAttribute('data-state', isPlaying ? 'playing' : 'paused');
+        audioBtn.setAttribute('aria-label', isPlaying ? 'Stop Temple Ambience' : 'Play Temple Ambience');
+    };
+
+    const source = audio.currentSrc || audio.getAttribute('src') || audio.querySelector('source')?.getAttribute('src');
+    if (!source) {
+        audioBtn.disabled = true;
+        audioBtn.setAttribute('aria-label', 'Temple Ambience Unavailable');
+        return;
+    }
+
     // Set initial volume low
     audio.volume = 0.4;
+    audio.load();
+    updateAudioButton(false);
 
-    audioBtn.addEventListener('click', () => {
-        if (isPlaying) {
+    audioBtn.addEventListener('click', async () => {
+        if (!audio.paused) {
             audio.pause();
-            audioBtn.classList.remove('playing');
-            audioBtn.setAttribute('data-state', 'paused');
-            audioBtn.setAttribute('aria-label', 'Play Temple Ambience');
         } else {
-            audio.play().catch(err => console.log("Audio play failed:", err));
-            audioBtn.classList.add('playing');
-            audioBtn.setAttribute('data-state', 'playing');
-            audioBtn.setAttribute('aria-label', 'Stop Temple Ambience');
+            try {
+                await audio.play();
+            } catch (err) {
+                console.log('Audio play failed:', err);
+                updateAudioButton(false);
+            }
         }
-        isPlaying = !isPlaying;
     });
+
+    audio.addEventListener('play', () => updateAudioButton(true));
+    audio.addEventListener('pause', () => updateAudioButton(false));
+    audio.addEventListener('ended', () => updateAudioButton(false));
 };
 
 // --- Parallax Logic (DISABLED - Causes CLS) ---
