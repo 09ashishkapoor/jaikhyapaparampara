@@ -1,5 +1,17 @@
 #!/usr/bin/env sh
 
-npm run sync-readme-count
-git add README.md || true
+if command -v npm >/dev/null 2>&1; then
+  npm_cmd="npm"
+elif command -v npm.cmd >/dev/null 2>&1; then
+  npm_cmd="npm.cmd"
+else
+  echo "pre-commit: npm is not available in PATH"
+  exit 127
+fi
+
+"$npm_cmd" run sync-readme-count
+
+if [ -f README.md ]; then
+  git add README.md || true
+fi
 
