@@ -115,7 +115,7 @@
     </script>
     
     <style>
-:root{--primary-color:#8B2635;--accent-color:#E8C468;--accent-bright:#F4E4C1;--light-bg:#1F0B11;--text-dark:#F0DCC8;--text-light:#FFF8F0;--shadow-colored:rgba(74,14,23,0.7);--border-gold:rgba(232,196,104,0.4);--gold-gradient:linear-gradient(135deg,#B8935A 0%,#C9A962 25%,#E8C468 50%,#F4E4C1 60%,#E8C468 75%,#C9A962 90%,#B8935A 100%);--temple-gradient:radial-gradient(ellipse at top,#2D0F18 0%,#1F0B11 45%,#0D0506 100%);}
+:root{--primary-color:#8B2635;--accent-color:#E8C468;--accent-bright:#F4E4C1;--light-bg:#1F0B11;--text-dark:#F0DCC8;--text-light:#FFF8F0;--shadow-colored:rgba(74,14,23,0.7);--border-gold:rgba(232,196,104,0.4);--link-color:var(--accent-color);--link-hover-color:var(--accent-bright);--link-underline-color:var(--border-gold);--gold-gradient:linear-gradient(135deg,#B8935A 0%,#C9A962 25%,#E8C468 50%,#F4E4C1 60%,#E8C468 75%,#C9A962 90%,#B8935A 100%);--temple-gradient:radial-gradient(ellipse at top,#2D0F18 0%,#1F0B11 45%,#0D0506 100%);}
 *{margin:0;padding:0;box-sizing:border-box;}
 body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);background-color:var(--light-bg);overflow-x:hidden;}
 
@@ -149,6 +149,10 @@ body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);bac
 .article-content p{margin-bottom:1.5rem;font-size:1.1rem;line-height:1.9;}
 .article-content em{color:var(--accent-bright);font-style:italic;}
 .article-content strong{color:var(--accent-bright);font-weight:700;}
+.article-content a:where(:not([class]):not([style])){color:var(--link-color);text-decoration:underline;text-decoration-color:var(--link-underline-color);text-decoration-thickness:1px;text-underline-offset:0.18em;transition:color 0.2s ease,text-decoration-color 0.2s ease;}
+.article-content a:where(:not([class]):not([style]):visited){color:var(--link-color);}
+.article-content a:where(:not([class]):not([style]):hover,:not([class]):not([style]):focus-visible){color:var(--link-hover-color);text-decoration-color:currentColor;}
+.article-content a:where(:not([class]):not([style]):focus-visible){outline:2px solid var(--accent-color);outline-offset:0.2em;border-radius:2px;}
 .article-content ul,.article-content ol{margin:1.5rem 0 1.5rem 2rem;}
 .article-content li{margin-bottom:0.8rem;font-size:1.1rem;line-height:1.8;}
 .article-content blockquote{border-left:4px solid var(--accent-color);padding-left:1.5rem;margin:2rem 0;font-style:italic;color:var(--accent-bright);background:linear-gradient(135deg,rgba(45,15,24,0.3) 0%,rgba(31,11,17,0.3) 100%);padding:1.5rem;border-radius:5px;text-align:center;}

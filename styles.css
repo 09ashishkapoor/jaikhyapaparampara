@@ -18,6 +18,9 @@
     --text-dark: #F0DCC8; /* Warm Parchment Cream */
     --text-light: #FFF8F0; /* Soft White - easier on eyes */
     --text-gold: #E8C468;
+    --link-color: var(--accent-color);
+    --link-hover-color: var(--accent-bright);
+    --link-underline-color: var(--border-gold);
     
     /* Borders & Effects */
     --border-color: rgba(139, 38, 53, 0.5);
@@ -100,6 +103,30 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+}
+
+main a:where(:not([class]):not([style])) {
+    color: var(--link-color);
+    text-decoration: underline;
+    text-decoration-color: var(--link-underline-color);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+    transition: color 0.2s ease, text-decoration-color 0.2s ease;
+}
+
+main a:where(:not([class]):not([style]):visited) {
+    color: var(--link-color);
+}
+
+main a:where(:not([class]):not([style]):hover, :not([class]):not([style]):focus-visible) {
+    color: var(--link-hover-color);
+    text-decoration-color: currentColor;
+}
+
+main a:where(:not([class]):not([style]):focus-visible) {
+    outline: 2px solid var(--accent-color);
+    outline-offset: 0.2em;
+    border-radius: 2px;
 }
 
 .container {
