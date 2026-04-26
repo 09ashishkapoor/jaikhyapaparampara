@@ -32,6 +32,8 @@ This page continues the **Kakaradi Kali Sahasranama with names 778-888**. The me
 
 If you are reading the series in order, begin with **[Kakaradi Kali Sahasranama Names 1-111 with One-Line Meanings](/articles/kakaradi-kali-sahasranama-names-1-111-one-line-meanings/)**, then continue through **[Names 112-222](/articles/kakaradi-kali-sahasranama-names-112-222-one-line-meanings/)**, **[Names 223-333](/articles/kakaradi-kali-sahasranama-names-223-333-one-line-meanings/)**, **[Names 334-444](/articles/kakaradi-kali-sahasranama-names-334-444-one-line-meanings/)**, **[Names 445-555](/articles/kakaradi-kali-sahasranama-names-445-555-one-line-meanings/)**, **[Names 556-666](/articles/kakaradi-kali-sahasranama-names-556-666-one-line-meanings/)**, and **[Names 667-777](/articles/kakaradi-kali-sahasranama-names-667-777-one-line-meanings/)** before this section.
 
+After this, continue with **[Kakaradi Kali Sahasranama Names 889-1000 with One-Line Meanings](/articles/kakaradi-kali-sahasranama-names-889-1000-one-line-meanings/)** to complete the series.
+
 In names 778-888, the sahasranama moves more deeply into the **kula** current. Ma Kali is remembered as the lineage flower, the vessel, the circle, the womb, the sovereign, the lamp, Kundalini, protective mantra, the lineage tree, Shiva within kula, and the jewel of the bindu.
 
 You can use these meanings for:
@@ -222,7 +224,7 @@ It is a thousand-name hymn of Ma Kali in which the sound-current of the letter *
 
 ### Are these all 1000 names of Kali?
 
-No. This article covers names **778-888** only. It continues after names 1-111, 112-222, 223-333, 334-444, 445-555, 556-666, and 667-777.
+No. This article covers names **778-888** only. It continues after names 1-111, 112-222, 223-333, 334-444, 445-555, 556-666, and 667-777, and it is followed by **[Names 889-1000](/articles/kakaradi-kali-sahasranama-names-889-1000-one-line-meanings/)**.
 
 ### Why do so many names mention kula?
 
@@ -256,6 +258,7 @@ Continue the Kakaradi Kali Sahasranama study in order:
 - **Earlier section**: [Kakaradi Kali Sahasranama Names 556-666 with One-Line Meanings](/articles/kakaradi-kali-sahasranama-names-556-666-one-line-meanings/)
 - **Previous section**: [Kakaradi Kali Sahasranama Names 667-777 with One-Line Meanings](/articles/kakaradi-kali-sahasranama-names-667-777-one-line-meanings/)
 - **This section**: Names 778-888 with one-line devotional meanings
+- **Next section**: [Kakaradi Kali Sahasranama Names 889-1000 with One-Line Meanings](/articles/kakaradi-kali-sahasranama-names-889-1000-one-line-meanings/)
 
 For related reflection on Ma Kali, mantra, kula, Kundalini, and practice, you may also read:
 
