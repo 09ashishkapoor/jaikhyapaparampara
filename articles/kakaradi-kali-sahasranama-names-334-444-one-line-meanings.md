@@ -28,11 +28,11 @@ Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
   <figcaption style="font-size:0.98rem;color:var(--accent-color);font-style:italic;">Ma Kali, the Dark Mother, remembered through action, steadiness, mantra, art, and sacred speech.</figcaption>
 </figure>
 
-This page continues the **Kakaradi Kali Sahasranama with names 334-444**. Each name is given with a short devotional meaning in English for prayer, japa preparation, and contemplation. This portion opens with the **karma** names, moves into tortoise-like steadiness, compassion, firmness, sacred speech, the Kali age, the rosary held in the hand, and finally the wisdom-current of the sage **Kahola**.
+This page continues the **Kakaradi Kali Sahasranama with names 334-444**. Each name has a short devotional meaning in English, meant for prayer, japa preparation, and quiet study. This portion begins with the **karma** names, then moves through tortoise-like steadiness, compassion, firmness, sacred speech, the Kali age, the rosary in the hand, and finally the current of wisdom connected with the sage **Kahola**.
 
 If you are reading the series in order, begin with **[Kakaradi Kali Sahasranama Names 1-111 with One-Line Meanings](/articles/kakaradi-kali-sahasranama-names-1-111-one-line-meanings/)**, continue through **[Names 112-222](/articles/kakaradi-kali-sahasranama-names-112-222-one-line-meanings/)**, and then read **[Names 223-333](/articles/kakaradi-kali-sahasranama-names-223-333-one-line-meanings/)** before this section.
 
-The **Kakārādi Kali Sahasranama** is a sacred stream of Ma Kali's names where the sound **ka** remains central. The names are not only titles. They are contemplative doors: into action, steadiness, fierce compassion, purity, sacred sound, and the direct remembrance of the Mother.
+The **Kakārādi Kali Sahasranama** is a garland of Ma Kali's names in which the sound **ka** remains central. These names are not just titles. They give the devotee a way to remember Her through action, steadiness, fierce compassion, purity, sacred sound, and direct inward worship.
 
 You can use these meanings for:
 
@@ -41,10 +41,10 @@ You can use these meanings for:
 - study of Kali tattva through divine epithets
 - contemplation of karma, steadiness, sacred speech, rosary practice, and the Kali age
 
-These are devotional renderings, not a critical Sanskrit edition or a word-for-word translation. The aim is to keep the meaning clear enough for prayer while preserving the bhava of the sahasranama.
+These are devotional renderings, not a critical Sanskrit edition or word-for-word translation. The aim is simple: keep the meaning clear enough for prayer while preserving the bhava of the sahasranama.
 
 <figure style="text-align:center;margin:2rem 0;">
-  <figcaption style="font-size:0.98rem;color:var(--accent-color);font-style:italic;">In these names, Ma Kali becomes the foundation of action, the firmness beneath practice, the art inside sacred sound, and the wisdom that speaks through the seer's heart.</figcaption>
+  <figcaption style="font-size:0.98rem;color:var(--accent-color);font-style:italic;">In these names, Ma Kali is remembered as the ground of action, the firmness beneath practice, the art within sacred sound, and the wisdom speaking through the seer's heart.</figcaption>
 </figure>
 
 <p style="text-align:center;font-size:0.98rem;color:var(--accent-color);margin-top:-0.5rem;"><strong>Compiled by KaliPutra_Ashish</strong></p>
@@ -53,7 +53,7 @@ These are devotional renderings, not a critical Sanskrit edition or a word-for-w
 
 ## How To Read These Names
 
-You do not have to finish all 111 names in one sitting. Read a smaller group slowly. If one name touches the heart, pause there. Let the sound and meaning become remembrance.
+You do not have to finish all 111 names in one sitting. Read a smaller group slowly. If one name touches the heart, pause there. Let the sound and meaning settle into remembrance.
 
 This section moves through several strong currents:
 
@@ -65,13 +65,13 @@ This section moves through several strong currents:
 - **rosary and hand-offering**, shown through the karamālā and kara names
 - **Kahola's wisdom-current**, shown in the closing kahola names
 
-Read slowly. Let action, sound, and devotion meet.
+Read slowly, and let action, sound, and devotion meet.
 
 ## What Is Kakaradi Kali Sahasranama?
 
-**Sahasranama** means a garland of one thousand names. The **Kakaradi Kali Sahasranama** is a thousand-name hymn of Ma Kali where the sound-current of **ka** becomes central. Devotees use it for worship, japa, study, and contemplation.
+**Sahasranama** means a garland of one thousand names. The **Kakaradi Kali Sahasranama** is a thousand-name hymn of Ma Kali in which the sound-current of **ka** becomes central. Devotees use it for worship, japa, study, and contemplation.
 
-Names 334-444 continue the karma current that closed the previous section. Here, action is not treated as ordinary worldly motion alone. Action becomes a field of worship, purification, discipline, and grace. The Mother is the ground of action, the giver of action, the cutter of karmic bondage, the one who sanctifies ritual, and the one who carries the devotee through the Kali age.
+Names 334-444 continue the karma current that closed the previous section. Here, action is not treated only as ordinary worldly motion. It becomes worship, purification, discipline, and grace. The Mother is remembered as the ground of action, the giver of action, the one who cuts karmic bondage, the one who sanctifies ritual, and the one who carries the devotee through the Kali age.
 
 ## Kakaradi Kali Sahasranama Names 334-444 with One-Line Meanings
 
@@ -121,7 +121,7 @@ Names 334-444 continue the karma current that closed the previous section. Here,
 
 370. **kalpā**: She who is sacred order, fulfillment, and the creative possibility behind all becoming.
 371. **kalpanā**: She who is divine imagination, conceiving worlds and paths of worship within Her mind.
-372. **kalpadāyinī**: She who grants worthy fulfillment, like a wish-giving power of grace.
+372. **kalpadāyinī**: She who grants worthy fulfillment through the wish-giving power of grace.
 373. **kamalasthā**: She who abides in the lotus, radiant with purity, beauty, and spiritual unfolding.
 374. **kalāmālā**: She who wears a garland of arts, rays, and subtle creative powers.
 375. **kamalāsyā**: She whose lotus-like face shines with beauty, compassion, and serene grace.
@@ -140,7 +140,7 @@ Names 334-444 continue the karma current that closed the previous section. Here,
 
 ### Names 388-405
 
-388. **kaliḥ**: She who is present even in the Kali age, transforming darkness into a path of awakening.
+388. **kaliḥ**: She who is present even in the Kali age, turning darkness into a path of awakening.
 389. **kalighnī**: She who destroys the faults and darkness of the Kali age.
 390. **kalidūtī**: She who moves as the messenger-force of the Kali age, revealing truth amid decline and confusion.
 391. **kavināyakapūjitā**: She who is worshipped by the foremost poets, whose inspired words become offerings at Her feet.
@@ -168,9 +168,9 @@ Names 334-444 continue the karma current that closed the previous section. Here,
 410. **kanyārāśiḥ**: She who is the Virgo sign, the celestial field of purity, discernment, and maiden power.
 411. **kanyakā**: She who is the young Maiden Goddess, pure, radiant, and worthy of reverent worship.
 412. **kanyakāpriyabhāṣiṇī**: She who speaks lovingly to maidens, blessing innocence, dignity, and youthful Goddess power.
-413. **kanyakādānasantuṣṭā**: She who is pleased when the maiden form of the Goddess is honored as sacred, precious, and worthy of care.
+413. **kanyakādānasantuṣṭā**: She who is pleased when the maiden form of the Goddess is honored as sacred and worthy of care.
 414. **kanyakādānatoṣiṇī**: She who is satisfied by reverent offerings made to the maiden form of the Goddess.
-415. **kanyādānakarānandā**: She who delights in acts that honor, protect, and uphold the sanctity of the maiden.
+415. **kanyādānakarānandā**: She who delights in acts that honor, protect, and uphold the maiden's sanctity.
 416. **kanyādānagraheṣṭadā**: She who grants blessings when the maiden form of the Goddess is received with reverence and sacred responsibility.
 417. **karṣaṇā**: She who draws all beings toward Herself through the irresistible pull of divine grace.
 418. **kakṣadahanā**: She who burns hidden enclosures and secret impurities, clearing the inner space for freedom.
@@ -208,22 +208,22 @@ Names 334-444 continue the karma current that closed the previous section. Here,
 
 ## A Simple Way To Contemplate These Names
 
-Names 334-444 return again and again to action. But here, action is not only work, duty, or ritual. It is also the Mother's field. She is the ground of karma, the remover of karmic burden, the one who ripens ritual, and the one who turns the hand, rosary, speech, and offering into worship.
+Names 334-444 return again and again to action. Here, action is not only work, duty, or ritual. It belongs to the Mother's own field. She is the ground of karma, the remover of karmic burden, the one who ripens ritual, and the one who turns the hand, rosary, speech, and offering into worship.
 
 For contemplation, you can read this section through six currents:
 
-- **Kali as Karma's Ground**: the karma names show Her as the support, witness, giver, cutter, and sanctifier of action.
+- **Kali as Karma's Ground**: the karma names show Her as the support, witness, giver, cutter, and purifier of action.
 - **Kali as Steadiness**: the kamaṭhī names teach support, inward withdrawal, patience, and grounded practice.
 - **Kali as Firm Compassion**: the karuṇā and kaṭhina names show a Mother who is merciful but not weak, fierce but not cruel.
-- **Kali as Sacred Speech**: the kalabhāṣā, kavi, kārikā, and kalavācā names reveal Her through poetry, teaching, music, and refined expression.
+- **Kali as Sacred Speech**: the kalabhāṣā, kavi, kārikā, and kalavācā names remember Her through poetry, teaching, music, and refined expression.
 - **Kali as Refuge in the Kali Age**: the kali names show Her as destroyer of decline and as the path through difficult times.
 - **Kali as Rosary Practice**: the karamālā names turn the hand-held mala into a bridge between devotee and Mother.
 
-When read devotionally, this section teaches that Ma Kali is not absent from daily life. She is present in what is done, endured, spoken, offered, counted on the rosary, and transformed through grace.
+When read devotionally, this section teaches that Ma Kali is not absent from daily life. She is present in what is done, endured, spoken, offered, counted on the rosary, and changed through grace.
 
 ## Why The Karma And Rosary Names Matter
 
-The repeated **karma** names are useful for devotees who want to connect spiritual practice with daily conduct. They remind the reader that action has consequence, but also that grace can cut, transform, and sanctify the marks left by action.
+The repeated **karma** names are useful for devotees who want spiritual practice to touch daily conduct. They remind the reader that action has consequence, and also that grace can cut, transform, and sanctify the marks left by action.
 
 The **karamālā** names are especially practical. The rosary is held in the hand, bead by bead. These names show that japa is not only mental repetition. It is a meeting of hand, breath, sound, memory, and devotion.
 
@@ -239,7 +239,7 @@ No. This article covers names **334-444** only. It continues after names 1-111, 
 
 ### Why do so many names here mention karma?
 
-The karma names show Ma Kali as the foundation, giver, witness, cutter, and purifier of action. They help devotees remember that even action and consequence can become a field of worship.
+The karma names show Ma Kali as the foundation, giver, witness, cutter, and purifier of action. They help devotees remember that even action and consequence can become worship.
 
 ### What do the karamālā names mean?
 
@@ -271,9 +271,9 @@ For related reflection on Ma Kali, mantra, and practice, you may also read:
 
 ## Closing Reflection
 
-Names 334-444 of the Kakaradi Kali Sahasranama show Ma Kali as the foundation of karma, the steady tortoise-seat of practice, the fierce giver of strength, the Mother of sacred speech, the refuge of the Kali age, the joy inside the rosary, and the wisdom that speaks through Kahola.
+Names 334-444 of the Kakaradi Kali Sahasranama remember Ma Kali as the foundation of karma, the steady tortoise-seat of practice, the fierce giver of strength, the Mother of sacred speech, the refuge of the Kali age, the joy inside the rosary, and the wisdom that speaks through Kahola.
 
-This section reminds the devotee that the Mother is not only found in temple, mantra, or image. She is also present in action, discipline, endurance, speech, music, japa, and the quiet transformation of daily life.
+This section reminds the devotee that the Mother is not only found in temple, mantra, or image. She is also present in action, discipline, endurance, speech, music, japa, and the quiet change that takes place in daily life.
 
 Read slowly. Let one name stay with you. Let that name become remembrance.
 
