@@ -1114,6 +1114,72 @@ main {
         inset 0 0 12px rgba(244, 228, 193, 0.08);
 }
 
+/* Name Study Hubs */
+.name-hubs {
+    padding: 3.5rem 0 4.5rem;
+    background: linear-gradient(180deg, #080304 0%, #12070A 65%, #0D0506 100%);
+}
+
+.name-hubs .section-subtitle {
+    max-width: 760px;
+    margin: 0 auto 2.25rem;
+}
+
+.name-hubs-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem;
+}
+
+.name-hub-panel {
+    background: linear-gradient(135deg, rgba(24, 10, 15, 0.8) 0%, rgba(31, 11, 17, 0.65) 100%);
+    border: 1px solid rgba(232, 196, 104, 0.28);
+    border-radius: 12px;
+    padding: 1.4rem 1.35rem;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+.name-hub-title {
+    font-family: 'Philosopher', sans-serif;
+    color: var(--accent-color);
+    font-size: 1.35rem;
+    margin-bottom: 0.75rem;
+}
+
+.name-hub-copy {
+    color: var(--text-dark);
+    line-height: 1.65;
+    margin-bottom: 0.9rem;
+}
+
+.name-hub-link,
+.name-hub-faq-link {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.name-hub-link {
+    color: var(--accent-bright);
+    margin-bottom: 0.45rem;
+}
+
+.name-hub-link:hover {
+    color: var(--accent-color);
+}
+
+.name-hub-faq-link {
+    color: var(--text-light);
+    font-size: 0.96rem;
+}
+
+.name-hub-faq-link:hover {
+    color: var(--accent-color);
+}
+
+
 /* About Section */
 .about {
     padding: 5rem 0;
@@ -1898,6 +1964,24 @@ main {
         min-height: 44px; /* Better touch target for mobile */
         min-width: 44px;
     }
+
+    .name-hubs {
+        padding: 3rem 0;
+    }
+
+    .name-hubs-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+
+    .name-hub-panel {
+        padding: 1.2rem 1.1rem;
+    }
+
+    .name-hub-title {
+        font-size: 1.2rem;
+    }
+
 
     /* About Section */
     .about {
