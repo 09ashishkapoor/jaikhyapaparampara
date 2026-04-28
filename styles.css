@@ -1183,17 +1183,21 @@ main {
 }
 
 .name-hub-link {
-    color: var(--accent-bright);
+    color: var(--accent-color);
     margin-bottom: 0.45rem;
 }
 
 .name-hub-link:hover {
-    color: var(--accent-color);
+    color: var(--accent-bright);
 }
 
 .name-hub-faq-link {
-    color: var(--text-light);
+    color: var(--accent-color);
     font-size: 0.96rem;
+}
+
+.name-hub-faq-link:hover {
+    color: var(--accent-bright);
 }
 
 .name-hub-faq-link:hover {
