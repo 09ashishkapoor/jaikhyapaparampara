@@ -1127,7 +1127,7 @@ main {
 
 .name-hubs-grid {
     display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 1.5rem;
 }
 
@@ -1137,6 +1137,27 @@ main {
     border-radius: 12px;
     padding: 1.4rem 1.35rem;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+.name-hub-panel--app {
+    background: linear-gradient(135deg, rgba(47, 17, 24, 0.9) 0%, rgba(31, 11, 17, 0.82) 55%, rgba(12, 6, 7, 0.92) 100%);
+    border-color: rgba(232, 196, 104, 0.42);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.38), 0 0 0 1px rgba(232, 196, 104, 0.08);
+}
+
+.name-hub-kicker {
+    display: inline-flex;
+    align-items: center;
+    margin-bottom: 0.7rem;
+    padding: 0.2rem 0.6rem;
+    border-radius: 999px;
+    border: 1px solid rgba(232, 196, 104, 0.3);
+    background: rgba(232, 196, 104, 0.08);
+    color: var(--accent-color);
+    font-size: 0.76rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
 }
 
 .name-hub-title {
