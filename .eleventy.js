@@ -319,37 +319,7 @@ module.exports = function(eleventyConfig) {
       .filter((group) => group.count > 0);
   }
 
-  eleventyConfig.addCollection("articles", function(collectionApi) {
-    return sortArticlesByDateDesc(getArticles(collectionApi));
-  });
-
-  eleventyConfig.addCollection("articlesAlpha", function(collectionApi) {
-    return sortArticlesAlphabetically(getArticles(collectionApi));
-  });
-
-  eleventyConfig.addCollection("browseGroups", function(collectionApi) {
-    return buildBrowseGroups(getArticles(collectionApi));
-  });
-
-  eleventyConfig.addCollection("allTags", function(collectionApi) {
-    const articles = getArticles(collectionApi);
-    const slugToTags = new Map();
-
-    articles.forEach((item) => {
-      getArticleTags(item).forEach((tag) => {
-        const slug = slugifyValue(tag);
-        if (!slugToTags.has(slug)) slugToTags.set(slug, new Set());
-        slugToTags.get(slug).add(tag);
-      });
-    });
-
-    return Array.from(slugToTags.values())
-      .map((tags) => [...tags].sort((a, b) => a.localeCompare(b, "en", { sensitivity: "base" }))[0])
-      .sort((a, b) => a.localeCompare(b, "en", { sensitivity: "base" }));
-  });
-
-  eleventyConfig.addCollection("all", function(collectionApi) {
-    const articles = getArticles(collectionApi);
+  function buildTagLookup(articles) {
     const slugToTags = new Map();
     const slugToArticles = new Map();
 
@@ -367,13 +337,70 @@ module.exports = function(eleventyConfig) {
       });
     });
 
-    const result = {};
-    slugToTags.forEach((tags, slug) => {
-      const canonicalTag = [...tags].sort((a, b) => a.localeCompare(b, "en", { sensitivity: "base" }))[0];
-      result[canonicalTag] = sortArticlesByDateDesc(slugToArticles.get(slug));
+    const entries = Array.from(slugToTags.entries())
+      .map(([slug, tags]) => {
+        const canonicalTag = [...tags].sort((a, b) => a.localeCompare(b, "en", { sensitivity: "base" }))[0];
+        const tagArticles = sortArticlesByDateDesc(slugToArticles.get(slug));
+
+        return {
+          slug,
+          canonicalTag,
+          count: tagArticles.length,
+          isIndexable: tagArticles.length >= 3,
+          url: `/tags/${slug}/`,
+          articles: tagArticles,
+          tags: [...tags]
+        };
+      })
+      .sort((a, b) => a.canonicalTag.localeCompare(b.canonicalTag, "en", { sensitivity: "base" }));
+
+    const allTags = entries.map((entry) => entry.canonicalTag);
+    const tagCollections = {};
+    const metaByTag = {};
+
+    entries.forEach((entry) => {
+      tagCollections[entry.canonicalTag] = entry.articles;
+
+      entry.tags.forEach((tag) => {
+        metaByTag[tag] = {
+          slug: entry.slug,
+          canonicalTag: entry.canonicalTag,
+          count: entry.count,
+          isIndexable: entry.isIndexable,
+          url: entry.url
+        };
+      });
     });
 
-    return result;
+    return {
+      allTags,
+      tagCollections,
+      metaByTag
+    };
+  }
+
+  eleventyConfig.addCollection("articles", function(collectionApi) {
+    return sortArticlesByDateDesc(getArticles(collectionApi));
+  });
+
+  eleventyConfig.addCollection("articlesAlpha", function(collectionApi) {
+    return sortArticlesAlphabetically(getArticles(collectionApi));
+  });
+
+  eleventyConfig.addCollection("browseGroups", function(collectionApi) {
+    return buildBrowseGroups(getArticles(collectionApi));
+  });
+
+  eleventyConfig.addCollection("allTags", function(collectionApi) {
+    return buildTagLookup(getArticles(collectionApi)).allTags;
+  });
+
+  eleventyConfig.addCollection("all", function(collectionApi) {
+    return buildTagLookup(getArticles(collectionApi)).tagCollections;
+  });
+
+  eleventyConfig.addCollection("tagMeta", function(collectionApi) {
+    return buildTagLookup(getArticles(collectionApi)).metaByTag;
   });
 
   return {

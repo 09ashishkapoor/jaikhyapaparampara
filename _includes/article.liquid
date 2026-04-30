@@ -199,6 +199,7 @@ body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);bac
 .article-tags{margin-top:1.5rem;display:flex;gap:0.8rem;flex-wrap:wrap;}
 .tag{background:transparent;border:1px solid var(--border-gold);color:var(--accent-color);padding:0.4rem 1rem;border-radius:15px;font-size:0.85rem;text-decoration:none;transition:all 0.3s ease;}
 .tag:hover{border-color:var(--accent-color);background:rgba(232,196,104,0.1);}
+.tag-static{cursor:default;}
 
 /* Footer */
 .footer{background:linear-gradient(135deg,#0D0506 0%,#1F0B11 50%,#0D0506 100%);padding:2.5rem 0 3rem 0;text-align:center;border-top:1.5px solid var(--border-gold);box-shadow:0 -4px 25px var(--shadow-colored);}
@@ -319,7 +320,12 @@ body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);bac
             <div class="article-tags">
                 {% for tag in tags %}
                 {% if tag != "articles" %}
-                <a href="/tags/{{ tag | slugify }}/" class="tag">{{ tag }}</a>
+                {% assign tagMeta = collections.tagMeta[tag] %}
+                {% if tagMeta and tagMeta.isIndexable %}
+                <a href="{{ tagMeta.url }}" class="tag">{{ tagMeta.canonicalTag }}</a>
+                {% else %}
+                <span class="tag tag-static">{{ tag }}</span>
+                {% endif %}
                 {% endif %}
                 {% endfor %}
             </div>

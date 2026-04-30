@@ -4,9 +4,6 @@ pagination:
   size: 1
   alias: tag
 layout: base
-eleventyComputed:
-  title: "Articles tagged with {{ tag }} | Jai Khyapa Parampara"
-  robotsMeta: "index, follow"
 permalink: /tags/{{ tag | slugify }}/
 ---
 
@@ -56,9 +53,15 @@ permalink: /tags/{{ tag | slugify }}/
 </style>
 
 <div class="container">
+    {% assign tagMeta = collections.tagMeta[tag] %}
+    {% assign taglist = collections.all[tag] %}
+    {% assign articleCount = taglist | size %}
     <div class="blog-header">
         <h1 class="blog-title">Topic: {{ tag }}</h1>
-        <p class="blog-description">Exploring all articles and insights related to "{{ tag }}".</p>
+        <p class="blog-description">
+            Exploring {{ articleCount }} article{% if articleCount != 1 %}s{% endif %} related to "{{ tag }}".
+            {% unless tagMeta.isIndexable %}This archive stays available for readers, but it is not meant to be an indexed landing page.{% endunless %}
+        </p>
     </div>
 
     <div class="tags-container">
@@ -74,7 +77,6 @@ permalink: /tags/{{ tag | slugify }}/
     </div>
 
     <div class="articles-grid">
-        {% assign taglist = collections.all[tag] %}
         {% for article in taglist %}
         <div class="article-card">
             <span class="article-card-category">{{ article.data.category }}</span>
