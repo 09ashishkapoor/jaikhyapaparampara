@@ -8,20 +8,27 @@ category: "Prophecy & Science"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 40
+contentNotice: "health-disaster"
+metaDescription: "Dialogue on 2024 as a year of death, climate crisis, ancient viruses, vaccines, and spiritual warning."
+inBrief: "This article presents a discussion with a climate expert and medical doctor on 2024, climate crisis, ancient viruses, vaccination, and spiritual warning."
+keyPoints:
+  - "Blends medical, climate, and devotional perspectives."
+  - "Discusses emerging viruses, immunity, vaccination, glaciers, and environmental crisis."
+  - "Readers should follow qualified medical, scientific, and official safety guidance."
 tags:
-- articles
-- Guru Deva Shyama Khyapa
-- Guru Baba Shyama Khyapa
-- Science vs Spirituality
-- Climate Change
-- 2024
-- Health
-- Environment
-- Prophecy
-- Vaccination
-- Gupta Sadhak
-- Smashana Bhairava
-- Khyapa Parampara
+  - articles
+  - Guru Deva Shyama Khyapa
+  - Guru Baba Shyama Khyapa
+  - Science vs Spirituality
+  - Climate Change
+  - 2024
+  - Health
+  - Environment
+  - Prophecy
+  - Vaccination
+  - Gupta Sadhak
+  - Smashana Bhairava
+  - Khyapa Parampara
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=ijckXLa5HTE" rel="noopener" style="color: var(--accent-bright); text-decoration: none; font-style: normal; font-size: 0.95rem; margin-top: 0.5rem; display: inline-block;" target="_blank">📺 Watch Original Bengali Video on YouTube</a></p>
@@ -182,7 +189,7 @@ source: |
 <span class="speech-text" style="display:block;margin-top:0.5rem;">We are seeing a trend where common illnesses like fevers now last much longer—stretching to 21 days instead of three. This is due to a decline in active immunity. Modern lifestyles, a lack of physical activity, and constant stress are contaminating the younger generation more than the elderly.</span>
 </div>
 
-The environment is a massive factor. While we can use medicines to manage symptoms, no doctor can fight the fundamental changes in our nature. ancient viruses trapped in Antarctica or Siberia are now resurfacing as the ice melts. 
+The environment is a massive factor. While we can use medicines to manage symptoms, no doctor can fight the fundamental changes in our nature. ancient viruses trapped in Antarctica or Siberia are now resurfacing as the ice melts.
 
 <h2>The Double-Edged Sword of Science</h2>
 

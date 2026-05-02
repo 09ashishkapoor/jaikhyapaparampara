@@ -8,6 +8,13 @@ category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:37:00
 readingTime: 8
+contentNotice: "health"
+metaDescription: "Guru Shyama Khyapa and a doctor discuss COVID caution, masks, immunity, and spiritual responsibility during crisis."
+inBrief: "This article combines Guru Shyama Khyapa's spiritual warning with a doctor's discussion of COVID-era caution, masks, immunity, and community responsibility."
+keyPoints:
+  - "Discusses COVID risk through both devotional and practical conversation."
+  - "Highlights caution, discipline, and care for others during illness waves."
+  - "Medical guidance should be verified with qualified clinicians and public-health authorities."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

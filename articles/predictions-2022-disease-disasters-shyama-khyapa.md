@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:14:00
 readingTime: 3
+contentNotice: "health-disaster"
+metaDescription: "Guru Shyama Khyapa's 2022 spiritual predictions on disease, disasters, and moral responsibility."
+inBrief: "This article records Guru Shyama Khyapa's New Year warnings for 2022, focusing on disease, disasters, social conduct, and spiritual discipline."
+keyPoints:
+  - "Presents disease and disaster warnings in a devotional prophecy context."
+  - "Links external crisis with personal conduct, prayer, and responsibility."
+  - "Professional health, safety, and emergency advice should be sought from qualified sources."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

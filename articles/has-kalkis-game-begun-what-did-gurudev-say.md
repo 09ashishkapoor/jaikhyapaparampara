@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:11:00
 readingTime: 6
+contentNotice: "disaster"
+metaDescription: "Kalki Avatar prophecy on Kali Yuga, 2025 disasters, fires, bloodshed, global events, and Satya Yuga."
+inBrief: "This article presents Guru Shyama Khyapa's reflections on whether Kalki's game has begun, with prophecies about Kali Yuga, 2025 disasters, and Satya Yuga."
+keyPoints:
+  - "Frames fires, bloodshed, and global events through Kalki Avatar prophecy."
+  - "Discusses divine protection of India and the transition from Kali Yuga."
+  - "Readers should rely on official sources for disaster, conflict, and safety decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa
@@ -43,6 +50,7 @@ source: |
 <span class="speech-text" style="display:block;margin-top:0.5rem;">Friends, today we are back with a new episode. Before we dive into the topic, I'd like to mention a few things. We are running a series on our new channel, Guptasadhak Syamakhapa 2.0, about the ten avatars of Lord Narayana. Gurudev has already spoken about several avatars and will discuss more. We will provide the link to that series in the description box of this channel.
 
 Now, coming to the current situation, several recent events have shaken us and left us fearful—such as the incident in Ahmedabad and the recent helicopter crash in Guptkashi while returning from Kedarnath. I want to ask Gurudev about these occurrences. You had previously predicted that such things would happen, mentioning the year 2025. I would like you to connect these events for us.</span>
+
 </div>
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

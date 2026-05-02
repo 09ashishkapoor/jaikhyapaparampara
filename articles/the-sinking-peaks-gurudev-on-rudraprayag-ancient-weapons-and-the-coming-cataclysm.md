@@ -8,23 +8,30 @@ category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 32
+contentNotice: "disaster"
+metaDescription: "Rudraprayag teaching on ancient weapons, Kailash sinking, earthquake prophecy, Kalki Avatar, and cataclysm."
+inBrief: "This article connects Rudraprayag, Daksha Yagna, hidden Mahabharata artifacts, Kailash sinking, earthquake prophecy, and Kalki Avatar themes."
+keyPoints:
+  - "Blends sacred geography, mythology, and prophetic disaster language."
+  - "Discusses rising water, Kailash, earthquakes, Chiranjivis, and the critical years ahead."
+  - "Readers should follow official sources for disaster preparedness and travel safety."
 tags:
-- articles
-- Guru Deva Shyama Khyapa
-- Gupta Sadhak
-- Prophecy
-- Rudraprayag
-- Shiva
-- Daksha Yagna
-- Mahabharata
-- Karna
-- Konark Temple
-- Brihaspati
-- Bhavishya Malika
-- Kalki Avatar
-- Kailash
-- Earthquake
-- Spiritual Prophecy
+  - articles
+  - Guru Deva Shyama Khyapa
+  - Gupta Sadhak
+  - Prophecy
+  - Rudraprayag
+  - Shiva
+  - Daksha Yagna
+  - Mahabharata
+  - Karna
+  - Konark Temple
+  - Brihaspati
+  - Bhavishya Malika
+  - Kalki Avatar
+  - Kailash
+  - Earthquake
+  - Spiritual Prophecy
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=id2DvZserLs" rel="noopener" style="color: var(--accent-bright); text-decoration: none; font-style: normal; font-size: 0.95rem; margin-top: 0.5rem; display: inline-block;" target="_blank">📺 Watch Original Bengali Video on YouTube</a></p>

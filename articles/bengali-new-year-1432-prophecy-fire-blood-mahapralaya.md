@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:54:00
 readingTime: 7
+contentNotice: "disaster"
+metaDescription: "Bengali New Year 1432 prophecy on fire, bloodshed, conflict, World War III, and Mahapralaya."
+inBrief: "This article records Guru Shyama Khyapa's Bengali New Year 1432 prophecy about fire, bloodshed, conflict, World War III, and Mahapralaya."
+keyPoints:
+  - "Frames social unrest and war language as devotional prophecy."
+  - "Connects Mars, Kali Yuga, and Pishach Yog with the year's warnings."
+  - "Readers should use official sources for conflict, travel, and safety decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

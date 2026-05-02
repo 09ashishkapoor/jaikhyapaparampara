@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:44:00
 readingTime: 6
+contentNotice: "disaster"
+metaDescription: "Guru Shyama Khyapa prophecy on coming days, Third World War, earthquakes, Chardham, and 2030 warnings."
+inBrief: "This article presents Guru Shyama Khyapa's prophecy about the coming days, including Chardham concerns, earthquakes, mass death, Third World War, and 2030 warnings."
+keyPoints:
+  - "Frames future disaster claims through Bhavishya Malika and Kali Yuga prophecy."
+  - "Discusses temples sinking, war, earthquakes, and survival language."
+  - "Readers should not treat prophecy as emergency planning or safety guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

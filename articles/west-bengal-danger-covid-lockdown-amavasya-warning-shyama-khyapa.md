@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:31:00
 readingTime: 6
+contentNotice: "health-disaster"
+metaDescription: "Spiritual warning on West Bengal, COVID lockdown fears, Amavasya, and responsible health and safety context."
+inBrief: "This article presents Guru Shyama Khyapa's warning about West Bengal, COVID lockdown concerns, Amavasya timing, and spiritual responsibility during crisis."
+keyPoints:
+  - "Combines pandemic fears, regional concern, and devotional timing around Amavasya."
+  - "Encourages caution and spiritual seriousness without replacing practical guidance."
+  - "Health and emergency decisions should follow doctors and official authorities."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

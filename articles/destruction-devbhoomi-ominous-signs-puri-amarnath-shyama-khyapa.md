@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:27:00
 readingTime: 7
+contentNotice: "disaster"
+metaDescription: "Devbhoomi warning on Puri, Amarnath, Kedarnath, Bhabishya Malika, natural disasters, and World War III."
+inBrief: "This article presents Guru Shyama Khyapa's warning about Devbhoomi, ominous signs at Puri and Amarnath, Bhabishya Malika prophecy, and world-war fears."
+keyPoints:
+  - "Connects sacred-site collapse with Kali Yuga and Satya Yuga themes."
+  - "Discusses Puri, Amarnath, Kedarnath, global floods, and World War III."
+  - "Travel and disaster-safety decisions should follow official alerts and authorities."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

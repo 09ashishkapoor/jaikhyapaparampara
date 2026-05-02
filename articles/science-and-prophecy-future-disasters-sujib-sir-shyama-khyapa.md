@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:09:00
 readingTime: 7
+contentNotice: "disaster"
+metaDescription: "A science-and-spirituality conversation on future disasters, prophecy, geology, and devotional interpretation."
+inBrief: "This article brings together geologist Sujib Sir and Guru Shyama Khyapa in a conversation about future disasters, prophecy, science, and spiritual interpretation."
+keyPoints:
+  - "Explores where scientific observation and devotional prophecy are discussed together."
+  - "Frames disaster concerns through both geology-related conversation and spiritual teaching."
+  - "Readers should rely on qualified authorities for safety, emergency, and scientific decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

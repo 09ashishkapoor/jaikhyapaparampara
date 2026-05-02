@@ -8,16 +8,23 @@ category: "Prophecy & Science"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 32
+contentNotice: "health-disaster"
+metaDescription: "Spiritual warning on nature's destruction, COVID-era distress, disasters, and the path of salvation."
+inBrief: "This article presents Guru Shyama Khyapa's warning about the mutilation of nature, COVID-era spiritual emptiness, disasters, and the need for refuge in devotion."
+keyPoints:
+  - "Connects natural disasters and human frustration with spiritual decline."
+  - "Discusses COVID-19, earthquakes, volcanoes, tsunamis, and 2022 prophecy."
+  - "Health and disaster decisions should follow qualified professionals and official authorities."
 tags:
-- articles
-- Guru Shyama Khyapa
-- Prophecy
-- 2022 Predictions
-- Tarapith
-- Natural Disasters
-- Spiritual Crisis
-- God's Absence
-- Climate Change
+  - articles
+  - Guru Shyama Khyapa
+  - Prophecy
+  - 2022 Predictions
+  - Tarapith
+  - Natural Disasters
+  - Spiritual Crisis
+  - God's Absence
+  - Climate Change
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=LIBFuSYifm4" rel="noopener" style="color: var(--accent-bright); text-decoration: none; font-style: normal; font-size: 0.95rem; margin-top: 0.5rem; display: inline-block;" target="_blank">📺 Watch Original Bengali Video on YouTube</a></p>

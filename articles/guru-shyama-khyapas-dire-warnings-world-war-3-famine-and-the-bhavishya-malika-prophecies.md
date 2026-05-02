@@ -8,6 +8,13 @@ category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 8
+contentNotice: "health-disaster"
+metaDescription: "Gurudev's warnings on World War III, nuclear threat, famine, Bhavishya Malika, and health context."
+inBrief: "This article combines Durga and Lakshmi Puja reflections with Guru Shyama Khyapa's warnings about World War III, famine, nuclear threat, and Bhavishya Malika prophecy."
+keyPoints:
+  - "Links current events, ritual context, and prophecy themes."
+  - "Discusses war, famine, biological warfare, Saturn in Pisces, and Gurudev's health."
+  - "Readers should consult official authorities for health, food-security, conflict, and safety matters."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

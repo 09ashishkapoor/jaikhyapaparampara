@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:22:00
 readingTime: 4
+contentNotice: "disaster"
+metaDescription: "Durga Puja omen teaching on elephant arrival, palanquin departure, storms, floods, and earthquakes."
+inBrief: "This article explains Guru Shyama Khyapa's reading of Durga Puja arrival and departure omens as signs of storms, floods, earthquakes, and unrest."
+keyPoints:
+  - "Frames festival omens through traditional devotional interpretation."
+  - "Discusses weather and disaster warnings without practical preparedness guidance."
+  - "For storms, floods, and earthquakes, follow official alerts and safety instructions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

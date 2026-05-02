@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:03:00
 readingTime: 3
+contentNotice: "disaster"
+metaDescription: "Bengali Year 1429 predictions on natural disasters, earthquakes, cyclones, political upheaval, and awakening."
+inBrief: "This article presents Guru Shyama Khyapa's predictions for Bengali year 1429, including natural disasters, earthquakes, cyclones, political upheaval, and spiritual awakening."
+keyPoints:
+  - "Frames the year ahead through prophecy and Sanatan Dharma themes."
+  - "Discusses disaster, political unrest, and difficult times."
+  - "Readers should use official sources for weather, disaster, and public-safety decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

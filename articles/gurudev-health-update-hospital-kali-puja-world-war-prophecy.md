@@ -8,6 +8,13 @@ category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:01:00
 readingTime: 4
+contentNotice: "health-disaster"
+metaDescription: "Gurudev health update with hospital context, Kali Puja, World War III prophecy, and virus warnings."
+inBrief: "This article combines a Gurudev health update with Kali Puja in a hospital setting and warnings about World War III and a new virus."
+keyPoints:
+  - "Includes personal health context alongside devotional practice."
+  - "Presents war and virus warnings as spiritual prophecy."
+  - "Readers should consult professionals for medical, travel, and safety decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

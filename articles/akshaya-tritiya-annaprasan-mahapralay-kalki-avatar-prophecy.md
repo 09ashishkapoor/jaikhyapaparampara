@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 14:08:00
 readingTime: 7
+contentNotice: "disaster"
+metaDescription: "Akshaya Tritiya teaching on annaprasan, homa, Kalki Avatar, and Mahapralay prophecies with safety context."
+inBrief: "This article connects an Akshaya Tritiya family ritual with Guru Shyama Khyapa's warnings about Kali Yuga, Kalki Avatar, and Mahapralay."
+keyPoints:
+  - "Preserves the devotional setting of annaprasan and homa."
+  - "Presents catastrophe language as spiritual prophecy and religious commentary."
+  - "Readers should rely on official authorities for emergency or safety decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

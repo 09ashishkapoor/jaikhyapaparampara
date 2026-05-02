@@ -8,6 +8,13 @@ category: "Discourse"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:59:07
 readingTime: 10
+contentNotice: "disaster"
+metaDescription: "Climate warning dialogue on heatwaves, cyclones, urban heat islands, Kolkata weather, and nature's balance."
+inBrief: "This dialogue with meteorologist Suvendu Mukherjee examines heatwaves, climate disruption, urban heat islands, cyclones, and the risk to human civilization."
+keyPoints:
+  - "Blends scientific climate discussion with Gurudev's spiritual warning."
+  - "Discusses Kolkata, global warming, cyclones, and nature's broken balance."
+  - "Readers should follow qualified meteorological and official disaster guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

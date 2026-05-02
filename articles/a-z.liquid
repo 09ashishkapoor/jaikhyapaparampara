@@ -8,6 +8,7 @@ pagination:
 permalink: "/articles/a-z/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber | plus: 1 }}/{% endif %}index.html"
 eleventyComputed:
   title: "{% if pagination.pageNumber > 0 %}Articles A-Z - Page {{ pagination.pageNumber | plus: 1 }}{% else %}Articles A-Z Archive{% endif %}"
+  robotsMeta: "{% if pagination.pageNumber > 0 %}noindex, follow{% else %}index, follow{% endif %}"
 ---
 
 {% assign currentPage = pagination.pageNumber | plus: 1 %}

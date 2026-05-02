@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:45:00
 readingTime: 12
+contentNotice: "health-disaster"
+metaDescription: "Durga arrival omen teaching on mass mortality, new viruses, World War III, and 2024-2025 warnings."
+inBrief: "This article explains Guru Shyama Khyapa and astrologer Santanu's interpretation of the Mother Goddess arriving and departing on a horse."
+keyPoints:
+  - "Frames mass mortality, viruses, and war concerns through festival omen interpretation."
+  - "Connects Durga Puja, Saturn, Mars, Bagalamukhi, and Bhavishya Malika themes."
+  - "Readers should rely on medical and official sources for health, conflict, and safety decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:38:10
 readingTime: 7
+contentNotice: "disaster"
+metaDescription: "Guru Shyama Khyapa discusses Bhabishya Malika, nuclear threat, world unrest, and spiritual warning."
+inBrief: "This article presents Guru Shyama Khyapa's warning about Bhabishya Malika, nuclear threat, world unrest, and the feeling that danger is gathering in the air."
+keyPoints:
+  - "Frames nuclear and geopolitical anxiety through devotional prophecy."
+  - "Connects Bhabishya Malika themes with present-world unrest."
+  - "For conflict, travel, or safety decisions, consult official and qualified sources."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:35:00
 readingTime: 6
+contentNotice: "disaster"
+metaDescription: "Guru Shyama Khyapa discusses earthquakes through science, spirituality, prophecy, and devotional meaning."
+inBrief: "This article discusses earthquakes through Guru Shyama Khyapa's spiritual interpretation, while also engaging the relationship between science, prophecy, and nature."
+keyPoints:
+  - "Explores earthquake meaning through devotional and science-adjacent conversation."
+  - "Places natural events within a broader spiritual warning framework."
+  - "Earthquake preparedness and risk assessment should follow official expert guidance."
 tags: ["articles", "Guru Baba Shyama Khyapa", "Gupta Sadhak Shyamakhyapa", "Smashana Bhairava", "Earthquake", "Science", "Prophecy", "Kolkata", "Bhabishya Malika", "Geology"]
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>

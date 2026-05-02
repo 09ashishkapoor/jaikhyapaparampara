@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 00:03:00
 readingTime: 8
+contentNotice: "disaster"
+metaDescription: "Guru Shyama Khyapa's 2026 prophecy on civilization, World War III fears, disaster, and spiritual warning."
+inBrief: "This article records Guru Shyama Khyapa's warning about 2026, civilization-level disaster, World War III fears, and the spiritual meaning of upheaval."
+keyPoints:
+  - "Discusses global conflict and civilizational danger through prophecy."
+  - "Emphasizes spiritual reflection in the face of fear and instability."
+  - "It is not professional security, political, or emergency-preparedness advice."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

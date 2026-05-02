@@ -8,6 +8,13 @@ category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:24:00
 readingTime: 6
+contentNotice: "disaster"
+metaDescription: "Spiritual warning on broken Puri temple ovens, Pralay themes, and Jagannath's departure symbolism."
+inBrief: "This article interprets broken ovens at Puri's Jagannath Temple as a spiritual warning connected with Pralay themes and the possible departure of Jagannath."
+keyPoints:
+  - "Explains a temple incident through devotional prophecy and sacred symbolism."
+  - "Connects Puri, Jagannath, and Pralay with concern for the present age."
+  - "It should not be treated as practical disaster or safety instruction."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

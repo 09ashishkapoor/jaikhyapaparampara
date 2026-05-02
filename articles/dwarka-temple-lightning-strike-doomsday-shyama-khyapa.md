@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:09:00
 readingTime: 6
+contentNotice: "disaster"
+metaDescription: "Dwarka temple lightning omen teaching linked to Puri signs, planetary alignments, Pralay, and doomsday warning."
+inBrief: "This article presents Guru Shyama Khyapa's interpretation of lightning striking Dwarkadhish Temple as an omen connected to Puri, planetary alignments, and Pralay."
+keyPoints:
+  - "Explains a temple lightning strike through devotional and prophetic symbolism."
+  - "Connects Krishna, Dwarka, Puri Jagannath, Pralay, and doomsday language."
+  - "Readers should not use prophecy content as practical emergency or safety advice."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

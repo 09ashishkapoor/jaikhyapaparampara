@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:03:00
 readingTime: 7
+contentNotice: "disaster"
+metaDescription: "Spiritual commentary on World War III fears, Middle East conflict, nuclear threat, and Durga Puja symbolism."
+inBrief: "This article presents Guru Shyama Khyapa's spiritual commentary on world-war fears, Middle East tensions, nuclear threat, and the symbolic arrival of the Mother Goddess."
+keyPoints:
+  - "Connects geopolitical conflict with devotional and prophetic interpretation."
+  - "Emphasizes spiritual reflection rather than political or security advice."
+  - "Readers should rely on official sources for travel, conflict, and safety decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

@@ -10,6 +10,60 @@ eleventyComputed:
   description: "{{ group.description }}"
   robotsMeta: "index, follow"
 ---
+{% assign topicCanonicalUrl = "https://jaikhyapaparampara.com" | append: page.url %}
+{% assign topicCollectionId = topicCanonicalUrl | append: "#collection" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": {{ topicCollectionId | jsonify }},
+      "url": {{ topicCanonicalUrl | jsonify }},
+      "name": {{ group.name | jsonify }},
+      "description": {{ group.description | jsonify }},
+      "inLanguage": "en",
+      "isPartOf": {
+        "@id": "https://jaikhyapaparampara.com/#website"
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "name": {{ group.name | append: " start here articles" | jsonify }},
+        "numberOfItems": {{ group.startHereArticles | size }},
+        "itemListElement": [
+          {% for article in group.startHereArticles %}
+          {% assign articleCanonicalUrl = "https://jaikhyapaparampara.com" | append: article.url %}
+          {
+            "@type": "ListItem",
+            "position": {{ forloop.index }},
+            "url": {{ articleCanonicalUrl | jsonify }},
+            "name": {{ article.data.title | jsonify }}
+          }{% unless forloop.last %},{% endunless %}
+          {% endfor %}
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": {{ topicCanonicalUrl | append: "#breadcrumb" | jsonify }},
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Articles Directory",
+          "item": "https://jaikhyapaparampara.com/articles/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": {{ group.name | jsonify }},
+          "item": {{ topicCanonicalUrl | jsonify }}
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 <style>
 .topic-shell { padding: 3rem 0 4rem; }
@@ -102,6 +156,25 @@ eleventyComputed:
 }
 .section-heading { font-size: 1.7rem; margin-bottom: 0.35rem; }
 .section-copy { color: var(--text-dark); opacity: 0.84; margin-bottom: 1.2rem; }
+.topic-overview {
+    margin-bottom: 1.2rem;
+    padding: 1rem;
+    border-radius: 18px;
+    border: 1px solid rgba(232,196,104,0.16);
+    background: rgba(255,255,255,0.025);
+}
+.topic-overview p,
+.key-ideas-list li,
+.start-here-list li { color: var(--text-dark); opacity: 0.86; }
+.topic-overview p + p { margin-top: 0.75rem; }
+.key-ideas-list,
+.start-here-list {
+    margin: 0;
+    padding-left: 1.15rem;
+}
+.key-ideas-list li + li,
+.start-here-list li + li { margin-top: 0.55rem; }
+.start-here-list a { color: var(--accent-bright); text-decoration-color: var(--border-gold); }
 .letter-jump {
     display: flex;
     flex-wrap: wrap;
@@ -223,6 +296,26 @@ eleventyComputed:
 
     <div class="topic-layout">
         <section class="topic-main" aria-labelledby="topic-browse-title">
+            {% if group.overview and group.overview.size > 0 %}
+            <section class="topic-overview" aria-labelledby="topic-overview-title">
+                <h2 id="topic-overview-title" class="section-heading">Start with this theme</h2>
+                {% for paragraph in group.overview %}
+                <p>{{ paragraph }}</p>
+                {% endfor %}
+            </section>
+            {% endif %}
+
+            {% if group.keyIdeas and group.keyIdeas.size > 0 %}
+            <section class="topic-overview" aria-labelledby="topic-key-ideas-title">
+                <h2 id="topic-key-ideas-title" class="section-heading">Key ideas in this topic</h2>
+                <ul class="key-ideas-list">
+                    {% for idea in group.keyIdeas %}
+                    <li>{{ idea }}</li>
+                    {% endfor %}
+                </ul>
+            </section>
+            {% endif %}
+
             <h2 id="topic-browse-title" class="section-heading">Browse every title in this theme</h2>
             <p class="section-copy">Jump to a letter or scroll the full list. Articles are grouped alphabetically so the path stays neutral and easy to scan.</p>
 
@@ -258,9 +351,30 @@ eleventyComputed:
 
         <aside class="topic-sidebar">
             <div class="sidebar-block">
-                <h2 class="sidebar-heading">Why this page exists</h2>
-                <p class="sidebar-copy">This theme page keeps discovery self-directed: it groups related material into a clear browse state, but it does not push hand-picked “start here” articles.</p>
+                <h2 class="sidebar-heading">Start here</h2>
+                <p class="sidebar-copy">Recent representative articles in this theme:</p>
+                <ol class="start-here-list">
+                    {% for article in group.startHereArticles %}
+                    <li><a href="{{ article.url }}">{{ article.data.title }}</a></li>
+                    {% endfor %}
+                </ol>
             </div>
+
+            {% assign relatedEntityCount = group.relatedEntitySlugs | size %}
+            {% if relatedEntityCount > 0 %}
+            <div class="sidebar-block">
+                <h2 class="sidebar-heading">Core entities</h2>
+                <p class="sidebar-copy">Short definitions for recurring names in this theme:</p>
+                <div class="related-theme-list">
+                    {% for entity in coreEntities %}
+                        {% if group.relatedEntitySlugs contains entity.slug %}
+                        <a class="related-theme" href="/glossary/#{{ entity.slug }}">{{ entity.name }}</a>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+                <p class="sidebar-copy" style="margin-top: 0.75rem;"><a href="/glossary/">Open the full glossary</a></p>
+            </div>
+            {% endif %}
 
             <div class="sidebar-block">
                 <h2 class="sidebar-heading">Explore other themes</h2>

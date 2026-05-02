@@ -8,6 +8,13 @@ category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 12:00:00
 readingTime: 8
+contentNotice: "health"
+metaDescription: "Dol Purnima message on cultural decline, chemical colors, COVID concerns, intoxication, and tradition."
+inBrief: "This article records Guru Shyama Khyapa's Dol Purnima message on fading traditions, chemical colors, COVID-19 concerns, intoxication, and cultural decline."
+keyPoints:
+  - "Combines festival guidance with public-health and cultural concerns."
+  - "Warns about chemical colors, intoxication, and loss of traditional values."
+  - "For COVID-19 and health concerns, follow medical professionals and official guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

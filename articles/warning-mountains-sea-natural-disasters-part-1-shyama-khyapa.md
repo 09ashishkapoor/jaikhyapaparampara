@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:16:00
 readingTime: 3
+contentNotice: "disaster"
+metaDescription: "Guru Shyama Khyapa's warning on mountains, seas, and natural disasters as signs of spiritual imbalance."
+inBrief: "This article records Guru Shyama Khyapa's warning that mountains and seas are becoming dangerous, presenting natural disasters as signs of spiritual and ecological imbalance."
+keyPoints:
+  - "Focuses on mountains, seas, and environmental danger as prophetic symbols."
+  - "Encourages moral reflection and respect for nature."
+  - "It is not a substitute for official disaster-preparedness information."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

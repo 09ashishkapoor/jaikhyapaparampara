@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:05:00
 readingTime: 4
+contentNotice: "disaster"
+metaDescription: "2026 prophecy on earthquakes, volcanic eruptions, Third World War, AI financial control, and Hari Naam."
+inBrief: "This article shares Guru Shyama Khyapa's predictions for 2026, including earthquakes, volcanic eruptions, Third World War, AI control, and hope through Hari Naam."
+keyPoints:
+  - "Frames technology, war, and nature fears through Kali Yuga prophecy."
+  - "Discusses AI control, finance, natural disasters, and spiritual refuge."
+  - "Readers should use official and expert sources for financial, safety, and disaster decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

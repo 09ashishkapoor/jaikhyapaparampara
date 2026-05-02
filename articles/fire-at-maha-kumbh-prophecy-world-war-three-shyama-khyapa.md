@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:15:00
 readingTime: 5
+contentNotice: "disaster"
+metaDescription: "Maha Kumbh fire prophecy linking planetary alignment, earthquakes, World War III, Kalki Avatar, and unrest."
+inBrief: "This article discusses Guru Shyama Khyapa's interpretation of the Maha Kumbh fire as a sign connected to earthquakes, World War III, and end-times prophecy."
+keyPoints:
+  - "Connects Kumbh Mela, planetary alignment, Kurukshetra, and Kalki Avatar themes."
+  - "Presents war and disaster warnings as spiritual interpretation."
+  - "For crowd safety, travel, conflict, and disaster risk, follow official guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

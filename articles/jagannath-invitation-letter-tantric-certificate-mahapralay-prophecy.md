@@ -8,6 +8,13 @@ category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:02:00
 readingTime: 3
+contentNotice: "disaster"
+metaDescription: "Jagannath Puri story on Tantric certificate, temple treasury, Abhijit Bose, and Mahapralay prophecy."
+inBrief: "This article shares Guru Shyama Khyapa's meeting with Abhijit Bose from Jagannath Puri and his warning about Mahapralay after the temple treasury was broken."
+keyPoints:
+  - "Combines a Guru story with Jagannath, Tantra, and Puri temple themes."
+  - "Presents Mahapralay language as devotional prophecy."
+  - "Readers should not treat prophecy content as practical safety or legal guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

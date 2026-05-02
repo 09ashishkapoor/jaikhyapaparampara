@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:42:00
 readingTime: 9
+contentNotice: "disaster"
+metaDescription: "Global-warming teaching on heatwaves, Kali Yuga, Ramakrishna's twelve-suns prophecy, and human interference."
+inBrief: "This article presents Guru Shyama Khyapa's warning about extreme heatwaves, global warming, Kali Yuga, and Ramakrishna Dev's prophecy of twelve suns."
+keyPoints:
+  - "Combines spiritual prophecy with climate and heatwave concerns."
+  - "Discusses human interference with nature and global warming consequences."
+  - "Readers should follow meteorological, medical, and official safety guidance during extreme heat."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:35:00
 readingTime: 6
+contentNotice: "disaster"
+metaDescription: "Spiritual prophecy on India's fate, future disasters, social responsibility, and Guru Shyama Khyapa's warnings."
+inBrief: "This article presents Guru Shyama Khyapa's prophecy about India's fate, future disasters, and the moral or spiritual responsibilities of people in difficult times."
+keyPoints:
+  - "Frames national and disaster-related concerns through devotional prophecy."
+  - "Emphasizes conduct, prayer, and responsibility rather than panic."
+  - "Official sources remain necessary for emergency, legal, or safety decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

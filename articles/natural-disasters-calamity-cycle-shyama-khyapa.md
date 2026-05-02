@@ -8,6 +8,13 @@ category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 13:23:00
 readingTime: 5
+contentNotice: "health-disaster"
+metaDescription: "Spiritual teaching on natural disasters, the 2020 crisis cycle, Corona, astrology, karma, and divine wrath."
+inBrief: "This article presents Guru Shyama Khyapa's teaching on natural disasters, recurring calamity cycles, Corona, astrology, karma, and divine wrath."
+keyPoints:
+  - "Explains catastrophe through a spiritual and karmic framework."
+  - "Discusses the 2020 crisis cycle, human actions against nature, and prophecy."
+  - "Health and disaster decisions should follow qualified professionals and official guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

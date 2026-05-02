@@ -1,0 +1,49 @@
+---
+layout: base
+title: "Spiritual Topic Tags"
+metaTitle: "Spiritual Topic Tags and Article Archives"
+description: "Browse the main spiritual topic tags on Jai Khyapa Parampara, including Kali, Bhairava, sadhana, sacred texts, guru stories, and philosophy."
+metaDescription: "Browse main spiritual topic tags for Kali, Bhairava, sadhana, sacred texts, guru stories, philosophy, and Khyapa Parampara articles."
+permalink: "/tags/index.html"
+eleventyExcludeFromCollections: true
+---
+
+<style>
+.tags-index-shell { padding: 3rem 0 4rem; }
+.tags-index-header { text-align: center; max-width: 860px; margin: 0 auto 2.5rem; }
+.tags-index-title { font-family: 'Philosopher', sans-serif; color: var(--accent-bright); font-size: clamp(2.2rem, 4vw, 3.4rem); line-height: 1.12; margin-bottom: 0.9rem; }
+.tags-index-copy { color: var(--text-dark); opacity: 0.88; font-size: 1.12rem; }
+.tags-index-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1rem; }
+.tags-index-card { display: flex; justify-content: space-between; align-items: center; gap: 1rem; padding: 1rem 1.1rem; border: 1px solid var(--border-gold); border-radius: 16px; background: linear-gradient(145deg, rgba(45,15,24,0.55) 0%, rgba(17,6,9,0.94) 100%); color: inherit; text-decoration: none; transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease; }
+.tags-index-card:hover { transform: translateY(-3px); border-color: var(--accent-color); background: linear-gradient(145deg, rgba(232,196,104,0.12) 0%, rgba(17,6,9,0.94) 100%); }
+.tags-index-name { color: var(--accent-bright); font-family: 'Philosopher', sans-serif; font-size: 1.1rem; line-height: 1.25; }
+.tags-index-count { flex: 0 0 auto; color: var(--accent-color); border: 1px solid rgba(232,196,104,0.35); border-radius: 999px; padding: 0.2rem 0.65rem; font-size: 0.86rem; }
+.tags-index-note { margin-top: 2rem; color: var(--text-dark); opacity: 0.76; text-align: center; }
+</style>
+
+<section class="tags-index-shell">
+  <div class="container">
+    <header class="tags-index-header">
+      <h1 class="tags-index-title">Spiritual Topic Tags</h1>
+      <p class="tags-index-copy">
+        Use these topic archives to explore the larger article library. This page lists substantial tags only, so search engines and readers find stronger topic paths instead of thin archive pages.
+      </p>
+    </header>
+
+    <div class="tags-index-grid">
+      {% for tag in collections.allTags %}
+      {% assign tagMeta = collections.tagMeta[tag] %}
+      {% if tagMeta and tagMeta.isIndexable %}
+      <a class="tags-index-card" href="{{ tagMeta.url }}">
+        <span class="tags-index-name">{{ tagMeta.canonicalTag }}</span>
+        <span class="tags-index-count">{{ tagMeta.count }} articles</span>
+      </a>
+      {% endif %}
+      {% endfor %}
+    </div>
+
+    <p class="tags-index-note">
+      Smaller tags may still appear on articles for readers, but they are kept out of search indexing to reduce duplicate and low-value archive pages.
+    </p>
+  </div>
+</section>

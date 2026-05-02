@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:41:00
 readingTime: 7
+contentNotice: "disaster"
+metaDescription: "End-times prophecy on Ravana's return, Kalki Avatar, seven immortals, and the war of gods and demons."
+inBrief: "This article discusses Guru Shyama Khyapa's teaching on Ravana's return, Kalki Avatar, the seven immortals, and the end-times war between gods and demons."
+keyPoints:
+  - "Connects Ravana, Vibhishana, Chiranjivis, and Kalki Avatar prophecy."
+  - "Presents great-war language as religious and mythological commentary."
+  - "Readers should not use prophecy content as practical conflict or safety guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 14:02:00
 readingTime: 13
+contentNotice: "disaster"
+metaDescription: "A devotional prophecy article on 2023 calamities, earthquakes, epidemics, and Bhabishya Malika themes."
+inBrief: "This article presents 2023 warnings through Bhabishya Malika themes, including earthquakes, epidemics, natural calamities, and spiritual interpretation."
+keyPoints:
+  - "Frames calamities and epidemics through scriptural and prophetic language."
+  - "Useful for understanding the site's devotional prophecy tradition."
+  - "It is not a substitute for disaster planning or public-health advice."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

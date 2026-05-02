@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:54:00
 readingTime: 6
+contentNotice: "disaster"
+metaDescription: "Vishkumbha teaching on damaged Kumbh, Pishach Yoga, fires, deaths, Kurukshetra alignments, and war."
+inBrief: "This article presents Guru Shyama Khyapa's Vishkumbha warning about Kumbh, Pishach Yoga, fires, deaths, planetary alignments, and coming war."
+keyPoints:
+  - "Connects Kumbh Mela, sadhus, Bhavishya Malika, and Kurukshetra symbolism."
+  - "Frames war and crowd tragedy language as spiritual interpretation."
+  - "Readers should follow official guidance for crowd, travel, and public-safety decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

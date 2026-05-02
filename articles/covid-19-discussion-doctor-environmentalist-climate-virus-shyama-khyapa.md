@@ -8,6 +8,13 @@ category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:44:00
 readingTime: 6
+contentNotice: "health-disaster"
+metaDescription: "COVID-19 discussion with doctor and environmentalist on climate change, future viruses, nature, and spirituality."
+inBrief: "This article presents a discussion between Guru Shyama Khyapa, Dr. Nilanjan Bhattacharjee, and environmentalist Sujit Kar on COVID-19, climate, and future viruses."
+keyPoints:
+  - "Blends medical, environmental, and devotional perspectives."
+  - "Discusses COVID-19, biological warfare, climate change, melting glaciers, and nature."
+  - "Readers should follow qualified medical, scientific, and official guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

@@ -7,10 +7,13 @@ website_redesign_plan/
 *.py
 *.bat
 wrangler.toml
+kakaradi_kali_sahasranama_*.md
 _START_HERE.txt
 CODE_OF_CONDUCT.md
 CONTRIBUTING.md
 VALIDATION_BASELINE.md
+SEO_AUDIT_REPORT.md
+SEO_IMPLEMENTATION_TODO.md
 improvement_108.md
 HINDI_SEO_CHECKLIST.md
 PERFORMANCE_OPTIMIZATION_REPORT.md

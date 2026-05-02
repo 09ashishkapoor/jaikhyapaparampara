@@ -8,6 +8,13 @@ category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 15
+contentNotice: "health-disaster"
+metaDescription: "Spiritual teaching on pandemic warnings, ritual responses, and public caution, presented with health and safety context."
+inBrief: "This article records Guru Shyama Khyapa's warning about disease, mortality, and spiritual remedies such as Maha Mrityunjaya Yagna and Harinam Sankirtan."
+keyPoints:
+  - "Frames pandemic fears through a devotional and prophetic lens."
+  - "Emphasizes ritual prayer, caution, and collective responsibility."
+  - "Health and safety decisions should still follow medical professionals and official authorities."
 tags:
   - articles
   - Gupta Sadhak Shyama Khyapa

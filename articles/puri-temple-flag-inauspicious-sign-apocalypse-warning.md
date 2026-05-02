@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 6
+contentNotice: "disaster"
+metaDescription: "Spiritual interpretation of the Puri Jagannath flag falling as an omen of Pralay and divine withdrawal."
+inBrief: "This article presents Guru Shyama Khyapa's interpretation of the Puri Jagannath temple flag falling as an inauspicious sign of Pralay."
+keyPoints:
+  - "Explains temple omens through devotional and prophetic tradition."
+  - "Connects Jagannath, Pralay, and the idea of divine withdrawal from Earth."
+  - "Prophecy content should not be used as practical emergency or safety advice."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

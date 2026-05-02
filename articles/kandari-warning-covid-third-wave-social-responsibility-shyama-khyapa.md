@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:39:00
 readingTime: 6
+contentNotice: "health"
+metaDescription: "COVID third-wave warning on social responsibility, family bonds, isolation, vaccines, and lockdown context."
+inBrief: "This article records Guru Shyama Khyapa's warning about the COVID-19 third wave and the need for social responsibility during pandemic hardship."
+keyPoints:
+  - "Discusses family bonds, isolation, lockdown, vaccines, and community duty."
+  - "Encourages responsibility toward affected families rather than stigma."
+  - "For COVID-19 and health decisions, follow medical professionals and official guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

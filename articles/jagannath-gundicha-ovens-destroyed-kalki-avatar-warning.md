@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:10:00
 readingTime: 5
+contentNotice: "disaster"
+metaDescription: "Jagannath Gundicha Temple oven destruction interpreted as a warning about divine withdrawal and Kalki Avatar."
+inBrief: "This article presents Guru Shyama Khyapa's interpretation of the destroyed ovens at Gundicha Temple as a spiritual warning tied to Jagannath and Kalki Avatar."
+keyPoints:
+  - "Explains Puri temple events through devotional and prophetic symbolism."
+  - "Connects Jagannath, Ratha Yatra, Kalki Avatar, and spiritual withdrawal."
+  - "Prophecy content should not replace official information or safety guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

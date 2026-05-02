@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:19:00
 readingTime: 3
+contentNotice: "disaster"
+metaDescription: "Spiritual commentary on solar storms, Sun omens, Earth changes, and Guru Shyama Khyapa's warning."
+inBrief: "This article presents Guru Shyama Khyapa's warning about solar storms, Sun-related omens, and Earth changes through devotional prophecy."
+keyPoints:
+  - "Connects celestial phenomena with spiritual warnings about the age."
+  - "Useful for understanding the site's solar-omen and prophecy cluster."
+  - "For practical space-weather or safety information, consult scientific and official sources."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 16:00:00
 readingTime: 8
+contentNotice: "disaster"
+metaDescription: "Apocalyptic 2024 prophecy from Guru Shyama Khyapa, covering spiritual warnings and responsible context."
+inBrief: "This article presents Guru Shyama Khyapa's apocalyptic warnings for 2024, including doomsday language, spiritual urgency, and calls for moral reflection."
+keyPoints:
+  - "Uses strong prophetic language to discuss crisis and Kali Yuga."
+  - "Should be read as devotional and spiritual commentary, not emergency instruction."
+  - "For real-world safety concerns, use official and qualified guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

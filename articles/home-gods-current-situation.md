@@ -8,6 +8,13 @@ category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:10:00
 readingTime: 6
+contentNotice: "health"
+metaDescription: "COVID-era fire ritual teaching using bael leaves, turmeric, rice, oxygen claims, and collective prayer."
+inBrief: "This article discusses a COVID-era fire ritual with bael leaves, turmeric, and sun-dried rice, framed as a devotional response to pandemic distress."
+keyPoints:
+  - "Presents ritual practice and divine intervention as spiritual teaching."
+  - "Mentions coronavirus, oxygen, and protective claims that require health context."
+  - "Readers should follow medical professionals and official health guidance for COVID-19 concerns."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

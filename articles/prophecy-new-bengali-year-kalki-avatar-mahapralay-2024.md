@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 12
+contentNotice: "disaster"
+metaDescription: "Bengali year 1431 prophecy on Kalki Avatar, Mahapralay, Kali Yuga, World War III, and depopulation."
+inBrief: "This article presents Guru Shyama Khyapa's Bengali year 1431 prophecy about Kalki Avatar, Mahapralay, Kali Yuga, and the Great Deluge."
+keyPoints:
+  - "Frames depopulation and world-war language as spiritual prophecy."
+  - "Discusses Chiranjivis, ancient texts, Kalki Avatar, and Kali Yuga themes."
+  - "Readers should not use prophecy content as emergency or safety planning guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

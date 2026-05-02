@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:04:00
 readingTime: 4
+contentNotice: "disaster"
+metaDescription: "Locust plague teaching on biblical prophecy, end-times warnings, disasters, and Kalighat protection."
+inBrief: "This article discusses the locust invasion as a biblical and end-times sign, with Guru Shyama Khyapa's warnings about disasters and Kalighat protection."
+keyPoints:
+  - "Frames locusts and disaster fears through prophetic interpretation."
+  - "Connects Pralay, 2020 disasters, and Kalighat devotional geography."
+  - "For disaster and food-security concerns, follow qualified and official sources."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

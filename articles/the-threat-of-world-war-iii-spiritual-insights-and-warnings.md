@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:20:00
 readingTime: 12
+contentNotice: "disaster"
+metaDescription: "Spiritual commentary on World War III fears, Russia-Ukraine tensions, nuclear war, prophecy, and peace."
+inBrief: "This article presents Guru Shyama Khyapa's spiritual concerns about global tensions, the Russia-Ukraine conflict, nuclear war, and the threat of World War III."
+keyPoints:
+  - "Frames global conflict through spiritual warning and prayer for peace."
+  - "Discusses nuclear war, prophecy, and worldwide crisis themes."
+  - "Readers should rely on official authorities for security, travel, and safety decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

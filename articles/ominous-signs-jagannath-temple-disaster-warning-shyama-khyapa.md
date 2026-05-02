@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:11:00
 readingTime: 5
+contentNotice: "disaster"
+metaDescription: "Spiritual prophecy on ominous signs at Jagannath Temple, disaster warnings, and devotional responsibility."
+inBrief: "This article presents Guru Shyama Khyapa's interpretation of ominous signs at Jagannath Temple as spiritual warnings connected with disorder, disaster, and Kali Yuga."
+keyPoints:
+  - "Explains temple signs through a devotional and prophetic framework."
+  - "Connects Jagannath Temple events with wider concerns about nature and society."
+  - "Practical safety decisions should still follow official authorities and qualified experts."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

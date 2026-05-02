@@ -8,6 +8,13 @@ category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 06:56:00
 readingTime: 6
+contentNotice: "health-disaster"
+metaDescription: "Dark Age teaching on Maha Pralaya, rising seas, Disease X, melting ice, Kali Yuga, and human responsibility."
+inBrief: "This article presents Guru Shyama Khyapa's teaching on the Dark Age, Maha Pralaya, rising sea levels, Disease X, melting ice, and human responsibility."
+keyPoints:
+  - "Frames climate and disease concerns through Kali Yuga and spiritual accountability."
+  - "Discusses Jagannath, Govardhan, world destruction, Nipah, and Mahapralaya."
+  - "Health and disaster decisions should follow qualified professionals and official guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

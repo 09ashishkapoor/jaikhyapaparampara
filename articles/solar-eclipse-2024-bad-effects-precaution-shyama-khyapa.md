@@ -8,6 +8,13 @@ category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:23:00
 readingTime: 4
+contentNotice: "health"
+metaDescription: "Solar Eclipse 2024 guidance from Guru Shyama Khyapa and a doctor, with health and safety context."
+inBrief: "This article presents a conversation on Solar Eclipse 2024 precautions from Guru Shyama Khyapa and a doctor, combining devotional practice with practical caution."
+keyPoints:
+  - "Discusses eclipse precautions through spiritual and health-related conversation."
+  - "Separates devotional observance from professional medical or safety advice."
+  - "For eye safety, health, or emergency concerns, follow qualified and official guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

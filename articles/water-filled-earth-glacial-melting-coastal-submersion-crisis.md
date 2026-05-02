@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:07:00
 readingTime: 18
+contentNotice: "disaster"
+metaDescription: "Climate-crisis dialogue on melting glaciers, sea-level rise, coastal submersion, pollution, and global warming."
+inBrief: "This article presents Guru Shyama Khyapa and scientist Korda's discussion of melting glaciers, rising seas, coastal submersion, pollution, and global warming."
+keyPoints:
+  - "Connects environmental science concerns with spiritual warning."
+  - "Discusses sea-level rise, coastal-city risk, nature depletion, and human exploitation."
+  - "Climate and disaster decisions should follow qualified scientific and official sources."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

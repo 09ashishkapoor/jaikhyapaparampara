@@ -8,6 +8,13 @@ category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:19:00
 readingTime: 5
+contentNotice: "health"
+metaDescription: "Sacred Pushpanjali prayer for world peace, health, and COVID-19 relief with devotional and health context."
+inBrief: "This article presents a sacred Pushpanjali prayer to Mother Durga for world peace, health, and relief during the COVID-19 pandemic."
+keyPoints:
+  - "Focuses on visible ritual prayer and Sanskrit mantra recitation."
+  - "Frames pandemic relief as devotional aspiration, not medical treatment."
+  - "For health concerns, readers should consult medical professionals and official guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

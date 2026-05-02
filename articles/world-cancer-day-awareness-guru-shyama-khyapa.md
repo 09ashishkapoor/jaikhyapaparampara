@@ -8,6 +8,13 @@ category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:50:00
 readingTime: 4
+contentNotice: "health"
+metaDescription: "World Cancer Day reflections combining spiritual perspective, awareness, and the need for qualified medical care."
+inBrief: "This article reflects on World Cancer Day from a spiritual perspective while recognizing the importance of awareness, care, and medical responsibility."
+keyPoints:
+  - "Frames illness with compassion, devotion, and awareness."
+  - "Spiritual reflection is presented alongside the need for appropriate care."
+  - "Cancer screening, diagnosis, and treatment require qualified medical professionals."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

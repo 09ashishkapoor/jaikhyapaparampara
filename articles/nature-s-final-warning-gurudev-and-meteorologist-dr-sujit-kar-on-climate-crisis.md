@@ -8,16 +8,23 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 42
+contentNotice: "disaster"
+metaDescription: "Long-form dialogue on climate crisis, meteorology, spiritual warning, and nature's balance with safety context."
+inBrief: "This long-form dialogue between Gurudev and meteorologist Dr. Sujit Kar explores climate crisis, earth balance, and spiritual warnings about nature."
+keyPoints:
+  - "Blends meteorological discussion with devotional interpretation."
+  - "Addresses climate change, urban heat, earth balance, and Kalpanta themes."
+  - "Readers should follow qualified scientific and official guidance for climate and disaster risks."
 tags:
-- articles
-- Guru Baba Shyama Khyapa
-- Gupta Sadhak
-- Climate Change
-- Environment
-- Science and Spirituality
-- Prophecy
-- Dr. Sujit Kar
-- Kalpanta
+  - articles
+  - Guru Baba Shyama Khyapa
+  - Gupta Sadhak
+  - Climate Change
+  - Environment
+  - Science and Spirituality
+  - Prophecy
+  - Dr. Sujit Kar
+  - Kalpanta
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=hzR10uCM2Ng" rel="noopener" style="color: var(--accent-bright); text-decoration: none; font-style: normal; font-size: 0.95rem; margin-top: 0.5rem; display: inline-block;" target="_blank">📺 Watch Original Bengali Video on YouTube</a></p>

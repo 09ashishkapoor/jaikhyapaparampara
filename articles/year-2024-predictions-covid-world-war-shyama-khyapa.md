@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:04:00
 readingTime: 4
+contentNotice: "health-disaster"
+metaDescription: "Spiritual predictions for 2024 covering COVID, war fears, and social upheaval, with responsible safety context."
+inBrief: "This prophecy article presents Guru Shyama Khyapa's warnings for 2024, including disease, conflict, social unrest, and spiritual preparation."
+keyPoints:
+  - "Covers COVID, global conflict, and India's future through a devotional prophecy frame."
+  - "Encourages alertness, prayer, and moral responsibility rather than panic."
+  - "For health, emergency, or safety decisions, rely on official and qualified guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

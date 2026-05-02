@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:57:00
 readingTime: 10
+contentNotice: "disaster"
+metaDescription: "Kali Yuga warning on a godless earth, departing deities, five Dhams controversy, Kalki, and 2025 prophecy."
+inBrief: "This article presents Guru Shyama Khyapa's warning about a godless earth, Kali Yuga, departing deities, the five Dhams controversy, and 2025 catastrophe."
+keyPoints:
+  - "Frames religious controversy and catastrophe through Kali Yuga and Kalki prophecy."
+  - "Discusses Puri Jagannath, Pralaya, Dandapati, and the Four Dhams."
+  - "Readers should not use prophecy content as practical legal, travel, or safety guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

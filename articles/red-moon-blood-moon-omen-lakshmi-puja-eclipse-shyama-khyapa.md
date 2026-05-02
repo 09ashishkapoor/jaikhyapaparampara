@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:25:00
 readingTime: 4
+contentNotice: "disaster"
+metaDescription: "Blood moon omen teaching on Lakshmi Puja, lunar eclipse, bloodshed, conflict, and difficult months ahead."
+inBrief: "This article records Guru Shyama Khyapa's warning about the red blood moon during Lakshmi Puja and lunar eclipse as an omen of conflict and bloodshed."
+keyPoints:
+  - "Interprets the red moon through devotional and prophetic symbolism."
+  - "Connects eclipse timing with warnings about conflict and difficult months."
+  - "Readers should use official sources for conflict, travel, and safety decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

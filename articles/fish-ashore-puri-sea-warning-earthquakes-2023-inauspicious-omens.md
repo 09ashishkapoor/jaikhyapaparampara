@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:06:00
 readingTime: 16
+contentNotice: "disaster"
+metaDescription: "Guru Shyama Khyapa interprets Puri sea omens, earthquakes, Kalki prophecy, and natural-disaster warnings."
+inBrief: "This article presents Guru Shyama Khyapa's interpretation of fish washing ashore at Puri, earthquake warnings, Konark mysteries, and Kalki prophecy."
+keyPoints:
+  - "Connects visible coastal events with devotional omen interpretation."
+  - "Discusses earthquakes, natural disasters, and future prophecy."
+  - "Disaster preparedness and safety choices should follow official guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

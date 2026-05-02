@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:48:00
 readingTime: 7
+contentNotice: "health"
+metaDescription: "Annular solar eclipse teaching on Ring of Fire, Phalaharini Kali Puja, lunar eclipse, and COVID-end prophecy."
+inBrief: "This article explains Guru Shyama Khyapa's view of an annular solar eclipse, the Ring of Fire, Phalaharini Kali Puja, and COVID-end prophecy."
+keyPoints:
+  - "Interprets eclipses and ritual timing through devotional astrology."
+  - "Connects solar and lunar eclipses with COVID pandemic claims."
+  - "For health decisions, readers should follow medical professionals and official guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

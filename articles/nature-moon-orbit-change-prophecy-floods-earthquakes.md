@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 18
+contentNotice: "disaster"
+metaDescription: "Spiritual prophecy on nature, Moon changes, floods, earthquakes, and cosmic imbalance from Guru Shyama Khyapa."
+inBrief: "This article explores Guru Shyama Khyapa's prophecy about nature in crisis, connecting the Moon, floods, earthquakes, and cosmic imbalance."
+keyPoints:
+  - "Presents environmental and celestial changes through devotional prophecy."
+  - "Highlights concern for nature and human responsibility."
+  - "Use official scientific and emergency sources for practical risk decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

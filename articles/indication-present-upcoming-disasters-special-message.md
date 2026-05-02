@@ -8,7 +8,24 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:24:00
 readingTime: 3
-tags: ["articles", "Guru Baba Shyama Khyapa", "Gupta Sadhak Shyamakhyapa", "Smashana Bhairava", "Coronavirus", "asteroid", "disaster", "prophecy"]
+contentNotice: "health-disaster"
+metaDescription: "Guru Shyamakhyapa on coronavirus, Puri temple omens, asteroid fears, and spiritual caution."
+inBrief: "This article shares Guru Shyamakhyapa's special message on coronavirus, Puri Jagannath signs, asteroid fears, and spiritual caution."
+keyPoints:
+  - "Includes clear reminders to listen to doctors and scientists."
+  - "Frames asteroid and disaster concerns as calculation and devotional interpretation."
+  - "Health, emergency, and safety choices should follow qualified authorities."
+tags:
+  [
+    "articles",
+    "Guru Baba Shyama Khyapa",
+    "Gupta Sadhak Shyamakhyapa",
+    "Smashana Bhairava",
+    "Coronavirus",
+    "asteroid",
+    "disaster",
+    "prophecy",
+  ]
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=J0_XYkt4GI8" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>

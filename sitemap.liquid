@@ -3,7 +3,7 @@ permalink: /sitemap.xml
 eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://jaikhyapaparampara.com/</loc>
     {% if collections.articles and collections.articles[0] and collections.articles[0].date %}
@@ -14,7 +14,6 @@ eleventyExcludeFromCollections: true
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://jaikhyapaparampara.com/"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://jaikhyapaparampara.com/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jaikhyapaparampara.com/"/>
   </url>
   
@@ -24,6 +23,13 @@ eleventyExcludeFromCollections: true
     <lastmod>2026-03-22T00:00:00Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    {% for image in galleryImages %}
+    <image:image>
+      <image:loc>https://jaikhyapaparampara.com{{ image.src }}</image:loc>
+      <image:title>{{ image.caption | escape }}</image:title>
+      <image:caption>{{ image.caption | escape }}</image:caption>
+    </image:image>
+    {% endfor %}
   </url>
 
   <!-- Articles Index -->
@@ -38,6 +44,44 @@ eleventyExcludeFromCollections: true
     <priority>0.9</priority>
   </url>
 
+  <!-- Articles A-Z Index -->
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/a-z/</loc>
+    {% if collections.articles and collections.articles[0] and collections.articles[0].date %}
+    <lastmod>{{ collections.articles[0].date | isoDate }}</lastmod>
+    {% else %}
+    <lastmod>2025-12-27T00:00:00Z</lastmod>
+    {% endif %}
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Core Entities Glossary -->
+  <url>
+    <loc>https://jaikhyapaparampara.com/glossary/</loc>
+    {% if collections.articles and collections.articles[0] and collections.articles[0].date %}
+    <lastmod>{{ collections.articles[0].date | isoDate }}</lastmod>
+    {% else %}
+    <lastmod>2025-12-27T00:00:00Z</lastmod>
+    {% endif %}
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Topic Hub Pages -->
+  {% for group in collections.browseGroups %}
+  <url>
+    <loc>https://jaikhyapaparampara.com{{ group.url }}</loc>
+    {% if group.latestDate %}
+    <lastmod>{{ group.latestDate | isoDate }}</lastmod>
+    {% else %}
+    <lastmod>2025-12-27T00:00:00Z</lastmod>
+    {% endif %}
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  {% endfor %}
+
   <!-- Blog Articles -->
   {% for article in collections.articles %}
   <url>
@@ -48,11 +92,23 @@ eleventyExcludeFromCollections: true
   </url>
   {% endfor %}
 
+  <!-- Tags Index -->
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/</loc>
+    {% if collections.articles and collections.articles[0] and collections.articles[0].date %}
+    <lastmod>{{ collections.articles[0].date | isoDate }}</lastmod>
+    {% else %}
+    <lastmod>2025-12-27T00:00:00Z</lastmod>
+    {% endif %}
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <!-- Tag Pages -->
   {% for tag in collections.allTags %}
   {% assign posts = collections.all[tag] %}
   {% assign postsSize = posts | size %}
-  {% if postsSize >= 3 %}
+  {% if postsSize >= 8 %}
   <url>
     <loc>https://jaikhyapaparampara.com/tags/{{ tag | slugify }}/</loc>
     <lastmod>{{ posts[0].date | isoDate }}</lastmod>

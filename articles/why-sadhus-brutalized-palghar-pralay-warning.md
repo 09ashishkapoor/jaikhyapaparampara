@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:59:05
 readingTime: 6
+contentNotice: "disaster"
+metaDescription: "Gurudev reflects on Palghar violence, attacks on sadhus, Pralay omens, and spiritual responsibility."
+inBrief: "This article records Gurudev's response to violence against sadhus, the Palghar lynching, Pralay warnings, and the need for spiritual responsibility."
+keyPoints:
+  - "Handles violence and social unrest through devotional commentary."
+  - "Connects the Palghar incident with broader warnings about Pralay and moral decline."
+  - "Readers should rely on qualified authorities for legal, public-safety, and emergency matters."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

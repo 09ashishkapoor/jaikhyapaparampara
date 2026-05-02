@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:55:00
 readingTime: 6
+contentNotice: "disaster"
+metaDescription: "Spiritual warning on World War III, nuclear conflict, biodiversity loss, and Bhavishya Malika prophecy."
+inBrief: "This article presents Guru Shyama Khyapa's warning about World War III, nuclear danger, biodiversity extinction, and end-times prophecy."
+keyPoints:
+  - "Connects Russia-Ukraine tensions with wider prophetic interpretation."
+  - "Discusses nuclear conflict, environmental devastation, and Bhavishya Malika themes."
+  - "Readers should use official sources for war, travel, and safety decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

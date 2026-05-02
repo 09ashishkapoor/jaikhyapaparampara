@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:23:00
 readingTime: 11
+contentNotice: "disaster"
+metaDescription: "Guru Shyama Khyapa condemns the Kerala mother-elephant killing and links cruelty to Kali Yuga consequences."
+inBrief: "This article records Guru Shyama Khyapa's condemnation of the killing of a pregnant elephant in Kerala and his warning about Kali Yuga cruelty."
+keyPoints:
+  - "Discusses animal cruelty, conscience, Kali Yuga, and moral decline."
+  - "Connects the event with spiritual consequences and prophetic warning."
+  - "Readers should rely on lawful and official channels for animal welfare and public-safety action."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

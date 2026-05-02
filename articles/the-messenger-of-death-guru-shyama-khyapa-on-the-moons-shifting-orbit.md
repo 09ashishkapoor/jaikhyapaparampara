@@ -8,6 +8,13 @@ category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 2
+contentNotice: "health-disaster"
+metaDescription: "Moon-orbit prophecy on global floods, health crises, Blood Moon symbolism, spiritual protection, and 2030."
+inBrief: "This article presents Guru Shyama Khyapa's teaching on the moon's shifting orbit as a sign connected to floods, health crises, and 2030 warnings."
+keyPoints:
+  - "Frames lunar changes, Blood Moon symbolism, and Pret Loka through prophecy."
+  - "Discusses global floods, health crises, mass extinction language, and spiritual protection."
+  - "Health and disaster decisions should follow qualified professionals and official alerts."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

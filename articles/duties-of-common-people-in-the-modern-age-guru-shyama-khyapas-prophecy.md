@@ -8,6 +8,13 @@ category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 7
+contentNotice: "health-disaster"
+metaDescription: "Modern-age prophecy on disease, disasters, economic collapse, anarchy, astrology, and inner peace."
+inBrief: "This article presents Guru Shyama Khyapa's teaching on the duties of common people amid predictions of disease, disasters, economic collapse, and social unrest."
+keyPoints:
+  - "Frames modern crisis through Kali Yuga, astrology, and spiritual peace."
+  - "Discusses coronavirus, economic collapse, anarchy, and widespread death."
+  - "Health, financial, and safety decisions should follow qualified and official sources."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

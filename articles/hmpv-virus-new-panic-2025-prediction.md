@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:55:00
 readingTime: 6
+contentNotice: "health-disaster"
+metaDescription: "Spiritual commentary on HMPV panic, 2025 predictions, disease fears, and responsible public-health context."
+inBrief: "This article discusses HMPV-related public fear and 2025 predictions through Guru Shyama Khyapa's spiritual and prophetic framing."
+keyPoints:
+  - "Addresses disease anxiety and prophecy without presenting medical instructions."
+  - "Encourages caution and spiritual steadiness rather than panic."
+  - "Health concerns should be checked against doctors and official public-health updates."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

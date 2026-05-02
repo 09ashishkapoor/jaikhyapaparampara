@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 14
+contentNotice: "disaster"
+metaDescription: "Spiritual commentary on geopolitics, nuclear war fears, Mahapralay, and end-of-world prophecy themes."
+inBrief: "This article presents end-of-world prophecy themes through geopolitics, nuclear war fears, and Mahapralay as understood in Guru Shyama Khyapa's spiritual framework."
+keyPoints:
+  - "Connects geopolitical crisis with devotional ideas of Mahapralay and moral decline."
+  - "Best read as religious commentary and prophecy, not policy analysis."
+  - "Follow official guidance for conflict, travel, safety, and emergency matters."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

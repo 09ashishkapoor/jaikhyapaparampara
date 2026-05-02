@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:16:00
 readingTime: 7
+contentNotice: "disaster"
+metaDescription: "Mahapralaya teaching on Earth's rotation, astrology, climate change, Bhavishya Malika, and doomsday prophecy."
+inBrief: "This article explains Guru Shyama Khyapa's view of Earth's accelerating rotation, astrology, climate change, Bhavishya Malika, and Mahapralaya prophecy."
+keyPoints:
+  - "Connects physical earth changes with spiritual and astrological interpretation."
+  - "Discusses the Great Destruction, climate change, and ancient prophecy."
+  - "Readers should use qualified scientific and official sources for climate and disaster decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

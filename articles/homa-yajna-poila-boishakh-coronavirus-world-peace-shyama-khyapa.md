@@ -8,6 +8,13 @@ category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:26:00
 readingTime: 5
+contentNotice: "health"
+metaDescription: "Poila Boishakh homa teaching on world peace, coronavirus, human awareness, and spiritual responsibility."
+inBrief: "This article presents a Poila Boishakh Homa Yajna for world peace during coronavirus, with Guru Shyama Khyapa emphasizing awareness and prayer."
+keyPoints:
+  - "Frames the ritual as a spiritual response to pandemic anxiety."
+  - "Emphasizes human awareness, compassion, and discipline."
+  - "Public-health decisions should still follow medical and official guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

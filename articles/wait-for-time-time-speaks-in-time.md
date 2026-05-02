@@ -8,7 +8,24 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:22:00
 readingTime: 5
-tags: ["articles", "Guru Baba Shyama Khyapa", "Gupta Sadhak Shyamakhyapa", "Smashana Bhairava", "Suraiya star", "Corona", "pandemic", "prophecy"]
+contentNotice: "health-disaster"
+metaDescription: "Prophecy teaching on Suraiya star, COVID decline, Cyclone Amphan, natural disasters, and time's unfolding."
+inBrief: "This article presents Guru Shama Khapa's teaching on waiting for time, the Suraiya star, COVID-19 decline, Cyclone Amphan, and upcoming catastrophes."
+keyPoints:
+  - "Connects Pleiades, pandemic decline, natural disasters, and prophecy."
+  - "Frames time and catastrophe through devotional reflection."
+  - "Health and disaster decisions should follow qualified professionals and official guidance."
+tags:
+  [
+    "articles",
+    "Guru Baba Shyama Khyapa",
+    "Gupta Sadhak Shyamakhyapa",
+    "Smashana Bhairava",
+    "Suraiya star",
+    "Corona",
+    "pandemic",
+    "prophecy",
+  ]
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
   <p><a href="https://www.youtube.com/watch?v=_v745Vq_HvU" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>

@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:01:00
 readingTime: 7
+contentNotice: "disaster"
+metaDescription: "Guru Shyama Khyapa's earthquake warning connected to Moon-Mars conjunction and devotional astrology."
+inBrief: "This article presents Guru Shyama Khyapa's warning about earthquakes through the symbolism of a Moon-Mars conjunction and devotional astrology."
+keyPoints:
+  - "Explains a celestial omen as a spiritual warning sign."
+  - "Belongs to the site's prophecy and astrology-related teaching cluster."
+  - "Earthquake preparedness should follow official emergency-management guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

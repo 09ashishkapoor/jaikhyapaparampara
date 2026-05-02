@@ -8,6 +8,13 @@ category: "Guru Stories"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:44:00
 readingTime: 7
+contentNotice: "health"
+metaDescription: "Shantikunj message on COVID restrictions, second-wave concern, masks, temple visits, and devotee safety."
+inBrief: "This article shares Shantikunj's message during the Corona pandemic, including restrictions at the cremation ground and warnings to devotees not to visit."
+keyPoints:
+  - "Emphasizes caution, distancing, masks, and respect for restrictions."
+  - "Frames pandemic hardship through the lived context of devotees and temple practice."
+  - "Health decisions should follow medical professionals and official public-health guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

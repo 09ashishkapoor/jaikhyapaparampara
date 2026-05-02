@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:04:00
 readingTime: 9
+contentNotice: "disaster"
+metaDescription: "Dol Purnima and blood moon prophecy on lunar eclipse, conflict warnings, traditions, and future signs."
+inBrief: "This article discusses Dol Purnima coinciding with a Blood Moon eclipse and Guru Shyama Khyapa's warnings about conflict, declining traditions, and future signs."
+keyPoints:
+  - "Interprets Holi, lunar eclipse, and Noshto Chand through prophetic symbolism."
+  - "Connects Bhavishya Malika themes with warnings of conflict."
+  - "Readers should rely on official sources for conflict, travel, and safety decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

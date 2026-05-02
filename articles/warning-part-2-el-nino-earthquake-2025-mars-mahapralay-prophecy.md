@@ -8,6 +8,13 @@ category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:09:00
 readingTime: 5
+contentNotice: "disaster"
+metaDescription: "Spiritual warning on El Niño, earthquakes, 2025 Mars symbolism, and Mahapralay prophecy with safety context."
+inBrief: "This article continues Guru Shyama Khyapa's warning about El Niño, earthquakes, 2025 Mars symbolism, and Mahapralay through a devotional prophecy lens."
+keyPoints:
+  - "Frames climate and earthquake concerns through spiritual interpretation."
+  - "Links planetary symbolism with warnings about disorder and upheaval."
+  - "Use official scientific and emergency guidance for preparedness and safety."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

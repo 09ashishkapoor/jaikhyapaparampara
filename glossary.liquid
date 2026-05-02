@@ -1,0 +1,204 @@
+---
+layout: base
+title: "Core Entities Glossary"
+description: "Concise definitions for recurring deities, teachers, places, and lineage terms in the Jai Khyapa Parampara article library."
+metaDescription: "Definitions for Kali, Bhairava, Bama Khepa, Shyama Khyapa, Tarapith, Kamakhya, Shantikunj, and other recurring Parampara entities."
+permalink: /glossary/index.html
+robotsMeta: "index, follow"
+---
+{% assign glossaryCanonicalUrl = "https://jaikhyapaparampara.com" | append: page.url %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "@id": {{ glossaryCanonicalUrl | append: "#defined-terms" | jsonify }},
+  "url": {{ glossaryCanonicalUrl | jsonify }},
+  "name": "Jai Khyapa Parampara Core Entities Glossary",
+  "description": {{ description | jsonify }},
+  "inLanguage": "en",
+  "isPartOf": {
+    "@id": "https://jaikhyapaparampara.com/#website"
+  },
+  "hasDefinedTerm": [
+    {% for entity in coreEntities %}
+    {
+      "@type": "DefinedTerm",
+      "@id": {{ glossaryCanonicalUrl | append: "#" | append: entity.slug | jsonify }},
+      "name": {{ entity.name | jsonify }},
+      "description": {{ entity.shortDefinition | jsonify }},
+      "url": {{ glossaryCanonicalUrl | append: "#" | append: entity.slug | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+
+<style>
+.glossary-shell { padding: 3rem 0 4rem; }
+.glossary-header {
+    padding: 2rem;
+    border-radius: 24px;
+    border: 1px solid var(--border-gold);
+    background: linear-gradient(145deg, rgba(45,15,24,0.6) 0%, rgba(18,7,10,0.96) 100%);
+    box-shadow: 0 22px 48px rgba(0,0,0,0.22);
+    margin-bottom: 2rem;
+}
+.glossary-breadcrumb {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    color: var(--accent-color);
+    font-family: 'Philosopher', sans-serif;
+    font-size: 0.92rem;
+    margin-bottom: 1rem;
+}
+.glossary-breadcrumb a { color: inherit; text-decoration: none; border-bottom: 1px solid transparent; }
+.glossary-breadcrumb a:hover { border-bottom-color: currentColor; }
+.glossary-title {
+    font-family: 'Philosopher', sans-serif;
+    color: var(--accent-bright);
+    font-size: clamp(2.2rem, 4vw, 3.2rem);
+    line-height: 1.14;
+    margin-bottom: 0.7rem;
+}
+.glossary-copy {
+    max-width: 880px;
+    color: var(--text-dark);
+    opacity: 0.9;
+    font-size: 1.08rem;
+}
+.glossary-note {
+    margin-top: 1.1rem;
+    max-width: 880px;
+    padding: 0.9rem 1rem;
+    border-radius: 16px;
+    border: 1px solid rgba(232,196,104,0.18);
+    background: rgba(255,255,255,0.035);
+    color: var(--text-dark);
+    opacity: 0.86;
+}
+.glossary-jump {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.55rem;
+    margin-bottom: 1.5rem;
+}
+.glossary-jump a,
+.entity-topic,
+.entity-card-back {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.45rem 0.85rem;
+    border-radius: 999px;
+    border: 1px solid var(--border-gold);
+    background: rgba(255,255,255,0.04);
+    color: var(--text-dark);
+    text-decoration: none;
+}
+.glossary-jump a:hover,
+.entity-card-back:hover {
+    border-color: var(--accent-color);
+    color: var(--accent-color);
+}
+.entity-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1rem;
+}
+.entity-card {
+    border: 1px solid var(--border-gold);
+    border-radius: 22px;
+    background: linear-gradient(145deg, rgba(45,15,24,0.48) 0%, rgba(17,6,9,0.96) 100%);
+    box-shadow: 0 18px 40px rgba(0,0,0,0.18);
+    padding: 1.25rem;
+    scroll-margin-top: 100px;
+}
+.entity-type {
+    display: inline-flex;
+    margin-bottom: 0.7rem;
+    padding: 0.22rem 0.72rem;
+    border-radius: 999px;
+    border: 1px solid rgba(232,196,104,0.32);
+    color: var(--accent-color);
+    font-size: 0.84rem;
+}
+.entity-title {
+    font-family: 'Philosopher', sans-serif;
+    color: var(--accent-bright);
+    font-size: 1.45rem;
+    margin-bottom: 0.45rem;
+}
+.entity-definition,
+.entity-description,
+.entity-topics-label {
+    color: var(--text-dark);
+    opacity: 0.87;
+}
+.entity-definition { font-size: 1.04rem; }
+.entity-description { margin-top: 0.7rem; }
+.entity-topics-label {
+    margin-top: 1rem;
+    margin-bottom: 0.45rem;
+    font-family: 'Philosopher', sans-serif;
+    color: var(--accent-bright);
+}
+.entity-topics {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+}
+.entity-topic { font-size: 0.88rem; }
+.glossary-footer {
+    margin-top: 1.6rem;
+    display: flex;
+    justify-content: center;
+}
+@media (max-width: 768px) {
+    .glossary-shell { padding-top: 2rem; }
+    .glossary-header,
+    .entity-card { padding: 1rem; }
+}
+</style>
+
+<div class="container glossary-shell">
+    <header class="glossary-header">
+        <div class="glossary-breadcrumb">
+            <a href="/articles/">Articles Directory</a>
+            <span aria-hidden="true">→</span>
+            <span>Core entities glossary</span>
+        </div>
+        <h1 class="glossary-title">Core Entities Glossary</h1>
+        <p class="glossary-copy">Use these short canonical definitions for the recurring deities, teachers, places, and lineage terms that appear throughout Jai Khyapa Parampara articles.</p>
+        <p class="glossary-note">These definitions are devotional and editorial context for the site. They are not a substitute for lineage instruction, temple authority, medical guidance, legal guidance, or travel advice.</p>
+    </header>
+
+    <nav class="glossary-jump" aria-label="Jump to glossary entry">
+        {% for entity in coreEntities %}
+        <a href="#{{ entity.slug }}">{{ entity.name }}</a>
+        {% endfor %}
+    </nav>
+
+    <section class="entity-grid" aria-label="Core entity definitions">
+        {% for entity in coreEntities %}
+        <article class="entity-card" id="{{ entity.slug }}">
+            <span class="entity-type">{{ entity.type }}</span>
+            <h2 class="entity-title">{{ entity.name }}</h2>
+            <p class="entity-definition"><strong>Definition:</strong> {{ entity.shortDefinition }}</p>
+            <p class="entity-description">{{ entity.description }}</p>
+            {% if entity.relatedTopics and entity.relatedTopics.size > 0 %}
+            <p class="entity-topics-label">Related site themes</p>
+            <div class="entity-topics">
+                {% for topic in entity.relatedTopics %}
+                <span class="entity-topic">{{ topic }}</span>
+                {% endfor %}
+            </div>
+            {% endif %}
+        </article>
+        {% endfor %}
+    </section>
+
+    <div class="glossary-footer">
+        <a class="entity-card-back" href="/articles/">Return to the article directory</a>
+    </div>
+</div>

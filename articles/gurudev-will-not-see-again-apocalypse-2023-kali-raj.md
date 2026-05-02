@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:32:00
 readingTime: 5
+contentNotice: "disaster"
+metaDescription: "2023 apocalypse prophecy on Kali Raj, Narayan as destroyer, earthquakes, tsunamis, and temple closure."
+inBrief: "This article records Guru Shyama Khyapa's announcement that he will not see people again as 2023 apocalypse warnings and Kali Raj themes intensify."
+keyPoints:
+  - "Connects Narayan, Parashuram, Kalki, 64 Yoginis, and Kali Raj with disaster prophecy."
+  - "Discusses earthquakes, tsunamis, and Shanti Kunj closure."
+  - "Emergency and travel decisions should follow qualified authorities and official alerts."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

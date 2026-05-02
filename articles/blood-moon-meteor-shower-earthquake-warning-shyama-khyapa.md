@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:26:00
 readingTime: 10
+contentNotice: "health-disaster"
+metaDescription: "Blood moon and meteor shower omen teaching linking celestial signs with earthquakes, pandemics, and divine wrath."
+inBrief: "This article records Guru Shyama Khyapa's warning about blood moon and meteor shower omens and their connection to earthquakes, pandemics, and divine wrath."
+keyPoints:
+  - "Interprets celestial events through devotional and prophetic symbolism."
+  - "Discusses earthquakes, pandemic fears, natural disasters, and planetary positions."
+  - "For health and disaster risks, follow qualified professionals and official alerts."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

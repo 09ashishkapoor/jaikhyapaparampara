@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:38:00
 readingTime: 4
+contentNotice: "disaster"
+metaDescription: "Spiritual commentary on the Chamoli glacier disaster, climate concern, and environmental responsibility."
+inBrief: "This article discusses the Chamoli glacier disaster through Guru Shyama Khyapa's spiritual interpretation of climate, nature, and human responsibility."
+keyPoints:
+  - "Connects a real disaster with devotional and environmental reflection."
+  - "Discusses glacier melt, climate change, and future disaster concerns."
+  - "For emergencies and disaster planning, follow qualified and official sources."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

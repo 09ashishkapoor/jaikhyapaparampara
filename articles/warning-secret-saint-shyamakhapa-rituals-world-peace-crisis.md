@@ -8,6 +8,13 @@ category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:01:00
 readingTime: 4
+contentNotice: "health-disaster"
+metaDescription: "Guru Shyama Khyapa's world-peace rituals during COVID-19, framed with health and crisis context."
+inBrief: "This article records Guru Shyama Khyapa's Mahamrityunjaya Yagya and world-peace prayers during COVID-19 and wider crisis fears."
+keyPoints:
+  - "Centers ritual prayer and collective spiritual responsibility."
+  - "Discusses pandemic, biological warfare, cyclone, and locust concerns."
+  - "Health and safety decisions should follow professionals and official authorities."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

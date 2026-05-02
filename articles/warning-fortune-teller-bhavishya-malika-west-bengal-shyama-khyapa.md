@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:42:00
 readingTime: 5
+contentNotice: "disaster"
+metaDescription: "Bhavishya Malika warning for West Bengal, Pravin Bhaiyaji, Jagannath, Krishna chanting, and spiritual urgency."
+inBrief: "This article shares Guru Shyama Khyapa's urgent message from Bhavishya Malika holder Pravin Bhaiyaji for West Bengal and devotional practice."
+keyPoints:
+  - "Frames diet, Krishna chanting, and Jagannath devotion through prophecy."
+  - "Discusses West Bengal, Bhavishya Malika, and spiritual urgency before crisis."
+  - "Readers should not use prophecy content as practical health, legal, or safety guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 8
+contentNotice: "disaster"
+metaDescription: "Guru Shyama Khyapa's 2025 prophecy on planetary signs, eclipses, and disaster warnings, with safety context."
+inBrief: "This article explains Guru Shyama Khyapa's 2025 warnings through planetary alignments, eclipse symbolism, and the devotional idea of a difficult year of Mars."
+keyPoints:
+  - "Connects Saturn, Pisces, eclipses, and Mars with spiritual warning signs."
+  - "Presents prophecy as devotional commentary rather than practical emergency instruction."
+  - "Readers should follow official authorities for disaster preparedness and safety decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

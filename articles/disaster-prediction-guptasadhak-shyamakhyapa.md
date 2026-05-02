@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:06:00
 readingTime: 15
+contentNotice: "health-disaster"
+metaDescription: "Guru Shyama Khyapa discusses illness, disaster prediction, climate change, Kalki Avatar, and end-times warnings."
+inBrief: "This article records Guru Shyama Khyapa's reflections after illness and recovery, including disaster predictions, climate change, Kalki Avatar, and end-times warnings."
+keyPoints:
+  - "Combines personal health context with prophecy and climate concerns."
+  - "Discusses the Himalayas sinking, Third World War, Kalki Avatar, and future disasters."
+  - "Health and disaster decisions should follow qualified professionals and official authorities."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

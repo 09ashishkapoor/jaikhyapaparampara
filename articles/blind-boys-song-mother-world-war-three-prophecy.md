@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:10:00
 readingTime: 10
+contentNotice: "disaster"
+metaDescription: "Story of a blind boy's devotional song alongside warnings on World War III, nuclear weapons, and prophecy."
+inBrief: "This article pairs Guru Shyama Khyapa's compassion for a blind boy's devotional song with warnings about World War III, nuclear weapons, and unfolding prophecy."
+keyPoints:
+  - "Balances a devotional human story with geopolitical and prophetic warnings."
+  - "Discusses Israel-Hamas, nuclear weapons, and Bhavishya Malika themes."
+  - "Readers should use official sources for conflict, travel, and public-safety decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

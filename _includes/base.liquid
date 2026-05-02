@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    {% assign pageTitle = title %}
-    {% assign pageDescription = description | default: 'Jai Khyapa Parampara - Spiritual wisdom, articles, and sacred teachings' %}
+    {% assign pageTitle = metaTitle | default: title %}
+    {% assign pageDescription = metaDescription | default: description | default: 'Jai Khyapa Parampara - Spiritual wisdom, articles, and sacred teachings' %}
     {% assign pageRobots = robotsMeta | default: 'index, follow' %}
     {% if tag %}
         {% assign taglist = collections.all[tag] %}
@@ -14,15 +14,19 @@
             {% assign pageTitle = tag | append: ' Article' %}
             {% assign pageDescription = 'Browse the article tagged ' | append: tag | append: ' on Jai Khyapa Parampara.' %}
         {% endif %}
-        {% if articleCount >= 3 %}
+        {% if articleCount >= 8 %}
             {% assign pageRobots = 'index, follow' %}
         {% else %}
             {% assign pageRobots = 'noindex, follow' %}
         {% endif %}
     {% endif %}
+    {% unless metaDescription %}
+        {% assign pageDescription = pageDescription | truncate: 155 %}
+    {% endunless %}
+    {% assign brandedPageTitle = pageTitle | append: ' | Jai Khyapa Parampara' %}
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="{{ pageDescription }}">
+    <meta name="description" content="{{ pageDescription | attrEscape }}">
     <meta name="robots" content="{{ pageRobots }}">
     <meta name="google" content="notranslate">
     <meta name="theme-color" content="#8B2635">
@@ -31,16 +35,16 @@
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://jaikhyapaparampara.com{{ page.url }}">
-    <meta property="og:title" content="{{ pageTitle }} | Jai Khyapa Parampara">
-    <meta property="og:description" content="{{ pageDescription }}">
+    <meta property="og:title" content="{% if brandedPageTitle.size > 68 %}{{ pageTitle | escape }}{% else %}{{ brandedPageTitle | escape }}{% endif %}">
+    <meta property="og:description" content="{{ pageDescription | attrEscape }}">
     <meta property="og:image" content="https://jaikhyapaparampara.com/Bama_Khepa.webp">
     <meta property="og:image:alt" content="Bama Khepa - Jai Khyapa Parampara">
     <meta property="og:site_name" content="Jai Khyapa Parampara">
     <meta property="og:locale" content="en_US">
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{ pageTitle }} | Jai Khyapa Parampara">
-    <meta name="twitter:description" content="{{ pageDescription }}">
+    <meta name="twitter:title" content="{% if brandedPageTitle.size > 68 %}{{ pageTitle | escape }}{% else %}{{ brandedPageTitle | escape }}{% endif %}">
+    <meta name="twitter:description" content="{{ pageDescription | attrEscape }}">
     <meta name="twitter:image" content="https://jaikhyapaparampara.com/Bama_Khepa.webp">
     <meta name="twitter:image:alt" content="Bama Khepa - Jai Khyapa Parampara">
 
@@ -49,7 +53,7 @@
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="manifest" href="/manifest.json">
-    <title>{{ pageTitle }} | Jai Khyapa Parampara</title>
+    <title>{% if brandedPageTitle.size > 68 %}{{ pageTitle | escape }}{% else %}{{ brandedPageTitle | escape }}{% endif %}</title>
     
     <style>
 :root{--primary-color:#8B2635;--accent-color:#E8C468;--accent-bright:#F4E4C1;--light-bg:#1F0B11;--text-dark:#F0DCC8;--text-light:#FFF8F0;--shadow-colored:rgba(74,14,23,0.7);--border-gold:rgba(232,196,104,0.4);--link-color:var(--accent-color);--link-hover-color:var(--accent-bright);--link-underline-color:var(--border-gold);--gold-gradient:linear-gradient(135deg,#B8935A 0%,#C9A962 25%,#E8C468 50%,#F4E4C1 60%,#E8C468 75%,#C9A962 90%,#B8935A 100%);--temple-gradient:radial-gradient(ellipse at top,#2D0F18 0%,#1F0B11 45%,#0D0506 100%);}
@@ -107,6 +111,7 @@ main a:where(:not([class]):not([style]):focus-visible){outline:2px solid var(--a
             <ul class="nav-menu">
                 <li><a href="/#sacred-texts">Temple of Knowledge</a></li>
                 <li><a href="/articles/" class="active">Articles</a></li>
+                <li><a href="/glossary/">Glossary</a></li>
                 <li><a href="/search/">Search</a></li>
                 <li><a href="https://calendar.jaikhyapaparampara.com/" target="_blank" rel="noopener">Calendar</a></li>
                 <li><a href="/#about">About</a></li>

@@ -8,6 +8,13 @@ category: "Prophecy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:03:00
 readingTime: 9
+contentNotice: "disaster"
+metaDescription: "2025 Year of Mars prophecy on Purna Kumbh, war, natural disasters, Saturn transit, and nuclear threat."
+inBrief: "This article presents Guru Shyama Khyapa's 2025 predictions, including the Year of Mars, Purna Kumbh, wars, natural disasters, Saturn transit, and global conflict."
+keyPoints:
+  - "Frames 2025 warnings through astrology and prophetic interpretation."
+  - "Discusses Bangladesh, nuclear threat, Saturn, Mars, and disaster concerns."
+  - "Readers should rely on official sources for conflict, travel, and safety decisions."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

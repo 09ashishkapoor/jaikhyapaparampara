@@ -8,6 +8,13 @@ category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:17:00
 readingTime: 5
+contentNotice: "disaster"
+metaDescription: "Kali Yuga warning on Amarnath, Kedarnath, Puri, Jagannath, mountain danger, and Kalki Avatar."
+inBrief: "This article presents Guru Shyama Khyapa's warning about Kali Yuga's influence on Amarnath, Kedarnath, Puri, Jagannath, and sacred Devbhoomi."
+keyPoints:
+  - "Connects sacred places with Kalki Avatar and disaster prophecy."
+  - "Discusses mountains, seas, cloudbursts, and warnings about travel danger."
+  - "Travel and safety decisions should follow official alerts and qualified authorities."
 tags:
   - articles
   - Guru Baba Shyama Khyapa

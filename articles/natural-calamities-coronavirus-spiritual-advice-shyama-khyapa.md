@@ -8,6 +8,13 @@ category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:37:00
 readingTime: 7
+contentNotice: "health-disaster"
+metaDescription: "Spiritual teaching on coronavirus, natural calamities, traditional remedies, and public caution with health context."
+inBrief: "This article presents Guru Shyama Khyapa's reflections on coronavirus, natural calamities, spiritual power, and traditional ritual responses."
+keyPoints:
+  - "Frames disease and disaster through a devotional and prophetic lens."
+  - "Mentions traditional remedies and spiritual practices without replacing medical care."
+  - "Readers should follow qualified medical professionals and official safety guidance."
 tags:
   - articles
   - Guru Baba Shyama Khyapa
