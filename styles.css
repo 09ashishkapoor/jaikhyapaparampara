@@ -156,6 +156,7 @@ main {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 1.25rem;
 }
 
 .logo h1 {
@@ -170,16 +171,21 @@ main {
 .nav-menu {
     display: flex;
     list-style: none;
-    gap: 2rem;
+    gap: clamp(0.6rem, 1.2vw, 1.2rem);
     min-height: 1.6rem;
+    align-items: center;
+    justify-content: flex-end;
+    flex: 1;
+    order: 2;
 }
 
 .nav-menu a {
     color: var(--text-light);
     text-decoration: none;
-    font-size: 1.1rem;
+    font-size: clamp(0.95rem, 1vw, 1.05rem);
     font-weight: 600;
     transition: color 0.3s ease;
+    white-space: nowrap;
 }
 
 .nav-menu a:hover {
@@ -246,6 +252,7 @@ main {
     display: flex;
     align-items: center;
     gap: 1.5rem;
+    order: 3;
 }
 
 
@@ -775,33 +782,45 @@ main {
 .nav-controls {
     display: flex;
     align-items: center;
-    gap: 2rem;
-    /* CRITICAL: Prevent CLS from dynamic content */
-    min-width: 200px;
+    gap: 1rem;
     justify-content: flex-end;
+    order: 3;
 }
 
 #audio-toggle {
-    background: none;
-    border: 2px solid transparent;
-    color: var(--accent-color);
-    font-size: 1.5rem;
+    background: rgba(232, 196, 104, 0.08);
+    border: 1px solid rgba(232, 196, 104, 0.45);
+    color: var(--accent-bright);
+    font-size: 0.95rem;
+    font-weight: 700;
     cursor: pointer;
-    transition: all 0.3s ease;
-    /* Reserve space to prevent layout shift */
-    width: 2.5rem;
-    height: 2.5rem;
+    transition: background 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease, color 0.2s ease;
+    min-width: 8rem;
+    min-height: 2.75rem;
+    padding: 0 0.85rem;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 50%;
+    gap: 0.5rem;
+    border-radius: 999px;
     position: relative;
+    white-space: nowrap;
+}
+
+#audio-toggle i {
+    color: var(--accent-color);
+    font-size: 1.05rem;
+    flex: 0 0 auto;
+}
+
+.audio-toggle-label {
+    line-height: 1;
 }
 
 #audio-toggle:hover {
-    transform: scale(1.15);
     border-color: var(--accent-color);
-    background: rgba(232, 196, 104, 0.1);
+    background: rgba(232, 196, 104, 0.14);
+    box-shadow: 0 0 18px rgba(232, 196, 104, 0.18);
 }
 
 #audio-toggle.playing {
@@ -1824,6 +1843,7 @@ main {
 
     .logo {
         flex: 1;
+        min-width: 0;
     }
 
     .logo h1 {
@@ -1834,9 +1854,21 @@ main {
     .nav-controls {
         display: flex;
         align-items: center;
-        gap: 0.75rem;
+        gap: 0.5rem;
         order: 2;
         min-height: 44px;
+    }
+
+    #audio-toggle {
+        min-width: 5.25rem;
+        min-height: 44px;
+        padding: 0 0.65rem;
+        gap: 0.4rem;
+        font-size: 0.88rem;
+    }
+
+    #audio-toggle i {
+        font-size: 0.95rem;
     }
 
     .nav-toggle {
@@ -1863,7 +1895,7 @@ main {
         display: flex;
         align-items: center;
         border-bottom: 1px solid rgba(232, 196, 104, 0.12);
-        white-space: nowrap;
+        white-space: normal;
     }
 
     .nav-menu li:last-child a {
@@ -2055,12 +2087,17 @@ main {
     }
 
     #audio-toggle {
-        font-size: 1.2rem;
-        min-width: 44px;
+        font-size: 0.9rem;
+        min-width: 5rem;
         min-height: 44px;
+        padding: 0 0.7rem;
         display: flex;
         align-items: center;
         justify-content: center;
+    }
+
+    #audio-toggle i {
+        font-size: 1rem;
     }
 
     /* Hero Section Small Mobile */
@@ -2368,7 +2405,8 @@ section {
 #audio-toggle:focus-visible {
     outline: 3px solid var(--accent-color);
     outline-offset: 3px;
-    border-radius: 50%;
+}
+
 /* Optimized FAQ Section - Enhanced for Better Reading */
 .faq-header {
     text-align: center;

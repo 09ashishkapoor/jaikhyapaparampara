@@ -288,9 +288,17 @@ const initAudio = () => {
     if (!audioBtn || !audio) return;
 
     const updateAudioButton = (isPlaying) => {
+        const label = audioBtn.querySelector('.audio-toggle-label');
+        const isCompactHeader = window.matchMedia('(max-width: 768px)').matches;
         audioBtn.classList.toggle('playing', isPlaying);
         audioBtn.setAttribute('data-state', isPlaying ? 'playing' : 'paused');
-        audioBtn.setAttribute('aria-label', isPlaying ? 'Stop Temple Ambience' : 'Play Temple Ambience');
+        audioBtn.setAttribute('aria-label', isPlaying ? 'Pause temple ambience' : 'Play temple ambience');
+        audioBtn.setAttribute('title', isPlaying ? 'Pause temple ambience' : 'Play temple ambience');
+        if (label) {
+            label.textContent = isCompactHeader
+                ? (isPlaying ? 'Pause' : 'Music')
+                : (isPlaying ? 'Pause Music' : 'Play Music');
+        }
     };
 
     const source = audio.currentSrc || audio.getAttribute('src') || audio.querySelector('source')?.getAttribute('src');
@@ -321,6 +329,7 @@ const initAudio = () => {
     audio.addEventListener('play', () => updateAudioButton(true));
     audio.addEventListener('pause', () => updateAudioButton(false));
     audio.addEventListener('ended', () => updateAudioButton(false));
+    window.addEventListener('resize', () => updateAudioButton(!audio.paused), { passive: true });
 };
 
 // --- Parallax Logic (DISABLED - Causes CLS) ---
