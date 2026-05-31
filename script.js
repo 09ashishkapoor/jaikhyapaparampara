@@ -10,36 +10,80 @@ const DOM = {
     }
 };
 
+const HEADER_SCROLL_OFFSET = 80;
+const CONTENT_VISIBILITY_SECTIONS = '.library, .about, .faq';
+
+function getHeaderScrollOffset() {
+    return DOM.header?.offsetHeight || HEADER_SCROLL_OFFSET;
+}
+
+function revealAnchorTarget(target) {
+    const lazySection = target.closest(CONTENT_VISIBILITY_SECTIONS);
+    if (lazySection) {
+        lazySection.style.contentVisibility = 'visible';
+    }
+}
+
+function getAnchorScrollTop(target) {
+    revealAnchorTarget(target);
+    return Math.max(
+        0,
+        target.getBoundingClientRect().top + window.pageYOffset - getHeaderScrollOffset()
+    );
+}
+
+function scrollToAnchorTarget(target, behavior = 'smooth', updateHash = true) {
+    if (!target) return;
+    const targetId = target.id;
+
+    const scroll = (scrollBehavior) => {
+        window.scrollTo({
+            top: getAnchorScrollTop(target),
+            behavior: scrollBehavior
+        });
+    };
+
+    scroll(behavior);
+
+    if (updateHash && targetId) {
+        history.pushState(null, '', `#${targetId}`);
+    }
+
+    // Correct for late layout changes from deferred content and lazy media.
+    [350, 900, 1600].forEach(delay => {
+        setTimeout(() => scroll('auto'), delay);
+    });
+}
+
+function getTargetFromHash(hash) {
+    if (!hash || hash.length <= 1) return null;
+
+    try {
+        return document.getElementById(decodeURIComponent(hash.slice(1)));
+    } catch (error) {
+        return null;
+    }
+}
+
 // Smooth scroll behavior for navigation links with offset for sticky header
-// Optimized to batch DOM reads to prevent forced reflows
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
+        const href = this.getAttribute('href');
+        const targetId = href ? decodeURIComponent(href.slice(1)) : '';
+        const target = targetId ? document.getElementById(targetId) : null;
+
+        if (!target) return;
+
         e.preventDefault();
-        const targetId = this.getAttribute('href').slice(1);
-        const target = document.getElementById(targetId);
-        
-        if (target) {
-            const headerOffset = 80; // Height of sticky header
-            let offsetPosition;
-
-            // Try to use cached position if available to avoid getBoundingClientRect()
-            const cachedSection = sectionDataCache.find(s => s.id === targetId);
-            
-            if (cachedSection && sectionCacheValid) {
-                offsetPosition = cachedSection.top - headerOffset;
-            } else {
-                // Fallback to live measurement if cache is invalid
-                const elementPosition = target.getBoundingClientRect().top;
-                const pageYOffset = window.pageYOffset;
-                offsetPosition = elementPosition + pageYOffset - headerOffset;
-            }
-
-            window.scrollTo({
-                top: offsetPosition,
-                behavior: 'smooth'
-            });
-        }
+        scrollToAnchorTarget(target);
     });
+});
+
+window.addEventListener('hashchange', () => {
+    const target = getTargetFromHash(window.location.hash);
+    if (target) {
+        requestAnimationFrame(() => scrollToAnchorTarget(target, 'auto', false));
+    }
 });
 
 // Consolidated scroll handler to batch DOM reads and writes
@@ -164,6 +208,11 @@ document.addEventListener('DOMContentLoaded', () => {
     
     // 0. Initialize DOM Cache
     DOM.init();
+
+    const hashTarget = getTargetFromHash(window.location.hash);
+    if (hashTarget) {
+        requestAnimationFrame(() => scrollToAnchorTarget(hashTarget, 'auto', false));
+    }
 
     // 1. Defer section cache - not needed until user scrolls
     requestAnimationFrame(() => {
