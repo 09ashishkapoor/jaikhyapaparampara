@@ -166,5 +166,17 @@ module.exports = [
 	{
 		"src": "/images/gallery/Jai_Ma_Adya_Mahakali.webp",
 		"caption": "Jai Ma Adya Mahakali — Devotional Sacred Artwork"
+	},
+	{
+		"src": "/images/gallery/bhadrakali_0600.jpg",
+		"caption": "Ma Bhadrakali - Fierce Protective Mother Form"
+	},
+	{
+		"src": "/images/gallery/kalika_1061.jpg",
+		"caption": "Ma Kalika - Vintage Sacred Print"
+	},
+	{
+		"src": "/images/gallery/kali_1542.jpg",
+		"caption": "Ma Kali - Archival Devotional Print"
 	}
 ];
