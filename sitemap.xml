@@ -3,7 +3,7 @@
   <url>
     <loc>https://jaikhyapaparampara.com/</loc>
     
-    <lastmod>2026-05-10T00:00:00.000Z</lastmod>
+    <lastmod>2026-06-12T00:00:00.000Z</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -294,7 +294,7 @@
   <url>
     <loc>https://jaikhyapaparampara.com/articles/</loc>
     
-    <lastmod>2026-05-10T00:00:00.000Z</lastmod>
+    <lastmod>2026-06-12T00:00:00.000Z</lastmod>
     
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
@@ -304,7 +304,7 @@
   <url>
     <loc>https://jaikhyapaparampara.com/articles/a-z/</loc>
     
-    <lastmod>2026-05-10T00:00:00.000Z</lastmod>
+    <lastmod>2026-06-12T00:00:00.000Z</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -314,7 +314,7 @@
   <url>
     <loc>https://jaikhyapaparampara.com/glossary/</loc>
     
-    <lastmod>2026-05-10T00:00:00.000Z</lastmod>
+    <lastmod>2026-06-12T00:00:00.000Z</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -343,7 +343,7 @@
   <url>
     <loc>https://jaikhyapaparampara.com/articles/topics/sacred-texts-scriptures/</loc>
     
-    <lastmod>2026-05-10T00:00:00.000Z</lastmod>
+    <lastmod>2026-06-12T00:00:00.000Z</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -396,6 +396,13 @@
   
 
   <!-- Blog Articles -->
+  
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/shri-batuka-bhairava-108-names-meaning-namavali/</loc>
+    <lastmod>2026-06-12T00:00:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   
   <url>
     <loc>https://jaikhyapaparampara.com/articles/kalabhairava-1000-names-pronunciation-splits/</loc>
@@ -8823,13 +8830,17 @@
   <url>
     <loc>https://jaikhyapaparampara.com/tags/</loc>
     
-    <lastmod>2026-05-10T00:00:00.000Z</lastmod>
+    <lastmod>2026-06-12T00:00:00.000Z</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <!-- Tag Pages -->
+  
+  
+  
+  
   
   
   
@@ -9516,7 +9527,7 @@
   
   <url>
     <loc>https://jaikhyapaparampara.com/tags/batuka-bhairava/</loc>
-    <lastmod>2026-04-03T00:00:00.000Z</lastmod>
+    <lastmod>2026-06-12T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -9649,7 +9660,7 @@
   
   <url>
     <loc>https://jaikhyapaparampara.com/tags/bhairava/</loc>
-    <lastmod>2026-05-10T00:00:00.000Z</lastmod>
+    <lastmod>2026-06-12T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -14601,7 +14612,7 @@
   
   <url>
     <loc>https://jaikhyapaparampara.com/tags/namavali/</loc>
-    <lastmod>2026-05-10T00:00:00.000Z</lastmod>
+    <lastmod>2026-06-12T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -15789,7 +15800,7 @@
   
   <url>
     <loc>https://jaikhyapaparampara.com/tags/sacred-texts/</loc>
-    <lastmod>2026-05-10T00:00:00.000Z</lastmod>
+    <lastmod>2026-06-12T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -15839,7 +15850,7 @@
   
   <url>
     <loc>https://jaikhyapaparampara.com/tags/sadhana/</loc>
-    <lastmod>2026-03-18T01:06:00.000Z</lastmod>
+    <lastmod>2026-06-12T00:00:00.000Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
