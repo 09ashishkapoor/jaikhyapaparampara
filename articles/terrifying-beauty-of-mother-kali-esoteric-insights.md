@@ -30,6 +30,15 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<div class="author-disclaimer" style="background:rgba(120,36,36,0.2);border:2px solid var(--accent-bright);border-left:6px solid var(--accent-bright);padding:1.5rem 1.75rem;border-radius:8px;margin:0 0 2rem;box-shadow:0 10px 24px rgba(0,0,0,0.22);">
+<h2 style="margin:0 0 1rem;color:var(--accent-bright);font-size:1.35rem;line-height:1.3;">Disclaimer by the Author (KaliPutra Ashish)</h2>
+<p style="margin:0 0 0.9rem;">Ma Kali Puja, Upasana, or Sadhana should not be taken lightly and should always be performed under the guidance of a manasik or physical Guru.</p>
+<p style="margin:0 0 0.9rem;">Ma Kali Upasana is an extremely rapid and transformative experience. Ma Kali may bless the upasaka with the swift destruction of the &ldquo;identified self&rdquo; and the ego; therefore, the guidance of a tantric marg Guru is extremely important. Otherwise, a blessed and transformative experience may appear merely supernatural or destructive and can quickly lead to disillusionment for the upasaka and the people around them.</p>
+<p style="margin:0 0 0.9rem;">GuruBaba ShyamaKhyapa has advised caution regarding Ma Kali Puja, with an important caveat: Ma Kali may be approached through tantric methods or marg and under the supervision of a Guru. Therefore, please do not misinterpret or misunderstand his views in these articles or take them merely at face value.</p>
+<p style="margin:0 0 0.9rem;">It is paramount to approach Ma Kali at home with immense love and bhakti in the beginning. However, to remain steady on the path of Ma Kali, the following are essential: a tantric mentality, complete surrender to Ma Kali, the guidance of a Guru familiar with the tantric marg, and the blessings of Bhairava.</p>
+<p style="margin:0;font-weight:700;color:var(--accent-bright);">Jai Ma Adya Mahakali</p>
+</div>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
