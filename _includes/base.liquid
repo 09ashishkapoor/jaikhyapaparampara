@@ -14,11 +14,7 @@
             {% assign pageTitle = tag | append: ' Article' %}
             {% assign pageDescription = 'Browse the article tagged ' | append: tag | append: ' on Jai Khyapa Parampara.' %}
         {% endif %}
-        {% if articleCount >= 8 %}
-            {% assign pageRobots = 'index, follow' %}
-        {% else %}
-            {% assign pageRobots = 'noindex, follow' %}
-        {% endif %}
+        {% assign pageRobots = 'index, follow' %}
     {% endif %}
     {% unless metaDescription %}
         {% assign pageDescription = pageDescription | truncate: 155 %}

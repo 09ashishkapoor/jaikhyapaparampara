@@ -108,7 +108,7 @@ eleventyExcludeFromCollections: true
   {% for tag in collections.allTags %}
   {% assign posts = collections.all[tag] %}
   {% assign postsSize = posts | size %}
-  {% if postsSize >= 8 %}
+  {% if postsSize > 0 %}
   <url>
     <loc>https://jaikhyapaparampara.com/tags/{{ tag | slugify }}/</loc>
     <lastmod>{{ posts[0].date | isoDate }}</lastmod>

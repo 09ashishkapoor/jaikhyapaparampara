@@ -60,7 +60,6 @@ permalink: /tags/{{ tag | slugify }}/
         <h1 class="blog-title">Topic: {{ tag }}</h1>
         <p class="blog-description">
             Exploring {{ articleCount }} article{% if articleCount != 1 %}s{% endif %} related to "{{ tag }}".
-            {% unless tagMeta.isIndexable %}This archive stays available for readers, but it is not meant to be an indexed landing page.{% endunless %}
         </p>
     </div>
 
