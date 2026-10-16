@@ -1,10 +1,15 @@
 ---
 layout: base
-title: "Spiritual Topic Tags"
-metaTitle: "Spiritual Topic Tags and Article Archives"
 description: "Browse the main spiritual topic tags on Jai Khyapa Parampara, including Kali, Bhairava, sadhana, sacred texts, guru stories, and philosophy."
 metaDescription: "Browse main spiritual topic tags for Kali, Bhairava, sadhana, sacred texts, guru stories, philosophy, and Khyapa Parampara articles."
-permalink: "/tags/index.html"
+pagination:
+  data: collections.tagDirectoryPages
+  size: 1
+  alias: tagDirectoryPage
+permalink: "{{ tagDirectoryPage.url }}index.html"
+eleventyComputed:
+  title: "Spiritual Topic Tags{% if tagDirectoryPage.number > 1 %} - Page {{ tagDirectoryPage.number }}{% endif %}"
+  metaTitle: "Spiritual Topic Tags and Article Archives{% if tagDirectoryPage.number > 1 %} - Page {{ tagDirectoryPage.number }}{% endif %}"
 eleventyExcludeFromCollections: true
 ---
 
@@ -19,6 +24,9 @@ eleventyExcludeFromCollections: true
 .tags-index-name { color: var(--accent-bright); font-family: 'Philosopher', sans-serif; font-size: 1.1rem; line-height: 1.25; }
 .tags-index-count { flex: 0 0 auto; color: var(--accent-color); border: 1px solid rgba(232,196,104,0.35); border-radius: 999px; padding: 0.2rem 0.65rem; font-size: 0.86rem; }
 .tags-index-note { margin-top: 2rem; color: var(--text-dark); opacity: 0.76; text-align: center; }
+.tags-pagination { display: flex; justify-content: center; flex-wrap: wrap; gap: 0.5rem; margin-top: 2rem; }
+.tags-pagination a, .tags-pagination span { min-width: 44px; min-height: 44px; display: inline-flex; align-items: center; justify-content: center; padding: 0.5rem; border: 1px solid var(--border-gold); border-radius: 8px; color: var(--accent-bright); text-decoration: none; }
+.tags-pagination [aria-current] { background: var(--accent-color); color: var(--light-bg); }
 </style>
 
 <section class="tags-index-shell">
@@ -26,24 +34,31 @@ eleventyExcludeFromCollections: true
     <header class="tags-index-header">
       <h1 class="tags-index-title">Spiritual Topic Tags</h1>
       <p class="tags-index-copy">
-        Use these topic archives to explore the larger article library. This page lists substantial tags only, so search engines and readers find stronger topic paths instead of thin archive pages.
+        Browse all {{ tagDirectoryPage.totalTags }} topics alphabetically, including smaller subjects and names. Open a topic to find its related articles.
       </p>
+      <p class="tags-index-note">Page {{ tagDirectoryPage.number }} of {{ tagDirectoryPage.totalPages }}</p>
     </header>
 
     <div class="tags-index-grid">
-      {% for tag in collections.allTags %}
+      {% for tag in tagDirectoryPage.tags %}
       {% assign tagMeta = collections.tagMeta[tag] %}
       {% if tagMeta and tagMeta.isIndexable %}
       <a class="tags-index-card" href="{{ tagMeta.url }}">
         <span class="tags-index-name">{{ tagMeta.canonicalTag }}</span>
-        <span class="tags-index-count">{{ tagMeta.count }} articles</span>
+        <span class="tags-index-count">{{ tagMeta.count }} article{% unless tagMeta.count == 1 %}s{% endunless %}</span>
       </a>
       {% endif %}
       {% endfor %}
     </div>
 
-    <p class="tags-index-note">
-      Smaller tags may still appear on articles for readers, but they are kept out of search indexing to reduce duplicate and low-value archive pages.
-    </p>
+    <nav class="tags-pagination" aria-label="Topic directory pages">
+      {% for directoryPage in collections.tagDirectoryPages %}
+        {% if directoryPage.number == tagDirectoryPage.number %}
+        <span aria-current="page">{{ directoryPage.number }}</span>
+        {% else %}
+        <a href="{{ directoryPage.url }}" aria-label="Topic directory page {{ directoryPage.number }}">{{ directoryPage.number }}</a>
+        {% endif %}
+      {% endfor %}
+    </nav>
   </div>
 </section>

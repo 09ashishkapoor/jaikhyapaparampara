@@ -8826,15 +8826,146 @@
   </url>
   
 
-  <!-- Tags Index -->
+  <!-- Topic directory pages -->
+
   <url>
     <loc>https://jaikhyapaparampara.com/tags/</loc>
-    
-    <lastmod>2026-06-12T00:00:00.000Z</lastmod>
-    
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/2/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/3/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/4/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/5/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/6/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/7/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/8/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/9/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/10/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/11/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/12/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/13/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/14/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/15/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/16/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/17/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/18/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/19/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/20/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/21/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/22/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://jaikhyapaparampara.com/tags/page/23/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
 
   <!-- Tag Pages -->
   

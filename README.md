@@ -218,6 +218,26 @@ To deploy your own fork:
 
 ---
 
+## Crawling and indexing
+
+All non-empty tag archives allow indexing. Their links appear on articles and in the alphabetical topic directory at `/tags/`, which lists 100 topics per page. Every directory page is included in the sitemap. Keep this link policy in sync with the robots metadata; removing `noindex` alone does not restore internal links.
+
+The homepage loads `/article-index.json` for article metadata without downloading full article bodies. Full-text search continues to use `/search-index.json`.
+
+The build emits `/404.html` so Cloudflare Pages returns a real 404 for missing URLs instead of its single-page-app homepage fallback. The internal search page and the 404 page intentionally use `noindex` and are excluded from the sitemap.
+
+After deploying indexing changes, use Search Console's live URL test on representative URLs and request indexing for important pages. Submit `https://jaikhyapaparampara.com/sitemap.xml` if it is not already submitted. An in-progress validation should be allowed to finish. A nonzero noindex count is expected for intentionally excluded pages; neither sitemap submission nor validation guarantees indexing.
+
+Configure permanent hostname redirects in Cloudflare's Redirect Rules or Bulk Redirects, preserving the path and query string:
+
+| Source hostname | Destination hostname | Status |
+| --- | --- | --- |
+| `www.jaikhyapaparampara.com` | `jaikhyapaparampara.com` | 301 |
+| `jaikhepaparampara.com` | `jaikhyapaparampara.com` | 301 |
+| `www.jaikhepaparampara.com` | `jaikhyapaparampara.com` | 301 |
+
+Hostname redirects are configured outside this repository because Cloudflare Pages `_redirects` does not support domain-level redirects. Check Search Console Crawl Stats for host availability failures or crawl errors, and Cloudflare security events for blocked verified Googlebot traffic before changing bot protection.
+
 ## Asset Minification
 
 After editing `styles.css` or `script.js`, regenerate the minified versions:

@@ -2691,7 +2691,7 @@
         function getIndex() {
           if (indexData) return Promise.resolve(indexData);
           if (!fetchPromise) {
-            fetchPromise = fetch("/search-index.json")
+            fetchPromise = fetch("/article-index.json")
               .then(function (r) {
                 return r.json();
               })

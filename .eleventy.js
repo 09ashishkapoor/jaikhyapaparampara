@@ -725,10 +725,11 @@ module.exports = (eleventyConfig) => {
 	function buildTagLookup(articles) {
 		const slugToTags = new Map();
 		const slugToArticles = new Map();
+		const slugifyTag = eleventyConfig.getFilter("slugify");
 
 		for (const item of articles) {
 			for (const tag of getArticleTags(item)) {
-				const slug = slugifyValue(tag);
+				const slug = slugifyTag(tag);
 				if (!slugToTags.has(slug)) {
 					slugToTags.set(slug, new Set());
 					slugToArticles.set(slug, []);
@@ -751,7 +752,7 @@ module.exports = (eleventyConfig) => {
 					slug,
 					canonicalTag,
 					count: tagArticles.length,
-					isIndexable: tagArticles.length >= 8,
+					isIndexable: tagArticles.length > 0,
 					url: `/tags/${slug}/`,
 					articles: tagArticles,
 					tags: [...tags],
@@ -804,6 +805,19 @@ module.exports = (eleventyConfig) => {
 		"allTags",
 		(collectionApi) => buildTagLookup(getArticles(collectionApi)).allTags,
 	);
+
+	eleventyConfig.addCollection("tagDirectoryPages", (collectionApi) => {
+		const tags = buildTagLookup(getArticles(collectionApi)).allTags;
+		const pageSize = 100;
+		const totalPages = Math.ceil(tags.length / pageSize);
+		return Array.from({ length: totalPages }, (_, index) => ({
+			number: index + 1,
+			url: index === 0 ? "/tags/" : `/tags/page/${index + 1}/`,
+			tags: tags.slice(index * pageSize, (index + 1) * pageSize),
+			totalTags: tags.length,
+			totalPages,
+		}));
+	});
 
 	eleventyConfig.addCollection(
 		"all",
