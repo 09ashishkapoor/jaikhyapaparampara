@@ -21,23 +21,23 @@ module.exports = {
 			eleventyExcludeFromCollections: true,
 		};
 	},
-	render(data) {
+	render(data, includeContent = true) {
 		const articles = (data.collections.articles || []).map((a) => {
 			const description = shortText(
 				a.data.metaDescription || a.data.description || "",
 				180,
 			);
-			const content = cleanText(a.templateContent || "");
-
-			return {
+			const entry = {
 				title: a.data.title || "",
 				url: a.url,
+				date: a.date,
 				description,
 				category: a.data.category || "",
 				tags: (a.data.tags || []).filter((t) => t !== "articles"),
 				readingTime: a.data.readingTime || 0,
-				content,
 			};
+			if (includeContent) entry.content = cleanText(a.templateContent || "");
+			return entry;
 		});
 		return JSON.stringify(articles);
 	},

@@ -92,17 +92,14 @@ eleventyExcludeFromCollections: true
   </url>
   {% endfor %}
 
-  <!-- Tags Index -->
+  <!-- Topic directory pages -->
+{% for directoryPage in collections.tagDirectoryPages %}
   <url>
-    <loc>https://jaikhyapaparampara.com/tags/</loc>
-    {% if collections.articles and collections.articles[0] and collections.articles[0].date %}
-    <lastmod>{{ collections.articles[0].date | isoDate }}</lastmod>
-    {% else %}
-    <lastmod>2025-12-27T00:00:00Z</lastmod>
-    {% endif %}
+    <loc>https://jaikhyapaparampara.com{{ directoryPage.url }}</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
+{% endfor %}
 
   <!-- Tag Pages -->
   {% for tag in collections.allTags %}
