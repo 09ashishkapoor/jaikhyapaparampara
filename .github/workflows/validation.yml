@@ -65,6 +65,9 @@ jobs:
       - name: Build site for link checking
         run: npm run build
 
+      - name: Check every generated article
+        run: npm run check:archive
+
       - name: Check README and key entry pages
         uses: lycheeverse/lychee-action@v2
         with:

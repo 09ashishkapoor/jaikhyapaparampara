@@ -35,3 +35,10 @@
 /tags/dream-initiation/ /tags/dream-vision/ 301
 /tags/self-reflection/ /articles/ 301
 /tags/khanjanmas-jivans/ /tags/khanjanmas/ 301
+
+# Preserve tag URLs changed by the Eleventy 3 slugify upgrade
+/tags/god-s-absence/ /tags/gods-absence/ 301
+/tags/god-s-justice/ /tags/gods-justice/ 301
+/tags/god-s-play/ /tags/gods-play/ 301
+/tags/mother-s-visit/ /tags/mothers-visit/ 301
+/tags/nature-s-revenge/ /tags/natures-revenge/ 301

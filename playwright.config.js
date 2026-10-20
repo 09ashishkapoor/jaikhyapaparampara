@@ -20,7 +20,7 @@ module.exports = defineConfig({
     baseURL,
     trace: 'retain-on-failure',
     screenshot: 'only-on-failure',
-    video: 'retain-on-failure',
+    video: process.env.PLAYWRIGHT_USE_SYSTEM_CHROME ? 'off' : 'retain-on-failure',
     viewport: desktopViewport
   },
   webServer: {
@@ -34,6 +34,7 @@ module.exports = defineConfig({
       name: 'chromium',
       use: {
         ...devices['Desktop Chrome'],
+        ...(process.env.PLAYWRIGHT_USE_SYSTEM_CHROME ? { channel: 'chrome' } : {}),
         viewport: desktopViewport
       }
     }
