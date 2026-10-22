@@ -1,6 +1,23 @@
 const { test, expect } = require('@playwright/test');
 const { blockExternalNoise, stabilizePage } = require('../helpers/site');
 
+test('homepage defers audio until the listener presses Play', async ({ page }) => {
+  await blockExternalNoise(page);
+  const audioRequests = [];
+  page.on('request', (request) => {
+    if (request.url().endsWith('/1111.mp3')) audioRequests.push(request);
+  });
+
+  await page.goto('/', { waitUntil: 'load' });
+  await expect(page.locator('#audio-toggle')).toHaveAttribute('data-state', 'paused');
+  await page.waitForTimeout(500);
+  expect(audioRequests).toHaveLength(0);
+  await expect(page.locator('link[rel="preload"][as="image"]')).toHaveCount(0);
+
+  await page.locator('#audio-toggle').click();
+  await expect.poll(() => audioRequests.length).toBeGreaterThan(0);
+});
+
 test('homepage shell stays within the repo performance budget', async ({ page }) => {
   await blockExternalNoise(page);
 

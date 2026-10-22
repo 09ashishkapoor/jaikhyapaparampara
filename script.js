@@ -310,7 +310,6 @@ const initAudio = () => {
 
     // Set initial volume low
     audio.volume = 0.4;
-    audio.load();
     updateAudioButton(false);
 
     audioBtn.addEventListener('click', async () => {
