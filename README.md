@@ -95,7 +95,7 @@ This repo now ships with a lightweight Playwright-based validation baseline for 
 
 All validations run automatically before every `git push` (including VS Code sync). If any test fails, the push is blocked until fixed — no manual steps needed.
 
-> **Note:** The performance budget test is excluded from the pre-push hook — LCP timing varies by machine and runs reliably on GitHub CI only. All other tests (smoke, accessibility, visual snapshots) run locally.
+> **Note:** The performance budget test is excluded from the pre-push hook because local machine load affects LCP timing. It runs in GitHub Actions on Linux; run it locally with `npm run validate -- --grep 'performance budget'` when checking performance.
 
 To bypass in an emergency:
 ```bash
@@ -105,8 +105,8 @@ git push --no-verify
 ### Local usage
 
 ```bash
-# Install browser dependencies once after npm install
-npx playwright install chromium
+# Install Chromium and its Linux system dependencies once after npm install
+npx playwright install --with-deps chromium
 
 # Run the full validation suite manually
 npm run validate

@@ -170,6 +170,11 @@
           0 4px 24px rgba(139, 38, 53, 0.35),
           0 0 40px rgba(232, 196, 104, 0.08);
       }
+      .gallery-item-featured:focus-visible,
+      .gallery-item:focus-visible {
+        outline: 3px solid var(--accent-color);
+        outline-offset: 3px;
+      }
       .gallery-item-featured:hover {
         transform: translateY(-4px);
         box-shadow:
@@ -1188,9 +1193,21 @@
         }
       ];
 
-      let currentIndex = 0;
+      document.querySelectorAll(".gallery-item, .gallery-item-featured").forEach((tile) => {
+        tile.tabIndex = 0;
+        tile.setAttribute("role", "button");
+        tile.addEventListener("keydown", (e) => {
+          if (e.key === "Enter" || e.key === " ") {
+            e.preventDefault();
+            tile.click();
+          }
+        });
+      });
 
-      function openLightbox(index) {
+      let currentIndex = 0;
+      let lastTrigger = null;
+
+      function showLightbox(index) {
         currentIndex = index;
         const lb = document.getElementById("lightbox");
         document.getElementById("lightbox-img").src = images[index].src;
@@ -1199,34 +1216,34 @@
           images[index].caption;
         lb.classList.add("active");
         document.body.style.overflow = "hidden";
-        // Push history state so back button closes lightbox instead of leaving page
-        history.pushState({ lightbox: true }, "", "#lightbox");
+        document.getElementById("lightbox-close").focus();
       }
 
-      function closeLightbox() {
+      function openLightbox(index) {
+        lastTrigger = document.activeElement;
+        showLightbox(index);
+        history.pushState({ lightbox: true, index }, "", "#lightbox");
+      }
+
+      function hideLightbox() {
         document.getElementById("lightbox").classList.remove("active");
         document.getElementById("lightbox-img").src = "";
         document.body.style.overflow = "";
-        // Go back in history if we're still on #lightbox
-        if (window.location.hash === "#lightbox") {
-          history.back();
-        }
+        lastTrigger?.focus();
+      }
+
+      function closeLightbox() {
+        hideLightbox();
+        if (history.state?.lightbox) history.back();
       }
 
       function closeLightboxOnBackdrop(e) {
         if (e.target === document.getElementById("lightbox")) closeLightbox();
       }
 
-      // Handle browser back button - close lightbox instead of navigating away
       window.addEventListener("popstate", function (e) {
-        if (e.state && e.state.lightbox) {
-          // User went back, but we want to stay on gallery - reopen lightbox
-          openLightbox(currentIndex);
-        } else {
-          // No lightbox state, so close it if open
-          document.getElementById("lightbox").classList.remove("active");
-          document.body.style.overflow = "";
-        }
+        if (e.state?.lightbox) showLightbox(e.state.index);
+        else hideLightbox();
       });
 
       function shiftLightbox(dir) {

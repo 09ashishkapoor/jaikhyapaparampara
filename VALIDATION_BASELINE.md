@@ -14,7 +14,7 @@ This repo now uses a small validation baseline designed for static or frontend-h
   - search landing panel,
   - gallery featured row.
 - **Performance budget:** a Playwright budget test for the homepage shell using navigation timings, LCP, resource count, and transfer size.
-- **CI baseline:** GitHub Actions runs the Playwright suite on **Windows + Chromium** so the committed visual baselines match the platform used to capture them locally.
+- **CI baseline:** GitHub Actions runs the Playwright suite on **Ubuntu + Chromium**, matching the Linux visual snapshots and local maintenance environment.
 - **Link checking in CI:** `lycheeverse/lychee-action` checks `README.md` plus built key entry pages after the site is generated.
 
 ## Files to copy when reusing this pattern
@@ -35,12 +35,20 @@ For a similar repo, start by copying and then adapting these files:
 3. **Scope accessibility to one stable critical flow first.** Expand only after that path is reliable.
 4. **Choose visual targets that do not churn.** Prefer stable panels/sections over full pages.
 5. **Measure before choosing budgets.** Start with current timings, then set thresholds with some headroom.
-6. **Match CI to the snapshot platform.** If baselines are captured on Windows, keep CI on Windows until you intentionally rebaseline elsewhere.
+6. **Match CI to the snapshot platform.** This repo captures and checks its Linux snapshots on Ubuntu + Chromium.
 
 ## Local commands
+- Install Chromium and Linux system dependencies once:
+  ```bash
+  npx playwright install --with-deps chromium
+  ```
 - Run the full browser validation baseline:
   ```bash
   npm run validate
+  ```
+- Run only the homepage performance budget:
+  ```bash
+  npm run validate -- --grep 'performance budget'
   ```
 - Refresh visual baselines intentionally:
   ```bash

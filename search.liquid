@@ -250,8 +250,15 @@ mark {
         if (articles) return Promise.resolve(articles);
         if (!fetchPromise) {
             fetchPromise = fetch('/search-index.json')
-                .then(function(r) { return r.json(); })
-                .then(function(d) { articles = d; return d; });
+                .then(function(r) {
+                    if (!r.ok) throw new Error('Search index request failed');
+                    return r.json();
+                })
+                .then(function(d) { articles = d; return d; })
+                .catch(function(error) {
+                    fetchPromise = null;
+                    throw error;
+                });
         }
         return fetchPromise;
     }
@@ -305,11 +312,12 @@ mark {
             clearBtn.style.display = 'none';
             return;
         }
-        clearBtn.style.display = '';
+        clearBtn.style.display = 'block';
         status.textContent = 'Searching…';
         placeholder.style.display = 'none';
 
         getIndex().then(function(data) {
+            if (input.value.trim() !== q) return;
             var terms = q.toLowerCase().split(/\s+/).filter(Boolean);
             var results = data.filter(function(a) {
                 var haystack = [
@@ -360,6 +368,7 @@ mark {
             resultsList.style.display = '';
             status.textContent = results.length + ' result' + (results.length !== 1 ? 's' : '') + (results.length > 60 ? ' (showing first 60)' : '');
         }).catch(function() {
+            if (input.value.trim() !== q) return;
             status.textContent = 'Could not load search index. Please try again.';
         });
     }
@@ -380,7 +389,7 @@ mark {
     var preQ = params.get('q');
     if (preQ) {
         input.value = preQ;
-        getIndex().then(function() { search(preQ); });
+        search(preQ);
     }
 
     // Load the lightweight index only after the visitor searches.

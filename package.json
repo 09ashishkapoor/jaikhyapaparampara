@@ -6,7 +6,7 @@
     "prepare": "husky",
     "clean": "node -e \"require('fs').rmSync('_site', { recursive: true, force: true, maxRetries: 10, retryDelay: 200 })\"",
     "sync-readme-count": "node scripts/update_readme_article_count.js || python scripts/update_readme_article_count.py || python3 scripts/update_readme_article_count.py",
-    "build": "npm run clean && npm run sync-readme-count && node scripts/update_build.js && eleventy",
+    "build": "npm run clean && npm run sync-readme-count && eleventy && node scripts/update_build.js _site/index.html",
     "build:test": "npm run clean && eleventy",
     "serve": "npm run clean && npm run sync-readme-count && eleventy --serve",
     "start": "npm run clean && npm run sync-readme-count && eleventy --serve",
