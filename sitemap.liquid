@@ -56,6 +56,20 @@ eleventyExcludeFromCollections: true
     <priority>0.7</priority>
   </url>
 
+  <!-- Paginated article archives -->
+  {% for article in collections.articles %}
+  {% assign pageOffset = forloop.index0 | modulo: 50 %}
+  {% if pageOffset == 0 and forloop.index0 > 0 %}
+  {% assign pageNumber = forloop.index0 | divided_by: 50 | plus: 1 %}
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/{{ pageNumber }}/</loc>
+  </url>
+  <url>
+    <loc>https://jaikhyapaparampara.com/articles/a-z/{{ pageNumber }}/</loc>
+  </url>
+  {% endif %}
+  {% endfor %}
+
   <!-- Core Entities Glossary -->
   <url>
     <loc>https://jaikhyapaparampara.com/glossary/</loc>

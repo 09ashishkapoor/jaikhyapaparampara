@@ -40,6 +40,23 @@ test("every sitemap tag has a crawlable link from the paginated directory", asyn
 	expect(linkedTags.sort()).toEqual(tagUrls.sort());
 });
 
+test("sitemap includes every self-canonical article archive page", async ({ request }) => {
+	const articles = await (await request.get("/article-index.json")).json();
+	const sitemap = await (await request.get("/sitemap.xml")).text();
+	for (let page = 1; page <= Math.ceil(articles.length / 50); page++) {
+		for (const archive of ["/articles/", "/articles/a-z/"]) {
+			const pathname = `${archive}${page === 1 ? "" : `${page}/`}`;
+			const url = origin + pathname;
+			expect(sitemap).toContain(`<loc>${url}</loc>`);
+			if (page === 1 || page === Math.ceil(articles.length / 50)) {
+				const response = await request.get(pathname);
+				expect(response.status()).toBe(200);
+				expect(await response.text()).toContain(`<link rel="canonical" href="${url}">`);
+			}
+		}
+	}
+});
+
 test("small tag archives and archive pagination allow indexing", async ({ request }) => {
 	for (const pathname of ["/tags/vedanta/", "/tags/shanti-kunja-ashram/", "/articles/2/", "/articles/a-z/5/"]) {
 		const response = await request.get(pathname);
