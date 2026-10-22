@@ -38,18 +38,20 @@
     <meta name="revisit-after" content="7 days" />
     <meta name="distribution" content="global" />
 
-    <!-- Google tag (gtag.js) - G-KCVSN3F2DL (async for better performance) -->
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-KCVSN3F2DL"
-    ></script>
+    <!-- Delay analytics until the page loads so it does not compete with mobile rendering. -->
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-      gtag("config", "G-KCVSN3F2DL");
+      window.addEventListener("load", () => {
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+        gtag("config", "G-KCVSN3F2DL");
+        const script = document.createElement("script");
+        script.async = true;
+        script.src = "https://www.googletagmanager.com/gtag/js?id=G-KCVSN3F2DL";
+        document.head.appendChild(script);
+      });
     </script>
 
     <!-- Open Graph / Facebook -->

@@ -18,6 +18,28 @@ test('homepage defers audio until the listener presses Play', async ({ page }) =
   await expect.poll(() => audioRequests.length).toBeGreaterThan(0);
 });
 
+for (const url of ['/', '/gallery/', '/articles/batuka-bhairava-brahma-kavacham-sanskrit-english/']) {
+  test(`analytics loads after page load on ${url}`, async ({ page }) => {
+    await blockExternalNoise(page);
+    await page.addInitScript(() => {
+      window.__analyticsState = null;
+      new MutationObserver((records) => {
+        for (const record of records) {
+          for (const node of record.addedNodes) {
+            if (node.nodeName === 'SCRIPT' && node.src?.includes('/gtag/js')) {
+              window.__analyticsState = document.readyState;
+            }
+          }
+        }
+      }).observe(document, { childList: true, subtree: true });
+    });
+    await page.goto(url, { waitUntil: 'load' });
+    await expect.poll(() => page.evaluate(() => window.__analyticsState)).toBe('complete');
+    await expect(page.locator('script[src*="/gtag/js"]')).toHaveCount(1);
+    expect(await page.evaluate(() => window.dataLayer.length)).toBe(2);
+  });
+}
+
 test('homepage shell stays within the repo performance budget', async ({ page }) => {
   await blockExternalNoise(page);
 

@@ -45,18 +45,20 @@
     <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
-    <!-- Google Analytics -->
-    <script
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-KCVSN3F2DL"
-    ></script>
+    <!-- Delay analytics until the page loads so it does not compete with mobile rendering. -->
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-      gtag("config", "G-KCVSN3F2DL");
+      window.addEventListener("load", () => {
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+        gtag("config", "G-KCVSN3F2DL");
+        const script = document.createElement("script");
+        script.async = true;
+        script.src = "https://www.googletagmanager.com/gtag/js?id=G-KCVSN3F2DL";
+        document.head.appendChild(script);
+      });
     </script>
 
     <!-- Gallery structured data -->
