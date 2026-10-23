@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "The Secrets of Agam and Nigam Tantra: The Legacy of Krishnananda Agambagish"
+title: "Krishnananda Agambagish: Agam and Nigam Tantra"
 breadcrumbTitle: "Agam and Nigam Tantra Secrets"
-description: "Guru Shyama Khyapa explains the essence of Agam and Nigam Tantra, the history of Krishnananda Agambagish, and how true Tantra is practiced for the welfare of humanity."
+description: "Guru Shyama Khyapa discusses Krishnananda Agambagish, Agam and Nigam Tantra, and his view that Tantric practice should serve others."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Agam Tantra, Nigam Tantra, Krishnananda Agambagish, Tantra Practice, Spiritual Liberation"
 category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
@@ -21,6 +21,12 @@ source: |
   <p><a href="https://www.youtube.com/watch?v=FtyqK-5-Vxk" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
+
+## Krishnananda Agambagish in Guru Shyama Khyapa's account
+
+In this translated conversation, Guru Shyama Khyapa discusses Krishnananda Agambagish while explaining Agam and Nigam Tantra. He also describes what Tantric practice means to him and why he believes it should help others. The translated conversation follows unchanged; historical claims here are presented as the Guru's account.
+
+For a related account of Krishnananda and the image of Kali, read [Shyama Khyapa on Krishnananda and Ramprasad](/articles/dashamahabidya-kali-part-2-krishnananda-agamavagisha-ramprasad/).
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 

@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "The Mystery of Bhadrakali: The Netherworld Goddess and Mahasaraswati"
+title: "Who Is Bhadrakali? Shyama Khyapa on Mahasaraswati"
 breadcrumbTitle: "Bhadrakali: The Netherworld Goddess"
-description: "Guru Shyama Khyapa unveils the profound spiritual identity of Mother Bhadrakali, explaining her connection to Mahasaraswati and her ancient worship in the netherworld by Mahiravana and the Manus."
+description: "In this translated conversation, Guru Shyama Khyapa discusses Bhadrakali as Mahasaraswati, her worship in Patala, and the story of Mahiravana."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bhadrakali, Mahasaraswati, Patala, Mahiravana, Tantra, Hindu Mythology, Spiritual Enlightenment"
 category: "Spiritual Teachings"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
@@ -22,6 +22,12 @@ source: |
   <p><a href="https://www.youtube.com/watch?v=QRPM52oC7Oc" target="_blank" rel="noopener" style="color:var(--accent-bright);">📺 Watch Original Bengali Video</a></p>
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
+
+## Bhadrakali in Guru Shyama Khyapa's teaching
+
+In this Bengali-to-English conversation, Guru Shyama Khyapa identifies Bhadrakali with Mahasaraswati. He discusses her worship in Patala (the netherworld), tells the story of Mahiravana and Hanuman, and distinguishes household Saraswati worship from Tantric worship. The translated conversation follows unchanged.
+
+For another discussion of Mahasaraswati and Bhadrakali, read [Guru Shyama Khyapa on Saraswati's two forms](/articles/saraswati-tantra-dual-forms-shyama-khyapa/).
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 

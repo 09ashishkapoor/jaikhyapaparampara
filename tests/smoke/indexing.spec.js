@@ -57,6 +57,28 @@ test("sitemap includes every self-canonical article archive page", async ({ requ
 	}
 });
 
+test("gallery has one primary heading and lightbox images have descriptive alt text", async ({ page }) => {
+	await page.goto("/gallery/");
+	await expect(page.locator("h1")).toHaveCount(1);
+	await expect(page.locator("h1")).toHaveText("Sacred Art Gallery");
+	await page.locator(".gallery-item-featured").first().click();
+	await expect(page.locator("#lightbox-img")).toHaveAttribute("alt", /Jai Ma Adya Mahakali/);
+});
+
+test("paginated article archives have distinct descriptions", async ({ request }) => {
+	for (const archive of ["/articles/", "/articles/a-z/"]) {
+		const descriptions = [];
+		for (const page of [1, 2, 3]) {
+			const pathname = `${archive}${page === 1 ? "" : `${page}/`}`;
+			const html = await (await request.get(pathname)).text();
+			const description = html.match(/<meta name="description" content="([^"]+)"/);
+			expect(description, pathname).not.toBeNull();
+			descriptions.push(description[1]);
+		}
+		expect(new Set(descriptions).size).toBe(descriptions.length);
+	}
+});
+
 test("small tag archives and archive pagination allow indexing", async ({ request }) => {
 	for (const pathname of ["/tags/vedanta/", "/tags/shanti-kunja-ashram/", "/articles/2/", "/articles/a-z/5/"]) {
 		const response = await request.get(pathname);

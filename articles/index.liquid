@@ -8,6 +8,7 @@ pagination:
 permalink: "/articles/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber | plus: 1 }}/{% endif %}index.html"
 eleventyComputed:
   title: "{% if pagination.pageNumber > 0 %}Latest Articles - Page {{ pagination.pageNumber | plus: 1 }}{% else %}Latest Articles, Topics & Archive{% endif %}"
+  metaDescription: "{% if pagination.pageNumber > 0 %}Browse page {{ pagination.pageNumber | plus: 1 }} of the latest Jai Khyapa Parampara articles, ordered newest first. Explore spiritual teachings or switch to the A-Z archive.{% else %}Browse Jai Khyapa Parampara articles by newest first, switch to an A-Z archive, and explore spiritual teachings through clear topic paths.{% endif %}"
   robotsMeta: "index, follow"
 ---
 
