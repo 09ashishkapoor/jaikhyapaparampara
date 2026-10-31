@@ -97,10 +97,10 @@ eleventyExcludeFromCollections: true
   {% endfor %}
 
   <!-- Blog Articles -->
-  {% for article in collections.articles %}
+  {% for article in collections.articles %}{% assign articleLastmod = gitLastmod[article.inputPath] %}
   <url>
     <loc>https://jaikhyapaparampara.com{{ article.url | replace: 'index.html', '' }}</loc>
-    <lastmod>{{ article.date | isoDate }}</lastmod>
+    <lastmod>{{ articleLastmod | default: article.date | isoDate }}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -120,9 +120,9 @@ eleventyExcludeFromCollections: true
   {% assign posts = collections.all[tag] %}
   {% assign postsSize = posts | size %}
   {% if postsSize > 0 %}
-  <url>
+  {% assign tagLastmod = gitLastmod[posts[0].inputPath] %}<url>
     <loc>https://jaikhyapaparampara.com/tags/{{ tag | slugify }}/</loc>
-    <lastmod>{{ posts[0].date | isoDate }}</lastmod>
+    <lastmod>{{ tagLastmod | default: posts[0].date | isoDate }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
