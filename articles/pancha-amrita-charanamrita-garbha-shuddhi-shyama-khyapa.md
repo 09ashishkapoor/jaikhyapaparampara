@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa distinguishes Charanamrita, the water used to bathe deities and then given to devotees, from Pancha Amrita, a Vedic preparation of five nectars: cow urine, milk, yogurt, ghee, and Kusha water. He explains each element's nutritional and ritual value and says Pancha Amrita is used in Garbha Shuddhi, when girls at puberty consume it with the Gayatri Mantra to purify the womb for healthy, brilliant offspring. He also says purification is required for offerings such as talismans, rings, and Rudraksha beads.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

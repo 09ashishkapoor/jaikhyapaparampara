@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains Maha Saptami rituals, including how the Kola Bou is taken from the Bel tree, bathed, dressed, and placed beside Ganesha as Nava Patrika, the nine plants representing forms of Durga. He describes the Ghot Sthapan, bathing the goddess's reflection with water from thirteen rivers and eight types of earth, and the Pran Pratishtha and Chokkhu Daan, with the eye-drawing done behind a screen using ghee and a gold needle. He also discusses Kaal Ratri, Ma Shitala, offerings to ghosts and spirits, and the Arghya.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

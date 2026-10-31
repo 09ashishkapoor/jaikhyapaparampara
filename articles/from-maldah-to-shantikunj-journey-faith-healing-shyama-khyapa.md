@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Tapash Chowdhury, bedridden for twelve years following a bathroom fall, describes traveling from Malda to Shantikunj after finding Guru Shyama Khyapa on YouTube, going by train to Sealdah and then by bike taxi, helped by two brothers. He says doctors at AMRI, Apollo, and CMC Vellore told him medical science could not treat his condition and that he should seek divine help. Gurudev says everything happens by the Mother's grace, that faith, devotion, and surrender are needed, and that many recovered, including a doctor with lung cancer after a Yagna.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
 <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">COMPANION:</span>

@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Abhijit Sarkar, visiting from Bremen, Germany, describes finding Guru Shyama Khyapa on YouTube about a year and a half before meeting him in person and recalls praying to Mother on an earlier trip when the guru was ill. Guru Shyama Khyapa tells him that God is advanced science, while Abhijit says the guru's explanations of the 33 crore deities and of yoga as the subtraction of disease have helped him understand Hindu scriptures better; they also discuss Western interest in yoga, English subtitles, and a forthcoming English book.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
