@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Piyas Chakraborty recounts finding Guru Shyama Khyapa through YouTube recommendations while living in Australia and being struck by the guru's lack of greed. The Dhaka-born devotee, whose family has a 160-year Kali and Durga Puja tradition, describes receiving Mother's blessings, joining the Yajna on his first day, and feeling purified by the Vedic chanting. Guru Shyama Khyapa says Piyas has followed him for a long time and explains that Yajna performed to Vedic standards can clear negative energy from a home.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
