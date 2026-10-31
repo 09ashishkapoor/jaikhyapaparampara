@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa greets followers on Guru Purnima and announces that after ten days in a nursing home for a lung infection, he has returned home still using oxygen. He describes his COPD diagnosis and says doctors have forbidden contact with crowds, so this year's celebration at the Rajpur Mahashashan Shantikunj will be simple. Devotees may still visit the temple to pray before his Paduka and take Bhog, but the speaker asks that no one come to his residence, since a new infection could endanger him.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

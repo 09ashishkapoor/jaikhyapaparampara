@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells an interviewer that Pagla Baba has crossed Nalbari and waits near the Kamakhya Gate, advised to enter the temple on Shukla Ekadashi after rituals including the 'snake of seven lifetimes,' a holy bath and Ganesh Puja. He describes his own poor health, saying treatment of a cancer patient doctors had given up on has taken a heavy toll and he came out only with his doctor's permission. The interviewer asks devotees to stay away fifteen days so he can rest.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

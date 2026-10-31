@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa updates a devotee on Pagla Baba's pilgrimage, placing him in Monigram in Murshidabad district and saying he will enter Malda next on his way toward Kamakhya. He reports that 150 to 200 people gathered there, that devotees have promised to escort Pagla Baba to Siliguri and arrange his lodging, and that Pagla Baba said he has found a new life through their love. Pagla Baba himself asks listeners to support the Monigram Hindu Milan Mandir, an initiative of the Bharat Sevashram Sangha.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
