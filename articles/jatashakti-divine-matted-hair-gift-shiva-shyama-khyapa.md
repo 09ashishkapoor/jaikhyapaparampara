@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Tapan Kumar Sarada, a disciple from Kerala, asks Guru Shyama Khyapa whether the Jata that formed on his head within three months is a divine gift or something that can be created. Guru Shyama Khyapa replies that Jata is absolutely a gift from God, granted only by the grace of Lord Mahadev or Goddess Durga, and cannot be made; he advises against cutting it and recommends Ganga-jal for pain and Reetha for washing. The exchange matters because it frames Jata as spiritual wealth rather than a human achievement.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

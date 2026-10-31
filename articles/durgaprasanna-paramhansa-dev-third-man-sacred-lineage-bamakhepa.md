@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts the life of Durgaprasanna Paramhansa Dev, third in the lineage of Bamakhepa and Nigamananda, from his birth in Rajapur, Barisal, through his marriage to Bimala Devi and the deaths of his wife and daughter after a cholera-stopping yagna. The guru describes Durgaprasanna's vision of Goddess Durga, his combined Tantric and Vedic rituals, his turn to full brahmacharya, and his commitment to girls' education and the deity Radhamadhav. It matters as a portrait of a householder-yogi whose legacy of devotion and service continued after his death.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

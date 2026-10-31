@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Subhadidi, a Reiki specialist and disciple of Guru Shyama Khyapa, describes how his initiation awakened the Ida, Pingala, and Sushumna nadis within her and explains her work with Reiki, Angels, Crystals, and distance healing through the Third Eye. Guru Shyama Khyapa says he opened specific energy centers for her because her work is to help others, and he insists that love, respect, and devotion rank above money. The conversation matters as a firsthand account of initiation and energy medicine within the guru-disciple relationship.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

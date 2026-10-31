@@ -30,6 +30,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">A devotee asks Guru Shyama Khyapa whether the world is moving toward a Dark Age, and the guru replies that humanity has sown the seeds of its own destruction. Guru Shyama Khyapa describes the passage from Pralaya to Maha Pralaya, citing prophecies, Disease X, rising seas, melting ice, and a possible asteroid, and he urges people to stay away from the mountains and the sea. The conversation matters as a warning that the present age is moving from peace into darkness.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
