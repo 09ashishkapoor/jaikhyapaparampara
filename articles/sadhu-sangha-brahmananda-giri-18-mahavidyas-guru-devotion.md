@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Brahmananda Giri Maharaj, formerly Bhupesh Bhattacharya and later Dhananjoy Chakraborty before sannyasa, visits Guru Shyama Khyapa and recalls his guru Satyananda Giri Maharaj, who left his body in 1991 and was an adept of eighteen Mahavidyas. Maharaj speaks on guru devotion, saying the root of liberation is the Guru's grace, and on ego, noting that parents are the supreme gurus yet many now live in old-age homes. Asked where the good person is, he answers that when a true seeker arrives, soul meets soul.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

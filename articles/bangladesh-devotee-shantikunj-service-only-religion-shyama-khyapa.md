@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">A devotee from Bangladesh named Suman, a freelance web designer who moved back from London for family reasons, visits Guru Shyama Khyapa at Shantikunj in the Raajpul Cemetery. Suman describes his pilgrimages to Tarapith, Maa Vaishno Devi and the Chhota Char Dham, and asks only for blessings to serve others. Guru Shyama Khyapa teaches that service (seba) is the only religion, that he accepts no money for it, and that he sees only the human being, not caste or religion.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
