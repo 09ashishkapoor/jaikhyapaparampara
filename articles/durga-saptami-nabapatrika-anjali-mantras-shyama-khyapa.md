@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa walks through the Maha Saptami rituals: the Nabapatrika’s bath and clothing, offerings to the Sun and other deities, the start of Chandi Path, and the midnight Ardharatri Vihita Puja. He corrects the common mistake that the Kola Bou is Ganesha’s wife, explaining that she represents the nine forms of the Goddess. For those unable to visit a pandal, he recites Anjali mantras and stresses that the prayer is for universal well-being, not personal gain.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -33,6 +33,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">After a host asks why a cloudburst at Amarnath killed pilgrims, Guru Shyama Khyapa attributes the disaster to Kali Yuga and says any sacred land where people die loses its status as Devbhoomi, citing Kedarnath and Puri as already affected. He warns that mountains and seas are a death trap for the next six years and that no deity will intervene. He also claims that Jagannath is leaving Puri for Dhenkanal, a move he says a monk recently confirmed.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers follow-up questions from a live session by naming the seven Satis—Gouri, Gandhari, Shobari, Kirati, Matangi, Krishna (Draupadi), and Yashoda—and describing Mother Kamakhya’s form as composed of them. He explains that separate fire rituals for each Sati are permissible and that Kamakhya worship alone is sufficient. He then identifies the four Batuk guardians, including Ganesh and Brahma, and says their worship completes any puja.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
