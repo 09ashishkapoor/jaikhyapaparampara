@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa responds to the COVID-19 pandemic declaration by linking it to corruption and what he calls a 'jar of sins' that is now full. He describes the pandemic as a multi-crore business in which hospitals demanded exorbitant sums, and says a great plague had been foretold before the outbreak was officially declared. He predicts the crisis will limit itself by the end of June, around the 21st or 22nd.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa passes on Bamdeb Baba's guidance on prayer beads, listing the materials householders may use and the vastly different merit attached to each, with Rudraksha said to yield infinite merit. He stresses that malas must be kept hidden and purified, that a guru's mantra must remain secret, and that children under eleven need only have Durga's name chanted while their head is touched. He adds that beads worn casually for show serve no spiritual purpose.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

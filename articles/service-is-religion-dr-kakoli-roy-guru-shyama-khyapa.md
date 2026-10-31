@@ -19,6 +19,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Dr. Kakoli Roy, a child specialist who moved from AIIMS Delhi to Nil Ratan Sircar Medical College, describes how Guru Shyama Khyapa's blessing healed her father's unhealed finger wound within days after a month of unsuccessful treatment and a planned second surgery. Guru Shyama Khyapa calls her like a daughter and says his wish is for doctors to serve people selflessly, calling such service the highest form of worship and refusing to charge for the help he gives.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
