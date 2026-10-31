@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">A scholar explains to an interviewer why Bengalis call Durga's autumn worship 'Akal Bodhon,' tracing it to the solar cycles of Dakshinayan and Uttarayon and to Ram's need to wake the Goddess during her resting period. The conversation then surveys her ten arms and their directional meaning, the nine forms honoured at Navratri, the Dasha Mahavidya, Tantra's good and bad uses, Dhumavati's winnowing fan, and the Maha Hom that closes the puja.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
