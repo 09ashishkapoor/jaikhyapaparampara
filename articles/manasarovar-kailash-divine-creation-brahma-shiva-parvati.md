@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa presents Manasarovar and Mount Kailash as Brahma's creation for the gods, with Swarga established there, Martya as the human world, and Patal beneath. He says pilgrims pray at Yam Dwar before entering Mahadev's realm, that dawn lights are taken as Shiva and Parvati going to bathe, and that the lake is a Shakti Peetha where Sati's right hand fell and the goddess is worshipped as Dakshayani. A pair of royal swans are believed to be Shiva and Parvati in disguise, seen only by the pure-hearted.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

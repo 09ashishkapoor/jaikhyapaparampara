@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains that dried rice Mahaprasad from Jagannath's temple is kept at home for dog bites and is also mixed into payesh for a child's Annaprashan. He describes Mahaprasad as salt-free and says Jagannath is associated with coarse rice and coarse cloth and loves tubers and leafy vegetables, while Balram receives 56 kinds of food. He then performs the first-rice ceremony for a child born by Mother's grace; when the child picks a pen over a coin, he says the boy will be a scholar.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

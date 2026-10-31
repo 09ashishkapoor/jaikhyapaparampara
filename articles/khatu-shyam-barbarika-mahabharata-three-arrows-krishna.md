@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts that Barbarika, son of Ghatotkacha and grandson of Bhima, claimed he could end the Kurukshetra war in a day with three arrows. To test him, Krishna asked him to pierce every leaf of a peepal tree, then requested his head, which Barbarika gave to watch the war from a hilltop. The guru says Barbarika named Krishna the greatest warrior because he saw the Sudarshana Chakra, and that Krishna blessed him to be worshipped as Khatu Shyam, granting victory to those who seek his sight.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
