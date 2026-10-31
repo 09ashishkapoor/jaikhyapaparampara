@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Asked whether the Creator makes mistakes, Guru Shyama Khyapa answers that even the Creator and the Hindu gods have blemishes, citing Brahma's act against his own daughter and Narayana's wrong against Tulsi. He contrasts Shiva, whom he calls the only one without blemish, and cites Nostradamus's prophecy of a Hindu leader rising to lead Asia as a source of hope for Sanatan Dharma.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

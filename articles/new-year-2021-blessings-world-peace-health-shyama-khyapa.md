@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa offers New Year 2021 blessings, noting that Bengalis regard Pohela Boishakh rather than the English year as their new year and warning that the difficult period may continue until June. He describes sending people to Kamakhya, the Narmada, and Kashi Vishwanath, and performing homas and yagnas, to pray for world peace and a disease-free world.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
