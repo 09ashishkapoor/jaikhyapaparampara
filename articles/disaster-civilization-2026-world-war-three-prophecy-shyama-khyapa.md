@@ -31,6 +31,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">In a New Year message, Guru Shyama Khyapa warns that 2026 will be a terrifying year, predicting sudden fires and shootings without clear motive, mass displacement, and a Third World War that no one has the power to stop, with America and Russia involved. He says rituals and traditional worship will not suffice and that Harinam Sankirtan, chanting the holy names, is the only path left in Kali Yuga. The moderator notes Gurudev's frail health and COPD and asks followers not to visit unannounced.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
