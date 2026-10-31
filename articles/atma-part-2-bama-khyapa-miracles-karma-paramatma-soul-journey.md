@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells of a destitute Bangladeshi man whose property cases are resolved after Bama Khyapa sends him home, and of two devotees whose train Bama Khyapa is said to have stopped for their offerings. He then explains that Karma remains primary and that actions follow the soul into rebirth, with the Paramatma silently recording every deed. Bhava Pagla's song about Chitra Gupta's ledger and a saint taken by a tiger illustrate his account of karmic consequences.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Returning to Shantikunj Ashram after months of illness and the death of his disciple Tulal, Guru Shyama Khyapa tells devotees he will resume visiting the temple from February 19. Asked about the Ayodhya Ram Mandir, he frames his central question: now that Ram Lalla is installed, will a true Ram Rajatwa follow or will political party interests prevail? He describes Kaliyug as three-fourths sin and reflects on Mukunda Das's song about falsehood triumphing, while foretelling Kalki's appearance to punish the wicked and protect the good.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

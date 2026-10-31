@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts the life of Ashtavakra Muni, explaining that the sage was born with eight bends after his father Kahola cursed him for correcting Vedic pronunciation from the womb. He describes Ashtavakra defeating the arrogant scholar Vandin in King Janaka's court, restoring his drowned father, and being healed after bathing in the Samanga River. The account also covers his marriage to Suprabha after passing a test of celibacy and his composition of the Ashtavakra Gita on Advaita Vedanta, with King Janaka and Yajnavalkya among his disciples.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa continues Bamdeb Baba's explanation to Durgadas Kaka, describing Samadhi as the state in which the individual soul, the supreme soul, and the Divine merge into one. He distinguishes Savikalpa Samadhi, where knowledge of knower, knowledge, and known remains, from Nirvikalpa Samadhi, where those distinctions disappear. The talk then maps the six chakras, the Ida, Pingala, Sushumna, and Vichitra nadis, and the seed letters and presiding forms within the body.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

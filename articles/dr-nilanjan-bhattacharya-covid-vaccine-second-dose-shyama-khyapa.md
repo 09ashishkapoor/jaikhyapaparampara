@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Dr. Nilanjan Bhattacharya tells Guru Shyama Khyapa about receiving his second dose of the Covishield COVID-19 vaccine, describing the chills, body aches, and injection-site pain that followed his first dose. He explains that the second dose completes vaccination, while cautioning that new strains and a possible second wave could reduce its protection and that long-term side effects remain unknown. The conversation also covers the low visible infection level in West Bengal and the possibility that COVID vaccines may need to be repeated periodically.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
