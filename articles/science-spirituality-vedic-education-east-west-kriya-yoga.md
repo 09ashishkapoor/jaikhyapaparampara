@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa argues that spirituality is an advanced stage of science and that the two are intrinsically connected, citing Einstein, Jagadish Chandra Bose, the Bose Institute's study of the 'God Particle,' and A.P.J. Abdul Kalam's reading of the Gita. He contrasts Eastern renunciation with Western materialism, warns that India is losing its Vedic education and traditional observance, and calls for reviving Vedic schools. He also discusses his Kriya Yoga practice, the Maha Mrityunjaya and Nikumbhila Yajnas, and his efforts to prepare the next generation.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

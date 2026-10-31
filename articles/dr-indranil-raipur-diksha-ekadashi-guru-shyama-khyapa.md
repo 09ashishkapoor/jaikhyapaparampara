@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Dr. Indranil Chattopadhyay, a homeopathic doctor from Raipur, Chhattisgarh, travels with his brother-in-law Ajay Prakash Tiwari to take Diksha from Guru Shyama Khyapa on Ekadashi. He describes finding the Guru through YouTube videos, feeling a persistent pull and recurring dreams, and returning after an earlier visit five months ago when Gurudev was ill. Guru Shyama Khyapa says he initiates seekers daily without charging money and attributes the Ekadashi timing to destiny, while Dr. Indranil sees the connection as stemming from a previous birth.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

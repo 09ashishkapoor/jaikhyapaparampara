@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Asked why couples who struggled to conceive want him to give the first grain of rice, Guru Shyama Khyapa describes the Annaprashan ceremony and the combined Vedic-Tantric Homa behind it. He says medical limits often lead couples to spiritual practice, names his lineage of Bamdeb Baba, Nityananda, and Durgaprasanna Paramhansa, and recalls Durgaprasanna saving a village from cholera while losing his own family. He also describes visiting the cremation ground before the Homa and making payesh without charge, framing ritual as a recourse when medical care fails.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

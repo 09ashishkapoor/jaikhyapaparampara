@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa reviews his earlier prediction that COVID-19 cases would begin falling after June 22 and says the drop reported in the discussion, from roughly 400,000–450,000 daily cases to about 58,000, supports his solar-eclipse-based calculation. He reports about 1,500–2,000 cases in West Bengal, warns that Delta Plus and a possible third wave still call for masks, sanitizer, and distancing, and rejects some third-wave coverage as media sensationalism while noting vaccines are available. He says he has performed Homas for the pandemic and advises caution, especially for children.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
