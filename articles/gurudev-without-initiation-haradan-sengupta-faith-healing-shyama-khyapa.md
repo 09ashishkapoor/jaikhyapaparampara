@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Haradan Sengupta, a long-time devotee whom Guru Shyama Khyapa calls family, recounts how he came to the temple shortly before his son's death and leaned on the guru through his grief. He describes his total faith that Gurudev and Ma would be present during his wife's and daughter's surgeries, while Guru Shyama Khyapa says he tells Ma to hold the surgical scissors. Sengupta explains that although his wife is initiated and he is not, he feels their deep connection makes formal initiation unnecessary.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

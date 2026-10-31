@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa returns to the Santikunj temple after a long illness and joins a Homa performed for world peace on Shukla Chaturdashi and Pushya Nakshatra. He explains that Pushya is the Mother's own star and the best of the three nakshatras—Rohini, Pushya, and Revati—for any auspicious work, and notes the ritual finished before the nakshatra ended at 1:32 PM. He also describes his plan to visit briefly each morning and to resume work only after Chaitra.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

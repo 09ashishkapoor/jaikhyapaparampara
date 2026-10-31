@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains that Kush grass is the strength of the Brahmins and is indispensable in Shraddha, marriage, rice-eating, and sacred thread ceremonies, where the Kush ring and three-blade Tripatra are used. He describes Kush as anti-gravitational, which is why Pindo offerings are placed on a layer of it, and he describes how the grass must be separated before the offering is given to a cow or immersed. He also recounts the Ganges' descent and says Durba grass substitutes for women and for those abroad.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
