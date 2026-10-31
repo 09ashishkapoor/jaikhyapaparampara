@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa questions why the Daitapati was removed from Puri and asks whether Lord Jagannath will entrust the Brahma Padartha to him or whether it will float in the Ganges. He describes the Brahma Padartha as Krishna's heart, which fire cannot burn and water cannot dissolve, and says that without it Jagannath has no true essence. He also predicts that the Puri temple will submerge by 2026, when Kalki and seven Chiranjeevis arrive, and voices doubt about calling the new Digha temple a Dham.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

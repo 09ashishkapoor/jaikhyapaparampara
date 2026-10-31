@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa introduces the Dasha Mahavidya as ten forms of Goddess Durga and traces their origin to Parvati assuming these terrifying forms after Shiva struck Ganesha. He describes their connection with the Navagraha and Tantric rituals, contrasting worship of specific Goddesses with expensive gemstone remedies prescribed by palmists. The narrator warns that detailed planetary remedies are secret Tantric knowledge and should not be practiced at home merely by watching a video.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

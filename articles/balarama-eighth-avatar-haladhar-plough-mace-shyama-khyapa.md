@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains that Balarama was conceived in Devaki's womb but transferred by Narayana to Rohini's, making Rohini his foster mother. He describes Balarama as Haladhar, wielder of the plough and mace, and cites Tantric verses linking the plough to the Guhya and the production of seeds. He also says Balarama was more fearsome than Rama, survived Kamsa's attempts including the mad elephant, and was a supreme Vaishnava residing in Vrindavan.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
