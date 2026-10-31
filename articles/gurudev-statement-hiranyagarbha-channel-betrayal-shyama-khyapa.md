@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains why he stopped supplying content to the Hiranyagarbha channel, saying he gave it its name and logo and loved its admin like a son but was betrayed. He states that after 500 episodes he was left with no ownership or position, that money and greed changed the admin, and that money he spent to start the channel was never returned. He says he will continue sharing teachings on his own channel for the welfare of the people, especially the poor who serve at the temple.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

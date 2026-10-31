@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa marks Vijaya Dashami with a prayer for people's livelihoods and then recounts two stories about Kinaram Babu and Tulsidas. He describes how Kinaram Babu struck away three childless lifetimes with his stick, and how Tulsidas clung to Hanumanji's feet after a banyan tree revealed which listener arrived first and left last. The Guru also confirms an account of a shop boy seeing him suspended in the air during practice. The conversation matters because it frames divine vision and yogic ability as real events rather than abstractions.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -27,6 +27,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts Rama as the seventh avatar and the embodiment of dharma, whose rule is remembered as Ram Rajya, a kingdom free of injustice. He traces Dasharatha’s curse, Rama’s training with Vishwamitra and slaying of Taraka, his marriage to Sita, the fourteen-year exile, Sita’s abduction by Ravana, and the war that ends with Ravana’s death. He also describes Sita’s fire ordeal, her later exile and the births of Luv and Kush, before closing with Harinam.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

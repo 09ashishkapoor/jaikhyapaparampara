@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa discusses Kalki as the final avatar, citing the Bhavishya Malika's claim that Kalki will be born in Sambhal to Vishnuyasha and Sumati. He describes prophesied signs such as the drying of the Ganga and Yamuna, twelve years without rain, seven days of darkness, and widespread destruction, while stating that Kali Yuga will not end quickly. He attributes much of the coming upheaval to humanity's assault on nature. The conversation matters because it presents these predictions as warnings rather than certainties.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

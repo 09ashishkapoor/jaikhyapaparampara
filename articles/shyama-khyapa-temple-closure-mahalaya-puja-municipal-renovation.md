@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa announces that the annual Mahalaya puja will be held on Friday instead of Saturday because the Saturday coincides with a solar eclipse and the new moon, which he considers unfavourable. He says the municipality's beautification work requires the space to be vacated on the 16th, so public visits to the temple are closed indefinitely while worship and offerings continue. He asks devotees not to come to the temple or his home until another video announces that visits can resume.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

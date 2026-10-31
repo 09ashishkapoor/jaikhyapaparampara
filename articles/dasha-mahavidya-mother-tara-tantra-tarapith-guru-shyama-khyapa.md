@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa discusses Mother Tara as the second Mahavidya, describing Tarapith's Thursday observances, the temple's cremation-ground imagery, and her role as the presiding deity of Jupiter. He attributes Bamdev Baba's thunderbolt at the Mother to a Brahmin's curse, explains the rule that Tara sends devotees home after their puja, and recounts how Bamdev directed Subodh Mukherjee toward initiation through Purnananda. The conversation matters because it presents these tantric and temple traditions as the Guru's own lived knowledge rather than distant legend.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa presents Mother Bhuvaneshwari as the presiding deity of the Moon and explains Chandrayan as a ritual that invokes the Moon to grant release in death when a person lingers. He recounts King Daksha's curse on the Moon after learning of his love for the seven daughters, which the Guru says explains the Moon's waxing and waning as a disease of decay. He also states that Brahma performed penance to bring the Goddess to Earth. The conversation matters because it ties a Mahavidya to the forces the Guru says govern life and death.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

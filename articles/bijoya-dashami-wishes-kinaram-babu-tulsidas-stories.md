@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa offers Bijoya Dashami wishes, prays that the Mother protect everyone's livelihood, and then tells stories of Kinaram Babu and Tulsidas. He describes Kinaram Babu striking a woman's three childless lifetimes away with his cane, and how Tulsidas caught Hanumanji after a banyan tree pointed out the first arrival and last departure at his Ramayana recitations. The Guru also confirms that a shop boy once saw him suspended in the air. The conversation matters because it treats these accounts as true events that show how devotion and yogic power operate.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

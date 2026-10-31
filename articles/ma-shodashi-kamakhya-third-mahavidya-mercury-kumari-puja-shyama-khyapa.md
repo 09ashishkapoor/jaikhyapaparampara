@@ -27,6 +27,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa introduces Shodashi as the third Mahavidya, identifying her with Kamakhya and describing her sixteen-syllable mantra, her consort Kameshwara and her seat at the Kamakhya temple. He explains Kamakhya as the goddess of Mercury and as the place to conquer kama, the first of the six inner enemies, while recounting his month-long stay, Kumari Puja, the Ambubachi observances and warnings about the cremation ground. He also distinguishes Tripura Sundari and closes with Harinam.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
