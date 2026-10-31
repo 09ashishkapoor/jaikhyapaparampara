@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells a host that a true Sadhak is born once in ten million and that many who take initiation stop midway because they choose a Guru carelessly, seek social recognition, or fall to envy and ego. He says he has not yet found a true Sadhak and insists a Guru must be chosen once and never changed, citing his own fidelity to Bamadev Baba. He also says practitioners cannot curse or kill, describing their power as bound by principle and directed toward humanity's survival.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

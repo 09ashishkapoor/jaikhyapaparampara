@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa describes the Ekadashi Homa at Shantikunja as part of a continuous twelve-month ritual dedicated solely to world peace and human welfare, including prayers for COVID-19 to disappear. He notes declining case numbers but warns that deaths remain high and that precautions must continue after lockdown. He also rejects the idea that clothing determines ritual purity, insisting that remembering God makes a person pure and that worshippers should focus on elevating the mind rather than on what they wear.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

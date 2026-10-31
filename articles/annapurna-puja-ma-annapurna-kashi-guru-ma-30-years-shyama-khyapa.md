@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains Ma Annapurna as the provider of food and traces her story through Sati's self-immolation at Daksha's sacrifice, Veerabhadra's retaliation, the 51 Shakti Peethas, and Shiva's life in Kashi, where Annapurna appears to feed the world. He also recounts Ravana's boon, Kuber's refuge in Gyan Ganj, and Bama-Khepa's encounter with Annapurna. In a separate interview, Guru-ma describes three decades of Annapurna Puja at home and her faith and support through Gurudev's spiritual life.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
