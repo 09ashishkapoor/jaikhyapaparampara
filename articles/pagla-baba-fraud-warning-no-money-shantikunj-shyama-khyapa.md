@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa and Pagla Baba jointly warn that fraudsters are taking money in their names by claiming Gurudev is unwell or that work can be done through Pagla Baba for a fee. Both insist that Shantikunj never accepts payment for spiritual work, with Gurudev saying he takes no money and Pagla Baba urging followers not to give cash in his name. They ask devotees to approach Gurudev directly, and Pagla Baba says he will act only when Gurudev specifically asks him to.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

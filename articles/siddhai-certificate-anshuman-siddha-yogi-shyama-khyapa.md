@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa presents a certificate of Siddhai to his disciple Dr. Anshuman Chowdhury at the cremation grounds, citing his success in Shaiva Siddha, Matri Siddha, Hatha Yoga, Kriya Yoga, Chakra Sadhana, and Vak Siddhai, and saying he has attained Siddhai in all eight types of Yoga. Gurudev says the certificate does not itself confer perfection but acknowledges Anshuman and inspires him, and the document gives him the public name Shivansha Gupta Sadhak Bamananda Khepa. Gurudev adds that he will recognize Sujit Kar as a Siddha Yogi later.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
