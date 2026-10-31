@@ -32,6 +32,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa responds to a follower's question about lightning striking the Dwarkadhish Temple by recalling that Krishna asked the ocean to recede so Vishwakarma could build Dwarka, and he calls the damage to its gateway an ominous sign. He links it to earlier incidents at Puri and to COVID-19 and Cyclone Amphan, then predicts famine, neurological illness and earthquakes, saying the Pralay is near and that a shift in the moon's position will bring further suffering.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

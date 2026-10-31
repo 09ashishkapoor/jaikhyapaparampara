@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa welcomes Asif Mohammad, a Muslim aeronautical engineer from Dhaka, and tells the host that he will not ask him to change religions, since Allah and Bhagwan are the same. Asif says spirituality is like a vast ocean and that he learned of the guru through Baba Bama Deb, while Gurudev blesses his studies and calls him his son, presenting religious labels as irrelevant to human kinship.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
