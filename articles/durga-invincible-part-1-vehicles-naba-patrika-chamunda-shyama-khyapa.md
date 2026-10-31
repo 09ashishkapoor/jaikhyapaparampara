@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers a devotee's questions about Durga Puja, explaining that the goddess's arrival and departure vehicles depend on the weekday on which Saptami and Dashami fall. He corrects the popular belief that the Kala Bou is Ganesha's wife, identifying it as the Naba Patrika representing nine goddesses, and says Durga's displayed family is not literal. He further describes Sandhi Puja's 48 minutes as Chamunda's exclusive period and recounts how the goddess earned that name by slaying Chanda and Munda.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa discusses his 2021 predictions, which a devotee says are already coming true, and warns of a feared third COVID-19 phase involving Black Fungus, a cyclone heading for Kolkata, and a possible earthquake. He says the third phase may hit children hardest and that current vaccines cannot stop it. He also interprets the present as the ninth Manu cycle, when, he says, the age of the Shudras begins and human oppression and social conflict will grow, as described in the Bhagavat.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
