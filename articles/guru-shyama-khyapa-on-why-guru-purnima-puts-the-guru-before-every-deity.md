@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">During a Guru Purnima puja, Guru Shyama Khyapa tells devotees that a Guru should be served and worshipped as demonstrated, and asserts that the Guru comes before all deities. He says no deity worship can proceed without first honoring the Guru, and that if a Guru arrives during a Durga Puja, Kali Puja, or another ritual, the ritual must stop until the Guru is worshipped. He presents this precedence as a rule devotees must follow.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

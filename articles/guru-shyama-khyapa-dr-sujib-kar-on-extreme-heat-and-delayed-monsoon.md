@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa and Dr. Sujib Kar discuss why the monsoon has not arrived and when it might begin. Dr. Sujib Kar attributes the delay to global warming and the greening of the Thar Desert, which he says has weakened the low pressure that draws in monsoon winds, and warns of rising heat deaths. He expects rain after mid-July and calls for strong government action, saying the problem is global and requires decisive measures.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

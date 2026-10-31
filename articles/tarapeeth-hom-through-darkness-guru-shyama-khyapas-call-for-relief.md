@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">This narrated account follows a night-time Hom at Tarapith's Munda Malitala, near the Dwaraka River, where Gurudev's disciple Pagla Baba tends the sacred fire without pause on November 7, 2020. The narrator describes a silent, dark crematorium setting and relays the belief that higher flames are auspicious. Gurudev gave only the instruction to perform the Hom, and the narrator understands it as a ritual for humanity's relief amid a devastated world.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
