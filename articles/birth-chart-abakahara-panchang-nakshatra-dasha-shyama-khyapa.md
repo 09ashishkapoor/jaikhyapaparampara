@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Shantanu, a disciple of Guru Shyama Khyapa, explains the first page of a Vedic birth chart, the Abakahara Chakra, including the five Panchang parts, Tithi and Karana, Nakshatra quarters, planetary periods, and the Navatara and Sannari Chakras. He compares these foundations to a house's base, saying weak Panchang elements undermine even strong planets, and Guru Shyama Khyapa calls the subject a deep science while agreeing that basic knowledge helps people avoid being misled by astrologers.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

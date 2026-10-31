@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">As 2020 begins, Guru Shyama Khyapa tells a devotee about the vow he took at a cremation ground to practice Tantra solely for human welfare and world peace, rejecting money and material gain. He describes the 1,000-day Maha Mrityunjaya Yajna performed for peace, saying participants bore serious health costs, and links current eclipses and planetary positions to the era before the Kurukshetra War. He also expresses certainty that a Great Soul will emerge, citing Krishna's promise in the Gita.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

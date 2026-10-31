@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts the life of Sri Ram Thakur, born Ramchandra Chakravarty in Faridpur in 1860, describing him as a Krishna devotee and Tantrik who trained under his father's guru and founded Kaibalya Dham. He tells how Ram Thakur served his mother, cooked for others, and practiced Kaibalya Sadhana by offering his body, mind, intellect, and ego to the Divine Mother. His central teaching, Guru Shyama Khyapa says, was that calming the mind brings peace and dissolves trouble.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers a devotee's question about Gotra by tracing it to the ancient sages, calling it the spiritual equivalent of DNA and stressing that Hindus must know their Veda so rituals use the correct mantras. He explains the three Probars, the father's Gotra, and why same-Gotra marriage is forbidden, attributing congenital disabilities to shared lineage and comparing the rule to blood-group matching. He further says the Gita warns against same-Gotra marriage and that marrying outside the faith produces hybrid children and deprives ancestors of rites.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
