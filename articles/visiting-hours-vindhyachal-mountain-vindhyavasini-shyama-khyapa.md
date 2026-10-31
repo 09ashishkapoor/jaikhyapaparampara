@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa sets visiting hours of 10:00 AM to 12:30 PM, Monday through Friday, asks devotees to stay away on Amavasya, Purnima, Saturdays and Sundays, and warns that afternoon visitors will be turned away. He also disowns people outside the premises who approach devotees posing as tantriks. He then tells the story of Vindhyachal Mountain, humbled by Guru Agastya Muni, and of Maa Vindhyavasini, whose Mirzapur temple he links to the goddess born alongside Krishna and to banyan leaves said to bear "Jai Shri Ram."</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

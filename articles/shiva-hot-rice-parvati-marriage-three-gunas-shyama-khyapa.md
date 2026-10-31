@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts Shiva and Parvati's marriage at Kankhal, the dispute over Shiva having no gotra, and the hot-rice episode at Manasarovar where Shiva forgets his promise while creating professions from pebbles. He explains the three gunas—Rajas with Brahma, Tamas with Vishnu, Sattva with Shiva—and links them to worship, food, and spiritual seekers. He also warns that most visitors bring him family troubles, says it takes two hands to clap, and condemns fake tantriks who harass women.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

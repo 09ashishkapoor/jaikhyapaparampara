@@ -32,6 +32,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa reads the Goddess's arrival on a horse on Saturday's Saptami and departure on a Tuesday's Dashami as a "Morok," a period of mass mortality, warning of eight new viruses and great loss of life. Astrologer Santanu traces the same danger in Saturn's transit through Dhanishta and Uttara Bhadrapada, predicting a world war across 2024 and 2025. Guru Shyama Khyapa also cites the Bhabishya Malika's claim that only about 650 million people may remain.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
