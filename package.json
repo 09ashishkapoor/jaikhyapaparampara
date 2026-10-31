@@ -20,6 +20,10 @@
     "humanize:queue:done": "node .codex/skills/humanize-articles/scripts/queue.js mark-done --queue .codex/article-humanize-queue.md",
     "humanize:queue:mark-skipped": "node .codex/skills/humanize-articles/scripts/queue.js mark-skipped --queue .codex/article-humanize-queue.md",
     "humanize:queue:mark-in-progress": "node .codex/skills/humanize-articles/scripts/queue.js mark-in-progress --queue .codex/article-humanize-queue.md",
+    "context:status": "python scripts/transcript_context.py status",
+    "context:prepare": "python scripts/transcript_context.py prepare",
+    "context:run": "python scripts/transcript_context.py run",
+    "context:apply": "python scripts/transcript_context.py apply",
     "validate": "playwright test",
     "check:archive": "node scripts/check_article_archive.js _site",
     "validate:update-snapshots": "playwright test tests/visual --update-snapshots"
