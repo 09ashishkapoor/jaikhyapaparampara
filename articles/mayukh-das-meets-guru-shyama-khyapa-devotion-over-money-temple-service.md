@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Aspiring actor Mayukh Das visits Guru Shyama Khyapa for blessings and describes being struck by a temple where money is refused and devotion, respect, and the daily Mahamritunjaya Japa matter instead. Guru Shyama Khyapa responds that devotion humbles him and that he will not sell God or let the temple grow through wealth, while devotees press him about his talk of death and his dedication to world peace and human welfare. The conversation ends with blessings for Mayukh and for people everywhere.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

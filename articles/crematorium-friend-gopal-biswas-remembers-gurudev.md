@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Gopal Biswas, who managed the crematorium where Guru Shyama Khyapa stayed, recalls the guru's early sadhana in a hut between ponds, the political pressure that made him move, and days when tea and a biscuit were often his only meal. He describes onlookers doubting the trouser-wearing sadhu and throwing stones and funeral flowers at him, and traces how the crematorium temple grew from an abandoned asbestos structure used for Kousiki Amavasya puja. Gopal also explains how the name 'Syama Khapa' arose and recalls a premature baby declared dead being revived.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

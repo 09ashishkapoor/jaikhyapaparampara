@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa reflects on Shirdi Sai Baba's uncertain origins and his teaching that 'Sabka Malik Ek,' describing Sai Baba as using Advaitavad for Hindus and Sufism for Muslims. He explains that Hindus regard Sai Baba as an incarnation of Dattatreya and recounts the claim that Sai Baba entered a three-day samadhi when Sri Ramakrishna died in August 1886, returning after seeing Ramakrishna already in the divine realm. The discussion also presents the two teachers' mutual respect despite never meeting.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
