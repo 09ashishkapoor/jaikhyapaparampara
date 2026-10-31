@@ -4,6 +4,8 @@
 > Source: Google Search Console coverage export (2026-10-30, data through 2026-10-22)
 > Purpose: permanently fix article indexing and build a taxonomy that does not collapse every few months.
 
+**Resuming a session? Start with [NEXT-STEPS.md](NEXT-STEPS.md).**
+
 ---
 
 ## The honest framing
