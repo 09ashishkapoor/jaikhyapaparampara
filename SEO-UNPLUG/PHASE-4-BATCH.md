@@ -58,7 +58,7 @@ The file contains title, description, category, author, date, and the full trans
 npm run context:run
 ```
 
-This calls `pi` headlessly with the batch file and writes:
+This calls `dsh --profile headless` with the batch JSON and writes:
 
 ```
 .cache/context-batches/batch-0001-0005.out.json
@@ -120,6 +120,18 @@ git add articles _includes/article.liquid
 git commit -m "Add transcript context (batch 1-5)"
 ```
 
+## Unattended run
+
+Skip review and let the queue run to the end:
+
+```bash
+python scripts/transcript_context.py auto
+python scripts/transcript_context.py auto --max-batches 1   # one batch
+python scripts/transcript_context.py auto --no-build        # skip build checks
+```
+
+`auto` drafts, applies, runs the guard, commits each batch, and repeats until no article is left. It stops if a batch makes no progress, so a bad batch cannot loop forever. `SEO-UNPLUG/click/5-auto-all.cmd` does the same from a double-click.
+
 ## Next batch
 
 The queue is content-aware: articles that already have a paragraph are skipped. Just run:
@@ -138,19 +150,17 @@ Cost scales with total transcript length, not article count. The transcript corp
 
 ## Which model?
 
-The runner does not hard-code a model. It calls `pi -p` with no `--model`, so pi uses its configured default. On this machine that is currently:
+The runner calls `dsh --profile headless` from the repository root, so the draft uses the desktop app's DeepSeek account. The model is set in `~\.dsh\profiles\headless\cordis.patch.yml`:
 
-```
-openrouter/deepseek/deepseek-v4.1-flash-1017
-```
-
-Check or change the default with `pi config`, or list IDs with `pi --list-models`. Override one run without changing your default:
-
-```bash
-npm run context:run -- --model "openrouter/google/gemini-flash-latest"
+```yaml
+- id: agent-default-model
+  name: "@deepseek-ai/dsh-agent-default-model"
+  config:
+    provider: deepseek-account
+    model: deepseek-flash
 ```
 
-Use the `provider/model` form. The default flash model is cheap and adequate for short summaries; a stronger model is worth it if you see vague or off-topic drafts.
+The same file also enables `credentials`, `authorization`, and `deepseek-account` for the headless profile. Change `model:` there to switch models; the flash model is cheap and adequate for short summaries.
 
 ## Sacred-text safety
 
@@ -160,12 +170,7 @@ If a discourse article about a sacred text appears in a batch, skip it by removi
 
 ## What still needs a human
 
-- Reviewing the batch summaries for accuracy and tone.
-- Spot-checking names, places, and claims against the transcript.
-- Committing each batch.
-- Deciding when a paragraph is not worth adding and removing it from the batch.
-
-The model drafts; you approve. That is the sustainable part.
+In the reviewed loop: reading the batch and removing weak entries. In the unattended loop: nothing, but the safety net is the applier's validation plus `guard.py`. Nobody is checking theological or historical accuracy, so spot-check the committed diffs when you have time.
 
 ## Files
 

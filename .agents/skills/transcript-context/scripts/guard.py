@@ -9,6 +9,11 @@ from pathlib import Path
 MARKER = b'<div class="transcript-container"'
 
 
+def normalize(data):
+    """Ignore checkout line endings; core.autocrlf makes the worktree CRLF and blobs LF."""
+    return data.replace(b"\r\n", b"\n")
+
+
 def protected_parts(data, name):
     lines = data.splitlines(keepends=True)
     if not lines or lines[0].rstrip(b"\r\n") != b"---":
@@ -43,9 +48,9 @@ def main():
             ).stdout
             original_frontmatter, original_transcript = protected_parts(baseline, filename + " at HEAD")
             current_frontmatter, current_transcript = protected_parts(path.read_bytes(), filename)
-            if original_frontmatter != current_frontmatter:
+            if normalize(original_frontmatter) != normalize(current_frontmatter):
                 raise ValueError("frontmatter changed; restore it before review")
-            if original_transcript != current_transcript:
+            if normalize(original_transcript) != normalize(current_transcript):
                 raise ValueError("transcript or material after it changed; restore it before review")
             print(f"PASS {relative}: frontmatter and transcript unchanged")
         except (ValueError, OSError, subprocess.CalledProcessError) as exc:

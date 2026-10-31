@@ -18,10 +18,12 @@ import argparse
 import difflib
 import html
 import json
+import os
 import re
 import shutil
 import subprocess
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -34,7 +36,7 @@ CONTEXT_CLASS = "transcript-context"
 
 PROMPT = (
     "You are drafting reader context for transcript articles on a Hindu guru-disciple site. "
-    "Read the attached JSON. For every article, write ONE plain-text paragraph of 2-3 sentences "
+    "Read the JSON below. For every article, write ONE plain-text paragraph of 2-3 sentences "
     "(45-90 words) that tells the reader what this particular conversation covers and why it matters. "
     "Use only facts stated in that article. Attribute spiritual, historical, and prophetic claims to "
     "the speaker (for example, 'Guru Shyama Khyapa describes...'). Do not copy the description, do not "
@@ -200,30 +202,73 @@ def write_review(batch_path, out_path):
     return review_path
 
 
+def find_dsh():
+    candidates = [
+        os.environ.get("DSH_CLI"),
+        shutil.which("dsh"),
+        Path(os.environ.get("LOCALAPPDATA", ""))
+        / "Programs"
+        / "DeepSeek Harness"
+        / "resources"
+        / "runtime"
+        / "cli"
+        / "bin"
+        / "dsh.cmd",
+    ]
+    for candidate in candidates:
+        if candidate and Path(candidate).exists():
+            return str(candidate)
+    return None
+
+
+def draft_summaries(batch_path):
+    dsh = find_dsh()
+    if not dsh:
+        print("dsh CLI not found; run prepare and process the batch manually.", file=sys.stderr)
+        return None
+    task = (
+        PROMPT
+        + "\n\nDo not use tools and do not modify any files.\n\nInput JSON:\n\n"
+        + batch_path.read_text(encoding="utf-8")
+    )
+    try:
+        result = subprocess.run(
+            [dsh, "--profile", "headless", "-"],
+            cwd=ROOT,
+            input=task,
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+            timeout=900,
+        )
+    except subprocess.TimeoutExpired:
+        print("Model call timed out.", file=sys.stderr)
+        return None
+    if result.returncode != 0:
+        print(result.stderr[-2000:], file=sys.stderr)
+        return None
+    try:
+        return parse_model_json(result.stdout)["summaries"]
+    except (ValueError, KeyError) as exc:
+        print(f"Could not parse model output: {exc}", file=sys.stderr)
+        print(result.stdout[-2000:], file=sys.stderr)
+        return None
+
+
 def run(args):
     batch_path = build_batch(args)
     if batch_path is None:
         print("No eligible articles in that range.")
         return 0
     print(batch_path)
-    pi_bin = shutil.which("pi")
-    if not pi_bin:
-        print("pi executable not found; run prepare and process the batch manually.", file=sys.stderr)
-        return 1
-    command = [pi_bin, "-p", "--no-tools", "--no-session", "--mode", "text", PROMPT, f"@{batch_path}"]
-    if args.model:
-        command[1:1] = ["--model", args.model]
-    print(f"Calling model for {batch_path.name} ({args.model or 'pi default'}) ...", file=sys.stderr)
-    result = subprocess.run(command, cwd=ROOT, capture_output=True, text=True, encoding="utf-8")
-    if result.returncode != 0:
-        print(result.stderr[-2000:], file=sys.stderr)
-        return result.returncode
-    try:
-        output = parse_model_json(result.stdout)
-        summaries = output["summaries"]
-    except (ValueError, KeyError) as exc:
-        print(f"Could not parse model output: {exc}", file=sys.stderr)
-        print(result.stdout[-2000:], file=sys.stderr)
+    summaries = None
+    for attempt in range(1, 4):
+        print(f"Calling dsh for {batch_path.name} (attempt {attempt}) ...", file=sys.stderr)
+        summaries = draft_summaries(batch_path)
+        if summaries:
+            break
+        time.sleep(5)
+    if not summaries:
         return 1
     out_path = batch_path.with_name(batch_path.name.replace(".in.json", ".out.json"))
     out_path.write_text(json.dumps({"summaries": summaries}, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -347,6 +392,61 @@ def apply_command(args):
     return apply_summaries(args.batch, dry_run=args.dry_run)
 
 
+def build_site():
+    npm = shutil.which("npm")
+    if not npm:
+        print("npm not found; skipping build check.", file=sys.stderr)
+        return 0
+    return subprocess.run([npm, "run", "build:test"], cwd=ROOT).returncode
+
+
+def commit_applied():
+    changed = subprocess.run(
+        ["git", "diff", "--name-only", "--", "articles"],
+        cwd=ROOT,
+        capture_output=True,
+        text=True,
+    ).stdout.split()
+    if not changed:
+        return 0
+    add = subprocess.run(["git", "add", "--", *changed], cwd=ROOT)
+    commit = subprocess.run(
+        ["git", "commit", "-m", f"Add transcript context to {len(changed)} articles"],
+        cwd=ROOT,
+    )
+    if add.returncode or commit.returncode:
+        return 1
+    print(f"Committed {len(changed)} article(s).")
+    return 0
+
+
+def auto(args):
+    args.fixed = True
+    args.apply = True
+    if not args.no_build and build_site() != 0:
+        print("Baseline build failed; stopping.", file=sys.stderr)
+        return 1
+    previous = None
+    rounds = 0
+    while True:
+        remaining = sum(1 for row in candidates() if not row["has_context"])
+        if remaining == 0:
+            print("All articles have context.")
+            break
+        if args.max_batches and rounds >= args.max_batches:
+            print(f"Stopping after {rounds} batch(es).")
+            break
+        if remaining == previous:
+            print("No progress in the last batch; stopping so it can be inspected.", file=sys.stderr)
+            return 1
+        previous = remaining
+        rounds += 1
+        print(f"{remaining} article(s) left (batch {rounds}).")
+        if run(args) != 0 or commit_applied() != 0:
+            return 1
+    return 0 if args.no_build else build_site()
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     sub = parser.add_subparsers(dest="command", required=True)
@@ -359,10 +459,9 @@ def main():
     prepare_parser.add_argument("--fixed", action="store_true", help="Write next-batch.in.json for the click workflow")
     prepare_parser.set_defaults(func=prepare)
 
-    run_parser = sub.add_parser("run", help="Prepare a batch and ask pi to draft summaries")
+    run_parser = sub.add_parser("run", help="Prepare a batch and ask dsh to draft summaries")
     run_parser.add_argument("--limit", type=int, default=5)
     run_parser.add_argument("--offset", type=int, default=0)
-    run_parser.add_argument("--model", help="Optional pi model override")
     run_parser.add_argument("--fixed", action="store_true", help="Use next-batch.* names for the click workflow")
     run_parser.add_argument("--apply", action="store_true", help="Apply immediately instead of waiting for review")
     run_parser.set_defaults(func=run)
@@ -371,6 +470,13 @@ def main():
     apply_parser.add_argument("batch")
     apply_parser.add_argument("--dry-run", action="store_true")
     apply_parser.set_defaults(func=apply_command)
+
+    auto_parser = sub.add_parser("auto", help="Draft, apply, commit, and repeat until every article has context")
+    auto_parser.add_argument("--limit", type=int, default=5)
+    auto_parser.add_argument("--offset", type=int, default=0)
+    auto_parser.add_argument("--no-build", action="store_true", help="Skip the npm build check")
+    auto_parser.add_argument("--max-batches", type=int, default=0, help="Stop after N batches (0 = run to the end)")
+    auto_parser.set_defaults(func=auto)
 
     args = parser.parse_args()
     return args.func(args)

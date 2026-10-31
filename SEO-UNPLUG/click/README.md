@@ -8,6 +8,7 @@ Double-click in this order.
 | `2-apply-reviewed.cmd` | Inserts exactly the reviewed summaries, runs the guard, archives the batch, shows progress |
 | `3-check-build.cmd` | Runs `npm run build:test` |
 | `4-status.cmd` | Shows how many articles are left |
+| `5-auto-all.cmd` | Skips the human: runs 1–3 in a loop and commits each batch until nothing is left |
 
 ## The loop
 
@@ -27,13 +28,13 @@ Then repeat from step 1. The queue always skips articles that already have conte
 - A failed apply leaves the batch in place; clicking **2** again retries the same reviewed file.
 - A successful apply archives the batch under `.cache\context-batches\applied\`, so it cannot be applied twice.
 
+## Unattended
+
+`5-auto-all.cmd` (or `python scripts\transcript_context.py auto`) runs the whole queue with no review. It drafts, validates, applies, runs the guard, commits each batch, and stops when no article is left. It also stops if a batch makes no progress, so a bad batch cannot loop forever. `--max-batches N` stops after N batches; `--no-build` skips the build checks.
+
 ## Model
 
-The draft button uses pi's configured default model. To pin a different one for these clicks, edit `1-draft-next-5.cmd` and add `--model` to the command, for example:
-
-```bat
-python scripts\transcript_context.py run --fixed --limit 5 --model "openrouter/google/gemini-flash-latest"
-```
+Drafting calls `dsh --profile headless` in the same repository, so it uses the desktop app's DeepSeek account (`provider: deepseek-account`, `model: deepseek-flash`). The headless profile must have `credentials`, `authorization`, and `deepseek-account` enabled and the model set in `~\.dsh\profiles\headless\cordis.patch.yml`. Change the model there, not in these `.cmd` files.
 
 ## Files
 
