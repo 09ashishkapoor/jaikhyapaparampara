@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Paritosh Da, a disciple of 35 years, recalls meeting Guru Shyama Khyapa during his early worship of Mother Tara on a Bhandari rooftop in Rajpur and describes the haunted house where the Guru practiced for five years. He recounts moving locations, taking initiation after a crisis, and a vision of Lord Shiva and Mother Durga he attributes to the Guru. Guru Shyama Khyapa responds to devotees who regard him as Shiva, calling it their faith, and to accusations that his YouTube videos are self-promotion, saying people come on their own.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

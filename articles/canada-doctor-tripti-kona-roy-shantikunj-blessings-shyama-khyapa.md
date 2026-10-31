@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Dr. Tripti Kona Roy, a Canada-based gynecologist originally from Bangladesh, tells how her brother introduced her to Guru Shyama Khyapa on YouTube and how she watches his episodes every morning before hospital work. She describes his resemblance to her father, her son's application for a US medical residency, and her joy at a full meal she was given during the visit. Guru Shyama Khyapa says failure is part of life, prays for her son's success, and blesses her, while the conversation touches on climate change and her plans to return.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

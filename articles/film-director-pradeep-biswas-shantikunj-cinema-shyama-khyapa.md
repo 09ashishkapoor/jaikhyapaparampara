@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Film director Pradeep Biswas visits Shantikunj and tells Guru Shyama Khyapa about his career, including films such as Jeeboner Rang and Dhushor Godhuli, and his concern that Bengali cinema is declining amid professional jealousy. Guru Shyama Khyapa warns that 2021 will be critical with maximum deaths, attributes Shantikunj's peace to a 1,008-day Mahamrityunjaya ritual and daily havan, and says cinema will recover. He also says artists from Tollywood and Bollywood tell him there is no peace in the industry, and he prays for them.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
