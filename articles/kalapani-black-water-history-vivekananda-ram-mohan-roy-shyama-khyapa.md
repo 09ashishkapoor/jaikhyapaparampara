@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains Kalapani as the old social ostracism imposed on those who crossed the sea, naming Michael Madhusudan Dutt, Ram Mohan Roy, and Swami Vivekananda as figures who suffered it. He credits Vidyasagar, Ram Mohan Roy, and Vivekananda with helping free society from Sati, Kulin Brahmin abuses, and related cruelties. The discussion matters because, as he says, this history is being forgotten and cannot be understood without it.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

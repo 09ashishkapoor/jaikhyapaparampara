@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa distinguishes samadhi from ordinary death, describing samadhi as the temporary release of the soul while the body remains intact. He speaks of long-lived sages in Ganganj, explains Bhav-Samadhi through Ramakrishna and Salil-Samadhi through the Ganges and Ramprasad, and says returning the soul to the body is the harder task. The conversation matters because it separates a voluntary spiritual state from irreversible death.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
