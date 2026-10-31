@@ -26,7 +26,8 @@
     "context:apply": "python scripts/transcript_context.py apply",
     "validate": "playwright test",
     "check:archive": "node scripts/check_article_archive.js _site",
-    "validate:update-snapshots": "playwright test tests/visual --update-snapshots"
+    "validate:update-snapshots": "playwright test tests/visual --update-snapshots",
+    "sitemap:dates": "node scripts/build_lastmod.js"
   },
   "keywords": [
     "spiritual",

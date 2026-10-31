@@ -224,6 +224,8 @@ All non-empty tag archives allow indexing. Their links appear on articles and in
 
 The homepage loads `/article-index.json` for article metadata without downloading full article bodies. Full-text search continues to use `/search-index.json`.
 
+Sitemap `<lastmod>` uses each article's last git commit date. Cloudflare Pages builds from a shallow clone, so run `npm run sitemap:dates` after editing article content and commit `_data/articleLastmod.json` with those edits.
+
 The build emits `/404.html` so Cloudflare Pages returns a real 404 for missing URLs instead of its single-page-app homepage fallback. The internal search page and the 404 page intentionally use `noindex` and are excluded from the sitemap.
 
 After deploying indexing changes, use Search Console's live URL test on representative URLs and request indexing for important pages. Submit `https://jaikhyapaparampara.com/sitemap.xml` if it is not already submitted. An in-progress validation should be allowed to finish. A nonzero noindex count is expected for intentionally excluded pages; neither sitemap submission nor validation guarantees indexing.
