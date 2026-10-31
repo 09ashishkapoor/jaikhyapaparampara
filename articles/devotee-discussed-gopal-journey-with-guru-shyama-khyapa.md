@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">A devotee from the Dum Dum Airport area brings his family's twenty-six-year-old Gopal deity by train, describing how Gopal warned him of coming dangers and insisted on meeting Gurudev. Guru Shyama Khyapa says many such Gopals have come to him, dismisses talk of a ghost inside the image, and calls Krishna devotion especially necessary now. He warns that Gopal is mischievous and can overturn everything in a moment, a power that even a Tantric fears.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
