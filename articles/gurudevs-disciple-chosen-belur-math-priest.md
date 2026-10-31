@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa speaks with his disciple Vishvadev Chakraborty, an astrologer for Senco Gold &amp; Diamonds, about being chosen from seven interviewed priests to perform Durga Puja at Belur Math. The Guru recounts Swami Vivekananda's vision at Kanyakumari and his instruction to hold Kumari Puja and Durga Puja, calling the Belur Math rituals spiritually complete rather than public street worship. Their exchange also stresses service, honest fees, and free remedies for people struggling financially.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

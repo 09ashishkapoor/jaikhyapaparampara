@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains that the Mahalaya puja at Shantikunj is being held on the preceding night because the Amavasya will not last through the next day, so the Homa runs all night and the deity is immersed at 4 AM. Guruma, visiting despite long-standing back pain, says the decorated deity looks very small and young, a perception Guru Shyama Khyapa shares and calls his pride. He also states that his worship respects Jesus Christ, the Kaaba Mosque, Mahadev, and all Hindu deities, offering prayers across religions.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

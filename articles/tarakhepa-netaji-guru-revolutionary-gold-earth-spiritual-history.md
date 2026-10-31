@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">A visiting devotee tells Guru Shyama Khyapa about Tarakhepa, the powerful Berhampore saint whom the Guru describes as Bama Khepa's brother and who is said to have lived from 1845 to 1945. The devotee recounts Tarakhepa's coded 1939 letter to Netaji Subhash Chandra Bose and the claim that he sent sixteen seers of earth that turned into gold to fund the revolutionary movement. Guru Shyama Khyapa adds that Netaji regarded Tarakhepa as his Guru and that his power was infinite.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
