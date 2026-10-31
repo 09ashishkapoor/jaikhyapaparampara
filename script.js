@@ -249,7 +249,7 @@ document.addEventListener('DOMContentLoaded', () => {
         initAudio();
 
         // 8. Initialize Particle Effect (disabled for performance)
-        initParticles();
+        initFlowers();
         
         // 9. Initialize FAQ Accordion (defer - below fold)
         initFAQ();
@@ -389,28 +389,49 @@ document.querySelectorAll('a[target="_blank"]').forEach(link => {
     });
 });
 
-// --- Particle/Sparkle Effect for Hero Section ---
-// Optimized to use existing container and avoid reflows
-const initParticles = () => {
+// --- Hibiscus Flowers for Hero Section ---
+// Ma Kali's flower drifting from the top of the hero to the bottom.
+const initFlowers = () => {
     const container = document.querySelector('.particles-container');
     if (!container) return;
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
 
-    // Create particles with staggered animations
-    const particleCount = 15;
-    
-    for (let i = 0; i < particleCount; i++) {
-        const particle = document.createElement('div');
-        particle.className = 'particle';
-        
-        // Random positioning
-        particle.style.left = Math.random() * 100 + '%';
-        particle.style.top = Math.random() * 100 + '%';
-        
-        // Stagger animation delays
-        particle.style.animationDelay = (i * 0.5) + 's';
-        particle.style.animationDuration = (6 + Math.random() * 4) + 's';
-        
-        container.appendChild(particle);
+    const hero = container.closest('.hero') || container;
+    const width = window.innerWidth;
+    const flowerCount = width < 480 ? 12 : width < 900 ? 16 : 22;
+    const fragment = document.createDocumentFragment();
+
+    for (let i = 0; i < flowerCount; i++) {
+        const flower = document.createElement('span');
+        flower.className = 'hibiscus';
+        flower.setAttribute('aria-hidden', 'true');
+
+        const size = 14 + Math.random() * 18;
+        const duration = 13 + Math.random() * 9;
+
+        flower.style.setProperty('--flower-left', (4 + Math.random() * 92).toFixed(2) + '%');
+        flower.style.setProperty('--flower-size', size.toFixed(1) + 'px');
+        flower.style.setProperty('--fall-duration', duration.toFixed(1) + 's');
+        flower.style.setProperty('--fall-delay', (-Math.random() * duration).toFixed(1) + 's');
+        flower.style.setProperty('--flower-sway', ((Math.random() * 2 - 1) * 38).toFixed(1) + 'px');
+        flower.style.setProperty('--flower-opacity', (0.5 + Math.random() * 0.4).toFixed(2));
+
+        fragment.appendChild(flower);
+    }
+
+    container.appendChild(fragment);
+
+    const setFallDistance = () => {
+        container.style.setProperty('--fall-distance', Math.round(container.clientHeight * 1.15) + 'px');
+    };
+    setFallDistance();
+    window.addEventListener('resize', setFallDistance, { passive: true });
+
+    if ('IntersectionObserver' in window) {
+        const observer = new IntersectionObserver(([entry]) => {
+            container.classList.toggle('flowers-paused', !entry.isIntersecting);
+        }, { threshold: 0 });
+        observer.observe(hero);
     }
 };
 

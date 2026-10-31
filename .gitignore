@@ -58,6 +58,7 @@ __pycache__/
 *.tmp
 *.temp
 .tmp/
+.tmp-*
 *.bak
 *.backup
 

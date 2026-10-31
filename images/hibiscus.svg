@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Red hibiscus flower">
+  <defs>
+    <radialGradient id="hibiscusPetal" cx="38%" cy="32%" r="78%">
+      <stop offset="0%" stop-color="#ff8a8a"/>
+      <stop offset="42%" stop-color="#e0233a"/>
+      <stop offset="100%" stop-color="#8f0d1e"/>
+    </radialGradient>
+    <linearGradient id="hibiscusStamen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffe08a"/>
+      <stop offset="100%" stop-color="#d4941f"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(32 34)">
+    <g fill="url(#hibiscusPetal)" stroke="#5f0713" stroke-width="0.7" stroke-linejoin="round">
+      <path d="M0 -4 C -12 -11 -14 -25 0 -30 C 14 -25 12 -11 0 -4 Z"/>
+      <path d="M0 -4 C -12 -11 -14 -25 0 -30 C 14 -25 12 -11 0 -4 Z" transform="rotate(72)"/>
+      <path d="M0 -4 C -12 -11 -14 -25 0 -30 C 14 -25 12 -11 0 -4 Z" transform="rotate(144)"/>
+      <path d="M0 -4 C -12 -11 -14 -25 0 -30 C 14 -25 12 -11 0 -4 Z" transform="rotate(216)"/>
+      <path d="M0 -4 C -12 -11 -14 -25 0 -30 C 14 -25 12 -11 0 -4 Z" transform="rotate(288)"/>
+    </g>
+    <g fill="none" stroke="#ffbcbc" stroke-width="0.7" stroke-linecap="round" opacity="0.35">
+      <path d="M0 -8 L0 -25"/>
+      <path d="M0 -8 L0 -25" transform="rotate(72)"/>
+      <path d="M0 -8 L0 -25" transform="rotate(144)"/>
+      <path d="M0 -8 L0 -25" transform="rotate(216)"/>
+      <path d="M0 -8 L0 -25" transform="rotate(288)"/>
+    </g>
+    <circle r="3.2" fill="#4d0510"/>
+    <path d="M0 0 C 4 -7 7 -14 9 -21" fill="none" stroke="url(#hibiscusStamen)" stroke-width="2.2" stroke-linecap="round"/>
+    <circle cx="9" cy="-22" r="2.2" fill="#ffe08a"/>
+    <circle cx="11.6" cy="-25.2" r="1.1" fill="#ffd36e"/>
+    <circle cx="7" cy="-26" r="1.1" fill="#ffd36e"/>
+    <circle cx="12.2" cy="-20" r="1.1" fill="#ffd36e"/>
+  </g>
+</svg>

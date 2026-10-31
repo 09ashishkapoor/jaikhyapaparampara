@@ -294,20 +294,9 @@ main {
     width: 100%;
     margin: 0 auto;
     padding: 0 1.5rem;
-    animation: fadeInUp 1s ease-out 0.3s both;
-    /* Reserve space to prevent layout shift from particles and animations */
+    /* Keep above-the-fold content visible immediately: opacity animations
+       delay LCP because the text is not painted until the animation starts. */
     min-height: 300px;
-}
-
-@keyframes fadeInUp {
-    from {
-        opacity: 0;
-        transform: translateY(30px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
 }
 
 /* Hero Text Styles */
@@ -320,7 +309,6 @@ main {
     margin-bottom: 1.5rem;
     line-height: 1.15;
     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
-    animation: fadeInUp 0.8s ease-out 0.4s both;
     letter-spacing: 0.5px;
     will-change: auto; /* Remove will-change */
     /* CRITICAL: Prevent font metric changes during swap */
@@ -336,7 +324,6 @@ main {
     line-height: 1.6;
     font-weight: 400;
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
-    animation: fadeInUp 0.8s ease-out 0.5s both;
     letter-spacing: 0.3px;
     /* Reserve space to prevent shift when font loads */
     min-height: 4.8rem;
@@ -350,7 +337,6 @@ main {
     font-style: italic;
     font-weight: 600;
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
-    animation: fadeInUp 0.8s ease-out 0.6s both;
     /* Reserve space to prevent shift when font loads */
     min-height: 1.8rem;
     display: block;
@@ -418,41 +404,59 @@ main {
     left: 0;
     width: 100%;
     height: 100%;
-    z-index: 4;
+    z-index: 2;
     pointer-events: none;
     overflow: visible;
     contain: strict;
 }
 
-.particle {
+/* Hibiscus flowers drifting down through the hero */
+.hibiscus {
     position: absolute;
-    width: 4px;
-    height: 4px;
-    background: var(--accent-color);
-    border-radius: 50%;
+    top: -14%;
+    left: var(--flower-left, 50%);
+    width: var(--flower-size, 22px);
+    height: var(--flower-size, 22px);
+    background: url("/images/hibiscus.svg") center / contain no-repeat;
     opacity: 0;
-    animation: particleFloat 8s infinite ease-in-out;
-    /* Prevent particle repaints from affecting layout */
+    pointer-events: none;
+    animation: hibiscusFall var(--fall-duration, 15s) linear infinite;
+    animation-delay: var(--fall-delay, 0s);
+    /* Prevent flower repaints from affecting layout */
     will-change: transform, opacity;
-    box-shadow: 0 0 6px rgba(232, 196, 104, 0.8);
+    filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.35));
 }
 
-@keyframes particleFloat {
+.flowers-paused .hibiscus {
+    animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .hibiscus {
+        display: none;
+    }
+}
+
+@keyframes hibiscusFall {
     0% {
         opacity: 0;
-        transform: translateY(0) translateX(0) scale(0);
+        transform: translate3d(0, 0, 0) rotate(0deg);
     }
-    10% {
-        opacity: 1;
-        transform: translateY(-20px) translateX(10px) scale(1);
+    8% {
+        opacity: var(--flower-opacity, 0.85);
+    }
+    35% {
+        transform: translate3d(var(--flower-sway, 24px), calc(var(--fall-distance, 100vh) * 0.35), 0) rotate(90deg);
+    }
+    65% {
+        transform: translate3d(calc(var(--flower-sway, 24px) * -0.7), calc(var(--fall-distance, 100vh) * 0.65), 0) rotate(230deg);
     }
     90% {
-        opacity: 1;
-        transform: translateY(-200px) translateX(50px) scale(1);
+        opacity: var(--flower-opacity, 0.85);
     }
     100% {
         opacity: 0;
-        transform: translateY(-220px) translateX(60px) scale(0);
+        transform: translate3d(calc(var(--flower-sway, 24px) * 0.4), var(--fall-distance, 100vh), 0) rotate(360deg);
     }
 }
 
@@ -2372,7 +2376,6 @@ section {
     font-size: 1.1rem;
     line-height: 1.8;
     color: var(--text-dark);
-    animation: fadeInUp 1s ease-out 0.8s both;
     letter-spacing: 0.3px;
 }
 
@@ -2382,7 +2385,6 @@ section {
     align-items: center;
     margin-top: 3rem;
     gap: 1.5rem;
-    animation: fadeInUp 1s ease-out 1s both;
 }
 
 /* Enhanced button transitions */
