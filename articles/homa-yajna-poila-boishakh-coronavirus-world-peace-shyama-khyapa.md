@@ -31,6 +31,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">On Poila Boishakh, Guru Shyama Khyapa performs a Homa Yajna at Shanti Kunja Ashram and says it is offered for a world suffering under the coronavirus pandemic and a fragile economy. He explains that the ashram already conducts a 1,000-day Mahamrityunjaya Yajna and that he continues his prayers without attachment to results, citing the Gita's teaching on duty. While he says human awareness is the only true protection against the virus, he warns that the greater danger is the coming economic collapse.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

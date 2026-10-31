@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Dr. Niranjan Bhattacharjee asks Guru Shyama Khyapa how a Gupta Sadhak can combine hidden practice with public education, and the Guru replies that he teaches only what ordinary people need while keeping his seed mantras and the supernatural power private. He says his inner practice continues even while he receives 50 to 100 visitors a day, by the grace of Mother Tara and Bamdev Baba. He then describes spiritually following his disciple Pagla Baba, who is walking nearly 1,000 kilometers to Kamakhya, and asks well-wishers along the route to help him.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
