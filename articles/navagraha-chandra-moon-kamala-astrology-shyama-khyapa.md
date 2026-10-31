@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains the Moon (Chandra) as the Mother in Hindu Shastra, its white color and pearl gemstone, and its presiding deity, Goddess Kamala, whom the Moon worships. He recounts Daksha's curse that causes the Moon to wane and ties lunar phases to ailments such as sinus problems and tuberculosis, recommending Monday rituals to Kamala alongside rare natural pearls. He also maps the nine planets to the nine Mahavidyas and warns that malefic influences on the Moon can disturb the mind.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
