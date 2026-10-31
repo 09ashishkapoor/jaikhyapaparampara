@@ -33,6 +33,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa warns that the earth is becoming devoid of God and that the deities are departing for their own realms, pointing to fading pilgrimage sites and a fifth Dham under construction in Digha as signs of the Kali Yuga. He describes the Puri Dandapati losing his authority and predicts a catastrophic event around 2025, while stating that Kali and Kalki have arrived. The conversation matters as his appeal to devotees to recognize the seriousness of the age, delivered despite his poor health.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

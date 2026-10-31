@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Swami Tejoshananda Giri, a saint from the Bholagiri Ashram in Haridwar, visits Guru Shyama Khyapa at Shantikunj and offers Sanskrit and Bengali chants to the Mother along with reflections on surrender, spiritual stumbling, and seeing the divine in everyone. He shares stories about his father's spiritual powers and a child who called to the Mother, and the narrator notes his lineage and his role as Joint Secretary of the Bholagiri Ashram. The meeting matters as a recorded exchange of devotion and blessing between two spiritual figures.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

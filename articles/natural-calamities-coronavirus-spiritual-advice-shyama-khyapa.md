@@ -31,6 +31,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains that deep excavation for construction releases ancient underground germs that medicine cannot identify, and he connects the coronavirus to this deep digging. He says he has stored spiritual power from major rituals for future natural disasters rather than spending it on individuals, and recommends burning neem, turmeric, and sun-dried rice while practicing yoga. He also claims the Ajna Chakra can forewarn him of disasters, citing his Kedarnath prediction, and warns that Mecca, Medina, and Somnath may be lost, framing the talk as a call for caution.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -30,6 +30,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa joins Dr. Nilanjan Bhattacharjee and environmentalist Sujit Kar to discuss COVID-19 as a new disease whose behavior remains poorly understood, stressing sustained public awareness and caution until a reliable vaccine arrives. Sujit Kar links the virus to climate and warns that warming ice sheets may release stored viruses, while Guru Shyama Khyapa calls COVID a form of biological warfare and urges harmony with nature, following doctors' advice, and trust in God. The discussion matters because it joins medical, ecological, and spiritual perspectives on a global crisis.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
