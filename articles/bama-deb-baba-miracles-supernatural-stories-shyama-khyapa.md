@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts two miracles he attributes to Bama-deb Baba: stopping a departing train so devotees could reach Tarapith, and resolving a Bangladeshi man's property case from afar after a month of silence. In the guru's telling, the stories show Baba caring for those who brought offerings and testing a devotee's patience before a court ruled in his favor. These accounts matter as his testimony to Baba's intervention in ordinary lives, from a train to a property case.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa responds to a viewer's poem by Rahul Pramanik about why we come and go, using it to reflect on life as an endless play of Nature or God. He cites Bengali poetry, including Ramprasad Sen's song of hope and deception, to explore the tug between hope and despair and the sense that someone watches and questions him. The exchange matters because the guru calls this questioning a way of realizing God that surpasses ritualistic worship.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
