@@ -27,6 +27,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">On the channel's first anniversary, Guru Shyama Khyapa answers devotee questions about death as a mystery tied to the five elements and the departure of breath, with a doctor distinguishing brain death from heart death. He describes Lord Krishna's worship of Ma Durga and says Bama Baba's grace came before Ma Tara's, comparing Bama Baba's cremation ground life with Sri Ramakrishna's Dakshineshwar setting and calling their sadhana equal. He calls the red moon an omen of bloodshed and distinguishes a Sadhu's eightfold path from formal Sannyas.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

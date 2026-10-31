@@ -34,6 +34,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa warns that El Niño is disrupting rain and that earthquakes, lightning, landslides, and tsunami threats mark a Great Cataclysm he says began in 2023 and will run until 2027. He calls 2025 the year of Mars, predicting massive bloodshed and death, and says nature is exacting revenge for exploitation with no way to escape. He also condemns the open sale of girls and boys in Bengal, arguing such moral decay invites destruction.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

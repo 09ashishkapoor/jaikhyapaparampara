@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains the daily evening Nam Sankirtan at the Tara temple, saying that chanting the Mother's name pleases her and carries universal significance, and that the ritual centers on songs to the Mother, Ramakrishna, and Bamakhepa before closing with Harinam Sankirtan. He says it is kept every day regardless of weather and that listening brings peace and spiritual merit. He also explains the evening puffed-rice offering, recalling Bamakhepa's love for it, while the conversation shows a humble kitchen preparing prasad without charging anyone.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
