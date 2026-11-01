@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guddu Maharaj Ji, described as the chief priest of the Saptarishi Aarti at Kashi Vishwanath Temple and addressed by the Guru as Mahant, visits Guru Shyama Khyapa and is moved to tears, saying he feels unworthy of the respect shown to him. He explains the significance of the Saptarishi Aarti and insists that devotion must come from the heart rather than forced donations, while the Guru says Lord Vishwanath sent him and recounts Maa Annapurna appearing to him at Manikarnika Ghat. The Guru also repeats his claim to be one of the Saptarishis.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

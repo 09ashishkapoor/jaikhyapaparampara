@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Responding to a follower's question about the Taliban takeover of Kabul, Guru Shyama Khyapa condemns the violence and the oppression of women, calling the Taliban's conduct barbaric and warning that the crisis threatens India and neighboring countries. He discusses the withdrawal of American troops, the halt in trade and Indian projects, the evacuation of Indians, and the danger he says Talibanism poses to regional peace. He insists that a spiritual leader must protest injustice and says silence in the face of such cruelty is a sin.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
