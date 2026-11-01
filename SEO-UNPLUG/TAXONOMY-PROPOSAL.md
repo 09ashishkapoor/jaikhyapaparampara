@@ -1,6 +1,6 @@
 # Taxonomy Proposal — Phase 1 controlled vocabulary
 
-> **Status: approved and implemented 2026-11-01.**
+> **Status: approved, implemented, and deployed 2026-11-01.**
 > Prepared 2026-11-01 from a clean local build (`npm run build:test`) over 1,205 articles.
 > Extraction was read-only; no article file, frontmatter, or transcript was modified.
 > See **Implementation record** below for what shipped and the three small deviations.
@@ -24,7 +24,7 @@ It does **not** touch article frontmatter, so the Phase 4 context workflow and i
 
 ## Implementation record (2026-11-01)
 
-Approved by the site owner, then shipped in one commit (`git log`). Verified against a clean build:
+Approved by the site owner, shipped in commit `d04baac`, and deployed 2026-11-01. Verified locally against a clean build and then on the live site:
 
 | Check | Result |
 |---|---|
@@ -33,9 +33,10 @@ Approved by the site owner, then shipped in one commit (`git log`). Verified aga
 | Tag pages | 2,225 still generated for navigation, all `noindex, follow` |
 | Tag directory | `/tags/` + 22 pages, `noindex, follow`, out of sitemap |
 | Hubs | 8, `index, follow`, counts unchanged (106 / 35 / 125 / 10 / 3 / 359 / 43 / 524) |
-| Articles | 1,205 untouched (`git diff -- articles` empty) |
+| Articles | 1,205 untouched (`git diff -- "articles/*.md"` empty) |
 | Category guard | unknown category fails the build, naming the file (verified with a throwaway article) |
 | Phase 4 | context status unchanged: 205 done, 757 eligible |
+| Live deploy | verified: sitemap 1,266 / 0 tags, tag pages `noindex`, hub `index`, 4 promoted tag URLs return **301** to their hubs |
 
 Deviations from the plan, all smaller than the alternative:
 

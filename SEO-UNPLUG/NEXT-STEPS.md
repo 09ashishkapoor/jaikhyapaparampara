@@ -15,11 +15,19 @@ Last updated: 2026-11-01
 | Context paragraphs done | **205** |
 | Eligible remaining | **757** |
 | Batches of 5 remaining | **152** |
-| Phase 1 taxonomy | **Implemented 2026-11-01 — awaiting deploy** |
+| Phase 1 taxonomy | **Deployed and verified live 2026-11-01** |
 
 The Phase 4 click workflow is working. It drafts 5 articles at a time, opens a review file, applies the reviewed batch, runs the guard, and archives the batch.
 
-**Phase 1 is implemented and committed.** Sitemap is down to 1,266 URLs, tag pages are `noindex, follow`, and `_data/topics.js` is the single source of truth. Confirm with:
+**Phase 1 is live.** Live checks on 2026-11-01 after deploy:
+
+- `sitemap.xml` → 1,266 URLs, zero `/tags/`.
+- `/tags/kali/` → `noindex, follow`.
+- `/articles/topics/prophecy-world-events/` → `index, follow`.
+- The four promoted tag URLs 301 to their hubs.
+- Homepage chips show the 8 labels (e.g. `Temple of Knowledge` → `Sacred Texts`).
+
+Confirm locally with:
 
 ```bash
 git log --oneline -3
@@ -33,18 +41,15 @@ Expected: build passes, `205` done, `757` eligible.
 
 ## What to do next, in order
 
-### 1. Deploy Phase 1 and verify in the wild
+### 1. Set up GSC measurement for the new structure
 
-Deploy, then check on the live site:
+Deploy is done. In Search Console:
 
-- `https://jaikhyapaparampara.com/sitemap.xml` → 1,266 URLs, zero `/tags/` URLs.
-- Any `/tags/...` page → `<meta name="robots" content="noindex, follow">`.
-- A hub, e.g. `/articles/topics/prophecy-world-events/` → `index, follow`.
-- Resubmit the sitemap in GSC; use URL Inspection on one tag page and one hub.
-
-The redirects (`/tags/prophecy/`, `/tags/guru-stories/`, `/tags/spiritual-teachings/`, `/tags/sacred-texts/`) depend on Cloudflare Pages applying `_redirects`; verify one of them after deploy.
-
-Before deploying, run `npm run build:test` and eyeball `_site/sitemap.xml`.
+- Resubmit `https://jaikhyapaparampara.com/sitemap.xml`.
+- URL Inspection: one tag page (expect noindex), one hub (expect indexable).
+- Create URL-prefix groups for `/articles/`, `/tags/`, and `/articles/topics/`.
+- Watch **article** indexed count, not the aggregate. "Excluded by noindex" will jump and total indexed will fall — that is the cleanup, not a regression.
+- Recheck in 2–4 weeks; the tag URLs will take time to leave the index.
 
 ### 2. Continue Phase 4 in the background
 
@@ -118,7 +123,7 @@ If you want clean source files instead of a build-time alias map:
 
 ## One-paragraph session opener
 
-> Read `SEO-UNPLUG/NEXT-STEPS.md`, `SEO-UNPLUG/README.md`, and `SEO-UNPLUG/PHASE-4-BATCH.md`. Continue from the current state: Phase 1 taxonomy is implemented (sitemap 1,266 URLs, tag pages noindex), 205 context paragraphs done, 757 eligible, working tree clean. Next: deploy and verify Phase 1 in GSC, then keep Phase 4 clicks running independently, then Phase 3 hub copy. Do not bulk-edit article frontmatter.
+> Read `SEO-UNPLUG/NEXT-STEPS.md`, `SEO-UNPLUG/README.md`, and `SEO-UNPLUG/PHASE-4-BATCH.md`. Continue from the current state: Phase 1 taxonomy is deployed and verified live (sitemap 1,266 URLs, tag pages noindex, 4 promoted tag 301s working), 205 context paragraphs done, 757 eligible, working tree clean. Next: set up GSC URL-group measurement, keep Phase 4 clicks running independently, then Phase 3 hub copy. Do not bulk-edit article frontmatter.
 
 ---
 
