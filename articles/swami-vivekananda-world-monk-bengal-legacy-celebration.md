@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">On the eve of Swami Vivekananda’s birthday, Gurudev criticizes garland-and-seminar observances that ignore the monk’s message of fearlessness and service, saying Bengal has treated a world monk like a beggar in its own house. He recalls Vivekananda’s devotion to Ramakrishna, the unmerited grace he received, and his instructions to perform Durga and Kumari Puja, then describes the restrained celebration planned at Shantikunj. The conversation connects Vivekananda’s ideals to the present conduct of political leaders and to Western parents’ growing doubts about hedonism.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

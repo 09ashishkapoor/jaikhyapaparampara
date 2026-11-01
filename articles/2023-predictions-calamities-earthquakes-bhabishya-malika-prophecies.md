@@ -31,6 +31,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Interviewed about his earlier warning, Gurudev presents the Bhabishya Malika’s forecast that 600 million people will vanish in 2023 through a new disease, alongside earthquakes that he says will destroy Badrinath and Kedarnath. He also foresees food shortages, economic collapse, drying rivers, and meteor showers, and calls for chanting the Hare Krishna mantra and worshipping Adya Shakti Mahamaya. The conversation ends with practical appeals for masks, sanitation, and avoided crowds, which Gurudev frames as caution rather than fear.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
