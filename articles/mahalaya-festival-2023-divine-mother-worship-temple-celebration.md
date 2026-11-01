@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa announces that the 2023 Mahalaya festival will be held on October 13, starting at 10 PM and continuing until dawn on a day with a solar eclipse. He describes a thirty-two-year tradition of rituals including Mora Puja and Chita Puja, notes that offerings became strictly vegetarian after a Maha Mrityunjaya Yajna, and says the roughly one-lakh-rupee cost is met by voluntary devotee contributions. Because of health concerns his participation may be limited, but he invites devotees, friends, legislators, and people of good faith to attend.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

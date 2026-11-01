@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts stories of Bama-deb Baba, the 'Living Shiva of Tarapeeth,' including a disciple's paralyzed hand, a starving man forgiven for stealing, a boy protected from fire during Baba's meditation, and Baba's vast appetite and youthful mastery of Kriya Yoga. He presents these miracles as signs of Baba's compassion and control over body and mind, arguing that true power is shown through silent service rather than display. Together they show Baba as a human embodiment of Shiva and a model of the highest spiritual realization.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

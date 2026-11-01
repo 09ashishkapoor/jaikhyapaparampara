@@ -27,6 +27,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains that on Durga Sashti the Mother arrives from Kailash with her family and is worshipped in the Billva Shakha, while the Kola Bou and nine-plant Nabapatrika are prepared and later given the Mahasnan on Saptami. He identifies each plant with a divine form and challenges popular beliefs about Ganesha's marriage and Durga's children, saying the family represents cosmic powers and that Durga Puja honors the Primal Shakti. He attributes Bengal's Shashti start to a lack of people and resources for the nine-day ritual.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

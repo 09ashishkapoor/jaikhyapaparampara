@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa warns that people are posing online as his agents or tantrics and soliciting money in his name, including through bank transfers. He says the temple charges no fees for spiritual guidance, that money obtained by deception would pollute the place, and that devotees should contact him directly or come in person instead of sending funds to unknown accounts. He says he may withdraw from public contact if the fraud continues and asks listeners to spread the warning and report such schemes to the authorities.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
