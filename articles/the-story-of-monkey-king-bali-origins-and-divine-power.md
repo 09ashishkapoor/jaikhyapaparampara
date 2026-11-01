@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa narrates the mystical origins of Bali and Sugriva, born from divine energies after Brahma's tear became the Vanara Riksha and a river transformed him into a woman. He describes Bali's golden necklace, which took half an opponent's strength, and the events that led to his conflict with Sugriva and his death at Ram's hands. He also recounts the belief that Bali was reborn as the hunter Jara, whose arrow killed Krishna, offering a fuller portrait of a character usually remembered only for his death.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

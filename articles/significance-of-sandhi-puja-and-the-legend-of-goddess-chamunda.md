@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains that Sandhi Puja is a 48-minute transition—24 minutes from the end of Ashtami and 24 from the start of Navami—a 'No Man's Land' where only Adya-shakti Mahamaya receives offerings. He recounts the legend of Chamunda, who killed Chanda, Munda, and Raktabija by consuming every drop of the demon's blood. He also says Anjali is not for oneself alone but for world peace and the welfare of humanity, making the ritual a shared prayer.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
