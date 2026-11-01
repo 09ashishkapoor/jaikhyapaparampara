@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa praises a disciple from Tamluk in East Midnapore for performing Guru-Puja with sincerity, saying true Guru-Bhakti lies in action and in honoring the spiritual light rather than the physical form. Asked why seekers arrive unannounced from places such as Cooch Behar, Assam, and Tripura, he credits the ashram's constant worship and the Mother's grace with making it a spiritual beacon. He notes asking a group from Cooch Behar to return tomorrow because he observes silence and intense prayer on Amavasya, and hopes the ashram remains a refuge.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
