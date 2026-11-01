@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Sushona Banerjee, a devotee from Behala, describes her intense worship of the Mother, including a night ritual at Ma Moulakhi’s temple and the Mother’s instruction to apply vermilion to her own foot. Maharaj responds that spiritual attainment, or Siddhi, is recognized in the feet and that a seeker should follow her own conviction rather than imitate others. He also stresses the necessity of a guru, saying the guru stands above even the gods.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

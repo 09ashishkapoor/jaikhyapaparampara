@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">During an illness, Guru Shyama Khyapa is visited by Dr. Nilanjan Bhattacharya, who says he cannot treat the Guru by ordinary rules. Guru Shyama Khyapa responds that science must be respected, that doctors are God’s messengers, and that he tells everyone to go to a doctor first and come to him only if medicine fails. The conversation also touches on Rekhi Maa’s distant healing and the Guru’s trust that he will recover.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
