@@ -14,30 +14,24 @@ test("homepage discovery uses metadata while full-text search keeps article cont
 	expect(homepage).not.toContain('fetch("/search-index.json")');
 });
 
-test("every sitemap tag has a crawlable link from the paginated directory", async ({ request }) => {
+test("tag pages stay out of the sitemap and are noindex navigation", async ({ request }) => {
 	const sitemap = await request.get("/sitemap.xml");
 	expect(sitemap.status()).toBe(200);
 	const urls = [...(await sitemap.text()).matchAll(/<url>\s*<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
 	expect(new Set(urls).size).toBe(urls.length);
-	const tagUrls = urls.filter((url) => /\/tags\/[^/]+\/$/.test(url));
-	const directoryUrls = urls.filter((url) => /\/tags\/(?:page\/\d+\/)?$/.test(url));
-	expect(directoryUrls.length).toBeGreaterThan(1);
-	const linkedTags = [];
-	for (const url of directoryUrls) {
-		const response = await request.get(new URL(url).pathname);
+	expect(urls.filter((url) => url.startsWith(`${origin}/tags/`))).toEqual([]);
+	expect(urls.filter((url) => /\/articles\/topics\/[^/]+\/$/.test(url)).length).toBe(8);
+
+	for (const pathname of ["/tags/", "/tags/page/2/"]) {
+		const response = await request.get(pathname);
 		expect(response.status()).toBe(200);
 		const html = await response.text();
-		expect(html).toContain(`<link rel="canonical" href="${url}">`);
-		expect(html).toContain('<meta name="robots" content="index, follow">');
-		const links = [...html.matchAll(/class="tags-index-card" href="([^"]+)"/g)].map((m) => origin + m[1]);
+		expect(html).toContain('<meta name="robots" content="noindex, follow">');
+		expect(html).toContain(`<link rel="canonical" href="${origin}${pathname}">`);
+		const links = [...html.matchAll(/class="tags-index-card" href="([^"]+)"/g)].map((m) => m[1]);
 		expect(links.length).toBeGreaterThan(0);
 		expect(links.length).toBeLessThanOrEqual(100);
-		linkedTags.push(...links);
-		for (const otherUrl of directoryUrls.filter((item) => item !== url)) {
-			expect(html).toContain(`href="${new URL(otherUrl).pathname}"`);
-		}
 	}
-	expect(linkedTags.sort()).toEqual(tagUrls.sort());
 });
 
 test("sitemap includes every self-canonical article archive page", async ({ request }) => {
@@ -79,14 +73,20 @@ test("paginated article archives have distinct descriptions", async ({ request }
 	}
 });
 
-test("small tag archives and archive pagination allow indexing", async ({ request }) => {
-	for (const pathname of ["/tags/vedanta/", "/tags/shanti-kunja-ashram/", "/articles/2/", "/articles/a-z/5/"]) {
+test("tag archives are noindex navigation while article archives stay indexable", async ({ request }) => {
+	for (const pathname of ["/tags/vedanta/", "/tags/shanti-kunja-ashram/"]) {
+		const response = await request.get(pathname);
+		expect(response.status()).toBe(200);
+		const html = await response.text();
+		expect(html).toContain('<meta name="robots" content="noindex, follow">');
+		expect(html).toContain(`<link rel="canonical" href="${origin}${pathname}">`);
+	}
+	for (const pathname of ["/articles/2/", "/articles/a-z/5/"]) {
 		const response = await request.get(pathname);
 		expect(response.status()).toBe(200);
 		const html = await response.text();
 		expect(html).toContain('<meta name="robots" content="index, follow">');
 		expect(html).toContain(`<link rel="canonical" href="${origin}${pathname}">`);
-		expect(response.headers()["x-robots-tag"] || "").not.toContain("noindex");
 	}
 	const article = await request.get("/articles/homa-yajna-poila-boishakh-coronavirus-world-peace-shyama-khyapa/");
 	expect(article.status()).toBe(200);

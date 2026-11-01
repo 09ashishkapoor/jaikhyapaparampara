@@ -248,7 +248,7 @@ eleventyComputed:
             <li class="article-row">
                 <a href="{{ article.url }}" class="article-row-link">
                     <div class="article-row-header">
-                        <span class="article-row-category">{{ article.data.category }}</span>
+                        <span class="article-row-category">{{ article.data.category | categoryLabel }}</span>
                         <span class="article-row-meta">{{ article.date | dateDisplay }}{% if article.data.readingTime %} · {{ article.data.readingTime }} min{% endif %}</span>
                     </div>
                     <h2 class="article-row-title">{{ article.data.title }}</h2>

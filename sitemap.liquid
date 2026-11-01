@@ -106,26 +106,5 @@ eleventyExcludeFromCollections: true
   </url>
   {% endfor %}
 
-  <!-- Topic directory pages -->
-{% for directoryPage in collections.tagDirectoryPages %}
-  <url>
-    <loc>https://jaikhyapaparampara.com{{ directoryPage.url }}</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-{% endfor %}
-
-  <!-- Tag Pages -->
-  {% for tag in collections.allTags %}
-  {% assign posts = collections.all[tag] %}
-  {% assign postsSize = posts | size %}
-  {% if postsSize > 0 %}
-  {% assign tagLastmod = gitLastmod[posts[0].inputPath] %}<url>
-    <loc>https://jaikhyapaparampara.com/tags/{{ tag | slugify }}/</loc>
-    <lastmod>{{ tagLastmod | default: posts[0].date | isoDate }}</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  {% endif %}
-  {% endfor %}
+  <!-- Tag pages are navigation only: noindex, follow, and never in the sitemap. -->
 </urlset>

@@ -4,6 +4,7 @@ pagination:
   size: 1
   alias: tag
 layout: base
+robotsMeta: "noindex, follow"
 permalink: /tags/{{ tag | slugify }}/
 ---
 
@@ -67,8 +68,8 @@ permalink: /tags/{{ tag | slugify }}/
         <span style="color: var(--accent-color); font-weight: bold; margin-right: 10px; align-self: center;">Explore Topics:</span>
         <a href="/articles/" class="tag-filter">All</a>
         <a href="/tags/gupta-sadhak-shyamakhyapa/" class="tag-filter {% if tag == 'Gupta Sadhak Shyamakhyapa' %}active{% endif %}" style="border-color: var(--accent-bright); background: rgba(232, 196, 104, 0.1);">Shyama Khyapa</a>
-        <a href="/tags/guru-stories/" class="tag-filter {% if tag == 'Guru Stories' %}active{% endif %}">Guru Stories</a>
-        <a href="/tags/sacred-texts/" class="tag-filter {% if tag == 'Sacred Texts' %}active{% endif %}">Sacred Texts</a>
+        <a href="/articles/topics/guru-stories-devotee-lives/" class="tag-filter">Guru Stories</a>
+        <a href="/articles/topics/sacred-texts-scriptures/" class="tag-filter">Sacred Texts</a>
         <a href="/tags/philosophy/" class="tag-filter {% if tag == 'Philosophy' %}active{% endif %}">Philosophy</a>
         <a href="/tags/sadhana/" class="tag-filter {% if tag == 'Sadhana' %}active{% endif %}">Sadhana</a>
         <a href="/tags/bhairava/" class="tag-filter {% if tag == 'Bhairava' %}active{% endif %}">Bhairava</a>
@@ -78,7 +79,7 @@ permalink: /tags/{{ tag | slugify }}/
     <div class="articles-grid">
         {% for article in taglist %}
         <div class="article-card">
-            <span class="article-card-category">{{ article.data.category }}</span>
+            <span class="article-card-category">{{ article.data.category | categoryLabel }}</span>
             <h2 class="article-card-title">
                 <a href="{{ article.url }}">{{ article.data.title }}</a>
             </h2>

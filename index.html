@@ -1656,7 +1656,7 @@
             <a href="{{ article.url }}" class="hp-recent-card">
               <div class="hp-recent-meta">
                 <span class="hp-recent-category"
-                  >{{ article.data.category }}</span
+                  >{{ article.data.category | categoryLabel }}</span
                 >
                 <span>{{ article.date | dateDisplay }}</span>
               </div>
@@ -2763,7 +2763,7 @@
             escHTML(today) +
             "</p>" +
             '<span class="hp-spotlight-category">' +
-            escHTML(a.category) +
+            escHTML(a.categoryLabel || a.category) +
             "</span>" +
             '<h3 class="hp-spotlight-title">' +
             escHTML(a.title) +

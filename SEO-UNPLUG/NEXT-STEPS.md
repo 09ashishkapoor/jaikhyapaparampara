@@ -15,35 +15,36 @@ Last updated: 2026-11-01
 | Context paragraphs done | **205** |
 | Eligible remaining | **757** |
 | Batches of 5 remaining | **152** |
-| Last commit | `d2616c7 Add transcript context to 5 articles` |
+| Phase 1 taxonomy | **Implemented 2026-11-01 — awaiting deploy** |
 
 The Phase 4 click workflow is working. It drafts 5 articles at a time, opens a review file, applies the reviewed batch, runs the guard, and archives the batch.
 
-**Working tree is clean.** The 20 paragraphs from the last four click batches are committed. To confirm:
+**Phase 1 is implemented and committed.** Sitemap is down to 1,266 URLs, tag pages are `noindex, follow`, and `_data/topics.js` is the single source of truth. Confirm with:
 
 ```bash
-git status --short
+git log --oneline -3
+npm run build:test
 python scripts/transcript_context.py status
 ```
 
-Expected: clean tree, `205` done, `757` eligible.
-
-**Phase 1 has a proposal ready for approval: [TAXONOMY-PROPOSAL.md](TAXONOMY-PROPOSAL.md).** Read that first; implementation starts only after it is approved.
+Expected: build passes, `205` done, `757` eligible.
 
 ---
 
 ## What to do next, in order
 
-### 1. Approve or edit the Phase 1 taxonomy proposal
+### 1. Deploy Phase 1 and verify in the wild
 
-Open `SEO-UNPLUG/TAXONOMY-PROPOSAL.md`. It contains the measured state, the 8-topic vocabulary, the 28-value category alias map, the tag `noindex` policy, four 301 candidates, and an approval checklist.
+Deploy, then check on the live site:
 
-Nothing is applied yet. Approve it (or edit it in place), then implement:
+- `https://jaikhyapaparampara.com/sitemap.xml` → 1,266 URLs, zero `/tags/` URLs.
+- Any `/tags/...` page → `<meta name="robots" content="noindex, follow">`.
+- A hub, e.g. `/articles/topics/prophecy-world-events/` → `index, follow`.
+- Resubmit the sitemap in GSC; use URL Inspection on one tag page and one hub.
 
-- `_data/topics.js` becomes the single source of truth.
-- Unknown category fails the build.
-- Tag pages become `noindex, follow` and leave the sitemap.
-- Sitemap drops from 3,514 to ≈1,266 URLs.
+The redirects (`/tags/prophecy/`, `/tags/guru-stories/`, `/tags/spiritual-teachings/`, `/tags/sacred-texts/`) depend on Cloudflare Pages applying `_redirects`; verify one of them after deploy.
+
+Before deploying, run `npm run build:test` and eyeball `_site/sitemap.xml`.
 
 ### 2. Continue Phase 4 in the background
 
@@ -67,7 +68,7 @@ Track **article** indexed count separately. The aggregate number mixes all three
 
 ### 4. Phase 3 — hub copy and internal links
 
-After the vocabulary is approved:
+After Phase 1 is live:
 
 - Write the editorial intro/overview for each hub.
 - Link every hub to its cluster articles and back.
@@ -89,7 +90,8 @@ If you want clean source files instead of a build-time alias map:
 - The guard is `python .agents/skills/transcript-context/scripts/guard.py <articles...>`.
 - Phase 4 apply must be reviewed batch by batch. Do not run 757 articles unreviewed.
 - Do not bulk-edit `category` frontmatter while Phase 4 is active.
-- Do not deploy Phase 1 without reviewing the sitemap and `noindex` changes.
+- Keep tag pages `noindex, follow` and out of `sitemap.liquid`; that is the Phase 1 policy, not a temporary experiment.
+- New articles can only use a category from `_data/topics.js`; the build fails otherwise.
 - Only 5 context paragraphs per batch; the default is deliberate.
 
 ---
@@ -99,7 +101,8 @@ If you want clean source files instead of a build-time alias map:
 | File | Purpose |
 |---|---|
 | `SEO-UNPLUG/README.md` | Full long-term plan and rationale |
-| `SEO-UNPLUG/TAXONOMY-PROPOSAL.md` | **Phase 1 vocabulary proposal — awaiting approval** |
+| `SEO-UNPLUG/TAXONOMY-PROPOSAL.md` | Phase 1 vocabulary — implemented 2026-11-01 |
+| `_data/topics.js` | **Single source of truth** for topics + category aliases |
 | `SEO-UNPLUG/PHASE-4-BATCH.md` | Phase 4 command reference |
 | `SEO-UNPLUG/click/README.md` | Click workflow |
 | `SEO-UNPLUG/NEXT-STEPS.md` | This file |
@@ -115,7 +118,7 @@ If you want clean source files instead of a build-time alias map:
 
 ## One-paragraph session opener
 
-> Read `SEO-UNPLUG/NEXT-STEPS.md`, `SEO-UNPLUG/README.md`, and `SEO-UNPLUG/PHASE-4-BATCH.md`. Continue from the current state: 205 context paragraphs done, 757 eligible, working tree clean, Phase 1 proposal waiting in `SEO-UNPLUG/TAXONOMY-PROPOSAL.md`. If the proposal is approved, implement it; otherwise keep Phase 4 clicks running independently. Do not bulk-edit article frontmatter.
+> Read `SEO-UNPLUG/NEXT-STEPS.md`, `SEO-UNPLUG/README.md`, and `SEO-UNPLUG/PHASE-4-BATCH.md`. Continue from the current state: Phase 1 taxonomy is implemented (sitemap 1,266 URLs, tag pages noindex), 205 context paragraphs done, 757 eligible, working tree clean. Next: deploy and verify Phase 1 in GSC, then keep Phase 4 clicks running independently, then Phase 3 hub copy. Do not bulk-edit article frontmatter.
 
 ---
 

@@ -1,6 +1,7 @@
 module.exports = (eleventyConfig) => {
 	const fs = require("fs");
 	const path = require("path");
+	const { topics: browseGroupDefinitions, categoryAliases } = require("./_data/topics.js");
 
 	function syncReadmeArticleCount() {
 		try {
@@ -99,6 +100,8 @@ module.exports = (eleventyConfig) => {
 			.replace(/</g, "&lt;")
 			.replace(/>/g, "&gt;");
 	});
+
+	eleventyConfig.addFilter("categoryLabel", categoryLabel);
 
 	eleventyConfig.addFilter("articleTopicUrl", (groups, currentUrl) => {
 		if (!groups || !currentUrl) return "";
@@ -210,7 +213,9 @@ module.exports = (eleventyConfig) => {
 	);
 
 	function getArticles(collectionApi) {
-		return collectionApi.getFilteredByGlob("articles/*.md");
+		const articles = collectionApi.getFilteredByGlob("articles/*.md");
+		validateTaxonomy(articles);
+		return articles;
 	}
 
 	function normalizeCategory(value) {
@@ -218,6 +223,61 @@ module.exports = (eleventyConfig) => {
 			.replace(/^['"]+|['"]+$/g, "")
 			.trim();
 	}
+
+	const labelBySlug = new Map(
+		browseGroupDefinitions.map((topic) => [topic.slug, topic.label]),
+	);
+
+	function categoryTopicSlug(value) {
+		return categoryAliases[normalizeCategory(value).toLowerCase()] || "";
+	}
+
+	function categoryLabel(value) {
+		return labelBySlug.get(categoryTopicSlug(value)) || normalizeCategory(value);
+	}
+
+	function validateTopics() {
+		const slugs = new Set();
+		for (const topic of browseGroupDefinitions) {
+			for (const field of ["slug", "name", "label"]) {
+				if (!topic[field]) {
+					throw new Error(`_data/topics.js: topic is missing "${field}"`);
+				}
+			}
+			if (slugs.has(topic.slug)) {
+				throw new Error(`_data/topics.js: duplicate topic slug "${topic.slug}"`);
+			}
+			slugs.add(topic.slug);
+		}
+		for (const [alias, slug] of Object.entries(categoryAliases)) {
+			if (!slugs.has(slug)) {
+				throw new Error(
+					`_data/topics.js: category alias "${alias}" points at unknown topic "${slug}"`,
+				);
+			}
+		}
+	}
+
+	function validateTaxonomy(articles) {
+		const problems = [];
+		for (const article of articles) {
+			const raw = normalizeCategory(article.data.category);
+			if (!raw) {
+				problems.push(`${article.inputPath}: missing category`);
+			} else if (!categoryTopicSlug(raw)) {
+				problems.push(
+					`${article.inputPath}: unknown category "${raw}" (add it to categoryAliases in _data/topics.js)`,
+				);
+			}
+		}
+		if (problems.length) {
+			throw new Error(
+				`Taxonomy guard: ${problems.length} article(s) outside the controlled vocabulary\n${problems.join("\n")}`,
+			);
+		}
+	}
+
+	validateTopics();
 
 	function slugifyValue(str) {
 		return String(str || "")
@@ -239,10 +299,10 @@ module.exports = (eleventyConfig) => {
 	}
 
 	function getArticleTags(article) {
-		return (article.data.tags || [])
-			.filter((tag) => typeof tag === "string" && tag !== "articles")
-			.map((tag) => tag.trim())
-			.filter(Boolean);
+		const tags = Array.isArray(article.data.tags) ? article.data.tags : [];
+		return tags
+			.map((tag) => String(tag == null ? "" : tag).trim())
+			.filter((tag) => tag && tag !== "articles");
 	}
 
 	function sortArticlesByDateDesc(articles) {
@@ -297,9 +357,9 @@ module.exports = (eleventyConfig) => {
 		const counts = new Map();
 
 		for (const article of articles) {
-			const category = normalizeCategory(article.data.category);
-			if (!category) continue;
-			counts.set(category, (counts.get(category) || 0) + 1);
+			const label = categoryLabel(article.data.category);
+			if (!label) continue;
+			counts.set(label, (counts.get(label) || 0) + 1);
 		}
 
 		return Array.from(counts.entries())
@@ -312,343 +372,7 @@ module.exports = (eleventyConfig) => {
 			.map(([name]) => name);
 	}
 
-	const browseGroupDefinitions = [
-		{
-			slug: "prophecy-world-events",
-			name: "Prophecy and World Events",
-			description:
-				"Predictions, warnings, and spiritual readings of world events, social upheaval, and cycles of time.",
-			overview: [
-				"This hub gathers prophecy, warning, and world-event articles for readers who want to understand how Gurudev Shyama Khyapa frames social upheaval, disasters, pandemics, and cycles of time through a devotional lens.",
-				"Use it as a careful study path: the articles may discuss intense subjects, but the page keeps the context spiritual rather than presenting medical, safety, political, or disaster-preparedness advice.",
-			],
-			keyIdeas: [
-				"Kali Yuga: the current age of decline and spiritual testing in Hindu cosmology.",
-				"Bhabishya Malika: a prophetic textual tradition often discussed in relation to future events.",
-				"Kalki: the future avatara associated with the restoration of dharma.",
-				"Pralay: dissolution or upheaval, interpreted here within devotional teaching.",
-			],
-			relatedEntitySlugs: [
-				"guru-shyama-khyapa",
-				"khyapa-parampara",
-				"adya-mahakali",
-			],
-			exactCategories: [
-				"prophecy",
-				"prophecies",
-				"prophecy & science",
-				"prophecy & spirituality",
-				"spiritual warnings",
-			],
-			keywords: [
-				"prophecy",
-				"predictions",
-				"future",
-				"world war",
-				"earthquake",
-				"covid",
-				"taliban",
-				"afghanistan",
-				"climate",
-				"virus",
-				"warning",
-				"kali yuga",
-				"kalki",
-				"bhabishya",
-				"cataclysm",
-				"pralay",
-				"end times",
-				"mars",
-				"eclipse",
-			],
-		},
-		{
-			slug: "rituals-worship-festivals",
-			name: "Rituals, Worship and Festivals",
-			description:
-				"Puja, homa, sacred observances, and ceremonial guidance for devotional practice.",
-			overview: [
-				"This hub is for devotees looking for puja, homa, observance, and festival articles connected with Ma Kali, Bhairava, Annapurna, Ambubachi, Navratri, Shivratri, and related sacred days.",
-				"The material is organized for discovery and study. Where articles describe ritual detail, readers should follow their own tradition, guru guidance, family practice, and local safety norms rather than treating a web article as personal instruction.",
-			],
-			keyIdeas: [
-				"Puja: devotional worship offered through mantra, materials, attention, and reverence.",
-				"Homa or yagya: sacred fire offering performed according to lineage and ritual rules.",
-				"Ambubachi: a Shakti observance linked with the creative power of the Goddess and nature.",
-				"Vrata: a vow, discipline, or observance undertaken with devotional intent.",
-			],
-			relatedEntitySlugs: [
-				"kali-ma-kali",
-				"adya-mahakali",
-				"bhairava",
-				"kalabhairava",
-				"shantikunj",
-			],
-			exactCategories: ["rituals & yagyas", "prayers and chants"],
-			keywords: [
-				"puja",
-				"homa",
-				"homam",
-				"yagya",
-				"yajna",
-				"ritual",
-				"worship",
-				"festival",
-				"ashtami",
-				"navratri",
-				"durga puja",
-				"kali puja",
-				"shivratri",
-				"annapurna",
-				"falaharini",
-				"ambubachi",
-				"tritiya",
-			],
-		},
-		{
-			slug: "sacred-texts-scriptures",
-			name: "Sacred Texts and Scriptures",
-			description:
-				"Stotrams, kavachams, sahasranamas, and scripture-focused articles meant for study and recitation.",
-			overview: [
-				"This hub collects scripture-oriented resources: sahasranamas, kavachams, stotrams, meanings, chanting references, and articles that help readers approach sacred texts with steadiness.",
-				"It is useful for visitors who came for free texts as well as readers comparing article commentary with downloadable books, audio, and other Temple of Knowledge resources on the home page.",
-			],
-			keyIdeas: [
-				"Sahasranama: a thousand-name hymn or litany for contemplation and recitation.",
-				"Kavacham: a protective hymn traditionally recited as spiritual armor.",
-				"Stotram: a hymn of praise addressed to a deity or sacred principle.",
-				"Meaning and recitation: textual study is paired with devotion, pronunciation, and intent.",
-			],
-			relatedEntitySlugs: [
-				"kali-ma-kali",
-				"adya-mahakali",
-				"bhairava",
-				"kalabhairava",
-				"khyapa-parampara",
-			],
-			exactCategories: ["temple of knowledge"],
-			keywords: [
-				"stotram",
-				"stotra",
-				"kavach",
-				"kavacham",
-				"ashtakam",
-				"sahasranama",
-				"lyrics",
-				"meaning",
-				"scripture",
-				"gita",
-				"veda",
-				"upanishad",
-				"commentary",
-			],
-		},
-		{
-			slug: "sadhana-tantra-mantra",
-			name: "Sadhana, Tantra and Mantra",
-			description:
-				"Practices, mantra guidance, tantra teachings, and articles centered on inner discipline and sacred method.",
-			overview: [
-				"This hub is for seekers studying sadhana, mantra, tantra, diksha, japa, and the discipline required for Kali and Bhairava-centered practice within the Khyapa Parampara context.",
-				"The page keeps practice articles connected without flattening lineage boundaries. Readers should treat advanced or tantric material with humility and seek qualified guidance before attempting practices.",
-			],
-			keyIdeas: [
-				"Sadhana: sustained spiritual discipline undertaken with devotion and method.",
-				"Mantra: sacred sound or formula used for remembrance, japa, and inner alignment.",
-				"Diksha: initiation or transmission within a living lineage or teacher relationship.",
-				"Bhairava and Kali sadhana: fierce devotional paths that emphasize surrender, courage, and discipline.",
-			],
-			relatedEntitySlugs: [
-				"kali-ma-kali",
-				"adya-mahakali",
-				"bhairava",
-				"kalabhairava",
-				"guru-shyama-khyapa",
-			],
-			exactCategories: ["sadhana"],
-			keywords: [
-				"sadhana",
-				"tantra",
-				"mantra",
-				"yantra",
-				"chakra",
-				"kundalini",
-				"diksha",
-				"japa",
-				"upasana",
-				"bhairava sadhana",
-				"kali sadhana",
-				"agni chakra",
-				"vairagya",
-			],
-		},
-		{
-			slug: "sacred-places-pilgrimage",
-			name: "Sacred Places and Pilgrimage",
-			description:
-				"Temples, cremation grounds, pilgrimages, and location-based teachings tied to sacred geography.",
-			overview: [
-				"This hub organizes articles about sacred geography: Tarapith, Kamakhya, Kashi, Shantikunj, cremation grounds, temples, Shakti Peethas, and pilgrimage encounters.",
-				"It is meant for readers tracing the places that recur across the articles and for devotees who want location-based stories, not for travel logistics, booking advice, or official temple information.",
-			],
-			keyIdeas: [
-				"Tarapith: a major Shakti and Tara pilgrimage center associated with Bama Khepa.",
-				"Kamakhya: a central Shakti Peetha and living tantric pilgrimage site in Assam.",
-				"Shantikunj: the Parampara-associated devotional center appearing in many articles.",
-				"Smashan: cremation-ground symbolism tied to Kali, Tara, renunciation, and impermanence.",
-			],
-			relatedEntitySlugs: ["tarapith", "kamakhya", "shantikunj", "bama-khepa"],
-			exactCategories: ["sacred places"],
-			keywords: [
-				"tarapith",
-				"tarapeeth",
-				"kamakhya",
-				"kashi",
-				"varanasi",
-				"temple",
-				"shakti peeth",
-				"pilgrimage",
-				"shantikunj",
-				"ujjain",
-				"vindhyachal",
-				"cremation ground",
-				"smashan",
-				"jyotirlinga",
-			],
-		},
-		{
-			slug: "guru-stories-devotee-lives",
-			name: "Guru Stories and Devotee Lives",
-			description:
-				"Stories, testimonies, healing accounts, and life events centered on Gurudev and devotees.",
-			overview: [
-				"This hub brings together stories of Gurudev Shyama Khyapa, devotees, disciples, blessings, journeys, celebrations, healing testimony, and remembered experiences from the Parampara.",
-				"It is designed for readers who learn through lived examples. Accounts are preserved as devotional testimony and should be read with respect for the people, context, and lineage behind each story.",
-			],
-			keyIdeas: [
-				"Guru bhakti: devotion to the teacher as a path of surrender and transformation.",
-				"Testimony: a devotee account of experience, grace, healing, or change.",
-				"Parampara: the living stream of transmission, relationship, memory, and teaching.",
-				"Seva: service offered to guru, deity, community, and sacred work.",
-			],
-			relatedEntitySlugs: [
-				"guru-shyama-khyapa",
-				"bama-khepa",
-				"khyapa-parampara",
-				"shantikunj",
-			],
-			exactCategories: [
-				"guru stories",
-				"miracle stories",
-				"healing testimonies",
-				"miracles & healing",
-				"divine stories",
-			],
-			keywords: [
-				"story",
-				"stories",
-				"testimony",
-				"miracle",
-				"healing",
-				"devotee",
-				"disciple",
-				"friendship",
-				"birthday",
-				"celebration",
-				"journey",
-				"visit",
-				"blessing",
-			],
-		},
-		{
-			slug: "discourses-practical-life",
-			name: "Discourses, Questions & Practical Life",
-			description:
-				"Question-driven guidance, society, ethics, culture, and practical spiritual life in the modern world.",
-			overview: [
-				"This hub is for question-led and practical-life articles: family, society, ethics, culture, health-adjacent reflections, education, politics, science, and everyday spiritual responsibility.",
-				"It helps readers separate broad devotional guidance from specific professional advice. Use the articles for spiritual reflection and consult qualified experts for medical, legal, financial, or safety decisions.",
-			],
-			keyIdeas: [
-				"Dharma in daily life: applying spiritual values to family, society, and choices.",
-				"Question discourse: teaching that begins from a devotee or audience question.",
-				"Culture and roots: memory, tradition, and identity viewed through spiritual responsibility.",
-				"Discernment: using humility and qualified guidance where devotional reflection is not enough.",
-			],
-			relatedEntitySlugs: [
-				"guru-shyama-khyapa",
-				"khyapa-parampara",
-				"shantikunj",
-			],
-			exactCategories: [
-				"discourse",
-				"guru messages",
-				"social commentary",
-				"health & wellness",
-				"our roots",
-				"history & spirituality",
-				"patriotism & history",
-				"science and spirituality",
-			],
-			keywords: [
-				"question",
-				"questions",
-				"answering",
-				"fans",
-				"society",
-				"social",
-				"women",
-				"family",
-				"marriage",
-				"education",
-				"health",
-				"science",
-				"politics",
-				"culture",
-				"freedom",
-				"rights",
-				"practical",
-			],
-		},
-		{
-			slug: "spiritual-teachings-philosophy",
-			name: "Spiritual Teachings and Philosophy",
-			description:
-				"Core teachings, philosophical reflections, and broad spiritual wisdom for self-directed study.",
-			overview: [
-				"This hub collects philosophical and teaching articles on atma, brahma, dharma, jnana, conscience, self-inquiry, realization, and the wider spiritual principles that support devotional life.",
-				"It is intended as a study doorway for readers who want the Parampara's reflective teachings in one place before moving into specific ritual, scripture, guru-story, or sadhana paths.",
-			],
-			keyIdeas: [
-				"Atma: the self or soul considered in relation to body, mind, karma, and realization.",
-				"Brahma jnana: knowledge of the Absolute or ultimate reality.",
-				"Dharma: right order, duty, integrity, and spiritual responsibility.",
-				"Vairagya: detachment or dispassion that supports inner freedom.",
-			],
-			relatedEntitySlugs: [
-				"khyapa-parampara",
-				"guru-shyama-khyapa",
-				"kali-ma-kali",
-				"bhairava",
-			],
-			exactCategories: ["spiritual teachings", "philosophy"],
-			keywords: [
-				"atma",
-				"brahma",
-				"vedanta",
-				"tattva",
-				"dharma",
-				"jnana",
-				"wisdom",
-				"truth",
-				"realization",
-				"conscience",
-				"self",
-				"soul",
-			],
-		},
-	];
+	// Topic vocabulary, hub copy, and category aliases live in _data/topics.js.
 
 	function scoreGroup(article, definition) {
 		const category = normalizeCategory(article.data.category).toLowerCase();
@@ -665,7 +389,10 @@ module.exports = (eleventyConfig) => {
 
 		let score = 0;
 
-		if (definition.exactCategories.includes(category)) {
+		if (
+			definition.exactCategories.includes(category) ||
+			category === definition.name.toLowerCase()
+		) {
 			score += 4;
 		}
 
@@ -706,6 +433,7 @@ module.exports = (eleventyConfig) => {
 					slug: group.slug,
 					url: `/articles/topics/${group.slug}/`,
 					name: group.name,
+					label: group.label,
 					description: group.description,
 					overview: group.overview || [],
 					keyIdeas: group.keyIdeas || [],
@@ -724,6 +452,7 @@ module.exports = (eleventyConfig) => {
 
 	function buildTagLookup(articles) {
 		const slugToTags = new Map();
+		const slugToTagCounts = new Map();
 		const slugToArticles = new Map();
 		const slugifyTag = eleventyConfig.getFilter("slugify");
 
@@ -732,20 +461,26 @@ module.exports = (eleventyConfig) => {
 				const slug = slugifyTag(tag);
 				if (!slugToTags.has(slug)) {
 					slugToTags.set(slug, new Set());
+					slugToTagCounts.set(slug, new Map());
 					slugToArticles.set(slug, []);
 				}
 				slugToTags.get(slug).add(tag);
 				if (!slugToArticles.get(slug).includes(item)) {
 					slugToArticles.get(slug).push(item);
+					const tagCounts = slugToTagCounts.get(slug);
+					tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1);
 				}
 			}
 		}
 
 		const entries = Array.from(slugToTags.entries())
 			.map(([slug, tags]) => {
-				const canonicalTag = [...tags].sort((a, b) =>
-					a.localeCompare(b, "en", { sensitivity: "base" }),
-				)[0];
+				// Display form: the spelling used by the most articles (alphabetical tie-break).
+				const canonicalTag = [...slugToTagCounts.get(slug).entries()].sort(
+					(a, b) =>
+						b[1] - a[1] ||
+						a[0].localeCompare(b[0], "en", { sensitivity: "base" }),
+				)[0][0];
 				const tagArticles = sortArticlesByDateDesc(slugToArticles.get(slug));
 
 				return {

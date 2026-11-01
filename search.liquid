@@ -323,7 +323,7 @@ mark {
                 var haystack = [
                     a.title, a.description,
                     (a.tags || []).join(' '),
-                    a.category, a.content || ''
+                    a.category, a.categoryLabel, a.content || ''
                 ].join(' ').toLowerCase();
                 return terms.every(function(t) { return haystack.indexOf(t) !== -1; });
             });
@@ -356,7 +356,7 @@ mark {
                 return '<li class="result-item">' +
                     '<a href="' + escHTML(a.url) + '" class="result-link">' +
                         '<div class="result-header">' +
-                            '<span class="result-category">' + escHTML(a.category) + '</span>' +
+                            '<span class="result-category">' + escHTML(a.categoryLabel || a.category) + '</span>' +
                             (a.readingTime ? '<span class="result-meta">⏱ ' + escHTML(String(a.readingTime)) + ' min read</span>' : '') +
                         '</div>' +
                         '<h2 class="result-title">' + highlight(a.title, terms) + '</h2>' +

@@ -1,3 +1,15 @@
+const { topics, categoryAliases } = require("./_data/topics.js");
+
+const labelBySlug = new Map(topics.map((topic) => [topic.slug, topic.label]));
+
+function resolveCategoryLabel(value) {
+	const raw = String(value || "")
+		.replace(/^['"]+|['"]+$/g, "")
+		.trim();
+	const slug = categoryAliases[raw.toLowerCase()];
+	return (slug && labelBySlug.get(slug)) || raw;
+}
+
 function cleanText(value) {
 	return String(value || "")
 		.replace(/<style[\s\S]*?<\/style>/gi, " ")
@@ -33,6 +45,7 @@ module.exports = {
 				date: a.date,
 				description,
 				category: a.data.category || "",
+				categoryLabel: resolveCategoryLabel(a.data.category),
 				tags: (a.data.tags || []).filter((t) => t !== "articles"),
 				readingTime: a.data.readingTime || 0,
 			};

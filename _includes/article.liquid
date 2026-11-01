@@ -49,7 +49,7 @@
     <meta property="og:locale" content="en_US">
     <meta property="article:published_time" content="{{ page.date | isoDate }}">
     <meta property="article:author" content="{{ author | default: 'KaliPutra-Ashish' }}">
-    <meta property="article:section" content="{{ category }}">
+    <meta property="article:section" content="{{ category | categoryLabel | attrEscape }}">
     {% for tag in tags %}
     {% if tag != "articles" %}
     <meta property="article:tag" content="{{ tag }}">
@@ -97,11 +97,11 @@
           "url": "https://jaikhyapaparampara.com/favicon-96x96.png"
         }
       },
-      "articleSection": {{ category | jsonify }},
+      "articleSection": {{ category | categoryLabel | jsonify }},
       "about": [
         {
           "@type": "Thing",
-          "name": {{ category | jsonify }}
+          "name": {{ category | categoryLabel | jsonify }}
         }{% for entity in relatedCoreEntities %},
         {
           "@type": "DefinedTerm",
@@ -313,9 +313,9 @@ body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);bac
         <header class="article-header container">
             {% assign topicUrl = collections.browseGroups | articleTopicUrl: page.url %}
             {% if topicUrl != "" %}
-            <a href="{{ topicUrl }}" class="article-category" style="text-decoration:none;">{{ category }}</a>
+            <a href="{{ topicUrl }}" class="article-category" style="text-decoration:none;">{{ category | categoryLabel }}</a>
             {% else %}
-            <span class="article-category">{{ category }}</span>
+            <span class="article-category">{{ category | categoryLabel }}</span>
             {% endif %}
             <h1 class="article-title">{{ title }}</h1>
             <div class="article-meta">
@@ -383,7 +383,7 @@ body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);bac
                 <div class="related-articles-grid">
                     {% for item in related %}
                     <a href="{{ item.url }}" class="related-article-card">
-                        <span class="related-article-category">{{ item.data.category }}</span>
+                        <span class="related-article-category">{{ item.data.category | categoryLabel }}</span>
                         <span class="related-article-name">{{ item.data.title }}</span>
                         <span class="related-article-excerpt">{{ item.data.description }}</span>
                         <span class="related-article-meta">⏱ {{ item.data.readingTime | default: '?' }} min · {{ item.date | dateDisplay }}</span>

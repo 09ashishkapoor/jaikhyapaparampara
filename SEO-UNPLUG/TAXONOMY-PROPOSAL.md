@@ -1,9 +1,9 @@
 # Taxonomy Proposal — Phase 1 controlled vocabulary
 
-> **Status: awaiting approval. Nothing below has been applied.**
+> **Status: approved and implemented 2026-11-01.**
 > Prepared 2026-11-01 from a clean local build (`npm run build:test`) over 1,205 articles.
 > Extraction was read-only; no article file, frontmatter, or transcript was modified.
-> Read it, edit it directly, then approve or reply. Implementation starts only after approval.
+> See **Implementation record** below for what shipped and the three small deviations.
 
 ---
 
@@ -19,6 +19,30 @@
 
 This is the README's target shape: ~1,200 articles + 8 hubs, every indexable URL deliberately chosen.
 It does **not** touch article frontmatter, so the Phase 4 context workflow and its guard are unaffected.
+
+---
+
+## Implementation record (2026-11-01)
+
+Approved by the site owner, then shipped in one commit (`git log`). Verified against a clean build:
+
+| Check | Result |
+|---|---|
+| Build | passes; `_data/topics.js` is the single source of truth |
+| Sitemap | 3,514 → **1,266** URLs; **0** `/tags/` URLs |
+| Tag pages | 2,225 still generated for navigation, all `noindex, follow` |
+| Tag directory | `/tags/` + 22 pages, `noindex, follow`, out of sitemap |
+| Hubs | 8, `index, follow`, counts unchanged (106 / 35 / 125 / 10 / 3 / 359 / 43 / 524) |
+| Articles | 1,205 untouched (`git diff -- articles` empty) |
+| Category guard | unknown category fails the build, naming the file (verified with a throwaway article) |
+| Phase 4 | context status unchanged: 205 done, 757 eligible |
+
+Deviations from the plan, all smaller than the alternative:
+
+1. **Duplicate alias-key check dropped.** JS object literals cannot contain duplicate keys, so the check cannot fail; the guard instead validates that every alias points at a real topic slug, and that topic slugs are unique.
+2. **Canonical names get the placement bonus.** `scoreGroup` now awards the +4 category bonus when `category` equals the hub's canonical name as well as for legacy values. No legacy value's behaviour changed, so no article moved.
+3. **Search index gained `categoryLabel`.** The raw `category` stays in the index for matching; display uses the label. Homepage cards, search results, article chips, and both archives now show the 8 labels.
+4. **Two smoke tests encoded the old policy** (tags indexable and in the sitemap). Rewritten to the approved contract; the article-archive half still asserts `index, follow`.
 
 ---
 
@@ -217,7 +241,9 @@ Four rules in `_redirects`. No other tag redirects: a 301 is destructive, `noind
 | `tags-index.liquid` | `robotsMeta: "noindex, follow"` |
 | `sitemap.liquid` | remove the tag-page loop and tag-directory loop |
 | `_redirects` | add the 4 promotions above |
-| `_includes/article.liquid`, `articles/index.liquid`, `articles/tags.liquid`, `articles/topics.liquid` | show the normalized label instead of the raw category string (also update the byline condition in `article.liquid` that compares raw category strings) |
+| `_includes/article.liquid`, `articles/index.liquid`, `articles/a-z.liquid`, `articles/tags.liquid`, `articles/topics.liquid`, `index.html` | show the normalized label instead of the raw category string (raw stays where it is behaviour, e.g. the byline rule) |
+| `search-index.11ty.js`, `search.liquid` | add and display `categoryLabel`; keep raw `category` for matching |
+| `tests/smoke/indexing.spec.js` | rewrite the two tests that asserted tag pages were indexable |
 
 No new dependencies. No article file is opened for writing. Phase 4 keeps running on its own schedule.
 
@@ -226,29 +252,27 @@ No new dependencies. No article file is opened for writing. Phase 4 keeps runnin
 The taxonomy guard runs inside the build, so it cannot be forgotten:
 
 1. Unknown or unmapped `category` → **build error** naming the article file. This is the piece that stops the 28 values from becoming 40.
-2. Alias map sanity: every alias points at a real topic; no duplicate alias keys.
+2. Alias map sanity: every alias points at a real topic, and topic slugs are unique. (Duplicate alias keys cannot exist in a JS object literal, so that check was dropped at implementation.)
 3. Missing category → build error (currently 0).
 
 A build is therefore also the test: `npm run build:test` must pass, and `_site/sitemap.xml` must contain no `/tags/` URL.
 
 ---
 
-## 6. Verification after implementation (acceptance checklist)
+## 6. Verification (ran after implementation, 2026-11-01)
 
 ```bash
 npm run build:test
-python scripts/transcript_context.py status        # must still say 205 done / 757 eligible
+python scripts/transcript_context.py status        # still says 205 done / 757 eligible
 ```
 
-Then check:
-
-- [ ] `_site/sitemap.xml` has ≈ 1,266 URLs: 1,205 articles, 50 article index/pagination, 8 hubs, 3 core — **zero** `/tags/`.
-- [ ] `/tags/kali/` HTML contains `<meta name="robots" content="noindex, follow">`.
-- [ ] `/articles/topics/prophecy-world-events/` still contains `<meta name="robots" content="index, follow">`.
-- [ ] Every hub page still renders its article list (8 pages, 1,205 articles total).
-- [ ] Category chip on an article shows one of the 8 labels, not `Prophecies` / `Temple of Knowledge`.
-- [ ] A test build with a deliberately unknown category fails with a clear error.
-- [ ] `git diff` shows zero changes under `articles/`.
+- [x] `_site/sitemap.xml` has **1,266** URLs: 1,205 articles, 50 article index/pagination, 8 hubs, 3 core — **zero** `/tags/`.
+- [x] `/tags/kali/` HTML contains `<meta name="robots" content="noindex, follow">`.
+- [x] `/articles/topics/prophecy-world-events/` contains `<meta name="robots" content="index, follow">`.
+- [x] Every hub page still renders its article list (8 pages, 1,205 articles total).
+- [x] Category chips show a label, not `Prophecies` / `Temple of Knowledge`.
+- [x] A test build with a deliberately unknown category fails with a clear error.
+- [x] `git diff --name-only -- "articles/*.md"` is empty (frontmatter and transcripts untouched).
 
 ---
 
@@ -263,16 +287,16 @@ Then check:
 
 ---
 
-## 8. Approval checklist
+## 8. Approval record
 
-Reply with approval, or edit this file in place. Decisions needed:
+Approved by the site owner on 2026-11-01, all six decisions as proposed, and implemented the same day. The checklist is kept here for the decision history:
 
-1. **8 topics + labels** as in §2 — approve / rename / add / drop?
-2. **Category alias map** in §3 — approve, especially the four judgment-call bullets covering five categories?
-3. **Tag policy** in §4 — `noindex, follow` + out of sitemap, no tag allowlist: approve?
-4. **Four 301s** in §4 — approve, or defer all tag 301s until GSC data?
-5. **Build fails on unknown category** — approve, or warn only for the first month?
-6. **Sitemap removal** of the 2,248 tag URLs — approve?
+1. **8 topics + labels** — approved as in §2.
+2. **Category alias map** — approved, including the four judgment-call bullets covering five categories.
+3. **Tag policy** — approved: `noindex, follow`, out of the sitemap, no tag allowlist.
+4. **Four 301s** — approved as listed in §4.
+5. **Build fails on unknown category** — approved.
+6. **Sitemap removal** of the 2,248 tag URLs — approved.
 
 Rollback is a single revert: no URLs are deleted, no content is edited, and the old tag pages remain in the build output.
 
