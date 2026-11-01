@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Responding to a disciple's question about Mount Kailash, Guru Shyama Khyapa describes it as Shiva's abode beyond Mansarovar, where the deity remains in deep meditation and time no longer functions as it does elsewhere. He speaks of long-lived sages and hidden Gyanganj realms, of travel by meditative seat, and of a powerful magnetic field that he says has confounded Chinese and Mughal expeditions. He also describes the Yam-dwara ritual near Mansarovar and the swans said to represent Shiva and Durga, closing with a warning to walk carefully as darkness approaches.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

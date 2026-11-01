@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">During Annapurna Puja, Guru Shyama Khyapa tells a devotee that obstacles led him to hold the observance at the cremation ground, where rituals and hom are underway and a puja is planned for 1 AM. He says the Mother asked to be worshipped there and that no one should return hungry, framing the occasion as service for world peace and everyone's well-being. The conversation also touches on doctors' service and his own forty years of serving without taking money, even as his health remains poor.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
