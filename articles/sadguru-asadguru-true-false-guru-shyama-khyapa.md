@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains the difference between a Sadguru and an Asadguru, saying that finding a true guide depends on one's karmaphal and that a Sadguru leads seekers from darkness to light without jealousy. He tells of a false guru who ignored a poor devotee until the man grew wealthy, then arrived to claim credit and collect sarees, jewelry, and rice, fleeing when the man sharpened a sickle. Another parable says a guru's seed must be planted and multiplied, not locked away until it turns to dust.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

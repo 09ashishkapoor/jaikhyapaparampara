@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains Chaitanya as the eternal awareness that is untouched by birth, death, disease, or honor, quoting Ramakrishna's frequent wish that people attain Consciousness. He tells the host that restless meditation and scattered focus come from lacking this core awareness, and that attaining it requires retiring the five senses, transcending the six vices and five elements, and casting out the Pap-purush, a cleansing he compares to the stoning ritual of Hajj. He says the same focused awareness can hit any target, whether spiritual, educational, athletic, or literary.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
