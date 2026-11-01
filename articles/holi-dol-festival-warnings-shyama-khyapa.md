@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa discusses Dol and Holi as a spring festival meant for social bonding, then warns that modern colors can harm the skin and eyes and that alcohol has turned the celebration into what he calls a 'Mad-utsav.' He recounts the Puranic story of Mahadev visiting Vrindavan with Narada and seeing Krishna sport with 1,600 Gopis, using it to describe Krishna's Vishnu-Maya. He urges the government to close liquor shops before the festival and asks people to celebrate without indecency or harm.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

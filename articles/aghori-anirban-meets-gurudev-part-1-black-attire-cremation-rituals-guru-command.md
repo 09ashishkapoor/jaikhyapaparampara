@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Aghori practitioner Anirban and Guru Shyama Khyapa explain to a host why Aghoris wear black, describing the attire and black bangle as gifts bestowed by the Guru rather than choices, and tracing their lineage to Bamdev Baba, Matsyendranath, and Gorakhnath. Anirban says cremation-ground rituals are secret and cannot always be discussed openly, while Gurudev confirms that some high-level practices may involve human remains only under the Guru's command. Both stress that an Aghori acts solely by Guru Aadesh and that the common fear of Aghoris is largely unfounded.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
