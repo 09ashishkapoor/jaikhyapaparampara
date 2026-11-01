@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts the story of Ahimsaka, who became Angulimala after a wicked teacher led him to cut off fingers and wear them as a necklace. He describes how the Buddha offered his finger, stunned Angulimala with his radiance, and accepted him for initiation, after which Angulimala endured stones and wounds on returning to the village and eventually inspired his former victims to take initiation. He teaches that a true Guru's grace can transform even a violent person, while a wicked teacher leads only to darkness.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

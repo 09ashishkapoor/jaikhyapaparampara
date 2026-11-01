@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa presents Chaitanya Mahaprabhu as a scholar of the Vedas, Vedanta, and Upanishads who made the Mahamantra central to his teachings. He says the Hare Krishna, Hare Rama mantra washes away sin and that Nama Sankirtana, including street chanting, is the only path to liberation in Kali Yuga, while elaborate rituals and worship of other deities without the holy name are insufficient. He calls Chaitanya the Premavatar, the union of Radha and Krishna's sentiment and complexion, and describes love as the essence of everything.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
