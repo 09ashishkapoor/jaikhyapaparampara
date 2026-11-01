@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa calls the use of animal fat instead of ghee in Tirupati's prasad an abomination and a sin with terrible consequences, noting that the tainted offering reportedly reached the Ram Mandir and Shirdi Sai. He tells the parable of two friends sent to kill pigeons where no one could see, concluding that the one who sensed an ever-watching Eye was ready for initiation. He then says Lord Narayan witnesses the corruption and that Kalki will come to clear the world of the wicked in three days.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

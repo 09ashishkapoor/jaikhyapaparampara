@@ -29,6 +29,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa reads the Bengali New Year 1432 as an unfavorable year: its digits total ten, it begins on a Tuesday governed by Mars, and he foresees fire and bloodshed. He describes living in the Pishach Yog, or Age of Demons, warns that preparations for a nuclear World War III have begun, and says Hanuman, Ashwatthama, and Parashurama have reappeared. He adds that God has told humanity not to interfere, leaving prayer and the eventual return of Kalki as the only way forward.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
