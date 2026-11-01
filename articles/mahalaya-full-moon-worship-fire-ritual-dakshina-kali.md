@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">This Mahalaya observance transcript records an all-night Homa Yagna at Shantikunja, scaled down because of the COVID-19 pandemic, with conch shells, bells, drums, and chants of 'Jai Maa.' A priest declares the Mother is Annapurna in Varanasi, Bhadrakali in Kurukshetra, Maheshwari in Ayodhya, and supreme at Kamakhya, and invokes Dakshina Kali with Bhairava for world peace, while a host introduces local MLA Jiban Mukhopadhyay as a writer and scholar. The record matters because it preserves a claimed sacred ceremony and its stated purpose of seeking the welfare of all humanity.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

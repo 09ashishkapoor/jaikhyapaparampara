@@ -27,6 +27,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains his household's Annapurna Puja without an idol during the COVID pandemic, using a sacred pitcher while continuing the Chandi Path, Homa, and other rituals and barring neighbors from gathering. He describes Annapurna as the provider who feeds the ten-faced Kashi Vishwanath and every living being, then recounts Kashi's inexhaustible temple offering, the older 'original Kashi,' Manikarnika Ghat, and the custom of offering gold and bringing temple rice home. The talk matters because it sets pandemic caution beside his claim that the Mother's grace keeps Kashi fed.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

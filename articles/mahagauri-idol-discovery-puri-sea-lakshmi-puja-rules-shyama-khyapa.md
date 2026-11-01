@@ -27,6 +27,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts finding a Mahagauri idol in the Puri sea, identifying its lion mount and meditative pose with Parvati's penance at Gauri Kund and saying it now receives daily worship as Durga. He explains that 'Kojagari' means 'Ke Jagori?'—'Who is awake?'—and gives Lakshmi Puja rules: keep doors open, leave offerings untouched overnight, avoid bells and iron or steel, and let the women perform the ritual. The talk matters because it joins a claimed miraculous discovery to practical guidance for receiving the Mother.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
