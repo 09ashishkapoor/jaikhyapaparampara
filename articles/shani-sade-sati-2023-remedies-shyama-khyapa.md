@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa asks astrologer Shantanu to explain Shani's Sade Sati scientifically, mentioning fears that parents may suffer or die during the seven-and-a-half-year period. Shantanu says the term is often used to frighten people, describes Shani as a purifier of the soul who teaches patient work, and ties its effects to specific nakshatras rather than everyone. He rejects the "Vish Yog" poison label, and the guru calls Shani pure and transparent as crystal.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
