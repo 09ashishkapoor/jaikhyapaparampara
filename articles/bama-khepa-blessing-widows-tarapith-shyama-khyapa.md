@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts how the headmaster Birandralal Bhattacharya brought Ponumananda to the yogi Gombhirnath Ji, who declared him a Janmasiddha Purush and initiated him. The talk then turns to Bama Khepa's blessing that female practitioners living in Tarapith never become widows, illustrated by a woman who kept her shakha and sindoor after her husband's death and was harassed by villagers until Baba restored her symbols. Gurudev also explains the Tantric view of Asauch and why Baba forbade followers from performing funeral rites.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

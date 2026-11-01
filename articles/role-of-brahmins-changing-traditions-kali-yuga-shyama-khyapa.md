@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Responding to a disciple's question about non-Brahmins and women performing pujas, Guru Shyama Khyapa cites the Gita's four varnas, which he says Lord Krishna created and divided by qualities and actions. He describes certificate-granting Tols, all-women community pujas, and households that still demand a Brahmin, calling the mixing a violation of the Gita even as he notes Brahmins abandoning priestly work. Gurudev attributes the dissolving boundaries to the influence of Kali Yuga and to Krishna's prediction in the Bhagavata that Shudras would protect and worship the Lord.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
