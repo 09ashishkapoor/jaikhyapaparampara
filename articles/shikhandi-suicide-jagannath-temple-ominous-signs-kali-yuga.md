@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa discusses a transgender person's suicide by hanging inside the Jagannath Temple, which he compares to Shikhandi in the Gita and reads as an ominous sign of the Kali Yuga's end. He cites the shooting death of the bhoga ghara's head, a devotee's fatal heart attack at Nirmalya, and the temple flag's tearing and burning as evidence, warning that Lord Jagannath may leave the world. He calls the Kali age and Kalki avatar one transition and predicts destruction at Badrinath and Tirupati and the looting of hidden treasures.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
