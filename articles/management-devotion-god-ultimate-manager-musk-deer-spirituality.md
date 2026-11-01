@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Tapas Ranjan Roy, a management lecturer from Patna, tells Gurudev that God is the ultimate manager whose planning, organizing, directing, and controlling govern the world. He uses the musk deer and Ramprasad's songs to argue that God is found within rather than through outward searching, and he sings a Hindi song casting the devotee as a beggar at the Mother's door. His host adds that devotion means loving God through service, not merely performing rituals.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
