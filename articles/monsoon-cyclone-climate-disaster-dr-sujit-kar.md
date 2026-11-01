@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Climate specialist Dr. Sujit Kar tells the interviewer at Shanti Sangha Shantikuunj that a Bay of Bengal low pressure has been pulled back toward the Odisha coast, while a second system near the Bhagirathi-Hooghly will bring heavy rain and possible flooding to South Bengal. He explains the chilly nights as cold northern winds meeting local humidity and warns that September–October cyclones could follow. Dr. Kar also predicts rain through Durga Puja and says 35 to 40 million coastal people may become environmental refugees within 10 to 12 years.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

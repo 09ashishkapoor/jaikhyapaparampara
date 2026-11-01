@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">At a cremation-ground Kali Puja, Guru Shyama Khyapa explains to Babun that the ritual is held on Revati Nakshatra—the birth star of Mother Tara—joined with a Chaturdashi Amavasya, and that he arranged a whole-night Saturday puja because the Mother had recently arrived. He says the rites aim at the four goals of dharma, artha, kama and moksha, with moksha ultimate, and that offerings to Mother are mirrored in Guru Puja. Babun describes a corpse arriving and a thunderstorm breaking out after the puja began.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
