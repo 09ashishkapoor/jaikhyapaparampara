@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa calls the repeated fall of the Puri Jagannath flag an ominous sign, noting that each fall occurred on Ekadashi and that a kite had never before sat on the temple. He links the flag, flooding, lightning, earthquakes, and border war to a coming cataclysm, and says the Lord’s servants have not done good deeds. He warns that 2020 is a year of death and that more is yet to come.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

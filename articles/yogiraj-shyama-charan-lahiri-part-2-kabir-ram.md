@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">In this second part, Shyama Khapa explores the guru-disciple relationship through Yogiraj Shyama Charan Lahiri’s lineage, saying that a disciple who reaches the guru’s state merges with him. He connects Lahiri Mahasaya with Kabir and Ram, reads “the door of Ram” and Ayodhya as inner realities, and argues that all pilgrimage sites and deities are within the body, to be realized through the guru’s words.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

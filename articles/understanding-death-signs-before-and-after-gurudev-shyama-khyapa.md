@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells a narrator that death is a natural reality that frightens those without spiritual grounding, while realized souls meet it as a transition. He describes Yam-doots appearing before death, a Chandrayan ritual used when a soul struggles to leave, and the Gita’s assurance that remembering the divine brings guiding messengers. He also recounts his seven-day coma and says the soul is reborn among 84 lakh species according to karma.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
