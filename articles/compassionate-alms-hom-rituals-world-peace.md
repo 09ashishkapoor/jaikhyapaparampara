@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa discusses the Mahamrityunjaya Hom performed at Shanti Kunj for world peace, saying that regular ritual would benefit humanity but is costly in ghee and wood. He connects this to Durgaprasanna Paramhansa's Hom during a cholera epidemic in Bangladesh and to his own severe penalty, including being bedridden for nearly a year and financial and personal losses. The conversation asks why those who serve others suffer, and Guru Shyama Khyapa answers that the combined Vedic and Tantric rite carries a heavy price.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains the Navagraha system, distinguishing the nine traditional planets from the expanding Western list and noting that the twenty-six Nakshatras, with Abhijit excluded, control those planets. He describes the planets' genders and Nakshatra associations, from the Moon and Venus as female to Saturn as neutral, and says this knowledge bears on Tantra Sadhana through a hidden connection. He also warns that a hostile Nakshatra alignment can be powerful enough to cause sudden death.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
