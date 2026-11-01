@@ -30,6 +30,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa and disciples mark the rare Purna Kumbh conjunction, said to occur after 111 years, as a positive spiritual event before turning to his warnings for 2025. He describes the year as the 'Year of Mars,' a time of blood and fire, and predicts wars, disasters, a new virus, crop losses, and upheaval centered on Bangladesh, with Saturn's transit into Aquarius intensifying unrest. The conversation matters because he presents these forecasts, aligned with Baba Vanga, Nostradamus, and the Bhavishya Malika, as a call to preparedness rather than fear.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
