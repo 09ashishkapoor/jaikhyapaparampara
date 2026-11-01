@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa and disciple Santanu Roy discuss the coming years of Saturn and Mars, with Santanu Roy predicting severe disasters and a turning point around 2025, while both insist that chanting Harinaam is the only refuge in Kali Yuga. They also warn that astrologers peddling Sadesati, Mangalik, and Kal Sarpa are scamming people, since those terms are absent from the Vedas. The conversation attributes the warnings to the Bhavishya Malika and to Lord Jagannath.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

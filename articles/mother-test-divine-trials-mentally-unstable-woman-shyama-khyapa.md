@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts how a mentally unstable young woman from Howrah arrived at the cremation ground claiming the Mother had sent her in a dream, refusing food and insisting she would stay. He explains the safety and legal difficulties of housing women at Shantikunj and describes coordinating with her family and a doctor in Madhyamgram to get her professional help. The episode also includes Taranand Brahmachari's account of being guided from Puri to Rajpur for initiation.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
