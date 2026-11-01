@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa narrates the life of Sri Chaitanya Mahaprabhu, from his birth as Nimai Pandit and his two marriages to his renunciation and ecstatic devotion to Krishna. He recounts how Chaitanya's love transformed the rogues Jagai and Madhai, and how Chaitanya initiated Jaban Haridas, a Muslim, declaring that anyone who utters Hari's name is equal to a Brahmin. He also describes the orthodox backlash, Haridas's miraculous fire, his later rejection and death by drowning, and Chaitanya's final years in Puri.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Responding to an interviewer's observation that many visitors seek divorces, Guru Shyama Khyapa argues that auspicious ceremonies are being corrupted by inauspicious elements, especially meat, which he says was never permitted at weddings even though fish was. He holds this mixing responsible for marriages collapsing within days and links the wider decline to abandoned rituals, discarded marriage symbols, and the influence of Kali Yuga. He also attributes family breakdown to nuclear households and a loss of discipline and humility.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

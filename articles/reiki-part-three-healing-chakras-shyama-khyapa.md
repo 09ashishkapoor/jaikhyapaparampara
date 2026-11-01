@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa responds to a devotee whose long-standing hand pain eased after a temple Guruji's reassurance, identifying the phenomenon as Reiki. He traces Reiki's origin to Japan and calls Lord Buddha its founder, credits the practice with limiting the coronavirus's impact there, and says it requires concentration, knowledge of anatomy and the chakras, and work with angels or crystals. He also describes Kundalini awakening and the Third Eye, and warns that six months of training and a guru are needed because unguided practice is dangerous.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
