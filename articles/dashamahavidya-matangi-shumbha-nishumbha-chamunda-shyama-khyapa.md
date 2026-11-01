@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers questions about Matangi, the ninth Mahavidya, describing her dark complexion, Veena, elephant mount and Gunja garland, and her presence at the mouth of the Homa fire. He recounts Puranic accounts of her killing Shumbha in her Chamunda form and narrates the idol's journey from Tibet through Krishnananda Agambagish to Kolkata, where worshippers reportedly went mad or died. He declines to share her mantra.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

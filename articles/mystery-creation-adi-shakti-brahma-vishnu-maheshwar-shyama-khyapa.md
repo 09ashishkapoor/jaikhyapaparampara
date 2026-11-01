@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa addresses whether Durga created Brahma, Vishnu and Maheshwar or the reverse, citing the Chandi's Vaikritika Rahasya and a verse by Ramprasad Sen to argue that Adi-Shakti existed before the Trinity. He says she manifested the three gods, gave them Saraswati, Mahalakshmi and Parvati, and assigned creation, preservation and destruction. He adds that Kali is worshipped at all 51 Shakti Pithas, citing Kalighat's daily worship.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
