@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Devotees from Barisal, Bangladesh receive diksha from Guru Shyama Khyapa and ask for instruction as well as initiation. A male devotee says they came to touch the Guru's feet and live righteously without harming anyone, while a woman describes her long-held wish for the mantra and an honest domestic life. Guru Shyama Khyapa tells them instruction means living honestly and purely, working hard without deceiving others, and that householders should always remember God, who walks beside a sincere caller as a friend.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

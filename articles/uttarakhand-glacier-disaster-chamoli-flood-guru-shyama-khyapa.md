@@ -34,6 +34,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells a disciple that the Chamoli glacier disaster marks the start of events beyond human control, which he says he calculates for the nation using water in a stone plate. He links the destruction to global warming and a heating ocean floor, warning of further glacier melts in Kalimpong and Kurseong, rising sea levels, and floods that could reach Kolkata and parts of Bangladesh. He also calls Devbhumi's repeated suffering a spiritual matter, saying nature is angry because of human actions.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
