@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers a devotee's question about Parashara Muni's link to the Mahabharata by tracing the sage's lineage and his river encounter with Satyavati, the ferry girl, through which Vyasadeva was born. He credits Parashara with the Vishnu Purana and describes Vyasadeva learning the Vedas in the womb, fathering Dhritarashtra, Vidura, and Pandu, and shaping the Kaurava line from Gandhari's hundred pots. The talk then turns to drought and Cyclone Mocha before the guru warns, citing Bhavishya Malika, of upheaval from 2023 to 2030 and the coming of Kalki.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

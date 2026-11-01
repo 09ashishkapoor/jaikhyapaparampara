@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">On Guru Purnima at Shantikunj, an interviewer explains that the day honors Sage Vedavyasa, born to Rishi Parashara and Satyavati, who compiled the four Vedas and composed the Mahabharata. Guru Shyama Khyapa describes the large gathering, the meal planned for about 500 people, and two close disciples, brothers Snehasis and Subhasis, who studied at Ramakrishna Mission but took initiation from him. The brothers attribute their inner strength to the Guru's grace and a latent impression from previous births, while the interviewer notes a Midnapore priest who performs its rituals.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
