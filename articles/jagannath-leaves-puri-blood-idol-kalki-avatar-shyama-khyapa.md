@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells the host that Lord Jagannath has left Puri in human form to be reborn, citing the Jagannath Bhagavat and calling blood on the idol a sign he links to bloodshed. He links this to the Kalki Avatar, suggests a birth somewhere in the South, and predicts one world ruler with only Hindutva remaining, citing omens such as the bent Sudarshan Chakra, the fallen Kalpa Vriksha branch, and circling vultures and crows. He also warns of possible world war and the flooding of Puri.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

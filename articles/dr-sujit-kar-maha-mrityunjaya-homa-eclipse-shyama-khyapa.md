@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">On 21 June 2020, during a solar eclipse, Guru Shyama Khyapa guides meteorologist Dr. Sujit Kar in a Maha Mrityunjaya Homa at the ashram for world peace and purification. The Guru explains that eclipse periods awaken restless spirits and germs, making the Maha Mrityunjaya chant especially effective, and describes Punashcharana as offering past practice to fire, the Ganges, or the Guru before beginning anew. He also connects Vedic Sun worship to blood purification and gives the eight-syllable Girijapataye seed mantra.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

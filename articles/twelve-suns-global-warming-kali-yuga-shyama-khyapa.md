@@ -32,6 +32,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa responds to a disciple's report of 42-degree heat by calling it an extreme heatwave and citing Ramakrishna Dev's prophecy that twelve suns will rise and make the earth uninhabitable. He interprets the heat as a sign of Kali Yuga, says Kalki has already been born, and warns against artificial rain, describing it as man's attempt to dominate nature. The conversation also covers water scarcity, the possible drying of the Ganges, and his heat-related illness, underscoring what he sees as a wider environmental crisis.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

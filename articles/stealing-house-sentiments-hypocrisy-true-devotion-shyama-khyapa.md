@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa discusses Sri Ramakrishna's warning against 'stealing in the house of sentiments,' defining Swabhav as one's own nature and describing people who wear robes and beads while lacking inner substance. He extends the discussion to addiction, recalling anecdotes about Saratchandra Chattopadhyay's hookah, a red-tea gathering that two women mistook for daytime drinking, and a homa in which he burned currency notes until an IB officer stopped him. The conversation stresses focus and self-knowledge, ending with the warning that humanity must change its nature to survive.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
