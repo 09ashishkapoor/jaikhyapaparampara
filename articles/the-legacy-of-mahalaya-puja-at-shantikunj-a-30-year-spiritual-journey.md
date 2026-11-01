@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts roughly three decades of Mahalaya Puja at Shantikunj, from cremation-ground rituals among wood-fired furnaces that once fed 2,000 to 2,500 people to the room where the Mother now sits. He describes the all-night Kali and Tara worship, sacrifices of ash-gourds, pumpkins, or bananas with a nearly 150-year-old Tibetan sword instead of animals, and the Mora Puja he still performs himself. He says women are barred from certain rituals because the cremation ground is spiritually active on Amavasya, and asks devotees to come only after Mahalaya.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

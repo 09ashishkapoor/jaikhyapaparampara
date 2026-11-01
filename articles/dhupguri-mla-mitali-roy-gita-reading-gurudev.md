@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa speaks with Dhupguri MLA Mitali Roy and admires her daily reading of a Bhagavad Gita chapter, even in the Legislative Assembly amid public duties. He describes the Gita as a symbol of sacrifice and renunciation, contrasts it with the Chandi, and cites Krishna's promise to remain with those who remember Him and take them to His feet at death. Roy explains that her post is temporary and that she did not come seeking re-election, but reflects on whether holding office drew her closer to God.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

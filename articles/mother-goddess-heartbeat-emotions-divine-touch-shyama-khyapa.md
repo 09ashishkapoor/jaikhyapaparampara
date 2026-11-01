@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Responding to a devotee's question from Chitra Nag, Guru Shyama Khyapa says God's vibration can be felt, and describes the Mother Goddess as having movements, tears, laughter, sorrow, and touch that a close devotee can perceive. He says the clay idol must be awakened through Pran Pratishtha and daily japa, tapa, and puja, and that after 36 years of practice he has felt Her bless him from behind during worship. He also links unanswered prayers to flaws in devotion and to sin and merit.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

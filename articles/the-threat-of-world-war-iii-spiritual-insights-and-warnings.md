@@ -29,6 +29,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells a host that World War III's drums are already beating in the Russia-Ukraine conflict, warns NATO and European involvement could spread it, and says he predicted a war with immense loss of life. He voices fear of nuclear and space warfare, calls for dialogue and Russian withdrawal from Ukraine, and says a Homa at Shanti Kunj is his effort for peace, though he doubts religion can do much amid violence. He distinguishes this conflict from the Mahabharata war, which he says was limited to one field.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
