@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Responding to an interviewer whose hand pain vanished after a guru's words, Guru Shyama Khyapa explains Reiki as a Japanese healing practice whose founder he identifies as Lord Buddha, mastered by Mikao Usui in Nepal. He describes its dependence on awakened Kundalini and chakras, the opening of the Third Eye, and methods using crystals or invoked angels for distant healing. He also credits Shirdi Sai Baba with exceptional healing powers and says widespread household Reiki has helped Japan face crises such as COVID.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

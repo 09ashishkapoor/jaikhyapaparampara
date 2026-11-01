@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains that he instructed Pagla Baba to worship at Ma Bagheswari in Bongaigaon before continuing on foot to Kamakhya, because tradition holds that Kameshwar should not be visited before Bagheswar. He says Pagla Baba performed a large Homa at the hilltop temple, where Ma Bagheswari is regarded as a manifestation of Mahasaraswati, and will proceed to Kamakhya and then Pashupatinath in Nepal. In accompanying footage, Pagla Baba describes the temple's forested hill, its view of Bongaigaon, and the samadhi of Suren Baba.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

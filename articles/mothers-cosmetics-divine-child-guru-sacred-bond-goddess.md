@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">During Mahalaya preparations at Shantikunj, Guru Shyama Khyapa describes the Goddess in her child-like form as his daughter and says he has asked her to remain there, noting that she is active and grants what people ask. He explains that the 32-year-old ritual includes night-long fire worship and immersion before sunrise, with Kali worshipped outside because Tara does not let her enter the room. He also describes his affection for Mother, their father-daughter anger, and the changes at the crematorium over the years.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

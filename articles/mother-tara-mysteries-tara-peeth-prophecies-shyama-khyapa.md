@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells a seeker about the eight forms of Mother Tara at Tara Peeth, describing Ugra Tara as Durga and recounting the legend that Sage Vashistha brought the deity from Kamakhya and was later reborn as Bama Khepa. He explains Tara's red face as a sign of sacrifice and describes her reported 4 a.m. bathing in the Dwaraka river. Turning to recent earthquakes, he says Badrinath will not remain and that the Jagannath temple and other seats of Narayana face decline, citing the Bhavishya Malika and the coming Pralaya.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
