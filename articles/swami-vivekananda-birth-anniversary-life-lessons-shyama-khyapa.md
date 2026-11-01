@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">On Swami Vivekananda's 160th birth anniversary, Guru Shyama Khyapa recounts Narendranath's mischievous childhood, his mother's visit to Ramakrishna, and the disciple's refusal to ask Kali for money. He follows Vivekananda's Chicago address, return to India, founding of Belur Math, and final days, then voices disappointment with today's youth and recalls Sister Nivedita's closeness to Sarada Maa. The episode matters as a personal remembrance that measures Vivekananda's legacy against the guru's dismay at contemporary discipline.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
