@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains Reiki as a demanding healing science centered on crystals, angels, chakras, and concentrated invocation, and he insists that practitioners study anatomy, complete a minimum six-month course, and find a guru. He attributes the method's preservation to Lord Buddha and its spread to Mikao Usui, and claims that Reiki practice explains Japan's lower COVID-19 death toll. He also recounts sweet-shop customs and warns that the Pori, or angels, can influence children.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
