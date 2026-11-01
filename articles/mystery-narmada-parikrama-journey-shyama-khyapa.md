@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Chandan Babu describes his Narmada Parikrama to Guru Shyama Khyapa, naming the rocky districts of Dindori and Mandla and the Shulpani Jhar forest as the route's hardest tests and explaining ashram customs and the mandatory Dhuni fire. He says a formal vow takes three years, three months, and thirteen days, while Markandeya Muni completed the circuit in 184 days, and he credits his wish to walk it to Gurudev's talk of the Mother, whom he calls alive and present in Kali Yuga.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
