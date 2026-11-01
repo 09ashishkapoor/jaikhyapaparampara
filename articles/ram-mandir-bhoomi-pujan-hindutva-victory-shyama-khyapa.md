@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers a disciple's questions about whether Lord Ram existed and about the Ram Mandir Bhoomi Pujan, arguing that Ram is one of Narayana's ten incarnations and that the Puranas support his reality. He describes the temple site as having been turned into a mosque 492 years earlier and calls the foundation ceremony a victory and awakening of Hindutva, while urging Hindus not to hate other faiths and noting that land was also allocated for a mosque. He cites the Supreme Court's verdict confirming the birthplace.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
