@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa reads the fire in Vaishno Devi's cave as an ominous sign, saying that with Saturn as king and Mars as minister this year brings a game of fire that will not spare even sacred lands, and he links it to the Jagannath temple fire. He recalls Puranic stories of Saturn returning to Vaishno Devi and says the Puranas and Quran now speak alike of coming diseases, while noting the Goddess's idol was unharmed.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

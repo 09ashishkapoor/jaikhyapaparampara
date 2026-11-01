@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Disciple Shantanu Ray tells a questioner that Kaal Sarp Dosh appears nowhere in Vedic astrology or the Puranas and was invented by astrologers for business, interpreting Kaal as time and Sarp as the body, so that the term describes the birth process itself. Guru Shyama Khyapa agrees it cannot be removed but suggests Trimbakeshwar and the Godavari as a path for those who feel a flaw, and announces future discussions of Mangalik and Sade Sati.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
