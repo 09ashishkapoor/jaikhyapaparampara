@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells devotees about his Friday-to-Sunday visit to the Tarapith cremation ground, recalling how it changed from a dense forest into a place with electricity and electric furnaces, with many present-day occupants seeking money rather than spiritual life. He explains that puffed rice is scattered as food for the Pret and as a trail to the cremation site, and recalls advising a contractor to pray to Mother Kali before renovation, when old coin pots were found. He speaks of 30 to 35 years of painful penance.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

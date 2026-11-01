@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa announces that Dulal Mondal, a singer who performed Harinam Sankirtan daily for the Mother at Shantikunj, died suddenly of a heart attack at 4:00 AM, calling the loss irreparable. He recalls their 35-year bond, when Dulal called him Dada and drew listeners from Bankura, Purulia, Durgapur, and Asansol, and he notes Dulal was an only son with a living mother. He also mentions Dulal's recent request for two shirts and prays to Sri Madhav to grant his soul a place at his feet.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
