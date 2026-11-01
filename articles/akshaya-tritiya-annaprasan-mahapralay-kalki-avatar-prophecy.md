@@ -31,6 +31,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">On Akshaya Tritiya, Gurudev feeds a six-month-old from Kolaghat his first rice, visits a disciple's home, and performs a Homa while describing his failing health and his decision to stop giving initiations. He tells the host that a great catastrophe has arrived, that Kalki Avatar has been born, and that the Kali Yuga is at its peak, citing the Barabazar fire and Kashmir as signs and warning of a final Mahabharata battle involving the seven Chiranjeevis.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

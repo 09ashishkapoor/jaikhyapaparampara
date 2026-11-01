@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru explains that Maha Shivratri is chiefly a women's vow, with four pujas through the night dedicated to Ishan, Aghora, Vama, and Sadyojata, the last offered milk because Shiva is then regarded as newly born. He says men worship Shiva for moksha while women pray for a husband like Shiva, particularly in their next birth, and he briefly recounts the hunter legend before describing the morning rites that end the fast.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru explains why his temple observes Shiva Chaturdashi rather than Amavasya, then recounts the legend of a hunter whose accidental offerings of Bel leaves and meat pleased Lord Shiva. He describes Shiva as the resolver of planetary defects and debt, recommending worship at Tryambakeshwar or Varanasi and a black-gram offering at an old Shiva temple, and links Shiva's third eye to the idea of a black hole.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
