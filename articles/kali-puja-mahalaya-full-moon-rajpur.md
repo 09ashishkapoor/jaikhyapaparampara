@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa speaks at the annual festival at the Rajpur cremation ground, recalling forty years of meditation there when the site was a snake- and fox-filled jungle and Kali Puja was performed by the light of funeral pyres. He credits the Mother's grace for his endurance, insists that he takes no money and does not lie in her name, and describes feeding visitors and helping the sick. Asked about the Goddess's chain, Khyapa says it is his personal wish and mentions old stories of dacoits tying her.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
