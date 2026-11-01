@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa teaches that Vedic belief forbids meat, which he calls the food of demons, and explains that serving it at auspicious ceremonies mixes the inauspicious into the auspicious. He links meat at weddings to negative energies and broken marriages, saying that 50 out of 60 to 70 people who come to him are dealing with divorce, while noting that fish is permitted. He also cites modern doctors' warnings about red meat and advises against serving meat at weddings or first rice ceremonies.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

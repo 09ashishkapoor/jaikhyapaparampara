@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa describes the Ram Janmabhoomi temple's establishment at the former Babri Masjid site as a turning point, citing the Supreme Court order and the beginning of construction. He calls Ram an incarnation of Narayana and says the temple will become a major pilgrimage site, while framing the 492-year struggle as the start of Hindutva's promotion in what he calls the era of Hindus. He insists he hates no religion and prays that Hindutva not be radical but unfold with tolerance and harmony.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells devotees offering Pushpanjali to approach the Mother with a pure heart, saying that if the mind is pure, everything is pure. He recites Sanskrit Anjali mantras, directing worshippers to bow and offer flowers with wood apple and basil leaves to the Mother, her weapons, her lion carrier, and her family. He says that in the age of Kali the 16-word Hare Krishna mantra is the path to salvation and that those unable to visit temples can listen at home and have their offerings accepted.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
