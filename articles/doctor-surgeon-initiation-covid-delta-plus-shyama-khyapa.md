@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">A surgeon from Jalpaiguri recounts to Guru Shyama Khyapa how the Mother appeared in a dream to foretell his exam success and study at PG Hospital, how the pandemic led him to seek a guru, and how dreams and meditation confirmed Gurudev as that guru; the guru says he initiated him because nothing can be achieved without a guru. The doctor then addresses the Delta Plus variant, calling it a concern especially for children, and urges complete vaccination, masks, sanitizer, and physical distance to stop the spread.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

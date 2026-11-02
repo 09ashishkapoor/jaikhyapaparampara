@@ -31,6 +31,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa describes the locust invasion in several Indian states and Bangladesh as a biblical sign of the end times and warns of earthquakes, cyclones, and a magnitude 8 or 9 quake during what he calls a very bad 2020. He says he performs Hom-Yagna day and night and that the only way is to keep calling upon God, while expressing his belief that no major disaster will strike within 16 kilometers of Kalighat and that Tarapith and the 51 Shakti Peeths will be protected.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
