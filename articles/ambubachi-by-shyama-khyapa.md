@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains Ambubachi as a period when the Earth is said to menstruate and rain nourishes dormant seeds, which is why digging the soil is avoided and Kamakhya's temple stays closed for four days. He describes offerings left inside the closed temple and the prasad distributed when it reopens, then warns that red cloth sold in the Mother's name is not the temple's actual garment. He calls the commercialization shameful and says sellers exploit the uneducated.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

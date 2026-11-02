@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts that Totapuri, a Naga sadhu from Punjab's Sikh community, spent nearly forty years in Himalayan sadhana before meeting Sri Ramakrishna at Dakshineswar and challenging his devotion to Kali with Advaita Vedanta. He describes their clash between formless Brahman and worship of the Mother, Ramakrishna's subsequent Vedanta practice and visions of Christ and Muhammad, and the initiation Totapuri gave him around 1864. The account presents Totapuri as the teacher who opened Ramakrishna to the harmony of all religions.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
