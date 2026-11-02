@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa distinguishes the respect due to a teacher from the spiritual initiation given by a diksha guru, explaining the word 'Guru' as the one who leads from darkness to light. He describes initiation as a mantra whispered before the Mother, insists that a guru should not accept money or gifts from disciples, and tells a story about a greedy guru to illustrate the danger. He also says Guru Puja must precede worship of other deities and connects the ideal bond to Lahiri Mahasaya's Kriya Yoga.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

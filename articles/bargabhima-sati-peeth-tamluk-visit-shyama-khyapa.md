@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">At Tamluk's Bargabhima Temple, Guru Shyama Khyapa describes a Shakti Peetha as a place where the Mother's energy resides and where practitioners gather to absorb that power through chanting, meditation, and fire rituals. He says householder devotees have increasingly displaced monks at such sites, and he identifies the Saptasoti Kunda as a pit whose rituals he compares to the Maha Mrityunjaya Yagna. The narrator adds the temple's traditions, including the legend of Kalapahar and the site's possible Buddhist architectural roots.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -15,6 +15,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains why his temple tells visitors not to display prosperity to Mother Annada, arguing that money pollutes a holy place and that she, as the provider of food, cannot be fed by human offerings. He contrasts honest and dishonest money, cites Ramprasad's verses on delusion, and describes quieter alternatives to elaborate donation, including sitting near the Mother and a blood offering for an unfulfilled vow. The conversation also touches on sacred-thread ceremonies and the claim that Mother blesses rich and poor alike.</p>
+
 <div class="transcript-container" style="font-family: arial, sans-serif; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 20px;">
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Interviewer:</span> <span class="speech-text">Gurudev, pranam.</span></div>
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Guru Shyama Khyapa:</span> <span class="speech-text">Pranam, baba, pranam.</span></div>
