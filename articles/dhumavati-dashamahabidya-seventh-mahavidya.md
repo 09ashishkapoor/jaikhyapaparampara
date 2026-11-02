@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Sadhak Shyama Khepa presents Dhumavati as the seventh Mahavidya, describing her as a white-clad widow on a crow-drawn chariot who holds a winnowing basket and possesses profound hidden knowledge. He explains her Dhyan and Beej mantras, links her to Ketu and Dakshinakali, and warns that her worship, usually after midnight, must be done with care because mistakes can be fatal. He says her grace can grant exceptional abilities and secret wisdom.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

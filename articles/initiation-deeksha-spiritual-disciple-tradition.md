@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Gurudev Shyama Khyapa discusses the surge of seekers coming for Deeksha, explaining that such waves have occurred before and that past-life karma may bring disciples to him even at sixty or sixty-five. Dada Ghatak describes the Guru as the pathfinder, notes that initiates must chant the mantra constantly, and recounts how even Vivekananda tested Ramakrishna before accepting him. The conversation matters because it presents the Guru-disciple relationship as an ancient pillar of Sanatan India and because Dada Ghatak says Gurudev has predicted a great spiritual awakening starting from Bengal.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

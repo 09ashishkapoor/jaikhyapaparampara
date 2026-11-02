@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Gurudev Shyama Khyapa updates viewers on Pagla Baba's pilgrimage to Kamakhya, reporting that Baba had reached a Ma Tara temple in Alipurduar's Jamtala and would enter Assam that day, with roughly fifteen to twenty days left on the journey. Pagla Baba describes the temple as an exact replica of Tarapith, and its proprietor explains that frequent visits to Tarapith inspired him to build it. Gurudev reassures listeners that Baba is in good health, making the piece a progress report on a devotional journey.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
