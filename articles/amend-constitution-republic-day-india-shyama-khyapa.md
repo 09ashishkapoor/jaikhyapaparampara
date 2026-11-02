@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">On the 73rd Republic Day, Guru Shyama Khyapa tells a disciple that India's constitution needs amendment, arguing that Dr. B.R. Ambedkar drafted it for a population of roughly 330 to 350 million while the country now holds about 1.3 billion people. He says the old framework has grown ineffective, that lawbreaking has become normalized, and that India needs an indigenous constitution with its own stamp rather than a borrowed one. The conversation matters as his case for rethinking a founding document he regards as out of date.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

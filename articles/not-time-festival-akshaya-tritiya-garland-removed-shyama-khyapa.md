@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">On Akshaya Tritiya, Guru Shyama Khyapa refuses a garland from devotees and calls the day inauspicious rather than auspicious, saying he cannot celebrate while people are dying in the COVID-19 pandemic. He asks visitors to leave before the doors close at 8:00 PM, describes shortages of oxygen and medicine, and says the grief has become unbearable. Gargidi, a close disciple, supports his decision, making the transcript a record of how the pandemic pressed on ritual observance.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
