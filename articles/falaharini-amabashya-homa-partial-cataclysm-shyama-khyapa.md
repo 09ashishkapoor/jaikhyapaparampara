@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">During a Falaharini Amabashya Homa, Guru Shyama Khapa says his heart is heavy after a partial cataclysm, and he cites royal Bengal tigers roaring in the open Sundarbans and tonnes of fish washing ashore at Puri as troubling signs. He reads the hot storm wind as evidence that the seabed has heated, warns the cataclysm is not over, and fears a possible tsunami while praying and performing rituals for the world's well-being; the exchange matters because it records his ritual response to disaster and his account of nature's warnings.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

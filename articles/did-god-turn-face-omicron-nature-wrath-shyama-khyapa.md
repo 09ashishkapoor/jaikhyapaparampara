@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Gurudev Shyama Khyapa tells an interviewer that the Omicron variant fulfills his earlier warning about an unnamed, highly contagious disease, and he links the surge to poor planetary positions and a period that could run until 2025 or 2030. He describes the pandemic, storms, lightning and accidents as nature's revenge and says God and nature have turned against humanity, pointing to the closing of Kalighat, Tarapith, Dakshineswar and Adyapith. The exchange matters because it records his prophetic reading of early 2022 and his warning that the crisis remains unfinished.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
