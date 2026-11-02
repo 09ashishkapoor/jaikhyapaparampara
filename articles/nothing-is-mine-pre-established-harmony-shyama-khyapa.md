@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa argues that body, life force, name, education, earnings, and talent all come from others, leaving nothing that can truly be called one's own. A disciple compares this to Leibniz's doctrine of pre-established harmony and Shakespeare's image of the world as a stage. The discussion urges quiet self-accounting and recognition of a controlling divine order, which Guru Shyama Khyapa says is needed to escape the suffering caused by 'mine, mine.'</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

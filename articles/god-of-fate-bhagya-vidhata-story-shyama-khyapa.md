@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells the story of Bhagya Vidhata, the Provider of Destiny, and a saint who tries to foil the fate written for a landlord's daughter. In the tale, the girl ends up in a brothel yet never lacks food, and the Destiny God personally supplies her when the saint turns every customer away. Guru Shyama Khyapa says the story shows destiny cannot be erased, though he admits he cannot confirm Bhagya Vidhata exists and limits the concept to human beings.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa and a doctor discuss COVID-19 vaccination, weighing the available vaccines and addressing fears that immunization does not work or must be repeated yearly. The doctor states that no current vaccine is bad, urges widespread vaccination, and advises people with chronic conditions to consult their physician first. Guru Shyama Khyapa likewise directs listeners to doctors before spiritual remedies, calling physicians 'the first god' and saying science must be accepted before spirituality.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
