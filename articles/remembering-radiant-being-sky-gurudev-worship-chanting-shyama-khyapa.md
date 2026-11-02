@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers devotees abroad who worry that busy work lives and the absence of a prayer room leave no time for God, teaching that the Divine is self-manifested and formal worship is not a strict obligation. He cites Chaitanya Mahaprabhu's teaching that Hari-Naam Sankirtan is itself worship, describes the 14 realms and the chanting of Brahma, Vishnu, and Shiva before Adi Shakti, and recommends turning japa into Ajapa. He also stresses clearing lust, anger, greed, attachment, pride, and envy, and remembering the radiant, immortal Being in the sky.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

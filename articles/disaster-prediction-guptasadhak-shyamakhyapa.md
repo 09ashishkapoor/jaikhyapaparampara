@@ -29,6 +29,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Returning for his first video after a hospital stay, Guru Shyama Khyapa discusses his doctor's advice to rest, a visit from a senior saint, and the weather swings he links to widespread illness. He frames climate change and disasters such as Joshimath's sinking and the rising Virupaksha statue as signs of an approaching pralaya, saying the Himalayas and Kailash may sink and that 65% of the population will perish. He also predicts Kalki's rise, a 2028–29 world war, and Aditya Nath Yogi as ruler of Akhand Bharat.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

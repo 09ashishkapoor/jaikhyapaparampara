@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains Atma-Jnana as knowing one's own soul through the questions 'Who am I?', 'Where have I come from?', and 'What is my duty?', with Brahma-Jnana arising only afterward. He says seekers need a Satguru and must rely on the Gita, Upanishads, and Vedas, while Brahma-Jnana is self-manifesting and awakens at the Sahasrara after the chakras are pierced. He cites Ramakrishna, Chaitanya Mahaprabhu, Bamdev, Trailanga Swami, and Rishi Aurobindo as examples, and warns that materialism leaves little room for such pursuit.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
