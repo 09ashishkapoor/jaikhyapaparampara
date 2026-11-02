@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains Vishwakarma as the gods' architect and weapon-maker rather than a deity in the ordinary sense, though he says the ancestors gave him divine status. He discusses why Vishwakarma Puja falls on the Bhadra solstice and how it signals that Durga Puja and Mahalaya are near, moving from Pitri-Paksha to Matri-Paksha. A devotee's question about Behula and Lakhindar prompts him to recount how Manasa made Vishwakarma leave a hole in the iron room.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
