@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains why Jap must use a Guru-given mantra rather than a person's name and details the preliminary purification of the hands, with twelve counts for men and ten for women or practitioners initiated into Kali, Durga, or Tara. He connects the fifty letters of the Varnamala to the skulls around Mother Kali's neck and describes Nyasa as the purification of every limb before worship. He also recounts Ramakrishna Paramahamsa's teaching that perfection comes through chanting and outlines the 3.2 million repetitions and Purashcharana needed for mantra Siddhi.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

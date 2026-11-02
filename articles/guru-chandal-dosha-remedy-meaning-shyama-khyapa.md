@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Shantanu, responding to a question posed in Guru Shyama Khyapa's presence, argues that the feared Guru Chandal Dosha rests on a misunderstanding of Rahu, whom he describes as a son of Kashyapa Muni with a Brahmin character and a place among the Navagrahas. He says Jupiter's combination with Rahu should be called Guru-Shishya Yoga, since Jupiter supplies wisdom while Rahu applies technique and time, and he likewise finds no scriptural basis for Grahana Dosha as commonly described. He stresses that Nakshatra calculations, not such labels, reveal a planet's true strength.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

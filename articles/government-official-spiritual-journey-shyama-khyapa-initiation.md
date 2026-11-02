@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Rahul Kaushik Bhattacharya, a high-ranking government official, recounts a lifelong spiritual search shaped by his parents' devotion and his father's following of Guru Shyama Khyapa's channel since 2019. He describes visiting Shantikunja in Rajpur during the second COVID-19 lockdown after his mother's prompting, and a stranger's unexpected question about whether he was going to see Samakhepa Baba. He says he took initiation there on 11th Boishakh at 11:30 AM, while Guru Shyama Khyapa says the Mother sent him after his time at Tarapith.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

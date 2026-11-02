@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Responding to a seeker's question, Guru Shyama Khyapa presents the Maha Nirvan Tantra as the third primary Tantra text after the Agam and Nigam Tantras. He outlines its fourteen Ullash, framed as dialogues between Mahadev and Parvati, beginning with Parvati's questions about conduct and salvation in the Kaliyug. He describes the text as complex yet purely Sattvik and centred on Divyachara, contrasting it with the lower Pashvachara practices found in other Tantras.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
