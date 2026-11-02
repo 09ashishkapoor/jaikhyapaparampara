@@ -31,6 +31,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts a call from Pravin Bhaiyaji, described as a holder of the Bhavishya Malika, who says West Bengal remains spiritually asleep and has asked him to spread the prophecy there. Pravin Bhaiyaji's appeal, as relayed by the Guru, is to give up fish, meat, eggs, and alcohol and to chant Krishna's name with devotion before a difficult time arrives. The Guru also repeats the text's warning that those who continue such habits will face severe consequences.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

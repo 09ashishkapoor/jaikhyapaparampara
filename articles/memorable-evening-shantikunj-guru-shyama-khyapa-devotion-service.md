@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">On a crowded evening at Shantikunj, Guru Shyama Khyapa and a host ask devotees why they came and what draws them to the Mother and to him. Devotees describe the Guru's pull and a son's birthday offering, while a staff member tells of a young girl being cared for after snake bites; the Guru says he acted to show what should be done and warns against considering anyone small. Devotee Rekhi Maa says his washing of a disciple's feet teaches that ego is the root of all downfall.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

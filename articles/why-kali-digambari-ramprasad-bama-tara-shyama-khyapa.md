@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa discusses Sadhaka Ramprasad, his lifelong longing to see the Mother, and his poetry's movement from Kali to Tara; Krishnananda Agambagish initiated him only after his mother's death and told him to perform Tara Sadhana on a corpse. He interprets the form of Bama Tara, including the sword as Dharma, the severed head as punishment for Adharma, the garland of fifty-one letters, and the meaning of 'Digambari' as clothed by the infinite. He also notes that Bama Khepa worshipped this fierce form and loved Ramprasadi songs.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
