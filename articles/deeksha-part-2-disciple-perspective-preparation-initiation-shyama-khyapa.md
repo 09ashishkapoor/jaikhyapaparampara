@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa discusses spiritual initiation from the seeker's side, explaining that parents cannot witness their son's Diksha and that most people take initiation emotionally rather than after preparation. He describes the demanding nature of householder practice, the tradition that the Guru receives merit from a disciple's chanting, and his own sacrifices in family life. He advises new initiates to chant the Beej Mantra continually until it becomes Ajapa.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

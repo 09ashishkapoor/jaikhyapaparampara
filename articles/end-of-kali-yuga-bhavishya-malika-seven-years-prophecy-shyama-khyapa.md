@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa presents the Bhavishya Malika, an Odia text translated into Bengali, which he says foretells the next seven years for India and the world. He describes prophecies of war, disease, famine, drought, the drying of the Ganges, and the destruction of the four Dhams, claiming 700 crore people will perish. He urges readers to obtain the book and says those who surrender to God will be saved.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
