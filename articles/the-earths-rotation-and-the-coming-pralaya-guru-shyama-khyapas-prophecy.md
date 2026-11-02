@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Responding to a devotee's observation that day and night no longer feel as they once did, Guru Shyama Khyapa says the Earth's rotation has increased and seasonal rhythms have shifted. He recalls the familiar pattern of shorter summer nights and early winter darkness from Ashwin onward to show how far the present cycle departs from lived experience. The exchange frames his prophecy of the coming Great Destruction as grounded in changes he says can be observed in nature.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

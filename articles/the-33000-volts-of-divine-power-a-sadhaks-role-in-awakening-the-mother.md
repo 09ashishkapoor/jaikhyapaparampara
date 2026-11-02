@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains that a clay deity has no power of its own, so a practitioner draws universal power into the Mother and later receives power back from her. He says this force is like 33,000 volts, impossible for a human or a deity to retain, and that trying to hold it could cause a stroke, a burst skull, or a heart attack. The discussion matters because it presents the practitioner's hidden work as service that keeps the Mother awake and the world sustained, not as possession.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

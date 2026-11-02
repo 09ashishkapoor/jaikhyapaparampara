@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Speaking from Mundamali Tola at Tarapith, Guru Shyama Khyapa identifies the ash-colored image before him as Maa Shmashaneshwari, a form of Kali, and describes the site as a Panchamundi Asana made from five kinds of skulls. He explains that he performs homa there rather than in the crowded main temple, honors his guru Bamdeb Baba, and says Shmashaneshwari and Maa Tara are one and indivisible. The conversation matters because it treats the cremation ground as a spiritually active place and links the Mother's presence to the guru's grace.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
