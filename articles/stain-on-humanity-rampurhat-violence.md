@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Speaking with an interviewer about the Rampurhat (Bogtui) violence, Guru Shyama Khyapa argues that the administration knew of the killings and calls the incident pre-planned and a failure that cost ordinary people their lives. He warns that without an independent CBI investigation and exemplary punishment, more such violence will follow. He frames his appeal as humanitarian rather than political, insisting that the victims were mothers' children and citing Nazrul's verse that asks no one's religion when a human is drowning.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div style="font-style: italic; color: var(--text-muted); margin-bottom: 2rem; border-bottom: 1px solid var(--border-gold); padding-bottom: 1rem;">

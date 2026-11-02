@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains Tantra Sadhana as beginning with knowledge of the body and the action of air, or Kumbhaka, and says that learning the body alone can take five years. He describes the self-existent Kula-Kundalini as a coiled Shiva Lingam at the body's base that no Guru opens, then maps the chakras from Muladhara's earth element through the Tejas, air, and sky levels to the thousand-petaled center. He also cites Ramprasad on the five elements consuming what one earns and names Ida, Pingala, and Sushumna as the channels sustaining life.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

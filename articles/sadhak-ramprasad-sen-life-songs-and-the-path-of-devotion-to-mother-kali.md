@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa examines Ramprasad Sen's life and songs, placing him alongside Krishnananda Agambagish as a founder of Kali Puja in Bengal and recounting the visit from Mother Annapurna that prompted his aborted journey to Kashi. He reads the songs as expressions of Tantra and devotion—the dive into the Kula-Kundalini, the six ripus, the six crocodiles and the turmeric of conscience—and describes Ramprasad's initiation by Krishnananda, his Tara sadhana in the cremation ground, his request for Brahmagyan, and the disappearance of his body during Kali's immersion.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
