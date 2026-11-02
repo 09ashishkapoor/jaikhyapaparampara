@@ -2,9 +2,9 @@
 //
 // Only these eight hubs are indexable topic pages. Every article's `category`
 // must resolve through categoryAliases or the build fails (taxonomy guard in
-// .eleventy.js). Hub copy, keywords, and exactCategories are unchanged from
-// their previous home in .eleventy.js; new articles should use the canonical
-// hub name (e.g. "Prophecy and World Events") rather than a legacy value.
+// .eleventy.js). Hub copy was refreshed against the actual cluster contents;
+// new articles should use the canonical hub name (e.g. "Prophecy and World
+// Events") rather than a legacy value.
 module.exports = {
 	topics: [
 		{
@@ -12,10 +12,10 @@ module.exports = {
 			label: "Prophecy",
 			name: "Prophecy and World Events",
 			description:
-				"Predictions, warnings, and spiritual readings of world events, social upheaval, and cycles of time.",
+				"Kalki, Kali Yuga, and Bhabishya Malika: Gurubaba Shyama Khyapa's predictions on the years ahead, eclipses, and cycles of time.",
 			overview: [
-				"This hub gathers prophecy, warning, and world-event articles for readers who want to understand how Gurudev Shyama Khyapa frames social upheaval, disasters, pandemics, and cycles of time through a devotional lens.",
-				"Use it as a careful study path: the articles may discuss intense subjects, but the page keeps the context spiritual rather than presenting medical, safety, political, or disaster-preparedness advice.",
+				"This hub gathers Gurubaba Shyama Khyapa's prophecy talks: the Kalki avatar and the Bhabishya Malika, readings of Kali Yuga, year-by-year forecasts, eclipses, pandemics, and warnings about upheaval in the world.",
+				"Read the articles as devotional teaching, not as prediction or preparedness advice. They show how the Parampara reads cycles of time and what it asks of a devotee; they are not medical, safety, political, or disaster guidance.",
 			],
 			keyIdeas: [
 				"Kali Yuga: the current age of decline and spiritual testing in Hindu cosmology.",
@@ -62,10 +62,10 @@ module.exports = {
 			label: "Rituals & Worship",
 			name: "Rituals, Worship and Festivals",
 			description:
-				"Puja, homa, sacred observances, and ceremonial guidance for devotional practice.",
+				"Shmashana Kali puja, Sandhi Puja, Durga Saptami and Ashtami rituals, homa, and festival guidance from Gurubaba Shyama Khyapa.",
 			overview: [
-				"This hub is for devotees looking for puja, homa, observance, and festival articles connected with Ma Kali, Bhairava, Annapurna, Ambubachi, Navratri, Shivratri, and related sacred days.",
-				"The material is organized for discovery and study. Where articles describe ritual detail, readers should follow their own tradition, guru guidance, family practice, and local safety norms rather than treating a web article as personal instruction.",
+				"This hub holds the ritual side of the Parampara: Shmashana Kali puja, Adyashakti and Durga Puja observances, Sandhi Puja and Chamunda worship, Ashtami pujapath, Shivratri, and the homa and prayer rituals that mark the sacred year.",
+				"Use it to understand what a practice is and why it is done, not as a substitute for your own lineage. Follow your guru, family tradition, and local custom when performing any ritual.",
 			],
 			keyIdeas: [
 				"Puja: devotional worship offered through mantra, materials, attention, and reverence.",
@@ -106,10 +106,10 @@ module.exports = {
 			label: "Sacred Texts",
 			name: "Sacred Texts and Scriptures",
 			description:
-				"Stotrams, kavachams, sahasranamas, and scripture-focused articles meant for study and recitation.",
+				"Kali and Bhairava sahasranamas, kavachams, 108-name namavalis, and stotrams with plain English meanings and pronunciation.",
 			overview: [
-				"This hub collects scripture-oriented resources: sahasranamas, kavachams, stotrams, meanings, chanting references, and articles that help readers approach sacred texts with steadiness.",
-				"It is useful for visitors who came for free texts as well as readers comparing article commentary with downloadable books, audio, and other Temple of Knowledge resources on the home page.",
+				"This hub is the text library: the Kakaradi Kali Sahasranama in numbered sections with one-line meanings, the Kalabhairava 1000 names with pronunciation splits, Batuka Bhairava's 108 names, the Kali Dashaksharim Kavacham, and other stotrams and chanting references.",
+				"Each page gives the text, transliteration, and plain meaning for study and recitation. Use them alongside your own practice and pronunciation guidance rather than as a replacement for a teacher.",
 			],
 			keyIdeas: [
 				"Sahasranama: a thousand-name hymn or litany for contemplation and recitation.",
@@ -146,10 +146,10 @@ module.exports = {
 			label: "Sadhana & Tantra",
 			name: "Sadhana, Tantra and Mantra",
 			description:
-				"Practices, mantra guidance, tantra teachings, and articles centered on inner discipline and sacred method.",
+				"Bhairava sadhana, japa and mantra practice, kula kundalini, diksha, and beginner guidance from the Khyapa Parampara.",
 			overview: [
-				"This hub is for seekers studying sadhana, mantra, tantra, diksha, japa, and the discipline required for Kali and Bhairava-centered practice within the Khyapa Parampara context.",
-				"The page keeps practice articles connected without flattening lineage boundaries. Readers should treat advanced or tantric material with humility and seek qualified guidance before attempting practices.",
+				"This hub covers practice: where a beginner starts with japa mala and sankalp, the Bhairava sadhana series on vairagya and the smashana, kula kundalini and breath retention, initiation, and the remedies Gurubaba discusses.",
+				"Practice articles are descriptive, not prescriptive. Tantric and kundalini material in particular should be taken up with a qualified teacher and within your own lineage.",
 			],
 			keyIdeas: [
 				"Sadhana: sustained spiritual discipline undertaken with devotion and method.",
@@ -186,10 +186,10 @@ module.exports = {
 			label: "Sacred Places",
 			name: "Sacred Places and Pilgrimage",
 			description:
-				"Temples, cremation grounds, pilgrimages, and location-based teachings tied to sacred geography.",
+				"Naimisharanya and the Sati Peethas: pilgrimage places and sacred geography explained by Gurubaba Shyama Khyapa.",
 			overview: [
-				"This hub organizes articles about sacred geography: Tarapith, Kamakhya, Kashi, Shantikunj, cremation grounds, temples, Shakti Peethas, and pilgrimage encounters.",
-				"It is meant for readers tracing the places that recur across the articles and for devotees who want location-based stories, not for travel logistics, booking advice, or official temple information.",
+				"This hub gathers the location-based articles: Naimisharanya, the forest of the sixty thousand sages, and the Sati Peethas as sites of spiritual power.",
+				"These pages teach sacred geography; they are not travel logistics or official temple information. Check current local conditions and official sources before any pilgrimage.",
 			],
 			keyIdeas: [
 				"Tarapith: a major Shakti and Tara pilgrimage center associated with Bama Khepa.",
@@ -221,10 +221,10 @@ module.exports = {
 			label: "Guru Stories",
 			name: "Guru Stories and Devotee Lives",
 			description:
-				"Stories, testimonies, healing accounts, and life events centered on Gurudev and devotees.",
+				"Devotee testimonies, miracles, healings, and life stories of Gurubaba Shyama Khyapa and the Khyapa Parampara.",
 			overview: [
-				"This hub brings together stories of Gurudev Shyama Khyapa, devotees, disciples, blessings, journeys, celebrations, healing testimony, and remembered experiences from the Parampara.",
-				"It is designed for readers who learn through lived examples. Accounts are preserved as devotional testimony and should be read with respect for the people, context, and lineage behind each story.",
+				"This is the largest hub: Gurubaba's own life and lineage, Bamakhepa and the Parampara, and first-person testimonies from devotees covering healings, blessings, initiations, journeys, and decades of friendship with him.",
+				"Accounts are preserved as testimony in the devotees' own words. Read them with respect for the people and lineage involved, and do not treat a healing story as medical advice.",
 			],
 			keyIdeas: [
 				"Guru bhakti: devotion to the teacher as a path of surrender and transformation.",
@@ -266,10 +266,10 @@ module.exports = {
 			label: "Discourses & Life",
 			name: "Discourses, Questions & Practical Life",
 			description:
-				"Question-driven guidance, society, ethics, culture, and practical spiritual life in the modern world.",
+				"Satsang Q&A, social questions, youth and family guidance, and practical spiritual life with Gurubaba Shyama Khyapa.",
 			overview: [
-				"This hub is for question-led and practical-life articles: family, society, ethics, culture, health-adjacent reflections, education, politics, science, and everyday spiritual responsibility.",
-				"It helps readers separate broad devotional guidance from specific professional advice. Use the articles for spiritual reflection and consult qualified experts for medical, legal, financial, or safety decisions.",
+				"This hub is question-driven: satsang Q&A on doubts and daily life, his take on public controversies, youth and family questions, education, society, politics, and mission announcements.",
+				"The answers are spiritual guidance for reflection. Consult qualified professionals for medical, legal, financial, or safety decisions.",
 			],
 			keyIdeas: [
 				"Dharma in daily life: applying spiritual values to family, society, and choices.",
@@ -317,10 +317,10 @@ module.exports = {
 			label: "Spiritual Teachings",
 			name: "Spiritual Teachings and Philosophy",
 			description:
-				"Core teachings, philosophical reflections, and broad spiritual wisdom for self-directed study.",
+				"Core teachings on atma, brahma, dharma, tantra, and self-knowledge from Gurubaba Shyama Khyapa's discourses.",
 			overview: [
-				"This hub collects philosophical and teaching articles on atma, brahma, dharma, jnana, conscience, self-inquiry, realization, and the wider spiritual principles that support devotional life.",
-				"It is intended as a study doorway for readers who want the Parampara's reflective teachings in one place before moving into specific ritual, scripture, guru-story, or sadhana paths.",
+				"The reflective core of the archive: teachings on atma and brahma, dharma and conscience, tantra and the Mahavidyas, Mahakaal and Adya Kali, death and rebirth, and the inward turn the Parampara keeps pointing to.",
+				"Read it as a study path. The articles are transcripts of spoken teaching, so they circle the same ideas from different angles rather than forming one systematic text.",
 			],
 			keyIdeas: [
 				"Atma: the self or soul considered in relation to body, mind, karma, and realization.",
