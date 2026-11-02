@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts 42 years of sadhana at the crematorium, describing a terrifying nighttime call that he says only those with 'special ears' can hear, and the Shashan-bondhu bond with the crematorium. He tells of invisible guardians escorting him home, a Neem tree that appeared dead three times and revived through rituals, the significance of a Sadhoba's or child's pyre, and a Brahmadaitya he has heard resides in Haritaki trees. He describes summoning a disciple in his mind; the man arrived at night, convinced someone had nudged him awake.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 ## Health, Permission, and the Crematorium Renewal
