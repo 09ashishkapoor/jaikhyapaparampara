@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">The interviewer asks Guru Shyama Khyapa why Lakshmi is worshipped on Kali Puja at the Shakti Peethas and what lies behind Mother Kali's iconography. The guru explains Deepannita Kali Puja as a night of showing light to Yamraj, says the Goddess prefers the flickering light of oil lamps to electric brightness, and warns against keeping Kuber Yantras in ordinary homes. He reads the severed heads, sickle, and garland as Tantric symbols, recounts how Mahadev became a newborn to calm Kali, and links the Shakti Peethas to Sati's fallen limbs.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
