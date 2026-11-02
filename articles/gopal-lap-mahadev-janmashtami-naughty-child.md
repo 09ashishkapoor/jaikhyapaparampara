@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">On Janmashtami, after temple fire rituals and prayers, an interviewer asks Gurudev about Gopal sitting in his lap. Gurudev explains that Gopal leads the herd of cows and that the child is very naughty and mischievous, even knocking over the lamps as he sits. The exchange captures a brief, playful moment in which the divine child's mischief continues even after ritual worship.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

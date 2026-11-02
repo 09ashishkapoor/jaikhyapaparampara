@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers a devotee's question about Islam and Sanatana Dharma by contrasting the single life and Qiyamat with the Hindu cycle of rebirth and the four yugas. He honours Hazrat Muhammad and Sufi and Darvesh practitioners as spiritually comparable to Hindu saints, and recounts a Loknath Baba story that he says shows awareness of multiple births in Islamic tradition. He links his predicted 2022 hardships to Qiyamat and concludes that higher spiritual attainment dissolves Hindu-Muslim distinctions, urging shared humanity.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

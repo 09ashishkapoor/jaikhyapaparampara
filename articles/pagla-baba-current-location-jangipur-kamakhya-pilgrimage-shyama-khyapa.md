@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells a devotee that Pagla Baba has reached Jangipur on his foot pilgrimage to Kamakhya, having walked nearly fifty miles the previous day, and is resting for two days at a Kali ashram. Pagla Baba then speaks for himself, saying he began from Sonarpur-Rajpur sixteen or seventeen days earlier and is at the Dakshinakali Temple in Raghunathganj, which he describes as established by Shrimat Chandrachur Brahmachari and graced by Bama Khepa. He plans to leave for Aurangabad the next morning, giving devotees his location and route.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
