@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa speaks amid the COVID-19 pandemic of a world filled with crying, saying the shift from Kali Yuga to Satya Yuga brings a cataclysm that rituals and money cannot avert. He reads the almanac's pairing of Saturn as king and Mars as minister as a sign of conflict, and says only Adyashakti Mahamaya can intervene, citing the Mahanirvana Tantra's instruction to call on Adya. He also claims the Mother told him the intensity would subside in May and June, and urges people to follow doctors' advice.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
