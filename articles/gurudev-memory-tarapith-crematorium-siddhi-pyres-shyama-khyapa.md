@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">At the Tarapith Mahashmashan, Guru Shyama Khyapa points to the pyre where he says he attained Siddhi, recalling that he sat there through a terrifying storm on the night of Revati Nakshatra, Mother Tara's birth star. He describes the desolate ground of that time, the three palm trees and an old woman's hut where he sometimes did Japa, and an elderly gentleman from Howrah Janbazar who told him not to leave until he rose with the pyre. He says he received the vision of Baba that night.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
