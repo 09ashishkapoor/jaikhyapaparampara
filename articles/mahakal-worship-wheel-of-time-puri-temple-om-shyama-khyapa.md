@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains that Mahakal means the Great Death and that his worship, unlike Kali's, demands readiness for death and follows a precise late-night order of release. He links the Womb of Time to a black hole, recounts the Puranic story of Virbhadra and Daksha, and describes a kite perched on the Jagannath temple flag as a frightening omen that even the King of Puri may need to address.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
