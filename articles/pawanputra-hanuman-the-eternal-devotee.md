@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts Hanuman’s lineage as the son of Anjana and Pawan Dev and describes him as Chiranjeevi, still alive and devoted to Ram’s name. He tells the Tulsidas story of Hanuman attending Ramayana recitals disguised as an old man, and explains Hanuman’s powers and role in the Ramayana, including leaping to the sun and meeting Sita in Lanka. The conversation matters because it presents Hanuman as the eternal devotee whose presence is tied to Ram-naam.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

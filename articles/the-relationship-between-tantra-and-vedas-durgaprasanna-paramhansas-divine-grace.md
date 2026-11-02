@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains how Vedic and Tantric rituals are combined in fire ceremonies, following Nigamananda Saraswati’s instruction to merge the two paths. He recounts that Durgaprasanna Paramhansa, acting on his Guru’s order, performed such a ritual and was granted a vision of the ten-armed Goddess, and later conducted a major sacrifice during a cholera outbreak that saved the village but cost his wife and daughter. The conversation matters because it presents this combined path as a route to divine vision and shows the demands of sincere resolve.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
