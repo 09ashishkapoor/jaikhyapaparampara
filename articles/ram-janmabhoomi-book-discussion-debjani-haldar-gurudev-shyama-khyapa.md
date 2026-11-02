@@ -15,6 +15,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Author Debjani Haldar discusses her book Ram Janmabhoomi: Establishment of Truth and Justice with Gurudev Shyama Khyapa, saying it presents translated excerpts from the Supreme Court judgment and recounts the movement's 500-year history. She describes the Sompura family's design work, archaeological finds including about 55 pillars, and a planned time capsule, while Gurudev asks about women's treatment in the Ramayana. The conversation links the temple's legal, architectural, and archaeological record to wider questions of history and gender.</p>
+
 <div class="transcript-container" style="font-family: arial, sans-serif; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 20px;">
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Interviewer 1:</span> <span class="speech-text">Greetings, Gurudev, greetings.</span></div>
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Gurudev:</span> <span class="speech-text">Greetings, my son.</span></div>
