@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">A Singapore devotee who found Guru Shyama Khyapa through YouTube visits him and describes receiving initiation at Biraja Maha Shakti Peeth in Jajpur, Odisha, during Durga Puja and reciting the Chandi Path there. The guru explains Biraja as the navel and describes the Viroja River after death, whose fierce waves push a soul back five inches for every inch gained, so only God's help can carry one across. The guru urges unceasing remembrance of God, and the guest says his worship is for peace rather than to obtain anything.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

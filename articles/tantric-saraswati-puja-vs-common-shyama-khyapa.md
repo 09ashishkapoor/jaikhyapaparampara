@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">A disciple asks Guru Shyama Khyapa to distinguish the familiar Saraswati Puja from the Tantric worship of Maha Saraswati. The guru describes the household image of a two-eyed goddess with a veena and swan, then the fierce three-eyed, eight-armed form wearing a skull garland and tiger skin, which he says is worshipped mainly at Tarapith as Ma Tara. He also says Tantric rites require animal sacrifice and discusses how neighborhood Kali Puja has become Vaishnav-style and displaced from its proper settings.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

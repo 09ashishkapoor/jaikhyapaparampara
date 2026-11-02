@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Gurudev explains Maha Saptami and Ashtami rituals, beginning with the Naba Patrika's preparation and ritual bath and the Mother's entry into the pandal for Pran Pratishtha and Chokhyudaan. He then describes the Ashtami worship of the Ashta Bhairavas and Bhairavis, the 64 Yoginis, and the Four Batukas, followed by the 48-minute Sandhi Puja at the Ashtami-Navami juncture. He also discusses the midnight Ardharatri Puja and explains why microphones are barred during parts of the Chandi Path and why the martial Dhaak, not the Shehnai, suits the Mother at war.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

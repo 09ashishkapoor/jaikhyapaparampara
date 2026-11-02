@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Gurudev answers three questions: he says menstruation cannot be stopped, explains the scriptural practice of a girl garlanding Lord Shiva at her first period, and describes traditional restrictions while allowing menstruating women to pray without touching the deity. He says suicide is the greatest sin, that the soul goes to the world of spirits and wanders, and that Pinda-daan should be offered at Pushkar rather than Gaya. Shani Dev, cursed by his wife, should be worshipped outside the home, and even his mantra should not be chanted indoors.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

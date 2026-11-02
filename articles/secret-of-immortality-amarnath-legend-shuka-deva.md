@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">A devotee asks Guru Shyama Khyapa whether human beings can attain immortality. The guru answers that only the gods who drank amrit became immortal, then recounts Shiva's journey with Parvati to the Amarnath cave, where their companions were left at Tal-Betal and Anantnag and a parrot that overheard the secret was born as Shuka Deva. He also explains Rahu and Ketu as shadow planets, describes the churning of the ocean and the four Kumbh sites, and concludes that true immortality lies in deeds remembered after the body is gone.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
