@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Colonel Chhabbi Kanjilal, visiting from Jaipur on Netaji's birthday, explains to Guru Shyama Khyapa why she sought a Guru and describes spiritual life in the army, including unit temples and the Gorkha Regiment's "Jai Mahakali" cry. She discusses India's diplomacy and recalls a journey from Nagaland when an elderly man opened his shack at night to feed three starving soldiers, which she calls godlike. The exchange matters as a convergence of military duty and spiritual seeking, and Guru Shyama Khyapa salutes her as a servant of Mother India.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

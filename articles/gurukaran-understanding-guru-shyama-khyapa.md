@@ -19,6 +19,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers a disciple's questions about finding a Guru, teaching that the meeting depends on Prarabdha from past lives and that Guru and disciple must test each other before initiation. He rejects the idea that liberation is a cheap commodity, saying one has neither birth nor death, and points instead to truth and honesty—"Om Tat Sat"—as the final path. It matters because it makes the Guru-disciple bond a matter of readiness, and because he insists that Ramakrishna, Bama Khepa, and Tailang Swami are equally great.</p>
+
 <div class="transcript-container" style="background-color:var(--bg-secondary);border:1px solid var(--border-color);border-radius:12px;padding:2rem;margin:2rem 0;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
 <div class="speaker-block" style="margin-bottom:1.5rem;">
   <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Disciple:</span>
