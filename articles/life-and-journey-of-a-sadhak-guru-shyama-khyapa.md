@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts becoming a priest at nine or ten because his family could eat only when he performed rituals, then building an export business and a reputation in law. He says that after his mother's death he turned to Tantra, and that a dream ordering him to leave everything and worship Mother Kali led him to abandon cars and property around age forty-five for intense cremation-ground sadhana. He says relatives shunned him for that path and that he refuses money from the poor.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
