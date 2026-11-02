@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains that during yoga his soul travels beyond his physical body, carrying a resolve made to the Divine Mother to go wherever there is human suffering and tears. He says people who have never met him report that he visited, spoke, ate, and blessed them, and he compares this to ripples or an invisible vibration that draws those in need into its field. He also describes Gyanganj, where yogis' bodies remain preserved while their souls are reborn elsewhere.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
