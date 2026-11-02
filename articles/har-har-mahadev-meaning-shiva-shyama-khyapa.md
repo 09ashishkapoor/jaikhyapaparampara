@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Answering the host's question about a chant many Sanatanis repeat, Guru Shyama Khyapa explains 'Har Har Mahadev' as a plea to the one who takes away sorrow, suffering, and burdens. He says the 'Bom' of 'Bom Shankar' belongs to the Tantras rather than the Vedas or Vedantas and identifies it with space or ether, one of the five elements that form the body and make birth possible. The exchange matters because it turns a familiar invocation into a lesson on the six vices and on creation.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

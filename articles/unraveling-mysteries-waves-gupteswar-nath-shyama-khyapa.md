@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Pradip-da and Kaushik draw out Guru Shyama Khyapa's account of Dr. Angshuman Roychowdhury, a Chhattisgarh bone specialist sent by his Guru, Gupteswar Nath, to find a man in white smoking black cigarettes in a West Bengal cremation ground. The doctor searched many grounds before finding Shyama Khyapa at Rajpur and later taking initiation, after being told to move from completed Saiva practice to Matri Sadhana. He also describes Gupteswar Nath's Himalayan practice and the ether-wave link he says connects these hidden saints, making the talk a window into that network.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

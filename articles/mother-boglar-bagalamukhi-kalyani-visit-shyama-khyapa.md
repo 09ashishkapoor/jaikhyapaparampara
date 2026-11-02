@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Asked about his Kalyani visit, Guru Shyama Khyapa traces it to Vasudev Baba, a Bagala-siddha from Bakreshwar who installed the Yellow Mother in a woman's home and told her to care for the deity as a daughter or sister. He recounts preparing a protective talisman in a crematorium after a disciple's 'baan' struck the woman down, and says she recovered and still wears it. The visit matters because it frames his claim that he goes only where worship is authentic and the Mother calls, with Mother Tara as his protector.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
