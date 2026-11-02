@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains that Mother Kamakhya is composed of seven Mahasatis, Gauri, Gandhari, Shabari, Kirata, Matangi, Krishna (Draupadi), and Yashoda, and recounts the devotion associated with each. He describes Kamakhya as the supreme Mahasati, the place where the Mother's yoni region fell and where even Brahma, Vishnu, and Shiva meditate upon her. He adds that Sati's body was divided into fifty-one pieces, each establishing a Shaktipith, and that without Kamakhya one cannot attain perfection in Tantra.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

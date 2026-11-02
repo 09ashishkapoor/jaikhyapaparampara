@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells devotees that in the age of Kali only Hari Naam Sankirtan remains, describing it as the one practice that survives when all else turns to ash. He recounts the 'Nouka Bilas' episode of Radha's night-long wait for Krishna and her anguish, then traces his own path from devotion to Kali and Tara to Krishna. He also cites the Bhavishya Malika's signals of a coming dissolution, including a 2026 warning, and urges daily chanting of the Name.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

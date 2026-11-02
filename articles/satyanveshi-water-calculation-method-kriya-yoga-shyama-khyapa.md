@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains his water calculation, a Kriya Yoga practice in which he fills a stone bowl with water and reads images of coming events, citing his earlier warning about Kedarnath as an example. He attributes present calamities to the transition from Kali Yuga to Satya Yuga rather than to divine punishment, and says the age of truth can only be established after the old world is cleansed. He insists he speaks from calculation, not to frighten people.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
