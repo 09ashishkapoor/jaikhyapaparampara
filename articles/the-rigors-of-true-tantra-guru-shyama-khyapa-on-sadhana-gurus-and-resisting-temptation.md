@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells a devotee that tantric practice is neither cheap nor easy, citing the scarcity of qualified gurus, the difficulty of finding secluded places, and the immense temptations that ruin practitioners. He says Baba Bama-Deb taught him through hands-on practice and still attends his major rituals, and he insists that recognition by Basudeb Jagannath is what truly makes a tantrik. He warns that misconduct destroys spiritual progress and recounts the death of his friend Bankim Bhattacharya.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

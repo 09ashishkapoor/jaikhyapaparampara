@@ -28,6 +28,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Asked about the moon's sudden orbital shift, Guru Shyama Khyapa describes a world filled with chaos and spreading turmoil, pointing to sudden floods in India, including Dalhousie and the hill regions, and in places that may not reach the news. The devotee adds that repeated floods have struck Belgium, North America, the Philippines, India, China, and Japan. The exchange is framed around the moon's changed path and its consequences for humanity.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
