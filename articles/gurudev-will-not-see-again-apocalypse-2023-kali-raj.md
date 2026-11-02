@@ -31,6 +31,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells a follower that he will no longer see people because 2023 marks the beginning of the apocalypse, in which Narayan has turned from protector to destroyer. He predicts massive earthquakes and tsunamis, says 80% of the world will go underwater, and describes an approaching battle between Narayan and the Kali Raj. Explaining that his spiritual powers have been withdrawn, he announces the indefinite closing of Rajpur Mahashasman Shanti Kunj.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

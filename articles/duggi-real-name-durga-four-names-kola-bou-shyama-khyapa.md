@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells a student that Mother Durga's original name is Duggi and gives her four primary names: Katyayani, Dakshayani, Narayani, and Shibani, explaining that Katyayani was sage Katyayan's daughter, Dakshayani was Daksha's daughter, Narayani held Narayan in her womb, and Shibani is Shiva's consort. He explains that Kola Bou is not a person but nine plants tied together, each representing a deity, and that Durga is childless, with Ganesh identified as Narayan. He calls Durga the dispeller of distress and urges devotees to remember her in crisis.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

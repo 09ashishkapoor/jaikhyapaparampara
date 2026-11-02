@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains the seven chakras from Mooladhar to Sahasrara, describing their colors, functions, and links to the body's twenty-four elements, while Dr. Anshuman correlates each center with anatomy such as the sacrum, diaphragm, heart, throat, and crown. The doctor argues that the Mooladhar's location, the Vishuddha's glandular role, and the Sahasrara's association with the baby's soft spot show ancient spiritual teaching aligning with medical observation. The conversation presents the body as a divine creation and urges self-realization by looking within.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
