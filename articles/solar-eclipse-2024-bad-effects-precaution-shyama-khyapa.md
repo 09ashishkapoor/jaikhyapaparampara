@@ -28,6 +28,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa and Dr. Babu discuss the April 8, 2024 total solar eclipse, which the guru calls ominous because of planetary positions and Saturn's influence; he predicts global effects and calls 2024 a 'year of death,' citing reports of a virus called 'Jambo' emerging from ancient ice. Dr. Babu separates the Sun's corona from COVID-19 and explains radiation, UV exposure, and Vitamin D before defending elders' eclipse rules against eating, using the bathroom, and cutting by pregnant women as health precautions.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

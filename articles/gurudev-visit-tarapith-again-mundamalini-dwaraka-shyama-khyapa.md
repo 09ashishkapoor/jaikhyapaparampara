@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">At Mundamalinitola on the Dwaraka River, Guru Shyama Khyapa explains why Tarapith draws him back, describing the river's unusual south-to-north flow as helpful for Kumbhaka and repeating the belief that Mother Tara bathes there around 4 a.m. He argues that sadhakas make a site a Siddha Pith, honors Bamakhepa as a liberated soul beyond comparison, and says Nature is God, so destroying it hastens humanity's end.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
