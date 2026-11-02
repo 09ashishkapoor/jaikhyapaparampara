@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">A devotee asks Guru Shyama Khyapa about an elderly woman who wept at his feet and said his blessing had given her a second birth after blindness. The devotee, addressed as Anirban, asks whether such a recovery is possible and how it happened. Guru Shyama Khyapa replies with a saying that the storm kills the crows while the fakir's miracle grows, leaving unresolved the episode's central question of whether a guru's blessing can restore sight.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

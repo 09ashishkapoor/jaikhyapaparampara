@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts the life of Ramprasad Sen, the Tantric saint and Kali devotee whose songs expressed his longing for the Mother, describing his initiation by Krishnananda Agambagish and his family's struggles. He tells of the Mother bringing food to Ramprasad's starving household and of a song completed or a rope handed to him while she remained unseen. The account presents Ramprasad as a saint who constantly felt the Mother's help yet never saw her face.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

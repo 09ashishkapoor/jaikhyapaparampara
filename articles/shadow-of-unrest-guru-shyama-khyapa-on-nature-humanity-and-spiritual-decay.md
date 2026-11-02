@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells a disciple that nature and people have both become restless, citing unusually high Falgun heat and crowds seeking cures, charms and blessings. He traces environmental damage to human greed and disregard for natural limits, criticizes attempts to buy peace with money or offerings, and says the burden of sin has grown so heavy that he no longer feels the Mother's presence. He also predicts that when Satya Yug manifests, untruth will flee and some people will die.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
