@@ -22,6 +22,9 @@ source: |
   <p><a href="https://www.youtube.com/watch?v=dB-_kNaMg9I" rel="noopener" style="color: var(--accent-bright); text-decoration: none; font-style: normal; font-size: 0.95rem; margin-top: 0.5rem; display: inline-block;" target="_blank">📺 Watch Original Bengali Video on YouTube</a></p>
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
+
+<p class="transcript-context">Guru Shyama Khyapa tells a disciple that Guru Purnima is the best of the year's full moons and that the Guru stands above even the gods, making guru-bhakti an inward matter rather than a display. He warns against changing Gurus repeatedly and says distant disciples can simply remember him or feed the poor in his name. He then prophesies that Kali Yuga is ending early because of sin, that Kalki will return with seven immortals, and that Satya Yuga will begin by 2029 or 2030 after catastrophic upheavals.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

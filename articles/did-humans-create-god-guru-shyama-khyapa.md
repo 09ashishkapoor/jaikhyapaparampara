@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Asked whether humans created God, Guru Shyama Khyapa answers that they did so according to their needs, but that an idol has no power until a Sadhak draws cosmic power, gives it to the Divine Mother, and receives it back from her. He cites Bama Khapa and Atmaram Brahmachari as Sadhaks who established Kali worship and says people bring their petitions to him because, unlike the deity, he can speak. He calls these matters secret and warns they must be handled with great care.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
