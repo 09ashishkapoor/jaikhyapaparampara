@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa updates viewers on Pagla Baba's pilgrimage to Kamakhya, reporting that he has reached the vicinity of Plassey, will stay overnight, and plans to head toward Berhampore. He says Pagla Baba walks about 20 to 25 kilometers daily, that early leg pain and blisters have healed, and that the journey is monitored by phone. He also releases a video of Pagla Baba performing Homa-Yagya and shares the pilgrim's message from the Bahadurpur ISKCON temple.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
