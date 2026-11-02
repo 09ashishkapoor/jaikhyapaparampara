@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Asked about sin and virtue, Guru Shyama Khyapa explains that the pot of sin fills quickly while the pot of virtue fills slowly, and that lies travel fast though truth ultimately leaves falsehood no place to stand. He says listeners lack the power to judge, urging them to leave judgment to God, to admit wrongdoing rather than deny it, and to perform duty without attachment as the Gita teaches. He argues that true virtue lies in service—such as the shopkeepers who aid pilgrims at Amarnath—and not in temple visits alone.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

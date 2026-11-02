@@ -15,6 +15,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Narayani Chattopadhyay, who lives in Switzerland, tells Guru Shyama Khyapa how a sudden urge during her daily Mahamrityunjaya mantra made her book a ticket to India despite his earlier instruction not to travel during the Covid pandemic. She describes the testing-heavy journey, her vaccination, and receiving initiation in person because she wanted to touch his feet rather than accept it over the phone. Guru Shyama Khyapa notes that he had offered remote initiation, as many devotees abroad have taken it, and asks after her husband's United Nations work.</p>
+
 <div class="transcript-container" style="font-family: arial, sans-serif; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 20px;">
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Disciple 1:</span> <span class="speech-text">Salutations, Gurudev.</span></div>
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Guru Shyama Khyapa:</span> <span class="speech-text">Salutations. Yes, speak.</span></div>

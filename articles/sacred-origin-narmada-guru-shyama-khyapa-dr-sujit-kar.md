@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Meteorologist Dr. Sujit Kar joins Guru Shyama Khyapa to trace the Narmada from its origin, describing a landmass folded some 130 crore years ago into the Mahadev, Vindhya, and Satpura ranges and a triangular, Kula-Kundalini-shaped source that he says has drawn sadhus for ages. He explains why Narmada Shiva Lingas of quartz and feldspar are held to need no consecration, and recounts finding water inside the Bhrigu Kamandalu rock. Guru Shyama Khyapa insists no sadhu is complete without visiting Narmada and describes his own vision of the Mother there.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
