@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts the Puranic history of Mainak Parvat, describing him as the son of Himalaya, brother of Parvati, and brother-in-law of Shiva, and explaining how he kept his wings by hiding beneath the sea. He narrates Mainak rising to offer rest to Hanuman on his flight to Lanka, then serving as the churning rod when the gods and demons churned the ocean, with Shiva drinking the poison and Mahalakshmi carrying the nectar. The conversation presents Mainak as a significant though little-known figure in two major Puranic episodes.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

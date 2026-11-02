@@ -30,6 +30,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa welcomes Abhijit Bose, a spokesperson entrusted with preaching Jagannath's message, and describes his own Tantric practice as non-harmful and grounded in the grace of the Mother. He says Lord Jagannath is the first and greatest Tantric and gave him the 'certificate' to practice Tantra, noting his many visits to Puri and foreign seekers who come to learn. He also warns that a Mahapralay will follow the breaking of the Lord's treasury, while Bose expresses hope that Jagannath will protect the world.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
