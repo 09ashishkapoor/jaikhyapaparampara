@@ -32,6 +32,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa discusses food as a spiritual discipline, citing the Gita’s warnings against excessively salty, spicy, sour, or sweet food and its teaching of Abhyasa Yoga, the yoga of habit. He distinguishes desire-driven Kam Puja, for which fasting is appropriate, from Nishkam Puja, which does not require it, and explains that eating lightly helps a seeker sit steadily for worship. He also defines Satvik food through simple rice-and-vegetable meals with ghee and recalls the four “G”s—Govinda, Gita, Gayatri, and Ganga—along with Goddess Shakhambari.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
