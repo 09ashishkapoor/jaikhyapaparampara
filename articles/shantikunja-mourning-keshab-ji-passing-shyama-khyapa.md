@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa mourns Keshab-ji, describing a father-son bond and recalling that Keshab-ji always kept two flower garlands ready—one for Khyapa and one for a Bharat Mata portrait. He remembers Keshab-ji asking to be taken to Nimtala and, on the last visit, coming down from the third floor to open the car door despite being barely able to walk. Khyapa says he will cherish the memories and photographs, while the interviewer notes that all of Shantikunj is in mourning.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

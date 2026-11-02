@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Answering a viewer, Guru Shyama Khyapa explains why conflict persists despite Narayan's presence in everyone by describing lineages born of Diti and Aditi and the six vices—lust, anger, greed, attachment, pride, and jealousy. He says the godly restrain these Ripu while the demonic do not, and claims that in Kaliyuga nearly 70% of births belong to the demonic lineage. He also permits home worship of Narasimha before noon and recounts Narasimha's pillar emergence and Veerabhadra's role at Daksha's sacrifice, offering guidance on both inner conflict and devotion.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

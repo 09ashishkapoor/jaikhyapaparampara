@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Director Indrajit recounts his work on the Ramprasad serial and the misfortunes that followed: the actress playing Ramprasad's wife died of cancer, he lost bodily coordination and was hospitalized, the scriptwriter broke his leg, and the cameraman died after stomach surgery. He also describes a severe car accident involving Arindam, who played Bamakhepa, in which Arindam's driver was killed. Indrajit interprets these events as consequences of treating powerful spiritual figures too lightly and says such roles demand devotion and caution.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

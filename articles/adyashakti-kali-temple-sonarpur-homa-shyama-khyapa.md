@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Speaking at Sonarpur's Adyashakti Kali temple, Guru Shyama Khyapa recounts that local organizers asked him to lead the Goddess's installation after a night-long homa and strict ritual observance. He recalls a confrontation at the Shantikunj cremation ground with municipal councillor Kartik Biswas over drinking, after which Biswas embraced him and asked him to take charge of the installation. Khyapa describes disciple Pagla Baba performing the homa under his direction and explains that organizers now ask only for his presence, documenting his lasting role at the temple.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
