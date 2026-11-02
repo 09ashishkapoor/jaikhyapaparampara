@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts Parashurama's birth on Akshaya Tritiya to Jamadagni and Renuka, his Shiva devotion, the axe he received, and the killing of his mother that left the weapon stuck to his hand until he reached Brahmakunda. He describes Parashurama as a Vishnu avatar who later bowed to Rama before retiring to Mahendra Mountain and as the teacher of Bhishma, Drona, and his favorite pupil, Karna. He also recounts Krishna's taking of Karna's divine armor and Krishna's use of Ghatotkacha to draw out the Brahmastra.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <p><em>Gurudev Gupta Sadhak Sri Sri Shyama Khapa gave many unknown information about Parashuram.</em></p>

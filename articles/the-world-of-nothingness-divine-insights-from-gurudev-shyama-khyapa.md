@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells writer Sujit Haldar that the 'world of nothingness' means nothing belongs to us and everything is a gift from the Divine Mother, with only God permanent. He agrees this resembles Adi Shankaracharya's teaching, calls Brahmattva extremely rare and linked to the Turiya state, and cites the Gita's counsel to act without clinging to results. He adds the Five Elements form the body in the womb and then consume it from birth, while the six inner enemies—lust, anger, greed, attachment, pride, and envy—constantly threaten it.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
