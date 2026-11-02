@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Two doctors, Dr. Subhadeep Karanjay of PG Hospital and Dr. Sandipan Purkait of Netaji Subhash Cancer Hospital, meet Guru Shyama Khyapa and describe how they see science and spirituality converging. Dr. Subhadeep credits the Mother and guru's grace and cites the Gospel of Sri Ramakrishna, while Dr. Sandipan says the guru's words gave him peace and courage. The meeting matters because the guru calls doctors manifestations of God, refuses their foot-bowing, and calls spirituality a science of a higher order.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

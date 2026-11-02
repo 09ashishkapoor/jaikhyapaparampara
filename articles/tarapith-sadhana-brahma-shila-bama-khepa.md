@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains Tara Sadhana at Tarapith, describing the progression from Kali Sadhana at Kalighat to Tara, the harsh conditions practitioners faced near funeral pyres decades ago, and the secret Brahma Shila that he says would blind, madden, or kill anyone who saw it. He recounts the stone's origin after the Samudra Manthan, identifies Bama Khepa with Sage Vashistha, and describes the Eight Taras, including Ugra Tara, Ekjata, and Neel Saraswati. The conversation matters as a detailed account of Tarapith's hidden ritual tradition and Tantric discipline.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
