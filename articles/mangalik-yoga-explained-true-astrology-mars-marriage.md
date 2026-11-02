@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Santanu Roy argues that 'Mangalik' has been commercialized and that Mars alone does not ruin a marriage, explaining that compatibility must be judged through the 2nd, 7th, and 12th houses, the 7th-house lord, Nakshatras, Panchang, Tithi, Karan, and related chakra systems. He warns that even a 36-point match can fail if the bride's star is Sanghatika or Vinasha. He calls astrology a matter of calculation, says no planet can be 'cut,' and recommends pacification at the Mangalnath Temple in Ujjain.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

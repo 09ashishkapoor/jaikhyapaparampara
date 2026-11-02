@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Answering a viewer's question, Guru Shyama Khyapa says formal worship is not mandatory and that music, poetry, painting, or any pursuit that resonates with the soul can serve as Sadhana, since whatever one loves is one's God. He also interprets the storm-broken flag at Puri's Jagannath temple as a sign of Nature's displeasure and explains Brahman as unmanifest and detached, while describing the Paramhansa state through figures such as Sri Ramakrishna.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

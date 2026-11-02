@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Sukanta Bhattacharya recounts his journey from Nabadvip to Kailash Mansarovar, the permits and physical checks required, and his completion of the parikrama, noting that he has now visited all five Kailash peaks. Guru Shyama Khyapa, who calls him the first of his disciples to go there, describes Kailash as Mahadev's abode, explains the need for Yama worship and a pure mind, and identifies the rare Golden Ducks at Mansarovar as Shiva and Durga.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
