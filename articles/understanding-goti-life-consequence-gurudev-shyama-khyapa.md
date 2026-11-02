@@ -15,6 +15,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains “Goti” as both a person’s recourse at life’s end and the consequence of their actions, describing the prayer that asks God to be the only refuge for orphans, the poor, the aged, and the sick. He attributes to the Gita and Upanishads the teaching that movement is life and its absence death, and he connects the mantra “Charaiveti” to admitting mistakes and correcting them. The conversation presents this forward movement as essential to spiritual practice.</p>
+
 <div class="transcript-container" style="font-family: arial, sans-serif; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 20px;">
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Host:</span> <span class="speech-text">Gurudeb, salutations to you.</span></div>
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Gurudeb:</span> <span class="speech-text">Salutations, my son.</span></div>

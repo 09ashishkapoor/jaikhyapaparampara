@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers a disciple’s questions about creation by describing the Big Bang and then linking black holes to Shiva’s Third Eye, the Shivalinga, and the void inside Krishna’s mouth that Mother Yashoda saw. He says time stands still in a black hole and in Gyanganj, and he interprets Shivaratri as a time when people seek boons, especially a good husband, despite Shiva’s role as the Destroyer. He also discusses the domains of Brahma, Vishnu, and Shiva and the story of Parvati and the Shakti Peethas.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

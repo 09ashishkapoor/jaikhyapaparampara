@@ -15,6 +15,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa discusses Goddess Bagalamukhi, the eighth Mahavidya, describing her as a Siddha Vidya who governs auspicious household events and can paralyze enemies, and he recites her Dhyana and salutation mantras. He explains her iconography, her yellow color, and the rule that her worship and offerings must be completed before noon, after which her image is covered. He warns that home worship is risky without strict discipline and a Guru’s protection, and he describes gold amulets that last twelve years.</p>
+
 <div class="transcript-container" style="font-family: arial, sans-serif; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 20px;">
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Host:</span> <span class="speech-text">Greetings, Gurudev. Welcome to our YouTube channel, Gupta Sadhak Shama Khepa. We are currently discussing the Das Mahavidya (The Ten Cosmic Wisdom Goddesses).</span></div>
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Host:</span> <span class="speech-text">Today, we will discuss the eighth of the Das Mahavidya—Goddess Bagalamukhi. For our viewers, let me mention that Goddess Bagala is the one who paralyzes enemies. She controls the darker aspects of human nature, such as envy, hatred, and cruelty. She is often visualized with the head of a crane. Let's hear more about her from Gurudev.</span></div>
