@@ -27,6 +27,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells a host and a doctor that the Earth's rotation has quickened, shortening day and night to roughly 22 hours, and he further claims humans will become shorter and less fertile. He also describes Saturn and Mars as a concerning alignment, names June 22 as a peak time, and expects the COVID graph to fall under the law of diminishing returns. The doctor explains emergency vaccine approval and pandemic stress, while both urge masks, distance, and sanitizing.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -35,6 +35,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Sujib Da asks why March 15, 2024, is considered special, and Kar Babu describes an anti-cyclone over the Bay of Bengal, severe heat, drought, delayed rain, and damage to agriculture. Guru Shyama Khyapa calls 2024 a 'year of death' and warns that a more deadly ancient virus is emerging from melting glaciers. A doctor from Uttarakhand discusses prolonged fevers, declining active immunity, and vaccine rumors, and Sujib Da says science brings both blessing and destruction.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

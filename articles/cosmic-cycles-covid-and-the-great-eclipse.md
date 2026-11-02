@@ -33,6 +33,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Asked about cosmic phenomena, Guru Shyama Khyapa connects COVID-19's discovery on December 26, 2019, with a solar eclipse and describes a coming seven-hour eclipse from 9 AM to 4 PM that he says will bring dizziness, nausea, and headaches. He urges pregnant women especially to stay in bed, and advises everyone not to look at the sun. He also says the Earth's rotation increased after a tsunami and that the rise of Krittika Nakshatra will weaken the virus.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
