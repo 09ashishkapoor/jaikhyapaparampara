@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains Maha Ashtami's significance and the practices he says the scriptures forbid: chanting mantras over a microphone, playing the Sanai during Durga Puja, and dancing during Arati, which he says displease the Mother. He details the worship of the Ashta Shakti, Dash Dikpal, Bhairavs and Bhairavis, Chandi Path, Bali, and Sandhi Puja, and advises women at home to write Durga's name and float it in the Ganges for merit. Meteorologist Sujib Kar then forecasts scattered rain but no cyclone, with the remaining Puja days relatively safe.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

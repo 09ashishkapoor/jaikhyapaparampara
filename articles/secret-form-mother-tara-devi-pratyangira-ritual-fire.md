@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa describes Pratyangira Devi as a terrifying form of Mother Tara, detailing her lion mount, foot on a corpse, trident, drum, skull garland, and the fire on her head. He says he performed her Hom for a full year after a thousand-day Mahamrityunjaya Yagna, warning that she can destroy a lineage if displeased or grant the world if pleased, and that only an extremely honest person can worship her. He advises householders not to bring Dashamahavidya forms into family homes, recommending Lakshmi, Saraswati, Kartik, Ganesh, or Durga instead.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
