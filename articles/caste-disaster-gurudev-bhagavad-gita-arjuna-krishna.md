@@ -28,6 +28,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers a devotee's questions about the Bhagavad Gita, beginning with Arjuna as a sincere seeker and Krishna's strategic role in establishing Dharma. He describes Duryodhana's choice of the Narayani army over Krishna and Shakuni's foresight, then explains Karma as sacrificial action for world welfare. Calling the Gita the supreme truth amid Maya, he also reads cracks in the Jagannath temple as a possible sign of approaching Pralay, and urges the devotee to keep seeking.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
