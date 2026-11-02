@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Gurudev explains that Annapurna, worshipped on Chaitra Shukla Ashtami when Kashi holds the Annakut festival, feeds the whole world, then recounts Sati's self-immolation at Daksha's sacrifice and the fall of her fifty-one body parts as Shakti Peethas. He says Shiva's trident makes Kashi free of famine and pandemic, ties Kubera's refuge with Shiva to the hidden Yakshapuri or Gyanganj guarded by long-lived Lamas like the 400-year-old Jutsu Lama, and notes that Annapurna has been worshipped in his home for thirty years.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

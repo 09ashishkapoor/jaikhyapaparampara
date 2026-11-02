@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Answering a disciple's question about growing hostility, Gurudev says enmity is man-made and traces it to uncontrolled anger, self-interest, disputes over land, and the five impulses of lust, anger, greed, attachment, and pride. He predicts that 2021 will bring soaring prices and unrest, and prophesies that food will exist but fail to reach people, leaving many to starve—a thesis he associates with Amartya Sen. He closes with a story about a khana-kata job seeker to explain why some viewers post negative comments.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
