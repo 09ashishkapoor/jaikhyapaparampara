@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa presents Shoroshi, or Kamakhya, as the third Mahavidya and the stage where desire is conquered, explaining why she is worshipped as Kameshwari with Kameshwara and how her ten colored hands and five-skull seat form a conceptual image. He names Mahasatis including Gouri, Gandhari, Kirati, Matangi, Krishna, and Yashoda, describes the guarded sixteen seed syllables, and recounts legends of the Kamakhya temple and the Cooch Behar king. The talk matters as guidance for sadhakas seeking to overcome desire.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
