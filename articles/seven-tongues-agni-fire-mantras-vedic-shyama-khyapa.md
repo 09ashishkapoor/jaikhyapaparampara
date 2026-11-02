@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Gurudeb Shyama Khyapa answers a disciple's request about Agni's seven tongues, reciting the Vedic mantras for each and an additional offering to Goddess Kamala for siddhi. He explains why fire is required in rites such as Annaprashan and Upanayana and at initiation, describing Agni as Jataveda and a witness, and notes that a fire has burned continuously since the Mahamrityunjaya Yajna. He also describes Homa Sankalpa and the final Visarjan, in which embers are placed in water and milk and curd cool the earth.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
