@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa presents the Bhavishya Malika, written by five pillars of the Jagannath Temple, as prophecy that aligns with scientific warnings about global warming, rising seas, and extreme weather. He says parts of America, Britain, and Europe will sink, that Russia will emerge as a savior, and that seven days of darkness may come when the sun moves far from Earth. He also links the text to predictions of robot warfare, a virus in Antarctica, and the return of Satya Yuga by 2030 or 2031.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

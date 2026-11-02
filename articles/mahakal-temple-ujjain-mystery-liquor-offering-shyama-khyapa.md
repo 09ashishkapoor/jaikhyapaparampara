@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa describes Ujjain's Mahakal temple, which he says stands about eight kilometers from the city on the Shipra's banks and was once a Tantric site where goats and liquor were offered. He recounts the reported phenomenon of liquor vanishing before the idol, a British official's failed search for a hidden pipe, and the modern decline of such offerings. He also explains Mahakal as the controller of time, the need to worship a goddess's Bhairava, and the sacred ash from the Mahamrityunjay Yagna.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
