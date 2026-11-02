@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa reunites with Sadhika Sangeeta after 21 years and recalls her earlier visits as a restless seeker who questioned him relentlessly, saying he recognized her only after noticing her nose ring. Sangeeta describes how his patient guidance and emphasis on devotion gave her strength, and how she now travels, paints, and observes people while carrying a small Gopal idol. The guru says she has matured from a troubled young woman into someone who may bring peace to others, calling the reunion a matter of fate or God's will.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

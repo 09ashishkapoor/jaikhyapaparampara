@@ -33,6 +33,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa performs the Mahamrityunjaya Yagya and describes it as a repeated ritual for world peace amid widespread unrest and disease, warning that humanity faces biological warfare, locusts, storms, and the possibility of a massive earthquake. He attributes these crises to the collective karma of humanity and argues that science and medicine cannot identify or stop the virus, so people must turn to spirituality. He also criticizes temples that focus on donations and urges them to perform Vedic rituals for the welfare of humanity.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

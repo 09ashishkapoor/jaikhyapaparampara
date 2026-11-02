@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">During a Chandi Path observed for Swami Vivekananda's birthday, Guru Shyama Khyapa tells a visitor that a High Court advocate traveled from Howrah to recite the Devi Mahatmyam for the Mother. The guru explains that the man is not exactly his disciple but has grown fond of the place, and that the recitation will be followed by a homa and sacrificial rites, with every ritual and decoration offered in Vivekananda's name. He adds that the annual observance includes feeding devotees, with disciples managing arrangements because he is old.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
