@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa and devotee Shibani recount how hardship brought her to him after her family's wealth was lost, debt mounted, and she could not feed the dogs Khyapa links to Vamdev Baba. Shibani describes his initiation and promise that her good days would come, then the family's recovery, her daughter's last-minute MA admission, and her husband's recovery from what she calls a black-magic affliction; Khyapa presents her weekly bhog service as an example of the faith he says can change everything.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

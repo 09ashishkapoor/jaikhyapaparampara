@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa describes Jyoti Darshan as both the electricity that sustains the heart and a spiritual light drawn out through practice, saying it is needed for the vision of God and that meditation light at the third eye is not the full experience. Speaking during a Homa at Shantikunja, he connects this inner light to saints' auras, subtle-body travel, and the protective power attributed to advanced practitioners, and presents daily Homa as a Vedic response to worldly suffering.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
