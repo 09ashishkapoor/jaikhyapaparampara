@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa says his family's Annapurna Puja ran for thirty-two years and paused after his mother's and brother's deaths; this year a smaller puja will be held at the cremation ground, where no visitor may leave unfed. He narrates Sati's self-immolation at Daksha's sacrifice, Virabhadra's destruction of the rite, and the fall of her body as the fifty-one Shakti Peethas, then says Annapurna came to Kashi to feed Shiva. He links the ritual to an old woman at Dashashwamedh Ghat who said she would come to his house.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

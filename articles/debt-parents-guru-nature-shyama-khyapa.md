@@ -19,6 +19,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains the debts owed to parents, the Guru, and Nature, teaching that parental debt can never be fully repaid and that the debt to Nature is acknowledged through offerings to the Earth. He tells a Benaras story of a son whose temple for his mother was left leaning, illustrating how ego cannot discharge parental obligation, and describes the Rinamukteshwar Mahadev temple near the Narmada where devotees pray for release from debt. He also condemns neglect of elderly parents, warning that those who abandon them poison the Earth.</p>
+
 <div class="transcript-container" style="background-color:var(--bg-secondary);border:1px solid var(--border-color);border-radius:12px;padding:2rem;margin:2rem 0;box-shadow:0 4px 6px rgba(0,0,0,0.1);">
 <div class="speaker-block" style="margin-bottom:1.5rem;">
   <span class="speaker-name" style="font-weight:700;color:var(--accent-bright);margin-right:0.5rem;text-transform:uppercase;letter-spacing:1px;font-size:1rem;">Narrator:</span>
