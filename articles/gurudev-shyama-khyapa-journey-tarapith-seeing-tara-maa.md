@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">A devotee records the journey to Mahapith Tarapith with Gurudev during the COVID-19 period, with twenty people in two cars and protocols being followed. Guru Shyama Khyapa says he has never traveled there with such a group, has not visited for almost a year, and regards the pandemic as perhaps an act of God rather than something made by humans. He says the party will perform a Shanti Yagya near the Mother's temple for the world's well-being, and recalls being stranded in Tarapith for fifteen days during a massive flood.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

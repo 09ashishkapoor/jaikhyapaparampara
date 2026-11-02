@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains how a single breath divides into five life airs—Prana, Apana, Samana, Udana, and Vyana—and describes their roles in heartbeat, movement, digestion, burping, and death. He links Kumbhaka, or breath retention, to the twenty-four tattvas, the Hang-Sa mantra, and the opening of the Kula Kundalini chakras, citing Yogiraj Shyama Charan Lahiri's warning against practicing in polluted places. He also warns that Vayu Kriya without a proper Guru can go wrong and describes mental worship of the body as the Mother's temple.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
