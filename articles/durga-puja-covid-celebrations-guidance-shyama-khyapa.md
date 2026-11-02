@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa endorses the decision to hold 'Ghorowa Puja' locally during the COVID-19 pandemic, recalling that during the peak he sat outside the gate of his Annapurna Puja and admitted no one. He acknowledges the Dhakis, priests, and pandal workers who depend on the festival for their yearly income, discusses the financial strain on ordinary households, and explains how an intercalary month displaced the usual zodiac timings. He also praises committees that redirected puja funds to the destitute and stresses distancing, masks, and sanitizer.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

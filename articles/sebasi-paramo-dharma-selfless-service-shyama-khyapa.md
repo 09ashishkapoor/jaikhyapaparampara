@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains why 'Seba' (service) is the ultimate religion, weighing those who serve the Mother directly against those who serve humanity and arguing that God must be served first. He extends selfless service to animals and birds, rejects offerings at the Mother's temple as expressions of ego, and answers critics who call his work 'business.' He also describes the discipline true Sadhana demands and laments that sacrifice has given way to self-interest.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

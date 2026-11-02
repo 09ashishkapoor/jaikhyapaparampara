@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa walks through the Navami and Dashami rituals of Durga Puja, from the Dashadikpala, Ashtashakti, Bhairava, Chausath Yogini, and weapon worship through the Bali-dan and Vedic Homa to the Dakshinanta that closes the day. He explains the Dashami sequence—Dadhikarma, Ghat-sanchalana, the cutting of the ritual thread, Darpana-Visarjana, Sindoor-khela, and immersion—and answers questions on preparing the Ghat and on Dussehra. The account ends with the worship of Goddess Siddhidatri.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
