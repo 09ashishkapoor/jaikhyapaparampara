@@ -31,6 +31,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa warns that the sea and mountains have become dangerous, citing turbulent waters in South 24 Parganas, rising waves at Puri, and landslides in Maharashtra. He predicts an undersea earthquake and tsunami, says sacred sites such as Kedarnath, Badrinath, and the Puri temple face destruction, and warns that 2023 and 2024 will bring significant loss of life, with the toll rising in 2025. He also warns of a food crisis, saying El Niño has kept South Bengal dry and could ruin rice cultivation in the 24 Parganas.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

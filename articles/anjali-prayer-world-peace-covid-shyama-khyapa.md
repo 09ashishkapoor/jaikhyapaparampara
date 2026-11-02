@@ -31,6 +31,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">A priest leads devotees in an Anjali floral offering of sandalwood and flowers to Goddess Durga and her divine family, reciting salutations and prayers for protection, forgiveness, health, and long life. The priest asks the gathered devotees to pray for world peace and for the eradication of the Corona disease, expressing confidence that Durga has protected the world from such calamities before. The episode closes with the Shanti-Kunda ritual and chants of Om Shanti, with prayers that the Earth become free of disease and fertile again.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
