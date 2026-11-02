@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa blesses his disciple Dr. Sujit Kar, headmaster of Maheshtala Ganipur Shitalatala High School, on receiving the West Bengal Government's 'Shiksha Ratna Sammanana 2021,' and recalls telling him to have patience after fifteen or sixteen years at the temple. Dr. Sujit attributes the award to school development, student progress and socially relevant research, and describes advising Kolkata's Metro Rail engineers to time Bowbazar excavation to tidal cycles and underground water flow from the buried Mukundapur Canal. The occasion also includes Kaushiki Amavasya rites and a fire sacrifice.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
