@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains Sthan, Kaal, and Patra—place, time, and recipient—by grounding them in Kaya, Mana, and Vakya, or body, mind, and speech. He illustrates place through temples and negative environments, time through seasonal fruit and Ravana's advice never to postpone a good deed, and recipient through the warning that advice to fools only provokes them. He cites Ramakrishna Paramahansa finding Vivekananda as a worthy vessel and says sages who cannot find a recipient may return their powers to the Ganges, underscoring discernment.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

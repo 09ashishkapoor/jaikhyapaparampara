@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells an interviewer that science and spirituality differ in scope, not fundamental truth, arguing through water, drought rituals, and forest fires that science cannot exceed its boundaries while spirituality operates far beyond them. He connects Vedic deities, directional guardians, and the Himalayas as a center of sages' penance with Mahadev's departure from Kailash for Chandrachur Hill. He also attributes air travel, thousand-year lifespans, Gyanganj's immortality practices, and ether communication to yogic mastery, presenting spirituality as a higher science.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

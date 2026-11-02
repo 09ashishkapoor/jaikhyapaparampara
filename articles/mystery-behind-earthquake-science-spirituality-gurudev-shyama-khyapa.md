@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa and geologist Sujit Sir discuss recent earthquakes, with Sujit Sir linking Kolkata's 5.3-magnitude tremor to the Eocene Hinge, heavy construction, and global warming, and warning that melting Antarctic ice could submerge coastal cities. Gurudev reads the Bhabishya Malika as foretelling a Mahapralay that he says will end human life before new life emerges. Sujit Sir predicts coastal areas within about 73 kilometers of the sea will be underwater within 12 to 13 years, while Gurudev says it may all end in 10 to 12 years.</p>
+
 <div class="transcript-container" style="font-family: arial, sans-serif; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 20px;">
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Interviewer:</span> <span class="speech-text">Gurudev, pranam.</span></div>
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Gurudev:</span> <span class="speech-text">Pranam, pranam.</span></div>
