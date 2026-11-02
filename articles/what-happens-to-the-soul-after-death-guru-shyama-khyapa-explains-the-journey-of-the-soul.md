@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains why Hindus cremate while Muslims bury and Parsis leave bodies for birds, arguing that cremation leaves no germs and returns the body to the five elements. He describes the soul's ten-day stay, the Ghat Pindo ritual that sends it to seek a new womb, and the annual Shraddha, while rejecting food offerings before a photograph. He also calls Sati a superstition without scriptural sanction and traces the stigma once attached to crossing the ocean, linking ritual detail with criticism of inherited practices.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

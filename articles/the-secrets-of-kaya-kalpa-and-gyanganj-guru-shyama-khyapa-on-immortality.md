@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa describes Kaya Kalpa as a practice reserved for high-level seekers in Gyanganj, who he says live 2,500 to 4,000 years by consuming purified powders of gold, silver, zinc, lead, and copper. He explains that these bhasmas replenish the body's seven dhatus and lower apparent age, and that fourth-level seekers live on air and are trying to approach the Sun. He also distinguishes Kaya from Chhaya through Surya's wife Sarbani and says Gyanganj is closed to ordinary people, presenting a practice he regards as beyond common access.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

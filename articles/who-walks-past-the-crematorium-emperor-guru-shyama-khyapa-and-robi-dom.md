@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa introduces Robi Dom, whom he calls the last of the old Doms at the Rajpur ground, and Robi recounts his 3 a.m. initiation on a funeral pyre and the shift from wood to electric cremation. Robi describes spirits near the Kali temple and an unburnable body that sat up until he cut a root-like mark; Guru Shyama Khyapa tells of the Shmashan Rakshak and says he has spiritually bound Robi so nothing can harm him. The exchange preserves a longtime disciple's memories of the cremation ground.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
