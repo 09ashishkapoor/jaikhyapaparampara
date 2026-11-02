@@ -31,6 +31,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">In dialogue with a student, Guru Shyama Khyapa explains the tantric practice of Kumbhaka, describing breath retention through alternate nostrils, visualization of a fire wall and a lamp within, and the expulsion of the Papa Purusha before practice. He outlines the mantras and seated posture involved, explains how retained breath presses on the Muladhara and helps awaken the chakras, and credits the practice with extending life to 100 or 150 years. He advises listeners to learn the technique from someone who knows it well.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

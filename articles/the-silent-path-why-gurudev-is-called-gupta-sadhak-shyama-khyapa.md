@@ -31,6 +31,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Asked why he is called Gupta Sadhak, Guru Shyama Khyapa explains that sadhana must be practiced secretly and describes spending 22.5 years in a six-by-six-foot room, mostly unknown even to his neighbors, before speaking publicly after a disciple's urging. He says the name reflects a hidden path that rejects money and display, and he recounts how Bama Khyapa, his guru, was likewise ordered by Ma to help people despite his reluctance. He also frames the end of a sadhak's life as a private settling of accounts with the Goddess.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Asked whether satellite crashes, heatwaves, and landslides signal that the world has fully entered the Age of Kali, Guru Shyama Khyapa traces Kali's arrival to King Parikshit and the four places the king allowed Kali to dwell: alcohol, the buying and selling of women, gambling, and gold. He describes modern environmental decay—cement cities, lost forests, depleted groundwater, warming oceans, and orbiting debris—as the visible cost of this age, warning that concluding eras bring volcanoes, earthquakes, and floods.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
