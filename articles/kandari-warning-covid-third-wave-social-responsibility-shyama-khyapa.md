@@ -30,6 +30,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa responds to a report that COVID-19 is spreading among younger people and that infected families are being shunned, warning that a third wave may be more horrific and that even family bonds are breaking down. He criticizes late government lockdowns, crowded buses, vaccine shortages, and hospital bed scarcity, urging neighbors to help from a distance while taking precautions. He likens the pandemic to a biological war and calls on individuals to wear masks and stay safe, while prayers for world peace continue at Shantipur.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

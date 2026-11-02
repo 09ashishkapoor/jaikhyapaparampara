@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts the legends and rituals of Rath Yatra, tracing the festival to Krishna's separation from Radha and his sorrowful return to Vrindavan by chariot. He describes Puri's three nearly 45-foot chariots, Jagannath's twelve-day illness, the King's golden broom, the secret Jagannath Bhagawat, and the belief that seeing the Lord on the chariot or pulling its rope ends rebirth. The conversation matters because it presents the festival as both a public royal ritual and a promise of liberation.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
