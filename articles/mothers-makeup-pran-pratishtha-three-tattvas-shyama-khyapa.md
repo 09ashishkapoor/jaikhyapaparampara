@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains how the Mother's idol is consecrated through Pran Pratishtha, with japa at the navel, chest, and head awakening the Vidya, Atma, and Shiva Tattvas. He says twenty-four further Tattvas are drawn from the cosmos and infused into her senses, and that the rite must be performed privately with Kush grass rather than as public spectacle. He also interprets her protruding tongue as modesty at stepping on Shiva's chest, not as a hidden mystery.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Pradip Das, a visitor from Agartala in Tripura, describes a recurring dream of a meditating figure by a river cremation ground and says YouTube and Google Maps led him to Gurudev for initiation. Guru Shyama Khyapa says such dreams, along with distant sounds of conchs or temple bells, often signal that initiation time has arrived. He adds that the Guru is often predetermined and that devotees travel long distances because of a connection he cannot fully explain.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
