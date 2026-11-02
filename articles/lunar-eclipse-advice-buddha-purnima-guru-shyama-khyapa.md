@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa discusses a lunar eclipse coinciding with Buddha Purnima, giving timings from the Bishuddha Siddhanta and explaining why Purnima rituals will be observed the next day. He describes traditional precautions during the eclipse, including avoiding food and cooking, and recommends japa, a post-eclipse bath, and care for pregnant women. He also links the eclipse to Cyclone Yaas and the pandemic as interconnected cosmic events.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
