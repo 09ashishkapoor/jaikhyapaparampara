@@ -15,6 +15,7 @@ Last updated: 2026-11-01
 | Context paragraphs done | **962** (947 generated + 15 pre-existing intros) |
 | Eligible remaining | **0** |
 | Phase 1 taxonomy | **Deployed and verified live 2026-11-01** |
+| Phase 2 frontmatter | **Done — all 1,205 categories canonical** |
 | Phase 4 batch queue | **Complete, pushed, verified live** |
 
 The Phase 4 queue is finished. Every transcript article now carries reader context or already had its own intro. The runner still works for new transcript articles:
@@ -64,13 +65,11 @@ The eight hubs already have a description, a two-paragraph overview, key ideas, 
 
 Do not generate hub copy automatically; it is the part that needs an editor.
 
-### 3. Phase 2 — article frontmatter cleanup (optional, now unblocked)
+### 3. Phase 2 — done
 
-The build maps every legacy category through `categoryAliases`, so this is cosmetic, not a ranking fix. Phase 4 is finished, so the old "pause while a batch is running" constraint no longer applies:
+All 1,205 articles now use a canonical hub name in `category:` (commit "Normalize article categories to the controlled vocabulary"). `categoryAliases` stays in place for any legacy value that reappears; the taxonomy guard still fails the build on anything unmapped.
 
-- Rewrite `category` in all 1,205 articles to canonical hub names.
-- One separate migration commit, reviewed as a diff.
-- Run `npm run build:test` before committing; the taxonomy guard must stay green.
+Side effect to know about: six articles moved hubs because hub membership is a score, not a strict assignment. "Our Roots" articles moved to Guru Stories, "Dasa Mahavidyas" to Spiritual Teachings, "Spiritual Remedies"/"Spiritual Tools" to Sadhana, and one Guru Stories article that had been scoring into Prophecy moved back to Guru Stories. All match the alias map.
 
 ### 4. New content — keep the queue empty
 
@@ -112,7 +111,7 @@ The build maps every legacy category through `categoryAliases`, so this is cosme
 
 ## One-paragraph session opener
 
-> Read `SEO-UNPLUG/NEXT-STEPS.md`, `SEO-UNPLUG/README.md`, and `SEO-UNPLUG/PHASE-4-BATCH.md`. Continue from the current state: Phase 1 taxonomy is deployed and verified live (sitemap 1,266 URLs, tag pages noindex, 4 promoted tag 301s working), Phase 4 is complete (962/962 transcript articles, 947 generated paragraphs, all verified live and pushed), working tree clean. Next: Phase 5 GSC URL-group measurement, then optional Phase 3 hub copy polish and Phase 2 frontmatter cleanup. Do not bulk-edit article frontmatter without a separate commit.
+> Read `SEO-UNPLUG/NEXT-STEPS.md`, `SEO-UNPLUG/README.md`, and `SEO-UNPLUG/PHASE-4-BATCH.md`. Continue from the current state: Phase 1 taxonomy is deployed and verified live (sitemap 1,266 URLs, tag pages noindex, 4 promoted tag 301s working), Phase 2 is done (all 1,205 categories canonical), Phase 4 is complete (962/962 transcript articles, 947 generated paragraphs, all verified live and pushed), working tree clean. Next: Phase 5 GSC URL-group measurement, then optional Phase 3 hub copy polish.
 
 ---
 
