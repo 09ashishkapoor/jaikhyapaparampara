@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa marks his YouTube channel's 100,000-subscriber milestone by crediting Sujata Roy and Kalyan Roy with creating it and thanking Pradip Dutta, Kaushik Mondal, and his grandson for running it. He describes the channel's growth, his refusal to take YouTube earnings, the global reach of his Tara-centered videos, and his wish that Mother Tara make the obscure village of Rajpur and its cremation ground known. The conversation matters because it documents how a hidden practitioner's work reached a worldwide audience.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

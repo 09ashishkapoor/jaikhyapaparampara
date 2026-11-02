@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa links the Coromandel Express accident to the Bhabishya Malika's warning that deaths will double in the current period, which he calls the year of death. He urges people to avoid the sea and mountains, predicts the destruction of Garhwal and a tsunami, and says Shani's move into Meena between 2025 and 2026 will bring immense damage. The conversation matters as his prophetic interpretation of the disaster and his call for vigilance and devotion to God.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

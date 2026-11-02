@@ -31,6 +31,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains why Shyama Kali is worshipped before Tara and why dead-body worship must precede Kali Puja, with offerings made to the Mother's companions and cremation-ground guardians. He describes his own 32 years of tantric practice, the guards he says the Mother sent home with him, and the bamboo stick and alcohol kept on hand during Shaba Sadhana. His account matters as a detailed insider's description of a secretive ritual and its perceived dangers.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
