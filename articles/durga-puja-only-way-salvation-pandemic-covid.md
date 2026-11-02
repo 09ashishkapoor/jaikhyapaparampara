@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">With a third COVID-19 wave beginning in parts of India, Guru Shyama Khyapa tells an interviewer that collective worship of Goddess Durga and Adya Shakti Mahamaya is the only way through the crisis. Citing the Chandi's promise that the Mother protects those who remember her in trouble, he notes that even Brahma, Vishnu, and Shiva pray to the Primal Energy and gives the mantra 'Kling Adya Shakti Mahamayay Namah.' He urges communities to set up Ghats and perform Durga Puja, Chandi recitation, and Havan together.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

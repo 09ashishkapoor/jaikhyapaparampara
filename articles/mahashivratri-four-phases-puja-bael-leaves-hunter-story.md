@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains Mahashivratri as a vow traditionally observed by women, walking through the four phases of worship — Ishan, Aghore, Bama, and Sadyojata — and the foods offered in each. He retells the story of a hunter who unknowingly pleased Shiva when Bael leaves and meat fluid fell on a Lingam, and explains Sadyojata as the newborn Shiva who calmed Chamunda's rage. He also advises girls seeking marriage to tie a yellow thread around a Peepal tree, and says women should worship Shiva while men worship Durga.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

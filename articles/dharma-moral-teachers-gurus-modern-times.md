@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Responding to a host's question, Guru Shyama Khyapa explains why people struggle to follow the moral teachings of Krishna, Buddha, Jesus Christ, Chaitanya Mahaprabhu, and Prophet Muhammad, tracing the problem to a loss of true faith and patience. He describes people as restless and divided among sects, recounts NASA's satellite over Mount Kailash as having left observers awestruck by Mahadev's presence there, and says Sanatan Dharma is awakening rather than fading. He also argues that gurus who become inaccessible after giving initiation leave seekers without the teachings' essence.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
