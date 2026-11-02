@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa responds to a viewer's discomfort at Tarapith by condemning priests who force pilgrims' heads down for money and insisting that visitors should come as humble beggar children rather than with pride. He repeats Bamakhepa's warning that looking at the Brahmasila can drive a person mad and touching it can cause blindness, and he explains why he worships Bamakhepa before Tara. He also describes Tara as only a head and says the site is the field of Tara, so there is no need to enter the inner sanctum.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

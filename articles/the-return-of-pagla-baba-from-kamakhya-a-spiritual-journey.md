@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa welcomes disciple Santu Acharya, called Pagla, back to Shantikunja after a four-month walk to Kamakhya and explains the Guru's duty to honor a disciple who has completed such a pilgrimage. Ghotok Babu calls the foot-washing and offerings an ancient tradition and says the Guru's rituals are aimed at world welfare, while Guru Shyama Khyapa credits a three-year Mahamrityunjaya Yajna with keeping COVID from Shantikunja. Pagla says he realized he is part of his Guru and that the journey would have been impossible without him.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

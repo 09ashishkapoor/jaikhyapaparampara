@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts his journey to the Narmada, which he insists should be called Reva, describing the train and mountain roads to the Bharat Sevashram Sangha and the Mother's temple. He tells of meditating at the Narmada Yantras and of visiting Barfani Baba and the high-altitude Bhrigu Kamandalu. He describes receiving a vision of the Mother as Jagadhatri there and explains why seekers undertake the Narmada Parikrama.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
