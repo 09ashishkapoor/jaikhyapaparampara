@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains adhaar and adhikar as matters spanning many lifetimes, using Ramakrishna's transfer of power to Vivekananda to show how a guru recognizes a disciple's capacity. He says a guru tests disciples carefully, can discern past-life connections, and may decline to elevate caste even when able, citing Vishwamitra's return to his Kshatriya role. He closes by warning that the Mother's judgment is fearsome and that no trickery escapes Chitragupta's record.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
