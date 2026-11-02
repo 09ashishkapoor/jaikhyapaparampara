@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">At a Jagadhatri Puja in Goria, Guru Shyama Khyapa recalls seeing the goddess in her Jagadhatri form at Dehu Kamandala during Narmada Parikrama about 30 to 40 years ago. He explains the tradition of worshiping a clay idol in that form for five years before immersion, details the once-yearly Arghya offering of Alata and Bel leaves, red sandalwood, 108 Durva stalks and 108 Atap rice grains, and describes Sandhi Puja as a 48-minute 'non-time' reserved for Goddess Chamunda. Though unwell, he recites the Chandi at the host's request.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

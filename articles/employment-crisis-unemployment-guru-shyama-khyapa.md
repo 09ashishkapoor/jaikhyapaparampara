@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa gives a firsthand account of West Bengal's employment decline, recalling his law practice with 35 to 40 employees and 300 files before a 1988 policy change exempted businesses under five lakh rupees from certain taxes. He links the subsequent factory closures to extortion and political failure, saying that 150 young men now come to him daily for work and that West Bengal has become a 'graveyard.' The 75-year-old concludes that the opportunity to reverse the collapse has passed and warns of social unrest.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
