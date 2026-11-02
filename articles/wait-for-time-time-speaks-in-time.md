@@ -32,6 +32,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa links the rising Suraiya star to intense heat and says COVID-19 has largely ended, with remaining reports amounting to hype and business. He interprets forest fires, earthquakes, locust swarms, and Cyclone Amphan as signs of greater disaster, predicts a major earthquake, and describes sadhus as spiritual shields whose removal precedes destruction. He also criticizes prolonged school closures and public greed, urging honesty as his central message.</p>
+
 <div class="transcript-container" style="font-family: arial, sans-serif; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 20px;">
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Host:</span> <span class="speech-text">Salutations to the venerable secret practitioner, Shri Shri Shama Khapa. We begin our program from Shantikunj by offering our respects to Guru Dev Shama Khapa. Let us all listen to the invaluable words of the Guru.</span></div>
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Disciple:</span> <span class="speech-text">Guru Dev, my respects to you.</span></div>

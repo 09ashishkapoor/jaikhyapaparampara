@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts how Gandhari's curse after Kurukshetra doomed Krishna's Yadu dynasty, and how the Pandavas sought atonement through the Das Ashwamedha Yajna before their journey toward heaven. He describes Shiva fleeing as a bull at Kedarnath, Yudhisthira's half-truth about Ashwatthama, and Krishna's death by Jara's arrow. He closes with the cremation of Krishna's body, the survival of his navel, and the relic's arrival at Puri, explaining the origin of the Brahma inside the Jagannath idol that is transferred every twelve years.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
