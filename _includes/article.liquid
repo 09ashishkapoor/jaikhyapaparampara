@@ -9,6 +9,8 @@
       {% assign seoDescription = seoDescription | truncate: 155 %}
     {% endunless %}
     {% assign relatedCoreEntities = coreEntities | relatedCoreEntities: title, description, keywords, category, tags %}
+    {% assign topicUrl = collections.browseGroups | articleTopicUrl: page.url %}
+    {% assign topic = collections.browseGroups | where: "url", topicUrl | first %}
     {% assign brandedSeoTitle = seoTitle | append: ' | Jai Khyapa Parampara' %}
     <meta name="description" content="{{ seoDescription | attrEscape }}">
     <meta name="keywords" content="{{ keywords | attrEscape }}">
@@ -134,12 +136,22 @@
         "position": 2,
         "name": "Articles",
         "item": "https://jaikhyapaparampara.com/articles/"
+      },{% if topic %}{
+        "@type": "ListItem",
+        "position": 3,
+        "name": {{ topic.name | jsonify }},
+        "item": {{ "https://jaikhyapaparampara.com" | append: topicUrl | jsonify }}
       },{
+        "@type": "ListItem",
+        "position": 4,
+        "name": {{ title | jsonify }},
+        "item": "https://jaikhyapaparampara.com{{ page.url }}"
+      }{% else %}{
         "@type": "ListItem",
         "position": 3,
         "name": {{ title | jsonify }},
         "item": "https://jaikhyapaparampara.com{{ page.url }}"
-      }]
+      }{% endif %}]
     }
     </script>
     
@@ -303,6 +315,10 @@ body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);bac
             <a href="/">Home</a>
             <span>›</span>
             <a href="/articles/">Articles</a>
+            {% if topic %}
+            <span>›</span>
+            <a href="{{ topicUrl }}">{{ topic.name }}</a>
+            {% endif %}
             <span>›</span>
             <span>{{ breadcrumbTitle | default: title }}</span>
         </nav>
@@ -311,7 +327,6 @@ body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);bac
     <!-- Article Header -->
     <article>
         <header class="article-header container">
-            {% assign topicUrl = collections.browseGroups | articleTopicUrl: page.url %}
             {% if topicUrl != "" %}
             <a href="{{ topicUrl }}" class="article-category" style="text-decoration:none;">{{ category | categoryLabel }}</a>
             {% else %}
@@ -320,7 +335,7 @@ body{font-family:'Crimson Text',serif;line-height:1.8;color:var(--text-dark);bac
             <h1 class="article-title">{{ title }}</h1>
             <div class="article-meta">
                 <span>📅 {{ page.date | dateDisplay }}</span>
-                <span>{% unless category == 'Guru Stories' or category == 'Sadhana' or category == 'Philosophy' or category == 'Guru Messages' or category == 'Rituals & Yagyas' or category == 'Our Roots' or category == 'Temple of Knowledge' %}✍️ {% endunless %}{% if author contains '🗣️' %}{% else %}By {% endif %}{{ author | default: 'KaliPutra-Ashish' }}</span>
+                <span>{% unless topic.slug == 'guru-stories-devotee-lives' or topic.slug == 'sadhana-tantra-mantra' or topic.slug == 'spiritual-teachings-philosophy' or topic.slug == 'discourses-practical-life' or topic.slug == 'rituals-worship-festivals' or topic.slug == 'sacred-texts-scriptures' %}✍️ {% endunless %}{% if author contains '🗣️' %}{% else %}By {% endif %}{{ author | default: 'KaliPutra-Ashish' }}</span>
                 {% if readingTime %}<span>⏱ {{ readingTime }} min read</span>{% endif %}
             </div>
             {% if source %}

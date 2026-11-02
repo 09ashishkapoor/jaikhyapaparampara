@@ -16,6 +16,7 @@ Last updated: 2026-11-01
 | Eligible remaining | **0** |
 | Phase 1 taxonomy | **Deployed and verified live 2026-11-01** |
 | Phase 2 frontmatter | **Done — all 1,205 categories canonical** |
+| Phase 3 hub links | **Done — hubs list every article; breadcrumbs link back up** |
 | Phase 4 batch queue | **Complete, pushed, verified live** |
 
 The Phase 4 queue is finished. Every transcript article now carries reader context or already had its own intro. The runner still works for new transcript articles:
@@ -56,14 +57,14 @@ Expected: build passes, `962` done, `0` eligible, tree clean.
 - Watch **article** indexed count, not the aggregate. "Excluded by noindex" will jump and total indexed will fall — that is the cleanup, not a regression.
 - Recheck in 2–4 weeks; tag URLs take time to leave the index.
 
-### 2. Phase 3 — hub copy review
+### 2. Phase 3 — done (copy polish optional)
 
-The eight hubs already have a description, a two-paragraph overview, key ideas, and linked clusters (inherited from the old `.eleventy.js` and now owned by `_data/topics.js`). Nothing is missing; the remaining work is editorial polish if you want it:
+Each of the eight hubs has an H1, meta description, two-paragraph overview, key ideas, a start-here set, core-entity links, and links to every article in its cluster — all 1,205 articles are reachable from exactly one hub page. Articles link back up through the category chip and through the breadcrumb (`Home › Articles › Hub › Article`, in both HTML and JSON-LD), and sideways through the related-articles block.
 
-- Refresh each hub's intro/overview for search intent.
-- Check the start-here set on each hub still lists the best five articles.
+Remaining work is editorial only, at your discretion:
 
-Do not generate hub copy automatically; it is the part that needs an editor.
+- Refresh a hub's intro/overview if you want a sharper search-intent match.
+- Re-pick a hub's start-here set; it currently takes the latest five articles automatically.
 
 ### 3. Phase 2 — done
 
