@@ -24,6 +24,9 @@ source: |
   <p><a href="https://www.youtube.com/watch?v=yp3cI2xUTyo" rel="noopener" style="color: var(--accent-bright); text-decoration: none; font-style: normal; font-size: 0.95rem; margin-top: 0.5rem; display: inline-block;" target="_blank">📺 Watch Original Bengali Video on YouTube</a></p>
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
+
+<p class="transcript-context">Guru Baba Shyama Khyapa explains his move from wealthy exporter to seeker, saying he came to see money as less valuable than finding God and gradually closed his business and sold his cars. He distinguishes honest money from sinful money, warns that greed has no end, and says he refuses payment from visitors because he cannot know whether their money was earned honestly. He illustrates these points with stories of Dada Thakur, Ramprasad, and Draupadi, and says the Divine Mother provides for those who sincerely seek Her.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
