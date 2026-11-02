@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Responding to a disciple's question, Guru Shyama Khyapa explains Nishkam Karm Yog as selfless action without attachment to results and Gyan Yog as sharing knowledge to lead people from darkness to light. He cites Swami Vivekananda and Bama Khyapa as examples of selfless work, answers critics who call him a fraud, and describes his YouTube teaching as a form of Gyan Yog. He also invokes the poet-saint Ram Prasad to argue that the divine is present everywhere.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
