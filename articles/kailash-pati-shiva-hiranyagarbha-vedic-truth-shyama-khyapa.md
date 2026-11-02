@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers a disciple's question about Lord Shiva with a humorous tale of Shiva at Manasarovar creating doctors, barristers, and lawyers from pebbles until Parvati interrupts him. He uses the story to distinguish the Puranic Shiva of Kailash from Adi Shiva in the sky, called Hiranyagarbha, the golden womb from which creation and destruction emerge and to which oblations are offered in the Maha Mrityunjaya homam. He notes that South Indian temples still honor this Vedic concept as a golden egg.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
