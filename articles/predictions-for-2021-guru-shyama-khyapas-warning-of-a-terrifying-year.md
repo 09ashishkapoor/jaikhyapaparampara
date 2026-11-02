@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa warns that 2021 will be more terrifying and deadly than 2020, saying he has no guarantee for the year and that people must surrender to God with faith as science falls behind. He predicts a meteor strike with radioactivity fifteen times that of the Hiroshima and Nagasaki bombings, earthquakes of 10 to 12 on the Richter scale, famine, lack of medical treatment, and many deaths. He also calls for self-restraint and says only Tara, whom he describes as Jupiter personified, can protect the Earth.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

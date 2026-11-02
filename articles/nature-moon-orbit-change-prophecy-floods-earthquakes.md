@@ -33,6 +33,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells disciples that his 2021 predictions are coming true word for word, pointing to extreme heat and rain, flash floods, and earthquakes that he attributes to the moon's changed orbit and its descent of 12,000 feet. He predicts that the Himalayas will split in an earthquake and the lost Krishna Sagar sea will emerge, and he warns of a third COVID wave, famine, and massive loss of life. He says his spiritual rituals have produced no great change and that the coming upheaval cannot be turned back.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
