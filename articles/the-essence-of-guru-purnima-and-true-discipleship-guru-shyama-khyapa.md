@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">On Guru Purnima, Guru Shyama Khyapa answers questions about the Guru-disciple relationship, defining the Guru as the disciple's Ishta and a Sadguru as one who lives in truth. He explains Guru Kripa through the image of waiting at the Guru's door like a loyal dog, and links the festival to Vyasadeva's birth on Purnima. He also describes the rare disciple willing to give his life for the Guru, illustrating this with stories of devotion and courage.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
