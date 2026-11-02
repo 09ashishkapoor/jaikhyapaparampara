@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">At his Shantishonj ashram, Gurudev Shyama Khyapa hosts Swami Tantra Devananda of the Biranagar Ramakrishna Ashram and Sujoy Palit of the Indian Sadhu Society, both describing a divine call that brought them. The Swami recounts a newspaper editor's experience at Dakshineshwar and a spiritual triangle linking Kalighat and Rajpur, while Palit cites a Goa conference and his president's instruction; the talk covers recognizing a Maha Purush, love as the greatest Tantra, and Gurudev's rule of sitting only with those who have spiritual depth.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 ## Introduction: Meeting at Shantishonj

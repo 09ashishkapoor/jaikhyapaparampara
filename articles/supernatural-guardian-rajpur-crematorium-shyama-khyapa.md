@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Gurudev Shyama Khyapa recalls roughly four decades at the Rajpur crematorium, including Badal Bhattacharjee's blessing that he would see Mother Kali there and his warning to carry a sharp knife against the Shmashan Rakshak. He describes bowing to the gatekeepers, strange smells and temperature shifts, Bhagirath's illness after an invisible slap and recovery through a cleansing ritual, and his dog Shumu's years of protection, including killing a rabid dog; he also links a Tarapith prayer to his grandson's birth with matted hair.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 ## Setting the Stage: Forty Years of Supernatural Events

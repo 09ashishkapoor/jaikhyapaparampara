@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Gurudev Shyama Khyapa contrasts the old custom of calling a bride 'Dasi' and the careful horoscope and Gotra checks of arranged matches with today's phone-chat marriages and hurried Kalighat weddings. He describes a divorce epidemic, saying 70 to 80 of every 100 cases brought to him involve separation, and criticizes costly Rudraksha promises, delayed parenthood, live-in arrangements, and family interference. He warns that children suffer most when marriages collapse and asks whether mantras can repair a broken bond.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 ## The Lost Tradition of the Daughter-in-Law
