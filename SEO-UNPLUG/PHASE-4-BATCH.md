@@ -31,10 +31,12 @@ Expected now:
 
 ```
 Articles with a transcript: 962
-Already have context:       ~19
-Eligible:                   ~943
-Batches of 5:               ~189
+Already have context:       962
+Eligible:                   0
+Batches of 5:               0
 ```
+
+The queue is complete. The commands below stay valid for new transcript articles; run `auto` when any become eligible again.
 
 ## The loop
 
@@ -146,7 +148,7 @@ The next 5 eligible articles are selected automatically. No offset bookkeeping i
 
 Default is 5. Keep it there. Smaller batches reduce the chance of drift, vague summaries, and cross-article mix-ups. Override only with `--limit N`; 10 is the practical upper bound.
 
-Cost scales with total transcript length, not article count. The transcript corpus is about 2.9 million words, so the whole run is roughly 4 million input tokens across all batches. Use a cheap model for drafting and review the output.
+Cost scales with total transcript length, not article count. The transcript corpus is about 2.9 million words, so the whole run was roughly 4–7 million input tokens across all batches — completed on 2026-11-01.
 
 ## Which model?
 

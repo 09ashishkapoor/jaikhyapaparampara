@@ -18,4 +18,4 @@ Pi discovers this project skill at `.agents/skills/transcript-context/SKILL.md`.
 
 ## Batch drafting
 
-The per-article rules above remain the quality standard. For the repeatable queue, use `scripts/transcript_context.py` as documented in `SEO-UNPLUG/PHASE-4-BATCH.md`. It prepares 5 articles by default, drafts summaries in one model call, validates them, inserts only the reviewed paragraphs, and runs this guard before and after every edit. A human still reviews each batch; do not apply drafts unreviewed.
+The per-article rules above remain the quality standard. For the repeatable queue, use `scripts/transcript_context.py` as documented in `SEO-UNPLUG/PHASE-4-BATCH.md`. It prepares 5 articles by default, drafts summaries in one model call, validates them, inserts the paragraphs, and runs this guard before and after every edit. The reviewed loop keeps a human in the loop; `auto` applies without review, so the applier's validation and this guard are the only gates.

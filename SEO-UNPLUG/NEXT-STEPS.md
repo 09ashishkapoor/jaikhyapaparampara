@@ -12,80 +12,70 @@ Last updated: 2026-11-01
 |---|---|
 | Articles | 1,205 |
 | Transcript articles | 962 |
-| Context paragraphs done | **205** |
-| Eligible remaining | **757** |
-| Batches of 5 remaining | **152** |
+| Context paragraphs done | **962** (947 generated + 15 pre-existing intros) |
+| Eligible remaining | **0** |
 | Phase 1 taxonomy | **Deployed and verified live 2026-11-01** |
+| Phase 4 batch queue | **Complete, pushed, verified live** |
 
-The Phase 4 click workflow is working. It drafts 5 articles at a time, opens a review file, applies the reviewed batch, runs the guard, and archives the batch.
+The Phase 4 queue is finished. Every transcript article now carries reader context or already had its own intro. The runner still works for new transcript articles:
 
-**Phase 1 is live.** Live checks on 2026-11-01 after deploy:
+```bash
+python scripts/transcript_context.py auto          # queue runs until nothing is left
+python scripts/transcript_context.py auto --max-batches 20
+```
 
-- `sitemap.xml` → 1,266 URLs, zero `/tags/`.
+**Phase 1 and Phase 4 verified live on 2026-11-01:**
+
+- `sitemap.xml` → 1,266 URLs, zero `/tags/`, 8 hub URLs.
 - `/tags/kali/` → `noindex, follow`.
-- `/articles/topics/prophecy-world-events/` → `index, follow`.
+- `/articles/topics/prophecy-world-events/` → `index, follow`, with its cluster linked.
 - The four promoted tag URLs 301 to their hubs.
-- Homepage chips show the 8 labels (e.g. `Temple of Knowledge` → `Sacred Texts`).
+- Articles link up to their hub; related-article links exist.
+- 947/947 generated context paragraphs render on production URLs.
 
 Confirm locally with:
 
 ```bash
-git log --oneline -3
 npm run build:test
 python scripts/transcript_context.py status
+git status --short
 ```
 
-Expected: build passes, `205` done, `757` eligible.
+Expected: build passes, `962` done, `0` eligible, tree clean.
 
 ---
 
 ## What to do next, in order
 
-### 1. Set up GSC measurement for the new structure
-
-Deploy is done. In Search Console:
+### 1. Phase 5 — GSC measurement (external, needs your access)
 
 - Resubmit `https://jaikhyapaparampara.com/sitemap.xml`.
 - URL Inspection: one tag page (expect noindex), one hub (expect indexable).
 - Create URL-prefix groups for `/articles/`, `/tags/`, and `/articles/topics/`.
 - Watch **article** indexed count, not the aggregate. "Excluded by noindex" will jump and total indexed will fall — that is the cleanup, not a regression.
-- Recheck in 2–4 weeks; the tag URLs will take time to leave the index.
+- Recheck in 2–4 weeks; tag URLs take time to leave the index.
 
-### 2. Continue Phase 4 in the background
+### 2. Phase 3 — hub copy review
 
-The click workflow is independent of Phase 1. Keep running it whenever you have time.
+The eight hubs already have a description, a two-paragraph overview, key ideas, and linked clusters (inherited from the old `.eleventy.js` and now owned by `_data/topics.js`). Nothing is missing; the remaining work is editorial polish if you want it:
 
-```bash
-# or double-click SEO-UNPLUG/click/1-draft-next-5.cmd
-python scripts/transcript_context.py run --fixed --limit 5
-python scripts/transcript_context.py apply .cache/context-batches/next-batch.out.json
-```
+- Refresh each hub's intro/overview for search intent.
+- Check the start-here set on each hub still lists the best five articles.
 
-### 3. Phase 5 — GSC measurement
+Do not generate hub copy automatically; it is the part that needs an editor.
 
-Set up URL-group tracking in Search Console:
+### 3. Phase 2 — article frontmatter cleanup (optional, now unblocked)
 
-- `/articles/` → article indexing count
-- `/tags/` → old tag noise
-- `/articles/topics/` → hub indexing count
+The build maps every legacy category through `categoryAliases`, so this is cosmetic, not a ranking fix. Phase 4 is finished, so the old "pause while a batch is running" constraint no longer applies:
 
-Track **article** indexed count separately. The aggregate number mixes all three and is why it looked stuck.
+- Rewrite `category` in all 1,205 articles to canonical hub names.
+- One separate migration commit, reviewed as a diff.
+- Run `npm run build:test` before committing; the taxonomy guard must stay green.
 
-### 4. Phase 3 — hub copy and internal links
+### 4. New content — keep the queue empty
 
-After Phase 1 is live:
-
-- Write the editorial intro/overview for each hub.
-- Link every hub to its cluster articles and back.
-- Do not generate hub copy automatically; it is the one part that needs a human editor.
-
-### 5. Phase 2 — article frontmatter cleanup (last, optional)
-
-If you want clean source files instead of a build-time alias map:
-
-- Rewrite `category` in all 1,205 articles as one separate migration.
-- Pause Phase 4 click batches while that diff is uncommitted.
-- Commit it before resuming clicks, so the guard baseline is clean.
+- New transcript articles: add them, then run `auto`.
+- Any new category must resolve in `_data/topics.js` or the build fails.
 
 ---
 
@@ -93,11 +83,10 @@ If you want clean source files instead of a build-time alias map:
 
 - **Never** change transcript text, frontmatter, speaker labels, or quotations in Phase 4 articles.
 - The guard is `python .agents/skills/transcript-context/scripts/guard.py <articles...>`.
-- Phase 4 apply must be reviewed batch by batch. Do not run 757 articles unreviewed.
-- Do not bulk-edit `category` frontmatter while Phase 4 is active.
+- `auto` applies without human review. Its safety net is the applier's validation (length, sentences, description similarity, path existence) plus the guard. Nothing checks theological or historical accuracy — spot-check committed diffs.
 - Keep tag pages `noindex, follow` and out of `sitemap.liquid`; that is the Phase 1 policy, not a temporary experiment.
 - New articles can only use a category from `_data/topics.js`; the build fails otherwise.
-- Only 5 context paragraphs per batch; the default is deliberate.
+- Do not bulk-edit `category` frontmatter while a batch run is in progress.
 
 ---
 
@@ -111,7 +100,7 @@ If you want clean source files instead of a build-time alias map:
 | `SEO-UNPLUG/PHASE-4-BATCH.md` | Phase 4 command reference |
 | `SEO-UNPLUG/click/README.md` | Click workflow |
 | `SEO-UNPLUG/NEXT-STEPS.md` | This file |
-| `scripts/transcript_context.py` | Batch queue, drafting, apply, guard |
+| `scripts/transcript_context.py` | Batch queue, drafting, apply, guard, unattended loop |
 | `.agents/skills/transcript-context/SKILL.md` | Per-article quality rules |
 | `.agents/skills/transcript-context/scripts/guard.py` | Protected-content check |
 | `_includes/article.liquid` | Renders `.transcript-context` |
@@ -123,7 +112,7 @@ If you want clean source files instead of a build-time alias map:
 
 ## One-paragraph session opener
 
-> Read `SEO-UNPLUG/NEXT-STEPS.md`, `SEO-UNPLUG/README.md`, and `SEO-UNPLUG/PHASE-4-BATCH.md`. Continue from the current state: Phase 1 taxonomy is deployed and verified live (sitemap 1,266 URLs, tag pages noindex, 4 promoted tag 301s working), 205 context paragraphs done, 757 eligible, working tree clean. Next: set up GSC URL-group measurement, keep Phase 4 clicks running independently, then Phase 3 hub copy. Do not bulk-edit article frontmatter.
+> Read `SEO-UNPLUG/NEXT-STEPS.md`, `SEO-UNPLUG/README.md`, and `SEO-UNPLUG/PHASE-4-BATCH.md`. Continue from the current state: Phase 1 taxonomy is deployed and verified live (sitemap 1,266 URLs, tag pages noindex, 4 promoted tag 301s working), Phase 4 is complete (962/962 transcript articles, 947 generated paragraphs, all verified live and pushed), working tree clean. Next: Phase 5 GSC URL-group measurement, then optional Phase 3 hub copy polish and Phase 2 frontmatter cleanup. Do not bulk-edit article frontmatter without a separate commit.
 
 ---
 
@@ -140,4 +129,4 @@ If you want clean source files instead of a build-time alias map:
 | Page with redirect | 4 |
 | **Total known** | **~3,595** |
 
-The fix is structural: cut the tag URLs back to curated hubs and concentrate crawl budget on articles. Phase 4 improves the articles themselves; Phase 1 fixes whether Google spends time on them.
+The fix is structural: cut the tag URLs back to curated hubs and concentrate crawl budget on articles. Phase 4 improved the articles themselves; Phase 1 fixed whether Google spends time on them.
