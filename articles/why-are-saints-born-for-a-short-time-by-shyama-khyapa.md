@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains that perfected seekers such as Ram Prasad, Shankaracharya, Annada Thakur, and Vivekananda died young because they had seen the Mother after many births; he calls such figures Khanjanmas and says spiritual attainment also brings hidden suffering. He then turns to Snana Yatra and Ambubachi, describing the eighteen-day closing of Jagannath Temple and the bathing rituals at Kalighat and the 51 Peethas, and says the Mother must not be seen during Ambubachi.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

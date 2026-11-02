@@ -27,6 +27,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa first prays that a boy with an eye ailment regain his sight, even offering his own eyes, then answers questions about Param Brahma, Atma, and salvation. Asked about the end of space, he describes a pitch-dark, airless region without gravitation and, beyond it, Devadidev Mahadev's luminous abode resounding with Omkar, which he says no one can reach. He also explains that uniting the restless Atma with the still Paramatma is yoga and that remembering God brings salvation.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
