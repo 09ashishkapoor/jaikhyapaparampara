@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa introduces the three Ganas—Deva, Nara, and Rakshasa, also called Debari—and notes that people often raise them when discussing marriages. Santanu links the Ganas to fixed, dual, and movable zodiac signs and to the three worlds, arguing they describe professional temperament rather than marital worth; he says no Gana is bad and a bride should not be rejected as Debari. Guru Shyama Khyapa observes that hand-prepared horoscopes once took months and were more exact, while Santanu promises further detail on the astrological scriptures.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

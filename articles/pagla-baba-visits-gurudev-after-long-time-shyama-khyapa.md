@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa welcomes Pagla Baba after a long separation and says his heart had been restless until the disciple arrived. Pagla Baba recounts searching for initiation, encountering teachers who demanded silver sandals, clothes, or large sums, and finally finding the Guru by word of mouth; he describes visions and credits his continued sadhana to the Guru's grace. Guru Shyama Khyapa recalls Pagla walking ten miles penniless to see him and says Mother corrected the disciple's mistakes, so he is now practicing well.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

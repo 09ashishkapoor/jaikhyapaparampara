@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa defines the eight Ashta Siddhis—Anima, Laghima, Garima, Mahima, Prapti, Prakamya, Isitva, and Vasitva—and says such powers appear in perhaps one person in a hundred million. He illustrates them through Hanuman's leap toward the sun, his confrontation with Rahu, and his entry into Lanka, where Ma Chamunda recognizes him as an Ashta Siddha. He says true saints like Ramakrishna, Bama Khepa, and Tailanga Swami were born with these powers, warns against trafficking with ghosts or jinns, and defends his free teaching against critics.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

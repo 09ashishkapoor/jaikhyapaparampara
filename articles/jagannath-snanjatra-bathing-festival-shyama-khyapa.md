@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains that this Jyeshtha Purnima brings a Nashta Chandra, a shadowed moon that is not an eclipse, and that Jagannath's Snanjatra falls on the same day. He describes the Lord's bath with water from the underground Swet Ganga and says the 51 Shakti Peethas bathe their relics simultaneously, with Kalighat priests working blindfolded. He recounts temple omens and speaks of coming difficulties—cyclone Gati, locusts, ocean-floor cracks, a possible major earthquake near Kolkata, and approaching asteroids—while urging trust in Jagannath and Mother Kali.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

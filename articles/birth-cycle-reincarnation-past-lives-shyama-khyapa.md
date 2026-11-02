@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells an interviewer that a horoscope's Yoni indicates the animal form a soul has come from and that people often carry that creature's nature into human life. He describes birth as a cycle through 8.4 million species, arguing good karma does not guarantee a human rebirth; he discusses Bamdeb Baba's dog Kalu Baba and Ramakrishna's dog Kaptan as animals whose conduct suggested human past lives. He also says he remembers a past life as the wandering monk Swami Satyananda Saraswati and expects at most one more birth.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
