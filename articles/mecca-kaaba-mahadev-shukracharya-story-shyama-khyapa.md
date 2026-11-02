@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa responds to the claim that Mahadev is imprisoned in the Kaaba, saying Mahadev stays there by his own choice because of his devotion to Shukracharya. He recounts how Shukracharya held the Mahamrityunjaya Mantra, how Brihaspati sent his son Kacha to learn it, and how Shukracharya later asked Mahadev to remain in Mecca. He also explains that Mahadev can be present in many forms and places at once, links Friday worship to Shukra-bar, and says a deity may depart if devotion and conduct become improper.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

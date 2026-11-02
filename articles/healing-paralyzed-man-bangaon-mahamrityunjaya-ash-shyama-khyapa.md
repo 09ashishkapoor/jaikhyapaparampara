@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">A reporter interviews the wife of a paralyzed Bongaon man who says a fall during an epileptic seizure damaged one side of his brain and left him unable to speak, stand, or eat properly. She says Dr. S. K. Roy told her no doctor could do more and directed her to Guru Shyama Khyapa, who gave Mahamrityunjaya ash to apply for 21 days before the lockdown interrupted their return. The reporter calls the Guru a medium through whom 'Ma' heals and mentions Baba's planned Mahamrityunjaya amulet after Lakshmi Puja.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

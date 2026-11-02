@@ -27,6 +27,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains that Dharana, or concentration, must come before Dhyana, and he describes fixing the gaze on a black dot or a small lamp as training for the restless mind. He cites Arjuna's focus on the bird's eye, discusses Raj Yoga and a quiet place, and traces the path from Sakaar, meditation on a deity's form, to Niraakar, the formless Supreme. He says Yoga is the stilling of the individual soul in union with the Supreme Soul.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
