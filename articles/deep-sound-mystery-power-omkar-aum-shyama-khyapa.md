@@ -27,6 +27,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains Omkar as the Pranava sound, tracing it from Hamsa and So-ham and describing A-U-M as the Sun, Moon, and Fire with their twelve, sixteen, and ten phases. He disputes the claim that only Brahmins may chant Om, saying his own study and realization show everyone has the right, and he links the syllable to three questions about identity, origin, and duty. He also gives the full Maha Mrityunjaya Mantra and chants Om aloud.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

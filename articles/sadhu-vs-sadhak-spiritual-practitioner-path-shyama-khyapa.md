@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa distinguishes a Sadhu, whose path he describes as outward and restless, from a Sadhak, whom he calls a rare inner practitioner born perhaps once in ten or twenty million. He explains the Viraja Hom initiation, the discipline of a light body and minimal food, and the internal secretion said to sustain advanced practitioners, then tells the story of a sadhu who lowered the flooded Yamuna. He closes on the goal of God-vision and liberation from rebirth.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
