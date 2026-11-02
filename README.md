@@ -144,7 +144,7 @@ styles.css / styles.min.css   # Stylesheet (source + minified)
 script.js  / script.min.js    # Frontend JS (source + minified)
 sitemap.liquid                # Sitemap template → sitemap.xml
 search-index.11ty.js          # Client-side search index (JS template)
-gallery.html                  # Sacred image gallery
+gallery.liquid                # Sacred image gallery (data: _data/galleryImages.js)
 _headers                      # Cloudflare HTTP response headers
 _redirects                    # Cloudflare URL redirects
 ```

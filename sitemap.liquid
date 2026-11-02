@@ -20,14 +20,14 @@ eleventyExcludeFromCollections: true
   <!-- Sacred Art Gallery -->
   <url>
     <loc>https://jaikhyapaparampara.com/gallery/</loc>
-    <lastmod>2026-03-22T00:00:00Z</lastmod>
+    <lastmod>2026-11-02T00:00:00Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     {% for image in galleryImages %}
     <image:image>
-      <image:loc>https://jaikhyapaparampara.com{{ image.src }}</image:loc>
-      <image:title>{{ image.caption | escape }}</image:title>
-      <image:caption>{{ image.caption | escape }}</image:caption>
+      <image:loc>https://jaikhyapaparampara.com{{ image.original }}</image:loc>
+      <image:title>{{ image.title | append: " — " | append: image.subtitle | escape }}</image:title>
+      <image:caption>{{ image.title | append: " — " | append: image.subtitle | escape }}</image:caption>
     </image:image>
     {% endfor %}
   </url>

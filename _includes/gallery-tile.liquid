@@ -1,0 +1,37 @@
+{% assign maxVariant = image.variants | last %}
+{% assign tileWidth = 800 %}
+{% unless image.variants contains 800 %}{% assign tileWidth = 400 %}{% endunless %}
+{% if image.variants.size > 0 %}
+{% assign tileSrc = "/images/gallery/responsive/" | append: image.file | append: "-" | append: tileWidth | append: ".webp" %}
+{% capture tileSrcset %}{% for width in image.variants %}/images/gallery/responsive/{{ image.file }}-{{ width }}.webp {{ width }}w{% unless forloop.last %}, {% endunless %}{% endfor %}{% endcapture %}
+{% else %}
+{% assign tileSrc = image.original %}
+{% assign tileSrcset = "" %}
+{% endif %}
+<figure class="gallery-item{% if image.featured %} gallery-item-featured{% endif %}">
+  <button
+    type="button"
+    class="gallery-tile"
+    aria-labelledby="cap-{{ image.file | slugify }}"
+    aria-haspopup="dialog"
+    data-slug="{{ image.file | slugify }}"
+    data-full="{% if maxVariant >= 1200 %}/images/gallery/responsive/{{ image.file }}-{{ maxVariant }}.webp{% else %}{{ image.original }}{% endif %}"
+    data-original="{{ image.original }}"
+  >
+    <img
+      class="gallery-image"
+      src="{{ tileSrc }}"
+      {% if tileSrcset != "" %}srcset="{{ tileSrcset }}" sizes="{{ tileSizes }}"{% endif %}
+      width="{{ image.width }}"
+      height="{{ image.height }}"
+      alt="{{ image.title }} — {{ image.subtitle }}"
+      loading="{% if image.featured %}eager{% else %}lazy{% endif %}"
+      {% if image.featured == 1 %}fetchpriority="high"{% endif %}
+      decoding="async"
+    />
+  </button>
+  <figcaption class="gallery-caption" id="cap-{{ image.file | slugify }}">
+    <span class="gallery-caption-title">{{ image.title }}</span>
+    <span class="gallery-caption-sub">{{ image.subtitle }}</span>
+  </figcaption>
+</figure>

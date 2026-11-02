@@ -19,6 +19,8 @@
         {% assign pageDescription = pageDescription | truncate: 155 %}
     {% endunless %}
     {% assign brandedPageTitle = pageTitle | append: ' | Jai Khyapa Parampara' %}
+    {% assign socialImage = ogImage | default: '/Bama_Khepa.webp' %}
+    {% assign socialImageAlt = ogImageAlt | default: 'Bama Khepa - Jai Khyapa Parampara' %}
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="{{ pageDescription | attrEscape }}">
@@ -32,16 +34,16 @@
     <meta property="og:url" content="https://jaikhyapaparampara.com{{ page.url }}">
     <meta property="og:title" content="{% if brandedPageTitle.size > 68 %}{{ pageTitle | escape }}{% else %}{{ brandedPageTitle | escape }}{% endif %}">
     <meta property="og:description" content="{{ pageDescription | attrEscape }}">
-    <meta property="og:image" content="https://jaikhyapaparampara.com/Bama_Khepa.webp">
-    <meta property="og:image:alt" content="Bama Khepa - Jai Khyapa Parampara">
+    <meta property="og:image" content="https://jaikhyapaparampara.com{{ socialImage }}">
+    <meta property="og:image:alt" content="{{ socialImageAlt | attrEscape }}">
     <meta property="og:site_name" content="Jai Khyapa Parampara">
     <meta property="og:locale" content="en_US">
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{% if brandedPageTitle.size > 68 %}{{ pageTitle | escape }}{% else %}{{ brandedPageTitle | escape }}{% endif %}">
     <meta name="twitter:description" content="{{ pageDescription | attrEscape }}">
-    <meta name="twitter:image" content="https://jaikhyapaparampara.com/Bama_Khepa.webp">
-    <meta name="twitter:image:alt" content="Bama Khepa - Jai Khyapa Parampara">
+    <meta name="twitter:image" content="https://jaikhyapaparampara.com{{ socialImage }}">
+    <meta name="twitter:image:alt" content="{{ socialImageAlt | attrEscape }}">
 
     <link rel="icon" type="image/png" sizes="192x192" href="/icon-192x192.png">
     <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
@@ -61,9 +63,10 @@ main a:where(:not([class]):not([style]):focus-visible){outline:2px solid var(--a
 .header{background:linear-gradient(135deg,rgba(13,5,6,0.96) 0%,rgba(31,11,17,0.96) 100%);padding:1rem 0;position:sticky;top:0;z-index:1000;box-shadow:0 4px 25px var(--shadow-colored),0 0 20px rgba(232,196,104,0.08);border-bottom:1px solid var(--border-gold);min-height:80px;}
 .nav{display:flex;justify-content:space-between;align-items:center;}
 .container{max-width:1200px;margin:0 auto;padding:0 20px;}
-.logo .logo-title{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:1.8rem;font-weight:700;text-shadow:2px 2px 4px rgba(0,0,0,0.5);line-height:1.2;}
-.nav-menu{display:flex;list-style:none;gap:2rem;min-height:1.6rem;}
-.nav-menu a{color:var(--text-light);text-decoration:none;font-size:1.1rem;font-weight:600;transition:color 0.3s ease;}
+.logo{flex-shrink:0;}
+.logo .logo-title{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:1.8rem;font-weight:700;text-shadow:2px 2px 4px rgba(0,0,0,0.5);line-height:1.2;white-space:nowrap;}
+.nav-menu{display:flex;list-style:none;gap:1.25rem;min-height:1.6rem;}
+.nav-menu a{color:var(--text-light);text-decoration:none;font-size:1.1rem;font-weight:600;white-space:nowrap;transition:color 0.3s ease;}
 .nav-menu a:hover,.nav-menu a.active{color:var(--accent-color);}
 .footer{background:linear-gradient(135deg,#0D0506 0%,#1F0B11 50%,#0D0506 100%);padding:2.5rem 0 3rem 0;text-align:center;border-top:1.5px solid var(--border-gold);box-shadow:0 -4px 25px var(--shadow-colored);margin-top:4rem;}
 .footer-content{display:flex;flex-direction:column;gap:0.5rem;}
@@ -86,6 +89,11 @@ main a:where(:not([class]):not([style]):focus-visible){outline:2px solid var(--a
 .nav-menu a{font-size:0.95rem;padding:0.75rem 0.5rem;min-height:44px;display:flex;align-items:center;border-bottom:1px solid rgba(232,196,104,0.12);}
 .nav-menu li:last-child a{border-bottom:none;}
 }
+@media(max-width:1150px) and (min-width:769px){
+.nav{flex-wrap:wrap;gap:0.5rem;}
+.nav-menu{flex-wrap:wrap;gap:0.75rem 1.1rem;}
+.nav-menu a{font-size:1rem;}
+}
     </style>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -105,10 +113,11 @@ main a:where(:not([class]):not([style]):focus-visible){outline:2px solid var(--a
             </button>
             <ul class="nav-menu">
                 <li><a href="/#sacred-texts">Temple of Knowledge</a></li>
-                <li><a href="/articles/" class="active">Articles</a></li>
-                <li><a href="/tags/">Topics</a></li>
-                <li><a href="/glossary/">Glossary</a></li>
-                <li><a href="/search/">Search</a></li>
+                <li><a href="/articles/"{% if page.url contains '/articles/' %} class="active"{% endif %}>Articles</a></li>
+                <li><a href="/gallery/"{% if page.url == '/gallery/' %} class="active"{% endif %}>Sacred Art</a></li>
+                <li><a href="/tags/"{% if page.url contains '/tags/' %} class="active"{% endif %}>Topics</a></li>
+                <li><a href="/glossary/"{% if page.url contains '/glossary/' %} class="active"{% endif %}>Glossary</a></li>
+                <li><a href="/search/"{% if page.url contains '/search/' %} class="active"{% endif %}>Search</a></li>
                 <li><a href="https://calendar.jaikhyapaparampara.com/" target="_blank" rel="noopener">Calendar</a></li>
                 <li><a href="/#about">About</a></li>
             </ul>
@@ -123,7 +132,7 @@ main a:where(:not([class]):not([style]):focus-visible){outline:2px solid var(--a
         <div class="container">
             <div class="footer-content">
                 <p class="footer-blessing">Om Shri Gurubhyo Namaha | Jai Khyapa Parampara</p>
-                <p class="footer-description">May every word read here bring you closer to Ma Adya Mahakali.</p>
+                <p class="footer-description">{{ footerMessage | default: 'May every word read here bring you closer to Ma Adya Mahakali.' }}</p>
                 <p class="footer-meta">&copy; <span data-current-year></span> KaliPutra-Ashish. All knowledge is forever free to share.</p>
                 <p class="footer-meta" style="margin-top: 0.5rem; font-size: 0.85rem; opacity: 0.7;">
                     Built with <a href="https://www.11ty.dev/" target="_blank" rel="noopener" style="color: var(--accent-color); text-decoration: none; border-bottom: 1px solid var(--border-gold);">11ty</a>

@@ -98,42 +98,63 @@ test.describe("repo smoke flows", () => {
 			page.getByRole("heading", { name: /sacred art gallery/i }),
 		).toBeVisible();
 
-		const featuredItem = page.locator(".gallery-item-featured").first();
+		const featuredItem = page.locator(".gallery-item-featured .gallery-tile").first();
 		await featuredItem.click();
 
-		const lightbox = page.locator("#lightbox.active");
+		const lightbox = page.locator("#lightbox");
 		await expect(lightbox).toBeVisible();
 		await expect(page.locator("#lightbox-caption")).not.toHaveText(/^\s*$/);
 
-		await page.getByRole("button", { name: /next/i }).click();
+		await page.getByRole("button", { name: /next image/i }).click();
 		await expect(page.locator("#lightbox-caption")).toContainText(
 			/Jai Ma|Shmashana|Bhairava|Kali|Kalika/i,
 		);
 
-		await page.getByRole("button", { name: /close/i }).click();
-		await expect(page.locator("#lightbox")).not.toHaveClass(/active/);
+		await page.getByRole("button", { name: /close image viewer/i }).click();
+		await expect(lightbox).not.toBeVisible();
 	});
 
-	test("gallery keyboard and browser history work without adding entries", async ({ page }) => {
+	test("gallery keyboard navigation, deep links, and focus restore work", async ({
+		page,
+	}) => {
 		await gotoAndStabilize(page, "/gallery/");
-		const tile = page.locator(".gallery-item-featured").first();
+		const tile = page.locator(".gallery-tile").first();
 		await tile.focus();
 		await page.keyboard.press("Enter");
-		await expect(page.locator("#lightbox")).toHaveClass(/active/);
+
+		const lightbox = page.locator("#lightbox");
+		await expect(lightbox).toBeVisible();
 		await expect(page.locator("#lightbox-close")).toBeFocused();
-		await page.goBack();
-		await expect(page.locator("#lightbox")).not.toHaveClass(/active/);
-		await expect(tile).toBeFocused();
-		await page.goForward();
-		await expect(page.locator("#lightbox")).toHaveClass(/active/);
-		await page.goBack();
-		await expect(page.locator("#lightbox")).not.toHaveClass(/active/);
-		await page.goForward();
-		await expect(page.locator("#lightbox")).toHaveClass(/active/);
+		await expect(page).toHaveURL(/#image-jai-ma-adya-mahakali$/);
+
+		await page.keyboard.press("ArrowRight");
+		await expect(page).toHaveURL(/#image-jai-ma-shmashanakalika$/);
+
 		await page.keyboard.press("Escape");
-		await expect(page.locator("#lightbox")).not.toHaveClass(/active/);
-		await page.locator(".gallery-item").first().focus();
+		await expect(lightbox).not.toBeVisible();
+		await expect(page).not.toHaveURL(/#image-/);
+
+		const gridTile = page.locator(".gallery-group .gallery-tile").first();
+		await gridTile.focus();
 		await page.keyboard.press("Space");
-		await expect(page.locator("#lightbox")).toHaveClass(/active/);
+		await expect(lightbox).toBeVisible();
+
+		await page.keyboard.press("Escape");
+		await expect(lightbox).not.toBeVisible();
+		await expect(gridTile).toBeFocused();
+	});
+
+	test("gallery image deep link opens directly and clears on close", async ({
+		page,
+	}) => {
+		await page.goto("/gallery/#image-bhairava-0344");
+		await expect(page.locator("#lightbox")).toBeVisible();
+		await expect(page.locator("#lightbox-caption")).toContainText(
+			/Bhairava Baba/,
+		);
+
+		await page.locator("#lightbox-close").click();
+		await expect(page.locator("#lightbox")).not.toBeVisible();
+		await expect(page).not.toHaveURL(/#image-/);
 	});
 });

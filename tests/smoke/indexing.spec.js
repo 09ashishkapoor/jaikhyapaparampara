@@ -55,7 +55,7 @@ test("gallery has one primary heading and lightbox images have descriptive alt t
 	await page.goto("/gallery/");
 	await expect(page.locator("h1")).toHaveCount(1);
 	await expect(page.locator("h1")).toHaveText("Sacred Art Gallery");
-	await page.locator(".gallery-item-featured").first().click();
+	await page.locator(".gallery-item-featured .gallery-tile").first().click();
 	await expect(page.locator("#lightbox-img")).toHaveAttribute("alt", /Jai Ma Adya Mahakali/);
 });
 
