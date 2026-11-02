@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Sayoni Seal tells an interviewer at Shantikunj's Mother temple about her bond with Gopal Thakur, saying he came to her on his own, eats, moves, sleeps with her, and insists on returning to the shrine. Guru Shyama Khyapa describes the youth's spiritual awakening, noting that visitors mostly aged 25 to 30 seek initiation daily, and he contrasts his Kundalini-awakening method with Balak Brahmachari's whispered initiations. The exchange presents devotion as a lived, insistent pull while framing young seekers' interest as renewed faith in God.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

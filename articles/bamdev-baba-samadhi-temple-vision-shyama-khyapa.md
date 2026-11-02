@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">At Bamdev Baba's Samadhi temple, Guru Shyama Khyapa identifies the site as Baba's ancestral home and says the Mother Goddess appeared to him beside a silk cotton tree there. He recounts that Baba asked Logen Kaka to be buried at that spot, that a collector mediated the dispute over burial versus cremation, and that Baba was interred in a seated position after his skull split at the Brahmarandhra. Guru Shyama Khyapa describes Baba's final vision of the Mother calling him from the moon as the arati plate fell.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

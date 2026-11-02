@@ -32,6 +32,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">A devotee asks Guru Shyama Khyapa about a dark crack reported in the sun, and the guru links it to a solar storm that he says could destroy satellites and reduce sunlight, allowing bacteria and a new child-threatening virus to spread. Guru Shyama Khyapa further describes the 64 Yoginis as awakened and warns that wrongdoing will invite death as Kali and the Kalki Avatar bring an era transition. He also accepts a devotee's reference to Baba Vanga's prediction of a catastrophic 2023, urging caution and time at home.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
