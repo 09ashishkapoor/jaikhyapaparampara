@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa traces the life of Gopinath Kaviraj from his birth in Dhamrai in 1887 and his academic career to his initiation by Gandha Baba and his connection with the legendary Gyan Ganj. He describes Barada Charan Majumdar's role in guiding Subhash Chandra Bose to that hidden refuge and repeats the belief that Netaji will return if China and Pakistan jointly attack India so gravely that its existence is at stake.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

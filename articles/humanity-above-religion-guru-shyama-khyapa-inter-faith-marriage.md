@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers a viewer's challenge about why he arranged a Hindu Punjabi woman's marriage to a Christian man, explaining that no relatives or community members would care for her and that the groom promised to raise her daughter as his own. He describes the Bengali and church weddings and says the child is now studying to become a doctor, presenting the match as an example of his conviction that helping others is true religion.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
