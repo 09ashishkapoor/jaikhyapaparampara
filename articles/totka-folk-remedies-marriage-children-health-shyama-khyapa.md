@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa responds to questions about delayed marriage, childlessness, divorce, household strife, children's study habits, and leukorrhea, describing folk remedies that include yellow thread wound around a peepal tree, the rare Jayanti root, white Lajjabati root for domestic peace, and white Shimal root for women's health. He says such roots must be purified with Ganga water and Panchamrita and worn only after a solemn vow to the Mother. He also links rising marital breakdown and unrest to social change and a damaged spiritual environment.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

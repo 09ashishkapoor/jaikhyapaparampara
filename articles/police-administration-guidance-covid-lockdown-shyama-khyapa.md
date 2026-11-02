@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa speaks with a police disciple who visits Shanti Kunj after a night shift at Lalbazar, and he praises the officer's simple-hearted devotion and care. He explains that he follows every government instruction against crowding at the ashram, and urges citizens to obey lockdown orders, warning that the virus is deadly and that the lockdown is meant to break the chain of transmission. He also asks people to cooperate with police, doctors, and nurses risking their lives.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

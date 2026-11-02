@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa marks Shivratri at Shanti Kunj together with Bamdeb Baba's birthday, explaining that water offered to Shiva that day is also offered to Bamdeb and that women are not barred from the cremation-ground temple. He describes the four forms of worship—Ishana, Aghora, Bama, and Sadyojata—and recounts that Bamdeb was born at Tarapeeth as a form of sage Vashistha to protect the sacred stone. He says the ashram's treasure is the Homa, kept simple because pomp breeds ego.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
