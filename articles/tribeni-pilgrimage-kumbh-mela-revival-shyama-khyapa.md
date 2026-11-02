@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa discusses the revival of the Tribeni Kumbh Mela at the confluence of the Ganga, Yamuna, and Saraswati, describing the expected gathering of two to two-and-a-half thousand monks, including Naga Sannyasis, and 108 Yagya Kundas. He describes the event as the establishment of a 'fifth Dham,' citing a 750-year-old tradition, penance by the Saptarishi, and suppression during the time of Alauddin Khilji and Bakhtiyar Khilji. He says poor health keeps him away, so he has sent disciples to report back.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

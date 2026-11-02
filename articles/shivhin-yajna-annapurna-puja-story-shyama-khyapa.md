@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts the Annapurna Puja his household held for thirty-two consecutive years, saying it stopped after two family deaths and that he plans a small cremation-ground puja this year before resuming at home next year. He tells of Sati's visit to Daksha's Shiva-excluding sacrifice, her self-immolation, Virabhadra's destruction of the yajna, and the fifty-one Shakti Peethas formed from her body. He also describes Kashi resting on Shiva's trident, Annapurna feeding him there, and an old woman at Manikarnika Ghat whose words preceded the long-running puja.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
