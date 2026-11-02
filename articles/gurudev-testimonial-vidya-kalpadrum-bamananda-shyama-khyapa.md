@@ -20,6 +20,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">At Shanti Kunj, Gurudev honors his disciple Bamananda Deb with the title Vidya Kalpadrum, and the citation praises his study of the Vedas, Puranas, Upanishads, Tantra, astrology, medicine, and biological sciences. Guru Shyama Khyapa recounts that a meditating monk at Narmada sent Bamananda to the cremation ground to find a man smoking black cigarettes, and Bamananda describes the Guru as a Kalpataru and Parabrahma who has transformed his life. The ceremony shows the devotion Bamananda places in his Guru and Gurudev's wish that he continue serving humanity.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

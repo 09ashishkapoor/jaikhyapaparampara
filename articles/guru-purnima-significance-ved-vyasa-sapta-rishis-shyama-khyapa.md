@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains why Guru Purnima is dedicated to the Guru, interpreting Gu and Ru as darkness and light and describing the Guru's role in giving Diksha and Shiksha. He links the day to Shiva as Dakshinamurti, the Sapta Rishis, and Ved Vyasa, recounting the legend that Vyasa was born from a parrot that overheard Shiva's Amrit Katha and entered Satyavati's womb. He also mentions Sapta Rishi worship at Vishwanath temple in Varanasi and the day's importance in Nepal and Bhutan, then invites seekers to the temple celebration.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
