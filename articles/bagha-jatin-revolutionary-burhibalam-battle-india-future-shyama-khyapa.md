@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts Bagha Jatin's life, from his 1879 birth as Jatindranath Mukherjee and the 1900 bare-handed tiger fight that left him with 300 wounds, to his leadership of the Anushilan Samiti and Jugantar under Rishi Aurobindo's inspiration. He describes the failed German arms shipment and the Battle of Burhibalam, where Jatin refused to surrender and died from British bullets. He closes with reflections that Ajit Doval and PM Modi will keep India safe and his prediction that India will emerge governed by saffron-clad monks.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

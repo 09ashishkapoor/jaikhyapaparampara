@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Asked why Shiva sometimes lies beneath Kali and sometimes stands upon her chest, Guru Shyama Khyapa explains the Tantric principle Viparita-Rata-Saktah and distinguishes the two branches of Tantra, Agama and Nigama, linking them to inhalation and exhalation. In Agama the Mother is active and Mahadeva inactive; in Nigama the reverse holds, since whoever stands above is controlling Time. He credits the composition to Krishnananda Agamavagisha of Halisahar, guru of Ramprasad, and cites the Chinnamasta form as female energy over male, insisting no power is lost when positions reverse.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers a disciple's question about whether wrongdoers escape notice, describing the Paramatma as a silent witness who records every deed like a divine CCTV camera and citing folk-saint Bhava Pagla's song about Chitragupta's ledger. He tells of two friends sent to kill a pigeon unseen, where the simple one earns initiation for sensing God's gaze everywhere. The talk closes on karma and Prarabdha carrying debts into the next life, then turns to Vishwakarma, the divine architect honoured by craftsmen and engineers.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
