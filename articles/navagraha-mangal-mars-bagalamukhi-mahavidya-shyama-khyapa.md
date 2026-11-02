@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa presents Bagalamukhi as the subduer of enemies who paralyzes opponents by pulling out their tongues, and he connects her worship with Mars, the planet he says governs auspiciousness and household stability. He describes Mars remedies using red coral and a clay bowl of items floated in the Ganges, while attributing marital breakdown to serving meat at weddings and other inauspicious additions. He also insists that Bagalamukhi's ritual be done in the morning and her image covered with yellow cloth afterward because she is an intense deity.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
