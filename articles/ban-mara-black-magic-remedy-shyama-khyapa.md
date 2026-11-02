@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Asked about people who say they have been 'hit with a ban,' Guru Shyama Khyapa describes Ban Mara as a harmful practice he once doubted but came to accept after research, naming human skulls, lamps, pond water, and offerings among its requirements. He distinguishes burning and drying bans, describes black magic as somewhat different, recounts practitioners he says used the Eidgah and crematoriums, and offers remedies including a Mayong mantra and a pig's tooth. The discussion matters as his warning about occult harm and his claimed methods of protection.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

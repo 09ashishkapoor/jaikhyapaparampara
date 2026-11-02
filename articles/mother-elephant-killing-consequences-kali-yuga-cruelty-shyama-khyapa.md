@@ -30,6 +30,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa responds to a question about human cruelty to animals by condemning the killing of a pregnant mother elephant in Kerala and calling it a sign that Kali Yuga has reached its peak. He claims elephants protect the Kul-Kundalini, warns that Mercury is burning and that people will become inhuman, and predicts that humans will eventually eat humans. The conversation matters as his prophetic warning that violence against animals and loss of conscience will bring suffering on the whole society.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
