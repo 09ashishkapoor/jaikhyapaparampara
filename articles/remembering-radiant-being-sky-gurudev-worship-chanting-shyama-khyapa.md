@@ -4,7 +4,7 @@ title: "Remembering the Radiant Being in the Sky: Gurudev on Worship and Chantin
 breadcrumbTitle: "Radiant Being and Worship"
 description: "Guru Shyama Khyapa explains the importance of worship, chanting mantras, and remembering the divine being in the sky, addressing questions from devotees living busy modern lives."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Worship, Chanting, Mantra, Ajapa, Vedanta, Divine Being"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:05:00
 readingTime: 13

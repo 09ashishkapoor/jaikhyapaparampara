@@ -4,7 +4,7 @@ title: "After Three Months, Gurudev Returns to Shantikunj: Discipline, Offerings
 breadcrumbTitle: "Gurudev Returns to Shantikunj"
 description: "Gurudev returns to the temple after months away, speaks about restoring discipline, refusing money in offerings, and reflects on his recovery and gratitude to the doctor and devotees."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shantikunj, temple discipline, offerings, bhog, prasad, money, Kalu-da, Gurudev illness, doctor, recovery"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 03:23:10
 readingTime: 3

@@ -4,7 +4,7 @@ title: "Gurudev's Rest Request Through a Doctor's Stethoscope"
 breadcrumbTitle: "Doctor Checks Gurudev"
 description: "The doctor describes Gurudev's respiratory infection, and Gurudev himself asks disciples to give him a few days' rest while warning how fragile the 21st year can be."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, stethoscope, respiratory infection, Gurudev health, rest request, Khyapa Parampara, 21st year, Doctor Shyama Khyapa"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:58:00
 readingTime: 3

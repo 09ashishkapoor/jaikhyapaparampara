@@ -4,7 +4,7 @@ title: "Kalabhairava Name 16: Kapala-Karparotkrista-Bhiksa-Patra-Dharaya - Meani
 breadcrumbTitle: "Kapala-Karparotkrista-Bhiksa-Patra-Dharaya"
 description: "English meaning and spiritual significance of Kapala-Karparotkrista-Bhiksa-Patra-Dharaya, the 16th name of Lord Kalabhairava: holder of the uplifted skull-bowl and emblem of renunciation."
 keywords: "Kapala-Karparotkrista-Bhiksa-Patra-Dharaya, Kalabhairava name 16, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kapala-Karparotkrista-Bhiksa-Patra-Dharaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

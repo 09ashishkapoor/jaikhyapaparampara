@@ -4,7 +4,7 @@ title: "Naimisharanya: The Sacred Forest of 60,000 Sages"
 breadcrumbTitle: "Naimisharanya Sacred Forest"
 description: "Guru Shyama Khyapa reveals the ancient history of Naimisharanya, the sacred forest where 60,000 sages performed penance, where the Mahabharata was recited, and where Sage Dadhichi sacrificed his bones to create the divine Vajra."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Naimisharanya, Naimisha, Sacred Forest, 60000 Sages, Dadhichi, Vajra, Vritrasura, Vyasa, Valmiki, Rama, Gomti River"
-category: "Sacred Places"
+category: "Sacred Places and Pilgrimage"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:55:00
 readingTime: 3

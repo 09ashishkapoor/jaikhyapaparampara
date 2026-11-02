@@ -4,7 +4,7 @@ title: "Meeting at Narmada: A Spiritual Dialogue with the Chief priest"
 breadcrumbTitle: "Narmada Chief priest Spiritual Dialogue"
 description: "Guru Shyama Khyapa meets with a Mahatma from Narmada for a profound spiritual discourse on the ancient land of Tantra, the unity of all divine forms, and the power of devotion."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Narmada, Amarkantak, chief priest, spiritual dialogue, Tantra, Jai Tara, Kamakhya, Krishna, Kali, divine unity, devotion"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:43:00
 readingTime: 6

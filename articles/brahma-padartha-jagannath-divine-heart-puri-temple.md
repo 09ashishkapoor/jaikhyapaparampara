@@ -4,7 +4,7 @@ title: "The Brahma Padartha: Lord Jagannath's Divine Essence and the Future of P
 breadcrumbTitle: "Brahma Padartha - Jagannath's Divine Heart"
 description: "Guru Shyama Khyapa reveals profound spiritual insights about the Brahma Padartha—the divine heart of Lord Jagannath—and raises critical questions about the future of the Puri Temple, the role of the Daitapati, and the establishment of a new Jagannath temple in Digha."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Jagannath, Brahma Padartha, Puri Temple, Digha, Daitapati, Krishna, Dharma, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 23:55:00
 readingTime: 7

@@ -4,7 +4,7 @@ title: "Science and Prophecy: Geologist Sujib Sir and Guru Shyama Khyapa on Futu
 breadcrumbTitle: "Future Disasters and Prophecies"
 description: "A geologist and Guru Shyama Khyapa discuss the scientific and spiritual signs of impending natural disasters, including cyclones, earthquakes, and the end of Kali Yuga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Geologist Sujib Sir, Future Predictions, Natural Disasters, Cyclones, Earthquakes, Global Warming, Kolkata Disaster, Himalayas, Kali Yuga End, Environmental Crisis"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:09:00
 readingTime: 7

@@ -4,7 +4,7 @@ title: "Mother and Son: A Spiritual Bond Beyond Formal Kinship"
 breadcrumbTitle: "Mother and Son Spiritual Connection"
 description: "Gurudev shares the touching story of his spiritual 'Mother'—an elderly woman who came into his life declaring herself his mother, forming a unique bond transcending conventional guru-disciple relationships."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kali Puja, guru-disciple, maternal love, spiritual family, Shantikunj"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 14:05:00
 readingTime: 9

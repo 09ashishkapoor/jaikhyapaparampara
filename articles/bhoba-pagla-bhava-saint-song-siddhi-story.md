@@ -4,7 +4,7 @@ title: "Bhoba Pagla (Bhava): The Saint of Song and Siddhi"
 breadcrumbTitle: "Bhoba Pagla of Song"
 description: "Gurudev recounts the life of Bhoba Pagla, his origins, songs, spiritual path, and the legacy of his devotion."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bhoba Pagla, Bhabendra Mohan Saha, Bhava, siddhi, Kojagari Lakshmi Puja, Kalna, Shantikunj, devotional songs"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 00:04:00
 readingTime: 6

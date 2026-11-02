@@ -4,7 +4,7 @@ title: "Warning from the Fortune Teller: Guru Shyama Khyapa on Bhavishya Malika 
 breadcrumbTitle: "Bhavishya Malika Warning for West Bengal"
 description: "Guru Shyama Khyapa shares an urgent message from Bhavishya Malika holder Pravin Bhaiyaji: West Bengal must wake up, give up meat, fish, eggs, and alcohol, and chant Krishna's name before it's too late."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Bhavishya Malika, Prophecy, West Bengal, Krishna, Hare Krishna Mantra, Pravin Bhaiyaji, Jagannath, Warning"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:42:00
 readingTime: 5

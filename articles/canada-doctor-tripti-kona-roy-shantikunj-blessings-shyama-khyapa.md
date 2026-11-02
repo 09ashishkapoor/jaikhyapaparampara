@@ -4,7 +4,7 @@ title: "From Canada to Shantikunj: Dr. Tripti Kona Roy's Journey to Gurudev"
 breadcrumbTitle: "Canadian Doctor Visits Shantikunj"
 description: "Dr. Tripti Kona Roy, a gynecologist from Canada, shares her five-year journey to meet Guru Shyama Khyapa, her daily devotion through YouTube, and her son's medical aspirations."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Canada, Dr. Tripti Kona Roy, Gynecologist, Bangladesh, Russia, Shantikunj, Medical Residency, Climate Change, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:03:00
 readingTime: 5

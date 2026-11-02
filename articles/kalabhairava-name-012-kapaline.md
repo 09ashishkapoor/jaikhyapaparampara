@@ -4,7 +4,7 @@ title: "Kalabhairava Name 12: Kapaline - Meaning and Significance"
 breadcrumbTitle: "Kapaline"
 description: "English meaning and spiritual significance of Kapaline, the 12th name of Lord Kalabhairava: bearer of the skull and teacher of detachment."
 keywords: "Kapaline, Kalabhairava name 12, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kapaline meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

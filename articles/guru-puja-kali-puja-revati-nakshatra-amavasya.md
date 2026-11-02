@@ -4,7 +4,7 @@ title: "Guru Puja Part 2: Shmashan Kali Puja During Revati Nakshatra and Amavasy
 breadcrumbTitle: "Guru Puja and Kali Puja Ritual"
 description: "Guru Shyama Khyapa performs a powerful Shmashan Kali Puja at the cremation ground during Revati Nakshatra and Amavasya, discussing the significance of Guru Puja and the four pillars of spiritual life."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kali Puja, Shmashan, Revati Nakshatra, Amavasya, Guru Puja, Chaturvarga, Spiritual Ritual"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 13:22:00
 readingTime: 7

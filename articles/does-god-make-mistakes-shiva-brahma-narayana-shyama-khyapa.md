@@ -4,7 +4,7 @@ title: "Does God Make Mistakes? Gurudev on Shiva, Brahma, Narayana, and Hindu Sc
 breadcrumbTitle: "Does God Make Mistakes?"
 description: "Guru Shyama Khyapa explains why even the Creator makes mistakes—Brahma's sin against his daughter, Narayana's blemish with Tulsi—and why Shiva alone is without blemish (Satyam Shivam Sundaram)."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, God Mistakes, Shiva, Brahma, Narayana, Hindu Scriptures, Sanatan Dharma, Nostradamus, Vedas, Bhagavad Gita, Satyam Shivam Sundaram"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:52:00
 readingTime: 10

@@ -4,7 +4,7 @@ title: "Dr. Sujit Kar Performs Maha Mrityunjaya Homa: Eclipse Ritual for World P
 breadcrumbTitle: "Dr Sujit Kar Maha Mrityunjaya Homa"
 description: "Guru Shyama Khyapa guides Dr. Sujit Kar in performing the Maha Mrityunjaya Yajna during a solar eclipse for world peace, purification, and spiritual renewal."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Dr Sujit Kar, Maha Mrityunjaya, Homa, Yajna, Solar Eclipse, Punashcharana, World Peace"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:42:00
 readingTime: 7

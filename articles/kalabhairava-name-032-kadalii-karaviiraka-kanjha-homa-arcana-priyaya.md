@@ -4,7 +4,7 @@ title: "Kalabhairava Name 32: Kadalii-Karaviiraka-Kanjha-Homa-Arcana-Priyaya - M
 breadcrumbTitle: "Kadalii-Karaviiraka-Kanjha-Homa-Arcana-Priyaya"
 description: "English meaning and spiritual significance of Kadalii-Karaviiraka-Kanjha-Homa-Arcana-Priyaya, the 32nd name of Lord Kalabhairava: delighted by worship offered with banana blossom, karavira, and lotus."
 keywords: "Kadalii-Karaviiraka-Kanjha-Homa-Arcana-Priyaya, Kalabhairava name 32, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kadalii-Karaviiraka-Kanjha-Homa-Arcana-Priyaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

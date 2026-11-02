@@ -4,7 +4,7 @@ title: "Understanding the Rage of Bhairava: Is Bhairava Just an Angry Deity?"
 breadcrumbTitle: "Understanding the Rage of Bhairava"
 description: "Shri Praveen Radhakrishna explains the true origin and purpose of Bhairava as the Guru Tattva within Shiva — the embodiment of divine knowledge and rage against ignorance, not merely an angry deity."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Kala Bhairava, Guru Tattva, Brahma, Shiva, Kashi, Moksha, Third Eye"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:00:00
 readingTime: 5

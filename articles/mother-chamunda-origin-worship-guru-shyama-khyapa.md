@@ -4,7 +4,7 @@ title: "Mother Chamunda: The Fearsome Form of Durga Who Defeated Raktabija"
 breadcrumbTitle: "Mother Chamunda and Her Origin"
 description: "Guru Shyama Khyapa explains the origin of Mother Chamunda from Goddess Durga's battle with Mahishasura, her role in defeating Raktabija, Chanda and Munda, and the proper mantras for her worship."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Chamunda, Durga, Raktabija, Chanda, Munda, Sandhi Puja, Tantra, Khatvanga, Shakti"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:27:00
 readingTime: 8

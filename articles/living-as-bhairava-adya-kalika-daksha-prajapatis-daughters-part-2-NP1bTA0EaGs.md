@@ -4,7 +4,7 @@ title: "Living as Bhairava: Adya Kalika and Daksha Prajapati’s Daughters (Part
 breadcrumbTitle: "Adya Kalika (Part 2)"
 description: "Shri Praveen Radhakrishna continues his rare discourse on Maa Adya Kalika, describing Adya as the grand architect behind Shakti Pithas, explaining why Swarnakarshana Bhairava embodiment is a prerequisite, and mapping Daksha Prajapati’s daughters as inner stages for cutting through maya and activating the yantra of the body."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Adya Kalika, Adya Kali, Swarnakarshana Bhairava, Shakti Pithas, Param Porul, Guru Bhairava, Prana Pratishtha, Vigraha, Vama Marga, Vamachara, Dakshinachara, Daksha Prajapati, Daughters of Daksha, Maya, Yantra, Swaha, Agni, Homa, Kamakhya, Tara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:29:00
 readingTime: 9

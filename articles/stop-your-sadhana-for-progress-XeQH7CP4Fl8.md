@@ -4,7 +4,7 @@ title: "Stop Your Sadhana for Progress? The Secret of Viyog with the Deity"
 breadcrumbTitle: "Viyog: Separation as the Path to Union"
 description: "Shri Praveen Radhakrishna reveals one of the deepest secrets of advanced Sadhana: Viyog, or deliberate separation from the Deity — how it is given by Devi to reset her Sadhaka, and how the advanced practitioner can give it back to make Devi come running."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Viyog, Sayog, Radha Krishna, Ma Kali, Sadhana, Tapasvi, Sri Ramakrishna, Sahasranamavali, Garbhagriha, Adhya Kali"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:03:00
 readingTime: 8

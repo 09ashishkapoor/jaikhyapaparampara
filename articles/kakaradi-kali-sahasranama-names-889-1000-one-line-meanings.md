@@ -4,7 +4,7 @@ title: "Kakaradi Kali Sahasranama in English: Names 889-1000 with One-Line Meani
 breadcrumbTitle: "Kakaradi Kali Sahasranama Names 889-1000"
 description: "Read the final 112 names of the Kakaradi Kali Sahasranama in English with short devotional meanings for prayer, japa, study, and contemplation."
 keywords: "Kakaradi Kali Sahasranama in English, Kakārādi Kali Sahasranama, Kali Sahasranama names with meaning, Kali 1000 names English meaning, Maa Kali names, Kali namavali, Kali devotional meanings, Kakaradi Kali names 889-1000, Kolhapur Kali, Kaula Kali, krīṃ mantra Kali, Kedara Kali"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "KaliPutra-Ashish"
 date: 2026-04-26
 readingTime: 15

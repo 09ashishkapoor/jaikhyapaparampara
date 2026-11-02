@@ -4,7 +4,7 @@ title: "Kalabhairava Name 105: Katora-Aujasya-Bhisma-Ajna-Paala-Kinkaara-Sevitay
 breadcrumbTitle: "Katora-Aujasya-Bhisma-Ajna-Paala-Kinkaara-Sevitaya"
 description: "English meaning and spiritual significance of Katora-Aujasya-Bhisma-Ajna-Paala-Kinkaara-Sevitaya, the 105th name of Lord Kalabhairava, served by mighty attendants who enforce his stern command."
 keywords: "Katora-Aujasya-Bhisma-Ajna-Paala-Kinkaara-Sevitaya, Kalabhairava name 105, 108 names of Kalabhairava, Kalabhairava namavali meaning, Katora-Aujasya-Bhisma-Ajna-Paala-Kinkaara-Sevitaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

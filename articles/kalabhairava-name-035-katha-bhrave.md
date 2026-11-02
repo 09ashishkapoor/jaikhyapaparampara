@@ -4,7 +4,7 @@ title: "Kalabhairava Name 35: Katha-Bhrave - Meaning and Significance"
 breadcrumbTitle: "Katha-Bhrave"
 description: "English meaning and spiritual significance of Katha-Bhrave, the 35th name of Lord Kalabhairava: whose fierce cry shatters the stories and impurities that bind the soul."
 keywords: "Katha-Bhrave, Kalabhairava name 35, 108 names of Kalabhairava, Kalabhairava namavali meaning, Katha-Bhrave meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

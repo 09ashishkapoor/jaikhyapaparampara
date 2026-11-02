@@ -4,7 +4,7 @@ title: "The Mystery of Shaba Sadhana: Gurudev on Dead-Body Worship, Kali Siddhi,
 breadcrumbTitle: "Shaba Sadhana & Kali Siddhi"
 description: "A profound dialogue with Guru Shyama Khyapa revealing the esoteric secrets of Shaba Sadhana (dead-body worship), the necessity of Mother Kali worship before Goddess Tara, the fierce protectors of the cremation ground, and the supernatural experiences of 32 years of tantraric spiritual practice."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shaba Sadhana, Dead Body Worship, Kali Siddhi, Mother Kali, Goddess Tara, Smashan Kali, Cremation Ground, Tandava, Tantra Rituals, Spiritual Success, Mahavidya"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 32

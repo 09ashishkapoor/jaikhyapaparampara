@@ -4,7 +4,7 @@ title: "Annapurna Puja: Gurudev's Spiritual Journey from Kamakhya to Benares and
 breadcrumbTitle: "Annapurna Puja Journey"
 description: "Guru Shyama Khyapa recounts his transformative spiritual journey from legal practice to Tarapith, Kamakhya, and Benares, leading to 30 years of continuous Annapurna Puja at his home."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Annapurna Puja, Kamakhya, Benares, Varanasi, Manikarnika Ghat, Kumari Puja, Spiritual Journey, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:02:00
 readingTime: 9

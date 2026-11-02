@@ -4,7 +4,7 @@ title: "Goddess Durga - The Supreme Destroyer of Distress: Guru Shyama Khyapa's 
 breadcrumbTitle: "Goddess Durga - Destroyer of Distress"
 description: "Guru Shyama Khyapa reveals the deep mystical truth about Goddess Durga, her relationship with Kali and Tara, her 64 yoginis, and why she is the root of all goddess worship. Recorded after performing Durga Puja consecration."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Goddess Durga, Kali, Tara, Goddess Worship, Tantra, Bengal Spirituality, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 35

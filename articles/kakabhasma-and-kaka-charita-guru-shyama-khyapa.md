@@ -4,7 +4,7 @@ title: "Kakabhasma and Kaka-charita | Guru Shyama Khyapa"
 breadcrumbTitle: "Kakabhasma and Kaka-charita"
 description: "Guru Shyama Khyapa explains the legendary story of Kak Bhasma (Crow Ash) and Kak Charit (Crow Character), teaching profound lessons about spiritual humility, the importance of duty, and the occult practices used for divination."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Kak Bhasma, Crow Ash, Kak Charit, Crow Character, Tantra, Tarapith, Spiritual Lessons, Occult, Divination, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:00:00
 readingTime: 4

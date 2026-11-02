@@ -4,7 +4,7 @@ title: "75 Years of Independence: Guru Shyama Khyapa on the True Price of Freedo
 breadcrumbTitle: "75 Years of Independence"
 description: "Guru Shyama Khyapa expresses his deep sorrow and anger regarding India's independence, honoring the true martyrs and criticizing the political compromises that led to the nation's freedom."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Independence Day, Netaji Subhas Chandra Bose, Khudiram Bose, Bhagat Singh, True Freedom"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:04:00
 readingTime: 4

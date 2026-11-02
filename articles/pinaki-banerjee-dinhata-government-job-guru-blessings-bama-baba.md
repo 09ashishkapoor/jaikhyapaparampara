@@ -4,7 +4,7 @@ title: "Pinaki Banerjee Gets a Government Job: Guru's Blessings and Vashistha-Ba
 breadcrumbTitle: "Pinaki Dinhata Government Job Guru's Grace"
 description: "Pinaki Banerjee from Dinhata visits Guru Shyama Khyapa to share the news of his government job secured through Guru's blessings. Their heartfelt conversation touches on the supremacy of the Guru, good and bad karma, Bama Baba, the Sapta Rishis, Addya Stotram, and the necessity of renunciation."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pinaki Banerjee, Dinhata, government job, Guru blessings, Bama Baba, Vashistha, Sapta Rishis, Addya Stotram, Hare Krishna, renunciation, Kali Yuga"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:18:00
 readingTime: 7

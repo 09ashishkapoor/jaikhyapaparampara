@@ -4,7 +4,7 @@ title: "Does Mother Goddess Feel Emotions? Gurudev Reveals the Living Divine Con
 breadcrumbTitle: "Mother's Heartbeat and Divine Touch"
 description: "Guru Shyama Khyapa shares profound insights on feeling the Mother Goddess's vibrations, emotions, and touch—revealing how the clay idol comes alive through deep devotion and soul connection."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Mother Goddess, Divine Vibration, Pran Pratishtha, Devotion, Clay Idol, Spiritual Connection, Divine Touch, Divine Emotions"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:23:00
 readingTime: 9

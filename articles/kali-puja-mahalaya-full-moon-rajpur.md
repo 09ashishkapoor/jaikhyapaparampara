@@ -4,7 +4,7 @@ title: "Kali Puja Performed on Mahalaya Full Moon Day"
 breadcrumbTitle: "Kali Puja on Mahalaya"
 description: "Guru Shyama Khyapa discusses the traditional Kali Puja performed on the Mahalaya full moon day at Rajpur cremation ground, sharing stories of his 40 years of spiritual practice in this sacred place."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Kali Puja, Mahalaya, Rajpur, Cremation Ground, Shantikunj, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:02:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Sadhana and Daily Life: Boss, Career, Devi, and Physical Living"
 breadcrumbTitle: "Sadhana, Career, and Physical Living"
 description: "Shri Praveen Radhakrishna explains the fundamental divide between the physical being and the spiritual being — and how this distinction governs detachment from parents, handling a difficult boss, and navigating daily life on the Sadhana path."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Ma Sati, Ma Devaki, Ma Yashoda, Vairagya, Karma Yoga, Sadhana, Physical Being, Spiritual Being, Dakshineshwar, Kali Yuga"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:44:00
 readingTime: 12

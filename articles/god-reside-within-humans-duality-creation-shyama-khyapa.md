@@ -4,7 +4,7 @@ title: "Does God Reside Within Humans? The Duality of Creation and the Six Vices
 breadcrumbTitle: "God Within Humans Duality"
 description: "Guru Shyama Khyapa explores why there is conflict among humans despite divinity residing in all, explaining the two lineages (Devas and Rakshasas), the six vices, and Narasimha worship."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, God Within, Divinity, Duality, Creation, Devas, Rakshasas, Six Vices, Ripu, Narasimha, Kaliyuga"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:29:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Kakaradi Kali Sahasranama in English: Names 334-444 with One-Line Meanin
 breadcrumbTitle: "Kakaradi Kali Sahasranama Names 334-444"
 description: "Read names 334-444 of the Kakaradi Kali Sahasranama in English, with simple one-line meanings for prayer, Kali japa, karma contemplation, and study."
 keywords: "Kakaradi Kali Sahasranama in English, Kakārādi Kali Sahasranama, Kali Sahasranama names with meaning, Kali 1000 names English meaning, Maa Kali names, Kali namavali, karma Kali names, Kakaradi Kali names 334-444, Kali japa meanings, Kahola rishi Kali names"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "KaliPutra-Ashish"
 date: 2026-04-26
 readingTime: 14

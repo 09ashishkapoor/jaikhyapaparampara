@@ -4,7 +4,7 @@ title: "Swami Vivekananda Birth Anniversary and Life Lessons | Guru Shyama Khyap
 breadcrumbTitle: "Vivekananda Birth Anniversary Lessons"
 description: "On Swami Vivekananda's 160th birth anniversary, Guru Shyama Khyapa recounts episodes from Narendranath's life, his bond with Ramakrishna and Sarada Maa, and his Chicago journey. The discussion also reflects on Belur Math, youth responsibility, and the legacy of Sister Nivedita."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Swami Vivekananda, Narendranath Datta, Ramakrishna Paramahansa, Sarada Maa, Chicago Parliament of Religions, Belur Math, Sister Nivedita"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:12:00
 readingTime: 14

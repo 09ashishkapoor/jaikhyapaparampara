@@ -4,7 +4,7 @@ title: "Tarapith Crematorium: The Sacred Seat of Shmashankali and Panchamundi As
 breadcrumbTitle: "Tarapith Crematorium and Shmashankali"
 description: "Guru Shyama Khyapa reveals the secrets of Mundamali Tola at Tarapith, explaining the significance of Maa Shmashaneshwari, the Panchamundi Asana, and the spiritually active cremation ground."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Tarapith, Shmashankali, Shmashaneshwari, Panchamundi Asana, Mundamali Tola, Kali, Tara, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 11

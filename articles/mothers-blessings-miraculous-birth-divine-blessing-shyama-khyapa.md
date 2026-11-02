@@ -4,7 +4,7 @@ title: "Mother's Blessings: The Miraculous Birth of a Child Against All Medical 
 breadcrumbTitle: "Miraculous Birth Divine Grace"
 description: "A mother shares her powerful spiritual story of giving birth to a healthy child despite critical medical complications, through the grace of Ma Tara and Guru Shyama Khyapa's blessings."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ma Tara grace, miraculous birth, divine blessing, spiritual protection, Mother's blessings, Goddess Tara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:41:00
 readingTime: 3

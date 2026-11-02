@@ -4,7 +4,7 @@ title: "Men, Own Your Seed: Become Shiva"
 breadcrumbTitle: "Own Your Seed: Become Shiva"
 description: "Shri Praveen Radhakrishna delivers a profound theological teaching on the highest form of Shiva — Mahakala Bhairava, the convergence of the Immovable Center of the Universe and the Unstoppable Force, both resting at the right foot of Adhya Mahakali. He then explains what it means to 'own the seed,' the spiritual danger of hoarding wealth, and why Smashan is an invitation, not a punishment."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Mahakala, Kala Bhairava, Mahakala Bhairava, Adhya Mahakali, Adhya Kali Stava, Ardhanarishvara, Raktabija, Smashan Kali, seed liberation, Shunyata, Kashi, Moksha Dwar, Linga Rupini"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:13:00
 readingTime: 11

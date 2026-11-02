@@ -4,7 +4,7 @@ title: "Mother Freed from Chains: A Divine Message at Shantikunj"
 breadcrumbTitle: "Mother Freed Chain Divine Message"
 description: "Guru Shyama Khyapa shares a supernatural experience where Mother Goddess appeared through a mysterious woman to deliver a profound message about freedom, chains, and spiritual bonds."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mother freed, chain removed, Shantikunj, divine message, supernatural experience, lock and chain, Rajpur Mahashasman, spiritual bondage"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:36:00
 readingTime: 5

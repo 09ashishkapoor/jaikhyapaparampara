@@ -4,7 +4,7 @@ title: "The Awakening of the 64 Yoginis: Signs of the End of Kali Yuga"
 breadcrumbTitle: "Awakening of 64 Yoginis"
 description: "Guru Shyama Khyapa discusses the significance of the 64 Yoginis, the predicted seven days of darkness, and the terrifying signs that will mark the transition of eras."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, 64 Yoginis, Kali Yuga End, Prophecy, Mother Durga, Seven Days of Darkness, Dakinis, Navami Puja, Bija Mantras, Pralay"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:19:00
 readingTime: 5

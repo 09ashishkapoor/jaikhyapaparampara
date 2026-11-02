@@ -4,7 +4,7 @@ title: "Dashamahabidya Sorashi (Shoroshi) Part 1: Kamakhya - The Conqueror of De
 breadcrumbTitle: "Shoroshi Kamakhya Part 1"
 description: "Guru Shyama Khyapa introduces the third Mahavidya Shoroshi (Kamakhya), explaining her iconography, the sixteen seed syllables, the seven Mahasatis, and the legends of the Kamakhya temple."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Sorashi, Shoroshi, Kamakhya, Kunjika, Dashamahavidya, sixteen syllables, Kameshwari, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:48:00
 readingTime: 8

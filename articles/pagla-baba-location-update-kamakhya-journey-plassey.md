@@ -4,7 +4,7 @@ title: "Pagla Baba's Location Update: Journey to Kamakhya via Plassey"
 breadcrumbTitle: "Pagla Baba Journey Update"
 description: "Guru Shyama Khyapa provides an update on Pagla Baba's pilgrimage journey to Kamakhya, sharing his current location near Plassey and a message from ISKCON Bahadurpur."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pagla Baba, Kamakhya Pilgrimage, Plassey, ISKCON, Spiritual Journey"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:00:00
 readingTime: 2

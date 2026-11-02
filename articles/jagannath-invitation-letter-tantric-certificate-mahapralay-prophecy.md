@@ -4,7 +4,7 @@ title: "Jagannath's Invitation Letter: Tantric Certificate and Mahapralay Prophe
 breadcrumbTitle: "Jagannath Invitation and Prophecy"
 description: "Guru Shyama Khyapa welcomes Abhijit Bose from Jagannath Puri temple, discusses receiving his Tantric certificate from Lord Jagannath, and warns of the coming Mahapralay after the treasury was broken."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jagannath, Puri Temple, Tantric, Abhijit Bose, Bhavani Prasad Das, Mahapralay, Treasury, Prophecy"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:02:00
 readingTime: 3

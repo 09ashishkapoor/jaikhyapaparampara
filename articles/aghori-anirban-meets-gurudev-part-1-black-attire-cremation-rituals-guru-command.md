@@ -4,7 +4,7 @@ title: "Aghori Anirban Meets Gurudev (Part 1): Black Attire, Cremation Rituals, 
 breadcrumbTitle: "Aghori Anirban Meets Gurudev"
 description: "Gurudev and Anirban discuss the Aghori path, why Aghoris wear black, the role of Guru Aadesh, and what can and cannot be spoken about cremation-ground practices."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Aghori, Anirban, Manas Halder, Dasnami Sampradaya, Nath Sampradaya, Bamdev Baba, Mother Tara, Tarapith, Gorakhnath, Matsyendranath, Shmashan Kriya, Gupto Kriya, Uchhishta Matangi, Mahavidya, Tantra"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 03:20:10
 readingTime: 6

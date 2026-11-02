@@ -4,7 +4,7 @@ title: "Reunion After 21 Years: Guru Shyama Khyapa and Sadhika Sangeeta"
 breadcrumbTitle: "21-Year Reunion with Sadhika Sangeeta"
 description: "After 21 years apart, Sadhika Sangeeta returns to Guru Shyama Khyapa, who recalls her transformation from a restless seeker to a composed spiritual guide. A moving conversation about devotion, memory, and the lasting bond between Guru and disciple."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Sangeeta, Sadhika, Reunion, Devotion, Bhakti, Spiritual Journey, Guru Disciple, Satsang"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:01:00
 readingTime: 4

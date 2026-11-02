@@ -4,7 +4,7 @@ title: "Kalabhairava Name 80: Karma-Posakaya - Meaning and Significance"
 breadcrumbTitle: "Karma-Posakaya"
 description: "English meaning and spiritual significance of Karma-Posakaya, the 80th name of Lord Kalabhairava, who sustains action and ensures that karma ripens into its proper result."
 keywords: "Karma-Posakaya, Kalabhairava name 80, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karma-Posakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

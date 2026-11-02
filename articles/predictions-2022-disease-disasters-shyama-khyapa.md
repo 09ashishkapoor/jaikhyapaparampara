@@ -4,7 +4,7 @@ title: "2022 Predictions: Disease, Disasters, and Warnings for the New Year"
 breadcrumbTitle: "2022 Predictions"
 description: "Guru Shyama Khyapa delivers sobering predictions for 2022, warning of new diseases, natural disasters, educational crisis, and urging people to stay home and practice restraint."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, 2022 Predictions, New Year, Omicron, COVID, Disease, Natural Disasters, Education Crisis, Prophecy, Warnings"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:14:00
 readingTime: 3

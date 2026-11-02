@@ -4,7 +4,7 @@ title: "A Statement About Annada from the Mouth of Gurudev"
 breadcrumbTitle: "Statement About Annada"
 description: "Gurudev explains the concept of Mother Annada (the provider of food) and why one should not display prosperity to her. Discusses the difference between honest and dishonest money in temple donations."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Annada, temple, donation, money, devotion"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:21:00
 readingTime: 5

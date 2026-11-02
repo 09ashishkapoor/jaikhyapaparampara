@@ -4,7 +4,7 @@ title: "From Fierce Robber to Buddhist Monk: The Transformation of Angulimala an
 breadcrumbTitle: "Angulimala Transformation"
 description: "Guru Shyama Khyapa recounts the legendary story of Angulimala, the mass murderer turned Buddhist saint, demonstrating that even the most wicked can transform through the grace of a true Guru and sincere spiritual practice."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Angulimala, Buddha, transformation, spiritual grace"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:02:00
 readingTime: 7

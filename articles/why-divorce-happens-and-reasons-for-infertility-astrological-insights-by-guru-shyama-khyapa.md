@@ -4,7 +4,7 @@ title: "Why Divorce Happens and Reasons for Infertility: Astrological Insights b
 breadcrumbTitle: "Divorce & Infertility Astrology"
 description: "Guru Shyama Khyapa and prominent astrologer Bishwodev Chakraborty reveal the astrological causes behind the epidemic of divorces and infertility plaguing modern society. Explore the roles of the Moon, Mars, and Jupiter in conception, the afflictions of the 5th and 7th houses, planetary remedies, and the spiritual dimension of marriage and childbirth through sacred Vedic rituals."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Divorce Astrology, Infertility Causes, Moon Mars Jupiter, 7th House, 5th House, Vedic Rituals, Mahamrityunjaya, Venus Shukra, Marriage Problems, Progeny Giver, Birth Chart Analysis, Manglik Yoga, Saturn Affliction"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 28

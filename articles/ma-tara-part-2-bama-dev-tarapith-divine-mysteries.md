@@ -4,7 +4,7 @@ title: "Ma Tara Part 2: The Life of Bama-dev and the Divine Mysteries of Tarapit
 breadcrumbTitle: "Ma Tara and Bama-dev"
 description: "Guru Shyama Khyapa reveals the profound spiritual mysteries of Tarapith, the extraordinary life of Bama-dev, and the divine compassion of Ma Tara through miraculous stories and deep teachings."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Ma Tara, Dashamahabidya, Bama-dev, Tarapith, Dwaraka River, Kundalini, Sahasrara, Akshobhya, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:08:00
 readingTime: 16

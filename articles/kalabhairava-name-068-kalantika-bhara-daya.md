@@ -4,7 +4,7 @@ title: "Kalabhairava Name 68: Kalantika-Bhara-Daya - Meaning and Significance"
 breadcrumbTitle: "Kalantika-Bhara-Daya"
 description: "English meaning and spiritual significance of Kalantika-Bhara-Daya, the 68th name of Lord Kalabhairava, who bears the end of time and the mystery of cosmic dissolution."
 keywords: "Kalantika-Bhara-Daya, Kalabhairava name 68, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kalantika-Bhara-Daya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

@@ -4,7 +4,7 @@ title: "Bhavishya Malika and Science: When Prophecy Meets Scientific Validation"
 breadcrumbTitle: "Bhavishya Malika Science"
 description: "Guru Shyama Khyapa explores how the prophecies of Bhavishya Malika align with modern scientific predictions about climate change, global warming, and future catastrophes."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Bhavishya Malika, Bhabisya Malika, Science, Prophecy, Global Warming, Jagannath, Seven Days Darkness, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:12:00
 readingTime: 7

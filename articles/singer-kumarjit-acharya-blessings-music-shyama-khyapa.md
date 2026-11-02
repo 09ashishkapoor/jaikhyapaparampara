@@ -4,7 +4,7 @@ title: "Singer Kumarjit Acharya Seeks Gurudev's Blessings: A Musical Journey"
 breadcrumbTitle: "Singer Kumarjit Acharya Blessings"
 description: "Guru Shyama Khyapa interviews singer Kumarjit Acharya, who shares his musical journey and seeks blessings to overcome career stagnation during the COVID period."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kumarjit Acharya, Singer, Music, Kishore Kumar, RD Burman, Manna Dey, COVID, Blessings"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:41:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "The Path of Japa: Achieving Spiritual Perfection Through Disciplined Cha
 breadcrumbTitle: "Achieving Perfection Through Japa"
 description: "Guru Shyama Khyapa explains the rigorous discipline required for Japa (mantra chanting), the importance of precise timing (Khon), and the spiritual insights of Gopinath Kaviraj on attaining Siddhi."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Japa, Siddhi, Mantra, Gopinath Kaviraj, Initiation, Spiritual Discipline"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:14:00
 readingTime: 7

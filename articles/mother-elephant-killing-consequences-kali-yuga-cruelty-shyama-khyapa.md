@@ -4,7 +4,7 @@ title: "The Death of a Mother Elephant: Consequences of Kali Yuga's Cruelty"
 breadcrumbTitle: "Mother Elephant Killing Consequences"
 description: "Guru Shyama Khyapa delivers a powerful condemnation of the brutal killing of a pregnant mother elephant in Kerala, connecting it to the peak of Kali Yuga and warning of terrible consequences for humanity's descent into animalistic cruelty."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, mother elephant, Kerala elephant killing, animal cruelty, Kali Yuga, Kul-Kundalini, elephant protection, Mercury burning, conscience, 2020 year of death"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:23:00
 readingTime: 11

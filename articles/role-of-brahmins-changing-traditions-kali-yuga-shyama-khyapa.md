@@ -4,7 +4,7 @@ title: "The Role of Brahmins and Changing Traditions in Kali Yuga"
 breadcrumbTitle: "Changing Traditions in Kali Yuga"
 description: "Gurudev Shyama Khyapa explains the scriptural origins of societal roles, answering why non-Brahmins are increasingly performing pujas and how the influence of Kali Yuga is altering timeless traditions."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kali Yuga, Brahmins, Catur-varnyam maya srstam, Bhagavad Gita, Pujas, Traditions, Scriptures"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 12:04:00
 readingTime: 5

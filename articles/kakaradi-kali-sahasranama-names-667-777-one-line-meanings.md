@@ -4,7 +4,7 @@ title: "Kakaradi Kali Sahasranama in English: Names 667-777 with One-Line Meanin
 breadcrumbTitle: "Kakaradi Kali Sahasranama Names 667-777"
 description: "Read names 667-777 of the Kakaradi Kali Sahasranama in English, with simple one-line devotional meanings for Kali prayer, japa, mantra study, and contemplation."
 keywords: "Kakaradi Kali Sahasranama in English, Kakārādi Kali Sahasranama, Kali Sahasranama names with meaning, Kali 1000 names English meaning, Maa Kali names, Kali namavali, Kali devotional meanings, Kali names 667-777, Kameshi Kali, Kalachakra Kali, Kulachudamani, Kula Kali, Kakaradi Kali names 667-777"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "KaliPutra-Ashish"
 date: 2026-04-26
 readingTime: 14

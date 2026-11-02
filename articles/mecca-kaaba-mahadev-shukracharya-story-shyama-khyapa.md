@@ -4,7 +4,7 @@ title: "Mahadev in Mecca: The Untold Story of Shukracharya, Kacha, and the Kaaba
 breadcrumbTitle: "Mahadev in Mecca Kaaba"
 description: "Guru Shyama Khyapa reveals the profound spiritual history behind Mahadev's presence in the Kaaba, the story of Shukracharya and Kacha, and why the Divine chooses to remain in Mecca."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Mecca, Kaaba, Mahadev, Shukracharya, Kacha, Devayani, Brihaspati, Jummah, Shukrabar, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:04:00
 readingTime: 6

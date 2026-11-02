@@ -4,7 +4,7 @@ title: "Bhairava Sadhana: Depression, Sri Krishna, and the Sacred Meaning of Lon
 breadcrumbTitle: "Depression, Sri Krishna, and Loneliness in Sadhana"
 description: "Shri Praveen Radhakrishna addresses the depression and loneliness that Sadhakas inevitably face, using Sri Krishna's solitary death in the forest as the greatest teaching on karma-burning — and why the absence of special days is a mark of genuine Sadhana."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Sadhana, depression, loneliness, Sri Krishna, karma, Moksha, Vairagya, Kali Yuga, special days, Ashtami"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-17 10:08:00
 readingTime: 8

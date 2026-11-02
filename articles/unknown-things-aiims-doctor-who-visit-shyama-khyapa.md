@@ -4,7 +4,7 @@ title: "Unknown Things of Yesterday: The AIIMS Doctor & WHO Representative's Vis
 breadcrumbTitle: "AIIMS Doctor WHO Visit"
 description: "Guru Shyama Khyapa reveals the identity of a prominent visitor—a senior AIIMS gynecologist sent by the WHO—who sat at his feet in devotion, and reflects on the hidden greatness of true seekers."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, AIIMS, WHO, World Health Organization, Doctor, Gynecologist, Tarapith, Hidden Seeker, Mental Strength, Bhadra"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:02:00
 readingTime: 4

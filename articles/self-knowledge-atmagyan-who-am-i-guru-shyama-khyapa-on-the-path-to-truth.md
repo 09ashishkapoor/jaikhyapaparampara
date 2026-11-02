@@ -4,7 +4,7 @@ title: "Self-knowledge (Atmagyan): Who Am I? Guru Shyama Khyapa on the Path to T
 breadcrumbTitle: "Self-knowledge and Atonement"
 description: "Guru Shyama Khyapa discusses the true meaning of Self-knowledge (Atmagyan), the power of divine touch, and the misconception of atonement for sins, emphasizing faith and accountability."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Atmagyan, Self-knowledge, Who am I, Sadhana, Omkar, Aum, Karma, Sin, Atonement, Prayaschit, Divine Touch, Healing, Faith, Accountability"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 2

@@ -4,7 +4,7 @@ title: "Mother Adya's Installation: Guru Shyama Khyapa's Connection with Kartik 
 breadcrumbTitle: "Installation of Mother Adya"
 description: "Guru Shyama Khyapa recounts the story of how he was invited to perform the Pran-Pratishtha of Mother Adya, his interaction with a municipal councilor, and his meeting with the singer Shrikumar Chattopadhyay."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mother Adya, Adyashakti Mahamaya, Kartik Biswas, Shrikumar Chattopadhyay, Rajpur Sonarpur, Pran-Pratishtha, Donation Box, Spiritual Independence"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:32:00
 readingTime: 6

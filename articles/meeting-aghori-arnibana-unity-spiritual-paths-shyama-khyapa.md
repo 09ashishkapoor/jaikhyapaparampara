@@ -4,7 +4,7 @@ title: "Meeting with Aghori Arnibana: Unity of Spiritual Paths and Prostration R
 breadcrumbTitle: "Meeting Aghori Arnibana"
 description: "A profound meeting with Aghori practitioner Arnibana discussing the unity between Sanatan Dharma and Sufi practices, the proper way to prostrate before deities, and the power of Tantra Sadhana to liberate seven generations."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Aghori, Arnibana, Nathpanthi, prostration, Sashtanga, Tantra Sadhana, formless meditation, Brahma"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:37:00
 readingTime: 5

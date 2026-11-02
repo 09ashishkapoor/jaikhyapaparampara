@@ -4,7 +4,7 @@ title: "Kalabhairava Name 34: Kala-Kastha-Adhipalakaya - Meaning and Significanc
 breadcrumbTitle: "Kala-Kastha-Adhipalakaya"
 description: "English meaning and spiritual significance of Kala-Kastha-Adhipalakaya, the 34th name of Lord Kalabhairava: guardian of the furthest measure and boundary of time itself."
 keywords: "Kala-Kastha-Adhipalakaya, Kalabhairava name 34, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Kastha-Adhipalakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

@@ -4,7 +4,7 @@ title: "Kaal Sarp Dosh: Vedic Truth vs Astrological Myth - Guru Shyama Khyapa"
 breadcrumbTitle: "Kaal Sarp Dosh: Truth Revealed"
 description: "Guru Shyama Khyapa and disciple Shantanu Ray expose Kaal Sarp Dosh as a misconception created by astrologers for business, revealing the Vedic and scientific truth."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Kaal Sarp Dosh, Astrology, Vedic, Shantanu Ray, Rahu Ketu, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:47:00
 readingTime: 7

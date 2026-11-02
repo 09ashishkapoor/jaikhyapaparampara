@@ -4,7 +4,7 @@ title: "Bhairava–Kali Sadhana: Fear, Loneliness, Krishna, and the Dark Vacuum 
 breadcrumbTitle: "Krishna to Kali in Bhakti"
 description: "Shri Praveen Radhakrishna explores what remains when rituals collapse in the Bhakti Marga, using a family story of Krishna devotion to explain the inner movement from the bright, decorated Krishna current toward the dark, uncompromising vacuum of Kali."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Bhakti Marga, Krishna, Maha Vishnu, Ma Kali, Devi, Nama Japa, Alankaram, Leela, Maya, Amavasya, Ashtami, Khadga, Shakti, Krodha Bhairava, Chhinnamasta, Preta Loka, Siddhis"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:21:00
 readingTime: 7

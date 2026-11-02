@@ -4,7 +4,7 @@ title: "Contact Information and Guidelines for Meeting Gurudev"
 breadcrumbTitle: "Contact & Guidelines"
 description: "Guru Shyama Khyapa provides his contact number and important guidelines for devotees: when to call, when to visit, and how to respect his time and privacy."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Contact, Phone Number, Guidelines, Visiting Hours, Appointment, Shantikunj"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:01:00
 readingTime: 2

@@ -4,7 +4,7 @@ title: "Shani Maharaj: Birth from Shadow and 18-Year Trial - Guru Shyama Khyapa"
 breadcrumbTitle: "Shani Maharaj: Birth and Trials"
 description: "Guru Shyama Khyapa reveals the Puranic story of Shani Maharaj's birth from Chhaya (shadow), his 18-year influence, and how to mitigate Saturn's wrath through Narayan worship."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Shani Maharaj, Saturn, Chhaya, Sade Sati, Narayan, Tulsi, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:49:00
 readingTime: 8

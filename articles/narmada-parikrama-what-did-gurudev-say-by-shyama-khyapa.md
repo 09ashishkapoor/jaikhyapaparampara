@@ -4,7 +4,7 @@ title: "Narmada Parikrama: What Did Gurudev Say by Shyama Khyapa"
 breadcrumbTitle: "Narmada Parikrama"
 description: "Guru Shyama Khyapa and disciple Chandan Adhikari share detailed insights on the Narmada Parikrama spiritual journey, miracles, sacred sages, and the principle of service and truth."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Narmada Parikrama, Sacred Pilgrimage, Spiritual Journey, Service, Truth, Divine Miracles"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 26

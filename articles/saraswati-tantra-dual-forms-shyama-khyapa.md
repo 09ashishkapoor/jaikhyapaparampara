@@ -4,7 +4,7 @@ title: "Saraswati in Tantra: The Dual Forms of the Goddess of Wisdom"
 breadcrumbTitle: "Saraswati's Dual Forms"
 description: "Guru Shyama Khyapa explores the two primary forms of Goddess Saraswati—the gentle deity of learning and the fierce Mahasaraswati of Tantra—along with stories of her origins and worship."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Saraswati, Mahasaraswati, Tantra, Saraswati Puja, Devi Mahatmya, Matangi"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:01:00
 readingTime: 9

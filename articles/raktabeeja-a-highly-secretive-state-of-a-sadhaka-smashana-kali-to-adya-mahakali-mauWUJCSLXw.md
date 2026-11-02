@@ -4,7 +4,7 @@ title: "Raktabija: A Highly Secretive State of a Sadhaka — From Smashana Kali 
 breadcrumbTitle: "Raktabija: Smashana Kali to Adya Mahakali"
 description: "Shri Praveen Radhakrishna unveils the hidden spiritual meaning of Raktabija as the powerful Sadhaka state — explaining how Smashana Kali guides the aspirant from worldly achievement to cosmic purpose, with Karna's story as the supreme lesson of the Tiger Tattva."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Raktabija, Smashana Kali, Adya Mahakali, Ma Durga, Vriddha Mata, Karna, Mahabharata, Tiger Tattva, Lion Tattva, Simhasana, Khappar, Sadhana"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:04:00
 readingTime: 8

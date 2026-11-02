@@ -4,7 +4,7 @@ title: "Rakshasi Sadhana, Skanda, and the Sun-Mars-Saturn-Guru Alignment"
 breadcrumbTitle: "Rakshasi Sadhana and Skanda's Planetary Mastery"
 description: "Shri Praveen Radhakrishna explains why the 186th name of Adhya Kali is Rakshasi, how mastering the Asura within is the key to higher realization, and why Skanda Murugan is the master of the Sun, Mars, Saturn, and Jupiter through his iconic Surya Mudra and Vajra."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Rakshasi, Skanda, Murugan, Adhya Kali, Samudra Manthan, Bhima, Hidimba, Valli Devi, Devasena, Surya Mudra, Vajra, Smashana Kali, Astrology planets"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:02:00
 readingTime: 7

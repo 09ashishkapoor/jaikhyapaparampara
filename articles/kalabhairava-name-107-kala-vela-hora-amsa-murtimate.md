@@ -4,7 +4,7 @@ title: "Kalabhairava Name 107: Kala-Vela-Hora-Amsa-Murtimate - Meaning and Signi
 breadcrumbTitle: "Kala-Vela-Hora-Amsa-Murtimate"
 description: "English meaning and spiritual significance of Kala-Vela-Hora-Amsa-Murtimate, the 107th name of Lord Kalabhairava, who is present in every measured division of time."
 keywords: "Kala-Vela-Hora-Amsa-Murtimate, Kalabhairava name 107, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Vela-Hora-Amsa-Murtimate meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

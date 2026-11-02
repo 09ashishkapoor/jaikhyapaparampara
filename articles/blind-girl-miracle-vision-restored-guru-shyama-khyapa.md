@@ -4,7 +4,7 @@ title: "A Blind Girl's Story: How Guru Shyama Khyapa's Blessings Restored a Devo
 breadcrumbTitle: "Blind Girl's Miracle Vision Restored by Guru's Grace"
 description: "A devotee shares how she came to Guru Shyama Khyapa in total blindness caused by diabetic retinopathy, and how his spiritual intervention alongside a surgeon's final attempt resulted in her miraculous recovery of sight."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, miracle healing, blindness, diabetic retinopathy, Drishti Daan, devotee testimony, Mother Goddess"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:34:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Masterda Surya Sen and the Chittagong Armoury Raid: Guru Shyama Khyapa o
 breadcrumbTitle: "Masterda Surya Sen Story"
 description: "Guru Shyama Khyapa reveals how Masterda Surya Sen freed Chittagong for four days, hoisted India's first independence flag, and was brutally murdered by the British who crushed his bones with hammers."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Masterda Surya Sen, Chittagong Armoury Raid, Indian Independence, Pritilata Waddedar, Kalpana Datta, Revolutionaries, British Raj"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:51:00
 readingTime: 7

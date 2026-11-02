@@ -4,7 +4,7 @@ title: "God Arrives at the Devotee's Call: Lord Jagannath and Guru Baba Shyama K
 breadcrumbTitle: "God Arrives at the Devotee's Call"
 description: "A moving account of how Lord Jagannath arrived at Guru Shyama Khyapa's temple when he could no longer travel to Puri. Explore the profound connection between a true devotee and the Divine."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Lord Jagannath, Puri, Devotion, God's Arrival, Spiritual Stories, Khyapa Parampara, Vasudev Jagannath, Abhishek, Puja"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-30
 readingTime: 10

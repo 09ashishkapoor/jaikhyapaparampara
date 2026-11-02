@@ -4,7 +4,7 @@ title: "Gurudev Shyamakshapa Discussed Totapuri"
 breadcrumbTitle: "Totapuri's Teachings"
 description: "Guru Shyama Khyapa discusses Totapuri, the Vedantic guru of Sri Ramakrishna Paramahamsa, his background, teachings on Advaita Vedanta, and how he influenced Ramakrishna's realization of the harmony of all religions."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Totapuri, Ramakrishna Paramahamsa, Vedanta, Harmony of Religions"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:12:00
 readingTime: 7

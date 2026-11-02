@@ -4,7 +4,7 @@ title: "Ashtami Initiations: Gurudev Blesses Disciples from Across India"
 breadcrumbTitle: "Ashtami Initiations Across India and Beyond"
 description: "On Ashtami, Guru Shyama Khyapa initiates seekers from Krishnanagar, Berhampore, and Kalimpong while explaining the chakras, the weight of prarabhda, and how the Guru-kul lineage must anchor every disciple even in modern times."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Ashtami, Diksha, Kula-Kundalini, Guru-kul, Vedic Traditions, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:39:10
 readingTime: 8

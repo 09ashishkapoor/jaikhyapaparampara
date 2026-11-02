@@ -4,7 +4,7 @@ title: "Shirdi Sai Baba Part One: Dattatreya Incarnation, Ramakrishna Connection
 breadcrumbTitle: "Shirdi Sai Baba Dattatreya Ramakrishna Unity"
 description: "Guru Shyama Khyapa discusses the mysterious origins of Shirdi Sai Baba, his incarnation as Dattatreya, his blending of Hindu Advaita and Sufi Islam into the message 'Sabka Malik Ek,' and his remarkable spiritual connection with Ramakrishna Paramahansa."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shirdi Sai Baba, Dattatreya, Ramakrishna Paramahansa, Sabka Malik Ek, Sufism, Advaita, Dwarkamai"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 07:05:00
 readingTime: 3

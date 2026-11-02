@@ -4,7 +4,7 @@ title: "Warning Part 2: El Niño, Earthquakes, 2025 Year of Mars and Mahapralay 
 breadcrumbTitle: "Warning Part 2 Mahapralay and 2025 Mars"
 description: "Guru Shyama Khyapa issues grave warnings about El Niño, earthquakes, tsunamis, and the Great Cataclysm from 2023 to 2027. He declares 2025 as the terrifying Year of Mars, warns about nature's revenge, and speaks of profound moral decay in society."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, El Niño, earthquake, tsunami, Mahapralay, 2025, Mars year, prophecy, nature's revenge, Odisha, Digha, girl trafficking, Rahu Ketu, cosmic object"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:09:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Ratha Yatra: Guru Shyama Khyapa on the Auspicious Pushya Nakshatra and J
 breadcrumbTitle: "Ratha Yatra Pushya Nakshatra Significance"
 description: "Guru Shyama Khyapa explains the special significance of Ratha Yatra on Pushya Nakshatra, the Abhishek ceremony, and why Vedic Homa is prioritized over Tantric methods."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Ratha Yatra, Jagannath, Pushya Nakshatra, Homa, Vedic, Tantra, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:04:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Women Against Husbands: The Waning Shiva Tattva and the Call for Bhairav
 breadcrumbTitle: "The Waning Shiva Tattva and Bhairava"
 description: "Shri Praveen Radhakrishna explains why women are going berserk against their husbands in modern society — connecting current events to the Puranic truth that Shakti can only find Aadhara (foundation) with Shiva, not with Brahma, and why Bhairava Sadhana is the only answer for modern men."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Shiva Tattva, Shakti, marriage, Daksha, Sati, Parvati, Brahma, Bhairava Sadhana, Kunti, Gandhari, Adya Maha Kali, masculinity, Kali Yuga"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:07:00
 readingTime: 9

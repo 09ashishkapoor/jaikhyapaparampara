@@ -4,7 +4,7 @@ title: "Tantra and Kula Kundalini 2: The Five Life Airs and Breath Retention Pra
 breadcrumbTitle: "Kula Kundalini and Breath Work"
 description: "Guru Shyama Khyapa reveals the profound philosophy of breath, the five life airs (Prana, Apana, Samana, Udana, Vyana), Kumbhaka practice, and the chakra system in tantric sadhana."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Tantra, Kula Kundalini, Kumbhaka, Chakra, Breath Retention, Vayu Kriya, Spiritual Practice, Yoga, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:03:00
 readingTime: 19

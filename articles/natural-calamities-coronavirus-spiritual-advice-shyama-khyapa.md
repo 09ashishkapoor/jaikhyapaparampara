@@ -4,7 +4,7 @@ title: "Natural Calamities, Coronavirus, and Spiritual Power: Shyama Khyapa's Ad
 breadcrumbTitle: "Natural Calamities and Spiritual Power"
 description: "Guru Shyama Khyapa explains how deep excavation releases ancient underground germs causing unknown diseases, his storehouse of spiritual power for future disasters, and traditional remedies using neem, turmeric, and atop chal to combat coronavirus."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Natural Calamities, Coronavirus, Spiritual Power, Ajna Chakra, Prophecy, Neem Turmeric, Underground Germs"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:37:00
 readingTime: 7

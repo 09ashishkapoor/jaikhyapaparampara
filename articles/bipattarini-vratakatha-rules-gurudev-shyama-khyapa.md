@@ -4,7 +4,7 @@ title: "Bipattarini Vratakatha and Rules - Learn from Gurudev Shyama Khyapa"
 breadcrumbTitle: "Bipattarini Vratakatha and Rules"
 description: "Gurudev Shyama Khyapa explains the history and rituals of Bipattarini Puja, the tradition of offering 13 fruits, the Broto Kotha legend, and the significance of the red thread with 13 knots."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bipattarini, Chandi Bari, Baba Dulal, Broto Kotha, Kamakhya Tantra, Rajpur, Tantric rituals"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:29:00
 readingTime: 4

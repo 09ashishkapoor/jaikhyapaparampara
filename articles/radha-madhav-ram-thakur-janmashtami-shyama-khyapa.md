@@ -4,7 +4,7 @@ title: "Radha Madhav Ram Thakur: The Unfathomable Ocean of Divinity on Janmashta
 breadcrumbTitle: "Ram Thakur's Divine Legacy"
 description: "Guru Shyama Khyapa shares profound insights about Ram Thakur (Ram Chandra Chakraborty), his unfathomable spiritual depths, his birth in realized state, and the Janmashtami puja at Sadananda Babu's house."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Ram Thakur, Radha Madhav, Janmashtami, Ram Chandra Chakraborty, Dingamanik, Divine Realization, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:00:00
 readingTime: 4

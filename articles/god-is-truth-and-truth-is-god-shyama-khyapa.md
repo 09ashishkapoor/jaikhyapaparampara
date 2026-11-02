@@ -4,7 +4,7 @@ title: "God is Truth and Truth is God - Gurudev Shyama Khyapa"
 breadcrumbTitle: "Truth is God"
 description: "Explore the profound spiritual insight of Gurudev Shyama Khyapa as he explains why God and Truth are one, the consequences of falsehood, and the power of honesty in spiritual life."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, God is Truth, Truth is God, Satyachar, Satyameva Jayate, Law of Karma, Spiritual Truth, Honesty in Spirituality, Guru Teachings"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 8

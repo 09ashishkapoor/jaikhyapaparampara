@@ -4,7 +4,7 @@ title: "The Magnetic Pull of Devotion: Five Young Disciples Travel 700 Kilometer
 breadcrumbTitle: "Seekers from the Hills"
 description: "Five dedicated young men from Siliguri, Darjeeling, and Bihar travel nearly 700 kilometers to receive initiation from Guru Shyama Khyapa, illustrating the extraordinary magnetic pull of genuine spiritual devotion among today's generation and the selfless nature of a true Guru who prioritizes disciples' welfare over material gain."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Spiritual Initiation, Siliguri, Darjeeling, Bihar, Youth Spirituality, Devotion, Mother, Shantikunj, Guru Disciples, Spiritual Awakening, Initiation Ceremony, Krishna Mantra, Youth Generation, Spiritual Pull, Guru Blessing"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 20

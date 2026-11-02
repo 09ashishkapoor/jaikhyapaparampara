@@ -4,7 +4,7 @@ title: "COVID Second Wave Warning: Guru Shyama Khyapa and Doctor Amitabha Ranjan
 breadcrumbTitle: "COVID Second Wave Guru Doctor Masks Immunity Warning"
 description: "Guru Shyama Khyapa hosts Dr. Amitabha Ranjan Pal for an urgent public health discussion on COVID-19's second wave—its airborne spread, correct mask use, new symptoms, immunity-boosting practices, and Gurudev's warning that if India does not follow rules, a massive crisis is coming."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, COVID-19, second wave, Dr. Amitabha Ranjan Pal, masks, immunity, RT-PCR, airborne disease, herbal remedy, Pralaya"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:37:00
 readingTime: 8

@@ -4,7 +4,7 @@ title: "What is Mola Mash? Gurudev Explains Shravan Month Significance"
 breadcrumbTitle: "Mola Mash Shravan"
 description: "Guru Shyama Khyapa explains the significance of Shravan month and Mola Mash (the dead month). He discusses why no auspicious rituals should be performed during Mola Mash and what householders should do during this period."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shravan, Mola Mash, Month, Hindu Calendar, Shiva, Tantra"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:11:00
 readingTime: 3

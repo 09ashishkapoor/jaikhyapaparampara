@@ -4,7 +4,7 @@ title: "The Seven Chakras: A Medical and Spiritual Perspective"
 breadcrumbTitle: "Seven Chakras Medical Spiritual View"
 description: "Guru Shyama Khyapa and Dr. Anshuman explain the seven chakras from both spiritual and medical perspectives, revealing the anatomical correlations of these energy centers."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, seven chakras, Mooladhar, Swadhishthan, Manipur, Anahata, Vishuddha, Ajna, Sahasrara, Kundalini, medical science, anatomy, chakras and body, Dr. Anshuman"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:30:00
 readingTime: 8

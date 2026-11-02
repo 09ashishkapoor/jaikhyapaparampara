@@ -4,7 +4,7 @@ title: "Forgiveness is the Religion of Humanity: Gender, Society, and Spiritual 
 breadcrumbTitle: "Forgiveness and Society"
 description: "Guru Shyama Khyapa explores the profound virtue of forgiveness from the Bhagavad Gita, examining societal decay, gender dynamics, and the loss of shame and fear in modern times."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, forgiveness, Bhagavad Gita, gender roles, society, Kshama, Dharma, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:44:00
 readingTime: 8

@@ -4,7 +4,7 @@ title: "The Truth About Kali Puja and Tantra: Guru Shyama Khyapa's Warning"
 breadcrumbTitle: "Kali Puja and Tantra Warnings"
 description: "Guru Shyama Khyapa reveals the hidden dangers of the Kali Puja New Moon, the difference between Satvik and Tamasik Tantra, and why householders should stay home during Amavasya."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Kali Puja, Tantra, Amavasya, Black Magic, Satvik, Tamasik, Tarapith, Spiritual Protection, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-30
 readingTime: 15

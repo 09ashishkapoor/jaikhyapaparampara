@@ -4,7 +4,7 @@ title: "Origin of Shakha: The Sacred Conch Bangles of Sanatani Hindu Women"
 breadcrumbTitle: "Origin Shakha Conch Bangles Tradition"
 description: "Guru Shyama Khyapa narrates the divine origin of Shakha (white conch bangles), why Vishwakarma created them, and their spiritual significance for married Hindu women."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shakha, conch bangles, Sanatani Hindu women, Vishwakarma, Mahashankha, sindoor, alta, marriage tradition"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 20:01:00
 readingTime: 5

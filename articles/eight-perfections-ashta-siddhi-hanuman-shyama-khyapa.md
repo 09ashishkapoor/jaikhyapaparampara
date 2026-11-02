@@ -4,7 +4,7 @@ title: "Eight Perfections: The Ashta Siddhi and Hanuman's Divine Powers"
 breadcrumbTitle: "Eight Perfections Ashta Siddhi"
 description: "Guru Shyama Khyapa explains the eight supernatural powers (Ashta Siddhi) through the story of Hanuman, detailing Anima, Laghima, Garima, Mahima, Prapti, Prakamya, Isitva, and Vasitva."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ashta Siddhi, Eight Perfections, Eight Powers, Hanuman, Anima, Laghima, Garima, Mahima, Prapti, Prakamya, Isitva, Vasitva, Rahu, Surya"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:06:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Mother's Comings and Goings: Guru Shyama Khyapa on Building a Home Templ
 breadcrumbTitle: "Mother's Comings and Goings"
 description: "Guru Shyama Khyapa performs Pran Pratishtha for a devotee from Haldia, blesses a home temple for Bama Tara, and warns against commercializing worship or taking money for the Mother."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Pran Pratishtha, Bama Tara, Bamdev Baba, Home Temple, Haldia, Devotion, Worship, Commercial Worship"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:55:00
 readingTime: 5

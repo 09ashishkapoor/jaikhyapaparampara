@@ -4,7 +4,7 @@ title: "Bengali Gotras Explained: Gurudev Reveals Rishi Lineages and Pravara Sys
 breadcrumbTitle: "Gotras and Rishi Lineages Explained"
 description: "Guru Shyama Khyapa explains various Bengali Gotras including Kushik, Atreya, Kaushik, Angiras, and others—revealing the Rishi lineages, their contributions, and the ancient Pravara system."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Gotra, Pravara, Rishi Lineage, Kushik, Atreya, Kaushik, Angiras, Dhanvantari, Vedic Tradition"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:33:00
 readingTime: 10

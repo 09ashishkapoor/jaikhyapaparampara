@@ -4,7 +4,7 @@ title: "Brihaspati (Jupiter): Navagraha and the Connection to Maa Tara"
 breadcrumbTitle: "Brihaspati Jupiter Navagraha Tara"
 description: "Guru Shyama Khyapa explains the connection between Jupiter (Brihaspati), the Devguru of gods, and Maa Tara, including donation rituals and spiritual significance."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Brihaspati, Jupiter, Navagraha, Maa Tara, Devguru, Yellow Sapphire, Donation"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:40:00
 readingTime: 5

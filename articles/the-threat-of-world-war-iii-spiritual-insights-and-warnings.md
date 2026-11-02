@@ -4,7 +4,7 @@ title: "The Threat of World War III: Spiritual Insights and Warnings"
 breadcrumbTitle: "Guru Shyama Khyapa on World War III"
 description: "Guru Shyama Khyapa shares his deep concerns regarding the escalating global tensions, the Russia-Ukraine conflict, and the spiritual implications of a potential Third World War."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, World War III, Russia Ukraine War, Nuclear War, Prophecy, Spiritual Peace, Global Crisis"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:20:00
 readingTime: 12

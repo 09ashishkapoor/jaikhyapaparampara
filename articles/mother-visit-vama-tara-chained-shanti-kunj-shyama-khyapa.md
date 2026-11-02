@@ -4,7 +4,7 @@ title: "Mother's Visit: The Story of Vama Tara and the Chain at Shanti Kunj"
 breadcrumbTitle: "Mother's Visit - Vama Tara at Shanti Kunj"
 description: "Guru Shyama Khyapa reveals the story of Vama Tara at Shanti Kunj, why she is worshipped with a chain on her foot, and the mysterious circumstances of her arrival from Bamdeb Baba's lineage."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Vama Tara, Mother's Visit, Shanti Kunj, Chained Mother, Bamdeb Baba, Dakat Kali, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:21:00
 readingTime: 3

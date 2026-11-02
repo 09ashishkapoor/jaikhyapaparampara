@@ -4,7 +4,7 @@ title: "Shantikunj's Message During Corona Pandemic: Gurudev's Strict Warning to
 breadcrumbTitle: "Corona Pandemic Warning to Devotees"
 description: "Guru Shyama Khyapa shares administration's strict COVID restrictions at the cremation ground, warns devotees not to visit, and expresses concern about the terrifying second wave."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, COVID-19, Pandemic, Corona, Second Wave, Cremation Ground, Police Restrictions, Mask, Temple, Shantikunj"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:44:00
 readingTime: 7

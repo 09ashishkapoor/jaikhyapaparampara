@@ -4,7 +4,7 @@ title: "What Did Gurudev Say About Guru Purnima? Ved Vyasa and the Sapta Rishis"
 breadcrumbTitle: "Guru Purnima and Ved Vyasa"
 description: "Guru Shyama Khyapa explains why the full moon is Guru Purnima, the meaning of Gu-Ru, Dakshinamurti, the Sapta Rishis, and the legend of Ved Vyasa's birth from the Amrit Katha."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Guru Purnima, Ved Vyasa, Sapta Rishis, Dakshinamurti, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:29:00
 readingTime: 5

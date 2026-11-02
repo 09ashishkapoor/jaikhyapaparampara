@@ -4,7 +4,7 @@ title: "80,000 Subscribers: A Journey of Spiritual Messages and Global Impact"
 breadcrumbTitle: "YouTube Channel Milestone 80K"
 description: "Gurudev reflects on two and a half years of his YouTube channel, discussing 700+ episodes, 12.4 million views, and the surprising demographics showing younger generations deeply engaged in spirituality."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, YouTube channel, spirituality, younger generation, digital reach, spiritual teaching"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 14:04:00
 readingTime: 10

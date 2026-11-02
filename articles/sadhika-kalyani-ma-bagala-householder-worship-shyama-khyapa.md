@@ -4,7 +4,7 @@ title: "Sadhika from Kalyani: Ma Bagala, Householder Worship, and Meeting Guru S
 breadcrumbTitle: "Sadhika Kalyani Ma Bagala"
 description: "A spiritual seeker (Sadhika) from Kalyani meets Guru Shyama Khyapa at Rajpur Mahashoshan—her devotion to Ma Bagala, guru Sadhak Basudev Paramhansa, and simple householder worship."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Sadhika, Ma Bagala, Kalyani, Householder worship, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:28:00
 readingTime: 6

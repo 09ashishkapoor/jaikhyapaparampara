@@ -4,7 +4,7 @@ title: "Kali Tantra: Why Kali Puja Should Never Be Performed at Home"
 breadcrumbTitle: "Kali Tantra - Not for the Home"
 description: "Guru Shyama Khyapa delivers a stern warning about the dangers of performing Kali Puja inside homes, explaining the eight entities that accompany the Mother and why this fierce Tantric ritual belongs only in forests and cremation grounds."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kali Tantra, Kali Puja, Home Worship, Dhanteras, Tantric Rituals, Ghosts, Spirits, Ramakrishna Paramahansa, Kapalika"
-category: "Spiritual Warnings"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:45:00
 readingTime: 3

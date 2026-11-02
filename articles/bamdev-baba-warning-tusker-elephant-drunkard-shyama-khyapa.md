@@ -4,7 +4,7 @@ title: "Bamdev Baba's Warning: Never Trust a Tusker Elephant and a Drunkard"
 breadcrumbTitle: "Bamdev Baba's Tusker and Drunkard Warning"
 description: "Guru Shyama Khyapa shares the profound teachings of his guru Bamdev Baba about the unpredictable nature of tusker elephants and drunkards, and reveals how alcohol addiction is destroying families and society."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Bamdev Baba, Bama Kheypa, Alcohol Addiction, Drunkard, Tusker Elephant, Social Issues, Family Destruction, Addiction Recovery"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:24:00
 readingTime: 10

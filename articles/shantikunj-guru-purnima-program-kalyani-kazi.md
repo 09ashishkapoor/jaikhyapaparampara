@@ -4,7 +4,7 @@ title: "Shantikunj Guru Purnima Program with Kalyani Kazi"
 breadcrumbTitle: "Shantikunj Guru Purnima Program"
 description: "A Guru Purnima gathering at Shantikunj featuring Kalyani Kazi, daughter-in-law of poet Kazi Nazrul Islam, sharing memories and performing devotional songs for Mother Kali."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shantikunj, Guru Purnima, Kalyani Kazi, Kazi Nazrul Islam, Shyama Sangeet, Mahavidya Adya Shakti, Shoshaney Jagiche Shyama Ma"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:43:00
 readingTime: 4

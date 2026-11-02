@@ -4,7 +4,7 @@ title: "Dol Purnima at Shantikunj: Holi Celebration and Harinam Sankirtan"
 breadcrumbTitle: "Dol Purnima Celebration at Shantikunj"
 description: "Guru Shyama Khyapa explains the significance of Dol Purnima (Holi) celebrations at Shantikunj, including the Homa ritual, Gita recitation, and the power of Harinam Sankirtan in Kali Yuga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Dol Purnima, Holi, Dolyatra, Shantikunj, Harinam Sankirtan, Kali Yuga, Homa, Gita"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:35:00
 readingTime: 4

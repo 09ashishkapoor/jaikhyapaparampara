@@ -4,7 +4,7 @@ title: "June 23rd Update: Did Guru Shyama Khyapa's June 5th COVID Prediction Com
 breadcrumbTitle: "June 23 COVID Prediction Verified Shyama Khyapa"
 description: "On June 23rd, Guru Shyama Khyapa reviews his earlier prediction that COVID cases would start falling after June 22nd—a prediction based on a solar eclipse astrological alignment—and confirms the numbers have dropped. He warns about Delta Plus, the feared third wave, and urges continued vigilance."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, COVID prediction, June 22, solar eclipse, Delta Plus, third wave, COVID West Bengal, COVID astrological calculation"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:38:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "Gurudev's Memory at the Tarapith Crematorium: Attaining Siddhi on the Sa
 breadcrumbTitle: "Gurudev's Memory at Tarapith - Siddhi on the Pyre"
 description: "Guru Shyama Khyapa shares his personal story of attaining spiritual enlightenment (Siddhi) at Tarapith Mahashmashan, sitting on a pyre through a terrible storm on the sacred night of Revati Nakshatra."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Tarapith, Mahashmashan, Siddhi, Pyre, Revati Nakshatra, Mother Tara, Spiritual Enlightenment, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:23:00
 readingTime: 3

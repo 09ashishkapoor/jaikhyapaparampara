@@ -4,7 +4,7 @@ title: "The Ninth Avatar: Buddha - The Wise One of Narayana"
 breadcrumbTitle: "Buddha - The Ninth Avatar"
 description: "Guru Shyama Khyapa explains the life and teachings of Buddha, the ninth avatar of Lord Narayana, including his journey, the formation of Sangha, and how corruption entered his monastic community."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Dashavatar, Buddha, Narayana, Sangha, Dharma, Lord Narayana, Khyapa Parampara, Spiritual Avatars, Buddhism, Monastic Community"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 23:59:00
 readingTime: 6

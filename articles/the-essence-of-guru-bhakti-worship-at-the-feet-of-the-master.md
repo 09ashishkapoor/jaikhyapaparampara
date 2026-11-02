@@ -4,7 +4,7 @@ title: "The Essence of Guru Bhakti: Worship at the Feet of the Master"
 breadcrumbTitle: "Essence of Guru Bhakti"
 description: "Guru Shyama Khyapa discusses the true meaning of devotion (Guru-Bhakti), the sanctity of the ashram, and the divine energy that draws seekers from all corners of India to the feet of the Guru."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Guru Bhakti, Ashram, East Midnapore, Spiritual Initiation, Devotion"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:13:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "'I Am an Untouchable' - The Secret Seeker's Journey to Guru Shyama Khyap
 breadcrumbTitle: "Secret Seeker's Journey"
 description: "A devoted seeker named Bikram travels from Vrindavan to meet Guru Shyama Khyapa at Rajpur Mahashashan, following Mother's command. A story of divine guidance, Shakti worship, and the unity of all spiritual paths."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Secret Seeker, Bikram, Vrindavan, Shakti Aradhana, Rajpur Mahashashan, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 17:00:00
 readingTime: 5

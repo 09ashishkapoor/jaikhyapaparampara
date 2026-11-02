@@ -4,7 +4,7 @@ title: "Shyama Khyapa Announces Temple Closure: Mahalaya Puja Moved and Municipa
 breadcrumbTitle: "Temple Closure Announcement by Gurudev"
 description: "Guru Shyama Khyapa explains why the annual Mahalaya puja is being moved to Friday due to an unfavorable Saturday with Solar Eclipse and Amavasya, and announces indefinite closure of public visits due to municipal beautification work at the temple."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mahalaya, Solar Eclipse, temple closure, Shmashan, municipal renovation"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:42:00
 readingTime: 4

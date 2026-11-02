@@ -4,7 +4,7 @@ title: "Maha Ashtami Rituals and Significance: A Special Message from Gupta Sadh
 breadcrumbTitle: "Maha Ashtami Rituals and Significance"
 description: "Guru Shyama Khyapa explains the spiritual significance of Maha Ashtami during Durga Puja, including prohibited practices, the worship of Ashta Shakti, Dash Dikpal, Sandhi Puja, and weather forecast for the Puja period."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Maha Ashtami, Durga Puja, Ashta Shakti, Dash Dikpal, Sandhi Puja, Chamunda, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:29:00
 readingTime: 4

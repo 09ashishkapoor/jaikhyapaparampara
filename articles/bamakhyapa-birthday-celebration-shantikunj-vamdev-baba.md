@@ -4,7 +4,7 @@ title: "Bamakhyapa Birthday Celebration at Shantikunj: Hom and Vamdev Baba's Ble
 breadcrumbTitle: "Bamakhyapa Birthday at Shantikunj"
 description: "Guru Shyama Khyapa celebrates the birth anniversary of Vamdev Baba at Shantikunj, performing a hom-yajna and sharing deeply personal memories of his spiritual master."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bamakhyapa, Vamdev Baba, Birthday, Hom, Shantikunj, Shivaratri, Initiation, Tarapith, Spiritual Master"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:04:00
 readingTime: 4

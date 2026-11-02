@@ -4,7 +4,7 @@ title: "I Saw a Woman with a Round Face in My Dream: Guru Shyama Khyapa on Devot
 breadcrumbTitle: "Dream Vision - Imon's Experience"
 description: "Guru Shyama Khyapa responds to devotee Imon's dream vision of seeing both the Guru and Divine Mother, explains how he visits devotees in subtle body, and offers initiation."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Dream Vision, Imon 360, Subtle Body, Sukshma Deha, Initiation, Diksha, Divine Mother, COVID-19 Warning"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:51:00
 readingTime: 4

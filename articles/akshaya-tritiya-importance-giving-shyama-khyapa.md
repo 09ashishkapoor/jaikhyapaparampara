@@ -4,7 +4,7 @@ title: "Akshaya Tritiya: The Importance of Giving and Immortal Charity"
 breadcrumbTitle: "Akshaya Tritiya Importance"
 description: "Guru Shyama Khyapa explains the significance of Akshaya Tritiya—the day of immortal giving, charity, and the beginning of auspicious ventures like the Rath Yatra and new accounting ledgers."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Akshaya Tritiya, Giving, Charity, Immortal, Rath Yatra, Ganesha, Mahabharata, Lakshmi, Sindoor, Alta"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:30:00
 readingTime: 3

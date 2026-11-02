@@ -4,7 +4,7 @@ title: "Evening Nam Sankirtan: Chanting the Mother's Name at Tara Temple"
 breadcrumbTitle: "Evening Nam Sankirtan at Tara Temple"
 description: "Guru Shyama Khyapa explains the significance of evening Nam Sankirtan, the daily ritual of chanting Mother Tara's name, Harinam Sankirtan, and the distribution of Prasad at the temple."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Nam Sankirtan, Harinam Sankirtan, Mother Tara, Evening Chanting, Prasad, Bamakhepa, Ramakrishna, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:08:00
 readingTime: 5

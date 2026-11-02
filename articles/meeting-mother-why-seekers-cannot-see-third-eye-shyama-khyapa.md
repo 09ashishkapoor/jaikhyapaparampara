@@ -4,7 +4,7 @@ title: "Meeting With Mother: Why Seekers Cannot See Her - The Third Eye Mystery 
 breadcrumbTitle: "Why Seekers Cannot See Mother"
 description: "Guru Shyama Khyapa explains why seekers cannot see the Mother, the significance of the third eye, Sandhi Puja rituals, and the dangers of witnessing divine power."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, third eye, Sandhi Puja, Chamunda, Durga Puja, Raktabija, Anjali mantra, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:49:00
 readingTime: 6

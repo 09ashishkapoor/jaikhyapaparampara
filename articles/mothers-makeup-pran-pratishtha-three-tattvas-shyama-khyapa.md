@@ -4,7 +4,7 @@ title: "Mother's Makeup: Guru Shyama Khyapa on Pran Pratishtha and the Three Tat
 breadcrumbTitle: "Mother's Makeup and Pran Pratishtha"
 description: "Guru Shyama Khyapa reveals the secret rituals of Pran Pratishtha, how the three Tattvas awaken the Mother, and why her protruding tongue represents modesty, not mystery."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Pran Pratishtha, Mother Kali, Tattvas, Chokkhudan, Eye Opening, Mahalaya, Cosmic Energy, Saguna Nirguna"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:52:00
 readingTime: 7

@@ -4,7 +4,7 @@ title: "Dattatreya: The Trimurti Incarnate and Lord of Yoga"
 breadcrumbTitle: "Dattatreya - Lord of Yoga"
 description: "Guru Shyama Khyapa reveals the divine origins of Dattatreya, son of Sage Atri and Anasuya, embodiment of Brahma Vishnu and Shiva, and his significance in the Rigveda and Tantric tradition."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Dattatreya, Trimurti, Brahma, Vishnu, Shiva, Atri Rishi, Anasuya, Mahur, Yogeshwar, Rigveda"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:49:00
 readingTime: 3

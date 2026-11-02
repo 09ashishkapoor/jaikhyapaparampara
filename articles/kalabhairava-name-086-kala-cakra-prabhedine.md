@@ -4,7 +4,7 @@ title: "Kalabhairava Name 86: Kala-Cakra-Prabhedine - Meaning and Significance"
 breadcrumbTitle: "Kala-Cakra-Prabhedine"
 description: "English meaning and spiritual significance of Kala-Cakra-Prabhedine, the 86th name of Lord Kalabhairava, who breaks the wheel of time and frees the seeker from repetitive bondage."
 keywords: "Kala-Cakra-Prabhedine, Kalabhairava name 86, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Cakra-Prabhedine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

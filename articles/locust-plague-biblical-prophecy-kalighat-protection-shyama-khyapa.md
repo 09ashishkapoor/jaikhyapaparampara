@@ -4,7 +4,7 @@ title: "Locust Plague: Biblical Prophecy and Kalighat's 16-Kilometer Protection 
 breadcrumbTitle: "Locust Plague and End Times Prophecy"
 description: "Guru Shyama Khyapa discusses the locust invasion as a biblical sign of the end times, warns of coming disasters, and explains the divine protection within 16 kilometers of Kalighat."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, locust plague, biblical prophecy, end times, Kalighat, 16 kilometer protection, pralay, 2020 disasters"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:04:00
 readingTime: 4

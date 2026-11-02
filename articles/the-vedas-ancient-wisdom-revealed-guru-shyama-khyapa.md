@@ -4,7 +4,7 @@ title: "The Vedas: Ancient Wisdom Revealed by Guru Shyama Khyapa"
 breadcrumbTitle: "The Vedas - Ancient Wisdom"
 description: "Guru Shyama Khyapa explains the four Vedas (Rig, Sama, Yajur, Atharva), the Fifth Veda (Rasayana), the concept of Hiranyagarbha, and the 24 principles of Gayatri."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Vedas, Rigveda, Samaveda, Yajurveda, Atharvaveda, Hiranyagarbha, Gayatri, Tantra, Khyapa Parampara, Spiritual Wisdom"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:01:00
 readingTime: 7

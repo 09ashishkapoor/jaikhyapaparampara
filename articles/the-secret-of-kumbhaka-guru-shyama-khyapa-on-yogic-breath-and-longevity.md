@@ -4,7 +4,7 @@ title: "The Secret of Kumbhaka: Guru Shyama Khyapa on Yogic Breath Retention and
 breadcrumbTitle: "Kumbhaka & Breath Retention"
 description: "A comprehensive dialogue with Guru Shyama Khyapa on the ancient tantric practice of Kumbhaka (breath retention). Learn the visualization techniques, sacred mantras (Hamsa, Rang, Sun seed), chakra awakening through Kumbhaka, and how breath control can extend your lifespan to 100-150 years."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kumbhaka, Pranayama, Breath Retention, Longevity, Kundalini Yoga, Chakras, Yoga Practices, Tantra Wisdom, Hamsa Mantra, Chakra Awakening, Ajna Chakra, Life Force Prana"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 30

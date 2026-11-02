@@ -4,7 +4,7 @@ title: "Kalabhairava Name 31: Kona-Rekhastha-Bhadrastha-Pradesa-Bindu-Pithakaya 
 breadcrumbTitle: "Kona-Rekhastha-Bhadrastha-Pradesa-Bindu-Pithakaya"
 description: "English meaning and spiritual significance of Kona-Rekhastha-Bhadrastha-Pradesa-Bindu-Pithakaya, the 31st name of Lord Kalabhairava: whose sacred seat rests in the subtle bindu of auspicious divine geometry."
 keywords: "Kona-Rekhastha-Bhadrastha-Pradesa-Bindu-Pithakaya, Kalabhairava name 31, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kona-Rekhastha-Bhadrastha-Pradesa-Bindu-Pithakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

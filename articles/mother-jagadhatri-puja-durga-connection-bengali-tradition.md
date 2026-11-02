@@ -4,7 +4,7 @@ title: "Mother Jagadhatri Puja: Her Connection to Durga and Bengali Traditions"
 breadcrumbTitle: "Jagadhatri Puja Explained"
 description: "Guru Shyama Khyapa explains the origins and traditions of Jagadhatri Puja, its deep connection to Mother Durga, and why it is so widely celebrated in Bengal, particularly in Chandannagar."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jagadhatri Puja, Mother Durga, Chandannagar, Dhyan Mantra, Saptami Ashtami Navami, Agrahayan, Ramprasad, Bengali Culture"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:39:00
 readingTime: 4

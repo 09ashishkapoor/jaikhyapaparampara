@@ -4,7 +4,7 @@ title: "Sandhi Puja: The 48-Minute Worship of Chamunda Between Ashtami and Nabam
 breadcrumbTitle: "Sandhi Puja Chamunda Ashtami Nabami Significance"
 description: "Guru Shyama Khyapa explains the profound significance of Sandhi Puja—the 48-minute window between Ashtami and Nabami dedicated exclusively to Mother Chamunda—its origins in Lord Ramchandra's Akal Bodhon, and the terrifying celestial form of the goddess worshipped during this sacred interval."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Sandhi Puja, Chamunda, Ashtami, Nabami, Durga Puja, Akal Bodhon, Ramchandra, Ravana, 108 lotuses, Katyayani, Dakshayani, Narayani, Shivani"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:25:00
 readingTime: 6

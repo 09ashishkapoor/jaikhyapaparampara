@@ -4,7 +4,7 @@ title: "Atma Part 2: Bama Khyapa Miracles and the Law of Karma Explained"
 breadcrumbTitle: "Atma Part 2 Bama Khyapa Karma Soul"
 description: "Guru Shyama Khyapa narrates extraordinary miracles of Bama Khyapa—including stopping a moving train—and explains the deep philosophy of Karma, the soul's journey through rebirth, and how the Paramatma silently records every deed."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Atma, soul, Karma, Bama Khyapa, miracle, reincarnation, Paramatma, Chitra Gupta, Bhava Pagla, subtle body, Dharma, Prarabdha"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:11:00
 readingTime: 6

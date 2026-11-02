@@ -4,7 +4,7 @@ title: "The Coming Pandemic and Its Remedy by Shyama Khyapa"
 breadcrumbTitle: "Coming Pandemic Remedy"
 description: "Guru Shyama Khyapa predicts a deadly pandemic and warns of 2024 as the Year of Death, describing a pneumonia-like illness spreading from China and prescribing Maha Mrityunjaya Yagna and Harinam Sankirtan as spiritual remedies."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pandemic Prediction, 2024, Pneumonia, Maha Mrityunjaya Yagna, Harinam Sankirtan, Spiritual Remedy"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 15

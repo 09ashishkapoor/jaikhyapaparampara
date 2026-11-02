@@ -4,7 +4,7 @@ title: "The Employment Crisis: Gurudev's Firsthand Account of Bengal's Economic 
 breadcrumbTitle: "Employment Crisis Warning"
 description: "Guru Shyama Khyapa shares his eyewitness account of West Bengal's economic decline from a thriving lawyer with 35 employees to a 'graveyard' where 150 job seekers visit him daily, tracing the collapse from 1988 to present."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Employment Crisis, Unemployment, Economic Collapse, West Bengal, Job Crisis, Political Corruption, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 14:30:00
 readingTime: 9

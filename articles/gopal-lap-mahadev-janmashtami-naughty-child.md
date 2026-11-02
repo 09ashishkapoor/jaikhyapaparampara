@@ -4,7 +4,7 @@ title: "Gopal in the Lap of Mahadev: Janmashtami with the Naughty Divine Child"
 breadcrumbTitle: "Gopal Lap Mahadev Janmashtami"
 description: "A brief but heartwarming glimpse of Gurudev with Gopal (Krishna) on his lap during Janmashtami, capturing the playful and mischievous nature of the divine child."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gopal, Krishna, Janmashtami, Mahadev, naughty, mischievous, divine child"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 20:02:00
 readingTime: 2

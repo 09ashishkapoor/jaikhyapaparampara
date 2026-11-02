@@ -4,7 +4,7 @@ title: "Kalabhairava Name 81: Karya-Karana-Nirmatre - Meaning and Significance"
 breadcrumbTitle: "Karya-Karana-Nirmatre"
 description: "English meaning and spiritual significance of Karya-Karana-Nirmatre, the 81st name of Lord Kalabhairava, who stands as the source and shaper of cause and effect."
 keywords: "Karya-Karana-Nirmatre, Kalabhairava name 81, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karya-Karana-Nirmatre meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

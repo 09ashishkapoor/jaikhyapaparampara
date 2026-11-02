@@ -4,7 +4,7 @@ title: "The Mystery of Mother Kali and Krishna's Birth: Guru Shyama Khyapa on Ad
 breadcrumbTitle: "Mother Kali and Krishna's Birth Mystery"
 description: "Guru Shyama Khyapa reveals the unknown truths about Goddess Kali, Adi Shakti's birth during Janmashtami, and how the newborn form calmed the fierce Mother's destructive rage."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Mother Kali, Adi Shakti, Mahamaya, Krishna, Janmashtami, Nanda Utsav, Divine Mother, Tantra"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:38:00
 readingTime: 6

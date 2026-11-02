@@ -4,7 +4,7 @@ title: "Puri Jagannath Flag Falls on Ekadashi: Ominous Warning Signs"
 breadcrumbTitle: "Jagannath Flag Fall Warning"
 description: "Guru Shyama Khyapa discusses the repeated falling of the flag at Puri Jagannath Temple, interpreting these events as ominous signs connected to Ekadashi and predictors of upcoming catastrophes."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jagannath Temple, Puri, Flag, Ekadashi, Ominous Signs, Prophecy, Kali Yuga, Earthquake, War"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:07:00
 readingTime: 2

@@ -4,7 +4,7 @@ title: "Adyashakti Kali Temple: Gurudev's Visit to Sonarpur for Sacred Homa"
 breadcrumbTitle: "Adyashakti Kali Temple Sonarpur"
 description: "Guru Shyama Khyapa visits the Adyashakti Kali Temple in Sonarpur, sharing the temple's history, his role in the installation, and Pagla Baba's fire ritual under his guidance."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Adyashakti, Kali Temple, Sonarpur, Pagla Baba, Homa, Installation, Kartik Biswas, Shantikunj"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:27:00
 readingTime: 4

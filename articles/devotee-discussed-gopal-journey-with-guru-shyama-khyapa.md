@@ -4,7 +4,7 @@ title: "Devotee Discussed Gopal's Journey with Guru Shyama Khyapa"
 breadcrumbTitle: "Gopal's Journey to Gurudev"
 description: "A home Gopal deity arrived at Shantikunj, and the devotee describes his bond while Gurudev praises the worship and warns about the Lord's unpredictable power."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Gopal, Shantikunj, Khyapa Parampara, Deity Connection, Devotee Testimony, Travel, Gurudev"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:57:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "The Four Pillars of Life: Understanding Moksha and Liberation"
 breadcrumbTitle: "Understanding Moksha and Liberation"
 description: "Guru Shyama Khyapa explains the profound concept of Moksha (liberation), its difference from Mukti, and the spiritual path to merging the soul with the Supreme Paramatma."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Moksha, Liberation, Dharma, Artha, Kama, Rebirth, Spiritual Teachings"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:15:00
 readingTime: 6

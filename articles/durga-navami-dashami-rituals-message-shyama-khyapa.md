@@ -4,7 +4,7 @@ title: "Durga Navami and Dashami: A Special Message from Guptasadhak Shyama Khya
 breadcrumbTitle: "Navami, Dashami Rituals"
 description: "Gurudev explains Nabami and Dashami rituals—Ushmodak, Maha Snan, Ashta Shakti, Dash Dikpal, Ashta Bhairav and Bhairavi, Balidan, 64 Joginis, Batuk, Homa, and why early immersion matters."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Durga Puja, Navami, Dashami, Ashta Shakti, Balidan, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:32:00
 readingTime: 7

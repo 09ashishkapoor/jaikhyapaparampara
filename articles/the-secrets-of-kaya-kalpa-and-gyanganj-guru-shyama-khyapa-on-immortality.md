@@ -4,7 +4,7 @@ title: "The Secrets of Kaya Kalpa and Gyanganj: Guru Shyama Khyapa on Immortalit
 breadcrumbTitle: "Kaya Kalpa and Gyanganj"
 description: "Guru Shyama Khyapa explains the ancient practice of Kaya Kalpa, the mysterious realm of Gyanganj, and how high-level seekers maintain their youth for thousands of years."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Kaya Kalpa, Gyanganj, Immortality, Bhasma, Spiritual Science, Tibet, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 6

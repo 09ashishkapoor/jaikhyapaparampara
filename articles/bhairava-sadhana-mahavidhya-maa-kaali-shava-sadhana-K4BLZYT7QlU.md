@@ -4,7 +4,7 @@ title: "Bhairava Sadhana: Maha Mahavidya Maa Kali and the Cosmic Shava Sadhana"
 breadcrumbTitle: "Maa Kali: Guru Mahavidya and Shava Sadhana"
 description: "Shri Praveen Radhakrishna reveals Maa Kali as the supreme Guru Mahavidya — the Sumeru of the Dasa Mahavidyas — and explains how the universe's first Shava Sadhana created the Shakti Peethas, the true meaning of 'Bhairava Kalike Namostute', and the path from Mata Sati to Mahakali."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Maa Kali, Dasa Mahavidyas, Guru Mahavidya, Shava Sadhana, Viprachitta, Shakti Peethas, Mata Sati, Mahakali, Smashana Kali, Nimitta Kali"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-17 10:05:00
 readingTime: 8

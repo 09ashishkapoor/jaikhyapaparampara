@@ -4,7 +4,7 @@ title: "Pravritti and Nivritti Marg Part 2: Kundalini Awakening Through Pranayam
 breadcrumbTitle: "Pravritti Nivritti Marg Kundalini Part 2"
 description: "Guru Shyama Khyapa continues the explanation of Pravritti Marg and Nivritti Marg, sharing the conversation between Durgadas Kaka and Bama-dev Baba about awakening Kula-Kundalini energy through Pranayama and Dhyana, the chakras, and their associated Shaktis."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Guru Shyama Khyapa, Kundalini, Pravritti Marg, Nivritti Marg, Pranayama, Dhyana, Chakras, Sushumna Nadi, Ajna Chakra, Muladhara, Bama-dev Baba"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:34:00
 readingTime: 3

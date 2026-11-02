@@ -4,7 +4,7 @@ title: "COVID-19 Discussion: Gurudev, Doctor, and Environmentalist on Virus, Cli
 breadcrumbTitle: "COVID-19 Expert Discussion with Gurudev"
 description: "Guru Shyama Khyapa joins Dr. Nilanjan Bhattacharjee and environmentalist Sujit Kar for a wide-ranging discussion on COVID-19, its link to climate change, the danger of future viruses from melting glaciers, and the spiritual perspective on humanity's relationship with nature."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, COVID-19, pandemic, climate change, biological warfare, nature, environment"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:44:00
 readingTime: 6

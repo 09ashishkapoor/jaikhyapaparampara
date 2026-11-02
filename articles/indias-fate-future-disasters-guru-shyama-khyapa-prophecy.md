@@ -4,7 +4,7 @@ title: "India's Fate and Future Disasters: Guru Shyama Khyapa's Prophecy"
 breadcrumbTitle: "India's Future Disasters Prophecy"
 description: "Guru Shyama Khyapa reveals his vision of a massive earthquake, tectonic plate shifts, and millions of casualties - but assures the world will remain and rebuild."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Earthquake, Prophecy, Natural Disaster, India, Tectonic Plates, Dr Sujib Kar, Weather Prediction, Kalki Avatar, Kali Yuga"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:35:00
 readingTime: 6

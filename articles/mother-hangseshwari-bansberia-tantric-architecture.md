@@ -4,7 +4,7 @@ title: "Mother Hangseshwari of Bansberia: A Temple of Tantric Architecture and Y
 breadcrumbTitle: "Mother Hangseshwari Bansberia Tantric Temple"
 description: "Guru Shyama Khyapa reveals the profound secrets of Ma Hangseshwari temple in Bansberia, its unique five-story architecture representing human anatomy, and the yogic science embedded in its design."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mother Hangseshwari, Bansberia, Tantric architecture, King Nrisingha Deb Ray, Hang Sa, Kumbhaka, Shat-chakras, neem wood idol"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 20:00:00
 readingTime: 5

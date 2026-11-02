@@ -4,7 +4,7 @@ title: "The Fate of West Bengal is in Danger: COVID Lockdown and Amavasya Warnin
 breadcrumbTitle: "West Bengal Danger and COVID Lockdown"
 description: "Guru Shyama Khyapa announces a COVID lockdown at Shanti Kunj due to rising cases, explains why Amavasya is dangerous for crematorium visits, and warns about negative energies."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, West Bengal, COVID Lockdown, Amavasya, Crematorium, Negative Energy, Shashan, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:31:00
 readingTime: 6

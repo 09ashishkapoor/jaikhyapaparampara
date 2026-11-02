@@ -4,7 +4,7 @@ title: "Maa Adya Kali Sadhana: Sri Krishna's Adesha for Kali Yuga and the Power 
 breadcrumbTitle: "Maa Adya Kali Sadhana"
 description: "Shri Praveen Radhakrishna introduces the Sadhana Vidhi of Maa Adya Kali, drawing upon Sri Krishna's teachings from the Srimad Bhagavatam on the nature of Kali Yuga and the path of Sampoorna Bhakti."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Maa Adya Kali, Kali Yuga, Sri Krishna, Sampoorna Bhakti, Srimad Bhagavatam, King Parikshit, Dasa Mahavidyas, Nama Japa"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:12:00
 readingTime: 12

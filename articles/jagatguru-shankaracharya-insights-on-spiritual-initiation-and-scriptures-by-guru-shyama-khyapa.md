@@ -4,7 +4,7 @@ title: "Jagatguru Shankaracharya: The Path of Knowledge, Initiation, and the Rol
 breadcrumbTitle: "Shankaracharya and Spiritual Knowledge"
 description: "Guru Shyama Khyapa illuminates the life of Adi Shankaracharya, the distinction between Jnana Yoga and Bhakti Yoga, the importance of spiritual initiation, and the role of scriptures as the initial guru before finding a living guide."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jagatguru Shankaracharya, Spiritual Initiation, Diksha, Jnana Yoga, Bhakti Yoga, Scriptures, Vedas, Puranas, Guru, Chaitanya Mahaprabhu, Knowledge, Brahman"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 18

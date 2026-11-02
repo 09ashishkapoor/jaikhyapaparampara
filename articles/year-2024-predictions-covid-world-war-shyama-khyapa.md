@@ -4,7 +4,7 @@ title: "Year 2024 Predictions: COVID, World War III, and India's Rise"
 breadcrumbTitle: "Year 2024 Predictions"
 description: "Guru Shyama Khyapa delivers dire warnings about the coming year 2024—Double Pneumonia pandemic, World War III escalation, nuclear threats, and India's destined rise to world leadership amidst global chaos."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, 2024 Predictions, World War III, COVID, Double Pneumonia, Akhand Bharat, Netaji, Bhavishya Malika, Nuclear War, India"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:04:00
 readingTime: 4

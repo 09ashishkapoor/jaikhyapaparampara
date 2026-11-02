@@ -4,7 +4,7 @@ title: "Are Girls Still Untouchable? What Did Gurudev Shyama Khyapa Say?"
 breadcrumbTitle: "Girls Untouchable"
 description: "Guru Shyama Khyapa explains Pindadan rituals, affirms daughters' rights to perform them, and critiques patriarchal restrictions on women in religious practices."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 3

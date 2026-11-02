@@ -4,7 +4,7 @@ title: "The Sacred Path of Initiation: Guru Shyama Khyapa and the New Generation
 breadcrumbTitle: "Initiation and the New Generation"
 description: "Guru Shyama Khyapa discusses the significance of Diksha (initiation), the awakening of spiritual energy, and why highly educated youth are turning towards the Divine Mother."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Diksha, Initiation, Shantikunj, Tara Maa, Spiritual Awakening, Youth Spirituality, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 6

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 92: Kopine - Meaning and Significance"
 breadcrumbTitle: "Kopine"
 description: "English meaning and spiritual significance of Kopine, the 92nd name of Lord Kalabhairava, whose righteous wrath destroys ignorance and restores cosmic order."
 keywords: "Kopine, Kalabhairava name 92, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kopine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

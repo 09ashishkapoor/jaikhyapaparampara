@@ -4,7 +4,7 @@ title: "Astra Vajra: The Secret Spiritual Code of India's Revolutionaries"
 breadcrumbTitle: "Astra Vajra Code"
 description: "Guru Shyama Khyapa reveals the hidden connection between the great Tantric saints Tara Khepa and Bama Khepa and the leaders of India's freedom struggle, including Netaji Subhash Chandra Bose."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Astra Vajra, Tara Khepa, Bama Khepa, Netaji Subhash Chandra Bose, Gangabai, Indian Freedom Struggle, Tantra, Revolutionary Secrets, Juranpur"
-category: "History & Spirituality"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 40

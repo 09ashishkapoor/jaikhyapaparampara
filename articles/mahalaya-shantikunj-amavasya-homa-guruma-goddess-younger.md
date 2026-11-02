@@ -4,7 +4,7 @@ title: "Mahalaya at Shantikunj: The Amavasya Puja, Guruma's Visit, and the Godde
 breadcrumbTitle: "Mahalaya Puja at Shantikunj"
 description: "Guru Shyama Khyapa celebrates Mahalaya at Shantikunj with a night-long Homa ritual timed to the Amavasya, while Guruma visits after a long absence and confirms what they all feel — the Goddess appears younger."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mahalaya, Shantikunj, Amavasya puja, Homa ritual, Guruma, all religions harmony, Ma Durga, Goddess puja"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:48:00
 readingTime: 5

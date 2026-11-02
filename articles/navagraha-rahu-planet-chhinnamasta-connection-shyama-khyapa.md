@@ -4,7 +4,7 @@ title: "Navagraha Rahu: The Planet of Blood and Chhinnamasta Connection"
 breadcrumbTitle: "Navagraha Rahu"
 description: "Guru Shyama Khyapa reveals the mysteries of Rahu, the beheaded planet that causes eclipses, its connection to Chhinnamasta, and remedies for Rahu afflictions including blood offerings and sacrificial site rituals."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Navagraha, Rahu, Chhinnamasta, Eclipse, Grahan Dosha, Planet, Astrology, Remedy, Blood Offering, Puri, Shwetganga"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:05:00
 readingTime: 3

@@ -4,7 +4,7 @@ title: "The Divine Coconut Idol: Ajay Kumar Mondal's Miracle Craftsmanship by Mo
 breadcrumbTitle: "Divine Coconut Idol - Ajay's Story"
 description: "Ajay Kumar Mondal shares the miraculous story of how he crafted a Goddess idol from a hollow coconut following a divine command received in a dream during the Amphan cyclone."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Ajay Kumar Mondal, Coconut Idol, Amphan Cyclone, Divine Command, Khyapa Parampara"
-category: "Miracle Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:11:00
 readingTime: 3

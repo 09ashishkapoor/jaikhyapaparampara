@@ -4,7 +4,7 @@ title: "Kama and Creation: The Science and Spirituality of Menstruation and Fert
 breadcrumbTitle: "Kama Menstruation Fertility Spiritual Science"
 description: "Guru Shyama Khyapa explains the scientific and spiritual reasoning behind menstrual restrictions in Hindu households, the connection between desire (Kama) and creation, the fire ritual (Yagya) for fertility, and why maintaining balance of bodily energies is essential to health and spiritual practice."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kama, menstruation, fertility, Yagya, Ambubachi, creation, womb, Mother Goddess, Mahamaya, Shiva, rituals, spiritual science"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:20:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "Fire Ritual for World Peace at Mundamalini Tala: Khepada, Kalu Babu, and
 breadcrumbTitle: "Fire Ritual for World Peace at Mundamalini"
 description: "A sacred fire ritual performed by Khepada at Mundamalini Tala on the banks of the Dwaraka River for world peace and human welfare, blessed by the mysterious presence of Kalu Babu, the divine dog of Bamdev Baba."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Fire Ritual, Mundamalini Tala, Khepada, Kalu Babu, World Peace, Dwaraka River, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:12:00
 readingTime: 4

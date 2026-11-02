@@ -4,7 +4,7 @@ title: "Jagannath Gundicha Temple Ovens Destroyed: Kalki Avatar Warning"
 breadcrumbTitle: "Jagannath Ovens Destroyed Warning"
 description: "Guru Shyama Khyapa reveals the profound spiritual significance behind the destruction of cooking ovens at the Gundicha Temple, explaining that Lord Jagannath is withdrawing from this world as the Kalki Avatar prepares to take His place."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Jagannath, Gundicha Temple, Kalki Avatar, Koli, Prophecy, Ratha Yatra, Spiritual Warning, Puri Temple, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:10:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 17: Kavaye - Meaning and Significance"
 breadcrumbTitle: "Kavaye"
 description: "English meaning and spiritual significance of Kavaye, the 17th name of Lord Kalabhairava: the seer, poet, and knower of truth."
 keywords: "Kavaye, Kalabhairava name 17, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kavaye meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

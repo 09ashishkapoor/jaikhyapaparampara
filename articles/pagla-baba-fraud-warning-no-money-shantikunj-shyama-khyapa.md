@@ -4,7 +4,7 @@ title: "Pagla Baba and Gurudev Warn Against Fraud: No Money Ever Taken at Shanti
 breadcrumbTitle: "Warning Against Fraud in Gurudev's Name"
 description: "Guru Shyama Khyapa and Pagla Baba jointly warn devotees that fraudsters are taking money in their names. Gurudev reaffirms that no payment is ever accepted at Shantikunj for any spiritual work."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pagla Baba, Shantikunj fraud warning, no money spiritual work, devotee protection, Shyamol Das fraud"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:43:00
 readingTime: 6

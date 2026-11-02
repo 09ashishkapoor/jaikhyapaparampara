@@ -4,7 +4,7 @@ title: "Debt to Parents, Guru, and Nature: Insights from Shyama Khyapa"
 breadcrumbTitle: "Debt to Parents, Guru, Nature"
 description: "Guru Shyama Khyapa explains the profound significance of three fundamental debts: to parents who gave us life, to the Guru who imparts wisdom, and to Nature which sustains us. He reveals why parental debt can never be fully repaid and shares a powerful story from Benaras about the dangers of ego."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, debt, parents, Guru, Nature, Earth, parental debt, spiritual duty, karma"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:59:00
 readingTime: 9

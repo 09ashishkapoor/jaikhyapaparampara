@@ -4,7 +4,7 @@ title: "Kalabhairava 108 Names in English: Namavali with One-Line Meanings"
 breadcrumbTitle: "Kalabhairava 108 Names in English"
 description: "Read the 108 names of Kalabhairava in English with one-line meanings. A devotional Kalabhairava namavali for prayer, japa, contemplation, and daily reading."
 keywords: "Kalabhairava 108 names in English, Kalabhairava namavali, Kala Bhairava 108 names, Kalabhairava names with meaning, Kalabhairava ashtottara shatanamavali, Bhairava names in English, Kalabhairava devotional reading"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "KaliPutra-Ashish"
 date: 2026-04-11
 readingTime: 12

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 52: Karma-Khanda-Adhipaya - Meaning and Significance"
 breadcrumbTitle: "Karma-Khanda-Adhipaya"
 description: "English meaning and spiritual significance of Karma-Khanda-Adhipaya, the 52nd name of Lord Kalabhairava, lord of the domains where action ripens into destiny."
 keywords: "Karma-Khanda-Adhipaya, Kalabhairava name 52, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karma-Khanda-Adhipaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

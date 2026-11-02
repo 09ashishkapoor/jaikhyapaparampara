@@ -4,7 +4,7 @@ title: "Solar Storm and Sun Crack: Guru Shyama Khyapa's Warning"
 breadcrumbTitle: "Solar Storm Warning"
 description: "Guru Shyama Khyapa discusses the solar storm, crack in the sun, and warns about the awakening of 64 Yoginis, predicting catastrophic events for 2023 and the danger of new viruses affecting children."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, solar storm, sun crack, NASA, 64 Yoginis, Joshimath, Kali, Kalki Avatar, prophecy, virus, COVID-19"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:19:00
 readingTime: 3

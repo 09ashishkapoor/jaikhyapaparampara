@@ -4,7 +4,7 @@ title: "Prophecy for the New Bengali Year: Kalki Avatar and the Coming Mahaprala
 breadcrumbTitle: "Bengali Year Prophecy and Kalki Avatar"
 description: "Guru Shyama Khyapa shares prophecies for Bengali year 1431, revealing the arrival of Kalki Avatar, the Great Deluge, and the depopulation of Earth as predicted in ancient texts."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Kalki Avatar, Mahapralay, Prophecy, Bengali New Year, Kali Yuga, Chiranjivis, World War 3, Depopulation, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 12

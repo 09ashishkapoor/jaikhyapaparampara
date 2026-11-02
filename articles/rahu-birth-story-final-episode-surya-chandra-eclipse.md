@@ -4,7 +4,7 @@ title: "Rahu's Birth Story: Final Episode - The Eclipse of Sun and Moon"
 breadcrumbTitle: "Rahu Birth Story Final Episode"
 description: "The complete story of Rahu and Ketu's birth from the churning of the ocean, their revenge on Surya and Chandra, and how Aruna became the Sun's charioteer to protect the world."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Rahu, Ketu, Samudra Manthan, Surya, Chandra, eclipse, Aruna, Vinata Devi, Kashyapa Muni, Garuda, Hanuman Chalisa, Narada Muni, Vishnu"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:33:00
 readingTime: 7

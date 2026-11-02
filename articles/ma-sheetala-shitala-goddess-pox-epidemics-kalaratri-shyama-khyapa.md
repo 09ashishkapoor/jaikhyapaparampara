@@ -4,7 +4,7 @@ title: "Ma Sheetala Shitala: Goddess of Pox and Epidemics — Guru Shyama Khyapa
 breadcrumbTitle: "Ma Sheetala Shitala and Kalaratri"
 description: "Guru Shyama Khyapa speaks on Ma Shitala (Sheetala), her link to Kalaratri and Katyayani, worship during epidemics, and the Batuks who protect her."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ma Sheetala, Ma Shitala, Kalaratri, Katyayani, Nava-Durga, epidemics, pox, Jwarasura, Batuks"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:11:00
 readingTime: 4

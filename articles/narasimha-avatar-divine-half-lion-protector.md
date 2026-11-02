@@ -4,7 +4,7 @@ title: "The Narasimha Avatar: The Divine Half-Lion, Half-Man Incarnation"
 breadcrumbTitle: "Narasimha Avatar - Divine Protector"
 description: "Guru Shyama Khyapa explains the fourth avatar of Narayana—Narasimha—the half-lion, half-human form who destroyed the demon king Hiranyakashipu and protected his devotee Prahlada. Learn about the Narasimha Kavacha's power."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Narasimha Avatar, Prahlada, Hiranyakashipu, Narasimha Kavacha, Dashavatar, Lord Narayana, Khyapa Parampara, Divine Protector"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 23:57:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 102: Guhya-Astamii-Priyaya - Meaning and Significance"
 breadcrumbTitle: "Guhya-Astamii-Priyaya"
 description: "English meaning and spiritual significance of Guhya-Astamii-Priyaya, the 102nd name of Lord Kalabhairava, associated with the sacred dark-fortnight Ashtami especially dear to his worship."
 keywords: "Guhya-Astamii-Priyaya, Kalabhairava name 102, 108 names of Kalabhairava, Kalabhairava namavali meaning, Guhya-Astamii-Priyaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

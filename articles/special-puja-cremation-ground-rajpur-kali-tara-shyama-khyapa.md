@@ -4,7 +4,7 @@ title: "Special Puja at Rajpur Cremation Ground: Gurudev Explains the Ritual"
 breadcrumbTitle: "Crema tion Ground Puja"
 description: "Guru Shyama Khyapa explains the special ritual performed at the cremation ground during Mahalaya. He describes why the corpse and pyre must be worshipped before invoking Goddess Kali, the significance of honoring spirits, and the Avadhuta tradition."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Cremation Ground, Puja, Kali, Tara, Mahalaya, Rajpur, Smashana, Avadhuta"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:13:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Warning: Fish Washing Ashore and Inauspicious Signs at Puri Sea"
 breadcrumbTitle: "Inauspicious Sea Omens"
 description: "Guru Shyama Khyapa warns of catastrophic events—tons of fish washing ashore at Puri, shark attacks, earthquakes, and the prophecy of 2026 when Kalki Avatar will emerge. He discusses the Konark Sun Temple's mysteries and the increasing frequency of natural disasters."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Puri Sea, Fish Omen, Earthquake Warning, 2023 Prophecy, Kalki Avatar, Konark Sun Temple, Inauspicious Signs, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:06:00
 readingTime: 16

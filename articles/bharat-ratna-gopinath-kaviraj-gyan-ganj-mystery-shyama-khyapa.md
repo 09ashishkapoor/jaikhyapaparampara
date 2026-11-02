@@ -4,7 +4,7 @@ title: "Bharat Ratna Gopinath Kaviraj and the Mystery of Gyan Ganj: Guru Shyama 
 breadcrumbTitle: "Gopinath Kaviraj and Gyan Ganj Mystery"
 description: "Guru Shyama Khyapa shares the untold story of Gopinath Kaviraj, his connection to Gyan Ganj, and how the immortal masters guided Netaji Subhash Chandra Bose to eternal refuge."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Gopinath Kaviraj, Gyan Ganj, Netaji Subhash Chandra Bose, Barada Charan Majumdar, Tantra, Immortal Masters, Sanskrit"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:37:00
 readingTime: 5

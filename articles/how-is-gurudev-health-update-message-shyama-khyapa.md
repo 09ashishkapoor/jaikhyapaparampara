@@ -4,7 +4,7 @@ title: "How is Gurudev? Health Update and Message from Guru Shyama Khyapa"
 breadcrumbTitle: "Gurudev's Health and Message"
 description: "Guru Shyama Khyapa provides a personal health update after his recovery, shares his current restrictions, and warns about people fraudulently asking for money in his name."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gurudev health, recovery, doctor's advice, warning, money fraud"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:31:00
 readingTime: 3

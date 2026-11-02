@@ -4,7 +4,7 @@ title: "Guru Pada Dhara: A Woman's Journey to Guru Through Divine Vision and Spi
 breadcrumbTitle: "Divine Vision Journey to Guru"
 description: "A woman's profound spiritual story: her divine possession by Mother Goddess, her vision of Guru Shyama Khyapa, and her transformative journey to meet and receive initiation from the Guru."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, spiritual vision, divine possession, goddess bhava, spiritual awakening, Guru Pada Dhara, Shakti Mantra, initiation, spiritual journey"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:40:00
 readingTime: 18

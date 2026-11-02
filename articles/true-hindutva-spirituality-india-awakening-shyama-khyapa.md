@@ -4,7 +4,7 @@ title: "True Hindutva: The Spiritual Awakening of India"
 breadcrumbTitle: "True Hindutva Awakening"
 description: "Guru Shyama Khyapa explains what true Hindutva means - having faith in your religion, practicing meditation, and the spiritual rise of India that will make the West bow to the East."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Hindutva, Spirituality, India, Swami Vivekananda, Sanatan Dharma, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:46:00
 readingTime: 2

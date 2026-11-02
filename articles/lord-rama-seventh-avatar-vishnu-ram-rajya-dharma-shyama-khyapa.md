@@ -4,7 +4,7 @@ title: "Lord Rama: The Seventh Avatar of Vishnu - Dharma and Ram Rajya"
 breadcrumbTitle: "Lord Rama - Seventh Avatar"
 description: "Guru Shyama Khyapa narrates the story of Lord Rama, the seventh avatar of Vishnu, from Dasharatha's curse to the exile, Sita's abduction, and the establishment of Ram Rajya."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Lord Rama, Dashavatar, Vishnu Avatar, Ramayana, Sita, Lakshmana, Hanuman, Ravana, Ram Rajya, Dharma, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:59:00
 readingTime: 12

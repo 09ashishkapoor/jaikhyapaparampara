@@ -4,7 +4,7 @@ title: "Fear of Kala Bhairava Sadhana: Vairagya, Eligibility, and the Missing Ku
 breadcrumbTitle: "Fear of Kala Bhairava Sadhana"
 description: "Shri Praveen Radhakrishna addresses the widespread fear surrounding Bhairava Sadhana, distinguishes between Batuka and Kala Bhairava paths, and provides guidance for those uncertain about their Kula Devata."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Kala Bhairava, Batuka Swarnakarshana Bhairava, Vairagya, Kula Devata, Maa Adya Kali, eligibility, funeral pyre"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:11:00
 readingTime: 10

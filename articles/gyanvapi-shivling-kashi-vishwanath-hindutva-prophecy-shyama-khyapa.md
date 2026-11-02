@@ -4,7 +4,7 @@ title: "The Truth About the Gyanvapi Shivling and the Prophecy of Hindutva's Ris
 breadcrumbTitle: "Gyanvapi Shivling Truth and Prophecy"
 description: "Guru Shyama Khyapa speaks about the original Shivling of Kashi Vishwanath thrown into a well by Aurangzeb, the truth about the Gyanvapi Mosque, and the ancient prophecy of Hindutva prevailing across India with the coming of Kalki Avatar."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gyanvapi, Kashi Vishwanath, Shivling, Hindutva, Kalki Avatar, prophecy, Aurangzeb"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:11:00
 readingTime: 5

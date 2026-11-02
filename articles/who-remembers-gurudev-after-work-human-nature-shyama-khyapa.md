@@ -4,7 +4,7 @@ title: "Who Remembers Gurudev After Work? Human Nature and Selfless Service"
 breadcrumbTitle: "Selfless Service Despite Ingratitude"
 description: "Guru Shyama Khyapa reflects on human nature—how devotees rush to him for help but forget him after their problems are solved, and why he continues serving despite ingratitude."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Selfless Service, Human Nature, Devotion, Mother Kali, Spiritual Healing, Tantra, Shantikunj"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:30:00
 readingTime: 7

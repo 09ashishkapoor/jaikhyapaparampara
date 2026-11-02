@@ -4,7 +4,7 @@ title: "Bhairava Sadhana: Shri Krishna or Ma Kali? Astrology vs Sadhana and the 
 breadcrumbTitle: "Krishna, Kali, and the Guru"
 description: "Shri Praveen Radhakrishna explains the rapid inner movement from Krishna to Kali in this era, why Bharat functions as a Karma Bhoomi, and how true Sadhana can supersede astrology when the right Guru-principle is placed within."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Shri Krishna, Ma Kali, Ashtami, Krishna Paksha, Amavasya, Karma Bhoomi, Bharat, Kali Yuga, Moksha, Jiva, Guru, Manasic Guru, Astrology, Arjuna, Karna, Duryodhana"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:22:00
 readingTime: 8

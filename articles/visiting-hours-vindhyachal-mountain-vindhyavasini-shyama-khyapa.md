@@ -4,7 +4,7 @@ title: "Visiting Hours and Vindhyachal Mountain: Gurudev's Important Announcemen
 breadcrumbTitle: "Visiting Hours and Vindhyachal Story"
 description: "Guru Shyama Khyapa announces strict visiting hours (10 AM-12:30 PM, Mon-Fri only), warns against afternoon visits, and shares the story of Vindhyachal Mountain and Maa Vindhyavasini."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Visiting Hours, Vindhyachal, Vindhyavasini, Agastya Muni, Adyashakti Mahamaya, Krishna, Kansa, Jai Shri Ram Leaves, Mirzapur"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:46:00
 readingTime: 8

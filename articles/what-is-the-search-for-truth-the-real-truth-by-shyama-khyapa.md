@@ -4,7 +4,7 @@ title: "What is the Search for Truth? The Real Truth by Shyama Khyapa"
 breadcrumbTitle: "Search for Truth"
 description: "Guru Shyama Khyapa discusses the nature of truth, the principle of Brahma-Tattva, the four states of spiritual practitioners, and the profound meaning of Soham."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, GuruDeva Shyama Khyapa, Truth, Brahma-Tattva, Soham, Sadhak, Spiritual States"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 15

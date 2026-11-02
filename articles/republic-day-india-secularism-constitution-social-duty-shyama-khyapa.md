@@ -4,7 +4,7 @@ title: "Republic Day, Constitution, Secularism, and Social Duty | Guru Shyama Kh
 breadcrumbTitle: "Republic Day and Social Duty"
 description: "In this Republic Day live discourse, Guru Shyama Khyapa reflects on independence timing, constitutional ideals, secular coexistence, and civic responsibility. The discussion also addresses social unrest, national identity, and his mission of public welfare through spiritual work."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Republic Day, Indian Constitution, B R Ambedkar, secularism, Dharma, NRC, national unity, Rajpur Maha Sashan, world peace"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:10:00
 readingTime: 7

@@ -4,7 +4,7 @@ title: "Sadhu Sangha: Brahmananda Giri Maharaj on the 18 Mahavidyas and the Guru
 breadcrumbTitle: "Sadhu Sangha Brahmananda Giri 18 Mahavidyas"
 description: "A rare encounter between Brahmananda Giri Maharaj and Guru Shyama Khyapa, where the visiting monk shares the depth of his Guru Satyananda Giri's mastery of 18 Mahavidyas and speaks on ego, guru devotion, and the disappearance of the virtuous person from society."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Sadhu Sangha, Brahmananda Giri, Satyananda Giri, 18 Mahavidyas, Dashmahavidya, Guru devotion, Sannyasa"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:32:00
 readingTime: 5

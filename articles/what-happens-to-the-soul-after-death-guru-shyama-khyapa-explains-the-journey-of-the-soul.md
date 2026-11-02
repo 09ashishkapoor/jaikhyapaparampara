@@ -4,7 +4,7 @@ title: "What Happens to the Soul After Death? Guru Shyama Khyapa Explains the Jo
 breadcrumbTitle: "Soul After Death"
 description: "Guru Shyama Khyapa delves into the profound journey of the soul after death, explaining Hindu cremation rituals, the scientific basis of Shraddha, the soul's ten-day stay, and the process of rebirth. He also clarifies misconceptions about Sati and 'Kala Pani' (crossing the ocean)."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Soul after death, Rebirth, Cremation, Hindu Dharma, Mourning rituals, Shraddha, Preta, Afterlife, Sati, Kala Pani, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 8

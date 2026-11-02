@@ -4,7 +4,7 @@ title: "Khelvi - Bama Baba's Curse and Mother Tara's Illness Explained"
 breadcrumbTitle: "Khelvi and Mother Tara's Illness"
 description: "Guru Shyama Khyapa explains the spiritual mystery behind Bama Baba's curse, Mother Tara's illness, and the advanced relationship between a true devotee and the Divine Mother."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bama Baba, Bamakhepa, Mother Tara, Tarapith, Spiritual Mysteries, Khelvi, Curse, Devotee and Deity"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:22:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Gurudev's Message on COVID-19 and People Visiting Shantikunj"
 breadcrumbTitle: "COVID and Temple Visits"
 description: "Guru Shyama Khyapa discusses the COVID-19 situation, criticizes hospital practices, and advises people not to visit the temple during the pandemic."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, COVID-19, Shantikunj, Hospital criticism, Pandemic advice"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:16:00
 readingTime: 10

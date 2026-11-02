@@ -4,7 +4,7 @@ title: "Gurudev's Warning: Protecting the Temple from Fraudulent Online Money Re
 breadcrumbTitle: "Warning Against Fraudulent Money"
 description: "Guru Shyama Khyapa issues a direct public warning against fraudulent individuals falsely requesting money on his behalf through online channels, emphasizing the temple's spiritual integrity and calling for devotees not to fall victim to these schemes."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, temple integrity, fraud warning, spiritual protection, devotion, online scams"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:50:00
 readingTime: 4

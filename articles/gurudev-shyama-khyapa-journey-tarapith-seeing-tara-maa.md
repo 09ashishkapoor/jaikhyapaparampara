@@ -4,7 +4,7 @@ title: "Gurudev Shyama Khyapa's Journey to Tarapith: Seeing Tara Maa During COVI
 breadcrumbTitle: "Journey to Tarapith"
 description: "Gurudev Shyama Khyapa travels to Mahapith Tarapith during the COVID-19 period, sharing insights on the pandemic and preparations for rituals at the Mother's temple."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tarapith, Tara Maa, COVID-19, journey, rituals"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:04:00
 readingTime: 3

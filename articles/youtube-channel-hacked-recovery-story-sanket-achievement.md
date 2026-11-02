@@ -4,7 +4,7 @@ title: "YouTube Channel Hacked and Recovered: The Story of Sanket's Achievement"
 breadcrumbTitle: "YouTube Channel Recovery Story"
 description: "Guru Shyama Khyapa shares the harrowing experience of his YouTube channel being hacked and the heroic efforts of his grandson Sanket in recovering the 162,000 subscriber channel."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, YouTube hacked, channel recovery, Sanket Bhattacharya, Google support, cyber security, Gupta Sadhak Shyama Khyapa 2.0, grandson achievement"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:19:00
 readingTime: 4

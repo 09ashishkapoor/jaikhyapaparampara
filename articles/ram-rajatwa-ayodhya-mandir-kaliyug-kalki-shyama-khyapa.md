@@ -4,7 +4,7 @@ title: "Ram Rajatwa: Will Modi's Ayodhya Temple Truly Restore Ram's Reign?"
 breadcrumbTitle: "Ram Rajatwa Question to Modi Ji"
 description: "Guru Shyama Khyapa visits Shantikunj Ashram after months of illness and raises a poignant question: now that Ram Lalla has been established in Ayodhya, will a true Ram Rajatwa follow, or will political interests prevail? He reflects on Kaliyug, sin, Mukunda Das's song, and the coming of Kalki."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ram Rajatwa, Ayodhya, Ram Mandir, Modi, Kaliyug, Kalki, Mukunda Das, Sita, Ram Lalla, BJP, RSS, Shantikunj Ashram"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:15:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Unknown Facts About Hanuman: The Eternal Guardian of the Mahabharata"
 breadcrumbTitle: "Hanuman in the Mahabharata"
 description: "Guru Shyama Khyapa reveals the hidden connection between Hanuman (Bajrangbali) and the Mahabharata, his refusal to fight, why he remains on the Pandavas' flag, the signs from Bhabishya Malika manifesting at Jagannath Temple, and prophecies about World War III and the Kalki Avatar."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Hanuman, Bajrangbali, Mahabharata, Lord Krishna, Bhabishya Malika, Jagannath Temple, World War III, Yogi Adityanath, Chiranjivi, Dharma"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 22

@@ -4,7 +4,7 @@ title: "Lalon Fakir: Baul Sadhika Meets Gurudev Shyama Khyapa"
 breadcrumbTitle: "Lalon Fakir Baul Singer Meets Gurudev"
 description: "A Lalon singer and her husband, the Rajpurohit of Sarvamangala Temple in Bardhaman, meet Gurudev Shyama Khyapa before her performance in Bangladesh. Gurudev blesses her journey and discusses the philosophy of Lalon Shah."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Lalon Fakir, Baul, Lalon Shah, Bardhaman, Sarvamangala Temple, Bangladesh, Dehatatwa, Spiritual Blessings"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "👂️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:52:00
 readingTime: 2

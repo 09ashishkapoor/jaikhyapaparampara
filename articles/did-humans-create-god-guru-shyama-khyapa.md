@@ -4,7 +4,7 @@ title: "Did Humans Create God?"
 breadcrumbTitle: "Did Humans Create God?"
 description: "A profound conversation with Guru Shyama Khyapa Baba on whether humans created God, the power of Sadhaks, and the awakening of the Divine Mother. Explore the relationship between the practitioner, the deity, and the cosmic power."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, God creation, Sadhak power, Divine Mother, Bama Khapa, spiritual awakening, God Particle, Karma, Tarapith, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-26
 readingTime: 18

@@ -4,7 +4,7 @@ title: "The Bitterness of Modern Society: Marriage, Family, and Tradition in Dec
 breadcrumbTitle: "Modern Marriage Crisis"
 description: "Gurudev Shyama Khyapa discusses the catastrophic deterioration of marriage and family values in modern society, the epidemic of divorces, and the loss of sacred traditions that once protected families."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, marriage crisis, divorce epidemic, family breakdown, tradition, modern society decay, horoscope matching"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 32

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 75: Kamakhya-Kancya-Adi-Ksetrapalakaya - Meaning and S
 breadcrumbTitle: "Kamakhya-Kancya-Adi-Ksetrapalakaya"
 description: "English meaning and spiritual significance of Kamakhya-Kancya-Adi-Ksetrapalakaya, the 75th name of Lord Kalabhairava, honored as guardian of sacred seats such as Kamakhya and Kanchi."
 keywords: "Kamakhya-Kancya-Adi-Ksetrapalakaya, Kalabhairava name 75, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kamakhya-Kancya-Adi-Ksetrapalakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

@@ -4,7 +4,7 @@ title: "World War III Prophecy and Durga Puja: Global Conflict, Middle East Cris
 breadcrumbTitle: "World War 3 Prophecy"
 description: "Guru Shyama Khyapa warns of World War III beginning in the Middle East, discusses nuclear threats from 9 armed nations, and connects these prophecies to the challenging conditions for Durga Puja and humanity's fate during Mahapralaya."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, World War 3, prophecy, Middle East, nuclear war"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:03:00
 readingTime: 7

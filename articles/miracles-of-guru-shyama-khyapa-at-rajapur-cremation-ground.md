@@ -4,7 +4,7 @@ title: "The Miracles of Guru Shyama Khyapa at Rajapur Cremation Ground"
 breadcrumbTitle: "Miracles at Rajapur Shamshan"
 description: "Guru Shyama Khyapa shares profound mystical experiences from his 40-year spiritual journey at Rajapur Mahashashan, including astral presence, saving a disciple, and the 'awakening' of the cremation ground."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Rajapur Mahashashan, Miracles, Spiritual Protection, Astral Presence, Maa Tara, Baman Baba"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:08:00
 readingTime: 10

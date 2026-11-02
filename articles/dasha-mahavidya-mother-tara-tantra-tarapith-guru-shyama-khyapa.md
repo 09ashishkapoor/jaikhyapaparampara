@@ -4,7 +4,7 @@ title: "Dasha Mahavidya: Mother Tara — The Second Divine Form | Guru Shyama Kh
 breadcrumbTitle: "Mother Tara — Dasha Mahavidya Part 2"
 description: "Guru Shyama Khyapa reveals the truth about Mother Tara, her role in tantra, her sacred days at Tarapith, and the relationship between Bamdev Baba and the Mother. Stories of Subodh and Purnananda showcase her liberating grace."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Dasha Mahavidya, Mother Tara, Tarapith, Bamdev Baba, Ekajata Tara, Ashta Tara, Durga, Tantra, Brihaspati, Harinam, Subodh, Purnananda, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 20:40:00
 readingTime: 12

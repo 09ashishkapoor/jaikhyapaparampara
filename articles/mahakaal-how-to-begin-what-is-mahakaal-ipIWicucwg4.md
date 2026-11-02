@@ -4,7 +4,7 @@ title: "Mahakaal — How to Begin, What Is Mahakaal?"
 breadcrumbTitle: "How to Begin Understanding Mahakaal"
 description: "Shri Praveen Radhakrishna reveals three secret names of Kali from the *Adya Kali Kakara Sahasra Namavali* — through which Mahakal himself describes his relationship with Kali as the perceiver, nourisher, and intoxicant of Time."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Mahakaal, Mahakal, Kali, Kala Drishta, Kala Pushta, Kala Masta Kaladhara, Adya Kali, Kakara Sahasra Namavali, Time, Sri Rama, Parashurama, Sita, Radha, Krishna, Kali Yuga, Tantra, Guhya Vidya"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:38:00
 readingTime: 7

@@ -4,7 +4,7 @@ title: "The Law of Karma: Understanding Our Actions and Consequences"
 breadcrumbTitle: "Law of Karma"
 description: "Gurudev Shyama Khyapa explains the profound logic of Karma, Varna, and personal responsibility, drawing wisdom from the Gita and the story of Valmiki."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Karma, Law of Karma, Gita, Varna, Valmiki, Ratnakar, Good and Bad Deeds, Spiritual India"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 20

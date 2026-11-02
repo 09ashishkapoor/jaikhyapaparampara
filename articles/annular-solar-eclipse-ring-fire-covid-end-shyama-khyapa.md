@@ -4,7 +4,7 @@ title: "Annular Solar Eclipse: Ring of Fire and COVID End - Guru Shyama Khyapa"
 breadcrumbTitle: "Annular Solar Eclipse: Ring of Fire"
 description: "Guru Shyama Khyapa explains the rare annular solar eclipse, Phalaharini Kali Puja, and how eclipses in one fortnight signal the end of COVID pandemic."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Solar Eclipse, Annular Eclipse, Ring of Fire, Phalaharini Kali, COVID, Lunar Eclipse, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:48:00
 readingTime: 7

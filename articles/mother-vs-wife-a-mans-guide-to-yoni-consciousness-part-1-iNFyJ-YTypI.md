@@ -4,7 +4,7 @@ title: "Mother vs Wife: A Man's Guide to Yoni Consciousness (Part 1)"
 breadcrumbTitle: "A Man's Guide to Yoni Consciousness"
 description: "Shri Praveen Radhakrishna introduces the concept of Yoni Consciousness — the collective spiritual awareness shared by all women as manifestations of Adya Shakti — explaining why women's suffering isn't only personal, and why men must understand this to become the Bhairava Tattva."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Yoni Consciousness, Adya Shakti, Bhairava Tattva, Kunti, Gandhari, Panchali Draupadi, Kali Sahasranama, collective consciousness, women and Devi"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:22:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "Gurudev's Illness and Views on Doctors as Messengers of God"
 breadcrumbTitle: "Gurudev's Health & Doctors"
 description: "During an illness, Guru Shyama Khyapa is visited by Dr. Nilanjan Bhattacharya. Gurudev speaks beautifully about science, allopathy, and doctors as the messengers of God."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Dr. Nilanjan Bhattacharya, Medical Science, Reiki, Illness"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:58:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Yoga, the Guru, and Social Traditions: Insights from Guru Baba Shyama Kh
 breadcrumbTitle: "Yoga & Guru"
 description: "Guru Baba Shyama Khyapa explains why Sankhya Yoga is best for common people, the supreme importance of the Guru, and discusses traditional views on widowhood and remarriage."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, Sankhya Yoga, Bhagavad Gita, Guru Brahma, Sadguru, widow remarriage, Sati, Ishwar Chandra Vidyasagar, desire, spiritual practice, Ishto"
-category: "Sadhana"
+category: "Sadhana, Tantra and Mantra"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27 11:30:00
 readingTime: 14

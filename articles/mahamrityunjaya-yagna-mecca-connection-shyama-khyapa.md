@@ -4,7 +4,7 @@ title: "The Global Essence of Maha Mrityunjaya: From Mecca to the Saptarishi Cir
 breadcrumbTitle: "Maha Mrityunjaya & Mecca"
 description: "Guru Shyama Khyapa reveals the deep spiritual connections of the Maha Mrityunjaya Yagna, its international recognition, and the surprising link between Mecca and Vedic traditions."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Maha Mrityunjaya Yagna, Guru Shyama Khyapa, Mecca Shiva connection, Shukracharya, Saptarishi, world peace, Samurai Japan, healing mantra"
-category: "Rituals & Yagyas"
+category: "Rituals, Worship and Festivals"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-28
 readingTime: 15

@@ -4,7 +4,7 @@ title: "Why Worldly Life is Futile: Guru Shyama Khyapa on the Great Cataclysm"
 breadcrumbTitle: "Worldly Life and Cataclysm"
 description: "Guru Shyama Khyapa discusses the spiritual weight of the pandemic, the transition from Kali Yuga to Satya Yuga, and the necessity of calling upon Mother Adya during times of destruction."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Kali Yuga, Satya Yuga, COVID-19, Pandemic, Adya Stotram, Spiritual Protection, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 10

@@ -4,7 +4,7 @@ title: "Kalki Avatar Prophecies from the Bhavishya Malika"
 breadcrumbTitle: "Kalki Prophecies and Signs"
 description: "Guru Shyama Khyapa discusses the Kalki avatar, the Bhavishya Malika’s signs, and the timing of Kali Yuga’s end. He reflects on natural upheaval, human actions, and the prophecies tied to Kalki’s arrival."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kalki Avatar, Dashavatara, Bhavishya Malika, Kali Yuga, Sambhal, Vishnuyasha, Sumati, Ganga, Yamuna, prophecy, natural disasters, 2026"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 20:36:00
 readingTime: 8

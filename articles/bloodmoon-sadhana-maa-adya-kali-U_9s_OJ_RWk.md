@@ -4,7 +4,7 @@ title: "Blood Moon Sadhana — Maa Adya Kali and the Sun's Cosmic Worship"
 breadcrumbTitle: "Blood Moon Sadhana of Maa Adya Kali"
 description: "Shri Praveen Radhakrishna reveals the spiritual significance of the Blood Moon Lunar Eclipse as the Sun's cosmic worship of Maa Adya Kali — and presents a 15-day Sadhana window from the Lunar Eclipse to the Solar Eclipse for Kali Sadhakas."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Maa Adya Kali, Blood Moon, Lunar Eclipse, Sahasranamavali, Rakta, Chandramukhanukulini, Sadhana Vidhi, Solar Eclipse, Kumkum"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:52:00
 readingTime: 6

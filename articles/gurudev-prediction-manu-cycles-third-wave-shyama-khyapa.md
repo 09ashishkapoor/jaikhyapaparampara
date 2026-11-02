@@ -4,7 +4,7 @@ title: "Gurudev's Prediction: Fears of the Future Due to the Influence of Manu �
 breadcrumbTitle: "Manu Cycles, Third Wave and Future Fears"
 description: "Guru Shyama Khyapa explains his 2021 predictions coming true, fears of the Black Fungus third phase, the approaching cyclone, and how we are entering the age of the Shudras under the 9th Manu cycle as described in the Bhagavat."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Manu Cycles, Third Wave, Coronavirus, Black Fungus, Prophecy, Bhagavat, Age of Shudras"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:39:00
 readingTime: 8

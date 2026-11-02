@@ -4,7 +4,7 @@ title: "Ambubachi || by Shyama Khyapa"
 breadcrumbTitle: "Ambubachi Festival Insights"
 description: "Guru Shyama Khyapa explains the significance of Ambubachi, the Earth's menstruation period, temple closures in Kamakhya, and warnings against commercialization of the festival."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ambubachi, Kamakhya temple, Earth menstruation, Tantra practices, Shakti Peethas"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:14:00
 readingTime: 8

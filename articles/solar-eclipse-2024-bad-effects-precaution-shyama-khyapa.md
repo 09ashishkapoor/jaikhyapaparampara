@@ -4,7 +4,7 @@ title: "Bad Effects of Solar Eclipse 2024: Guru Shyama Khyapa and a Doctor on Pr
 breadcrumbTitle: "Solar Eclipse 2024 Effects"
 description: "Guru Shyama Khyapa and a specialist discuss the April 8, 2024 total solar eclipse—ominous significance, planetary positions, radiation, and why elders warned against eating or using the bathroom during an eclipse."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Solar Eclipse, 2024, Eclipse, Corona, Radiation, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:23:00
 readingTime: 4

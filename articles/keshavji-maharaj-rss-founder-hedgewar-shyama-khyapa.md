@@ -4,7 +4,7 @@ title: "Keshavji Maharaj: A Soldier's Bond with Gurudev and the RSS Legacy"
 breadcrumbTitle: "Keshavji Maharaj RSS Legacy"
 description: "Guru Shyama Khyapa shares his father-son relationship with Keshavji Maharaj, a veteran RSS leader, and recounts the founding story of the Rashtriya Swayamsevak Sangh by Dr. Keshav Baliram Hedgewar."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Keshavji Maharaj, RSS, Dr. Hedgewar, Rashtriya Swayamsevak Sangh, Freedom Fighter, Bharat Mata, Khyapa Parampara"
-category: "Patriotism & History"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:09:00
 readingTime: 7

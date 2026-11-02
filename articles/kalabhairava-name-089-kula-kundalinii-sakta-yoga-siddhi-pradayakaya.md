@@ -4,7 +4,7 @@ title: "Kalabhairava Name 89: Kula-Kundalinii-Sakta-Yoga-Siddhi-Pradayakaya - Me
 breadcrumbTitle: "Kula-Kundalinii-Sakta-Yoga-Siddhi-Pradayakaya"
 description: "English meaning and spiritual significance of Kula-Kundalinii-Sakta-Yoga-Siddhi-Pradayakaya, the 89th name of Lord Kalabhairava, who bestows yogic siddhi through awakened Kula-Kundalini Shakti."
 keywords: "Kula-Kundalinii-Sakta-Yoga-Siddhi-Pradayakaya, Kalabhairava name 89, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kula-Kundalinii-Sakta-Yoga-Siddhi-Pradayakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

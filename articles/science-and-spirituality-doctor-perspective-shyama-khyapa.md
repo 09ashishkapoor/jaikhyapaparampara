@@ -4,7 +4,7 @@ title: "Science and Spirituality: A Doctor's Perspective with Guru Shyama Khyapa
 breadcrumbTitle: "Science and Spirituality"
 description: "An orthopedic surgeon discusses the intersection of medical science and spirituality, and why he seeks the shelter of Guru Shyama Khyapa."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Science, Spirituality, Medical Science, Orthopedic Surgeon, Faith, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:14:00
 readingTime: 5

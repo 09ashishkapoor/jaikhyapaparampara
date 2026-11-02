@@ -4,7 +4,7 @@ title: "Wait for the Time | Time Speaks in Time Itself"
 breadcrumbTitle: "Wait for the Time"
 description: "Guru Shama Khapa discusses the Suraiya star (Pleiades), the decline of COVID-19, natural disasters like Cyclone Amphan, and predictions about upcoming catastrophes."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Suraiya star, Pleiades, Corona, pandemic, Cyclone Amphan, natural disaster"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:22:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Bhairava Sadhana: With and Without a Guru"
 breadcrumbTitle: "Bhairava Sadhana: With and Without a Guru"
 description: "Shri Praveen Radhakrishna explains why Bhairava Sadhana must precede Mahakali Sadhana, what happens when you practice with or without a Guru, and why becoming 'a stone' is the most profound instruction for any serious practitioner."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Mahakali, Guru, Upadesha, Sadhana, Anusthan, Nama Mantra, Kala Bhairava, Mahakala, Guru Tattva"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:05:00
 readingTime: 8

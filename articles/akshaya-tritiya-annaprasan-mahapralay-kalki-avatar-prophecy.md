@@ -4,7 +4,7 @@ title: "Akshaya Tritiya: First Rice Ceremony, Homa Ritual, and Warnings of Mahap
 breadcrumbTitle: "Akshaya Tritiya Annaprasan and Prophecy"
 description: "On Akshaya Tritiya, Gurudev feeds a newborn his first rice, visits devotees' homes, and shares grave prophecies about the Kali Yuga peak, arrival of Kalki Avatar, and imminent catastrophe despite his declining health."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Akshaya Tritiya, Annaprasan, Mahapralay, Kalki Avatar, Kali Yuga, prophecy"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 14:08:00
 readingTime: 7

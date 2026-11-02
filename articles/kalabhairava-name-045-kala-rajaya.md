@@ -4,7 +4,7 @@ title: "Kalabhairava Name 45: Kala-Rajaya - Meaning and Significance"
 breadcrumbTitle: "Kala-Rajaya"
 description: "English meaning and spiritual significance of Kala-Rajaya, the 45th name of Lord Kalabhairava, sovereign over time and the cosmic cycles it governs."
 keywords: "Kala-Rajaya, Kalabhairava name 45, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Rajaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

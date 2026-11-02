@@ -4,7 +4,7 @@ title: "Kailash and Manasarovar Darshan: Secrets of the Five Peaks Revealed by G
 breadcrumbTitle: "Kailash and Manasarovar Secrets"
 description: "Guru Shyama Khyapa and his disciple Sukanta Bhattacharya discuss the mystical journey to Kailash Mansarovar, the five sacred peaks, and the divine presence of Shiva and Durga."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kailash, Mansarovar, Tibet, Shiva, Durga, Spiritual Journey, Pilgrimage, Himalayas, Five Kailash"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 6

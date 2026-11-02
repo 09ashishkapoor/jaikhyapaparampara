@@ -4,7 +4,7 @@ title: "Gurudev's Ban: Why Not to Visit Shantikunj in Bhadra Month"
 breadcrumbTitle: "Bhadra Month Ban"
 description: "Guru Baba Shyama Khyapa explains why the month of Bhadra is inauspicious for spiritual work and advises devotees not to visit Shantikunj during this time."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bhadra Month, Shantikunj, Rakhi Purnima, Inauspicious, Tantric Practices, Diksha"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 16

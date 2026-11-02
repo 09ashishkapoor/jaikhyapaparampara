@@ -4,7 +4,7 @@ title: "Guru Puja: Shelter of Peace - Srimad Bhagavad Gita Recitation"
 breadcrumbTitle: "Guru Puja: Shelter of Peace"
 description: "Guru Shyama Khyapa and a disciple recite and discuss the Srimad Bhagavad Gita, focusing on Bhakti Yoga, Arjuna Vishada Yoga, and the Gita Mahatmya."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bhagavad Gita, Bhakti Yoga, Gita Mahatmya, Arjuna Vishada Yoga"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:47:00
 readingTime: 7

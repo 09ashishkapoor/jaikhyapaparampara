@@ -4,7 +4,7 @@ title: "Shanti Is the Highest Peace: Gurudev on Social Unrest and Unity"
 breadcrumbTitle: "Shanti and Social Unrest"
 description: "Gurudev explains why peace has disappeared in the age of science, describing household conflicts, social breakdown, and the need for unity and faith."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shanti, Peace, Social Unrest, Unity, Society, COVID-19, Black Magic, Homa, Gurudev"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:59:04
 readingTime: 10

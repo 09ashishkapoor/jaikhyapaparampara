@@ -4,7 +4,7 @@ title: "Devotees Coming from Siliguri | by Shyama Khyapa"
 breadcrumbTitle: "Devotees from Siliguri"
 description: "Devotees from Siliguri visit Gurudev, sharing their experiences of spiritual initiation and the miracles they've witnessed. Includes footballer Rakesh Singh's testimony."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Siliguri, devotees, initiation, Rakesh Singh, Mohun Bagan, East Bengal"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:26:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "What to do in Ambubachi? What not to do?"
 breadcrumbTitle: "Ambubachi: Rules and Significance"
 description: "Guru Baba Shyama Khyapa explains the scientific and spiritual significance of Ambubachi, Mother Earth's menstruation cycle, and what to observe during this time."
 keywords: "GuruDeva Shyama Khyapa, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Ambubachi, Guru Baba Shyama Khyapa, Mother Earth, Kamakhya, Tantra, Spiritual, Nature, Gupta Sadhak"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27
 readingTime: 10

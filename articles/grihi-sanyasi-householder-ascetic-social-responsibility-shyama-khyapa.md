@@ -4,7 +4,7 @@ title: "Grihi Sanyasi: The Householder Ascetic and Social Responsibility"
 breadcrumbTitle: "Grihi Sanyasi - Householder Ascetic"
 description: "Guru Shyama Khyapa explains the concept of Grihi Sanyasi (householder ascetic), drawing from Ramakrishna Paramahamsa's teachings, and emphasizes the difference between Munis and Rishis and their accountability to society."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Grihi Sanyasi, householder ascetic, Ramakrishna Paramahamsa, Lahiri Mahasaya, Muni, Rishi, social responsibility"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:40:00
 readingTime: 7

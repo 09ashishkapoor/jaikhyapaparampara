@@ -4,7 +4,7 @@ title: "Prostitutes Also Maintain the Balance of the Environment: Guru Shyama Kh
 breadcrumbTitle: "Shiba-Bhog and Sacred Soil"
 description: "Guru Shyama Khyapa explains the Tantra ritual of Shiba-bhog (offering to jackals), why Shol fish is considered a Brahmin, and why soil from brothels is essential for Durga Puja idols."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Shiba-Bhog, Jackal Offering, Tantra, Shol Fish, Beshya Dwaro Mrittika, Durga Puja, Vital Energy, Environment, Sacred Soil"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:55:00
 readingTime: 6

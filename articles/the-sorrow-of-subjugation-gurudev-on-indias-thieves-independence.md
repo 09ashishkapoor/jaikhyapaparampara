@@ -4,7 +4,7 @@ title: "The Sorrow of Subjugation: Gurudev on India's Thieves' Independence"
 breadcrumbTitle: "Sorrow of Subjugation and Lost Independence"
 description: "On Independence Day, Guru Shyama Khyapa calls the present freedom a thieves' independence, elevates Netaji, and condemns the politicians, alcohol, and apathy that keep India enslaved while its youth are wasted."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Netaji Subhash Chandra Bose, Independence Day, Kashmir, Alcohol, Political Corruption, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:40:10
 readingTime: 8

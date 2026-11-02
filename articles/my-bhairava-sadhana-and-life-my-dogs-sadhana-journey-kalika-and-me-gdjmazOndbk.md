@@ -4,7 +4,7 @@ title: "My Bhairava Sadhana and Life: My Dogs, Sadhana Journey, Kalika and Me"
 breadcrumbTitle: "My Bhairava Sadhana Journey"
 description: "In a rare personal discourse, Shri Praveen Radhakrishna shares his own Bhairava–Shakti journey: why he refuses book-derived spirituality, how he relates to mentors and Guruhood, how an ancestral tantric lineage shaped his path, and why his life remains centered in a private garbhagriha with his dogs and Devi."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Ma Kali, Kalika, Adya Kali, Shakti Sadhana, Tantra, Garbhagriha, Hatha, Vairagya, Guru, Manasik Shishya, Ancestor, Prana Pratishta Vigraham, Pretas, Bhutas, Rajapalayam, Dogs"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:27:00
 readingTime: 9

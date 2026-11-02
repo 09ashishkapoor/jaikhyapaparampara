@@ -4,7 +4,7 @@ title: "Bhairavi: The Fifth Mahavidya – Goddess of Desire, Temptation, and Hid
 breadcrumbTitle: "Mahavidya Bhairavi"
 description: "Guru Shyama Khyapa unveils the fearsome and complex nature of Bhairavi, the fifth Mahavidya. Discover her dual manifestations as Tripura Bhairavi and Mother Annapurna, her connection to Kubera's infinite wealth, the 64 Yoginis, the sacred Hiranyagarbha ritual, and why she gives both immense blessings and inevitable destruction through unbridled desire and temptation."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bhairavi, Tripura Bhairavi, Mahavidya, Dasa Mahavidyas, Mother Annapurna, Goddess, Desire, Temptation, Kubera, Yaksha, Wealth, Kashi, Varanasi, Hiranyagarbha, Rudraksha, Bija Mantra, 64 Yoginis, Spiritual Power, Tantra, Ritual"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 18

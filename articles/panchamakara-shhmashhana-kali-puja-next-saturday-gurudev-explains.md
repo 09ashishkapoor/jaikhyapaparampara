@@ -4,7 +4,7 @@ title: "Panchamakara SHHMASHHANA kali Puja Next Saturday: Gurudev Explains the R
 breadcrumbTitle: "Panchamakara SHHMASHHANA kali Puja Teachings"
 description: "Guru Shyama Khyapa explains the principles, offerings, and strict Tantric rules of SHHMASHHANA kali worship, including Panchamakara practice, blood offering protocol, and night-only cremation-ground rituals."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Panchamakara, SHHMASHHANA kali, Tantric puja, Pashvachar, Hom Yajna, cremation ground rituals"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:59:08
 readingTime: 11

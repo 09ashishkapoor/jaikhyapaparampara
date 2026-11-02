@@ -4,7 +4,7 @@ title: "Agneyastra to Biological Warfare: The Evolution of Destruction"
 breadcrumbTitle: "Agneyastra and Biological Warfare"
 description: "Guru Shyama Khyapa traces the evolution of weapons from ancient Agneyastra celestial weapons to modern biological warfare, warning of even greater destruction to come."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Agneyastra, Celestial Weapons, Biological Warfare, COVID-19, Hiroshima, Nagasaki, Pasupatastra, Brahmastra, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:04:00
 readingTime: 6

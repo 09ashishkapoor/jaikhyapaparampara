@@ -4,7 +4,7 @@ title: "Gurudev's Enlightenment on Jagadhatri Puja"
 breadcrumbTitle: "Jagadhatri Puja Enlightenment"
 description: "Guru Shyama Khyapa explains the significance of Jagadhatri Puja, its connection to Durga Puja, the traditional rituals, and the famous celebration in Chandannagar."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Jagadhatri Puja, Durga Puja, Bengali Festivals, Chandannagar, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:59:00
 readingTime: 5

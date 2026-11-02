@@ -4,7 +4,7 @@ title: "The Mystery of Gyan Ganj: The Hidden Spiritual Kingdom"
 breadcrumbTitle: "Gyan Ganj Mystery"
 description: "Guru Shyama Khyapa reveals the secrets of Gyan Ganj (Shangri-La), a hidden spiritual seat guarded by Lord Mahadev where ancient sages control the world's destiny."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gyan Ganj, Shangri-La, Siddhashram, Lord Mahadev, Kubera, Yaksha Puri, Ancient Sages, Spiritual Mystery, Solar Science"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 20

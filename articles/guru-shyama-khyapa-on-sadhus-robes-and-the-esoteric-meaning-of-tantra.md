@@ -4,7 +4,7 @@ title: "Guru Shyama Khyapa on Sadhus, Robes, and the Esoteric Meaning of Tantra"
 breadcrumbTitle: "Sadhus, Robes, and Tantra"
 description: "Guru Shyama Khyapa discusses the diverse types of sadhus, the symbolic meaning behind their red, black, and saffron robes, the profound importance of Brahmacharya, and the true nature of Pran Pratistha (consecration) in Tantric practice."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Sadhus, Tantra, Aghori, Brahmacharya, Pran Pratistha, Red Robes, Black Robes, Saffron Robes, Kali, Shakti, Durga Puja, Kali Puja, Gorakhnath, Ravana, Poite, Sacred Thread Ceremony"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 10

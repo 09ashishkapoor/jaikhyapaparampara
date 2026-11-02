@@ -4,7 +4,7 @@ title: "The Powerful Secret of Uchchhishta Ganapati and Skanda Muruga: Valli Dev
 breadcrumbTitle: "Secret of Uchchhishta Ganapati"
 description: "On the occasion of Vinayaka Chaturthi, Shri Praveen Radhakrishna decodes the deeper Tantric meaning behind the folklore of Skanda, Valli Devi, and Ganesha — revealing Uchchhishta Ganapati's cosmic initiation of his brother into the hidden wisdom of Maa Matangi."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Uchchhishta Ganapati, Skanda Muruga, Valli Devi, Maa Matangi, Devasena, Tantra, Das Mahavidya, Vinayaka Chaturthi, Uchchhishta Chandalini"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:20:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Shikhandi Suicide at Jagannath Temple: Ominous Signs of Kali Yuga"
 breadcrumbTitle: "Shikhandi Incident at Jagannath"
 description: "Guru Shyama Khyapa discusses the tragic suicide of a transgender person at the Jagannath Temple, interpreting it as an ominous sign of the end of Kali Yuga and the departure of Lord Jagannath from the world."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jagannath Temple, Shikhandi, Transgender, Suicide, Kali Yuga, Kalki Avatar, Prophecy, Ominous Signs, Puri"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:06:00
 readingTime: 3

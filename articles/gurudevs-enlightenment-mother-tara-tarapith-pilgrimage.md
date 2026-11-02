@@ -4,7 +4,7 @@ title: "Gurudev's Enlightenment About Mother Tara: A Tarapith Pilgrimage"
 breadcrumbTitle: "Mother Tara Enlightenment Tarapith"
 description: "Guru Shyama Khyapa shares his profound experiences from a recent pilgrimage to Tarapith, including his fear of Ma Tara, the sacred Shila mystery, and a 300-year-old sacrificial blade."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mother Tara, Tarapith, Shashan Kali, Bama Khepa, Shila, Brahmasila, Mundomalitola, Homa, world peace, Mahavidya, Kapalika"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:17:00
 readingTime: 6

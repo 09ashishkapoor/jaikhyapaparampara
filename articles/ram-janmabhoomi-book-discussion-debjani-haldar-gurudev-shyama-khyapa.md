@@ -4,7 +4,7 @@ title: "Ram Janmabhoomi Book Discussion with Debjani Haldar - Gurudev Shyama Khy
 breadcrumbTitle: "Ram Janmabhoomi Book Discussion"
 description: "A conversation with author Debjani Haldar about her book Ram Janmabhoomi: Establishment of Truth and Justice, discussing the 500-year history of the movement, Supreme Court judgment details, and the ancient architecture of the Ram Temple."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ram Janmabhoomi, Debjani Haldar, book, temple, Ayodhya, Supreme Court, Sompura architects, time capsule"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:30:00
 readingTime: 8

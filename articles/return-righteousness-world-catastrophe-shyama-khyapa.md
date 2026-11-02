@@ -4,7 +4,7 @@ title: "Return to Righteousness: Gurudev on the World's Coming Catastrophes"
 breadcrumbTitle: "Return to Righteousness"
 description: "Guru Shyama Khyapa gives a stern warning about the state of humanity, discussing meteors, space exploration, COVID-19, and the divine balance maintained by the sages of Gyan Gunj."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Meteors, Solar Storms, COVID-19, Gyan Gunj, Prophecy, Nostradamus, Satya Yuga"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:52:00
 readingTime: 6

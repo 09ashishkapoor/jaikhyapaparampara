@@ -4,7 +4,7 @@ title: "Janmashtami: Krishna's Divine Pastimes and Spiritual Significance"
 breadcrumbTitle: "Janmashtami Krishna Pastimes"
 description: "Guru Shyama Khyapa explains the significance of Janmashtami, the birth story of Krishna, his divine plays, and the spiritual connection between Krishna and Kali."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Janmashtami, Krishna, Kali, Devaki, Vasudeva, Gopal Tantra, Krishna Leela, Mathura, Gokul"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:34:00
 readingTime: 6

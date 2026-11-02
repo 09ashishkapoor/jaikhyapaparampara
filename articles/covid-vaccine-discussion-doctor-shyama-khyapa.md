@@ -4,7 +4,7 @@ title: "COVID-19 Vaccine: Gurudev and Doctor Discuss Vaccination, Immunity, and 
 breadcrumbTitle: "COVID-19 Vaccine Discussion"
 description: "Guru Shyama Khyapa discusses COVID-19 vaccines with a medical doctor, addressing concerns about vaccination, immunity, and the importance of consulting healthcare professionals."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, COVID-19, Vaccine, Vaccination, Covishield, Covaxin, Immunity, Health, Doctor, Khyapa Parampara"
-category: "Health & Wellness"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:08:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "Har Har Mahadev: Understanding the Sacred Chant and Its Meaning"
 breadcrumbTitle: "Har Har Mahadev Meaning"
 description: "Guru Shyama Khyapa explains the profound meaning of 'Har Har Mahadev' and 'Bom Shankar'—revealing how Shiva removes our six vices and the elemental composition of creation."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Har Har Mahadev, Bom Shankar, Shiva, Mahadev, Ardhanarishwara, Panchabhuta, Six Vices, Shada-ripu, Creation"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:24:00
 readingTime: 3

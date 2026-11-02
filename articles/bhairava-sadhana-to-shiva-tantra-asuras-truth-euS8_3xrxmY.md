@@ -4,7 +4,7 @@ title: "Bhairava Sadhana to Shiva: Tantra, Asuras, and Truth"
 breadcrumbTitle: "Bhairava Sadhana to Shiva"
 description: "Shri Praveen Radhakrishna explains why Bhairava Sadhana is ultimately Shiva Sadhana, how Bhairava embodies Shiva’s Guru Tattva by cutting through Brahma’s rules, and why the inner churning of Devas and Asuras becomes the unavoidable path to truth."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Shiva, Sadashiva, Brahma, Tantra, Guru Tattva, Jiva, Loka, Mrityu Loka, Niyama, Samudra Manthan, Devas, Asuras, Amrita, Vasuki, Japa Mala, Rudraksha, Rahu, Ketu, Swarbhanu, Mohini"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:23:00
 readingTime: 8

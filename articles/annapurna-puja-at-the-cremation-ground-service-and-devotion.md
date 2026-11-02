@@ -4,7 +4,7 @@ title: "Annapurna Puja at the Cremation Ground: Service and Devotion with Guru S
 breadcrumbTitle: "Annapurna Puja at Smashan"
 description: "During Annapurna Puja at the temple and cremation ground, the devotee speaks with Guru Shyama Khyapa about worship, feeding everyone, and the spirit of service among doctors and seekers."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Annapurna Puja, Hom, cremation ground, Smashan, prasad, world peace, service, doctors, AIIMS Delhi, Ram Navami, mango, moong dal"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 16:41:00
 readingTime: 4

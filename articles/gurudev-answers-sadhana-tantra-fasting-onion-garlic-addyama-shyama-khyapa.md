@@ -4,7 +4,7 @@ title: "Gurudev Answers Devotee Questions — Sadhana, Tantra, Fasting, Onion Ga
 breadcrumbTitle: "Gurudev Answers Devotee Questions"
 description: "Guru Shyama Khyapa answers important questions on home sadhana, the difference between Vidya and Avidya Tantra, the spiritual science of fasting, onion and garlic in practice, mantra chanting, and the Addya Ma temple near Dakshineswar."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Sadhana, Tantra Vidya, Avidya Tantra, fasting, onion garlic, Mantra, Addya Ma temple, Dakshineswar, spiritual practice"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 06:50:00
 readingTime: 7

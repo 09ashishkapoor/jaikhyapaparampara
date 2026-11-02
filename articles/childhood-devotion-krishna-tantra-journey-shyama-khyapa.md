@@ -4,7 +4,7 @@ title: "Was Gurudev a Devotee of Thakur Since Childhood? Spiritual Journey Revea
 breadcrumbTitle: "Childhood Devotion Journey"
 description: "Guru Shyama Khyapa shares his spiritual journey from childhood devotion to Krishna to becoming a Tantric practitioner. He recounts his father's devotion, the transition to Tantra Sadhana, and his connection with Jagannath of Puri."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Childhood, Devotion, Krishna, Tantra, Jagannath, Puri, Spiritual Journey"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:12:00
 readingTime: 5

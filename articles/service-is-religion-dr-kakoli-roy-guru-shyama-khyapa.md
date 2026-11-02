@@ -4,7 +4,7 @@ title: "Service Is Religion — Dr. Kakoli Roy on Guru Shyama Khyapa"
 breadcrumbTitle: "Service Is Religion"
 description: "Dr. Kakoli Roy (former AIIMS) shares how Guru Shyama Khyapa's blessings healed her family and guided her medical career; she recounts miracles and the guru's message of selfless service."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Dr. Kakoli Roy, Service, Healing, Miracle, Guru"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:59:00
 readingTime: 3

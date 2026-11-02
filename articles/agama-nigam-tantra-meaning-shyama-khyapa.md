@@ -4,7 +4,7 @@ title: "Agama and Nigam Tantra: The Dual Paths of Shiva and Shakti"
 breadcrumbTitle: "Agama Nigam Tantra"
 description: "Guru Shyama Khyapa explains the profound distinction between Agama and Nigam Tantra, revealing why sometimes Kali stands on Shiva and other times Shiva stands on Kali, and what this means for the control of Time."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Agama Tantra, Nigam Tantra, Viparita, Chinnamasta, Krishnananda Agamavagisha, Shiva, Kali, Kaal, Time"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:09:00
 readingTime: 5

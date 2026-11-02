@@ -4,7 +4,7 @@ title: "Atma Part One: Five Koshas, Three Bodies, and the Soul — Guru Shyama K
 breadcrumbTitle: "Atma Part One Koshas and Bodies"
 description: "Guru Shyama Khyapa explains the Atma, the five koshas, three bodies (gross, subtle, causal), and the story of Lahiri Mahasaya's subtle body."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Atma, Paramatma, five koshas, subtle body, Lahiri Mahasaya, Sukshma Sharira"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:17:00
 readingTime: 4

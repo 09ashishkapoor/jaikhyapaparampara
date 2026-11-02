@@ -4,7 +4,7 @@ title: "Gita Reading at Gurudev's House: The Path of Yoga and Mind Control"
 breadcrumbTitle: "Gita Reading with Guru Shyama Khyapa"
 description: "Guru Shyama Khyapa discusses the essence of the Bhagavad Gita, the importance of desireless action, and the necessity of controlling the fickle mind through meditation and detachment."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Bhagavad Gita, Yoga, Meditation, Mind Control, Spiritual Practice, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 12

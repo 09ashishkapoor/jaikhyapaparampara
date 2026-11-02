@@ -4,7 +4,7 @@ title: "Kalabhairava Name 96: Kritsna-Pravrtti-Visvanda-Panca-Kritya-Vidayakaya 
 breadcrumbTitle: "Kritsna-Pravrtti-Visvanda-Panca-Kritya-Vidayakaya"
 description: "English meaning and spiritual significance of Kritsna-Pravrtti-Visvanda-Panca-Kritya-Vidayakaya, the 96th name of Lord Kalabhairava, who bestows and governs the five cosmic acts of creation, preservation, dissolution, concealment, and grace."
 keywords: "Kritsna-Pravrtti-Visvanda-Panca-Kritya-Vidayakaya, Kalabhairava name 96, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kritsna-Pravrtti-Visvanda-Panca-Kritya-Vidayakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

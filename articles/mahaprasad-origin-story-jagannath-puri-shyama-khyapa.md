@@ -4,7 +4,7 @@ title: "Maha Prasad: The Divine Origin Story of Lord Jagannath's Sacred Offering
 breadcrumbTitle: "Maha Prasad Origin Story"
 description: "Guru Shyama Khyapa explains the divine origin of Maha Prasad, how Narada's penance led to this sacred tradition, and the unique customs of Lord Jagannath's temple in Puri."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Maha Prasad, Jagannath, Puri, Narada, Lakshmi, Shiva, Tandava, Vimala, Ananda Bazar"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:36:00
 readingTime: 4

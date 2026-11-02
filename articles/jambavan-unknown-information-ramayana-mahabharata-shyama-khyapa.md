@@ -4,7 +4,7 @@ title: "Jambavan: Unknown Information About the Bear-King from Ramayana and Maha
 breadcrumbTitle: "Jambavan - The Immortal Bear-King"
 description: "Guru Shyama Khyapa reveals the mysterious origins of Jambavan, born from Brahma's yawn, his role in guiding Hanuman to Lanka, and his legendary battle with Krishna over the Syamantaka gem."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Jambavan, Jambuban, Ramayana, Mahabharata, Hanuman, Syamantaka Gem, Krishna, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:14:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Prophecies of the Final War: The Return of the Five Mighty Heroes from t
 breadcrumbTitle: "Prophecies of the Final War"
 description: "Guru Shyama Khyapa discusses the Bhabishya Malika prophecies regarding the end of Kali Yuga, World War III, and the return of five great heroes to complete the Mahabharata war under Lord Kalki."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bhabishya Malika, Achyutananda Das, Prophecy, World War III, Kali Yuga, Lord Kalki, Mahabharata, Five Mighty Heroes, Narayani Sena, Kalighat"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:38:00
 readingTime: 5

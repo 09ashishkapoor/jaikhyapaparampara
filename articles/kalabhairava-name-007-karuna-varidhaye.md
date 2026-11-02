@@ -4,7 +4,7 @@ title: "Kalabhairava Name 7: Karuna-Varidhaye - Meaning and Significance"
 breadcrumbTitle: "Karuna-Varidhaye"
 description: "English meaning and spiritual significance of Karuna-Varidhaye, the 7th name of Lord Kalabhairava: the boundless ocean of compassion."
 keywords: "Karuna-Varidhaye, Kalabhairava name 7, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karuna-Varidhaye meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

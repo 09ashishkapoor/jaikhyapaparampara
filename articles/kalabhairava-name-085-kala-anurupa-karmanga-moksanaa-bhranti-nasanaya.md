@@ -4,7 +4,7 @@ title: "Kalabhairava Name 85: Kala-Anurupa-Karmanga-Moksanaa-Bhranti-Nasanaya - 
 breadcrumbTitle: "Kala-Anurupa-Karmanga-Moksanaa-Bhranti-Nasanaya"
 description: "English meaning and spiritual significance of Kala-Anurupa-Karmanga-Moksanaa-Bhranti-Nasanaya, the 85th name of Lord Kalabhairava, who removes confusion about the relation between time, karma, and liberation."
 keywords: "Kala-Anurupa-Karmanga-Moksanaa-Bhranti-Nasanaya, Kalabhairava name 85, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Anurupa-Karmanga-Moksanaa-Bhranti-Nasanaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 19: Kala-Nidhi-Kala-Dharaya - Meaning and Significance
 breadcrumbTitle: "Kala-Nidhi-Kala-Dharaya"
 description: "English meaning and spiritual significance of Kala-Nidhi-Kala-Dharaya, the 19th name of Lord Kalabhairava: bearer of the moon and treasury of arts and knowledge."
 keywords: "Kala-Nidhi-Kala-Dharaya, Kalabhairava name 19, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Nidhi-Kala-Dharaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

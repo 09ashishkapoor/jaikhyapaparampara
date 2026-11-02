@@ -4,7 +4,7 @@ title: "Vijayadashami Blessings: Gurudev's Message on Durga Puja, COVID-19, and 
 breadcrumbTitle: "Vijayadashami Message"
 description: "Guru Shyama Khyapa shares his Vijayadashami blessings, prayers for humanity during the COVID-19 pandemic, and his vision for world peace and healing."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Vijayadashami, Durga Puja, Bisharjan, COVID-19, World Peace, Sindur Khela, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:06:00
 readingTime: 5

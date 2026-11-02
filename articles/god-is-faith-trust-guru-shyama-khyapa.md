@@ -4,7 +4,7 @@ title: "God is Faith: Guru Shyama Khyapa on Trust in God and Spiritual Initiatio
 breadcrumbTitle: "God is Faith Trust Guru"
 description: "Guru Shyama Khyapa shares his message of faith in God, discusses resuming initiation ceremonies, and announces plans for live sessions despite health challenges at age 78."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Faith, God, Initiation, Diksha, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:12:00
 readingTime: 5

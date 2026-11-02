@@ -4,7 +4,7 @@ title: "Pagla Baba's Journey to Ma Bagheswari Temple in Bongaigaon"
 breadcrumbTitle: "Pagla Baba Bagheswari"
 description: "Pagla Baba visits the powerful Ma Bagheswari temple in Bongaigaon before proceeding to Kamakhya, following Gurudev's instructions to pay respects to the goddess first."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Pagla Baba, Bagheswari Temple, Bongaigaon, Kamakhya, Journey, Tantra, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:44:00
 readingTime: 2

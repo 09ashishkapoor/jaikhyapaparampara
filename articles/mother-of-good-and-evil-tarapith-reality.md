@@ -4,7 +4,7 @@ title: "Mother of Good and Evil: Guru Shyama Khyapa on the Reality of Tarapith"
 breadcrumbTitle: "Tarapith Reality"
 description: "A direct, unfiltered conversation between Guru Shyama Khyapa and the Host regarding Tarapith, where Gurudev reveals the misuse of Tantra, the dangers of fire rituals for ill intent, and the true nature of Mother Tara. Based on twelve years of personal experience at Tarapith, Gurudev addresses misconceptions and provides spiritual warnings about the cremation ground."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tarapith, Mother Tara, Tantra, Kaushiki Amavasya, Homa, Bama Khepa, Spiritual Ethics, Maran, Vashikaran, Ucchatan, Shmashan, Cremation Ground, Brahmacharya"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 28

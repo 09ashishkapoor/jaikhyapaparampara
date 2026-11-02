@@ -4,7 +4,7 @@ title: "Do Saints Discriminate Between Religions? Islam and Sanatana Dharma"
 breadcrumbTitle: "Saints and Religious Differences"
 description: "Guru Shyama Khyapa discusses the differences between Islam and Sanatana Dharma, rebirth vs. Qiyamat, and why at higher spiritual levels the distinctions between faiths fade away."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Islam, Sanatana Dharma, Quran, Rebirth, Qiyamat, Religious Unity, Sufi, Darvesh"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:00:00
 readingTime: 4

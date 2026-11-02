@@ -4,7 +4,7 @@ title: "Gurudev's Righteous Anger: Discipline of a Disciple Who Defied Sacred Bo
 breadcrumbTitle: "Gurudev Disciplines a Defiant Disciple"
 description: "Guru Shyama Khyapa explains why he publicly corrected a female disciple who repeatedly violated the decorum of his spiritual sessions and defied strict prohibitions at a midnight cremation ground ritual, eventually announcing her permanent expulsion."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, disciple discipline, cremation ground, Shmashan, Guru authority, spiritual decorum"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:45:00
 readingTime: 4

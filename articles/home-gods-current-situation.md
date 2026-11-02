@@ -4,7 +4,7 @@ title: "Home for the Gods for the Current Situation"
 breadcrumbTitle: "Fire Ritual for COVID Deliverance"
 description: "Guru Shyama Khyapa discusses performing a fire ritual (Hom) during the COVID-19 pandemic using bael leaves, turmeric, and sun-dried rice to eliminate the coronavirus, increase oxygen levels, and protect the world, emphasizing collective participation and divine intervention."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, COVID-19, Fire Ritual, Hom, Turmeric, Sun-dried Rice, Divine Intervention"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:10:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "Unraveling Mysteries Through Waves: The Connection to Gupteswar Nath"
 breadcrumbTitle: "Unraveling Mysteries Waves"
 description: "A doctor from Chhattisgarh follows his Guru's cryptic clue—a man in white smoking black cigarettes—to find Gurudev Shyama Khyapa, revealing a hidden network of secret Himalayan saints."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gupteswar Nath, Chhattisgarh, Doctor, Mystery, Waves, Secret, Himalayan Saints, Initiation, Saiva Sadhana, Matri Sadhana, Kumbh Mela"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:25:00
 readingTime: 4

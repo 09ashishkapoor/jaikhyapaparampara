@@ -4,7 +4,7 @@ title: "Fire at Tarapith: A Grave Omen of Disaster"
 breadcrumbTitle: "Tarapith Fire Omen"
 description: "Guru Shyama Khyapa interprets the recent fire at Tarapith Temple as a warning sign of impending catastrophe due to corruption and disrespect towards the divine."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tarapith, Fire, Omen, Disaster, Corruption, Bama Khepa, Mother Tara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 10

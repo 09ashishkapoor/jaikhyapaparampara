@@ -4,7 +4,7 @@ title: "Gurudev Will Sit in Shantikunj Again: Ten Devotees Per Day Announcement"
 breadcrumbTitle: "Shantikunj Meetings Resume"
 description: "Gurudev announces a structured return to meeting devotees at Shantikunj, limited to ten people per day with strict rules and a first-come process handled by Kalu Da."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shantikunj, Kalu Da, devotee meetings, ten devotees per day, announcement, temple rules"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:03:00
 readingTime: 4

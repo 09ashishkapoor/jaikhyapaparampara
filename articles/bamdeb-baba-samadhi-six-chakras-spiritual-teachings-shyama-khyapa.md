@@ -4,7 +4,7 @@ title: "Bamdeb Baba's Teachings on Samadhi and the Six Chakras Explained"
 breadcrumbTitle: "Bamdeb Baba Samadhi Six Chakras"
 description: "Guru Shyama Khyapa recounts the profound teachings of Bamdeb Baba on Samadhi—Savikalpa and Nirvikalpa—and gives a detailed explanation of the Six Chakras (Shat Chakra), the Nadis, seed mantras, and presiding deities within the human body."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bamdeb Baba, Samadhi, Nirvikalpa, Savikalpa, Shat Chakra, Muladhara, Manipura, Anahata, Vishuddha, Ajna, Sahasrara, Sushumna, Ida, Pingala, Kundalini"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:12:00
 readingTime: 6

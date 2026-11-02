@@ -4,7 +4,7 @@ title: "Pancha Amrita and Charanamrita: Sacred Nectars for Purification"
 breadcrumbTitle: "Pancha Amrita and Charanamrita"
 description: "Guru Shyama Khyapa explains the significance of Charanamrita and Pancha Amrita (five nectars), their preparation according to Vedic tradition, and their use in Garbha Shuddhi (womb purification)."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Pancha Amrita, Charanamrita, Garbha Shuddhi, Cow Urine, Gomutra, Milk, Dugdha, Yogurt, Dadhi, Ghee, Ghrita, Kushodak, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:06:00
 readingTime: 4

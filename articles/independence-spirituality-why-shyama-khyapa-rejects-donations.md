@@ -4,7 +4,7 @@ title: "Independence and Spirituality: Why Guru Shyama Khyapa Rejects Temple Don
 breadcrumbTitle: "Why I Reject Donations"
 description: "Guru Shyama Khyapa explains his strict rule against temple donations, emphasizing the spiritual importance of independence and the dangers of dependency and slavery."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Temple Donations, Spiritual Independence, Dependency, Slavery, Japan, Story of Dog and Tiger, Bribery, Flattery, Rajarajeshwari"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:17:00
 readingTime: 6

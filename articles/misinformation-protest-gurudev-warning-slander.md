@@ -4,7 +4,7 @@ title: "Be Careful, Do Not Spread Misinformation: Gurudev's Warning Against Slan
 breadcrumbTitle: "Misinformation Protest Gurudev Warning"
 description: "Guru Shyama Khyapa addresses false allegations about him at Tarapith, warning disciples about those spreading misinformation and sharing the story of Lokenath Baba and Bijoy Krishna Goswami."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, misinformation, slander, false allegations, Tarapith, Lokenath Baba, Bijoy Krishna Goswami, Anirban Mazumdar, Pradip Dutta, protest"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:54:00
 readingTime: 6

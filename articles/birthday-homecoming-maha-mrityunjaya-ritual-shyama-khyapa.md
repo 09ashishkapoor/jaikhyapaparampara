@@ -4,7 +4,7 @@ title: "Birthday Homecoming: Maha Mrityunjaya Yagna Ritual Ceremony"
 breadcrumbTitle: "Birthday Homecoming Ritual"
 description: "A traditional Hindu Maha Mrityunjaya Yagna ritual ceremony with Sanskrit mantras for longevity, health, victory over death, and the pacification of planetary disturbances."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Maha Mrityunjaya, Yagna, Homa, Ritual, Sanskrit, Mantra, Gayatri, Durga, Shiva, Longevity, Health"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:23:00
 readingTime: 6

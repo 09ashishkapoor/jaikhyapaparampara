@@ -4,7 +4,7 @@ title: "Kalyani Visit: Guru Shyama Khyapa Meets Mother Bagalamukhi and Teaches H
 breadcrumbTitle: "Kalyani Bagalamukhi Heart Over Mantra Visit"
 description: "Guru Shyama Khyapa visits the home of Mother Bagalamukhi in Kalyani despite his breathing difficulties. A devoted female caretaker shares how Mother guides her worship without formal training, and Gurudev teaches that call her 'Ma' with a pure heart — no money or complex mantras are needed."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bagalamukhi, Dasha Mahavidyas, Kalyani, Siddha Vidya, Devotion, Heart, Bagala Mantra, Kali Yuga"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 07:08:00
 readingTime: 4

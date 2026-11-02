@@ -4,7 +4,7 @@ title: "Ras Purnima: Lord Krishna's Divine Raas Leela and Spiritual Significance
 breadcrumbTitle: "Ras Purnima Raas Leela"
 description: "Guru Shyama Khyapa explains the sacred significance of Ras Purnima, the famous Raas Leela of Lord Krishna with the Gopis, and how Lord Shiva became Krishna's spiritual teacher."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Ras Purnima, Raas Leela, Krishna, Gopis, Lord Shiva, Mahadev, Vrindavan, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 15:00:00
 readingTime: 3

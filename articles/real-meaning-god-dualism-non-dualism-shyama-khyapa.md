@@ -4,7 +4,7 @@ title: "The Real Meaning of God: Dualism, Non-Dualism and True Faith"
 breadcrumbTitle: "Real Meaning of God Faith"
 description: "Guru Shyama Khyapa explains the nature of God, the difference between blind faith and true understanding, and discusses Dualism vs Non-Dualism through the lens of Ramakrishna and Vivekananda."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, God meaning, Dualism, Non-Dualism, Dvaitabad, Advaitabad, blind faith, Trailokya Swami, Ramakrishna, Vivekananda, Khona, women equality, Vedic tradition"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:26:00
 readingTime: 7

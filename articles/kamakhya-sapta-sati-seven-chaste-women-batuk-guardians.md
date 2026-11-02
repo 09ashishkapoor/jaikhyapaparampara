@@ -4,7 +4,7 @@ title: "Mother Kamakhya as the Maha Sati: The Seven Chaste Women and the Four Ba
 breadcrumbTitle: "Kamakhya Sapta Sati Seven Chaste Women Batuks"
 description: "Guru Shyama Khyapa explains that Mother Kamakhya's form is composed of the seven Satis—Gouri, Gandhari, Shobari, Kirati, Matangi, Krishna (Draupadi), and Yashoda—each represented by a different color. He also clarifies the four Batuk guardian deities who must be worshipped at the end of every puja ritual."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kamakhya, Sapta Sati, Maha Sati, Gouri, Gandhari, Shobari, Kirati, Matangi, Draupadi, Yashoda, Batuk, Siddhputra, Ganesh, Brahma, Tantra, Jonipuja"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:19:00
 readingTime: 7

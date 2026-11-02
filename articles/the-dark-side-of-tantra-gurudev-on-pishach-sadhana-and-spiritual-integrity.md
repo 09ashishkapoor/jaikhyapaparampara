@@ -4,7 +4,7 @@ title: "The Dark Side of Tantra: Gurudev on Pishach Sadhana and Spiritual Integr
 breadcrumbTitle: "Pishach Sadhana Explained"
 description: "Guru Shyama Khyapa exposes the terrifying world of Pishach and Karna Pishach sadhana—dangerous practices that destroy spiritual seekers. He reveals why these Tamasic rituals lead to spiritual destruction and why he chose Ma Tara instead."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pishach Sadhana, Karna Pishach, Tantra, Black Magic, Aghori, Kamakhya, Ma Tara, Spiritual Integrity"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 28

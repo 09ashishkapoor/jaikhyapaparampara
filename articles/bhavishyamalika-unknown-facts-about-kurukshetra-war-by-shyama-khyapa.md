@@ -4,7 +4,7 @@ title: "Bhavishyamalika: Unknown Facts About the Kurukshetra War by Shyama Khyap
 breadcrumbTitle: "Bhavishyamalika and Kurukshetra"
 description: "Gurudev Shyama Khyapa reveals unknown facts about the Kurukshetra War, prophecies from Bhavishya Malika, and warnings about the coming Kali Yuga disasters."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara"
-category: "Prophecies"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 8

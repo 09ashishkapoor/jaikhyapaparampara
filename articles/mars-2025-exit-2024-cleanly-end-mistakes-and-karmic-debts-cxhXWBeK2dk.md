@@ -4,7 +4,7 @@ title: "Mars in 2025: Exit 2024 Cleanly, End Mistakes, and Stop Pain from Multip
 breadcrumbTitle: "Mars 2025 Prep"
 description: "Shri Praveen Radhakrishna explains why Sanatana vision must be broader than calendar debates, why 2024 carries Shani’s account-settling energy, and how to enter 2025’s Mars influence only after clearing pending apologies, conflicts, and karmic debts."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Mars 2025, Shani, Shanishwara, karma, Kali Yuga, Sanatana Dharma, Gregorian calendar, Karma Bhoomi, Ma Adhya, Adya Kali, Sri Krishna, Mahadeva, Swarna Akarshana Bhairava, Rajasic life, Gandiva, Arjuna, Bhima, pain, problems, detachment, apologies, conflict resolution"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:36:00
 readingTime: 8

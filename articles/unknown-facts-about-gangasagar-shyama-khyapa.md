@@ -4,7 +4,7 @@ title: "Unknown Facts About Gangasagar and Nakshatra-Based Homa Rituals"
 breadcrumbTitle: "Gangasagar and Nakshatra Rituals"
 description: "Guru Shyama Khyapa reveals the true spiritual significance of Gangasagar pilgrimage, Nakshatra-based Homa rituals, and clarifies misconceptions about the year's inauspicious months."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gangasagar, Nakshatra, Homa, Revati, Pushya, Rohini, Spiritual Rituals, Black Magic, Ancestors"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 13:21:00
 readingTime: 6

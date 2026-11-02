@@ -4,7 +4,7 @@ title: "Kalabhairava Name 66: Kala-Guru-Vilioptangaya - Meaning and Significance
 breadcrumbTitle: "Kala-Guru-Vilioptangaya"
 description: "English meaning and spiritual significance of Kala-Guru-Vilioptangaya, the 66th name of Lord Kalabhairava, whose dark adornment expresses fierce majesty, mystery, and protective power."
 keywords: "Kala-Guru-Vilioptangaya, Kalabhairava name 66, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Guru-Vilioptangaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

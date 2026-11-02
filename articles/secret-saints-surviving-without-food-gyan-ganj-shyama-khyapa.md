@@ -4,7 +4,7 @@ title: "The Secret of Saints: Surviving Without Food for Thousands of Years"
 breadcrumbTitle: "Saints Surviving Without Food"
 description: "Guru Shyama Khyapa reveals the mystical secret of how saints in Gyan Ganj survive for thousands of years without eating, through the divine secretion called Khoron that flows from the Sahasrara chakra."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gyan Ganj, Saints, Fasting, Khoron, Sahasrara Chakra, Madhu, Secretion, Longevity, Bepai Ma, Babaji Maharaj, Pawhari Baba"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:52:00
 readingTime: 4

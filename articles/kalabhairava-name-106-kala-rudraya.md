@@ -4,7 +4,7 @@ title: "Kalabhairava Name 106: Kala-Rudraya - Meaning and Significance"
 breadcrumbTitle: "Kala-Rudraya"
 description: "English meaning and spiritual significance of Kala-Rudraya, the 106th name of Lord Kalabhairava, the fierce Rudra who dissolves worn-out forms through the power of time."
 keywords: "Kala-Rudraya, Kalabhairava name 106, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Rudraya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

@@ -4,7 +4,7 @@ title: "Gurudev's Statement: Why He Left the Hiranyagarbha Channel — Shyama Kh
 breadcrumbTitle: "Gurudev Explains Hiranyagarbha Channel Departure"
 description: "Guru Shyama Khyapa personally explains why he stopped providing content to the Hiranyagarbha YouTube channel — sharing the full story of betrayal, broken promises, and his decision to continue his mission on his own channel for the welfare of the people."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Hiranyagarbha, YouTube channel, personal statement, betrayal, Gupta Sadhak channel"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:43:00
 readingTime: 6

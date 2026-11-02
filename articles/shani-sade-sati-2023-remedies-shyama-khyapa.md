@@ -4,7 +4,7 @@ title: "Shani's Sade Sati 2023: Precautions and Remedies Explained"
 breadcrumbTitle: "Shani Sade Sati"
 description: "Guru Shyama Khyapa and astrologer Shantanu discuss Shani's Sade Sati, explaining the true meaning of Saturn's seven-and-a-half-year influence, misconceptions, and the scientific perspective on astrology."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shani, Sade Sati, Saturn, Astrology, Remedies, 2023"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:15:00
 readingTime: 4

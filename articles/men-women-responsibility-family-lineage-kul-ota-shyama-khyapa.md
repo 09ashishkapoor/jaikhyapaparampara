@@ -4,7 +4,7 @@ title: "Men and Women: Responsibility Toward Family Lineage and the Term Kul-ota
 breadcrumbTitle: "Men, Women, and Kul-ota Explained"
 description: "Guru Shyama Khyapa clarifies the term Kul-ota, explaining the distinct responsibilities of men and women in maintaining family lineage and the consequences of abandoning duty."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kul-ota, Family Lineage, Gender Roles, Spiritual Responsibility, Hindu Tradition"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:01:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "The Story of Jalandhar Shiva: Guru Shyama Khyapa on Brinda's Devotion an
 breadcrumbTitle: "Jalandhar Shiva and Brinda Story"
 description: "Guru Shyama Khyapa reveals how Jalandhara was born from Shiva's fire, how Brinda's devotion was broken by Vishnu's divine play, and how Tulsi and Peepal emerged from her ashes."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Jalandhar Shiva, Brinda, Tulsi, Vishnu, Puranas, Pativrata, Sacred Plants, Divine Play"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:53:00
 readingTime: 5

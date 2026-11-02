@@ -4,7 +4,7 @@ title: "Durga Sashti and the Nabapatrika: The Nine Sacred Plants"
 breadcrumbTitle: "Durga Sashti Nabapatrika"
 description: "Guru Shyama Khyapa explains the significance of Durga Sashti, the rituals of Nabapatrika, and the deeper meaning behind the divine family of Goddess Durga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Durga Puja, Sashti, Nabapatrika, Durga, Navratri, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:50:00
 readingTime: 2

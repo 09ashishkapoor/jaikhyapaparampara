@@ -4,7 +4,7 @@ title: "In Search of Initiation | From Switzerland to Rajpur's Shantikunj"
 breadcrumbTitle: "Initiation from Switzerland"
 description: "Narayani Chattopadhyay from Switzerland shares her spiritual journey to receive initiation from Gurudev. She describes her call to visit and the significance of her spiritual journey during the pandemic."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Switzerland, initiation, Narayani, spiritual journey"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:27:00
 readingTime: 10

@@ -4,7 +4,7 @@ title: "Visit to Tarapeeth: Gurudev's Memories of the Cremation Ground and Mothe
 breadcrumbTitle: "Tarapeeth Pilgrimage and Memories"
 description: "Guru Shyama Khyapa shares memories of Tarapith cremation ground—how it changed from forest to modern facility, the meaning of scattering puffed rice, and his 35 years of intense penance."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Tarapith, Mother Tara, Cremation Ground, Spiritual Penance, Tantra, Puffed Rice Ritual, Pret, Mundamali"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:32:00
 readingTime: 9

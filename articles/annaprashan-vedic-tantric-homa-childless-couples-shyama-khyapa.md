@@ -4,7 +4,7 @@ title: "Annaprashan and Spiritual Healing: Vedic-Tantric Methods for Childless C
 breadcrumbTitle: "Annaprashan Ceremony and Spiritual Healing"
 description: "Guru Shyama Khyapa explains the Annaprashan (first rice-eating ceremony) for children born through divine blessing, and discusses the combination of Vedic and Tantric methods for spiritual healing."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Annaprashan, Vedic Tantric methods, Homa fire ritual, Maha Mrityunjaya, childless couples, Durgaprasanna Paramhansa, Bamdeb Baba"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:41:00
 readingTime: 5

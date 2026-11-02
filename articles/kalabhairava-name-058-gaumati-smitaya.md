@@ -4,7 +4,7 @@ title: "Kalabhairava Name 58: Gaumati-Smitaya - Meaning and Significance"
 breadcrumbTitle: "Gaumati-Smitaya"
 description: "English meaning and spiritual significance of Gaumati-Smitaya, the 58th name of Lord Kalabhairava, whose gentle smile reveals serene wisdom and benevolent grace."
 keywords: "Gaumati-Smitaya, Kalabhairava name 58, 108 names of Kalabhairava, Kalabhairava namavali meaning, Gaumati-Smitaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 65: Kama-Bhedanaya - Meaning and Significance"
 breadcrumbTitle: "Kama-Bhedanaya"
 description: "English meaning and spiritual significance of Kama-Bhedanaya, the 65th name of Lord Kalabhairava, who pierces desire and helps the seeker overcome lust and attachment."
 keywords: "Kama-Bhedanaya, Kalabhairava name 65, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kama-Bhedanaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

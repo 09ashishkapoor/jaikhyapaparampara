@@ -4,7 +4,7 @@ title: "Bhairava & Bhairavi Sadhana: For Women, Unmarried Women, Married Men, an
 breadcrumbTitle: "Bhairava & Bhairavi Sadhana"
 description: "Shri Praveen Radhakrishna addresses women’s most common doubts about menstruation and eligibility in Bhairava Sadhana, explaining the body as a *Yantra* and offering a practical way for unmarried women to stabilize Bhairava Tattva through the ovulation cycle and Swarna Akarshana Bhairava."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Bhairavi, Maa Adya Kali, menstruation, women in sadhana, ovulation, testosterone, Shiva Linga, Nandishwara, Kangayam bull, Swarna Akarshana Bhairava, procedural collapse, Fifth Veda, Brahma, Agamas, Moon cycle, Pournami, Surya Deva"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:30:00
 readingTime: 7

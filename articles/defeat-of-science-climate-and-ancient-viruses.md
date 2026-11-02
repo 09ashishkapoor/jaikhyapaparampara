@@ -4,7 +4,7 @@ title: "The Defeat of Science: 2024 as a Year of Death—Climate Crisis and Emer
 breadcrumbTitle: "Defeat of Science"
 description: "In a profound discussion featuring a climate expert (Kar Babu) and a medical doctor from Uttarakhand, Guru Shyama Khyapa explores why 2024 is termed a 'year of death,' the role of climate change, vaccine realities, and how ancient viruses trapped beneath glaciers are now emerging."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Climate Change, 2024 Prophecy, Ancient Viruses, COVID-19, Medical Science, Environmental Crisis, Immunity, Vaccination"
-category: "Prophecy & Science"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 40

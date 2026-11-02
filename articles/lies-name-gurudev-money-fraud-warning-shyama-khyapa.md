@@ -4,7 +4,7 @@ title: "Lies in Gurudev's Name: Warning Against Money Fraud and Exploitation"
 breadcrumbTitle: "Lies Name Gurudev Fraud"
 description: "Guru Shyama Khyapa issues a strong warning against fraudsters using his name to collect money, clarifying that all services at Shanti Kunj are completely free."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Fraud, Money, Warning, Shanti Kunj, Free Service, Scam, Exploitation, Badkulla, Hiranyagarbha"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:18:00
 readingTime: 2

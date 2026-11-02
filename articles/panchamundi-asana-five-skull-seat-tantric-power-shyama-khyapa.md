@@ -4,7 +4,7 @@ title: "Panchamundi Asana: Guru Shyama Khyapa on the Five-Skull Seat of Tantric 
 breadcrumbTitle: "Panchamundi Asana Five Skull Seat Tantra"
 description: "Guru Shyama Khyapa explains the Panchamundi Asana—the five-skull seat used in Tantric practice—describing the five specific types of skulls, the vital process of awakening the seat, the immense dangers if misused, and the profound relationship between power and consciousness in Tantra."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Panchamundi Asana, five skull seat, Tantra Sadhana, Kamakhya, Chandala head, Amavasya, Tantric power"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:35:00
 readingTime: 7

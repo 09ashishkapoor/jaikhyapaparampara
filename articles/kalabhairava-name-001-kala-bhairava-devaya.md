@@ -4,7 +4,7 @@ title: "Kalabhairava Name 1: Kala-Bhairava-Devaya - Meaning and Significance"
 breadcrumbTitle: "Kala-Bhairava-Devaya"
 description: "English meaning and spiritual significance of Kala-Bhairava-Devaya, the 1st name of Lord Kalabhairava: the divine Lord who rules time and stands beyond it."
 keywords: "Kala-Bhairava-Devaya, Kalabhairava name 1, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Bhairava-Devaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

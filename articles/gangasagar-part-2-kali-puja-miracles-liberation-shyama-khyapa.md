@@ -4,7 +4,7 @@ title: "Ganga Sagar Part 2: Guru Shyama Khyapa on Kali Puja Miracles and Liberat
 breadcrumbTitle: "Ganga Sagar Part 2 - Kali Puja Miracles"
 description: "Guru Shyama Khyapa shares 22 years of performing Kali Puja at Ganga Sagar, miraculous incidents with the living Goddess, and Mahadev's mantra that grants liberation to sinners."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Ganga Sagar, Kali Puja, Kapil Muni, Bhagirath, Liberation, Miracles, Bhadrakali"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:48:00
 readingTime: 8

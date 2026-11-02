@@ -4,7 +4,7 @@ title: "Discipleship: Delhi Disciple, Kankhal Ashram and Tara Temple — Guru Sh
 breadcrumbTitle: "Discipleship Kankhal Tara Temple"
 description: "A disciple from Delhi shares his journey: initiation, Malaysia, visa miracle, and building a Tara temple in Kankhal by Gurudev's grace."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Discipleship, Kankhal, Tara temple, Diksha, Shakti Bindu, Shantikunja"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:12:00
 readingTime: 5

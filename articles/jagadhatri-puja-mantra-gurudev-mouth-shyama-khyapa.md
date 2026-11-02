@@ -4,7 +4,7 @@ title: "Jagadhatri Puja Mantra: From the Mouth of Gurudev Himself"
 breadcrumbTitle: "Jagadhatri Puja Mantra"
 description: "Gurudev Shyama Khyapa recites the sacred Jagadhatri Puja mantra from the Chandi Path, explains her Tantric form, and provides a health update about his catheter and upcoming surgery."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jagadhatri, Jagaddhatri, Puja, Mantra, Chandi Path, Durga, Chhath Puja, health update, catheter"
-category: "Rituals & Yagyas"
+category: "Rituals, Worship and Festivals"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:46:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Discovery of Mahagauri Idol from Puri Sea and Kojagari Lakshmi Puja Rule
 breadcrumbTitle: "Mahagauri & Lakshmi Puja"
 description: "Guru Shyama Khyapa shares the miraculous story of discovering a Mahagauri idol from the Puri sea and explains the true meaning of Kojagari Lakshmi Puja - 'Who is awake?' - along with important ritual rules."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Mahagauri, Lakshmi Puja, Kojagari, Puri, Discovery, Idol, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:48:00
 readingTime: 2

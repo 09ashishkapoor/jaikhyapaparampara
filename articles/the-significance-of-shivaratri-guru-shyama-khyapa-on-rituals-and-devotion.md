@@ -4,7 +4,7 @@ title: "The Significance of Shivaratri: Guru Shyama Khyapa on Rituals and Devoti
 breadcrumbTitle: "Shivaratri Significance"
 description: "Guru Shyama Khyapa explains the true meaning of Shivaratri, the four prahars of worship, the scientific symbolism behind Mahadev's appearance, and the traditional rules for this sacred vow."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shivaratri, Mahadev, Tantra, Shiva Puja, Spiritual Vows, Hindu Traditions, Guru Shyama Khyapa"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 9

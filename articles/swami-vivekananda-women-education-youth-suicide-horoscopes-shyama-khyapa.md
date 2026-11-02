@@ -4,7 +4,7 @@ title: "Swami Vivekananda on Women, Youth Suicide, and Horoscopes: Guru Shyama K
 breadcrumbTitle: "Vivekananda on Women and Society"
 description: "Guru Shyama Khyapa discusses Swami Vivekananda's vision for women's education, the rising suicide tendency among youth, his skepticism of horoscopes, and the profound meaning of Ardhanarishvara."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Swami Vivekananda, Women Education, Youth Suicide, Horoscopes, Astrology, Ardhanarishvara, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:09:00
 readingTime: 3

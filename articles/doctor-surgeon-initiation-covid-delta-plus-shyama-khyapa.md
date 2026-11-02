@@ -4,7 +4,7 @@ title: "Doctor Surgeon's Initiation: Spiritual Connection and COVID-19 Delta Plu
 breadcrumbTitle: "Doctor's Initiation Experience"
 description: "A surgeon from Jalpaiguri shares his spiritual journey leading to initiation from Guru Shyama Khyapa, alongside a medical perspective on the Delta Plus variant and COVID protocols."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Doctor, Surgeon, Initiation, COVID-19, Delta Plus, Vaccination, Spiritual Path"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:04:00
 readingTime: 3

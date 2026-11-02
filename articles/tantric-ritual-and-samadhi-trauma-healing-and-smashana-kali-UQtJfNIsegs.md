@@ -4,7 +4,7 @@ title: "Tantric Ritual and Samadhi: Trauma Healing and Smashana Kali"
 breadcrumbTitle: "Samadhi, Trauma Healing, Smashana Kali"
 description: "Shri Praveen Radhakrishna maps the seven stages of Samadhi through the five elements — from the Water stage of raw attachment all the way to Vira Bhava and Moksha — and explains how trauma must be healed before higher Samadhi is accessible."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Samadhi, Smashana Kali, Ma Kali, Panchabhutas, Vira Bhava, Karan Sharira, Moksha, Sri Ramakrishna Paramahamsa, trauma healing, stages of Samadhi"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:00:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "The Secret Form of Mother Tara: Devi Pratyangira and the Ritual of Fire"
 breadcrumbTitle: "Devi Pratyangira: The Secret Form"
 description: "Guru Shyama Khyapa reveals the esoteric nature of Goddess Pratyangira, a terrifying yet powerful form of Mother Tara, and the strict discipline required for her worship."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Devi Pratyangira, Mother Tara, Tantra, Fire Sacrifice, Hom, Mahamrityunjaya Yagna, Naag Jata, Dashamahavidya, Spiritual Discipline"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:28:00
 readingTime: 7

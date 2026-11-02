@@ -4,7 +4,7 @@ title: "Gurudev Serves a Patient in Asansol: A Healing Testimony"
 breadcrumbTitle: "Gurudev Serves Patient in Asansol"
 description: "A young man shares how his brother was healed by Gurudev Shyama Khyapa after doctors gave up hope, and now brings his bedridden maternal uncle with complete faith and hope."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Asansol, Healing, Testimony, Medical Miracle, Divine Grace, Spiritual Healing"
-category: "Healing Testimonies"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:43:00
 readingTime: 2

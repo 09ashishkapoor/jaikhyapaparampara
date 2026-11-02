@@ -4,7 +4,7 @@ title: "True Sadhak Born Once in Ten Million: Gurudev on Initiation, Ego, and En
 breadcrumbTitle: "True Sadhak and Initiation Path"
 description: "Guru Shyama Khyapa reveals that a true Sadhak is born once in ten million, explains why most fail after initiation—ego and envy—and why one must choose a Guru carefully and never change."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Sadhak, Initiation, Deeksha, Guru, Ego, Envy, Spiritual Practice, Kamakhya, Himalayas, Bamadev Baba"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:41:00
 readingTime: 8

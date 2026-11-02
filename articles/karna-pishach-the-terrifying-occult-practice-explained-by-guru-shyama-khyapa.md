@@ -4,7 +4,7 @@ title: "Karna Pishach: The Terrifying Occult Practice of Spirit Possession Expla
 breadcrumbTitle: "Karna Pishach – Spirit Possession Occult"
 description: "Guru Shyama Khyapa provides a complete, firsthand account of Karna Pishach sadhana—an extremely dangerous, low-level occult practice where spirits whisper into the ear. Discover the horrifying rituals involved, including crematorium initiations, corpse consumption, blood sacrifice, and why this practice ultimately leads to destruction at the hands of the Pishachs themselves."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Karna Pishach, Ear Spirit, Pishach Sadhana, Occult Practices, Tamasic Sadhana, Low-Level Tantra, Crematorium Rituals, Corpse Sadhana, Spirit Possession, Dangerous Occult, Pishach Siddha, Spiritual Warnings, Tarapith Traditions, Dark Practices, Spiritual Danger"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 18

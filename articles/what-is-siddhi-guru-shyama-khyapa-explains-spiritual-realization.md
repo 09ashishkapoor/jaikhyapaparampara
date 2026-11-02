@@ -4,7 +4,7 @@ title: "What is Siddhi? Guru Shyama Khyapa Explains Spiritual Realization"
 breadcrumbTitle: "What is Siddhi?"
 description: "Guru Shyama Khyapa delves into the three Gunas (Sattva, Rajas, Tamas) and explains the true meaning of Siddhi (spiritual realization). He shares insights on how spiritual power is attained through selfless service and endurance, drawing examples from great saints like Shirdi Sai Baba and his own experiences."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Siddhi, Sattva, Rajas, Tamas, Gunas, Spiritual Realization, Shirdi Sai Baba, Bamanando Khepa, Mahashashan, Rajpur Crematorium, Spiritual Practice, Selfless Service, Endurance, Divine Grace"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 9

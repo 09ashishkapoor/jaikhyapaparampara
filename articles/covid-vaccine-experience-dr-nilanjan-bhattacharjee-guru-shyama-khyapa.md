@@ -4,7 +4,7 @@ title: "Guru Shyama Khyapa and Dr. Nilanjan Bhattacharjee Discuss the COVID-19 V
 breadcrumbTitle: "COVID-19 Vaccine Experience with Doctor"
 description: "A conversation between Guru Shyama Khyapa and Dr. Nilanjan Bhattacharjee about the COVID-19 vaccine development, safety profiles, efficacy, and personal experience."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, COVID-19, Vaccine, Dr. Nilanjan Bhattacharjee, Health, Pandemic, Immunity, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:26:00
 readingTime: 3

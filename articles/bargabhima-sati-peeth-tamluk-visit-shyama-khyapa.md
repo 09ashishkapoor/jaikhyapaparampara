@@ -4,7 +4,7 @@ title: "Bargabhima Sati Peeth: A Visit to Tamluk's Sacred Temple with Gupta Sadh
 breadcrumbTitle: "Bargabhima Sati Peeth Tamluk Visit"
 description: "Gupta Sadhak Shyama Khyapa visits the Bargabhima Temple in Tamluk, one of the 51 Shakti Peethas, and explains the true purpose of Shakti Peethas, the Saptasoti Kunda, and the legend of Kalapahar."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bargabhima, Sati Peeth, Tamluk, Shakti Peetha, Kalapahar, Saptasoti Kunda, Borgabhima, 51 Shakti Peethas, Tantra"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:21:00
 readingTime: 4

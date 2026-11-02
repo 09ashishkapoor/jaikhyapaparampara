@@ -4,7 +4,7 @@ title: "22 Years with Gurudev: Bablu De's Testimony of Miracles and Friendship"
 breadcrumbTitle: "22 Years with Gurudev - Bablu De's Story"
 description: "Bablu De, a companion of Guru Shyama Khyapa for over 22 years, shares personal stories of miracles, the early days at the cremation ground, and the deep friendship that transcends the guru-disciple relationship."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Bablu De, 22 Years, Testimony, Miracles, Friendship, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:10:00
 readingTime: 4

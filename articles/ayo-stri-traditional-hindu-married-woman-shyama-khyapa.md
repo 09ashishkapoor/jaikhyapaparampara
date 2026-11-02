@@ -4,7 +4,7 @@ title: "Ayo-Stri: The Traditional Hindu Married Woman - Guru Shyama Khyapa's Tea
 breadcrumbTitle: "Ayo-Stri: Traditional Hindu Woman"
 description: "Guru Shyama Khyapa explains the importance of Ayo-Stri (married Hindu women) in rituals, the traditional symbols like Shakha, Pola, Sindoor, and their significance for family welfare."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Ayo-Stri, Married Women, Shakha, Pola, Sindoor, Alta, Hindu Traditions, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:44:00
 readingTime: 7

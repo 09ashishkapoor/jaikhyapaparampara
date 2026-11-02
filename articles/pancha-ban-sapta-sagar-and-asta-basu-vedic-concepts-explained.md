@@ -4,7 +4,7 @@ title: "Pancha Ban, Sapta Sagar and Asta Basu: Vedic Concepts Explained by Guru 
 breadcrumbTitle: "Vedic Concepts"
 description: "Guru Shyama Khyapa explains traditional Bengali counting and Vedic concepts including the five senses, seven seas, thirteen rivers, and the eight Vasus that form the foundation of spiritual and ritualistic understanding."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pancha Ban, Sapta Sagar, Asta Basu, Five Senses, Seven Seas, Eight Vasus, Vedic Concepts"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 12

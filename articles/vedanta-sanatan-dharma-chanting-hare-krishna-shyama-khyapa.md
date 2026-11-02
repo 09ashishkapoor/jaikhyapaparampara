@@ -4,7 +4,7 @@ title: "Vedanta and Sanatan Dharma: The Power of Chanting in Kali Yuga"
 breadcrumbTitle: "Vedanta Sanatan Dharma"
 description: "Shama Khyapa Baba discusses Vedanta, the Vedas, and the importance of Sanatan Dharma. He explains the significance of chanting Hare Krishna in Kali Yuga and the eternal nature of Hindu dharma."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Vedanta, Vedas, Sanatan Dharma, Hare Krishna, Kali Yuga, Chanting"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:17:00
 readingTime: 4

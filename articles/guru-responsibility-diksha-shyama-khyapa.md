@@ -4,7 +4,7 @@ title: "The Essence of Diksha and Guru-Disciple Responsibility"
 breadcrumbTitle: "Diksha & Guru Responsibility"
 description: "Explore the meaning of Diksha (initiation) and the sacred bond between Guru and disciple as explained by the mystic Guru Baba Shyama Khyapa."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, Diksha, Initiation, Guru, Disciple, Responsibility, Spirituality, Sadhana, Japa, Tarapith, Shantikunja"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-26
 readingTime: 12

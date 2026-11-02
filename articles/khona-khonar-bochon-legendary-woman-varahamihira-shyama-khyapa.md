@@ -4,7 +4,7 @@ title: "Khona and Khonar Bochon: The Legendary Woman Who Outshone Varahamihira"
 breadcrumbTitle: "Khona Khonar Bochon"
 description: "Guru Shyama Khyapa narrates the story of Khona—the brilliant astronomer, tenth gem of Vikramaditya's court, her sayings for farmers, and why the lizard's tik-tik means truth."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Khona, Khonar Bochon, Varahamihira, Vikramaditya, Lilavati"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:08:00
 readingTime: 6

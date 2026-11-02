@@ -4,7 +4,7 @@ title: "Sapta Sati and Sati Peethas: Sacred Sites of Spiritual Power - Part Two"
 breadcrumbTitle: "Sati Peethas Sacred Sites Power"
 description: "Guru Shyama Khyapa reveals the mysteries of the 51 Sati Peethas, the story of Kamakhya's temple construction, and the spiritual discipline required to truly 'hold' a sacred site."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Sati Peethas, 51 Peethas, Kamakhya, Sati, Shakti Peetha, spiritual energy, Sadhak, Tarapith, Arthahas, Bagula, Bakreshwar, Kankalitala, Cooch Behar, Vishwakarma"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:18:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "Devotee from Bangladesh Visits Shantikunj: Guru Shyama Khyapa on Service
 breadcrumbTitle: "Bangladesh Devotee Shantikunj Service as Religion"
 description: "A devotee named Suman from Bangladesh visits Guru Shyama Khyapa at Shantikunj (Raajpul Cemetery) and receives guidance on the highest spiritual practice: selfless service. The Guru explains that serving humanity without expectation of money or fame is the true path to God."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bangladesh devotee, Shantikunj, service humanity, Nirvikalpa service, Diksha, Maha Mrityunjaya Yagna, Nikumbhila Yagna"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:36:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "The Unknown Bamdeb Part 3: Bama Khepa's Temper, Mother Tara's Slap, and 
 breadcrumbTitle: "Unknown Bamdeb Part 3 - Stories of Bama Khepa"
 description: "Guru Shyama Khyapa shares profound stories about his deity Bama Khepa—his confrontation with Mother Tara that led to a thunderbolt striking the temple, and Gurudev's own miraculous experiences with spiritual healing and prophecy."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Bama Khepa, Bamdeb Baba, Mother Tara, Tarapith, Thunderbolt, Kriya Yoga, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:13:00
 readingTime: 5

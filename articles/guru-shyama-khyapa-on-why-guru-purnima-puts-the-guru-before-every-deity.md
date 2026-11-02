@@ -4,7 +4,7 @@ title: "Guru Shyama Khyapa on Why Guru Purnima Puts the Guru Before Every Deity"
 breadcrumbTitle: "Guru Purnima and Serving the Guru"
 description: "During the Guru Purnima puja, attendants manage every detail while Guru Shyama Khyapa reminds devotees that no deity ritual should continue without first honoring the Guru."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Guru Purnima, Guru Puja, Tara, Guru Worship Protocol, Khyapa Parampara, Devotion, Gurudev"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:55:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Bhadra Kali Beeja: The British, the Kohinoor, and How Kali Operates"
 breadcrumbTitle: "Bhadra Kali Beeja and the Kohinoor"
 description: "Shri Praveen Radhakrishna explains Bhadrakali — the first of four Kali forms — her iconography, her mechanism of giving wealth from future births, and the extraordinary historical example of Britain, the Kohinoor Diamond, and the divine play of Maa Kali."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Bhadrakali, Adya Kali, Kali Sadhana, Kohinoor, Khadga, Bhadrakali Beeja Mantra, Dakshina Kali, Aghora Kali, Smashan Kali"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:29:00
 readingTime: 7

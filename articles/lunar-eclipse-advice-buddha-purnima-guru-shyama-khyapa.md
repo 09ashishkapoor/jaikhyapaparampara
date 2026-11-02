@@ -4,7 +4,7 @@ title: "Gurudev's Advice During the Lunar Eclipse: Buddha Purnima and Cosmic Ali
 breadcrumbTitle: "Lunar Eclipse Advice and Buddha Purnima"
 description: "Guru Shyama Khyapa provides guidance for observing the lunar eclipse coinciding with Buddha Purnima, explaining the ritual purification practices, the inauspicious time period, and spiritual precautions to take."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, lunar eclipse, Buddha Purnima, Bishuddha Siddhanta, Panchamrita, ritual purification, Cyclone Yaas"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:29:00
 readingTime: 7

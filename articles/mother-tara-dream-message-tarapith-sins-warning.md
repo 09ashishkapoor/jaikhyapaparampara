@@ -4,7 +4,7 @@ title: "Mother Tara's Dream Message: Guru Shyama Khyapa's Warning on the Sins at
 breadcrumbTitle: "Mother Tara's Dream Warning"
 description: "Guru Shyama Khyapa validates a devotee's dream message from Mother Tara, warning of the spiritual consequences of the misconduct and greed currently occurring at the sacred site of Tarapith."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mother Tara, Tarapith, Dream Message, Bama Khepa, Tantra Peeth, Garbha Griha, Spiritual Sins, Pralay, COVID-19"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:10:00
 readingTime: 5

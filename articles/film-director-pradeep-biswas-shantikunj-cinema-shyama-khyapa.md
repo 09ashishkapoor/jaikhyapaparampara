@@ -4,7 +4,7 @@ title: "Film Director Pradeep Biswas at Shantikunj: Bengali Cinema and 2021 Warn
 breadcrumbTitle: "Director Pradeep Biswas at Shantikunj"
 description: "Film director Pradeep Biswas visits Shantikunj and discusses with Guru Shyama Khyapa about the decline of Bengali cinema, professional jealousy in the industry, and Gurudev's 2021 predictions."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Pradeep Biswas, Bengali Cinema, Film Director, Tollywood, Shantikunj, Cinema Industry, Professional Jealousy, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:01:00
 readingTime: 5

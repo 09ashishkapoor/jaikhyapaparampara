@@ -4,7 +4,7 @@ title: "The Spiritual and Medicinal Significance of Durba Grass: Guru Shyama Khy
 breadcrumbTitle: "Significance of Durba Grass"
 description: "Guru Shyama Khyapa explains the profound religious, medicinal, and spiritual importance of Durba grass in Hindu rituals, including its connection to Durvasa Muni and its use in sacrifices."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Durba grass, Bermuda grass, Hindu rituals, Durvasa Muni, Spiritual offerings, Arghya, Durga Puja"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:05:00
 readingTime: 4

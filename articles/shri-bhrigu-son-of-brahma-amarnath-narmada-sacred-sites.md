@@ -4,7 +4,7 @@ title: "Shri Bhrigu: The Son of Brahma and His Sacred Journey from Pahalgam to N
 breadcrumbTitle: "Shri Bhrigu: Ancient Sage"
 description: "Guru Shyama Khyapa reveals the biography of Shri Bhrigu, the son of Brahma—his birth in Amravati (Pahalgam), his cave near Amarnath, his marriage to Ruchira, his encounter with the gods, and his final abode at the Narmada River where Bhrigu Kund and Bhrigu Kamandal remain as sacred sites."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Shri Bhrigu, Bhrigu Kshetra, Amarnath, Narmada, Reva, Bhrigu Kund, Bhrigu Kamandal, Saptarishis, Spiritual Journey, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:05:00
 readingTime: 22

@@ -4,7 +4,7 @@ title: "The Aftermath of Kurukhetra: The End of the Pandavas and Krishna's Divin
 breadcrumbTitle: "Aftermath of Kurukhetra"
 description: "Guru Shyama Khyapa narrates the final journey of the Pandavas toward heaven and the events leading to the destruction of the Yadu dynasty and Krishna's departure from Earth."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kurukshetra Aftermath, Pandavas, Krishna, Gandhari's Curse, Yadu Dynasty, Musal Parva, Dwarka, Kedarnath, Lord Jagannath, Puri, Nabhi Brahma"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:23:00
 readingTime: 5

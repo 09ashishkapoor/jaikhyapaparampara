@@ -4,7 +4,7 @@ title: "Crematorium Bhairav: A Spiritual Dialogue Between Guru Shyama Khyapa and
 breadcrumbTitle: "Crematorium Bhairav"
 description: "A profound spiritual conversation between Guru Shyama Khyapa and a fellow Maha Bhairav, discussing the Viroja Homa, the true essence of Tantra, and the path of surrender to the Divine Mother."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Viroja Homa, Tantra, Spiritual Path, Divine Mother, Kali, Bhairav, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 12

@@ -4,7 +4,7 @@ title: "A Memorable Evening at Shantikunj: Guru Shyama Khyapa on Devotion and Se
 breadcrumbTitle: "Memorable Evening at Shantikunj"
 description: "Guru Shyama Khyapa shares why he washed a disciple's feet, helped a snake-bite victim, and teaches that ego is the root of all downfall in this special evening at Shantikunj."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Shantikunj, Devotion, Sankirtan, Guru-Disciple, Ego, Service, Snake Bite Healing"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:43:00
 readingTime: 6

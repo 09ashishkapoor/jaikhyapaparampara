@@ -4,7 +4,7 @@ title: "Samadhi: Guru Shyama Khyapa Explains Birth, Death, and the Mystical Stat
 breadcrumbTitle: "Birth Death and Samadhi Explained"
 description: "Guru Shyama Khyapa gives a profound discourse on the difference between ordinary death and samadhi, the immortal sages of Ganganj, Bhav-Samadhi, Salil-Samadhi, and the mystery of the soul leaving and returning to the body."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Samadhi, Birth Death, Ganganj, Bhav Samadhi, Salil Samadhi, Soul, Subtle Body, Ramakrishna, Immortal Sages"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 07:00:00
 readingTime: 7

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 57: Gunabha-Kirna-Gandhara-Sancarane - Meaning and Sig
 breadcrumbTitle: "Gunabha-Kirna-Gandhara-Sancarane"
 description: "English meaning and spiritual significance of Gunabha-Kirna-Gandhara-Sancarane, the 57th name of Lord Kalabhairava, whose presence moves through the gunas and the subtle fragrance of creation."
 keywords: "Gunabha-Kirna-Gandhara-Sancarane, Kalabhairava name 57, 108 names of Kalabhairava, Kalabhairava namavali meaning, Gunabha-Kirna-Gandhara-Sancarane meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

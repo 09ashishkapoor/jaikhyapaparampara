@@ -4,7 +4,7 @@ title: "World War III and Biodiversity Extinction: Guru Shyama Khyapa's Warning"
 breadcrumbTitle: "World War III Biodiversity Extinction Warning"
 description: "Guru Shyama Khyapa discusses the Russia-Ukraine war, the threat of nuclear conflict, environmental devastation, and the approaching end times as predicted in the Bhavishya Malika."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, World War III, Russia-Ukraine War, Nuclear War, Biodiversity Extinction, Environmental Crisis, Putin, Atomic Strike, Kalki Avatar"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:55:00
 readingTime: 6

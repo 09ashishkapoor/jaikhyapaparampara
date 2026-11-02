@@ -4,7 +4,7 @@ title: "Pagla Baba's Journey: Current Location and Devotee Support in Monigram"
 breadcrumbTitle: "Pagla Baba Location Monigram"
 description: "Guru Shyama Khyapa updates on Pagla Baba's ongoing pilgrimage journey for world peace, describing his current location in Monigram and the overwhelming love and support he is receiving from devotees along the way."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pagla Baba, Pilgrimage, World Peace, Monigram, Murshidabad, Kamakhya, Bharat Sevashram Sangha, Yatra, Spiritual Journey"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 10:01:00
 readingTime: 7

@@ -4,7 +4,7 @@ title: "Feeling Lonely? Guru Shyama Khyapa on Overcoming Loneliness Through Dhar
 breadcrumbTitle: "Feeling Lonely - Solution"
 description: "Guru Shyama Khyapa explains how broken joint families cause loneliness, shares stories of grieving parents finding peace through pilgrimage and service, and says God is the only true companion."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Loneliness, Joint Family, Dharma, Selfless Service, Suicide Prevention, Pilgrimage, Kedarnath, Amarnath, Pushkar, God"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:53:00
 readingTime: 5

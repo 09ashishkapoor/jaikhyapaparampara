@@ -4,7 +4,7 @@ title: "Kalabhairava Name 13: Kalanemi-Ghne - Meaning and Significance"
 breadcrumbTitle: "Kalanemi-Ghne"
 description: "English meaning and spiritual significance of Kalanemi-Ghne, the 13th name of Lord Kalabhairava: destroyer of Kalanemi and remover of obstacles."
 keywords: "Kalanemi-Ghne, Kalabhairava name 13, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kalanemi-Ghne meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

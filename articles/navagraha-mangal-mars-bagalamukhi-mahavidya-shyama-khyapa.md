@@ -4,7 +4,7 @@ title: "Navagraha Mangal (Mars) and Mahavidya Bagalamukhi - Guru Shyama Khyapa"
 breadcrumbTitle: "Mars and Bagalamukhi"
 description: "Guru Shyama Khyapa explains the connection between Mars (Mangal) and Mother Bagalamukhi, the subduer of enemies, along with remedies for malefic Mars and the importance of auspicious practices."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Mangal, Mars, Bagalamukhi, Mahavidya, Navagraha, red coral, Stambhan, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:46:00
 readingTime: 5

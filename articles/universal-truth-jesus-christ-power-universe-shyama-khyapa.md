@@ -4,7 +4,7 @@ title: "Universal Truth: Jesus Christ and the Power of the Universe - Guru Shyam
 breadcrumbTitle: "Universal Truth and the Universe"
 description: "Guru Shyama Khyapa explains the concept of Chirantan Satya (Universal Truth), the role of Jesus Christ in governing the cosmos, and a miraculous story of healing through faith in the Universal."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Universal Truth, Chirantan Satya, Dhruva Satya, Jesus Christ, cosmic power, divine healing, faith miracle, third eye, spiritual vision"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:14:00
 readingTime: 7

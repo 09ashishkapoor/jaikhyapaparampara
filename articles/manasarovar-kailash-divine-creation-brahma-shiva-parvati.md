@@ -4,7 +4,7 @@ title: "Manasarovar and Kailash: The Divine Creation of Brahma and Sacred Abode 
 breadcrumbTitle: "Manasarovar Kailash Sacred Mysteries Revealed"
 description: "Guru Shyama Khyapa reveals the spiritual significance of Manasarovar Lake and Mount Kailash—Brahma's creation for the gods, the Shakti Peetha where Sati's hand fell, the divine lights seen at dawn, and the legend of the royal swans who are Shiva and Parvati in disguise."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Manasarovar, Kailash, Brahma, Shiva, Parvati, Rakshas Tal, Yam Dwar, Shakti Peetha, Dakshayani, Buddhist pilgrimage, Raj Hansa, Tibet, Nathu La"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:23:00
 readingTime: 7

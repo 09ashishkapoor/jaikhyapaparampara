@@ -4,7 +4,7 @@ title: "Pains and Suffering in Sadhana: The True Meaning of Karma Yoga"
 breadcrumbTitle: "Suffering in Sadhana and Karma Yoga"
 description: "Shri Praveen Radhakrishna explains the depth of Karma Yoga through the stories of Murugan's sacrifice, Karna's unfulfilled purpose, and two real-life devotees — revealing that your suffering is a code you are meant to solve for thousands."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Karma Yoga, suffering in Sadhana, Murugan, Kartikeya, Karna, Gyana Phala, Adya Kali, Kaliputra, Sampradaya"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:56:00
 readingTime: 9

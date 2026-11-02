@@ -4,7 +4,7 @@ title: "Sri Ramakrishna Paramhansa Dev: Divine Insights by Guru Baba Shyama Khya
 breadcrumbTitle: "Ramakrishna Dev"
 description: "A discussion on the life, spiritual practices, and gurus of Shri Shri Ramakrishna Paramhansa Dev by Guru Baba Shyama Khyapa."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Ramakrishna Paramhansa Dev, Guru Baba Shyama Khyapa, Vivekananda, Tantra, Dakshineshwar, Bhairabi Maa, Totapuri, spiritual practices"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27
 readingTime: 15

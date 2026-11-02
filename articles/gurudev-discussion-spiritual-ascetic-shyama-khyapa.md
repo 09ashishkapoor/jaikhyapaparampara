@@ -4,7 +4,7 @@ title: "Gurudev's Discussion with Spiritual Ascetic Shyama Khyapa"
 breadcrumbTitle: "Discussion with Shyama Khyapa"
 description: "A disciple named Shama shares her spiritual experiences and miracles she's witnessed through her Guru, including divine protection and supernatural occurrences at the cremation ground."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shama, disciple, miracles, cremation ground, spiritual experiences"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:28:00
 readingTime: 4

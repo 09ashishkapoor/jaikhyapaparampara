@@ -4,7 +4,7 @@ title: "Special Homa on Full Moon for Human Welfare: Science Has Failed, Turn to
 breadcrumbTitle: "Purnima Homa for Human Welfare"
 description: "Guru Shyama Khyapa leads a special Purnima Homa with doctors Dr. Sujit Kar and Dr. Nilanjan Bhattacharya, declaring that science has failed against COVID-19 and the only remaining path is the divine. Vedic fire rituals are being performed daily for world welfare."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Purnima Homa, Fire Ritual, COVID-19, Human Welfare, Maha Mrityunjaya, Vedic Rituals, Spiritual Teachings"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:40:00
 readingTime: 5

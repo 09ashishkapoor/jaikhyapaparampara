@@ -4,7 +4,7 @@ title: "The Jar of Sins Is Full: Gurudev on the Pandemic and Corruption"
 breadcrumbTitle: "Jar of Sins and Pandemic"
 description: "Guru Shyama Khyapa responds to the COVID-19 pandemic declaration, corruption scandals, and the moral roots of suffering. He speaks about medical profiteering, spiritual consequences, and his predictions for the pandemic's decline."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, COVID-19, Pandemic, Corruption, Black Fungus, White Fungus, Chit Funds, Sarada, West Bengal, India, Biological War, Saturn Mars Alignment"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:59:02
 readingTime: 6

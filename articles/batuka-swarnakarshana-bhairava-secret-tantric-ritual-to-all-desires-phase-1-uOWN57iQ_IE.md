@@ -4,7 +4,7 @@ title: "Batuka Swarnakarshana Bhairava: The Secret Tantric Ritual for Desires (P
 breadcrumbTitle: "Swarnakarshana Bhairava (Phase 1)"
 description: "Shri Praveen Radhakrishna introduces Swarnakarshana Bhairava Sadhana as a lineage-deep path that cannot be rushed, offers cautionary guidance on Gurus and Diksha, and outlines the disciplined foundations of a desire-fulfillment practice rooted in Bhairava’s design-breaking Tantra."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Batuka Bhairava, Swarnakarshana Bhairava, Tantra, Diksha, Guru, Sampradaya, Grihastha, Niyama, Desires, Samudra Manthan, Asuric, Epigenetics, Pitru Dosha, Upadesha, Nama Japa, Maha Ganapati, Manasik Guru, Rajapalayam, White Dog"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:25:00
 readingTime: 8

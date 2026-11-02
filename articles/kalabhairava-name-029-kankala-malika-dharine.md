@@ -4,7 +4,7 @@ title: "Kalabhairava Name 29: Kankala-Malika-Dharine - Meaning and Significance"
 breadcrumbTitle: "Kankala-Malika-Dharine"
 description: "English meaning and spiritual significance of Kankala-Malika-Dharine, the 29th name of Lord Kalabhairava: wearing a garland of skulls that signifies mastery over death and ego."
 keywords: "Kankala-Malika-Dharine, Kalabhairava name 29, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kankala-Malika-Dharine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

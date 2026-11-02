@@ -4,7 +4,7 @@ title: "Kalabhairava Name 94: Karma-Kausalya-Santosine - Meaning and Significanc
 breadcrumbTitle: "Karma-Kausalya-Santosine"
 description: "English meaning and spiritual significance of Karma-Kausalya-Santosine, the 94th name of Lord Kalabhairava, revered as the one who delights in skillful action performed in freedom."
 keywords: "Karma-Kausalya-Santosine, Kalabhairava name 94, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karma-Kausalya-Santosine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

@@ -4,7 +4,7 @@ title: "Homam for World Peace at Shantikunj: Gurudev's 2021 Predictions and Reme
 breadcrumbTitle: "World Peace Homam and 2021 Warnings"
 description: "Guru Shyama Khyapa initiates a daily homam (sacred fire ritual) for world welfare in response to his terrifying 2021 predictions, explaining the spiritual efforts being made to protect humanity."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Biswasanti, world peace, homam, 2021 predictions, Chamunda, Nostradamus, spiritual remedy"
-category: "Rituals & Yagyas"
+category: "Rituals, Worship and Festivals"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:32:00
 readingTime: 6

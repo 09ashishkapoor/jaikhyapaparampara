@@ -4,7 +4,7 @@ title: "Annual Festival of Mother Tara: Chokkhudaan and Preparations"
 breadcrumbTitle: "Annual Festival Mother Tara Chokkhudaan"
 description: "Preparations for the annual festival of Mother Tara at Shantikunj, featuring Chokkhudaan (ritual of painting the deity's eyes), Homa, and devotional music."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, annual festival, Mother Tara, Chokkhudaan, Homa, ritual, devotional music, Dhak, Bapan foundation"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:49:00
 readingTime: 3

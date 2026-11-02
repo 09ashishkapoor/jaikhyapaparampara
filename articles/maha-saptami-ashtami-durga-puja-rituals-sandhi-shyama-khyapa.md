@@ -4,7 +4,7 @@ title: "Maha Saptami and Ashtami: Durga Puja Rituals, Sandhi Puja, and the 64 Yo
 breadcrumbTitle: "Saptami and Ashtami Rituals"
 description: "Guru Shyama Khyapa explains the sacred rituals of Maha Saptami and Ashtami during Durga Puja, including Naba Patrika, Sandhi Puja, Ashta Bhairavas, and the 64 Yoginis."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Durga Puja, Maha Saptami, Ashtami, Naba Patrika, Sandhi Puja, Ashta Bhairava, 64 Yoginis, Dash Dikpal"
-category: "Rituals & Yagyas"
+category: "Rituals, Worship and Festivals"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:07:00
 readingTime: 4

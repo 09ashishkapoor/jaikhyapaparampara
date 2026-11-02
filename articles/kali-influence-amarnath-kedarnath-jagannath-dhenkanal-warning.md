@@ -4,7 +4,7 @@ title: "Kali's Influence and the Kalki Avatar: Amarnath, Kedarnath, and the Dest
 breadcrumbTitle: "Kali's Influence Destroys Holy Lands Warning"
 description: "Guru Shyama Khyapa warns that the influence of Kali Yuga is systematically destroying sacred Devbhoomi — Amarnath, Kedarnath, Puri — and that Jagannath is leaving Puri for Dhenkanal. He urges people not to visit mountains or seas for the next six years, as it is a death trap under Kali's supreme reign."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kali Yuga, Kalki Avatar, Amarnath, Kedarnath, Devbhoomi, Jagannath, Puri, Dhenkanal, cloudburst, mountains danger, disaster prophecy"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:17:00
 readingTime: 5

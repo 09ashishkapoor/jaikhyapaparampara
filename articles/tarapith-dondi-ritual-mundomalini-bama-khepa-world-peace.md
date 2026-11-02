@@ -4,7 +4,7 @@ title: "Tarapith Dondi Ritual: A Devotee's Prostration Journey from Mundomalini 
 breadcrumbTitle: "Tarapith Dondi Ritual Journey"
 description: "Guru Shyama Khyapa narrates the inspiring journey of a female disciple who performed the arduous Dondi ritual—prostrating and crawling from Mundomalini Ghat to Bama Khepa's shrine at Tarapith—as a sacred vow for world peace and the eradication of COVID-19."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Tarapith, Dondi, Mundomalini, Bama Khepa, World Peace, COVID-19, Devotion, Sacred Vow, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:11:00
 readingTime: 2

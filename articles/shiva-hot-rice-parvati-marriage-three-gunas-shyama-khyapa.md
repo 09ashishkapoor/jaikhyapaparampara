@@ -4,7 +4,7 @@ title: "Shiva and Hot Rice: Gurudev's Story of Shiva-Parvati Marriage and Three 
 breadcrumbTitle: "Shiva-Parvati Marriage and Three Gunas"
 description: "Guru Shyama Khyapa tells the story of Shiva and Parvati's marriage, the hot rice incident at Manasarovar, explains the three Gunas (Sattva, Rajas, Tamas), and warns about modern family troubles."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Shiva, Parvati, Marriage Story, Three Gunas, Sattva, Rajas, Tamas, Manasarovar, Daksha, Shiva-jnana, Family Troubles"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:48:00
 readingTime: 11

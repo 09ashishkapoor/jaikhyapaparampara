@@ -4,7 +4,7 @@ title: "Mahalaya Full Moon Worship: The Sacred Fire Ritual and Divine Mother's E
 breadcrumbTitle: "Mahalaya Full Moon Worship"
 description: "A sacred Mahalaya full moon ceremony featuring hymns honoring the Divine Mother in all her forms across sacred sites, with powerful fire rituals invoking Dakshina Kali and blessings for world peace by Guru Shyama Khyapa."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mahalaya, full moon, Dakshina Kali, fire ritual, world peace, goddess worship"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:47:00
 readingTime: 5

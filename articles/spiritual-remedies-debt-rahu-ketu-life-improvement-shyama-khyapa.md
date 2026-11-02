@@ -4,7 +4,7 @@ title: "Spiritual Remedies for Debt, Rahu, and Ketu: Gurudev's Life-Improving Ti
 breadcrumbTitle: "Remedies for Debt, Rahu, and Ketu"
 description: "Guru Shyama Khyapa shares powerful spiritual remedies to help people — how to be liberated from debt through Rina Mukteshwar Shiva, how to mitigate the harmful effects of Rahu using sandalwood from Jagannath Temple and the blood-and-leaf offering, and how to pacify Ketu by feeding crows and chanting the Dhumavati mantra."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Rahu, Ketu, debt remedy, Rina Mukteshwar, Chinnamasta, Dhumavati, spiritual remedies"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:48:00
 readingTime: 5

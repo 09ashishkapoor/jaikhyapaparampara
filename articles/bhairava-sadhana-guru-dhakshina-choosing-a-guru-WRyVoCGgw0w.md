@@ -4,7 +4,7 @@ title: "Bhairava Sadhana: Guru Dakshina and Choosing a Guru"
 breadcrumbTitle: "Guru Dakshina & Guru"
 description: "Shri Praveen Radhakrishna explains why *Guru Dakshina* is a karmic exchange for any *Upadesha*, why he directs it into *Gau Seva* rather than personal gain, and how a seeker must choose a Guru with stability-protecting aura and *Asana* and avoiding \"spiritual shopping.\""
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Guru Dakshina, Upadesha, karma exchange, Prakriti, Smashana Devatas, Mrityu Loka, Smashana, Shiva, Ma Kali, Ma Adhya, Gau Seva, cow, bull, Kamakshi, Karuppan, Nandishvara, Devaloka, Garbhagriha, Asana, aura, Guru Sthana, Narasimha, Kuladeva, Ashtami, Mandala"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:33:00
 readingTime: 6

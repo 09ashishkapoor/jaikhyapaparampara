@@ -4,7 +4,7 @@ title: "Baba Lokenath: A Life of 160 Years - From Kalighat to the Himalayas"
 breadcrumbTitle: "Baba Lokenath Life 160 Years"
 description: "The complete life story of Baba Lokenath Brahmachari, the great yogi who lived 160 years, practiced in the Himalayas for 90 years, and blessed devotees from Barodi with his divine protection."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Baba Lokenath, Lokenath Brahmachari, 160 years, Kalighat, Bhagwan Das Ganguly, Beni Madhav, Trailanga Swami, Himalayas, Barodi, Tirodhan Dibosh, Janmashtami, Chakla, Bijoy Krishna Goswami, Mecca, Medina, Abdul Ghaffar, Gomukhasana, Kamandalu, Chimta"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:35:00
 readingTime: 6

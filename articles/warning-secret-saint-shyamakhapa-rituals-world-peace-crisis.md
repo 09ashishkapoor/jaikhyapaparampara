@@ -4,7 +4,7 @@ title: "Warning from the Secret Saint Shyamakhapa: Rituals for World Peace Durin
 breadcrumbTitle: "Warning: Rituals for World Peace"
 description: "Guru Shyama Khyapa performs Mahamrityunjaya Yagya for world peace during the COVID-19 pandemic, warning about biological warfare, natural disasters, and the collective karma of humanity."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Mahamrityunjaya Yagya, World Peace, COVID-19, Pandemic, Biological Warfare, Nature Crisis, Amphan Cyclone, Locusts, Spiritual Warning, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:01:00
 readingTime: 4

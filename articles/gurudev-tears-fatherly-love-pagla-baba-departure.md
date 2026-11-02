@@ -4,7 +4,7 @@ title: "Beyond the Spiritual Path: Gurudev's Tears and Fatherly Compassion"
 breadcrumbTitle: "Gurudev's Fatherly Love and Tears"
 description: "Gurudev opens his heart about his pain as his beloved disciple Pagla Baba departs for six months of intense spiritual practice at Kamakhya, revealing the human depths beneath his spiritual mastery."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pagla Baba, Guru-disciple relationship, spiritual practice, Kamakhya, fatherly love, emotional depth"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 14:03:00
 readingTime: 11

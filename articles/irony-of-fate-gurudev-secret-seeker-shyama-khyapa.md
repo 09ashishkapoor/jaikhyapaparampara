@@ -4,7 +4,7 @@ title: "Irony of Fate: Gurudev and the Secret Seeker Shyama Khyapa"
 breadcrumbTitle: "Irony of Fate Story"
 description: "A powerful story of destiny and faith - how a Brahmin woman's life transformed from wealth to poverty, then back to prosperity through unwavering devotion to Guru Shyama Khyapa."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Irony of Fate, Guru Stories, Faith, Destiny, Khyapa Parampara, Tarapith, Secret Seeker"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:59:00
 readingTime: 5

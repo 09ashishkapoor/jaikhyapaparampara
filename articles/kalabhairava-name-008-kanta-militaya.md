@@ -4,7 +4,7 @@ title: "Kalabhairava Name 8: Kanta-Militaya - Meaning and Significance"
 breadcrumbTitle: "Kanta-Militaya"
 description: "English meaning and spiritual significance of Kanta-Militaya, the 8th name of Lord Kalabhairava: the beloved presence dwelling close to the devotee."
 keywords: "Kanta-Militaya, Kalabhairava name 8, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kanta-Militaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

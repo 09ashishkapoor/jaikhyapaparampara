@@ -4,7 +4,7 @@ title: "Kalabhairava Name 24: Kali-Vidya-Svarupa-Vate - Meaning and Significance
 breadcrumbTitle: "Kali-Vidya-Svarupa-Vate"
 description: "English meaning and spiritual significance of Kali-Vidya-Svarupa-Vate, the 24th name of Lord Kalabhairava: embodiment of the knowledge needed in the Kali age."
 keywords: "Kali-Vidya-Svarupa-Vate, Kalabhairava name 24, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kali-Vidya-Svarupa-Vate meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

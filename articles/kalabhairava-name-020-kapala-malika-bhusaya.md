@@ -4,7 +4,7 @@ title: "Kalabhairava Name 20: Kapala-Malika-Bhusaya - Meaning and Significance"
 breadcrumbTitle: "Kapala-Malika-Bhusaya"
 description: "English meaning and spiritual significance of Kapala-Malika-Bhusaya, the 20th name of Lord Kalabhairava: adorned with a garland of skulls."
 keywords: "Kapala-Malika-Bhusaya, Kalabhairava name 20, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kapala-Malika-Bhusaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

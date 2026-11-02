@@ -4,7 +4,7 @@ title: "Kakaradi Kali Sahasranama in English: Names 1-111 with One-Line Meanings
 breadcrumbTitle: "Kakaradi Kali Sahasranama Names 1-111"
 description: "Read the first 111 names of the Kakaradi Kali Sahasranama in English with simple one-line devotional meanings for prayer, japa, study, and contemplation."
 keywords: "Kakaradi Kali Sahasranama in English, Kakārādi Kali Sahasranama, Kali Sahasranama names with meaning, Kali 1000 names English meaning, Maa Kali names, Kali namavali, krim Kali meaning, Kakaradi Kali names 1-111"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "KaliPutra-Ashish"
 date: 2026-04-24
 readingTime: 13

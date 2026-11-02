@@ -4,7 +4,7 @@ title: "The Spiritualism of India: Introduction to Shri Shri Shyama Khepa Mahara
 breadcrumbTitle: "Spiritualism of India and Gurudev"
 description: "Subho Bhoumik introduces Gurudev Shri Shri Shyama Khepa Maharaj, an enlightened monk of the highest order, and shares insights from his upcoming biography about Gurudev's philosophy of selfless service and spiritual realization."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Subho Bhoumik, Akash Subho, Indian spiritualism, Aham Brahmasmi, Gupt Sadhana, Bhartṛhari, Paropkar"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:28:00
 readingTime: 6

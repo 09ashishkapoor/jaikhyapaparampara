@@ -4,7 +4,7 @@ title: "The End of the World Part 1: Geopolitics, War, and Prophecy"
 breadcrumbTitle: "End of the World Part 1"
 description: "Guru Shyama Khyapa discusses the Russia-Ukraine war, Israel conflict, India-Pakistan tensions, and the looming threat of World War III, revealing the hidden forces behind global conflicts."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, World War III, Geopolitics, India Pakistan War, China, Bangladesh, Kashmir, Ajit Doval, Russia Ukraine, Israel, Prophecy"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:47:00
 readingTime: 3

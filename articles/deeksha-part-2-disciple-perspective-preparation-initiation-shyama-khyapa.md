@@ -4,7 +4,7 @@ title: "Deeksha Part 2: The Disciple's Perspective — Preparation and Initiatio
 breadcrumbTitle: "Deeksha Part 2 Disciple Perspective"
 description: "Guru Shyama Khyapa speaks on Diksha from the seeker's side—preparation, emotions, why parents cannot witness initiation, and what to do after receiving the mantra."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Deeksha, Diksha, initiation, Guru disciple, Beej Mantra, Japa, Shantikunj"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:13:00
 readingTime: 4

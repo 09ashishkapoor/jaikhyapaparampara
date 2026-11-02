@@ -4,7 +4,7 @@ title: "Dhumavati: The Seventh of Dashamahabidya - The Fierce Widow Goddess"
 breadcrumbTitle: "Dhumavati Seventh Dashamahabidya"
 description: "Guru Shyama Khyapa explains the fierce goddess Dhumavati, the seventh of the Ten Mahavidyas, her appearance, mantras, and the profound knowledge she grants to her devotees."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Dhumavati, Dashamahabidya, Ten Mahavidyas, seventh Mahavidya, widow goddess, crow, Ketu, Dakshinakali, Beej Mantra"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:56:00
 readingTime: 5

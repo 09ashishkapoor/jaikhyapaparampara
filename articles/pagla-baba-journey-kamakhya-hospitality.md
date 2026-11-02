@@ -4,7 +4,7 @@ title: "The Story of Pagla Baba's Journey: Humanity and Hospitality"
 breadcrumbTitle: "Pagla Baba Journey Story"
 description: "Guru Shyama Khyapa discusses Pagla Baba's pilgrimage to Kamakhya, highlighting the remarkable hospitality shown by Barun Chakraborty at the Anandamayee Temple and the spirit of Atithi Devo Bhava."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Pagla Baba, Kamakhya, Pilgrimage, Hospitality, Atithi Devo Bhava, Barun Chakraborty, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:03:00
 readingTime: 3

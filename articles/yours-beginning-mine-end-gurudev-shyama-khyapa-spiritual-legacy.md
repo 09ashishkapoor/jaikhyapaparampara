@@ -4,7 +4,7 @@ title: "Yours is the Beginning, Mine is the End: Gurudev Shyama Khyapa on Spirit
 breadcrumbTitle: "Spiritual Legacy and Blessings"
 description: "Gurudev Shyama Khyapa discusses the continuity of spiritual tradition, the importance of temples, and the true nature of blessings with a young monk from Bangladesh."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, spiritual legacy, blessings, temples, monks"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:03:00
 readingTime: 8

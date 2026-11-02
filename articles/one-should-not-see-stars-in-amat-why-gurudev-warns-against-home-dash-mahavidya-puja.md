@@ -4,7 +4,7 @@ title: "One Should Not Perform Dash Mahavidya Puja at Home: Guru Shyama Khyapa's
 breadcrumbTitle: "Dash Mahavidya Warning"
 description: "Guru Shyama Khyapa reveals dangerous consequences of performing Dash Mahavidya rituals at home and keeping cremation ground items, sharing real-life stories of families destroyed by these practices and warnings about proper worship at Tarapith."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Dash Mahavidya, Tarapith, Mother Tara, Cremation Ground, Spiritual Warning, Tantra Dangers, Home Puja, Sacred Practice"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 26

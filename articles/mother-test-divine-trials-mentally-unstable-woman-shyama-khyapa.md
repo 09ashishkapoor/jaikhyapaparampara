@@ -4,7 +4,7 @@ title: "Did Gurudev Have to Take the Mother's Test? Divine Trials at the Cremati
 breadcrumbTitle: "Mother's Test and Divine Trials"
 description: "Guru Shyama Khyapa recounts a remarkable incident where a mentally unstable woman from Howrah came to the cremation ground claiming the Mother sent her, revealing the challenges of serving seekers and the divine tests saints face."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Divine Test, Mother Goddess, Mental Health, Spiritual Seeker, Shantikunj, Divine Mother, Spiritual Trials"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:25:00
 readingTime: 9

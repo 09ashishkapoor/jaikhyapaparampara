@@ -4,7 +4,7 @@ title: "Navagraha Shukra Venus Bhuvaneshwari and Family Life: Guru Shyama Khyapa
 breadcrumbTitle: "Shukra Venus and Bhuvaneshwari"
 description: "Guru Shyama Khyapa explains the planet Shukra (Venus), its connection to Shukracharya and Maa Bhuvaneshwari, and remedies for weak Venus including donations and worship."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Navagraha, Shukra, Venus, Bhuvaneshwari, Mahavidya, Mahamrityunjaya, Shukracharya"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:10:00
 readingTime: 3

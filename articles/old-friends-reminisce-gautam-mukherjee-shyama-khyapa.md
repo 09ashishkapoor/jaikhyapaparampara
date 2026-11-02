@@ -4,7 +4,7 @@ title: "Old Friends Reminisce: Gautam Mukherjee and Guru Shyama Khyapa"
 breadcrumbTitle: "Old Friends Reminisce"
 description: "Gautam Mukherjee, a disciple and friend of 40 years, visits Guru Shyama Khyapa to share miraculous stories and old memories of the cremation ground."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gautam Mukherjee, Keoratala Cremation Ground, Miracles"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:45:00
 readingTime: 6

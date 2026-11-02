@@ -4,7 +4,7 @@ title: "Mourning Shantikunj: Gurudev Remembers Devoted Singer Dulal Mondal"
 breadcrumbTitle: "Remembering Dulal Mondal's Devotion"
 description: "Guru Shyama Khyapa shares the heartbreaking news of Dulal Mondal's sudden passing, a devoted singer who served Shantikunj for 35 years with Harinam Sankirtan and music for the Mother."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Dulal Mondal, Harinam Sankirtan, Shantikunj, Devotional Music, Spiritual Singer, Death and Devotion"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:29:00
 readingTime: 7

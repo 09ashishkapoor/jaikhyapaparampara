@@ -4,7 +4,7 @@ title: "Navel Padme Hum: The Spiritual Significance of the Navel"
 breadcrumbTitle: "Navel Padme Hum"
 description: "Guru Shyama Khyapa explains the profound spiritual and physical significance of the navel, connecting it to the Kula-Kundalini and the origins of life."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Nabhi Padme Hum, Navel, Kula-Kundalini, Chakras, Gyanganj, Lord Jagannath"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:50:00
 readingTime: 8

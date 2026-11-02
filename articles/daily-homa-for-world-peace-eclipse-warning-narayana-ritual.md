@@ -4,7 +4,7 @@ title: "Daily Homa for Human Welfare: Narayana Ritual and Eclipse Concerns"
 breadcrumbTitle: "Daily Narayana Homa"
 description: "Gurudev explains the daily Homa at Shanti Kunj dedicated to Lord Narayana, the purpose of world peace, and his concerns about upcoming celestial events."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Narayana, Homa, Shanti Kunj, eclipse, world peace, Vedic ritual, human welfare"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:04:00
 readingTime: 4

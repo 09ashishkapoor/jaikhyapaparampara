@@ -4,7 +4,7 @@ title: "Kalabhairava Name 15: Kataksa-Anugrahita-Akhila-Sevakaya - Meaning and S
 breadcrumbTitle: "Kataksa-Anugrahita-Akhila-Sevakaya"
 description: "English meaning and spiritual significance of Kataksa-Anugrahita-Akhila-Sevakaya, the 15th name of Lord Kalabhairava: whose gracious glance blesses all devotees."
 keywords: "Kataksa-Anugrahita-Akhila-Sevakaya, Kalabhairava name 15, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kataksa-Anugrahita-Akhila-Sevakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

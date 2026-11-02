@@ -4,7 +4,7 @@ title: "The Five Sacred Elixirs: Understanding the Tradition of Panchamrita"
 breadcrumbTitle: "Five Sacred Elixirs of Panchamrita"
 description: "Guru Shyama Khyapa explains the scriptural and physiological significance of the five sacred elixirs—Gochona (cow urine), Milk, Curd, Ghee, and Kushodak (Kusha water)—in traditional Vedic science."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Panchamrita, Gochona, Cow Urine, Ghee, Curd, Vedic Science, Spiritual Nutrition"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:18:00
 readingTime: 7

@@ -4,7 +4,7 @@ title: "Reading the Birth Chart: The Abakahara Chakra, Panchang, and Planetary P
 breadcrumbTitle: "Birth Chart Abakahara Panchang Nakshatra Dasha"
 description: "Shantanu, a disciple of Guru Shyama Khyapa, gives a detailed walkthrough of the first page of a Vedic birth chart — the Abakahara Chakra — covering the five parts of the Panchang, Karana, Tithi, Yoga, Nakshatra quarters, Dasha periods, Navatara and Sannari Chakras, and the Pancha Mahabhuta elements."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Birth Chart, Abakahara Chakra, Panchang, Karana, Tithi, Nakshatra, Dasha, Navatara, Janmachak, Vedic Astrology"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 07:11:00
 readingTime: 5

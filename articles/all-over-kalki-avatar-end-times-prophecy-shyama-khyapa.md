@@ -4,7 +4,7 @@ title: "All Over!? | Guru Shyama Khyapa on Kalki Avatar and End Times Prophecy"
 breadcrumbTitle: "All Over - Kalki Prophecy"
 description: "Guru Shyama Khyapa reveals profound prophecies about Kalki avatar, the eight immortals (Chiranjivis), the decline of the Jagannath temple, and the ultimate destruction foretold in ancient scriptures."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Kalki Avatar, End Times, Prophecy, Chiranjivi, Immortals, Mahabharata, Ramayana, Bhavishya Malika, Pralay, Kali Yuga, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:03:00
 readingTime: 5

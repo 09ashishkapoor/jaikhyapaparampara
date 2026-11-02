@@ -4,7 +4,7 @@ title: "Kailash Pati Shiva and Hiranyagarbha: The Vedic Truth Beyond Puranic Sto
 breadcrumbTitle: "Kailash Pati Shiva and Hiranyagarbha"
 description: "Guru Shyama Khyapa reveals the deeper Vedic understanding of Lord Shiva as Hiranyagarbha, the golden womb from which creation and destruction emerge, beyond the popular Puranic stories."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Lord Shiva, Kailash, Hiranyagarbha, Vedic Truth, Ardhanarishvara, Shiva Lingam, Maha Mrityunjaya"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:23:00
 readingTime: 6

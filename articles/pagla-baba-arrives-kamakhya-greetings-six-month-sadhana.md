@@ -4,7 +4,7 @@ title: "Pagla Baba Arrives at Kamakhya After 59 Days: Greetings and Six-Month Sa
 breadcrumbTitle: "Pagla Baba Arrives Kamakhya Six-Month Sadhana"
 description: "After 59 days of walking to reach Kamakhya Temple, Guru Shyama Khyapa's disciple Pagla Baba sends his greetings. Gurudev blesses him for a six-month Sadhana and shares his instructions for the spiritual mission."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pagla Baba, Kamakhya Temple, pilgrimage, Sadhana, Kund, curse removal, mantra, six months, subtle body, Sukshma deha"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:08:00
 readingTime: 3

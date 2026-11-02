@@ -4,7 +4,7 @@ title: "Kalabhairava Name 48: Karma-Karakaya - Meaning and Significance"
 breadcrumbTitle: "Karma-Karakaya"
 description: "English meaning and spiritual significance of Karma-Karakaya, the 48th name of Lord Kalabhairava, revered as the divine ground of action and the keeper of karmic order."
 keywords: "Karma-Karakaya, Kalabhairava name 48, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karma-Karakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

@@ -4,7 +4,7 @@ title: "Unknown Facts About Mother Kali: Deepannita Puja and Tantric Symbolism"
 breadcrumbTitle: "Unknown Facts About Kali"
 description: "Guru Shyama Khyapa reveals the esoteric meanings behind Mother Kali's iconography, the significance of Deepannita Kali Puja, and why the Goddess prefers darkness over bright lights."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mother Kali, Kali Puja, Deepannita, Tantra, Shakti Peethas, Kuber, Sadyojata, Mahadev, Symbolism, Gyanganj"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:39:00
 readingTime: 6

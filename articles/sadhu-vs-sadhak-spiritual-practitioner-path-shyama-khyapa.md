@@ -4,7 +4,7 @@ title: "Sadhu vs Sadhak: The Path of the True Spiritual Practitioner"
 breadcrumbTitle: "Sadhu vs Sadhak"
 description: "Guru Shyama Khyapa reveals the profound differences between Sadhus and Sadhaks, explaining the intense disciplines, Viraja Hom initiation, and the inner transformation that creates a true spiritual practitioner."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Sadhu, Sadhak, Spiritual Practitioner, Viraja Hom, Sannyas, Brahmachari, Omkarnath, Ramprasad"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:50:00
 readingTime: 4

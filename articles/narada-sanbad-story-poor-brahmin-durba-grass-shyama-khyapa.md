@@ -4,7 +4,7 @@ title: "Narada Sanbad: The Story of Narada, the Poor Brahmin, and Durba Grass"
 breadcrumbTitle: "Narada Sanbad Story"
 description: "Guru Shyama Khyapa narrates the tales of Narada—the divine journalist, the poor Brahmin couple's devotion, the arrogant landlord, and why Durba grass is essential in ritual offerings."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Narada, Narada Sanbad, Durba Grass, Durvasa, Ganesha Chaturthi"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:05:00
 readingTime: 7

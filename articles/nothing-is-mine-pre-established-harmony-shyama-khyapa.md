@@ -4,7 +4,7 @@ title: "Nothing is Mine: Gurudev on the Illusion of Possession and Pre-Establish
 breadcrumbTitle: "Nothing is Mine"
 description: "Guru Shyama Khyapa explores the profound truth that nothing truly belongs to us, discussing pre-destined harmony, the illusion of 'mine,' and finding liberation through this realization."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Nothing is Mine, Pre-established Harmony, Leibniz, Shakespeare, Detachment, Self-realization, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:10:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "My Darshan of Bhairava: A Personal Vision"
 breadcrumbTitle: "My Darshan of Bhairava"
 description: "Shri Praveen Radhakrishna shares his personal, transformative vision of Bhairava — a moment of fierce divine presence that decisively turned him from Bhairava Sadhana toward Kali Sadhana."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Kali Sadhana, Darshan, spiritual vision, divine experience"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:27:00
 readingTime: 2

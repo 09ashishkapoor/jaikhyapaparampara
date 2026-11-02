@@ -4,7 +4,7 @@ title: "Are the Four Dhams on the Verge of Destruction? What is the Signal Again
 breadcrumbTitle: "Four Dhams Destruction"
 description: "Guru Shyama Khyapa warns of the end of Kali Yuga, impending pandemics, wars, the emergence of Kalki, and emphasizes Harinam Sankirtan as the path to deliverance."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Durga Puja Omens: Elephant Arrival, Palanquin Departure and Coming Storm
 breadcrumbTitle: "Durga Puja Omens and Warnings"
 description: "Guru Shyama Khyapa warns about the spiritual significance of Durga's arrival on an elephant and departure on a palanquin, predicting storms, floods, earthquakes and disasters to follow."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Durga Puja, elephant arrival, palanquin departure, storm prediction, flood warning, earthquake omen, natural disaster, Goddess Durga, spiritual warning, 50-year rain"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:22:00
 readingTime: 4

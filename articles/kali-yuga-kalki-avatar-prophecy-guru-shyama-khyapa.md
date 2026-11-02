@@ -4,7 +4,7 @@ title: "Kali Yuga and Kalki Avatar: Prophecies of End Times with Gurudev Shyama 
 breadcrumbTitle: "Kali Yuga Kalki Avatar"
 description: "Guru Shyama Khyapa discusses Kali Yuga, the destructive form of Narayana, the arrival of Kalki avatar, the seven immortals (Chiranjivis), and the signs of the end times including the submergence of Jagannath Temple."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Kali Yuga, Kalki Avatar, End Times, Prophecy, Chiranjivi, Immortals, Jagannath Temple, Vaishno Devi, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:42:00
 readingTime: 3

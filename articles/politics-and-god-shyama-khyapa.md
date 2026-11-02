@@ -4,7 +4,7 @@ title: "Politics and God: The Saint's Perspective on 'Dustbin' Politics"
 breadcrumbTitle: "Politics and God"
 description: "Guru Shyama Khyapa explores the disconnect between modern politics and spiritual life, reflecting on historical integrity versus today's 'dustbin' politics."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Politics and God, Bama Deb Baba, Ma Tara, Netaji Subhas Chandra Bose, RSS, Spiritual Wisdom, Dustbin Politics, Khyapa Parampara"
-category: "Guru Messages"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-01-08
 readingTime: 12

@@ -4,7 +4,7 @@ title: "Avesh in Sadhana — Bhima's Raktapan as Kaalika"
 breadcrumbTitle: "Bhima's Raktapan as Divine Avesh of Kali"
 description: "Shri Praveen Radhakrishna reveals how Bhima's act of drinking Dushasana's blood was a divine Avesh of Maa Kali — decoding the Rakta names in the Adhya Kali Sahasranamavali and explaining Bhima's Bhakti Marga as the essential Sadhana of Kali Yuga."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Bhima, Maa Kali, Avesh, Sahasranamavali, Panchali, Raktapan, Bhakti Marga, Procedural Collapse, Dushasana"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:51:00
 readingTime: 8

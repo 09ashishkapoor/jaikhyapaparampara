@@ -4,7 +4,7 @@ title: "Lies and False Accusations: Guru Shyama Khyapa Responds to Slander at Sh
 breadcrumbTitle: "False Accusations Slander Shantikunj Guru"
 description: "Guru Shyama Khyapa addresses a false accusation that he accepted 10,000 rupees from a woman, firmly denying it and invoking a curse on those spreading lies about him and his institution Shantikunj."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shantikunj, Rajpur, Slander, False Accusation, Curse, Ma Tara, Bamdev"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 07:04:00
 readingTime: 3

@@ -4,7 +4,7 @@ title: "Guru Ma's Sacred Vow: A Rare Moment of Devotion at the Temple"
 breadcrumbTitle: "Guru Ma's Sacred Vow and Blessings"
 description: "Guru Ma makes a precious appearance at the temple during a fire ritual to offer prayers for her husband's health and sister's illness, sharing rare blessings for the world."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Guru Ma, Sacred Vow, Fire Ritual, Temple Worship, World Peace, Family Devotion"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:53:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "What is Going to Happen in the Coming Days? Guru Shyama Khyapa's Prophec
 breadcrumbTitle: "Coming Days Prophecy Warning"
 description: "Guru Shyama Khyapa reveals the unfolding prophecies: Chardham temples sinking, mass deaths beginning, Third World War, and the six critical years before 2030 when only 630 million will survive."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Prophecy, Bhavishya Malika, Third World War, Earthquake, Chardham, Mass Deaths, 2030, Kali Yuga"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:44:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "Who Can Give Advice? Guru Shyama Khyapa's Wisdom on Taking Wisdom"
 breadcrumbTitle: "Who Can Give Advice"
 description: "Guru Shyama Khyapa explains who should give advice and who should take wisdom, sharing his views on not giving advice to those who know more and the importance of wisdom from the elderly."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, advice, wisdom, spiritual guidance, COVID-19, mask, cremation ground, elderly, Sanskrit"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:15:00
 readingTime: 3

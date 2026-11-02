@@ -4,7 +4,7 @@ title: "Kalabhairava Name 54: Kama-Kosthakaaya - Meaning and Significance"
 breadcrumbTitle: "Kama-Kosthakaaya"
 description: "English meaning and spiritual significance of Kama-Kosthakaaya, the 54th name of Lord Kalabhairava, revered as the indwelling source of desire and the granter of worthy wishes."
 keywords: "Kama-Kosthakaaya, Kalabhairava name 54, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kama-Kosthakaaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

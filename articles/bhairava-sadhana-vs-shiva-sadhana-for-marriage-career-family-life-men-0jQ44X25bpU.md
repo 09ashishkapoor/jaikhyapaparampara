@@ -4,7 +4,7 @@ title: "Bhairava Sadhana vs Shiva Sadhana: For Marriage, Career, and Family Life
 breadcrumbTitle: "Choosing Bhairava or Shiva"
 description: "Shri Praveen Radhakrishna explains how a young man’s desires for marriage, career, and family reveal which Shiva-path is appropriate, why chasing the inert Sadashiva state while holding worldly goals creates pain, and why Batuka Bhairava’s Guru Tattva accelerates progress by breaking Prakriti’s design."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Shiva, Sadashiva, Mahakala, Kailasanathan, Svachanda Bhairava, Batuka Bhairava, Prakriti, Dharma, Karma, Sadhana, Jiva, Tantra, Guru Tattva, Marriage, Career, Family"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:24:00
 readingTime: 8

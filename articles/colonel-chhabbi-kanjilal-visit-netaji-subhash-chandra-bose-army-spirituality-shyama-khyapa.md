@@ -4,7 +4,7 @@ title: "A Colonel's Visit: Colonel Chhabbi Kanjilal on Army Life, Netaji, and Sp
 breadcrumbTitle: "Colonel Chhabbi Kanjilal Visit"
 description: "Colonel Chhabbi Kanjilal visits Guru Shyama Khyapa on Netaji's birthday, sharing stories from the Naga Hills and discussing the intersection of military service and spirituality."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Colonel Chhabbi Kanjilal, Netaji Subhash Chandra Bose, Indian Army, Spirituality, Nagaland, Military Service"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:03:00
 readingTime: 6

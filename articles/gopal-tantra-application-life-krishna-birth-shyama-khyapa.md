@@ -4,7 +4,7 @@ title: "Gopal Tantra and Its Application in Life: Guru Shyama Khyapa"
 breadcrumbTitle: "Gopal Tantra and Life"
 description: "Guru Shyama Khyapa explains Gopal Tantra, the meaning of Gopal, Krishna's birth from Kansa's prison, and how to worship Gopal at home."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gopal Tantra, Krishna, Gopal, Kansa, Devaki, Chaitanya, Brihat Tantrasara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:15:00
 readingTime: 4

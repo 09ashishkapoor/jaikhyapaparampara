@@ -4,7 +4,7 @@ title: "Solar Storms and the End of an Era: Guru Shyama Khyapa's 2021 Prediction
 breadcrumbTitle: "Solar Storms and 2021 Predictions"
 description: "Guru Shyama Khyapa discusses the impact of solar storms, NASA's X1.5 class explosion, and his previous predictions regarding global disasters, COVID-19, and environmental shifts."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Solar Storm, NASA, X1.5, 2021 Predictions, COVID-19, Climate Change, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 2

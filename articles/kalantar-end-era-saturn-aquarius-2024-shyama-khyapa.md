@@ -4,7 +4,7 @@ title: "Kalantar: The End of an Era - Guru Shyama Khyapa on Saturn in Aquarius a
 breadcrumbTitle: "Kalantar End of Era Saturn Aquarius"
 description: "Guru Shyama Khyapa discusses the ominous planetary alignment of Saturn entering Aquarius, prophecies from Nostradamus, Baba Vanga, and Achyutananda-ji regarding 2024 as the end of an era."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Kalantar, Saturn Aquarius, 2024 Prophecy, End of Era, Achyutananda, Nostradamus, Baba Vanga, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:05:00
 readingTime: 5

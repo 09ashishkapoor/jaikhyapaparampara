@@ -4,7 +4,7 @@ title: "Bhairava Sadhana: Moksha, Material Chase, Kashi and the Jiva"
 breadcrumbTitle: "Moksha, Kashi and the Jiva in Sadhana"
 description: "Shri Praveen Radhakrishna redefines Moksha not as death but as living Oneness with Kalabhairava. He explains what Kashi truly is, why eyes open late in life, the dangers of vicious thoughts during Sadhana, and the profound teaching of Digambara — coming before the Deity with zero pretentiousness."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Moksha, Kashi, Kalabhairava, Digambara, Jiva, Karma, Sadhana, Bhoota Gana, material desires, Kali Yuga"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:07:00
 readingTime: 11

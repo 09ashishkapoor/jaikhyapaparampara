@@ -4,7 +4,7 @@ title: "The Relationship Between Tantra and Vedas - Durgaprasanna Paramhansa's D
 breadcrumbTitle: "Relationship Between Tantra and Vedas"
 description: "Guru Shyama Khyapa explains the integration of Vedic and Tantric practices, sharing the story of Durgaprasanna Paramhansa who achieved divine vision through combined rituals."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tantra, Vedas, Durgaprasanna Paramhansa, Dashabhuja Goddess, Nigamananda Saraswati, fire rituals, Homa"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:18:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Jagadhatri Puja: Sacred Arghya Offering and Divine Darshan with Guru Shy
 breadcrumbTitle: "Jagadhatri Puja Arghya"
 description: "Guru Shyama Khyapa explains the sacred Arghya offering to Jagadhatri, the significance of the Navami puja, Sandhi Puja timing, and recites the powerful Chandi Path for the Mother's blessings."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Jagadhatri Puja, Arghya Offering, Navami Puja, Sandhi Puja, Chandi Path, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 16:30:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Hindu Sanatan Dharma: The Decline of Brahmins and the Rise of the Shudra
 breadcrumbTitle: "Decline of Brahmins"
 description: "Guru Shyama Khyapa explains Brahma's curse on the Brahmin community and reveals how the Shudra age is fulfilling ancient prophecies—including women and Shudras taking over sacred rituals."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Brahmin Decline, Brahmattva, Sanatan Dharma, Shudra Age, Kali Yuga, Vishwamitra, Brahma Curse, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:11:00
 readingTime: 11

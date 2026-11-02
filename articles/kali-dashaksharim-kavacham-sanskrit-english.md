@@ -5,7 +5,7 @@ breadcrumbTitle: "Kali Dashaksharim Kavacham"
 metaTitle: "Kali Dashaksharim Kavacham: Sanskrit & English Meaning"
 description: "Kali Dashaksharim Kavacham with Sanskrit transliteration and simple devotional English meaning side by side, offered in devotion to Ma Adya Mahakali."
 keywords: "Kali Dashaksharim Kavacham, Kali Dashakshari Kavacham, Kali Kavach, Ma Adya Mahakali, Bhadrakali, Sanskrit English, Kavacham, Khyapa Parampara"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "KaliPutra-Ashish"
 date: 2026-10-16
 readingTime: 7

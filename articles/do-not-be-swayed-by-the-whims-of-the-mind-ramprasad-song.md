@@ -4,7 +4,7 @@ title: "Do Not Be Swayed by the Whims of the Mind: Ramprasad's Song"
 breadcrumbTitle: "Ramprasad's Song"
 description: "Guru Shyama Khyapa discusses Ramprasad's devotional song about finding heaven within the mind and not following false paths."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ramprasad, Mind, Supreme Soul, Mother Kali, Devotion, Spiritual Peace"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 2

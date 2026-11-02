@@ -4,7 +4,7 @@ title: "Q&A Session: Bengaluru Satsang — Bhairava, Kali, and the Path of the S
 breadcrumbTitle: "Q&A: Bengaluru Satsang Oct 2025"
 description: "The complete Q&A session from Shri Praveen Radhakrishna's October 2025 Bengaluru Satsang — covering identity, non-spiritual families, fear of Kali's vision, multiple Gurus, past lives, Murugar's connection to Kali, and practical Sadhana questions."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Kali Sadhana, Kaliputra Mission, Murugar, Kanda Bhairava, Guru Tattva, Nama Japa, Shunyata, Vairagya"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:30:00
 readingTime: 13

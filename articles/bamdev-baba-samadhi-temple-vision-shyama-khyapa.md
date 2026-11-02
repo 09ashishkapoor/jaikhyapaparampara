@@ -4,7 +4,7 @@ title: "Guru Shyama Khyapa at Bamdev Baba's Samadhi Temple: Vision of Mother God
 breadcrumbTitle: "Bamdev Baba Samadhi"
 description: "Guru Shyama Khyapa visits the Samadhi temple of Bamdev Baba, describing the sacred site where Baba had his vision of Mother Goddess and left his body through Brahmarandhra."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bamdev Baba, Bama Khepa, Samadhi, temple, vision, Mother Goddess, Bardhaman, Logen Kaka"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:18:00
 readingTime: 2

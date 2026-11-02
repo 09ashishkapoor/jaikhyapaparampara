@@ -4,7 +4,7 @@ title: "Gurudev's Final Days at Shantikunj: Temple Closure and Divine Wisdom"
 breadcrumbTitle: "Temple Closure and Gurudev's Departure"
 description: "Guru Shyama Khyapa shares his heartfelt plea as he vacates Shantikunj temple after 8 years of spiritual service, explaining the municipality's renovation plans and his peaceful acceptance of change."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shantikunj, Temple Closure, Spiritual Service, Municipality Renovation, Cremation Ground, Guru Wisdom"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:52:00
 readingTime: 9

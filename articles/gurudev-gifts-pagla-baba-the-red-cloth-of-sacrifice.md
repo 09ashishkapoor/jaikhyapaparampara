@@ -4,7 +4,7 @@ title: "Gurudev Gifts Pagla Baba the Red Cloth of Sacrifice"
 breadcrumbTitle: "Pagla Baba's Red Cloth Sacrifice"
 description: "Guru Shyama Khyapa celebrates Pagla Baba's leap from an engineer's life to cremation-ground sadhana and frames every hardship as a sacrifice for the Mother. He gifts him the red cloth, trident, and Kamandalu, orders pilgrimages to Kamakhya, Kashi Vishwanath, and the Narmada, and urges devotion to Bama-deb instead of his own name."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pagla Baba, Sacrifice, Kamakhya, Red Cloth, Kamandalu, Bama-deb"
-category: 'Guru Stories'
+category: "Guru Stories and Devotee Lives"
 author: '🗣️ Gupta Sadhak Shyama Khyapa'
 date: 2026-03-07 03:21:00
 readingTime: 6

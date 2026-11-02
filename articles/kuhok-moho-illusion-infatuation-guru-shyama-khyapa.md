@@ -4,7 +4,7 @@ title: "Kuhok Moho: Understanding Illusion and Infatuation | Guru Shyama Khyapa"
 breadcrumbTitle: "Kuhok Moho - Illusion"
 description: "Guru Shyama Khyapa explains the profound concept of 'Kuhok' (will-o'-the-wisp) and 'Moh' (infatuation) - the illusion that draws people like moths to flame, illustrated through the story of saint Ramprasad."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Kuhok, Moho, Illusion, Infatuation, Ramprasad, Will-o'-the-wisp, Ghost Light, Spiritual Wisdom, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:02:00
 readingTime: 3

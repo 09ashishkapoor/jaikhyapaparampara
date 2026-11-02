@@ -4,7 +4,7 @@ title: "Kalabhairava Name 49: Kartri-Nayakaya - Meaning and Significance"
 breadcrumbTitle: "Kartri-Nayakaya"
 description: "English meaning and spiritual significance of Kartri-Nayakaya, the 49th name of Lord Kalabhairava, revered as the supreme doer and sovereign guide of all action."
 keywords: "Kartri-Nayakaya, Kalabhairava name 49, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kartri-Nayakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

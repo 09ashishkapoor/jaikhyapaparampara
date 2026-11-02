@@ -4,7 +4,7 @@ title: "Dwarka Temple Lightning Strike: Guru Shyama Khyapa Warns of Imminent Doo
 breadcrumbTitle: "Dwarka Lightning Doomsday Warning"
 description: "Guru Shyama Khyapa reveals the ominous significance of lightning striking the Dwarkadhish Temple, connecting it to Puri Jagannath incidents, planetary alignments, and the approaching Pralay (apocalypse)."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Dwarka Temple, Lightning, Pralay, Doomsday, Krishna, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:09:00
 readingTime: 6

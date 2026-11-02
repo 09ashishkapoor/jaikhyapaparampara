@@ -4,7 +4,7 @@ title: "The Year of Death: Guru Shyama Khyapa on Natural Disasters, Cycles of Ca
 breadcrumbTitle: "Natural Disasters and Divine Cycles"
 description: "Guru Shyama Khyapa reveals the spiritual reason behind catastrophes occurring every 100 years, the 2020 crisis cycle, and how human sin against nature triggers divine punishment."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Natural Disasters, Calamity, Karma, Divine Wrath, Corona, Astrology, Prophecy"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 13:23:00
 readingTime: 5

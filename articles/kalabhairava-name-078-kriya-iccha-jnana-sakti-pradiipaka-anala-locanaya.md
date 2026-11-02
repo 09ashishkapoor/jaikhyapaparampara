@@ -4,7 +4,7 @@ title: "Kalabhairava Name 78: Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya 
 breadcrumbTitle: "Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya"
 description: "English meaning and spiritual significance of Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya, the 78th name of Lord Kalabhairava, whose fiery eyes illumine action, will, and knowledge."
 keywords: "Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya, Kalabhairava name 78, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

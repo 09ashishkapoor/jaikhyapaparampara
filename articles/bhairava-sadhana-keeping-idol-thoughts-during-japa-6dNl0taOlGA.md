@@ -4,7 +4,7 @@ title: "Bhairava Sadhana: Keeping Idols, Managing Thoughts During Japa"
 breadcrumbTitle: "Idols, Thoughts, and Japa Practice"
 description: "Shri Praveen Radhakrishna addresses essential practical questions in Bhairava Sadhana — when to keep idols versus photographs, how to handle wandering thoughts during mantra Japa using the clock technique, and the discipline required during Sankalpa periods."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Bhairava Sadhana, Japa, idol worship, photograph worship, Prana Pratishta, Sankalpa, Anushtana, fasting, Devi Anugraha, mantra discipline"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-17 10:04:00
 readingTime: 7

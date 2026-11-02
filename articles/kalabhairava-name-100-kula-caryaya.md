@@ -4,7 +4,7 @@ title: "Kalabhairava Name 100: Kula-Caryaya - Meaning and Significance"
 breadcrumbTitle: "Kula-Caryaya"
 description: "English meaning and spiritual significance of Kula-Caryaya, the 100th name of Lord Kalabhairava, revered as the acharya who teaches and safeguards the sacred lineage."
 keywords: "Kula-Caryaya, Kalabhairava name 100, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kula-Caryaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

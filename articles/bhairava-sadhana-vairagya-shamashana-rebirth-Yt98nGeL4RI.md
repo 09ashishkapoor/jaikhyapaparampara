@@ -4,7 +4,7 @@ title: "Bhairava Sadhana: Vairagya, the Smashana, and Rebirth"
 breadcrumbTitle: "Vairagya, Smashana and Rebirth in Sadhana"
 description: "Shri Praveen Radhakrishna explains the true meaning of Vairagya — not mere detachment but the burning of the ego while alive — and reveals how Bhairava Sadhana, the Smashana, and Tantra are all ultimately about preparing the Jiva to consciously control its own rebirth."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Vairagya, Smashana, rebirth, Jiva, ego, Tantra, Batuka Bhairava, Kala Bhairava, Moksha, karma"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:09:00
 readingTime: 9

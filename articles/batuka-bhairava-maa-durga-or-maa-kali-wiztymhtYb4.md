@@ -4,7 +4,7 @@ title: "Batuka Bhairava: Maa Durga or Maa Kali — Which Path Is Right for You?"
 breadcrumbTitle: "Batuka Bhairava: Durga or Kali?"
 description: "Shri Praveen Radhakrishna explains the precise transition from Batuka Bhairava and Maa Durga to Kala Bhairava and Maa Kali — how each combination maps to a specific stage of life, why the Kali within Durga is revealed through the Raktabija story, and a critical teaching on never surrendering your sorrows to human beings."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Batuka Bhairava, Maa Durga, Kala Bhairava, Maa Kali, Raktabija, Vairagya, Sadhana path, Dasa Mahavidyas"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-17 10:06:00
 readingTime: 7

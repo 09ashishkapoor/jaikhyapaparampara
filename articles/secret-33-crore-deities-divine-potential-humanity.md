@@ -4,7 +4,7 @@ title: "The Secret of the 33 Crore Deities: Divine Potential in Every Human Bein
 breadcrumbTitle: "The 33 Crore Deities Secret"
 description: "Guru Shyama Khyapa debunks the literal interpretation of the '33 crore gods' and explains its origins in the population census and the spiritual concept of 'Jiva is Shiva'."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, 33 Crore Deities, Jiva is Shiva, Swami Vivekananda, Ramakrishna Paramahamsa, Sati Pithas, Jyotirlingas, 64 Yoginis, Goddess Shitala, Symbolism, Indian Heritage"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:29:00
 readingTime: 5

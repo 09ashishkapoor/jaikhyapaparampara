@@ -4,7 +4,7 @@ title: "New Year 1428 - Auspicious or Unlucky? Gurudev's Thoughts on Bengali New
 breadcrumbTitle: "Bengali New Year 1428 Message"
 description: "Guru Shyama Khyapa shares insights on Pohela Boishakh, the decline of Bengali cultural traditions under Western influence, and a prophetic warning about the eventful year ahead."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Pohela Boishakh, Bengali New Year, 1428, Cultural Heritage, British Influence, Calendar History, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 10:00:00
 readingTime: 5

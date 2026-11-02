@@ -4,7 +4,7 @@ title: "Bijoya Dashami Wishes and the Stories of Kinaram Babu and Tulsidas"
 breadcrumbTitle: "Bijoya Dashami Wishes and Stories"
 description: "Gurudev offers Bijoya Dashami wishes and narrates stories about Kinaram Babu and Tulsidas, including Hanumanji’s darshan. The conversation reflects on devotion, miracles, and true events."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bijoya Dashami, Kinaram Babu, Tulsidas, Hanumanji, Banaras, Kinaram Estate, Ramayana, Lahiri Mahasaya, Sitaramdas Omkarnath, darshan"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 20:38:00
 readingTime: 14

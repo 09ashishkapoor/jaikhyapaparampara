@@ -4,7 +4,7 @@ title: "Chaitanya Mahaprabhu: Life Story Part 1 - Guru Shyama Khyapa"
 breadcrumbTitle: "Chaitanya Mahaprabhu Life Story Part 1"
 description: "Guru Shyama Khyapa narrates the life story of Sri Chaitanya Mahaprabhu, from his birth as Nimai Pandit to his transformation into a divine devotee of Krishna, including stories of Jagai-Madhai and Jaban Haridas."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Chaitanya Mahaprabhu, Nimai Pandit, Jagai Madhai, Jaban Haridas, Bengal Renaissance, Krishna Bhakti, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:06:00
 readingTime: 7

@@ -4,7 +4,7 @@ title: "Diksha (Initiation): Guru Shyama Khyapa on the Sacred Guru-Disciple Rela
 breadcrumbTitle: "Diksha Initiation Sacred Process"
 description: "Guru Shyama Khyapa explains the necessity of Diksha (initiation), the signs that precede it, how to find your destined Guru, and why initiation can only happen once in a lifetime."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Diksha, Initiation, Guru, Disciple, Tantra, Spiritual Practice, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:02:00
 readingTime: 7

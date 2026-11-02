@@ -4,7 +4,7 @@ title: "Gurudev's Disciple Selected for Belur Math Durga Puja"
 breadcrumbTitle: "Disciple at Belur Math"
 description: "Gurudev speaks with his disciple Vishvadev Chakraborty about being chosen to perform Durga Puja at Belur Math and the tradition established by Swami Vivekananda. The conversation reflects on service, honest work, and the spiritual standards of the Ramakrishna Mission." 
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Belur Math, Durga Puja, Kumari Puja, Swami Vivekananda, Vishvadev Chakraborty, Ramakrishna Mission, priest selection, astrology, Senco Gold, service, Kanyakumari"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:50:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Mother's Cosmetics and the Divine Child: Guru Shyama Khyapa's Sacred Bon
 breadcrumbTitle: "Divine Mother Child Form"
 description: "Guru Shyama Khyapa shares intimate moments preparing the Divine Mother in her child-like form during Mahalaya, revealing the depth of devotion between a Guru and the Goddess he reveres as his daughter."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Divine Mother, Mahalaya, child-like form, Guru devotion, Goddess worship"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:46:00
 readingTime: 5

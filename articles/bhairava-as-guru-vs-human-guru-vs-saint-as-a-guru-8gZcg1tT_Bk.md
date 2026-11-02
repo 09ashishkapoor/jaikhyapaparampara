@@ -4,7 +4,7 @@ title: "Bhairava as Guru vs Human Guru vs Saint as Guru: Who Do You Need?"
 breadcrumbTitle: "Bhairava, Human Guru, and Saints"
 description: "Shri Praveen Radhakrishna explains the crucial differences between taking Bhairava Himself as Guru, invoking a physical or Manasik Guru, or following a saint in Samadhi — and which type of Guru is right for you based on where you stand in Sadhana."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Manasik Guru, Guru, Sadhana, Kali Putra Mission, Kali Yuga, Diksha, Deity as Guru, Guru Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:47:00
 readingTime: 10

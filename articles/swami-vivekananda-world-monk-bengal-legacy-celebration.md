@@ -4,7 +4,7 @@ title: "Swami Vivekananda: Bengal's World Monk and His Underappreciated Legacy"
 breadcrumbTitle: "Vivekananda and His Unmet Legacy"
 description: "Gurudev discusses Swami Vivekananda's birthday, his extraordinary teachings, his devotion to Guru Ramakrishna, and why his message of fearlessness remains largely unheeded despite its global significance."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Swami Vivekananda, Ramakrishna Paramahamsa, Monism, Advaita, Spiritual Teaching, World Monk, Bengal"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 14:01:00
 readingTime: 14

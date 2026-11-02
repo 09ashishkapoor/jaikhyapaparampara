@@ -4,7 +4,7 @@ title: "What is Ego? The Intelligence of the Mind"
 breadcrumbTitle: "Understanding Ego"
 description: "Guru Baba Shyama Khyapa explains the spiritual nature of ego, its relationship with mind and intelligence, and shares a powerful story about a sage, a crow, and a butcher."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, Ego, Mind, Intelligence, Spiritual Practice, Kakcharit, Crow Lore, Tantra, Pride"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27
 readingTime: 15

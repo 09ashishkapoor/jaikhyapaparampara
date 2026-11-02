@@ -4,7 +4,7 @@ title: "Kalabhairava Name 79: Kamya-Adi-Karmma-Sarvasva-Phala-Daya - Meaning and
 breadcrumbTitle: "Kamya-Adi-Karmma-Sarvasva-Phala-Daya"
 description: "English meaning and spiritual significance of Kamya-Adi-Karmma-Sarvasva-Phala-Daya, the 79th name of Lord Kalabhairava, who grants the fruits of all desire-driven actions."
 keywords: "Kamya-Adi-Karmma-Sarvasva-Phala-Daya, Kalabhairava name 79, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kamya-Adi-Karmma-Sarvasva-Phala-Daya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

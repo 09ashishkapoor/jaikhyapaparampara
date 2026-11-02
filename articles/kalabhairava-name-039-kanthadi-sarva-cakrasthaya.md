@@ -4,7 +4,7 @@ title: "Kalabhairava Name 39: Kanthadi-Sarva-Cakrasthaya - Meaning and Significa
 breadcrumbTitle: "Kanthadi-Sarva-Cakrasthaya"
 description: "English meaning and spiritual significance of Kanthadi-Sarva-Cakrasthaya, the 39th name of Lord Kalabhairava, who abides in the chakras from the throat upward."
 keywords: "Kanthadi-Sarva-Cakrasthaya, Kalabhairava name 39, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kanthadi-Sarva-Cakrasthaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

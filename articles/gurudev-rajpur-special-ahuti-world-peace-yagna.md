@@ -4,7 +4,7 @@ title: "Gurudev Rajpur Special Ahuti: Yagna for World Peace"
 breadcrumbTitle: "Rajpur Special Ahuti"
 description: "At Shantikunj in Rajpur, Gurudev Shyama Khyapa performs a special yagna for world peace, with prayers to Dakshina Kali and the chanting of sacred mantras."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Rajpur, Shantikunj, Ahuti, Yagna, Homa, world peace, Dakshina Kali, Vishnu mantras"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:05:00
 readingTime: 3

@@ -4,7 +4,7 @@ title: "Destiny Cannot Be Undone: The Story of the Ordainer and the Saint's Test
 breadcrumbTitle: "Destiny and the Ordainer's Writing"
 description: "Guru Shyama Khyapa shares a profound story about the Ordainer of Fate (Vidhata) and a saint who tried to test destiny, revealing that what is written cannot be undone—the Ordainer Himself ensures its fulfillment."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, destiny, fate, Ordainer, Vidhata, Mahamrityunjaya, Yama, Shiva, karma"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:38:00
 readingTime: 6

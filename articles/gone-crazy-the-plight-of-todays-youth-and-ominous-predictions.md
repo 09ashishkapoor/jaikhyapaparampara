@@ -4,7 +4,7 @@ title: "Gone Crazy: The Plight of Today's Youth and Ominous Predictions"
 breadcrumbTitle: "Gone Crazy"
 description: "Guru Shyama Khyapa discusses the unemployed youth, societal decay due to alcohol and vices, and predicts massive earthquakes, world wars, and the need for spiritual awakening."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shyama Khyapa, Youth, Unemployment, Vivekananda, Predictions, Earthquake, World War, Spiritual Awakening"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 18

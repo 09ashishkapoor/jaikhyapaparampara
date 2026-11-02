@@ -4,7 +4,7 @@ title: "Lust, Love Affairs, Cheating, and Marriages: The Teaching of the Rasalil
 breadcrumbTitle: "Lust, Love Affairs, and the Rasalila"
 description: "Shri Praveen Radhakrishna reveals the profound esoteric teaching of Krishna's Rasalila — explaining how Devi fills the emptiness within each Sadhaka through external experiences, why physical unions create binding karma, and how Vairagya allows one to take the Rasa without attachment."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Rasalila, Krishna Radha, lust and Sadhana, Sthula Sukshma Karana, Vairagya, Rinanubandhana, marriage and Sadhana, love affairs karma, Adya Kali, Gopis"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:58:00
 readingTime: 10

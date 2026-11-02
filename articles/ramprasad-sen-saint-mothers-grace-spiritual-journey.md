@@ -4,7 +4,7 @@ title: "Ramprasad Sen - The Saint Who Felt Mother's Grace But Never Saw Her: Sad
 breadcrumbTitle: "Ramprasad Sen - Divine Mother's Mystery"
 description: "Guru Shyama Khyapa reveals the profound spiritual journey of Sadhak Ramprasad Sen, a great Tantric saint of Bengal whose songs expressed his cosmic longing for the Mother. Despite feeling her presence and receiving her grace constantly, he never saw her face."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Ramprasad Sen, Sadhak Ramprasad, Kali, Tantra, Bengal Saints, Divine Grace, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 30

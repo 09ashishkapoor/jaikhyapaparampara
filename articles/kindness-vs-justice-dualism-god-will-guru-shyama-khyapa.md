@@ -4,7 +4,7 @@ title: "Kindness vs Justice: Guru Shyama Khyapa Answers Devotees' Questions on D
 breadcrumbTitle: "Kindness vs Justice and God's Will"
 description: "Guru Shyama Khyapa answers devotees' profound questions about the difference between kindness and justice, the concepts of dualism and non-dualism, and whether God truly incites human actions."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, kindness, justice, dualism, non-dualism, dvaita, advaita, divine will, free will, Ramprasad, devotees' questions"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:26:00
 readingTime: 11

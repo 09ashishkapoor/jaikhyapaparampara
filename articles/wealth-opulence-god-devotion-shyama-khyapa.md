@@ -4,7 +4,7 @@ title: "Can God Be Won Over With Wealth? Gurudev's Wisdom on True Devotion"
 breadcrumbTitle: "Wealth and God"
 description: "Guru Shyama Khyapa answers whether God can be won over with wealth and opulence. He explains that true devotion requires love, respect, and renunciation, not money."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, God, Wealth, Opulence, Devotion, Faith, Karma, Sacrifice"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:18:00
 readingTime: 3

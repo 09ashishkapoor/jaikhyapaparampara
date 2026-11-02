@@ -4,7 +4,7 @@ title: "Pagla Baba's Journey: Divine Mother Escorts Him in Naxalbari"
 breadcrumbTitle: "Pagla Baba Naxalbari Divine Escort"
 description: "Guru Shyama Khyapa shares miraculous photos showing the Divine Mother with crown and anklets escorting Pagla Baba on his walking pilgrimage, and updates on his Homa rituals in Siliguri."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pagla Baba, Naxalbari, Siliguri, walking pilgrimage, Divine Mother, crown, anklets, miraculous photo, Homa, RSS, Bharat Sevashram Sangha"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:29:00
 readingTime: 4

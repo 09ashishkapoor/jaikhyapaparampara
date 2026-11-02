@@ -4,7 +4,7 @@ title: "Kanda Sasti Kavacam: English Lyrics, Meaning & Benefits"
 breadcrumbTitle: "Kanda Sasti Kavacam"
 description: "Kanda Sasti Kavacam: Complete guide with English lyrics, meaning, and benefits. Learn how this armor of Lord Murugan provides protection and strength."
 keywords: "Kanda Sasti Kavacam, Lord Murugan, Tamil hymn, protection prayer, Skanda Sashti, English translation, Murugan lyrics, spiritual protection"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "KaliPutra-Ashish"
 date: 2025-12-25
 readingTime: 15

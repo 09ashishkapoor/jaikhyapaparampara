@@ -4,7 +4,7 @@ title: "The Omen of the Broken Flag: Jagannath Temple and the Coming Cataclysm"
 breadcrumbTitle: "Omen of Jagannath's Flag"
 description: "Guru Shyama Khyapa interprets the falling of the flag at the Jagannath Temple in Puri as a terrifying omen of impending global disasters and divine displeasure."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jagannath Temple Puri, Garuda Dhwaja, Omen, Prophecy, COVID-19, Pralay, Natural Disasters, Sins of Humanity"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:24:00
 readingTime: 4

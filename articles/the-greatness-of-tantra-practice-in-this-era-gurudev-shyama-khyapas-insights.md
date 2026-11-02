@@ -4,7 +4,7 @@ title: "The Greatness of Tantra Practice in This Era: Gurudev Shyama Khyapa's In
 breadcrumbTitle: "Greatness of Tantra"
 description: "Guru Shyama Khyapa explains the true purpose of Tantra practice, the essence of becoming a Tantrik, the importance of serving society without greed, and why Diksha (initiation) should never be sold."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tantra, Tantrik, Tantra Sadhana, Diksha, Initiation, Welfare, Jagannath"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 25

@@ -4,7 +4,7 @@ title: "Pushya Nakshatra: Gurudev Returns to Temple for Auspicious Homa Ritual"
 breadcrumbTitle: "Pushya Nakshatra and Temple Return"
 description: "Guru Shyama Khyapa returns to Shantikunj temple after illness, performs Homa on Pushya Nakshatra and Shukla Chaturdashi, and explains the significance of auspicious planetary positions."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Pushya Nakshatra, Homa, Shukla Chaturdashi, Maghi Purnima, Auspicious Timing, Rohini, Revati, Planetary Positions"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:38:00
 readingTime: 7

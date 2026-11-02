@@ -4,7 +4,7 @@ title: "Khatu Shyam and the Untold Story of Barbarika: The Greatest Witness of t
 breadcrumbTitle: "Khatu Shyam Barbarika Mahabharata Story"
 description: "Guru Shyama Khyapa recounts the fascinating story of Barbarika—grandson of Bhima and son of Ghatotkacha—who could end the Kurukshetra war in a single day with three arrows, was asked to sacrifice his head by Lord Krishna, watched the entire war from a hilltop, and was blessed to be worshipped as Khatu Shyam in the Kali Yuga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Khatu Shyam, Barbarika, Mahabharata, Ghatotkacha, Bhima, Hidimba, Kurukshetra, three arrows, Krishna, Sudarshana Chakra, Rajasthan, Kali Yuga"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:21:00
 readingTime: 5

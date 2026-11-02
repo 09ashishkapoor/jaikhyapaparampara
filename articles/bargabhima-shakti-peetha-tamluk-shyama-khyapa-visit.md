@@ -4,7 +4,7 @@ title: "Bargabhima Shakti Peetha: Guru Shyama Khyapa Visits the First of the 51 
 breadcrumbTitle: "Bargabhima Shakti Peetha Tamluk Visit"
 description: "Guru Shyama Khyapa visits the Bargabhima temple in Tamluk (ancient Tamralipta)—the first of India's 51 Shakti Peethas—exploring its sacred history, the legends of Shiva's liberation from sin, the miraculous Keli-Kadamba tree that grants children, and the Saptashati Mahayagna performed with sun-kindled fire."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bargabhima, Tamluk, Tamralipta, Shakti Peetha, Bhimrupa, Ugratara, Kali, Saptashati, Sena dynasty, Keli Kadamba, Sati, Daksha, Mahabharata"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:28:00
 readingTime: 5

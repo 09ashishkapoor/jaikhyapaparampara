@@ -4,7 +4,7 @@ title: "Does the Mother of the Earth Get Sick? Guru Shyama Khyapa Explains"
 breadcrumbTitle: "Ma Tara's Illness"
 description: "Guru Shyama Khyapa reveals the mystical reality of Ma Tara falling ill, how saints sense her pain through yoga, and the secret of drawing universal power into an idol."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Ma Tara, Bama Deb, Tantra, Yoga, God Particle, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 5

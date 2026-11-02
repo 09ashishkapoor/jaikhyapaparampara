@@ -4,7 +4,7 @@ title: "Pagla Baba Arrives at Kamakhya: Guru Shyama Khyapa's Health Crisis and S
 breadcrumbTitle: "Pagla Baba Kamakhya Arrival"
 description: "Guru Shyama Khyapa reveals Pagla Baba's arrival near Kamakhya temple for Shukla Ekadashi darshan while sharing his own health struggles from treating cancer patients and spiritual work."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pagla Baba, Kamakhya, Ekadashi, Nalbari, Bishwarup Ghatak, Shantikunja, Health Crisis, Cancer Treatment"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 10:02:00
 readingTime: 7

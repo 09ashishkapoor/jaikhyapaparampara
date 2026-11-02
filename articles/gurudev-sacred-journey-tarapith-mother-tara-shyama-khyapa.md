@@ -4,7 +4,7 @@ title: "Gurudev's Sacred Journey to Tarapith — Spiritual Enlightenment and Mot
 breadcrumbTitle: "Gurudev's Sacred Journey to Tarapith"
 description: "Guru Shyama Khyapa and Dr. Sujit Kar share the profound spiritual experience of their visit to Tarapith — the sacred connection with Mother Tara, the restlessness of the Guru, and the power of fulfilled promises."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tarapith, Mother Tara, Bamdev Baba, Dr. Sujit Kar, Mundamalinitola, pilgrimage, Matri Darshan, cremation ground"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 06:47:00
 readingTime: 5

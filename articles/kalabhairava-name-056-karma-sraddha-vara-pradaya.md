@@ -4,7 +4,7 @@ title: "Kalabhairava Name 56: Karma-Sraddha-Vara-Pradaya - Meaning and Significa
 breadcrumbTitle: "Karma-Sraddha-Vara-Pradaya"
 description: "English meaning and spiritual significance of Karma-Sraddha-Vara-Pradaya, the 56th name of Lord Kalabhairava, bestower of steadfast faith in righteous action and disciplined effort."
 keywords: "Karma-Sraddha-Vara-Pradaya, Kalabhairava name 56, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karma-Sraddha-Vara-Pradaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

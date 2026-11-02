@@ -4,7 +4,7 @@ title: "Are You Cursed? The Eight Signs of Bloodline Affliction (Ashta Daridra)"
 breadcrumbTitle: "Are You Cursed? Eight Signs of Ashta Daridra"
 description: "Shri Praveen Radhakrishna explains the Ashta Daridra — the eight forms of poverty and bloodline affliction — providing practical signs to identify which curse is active in your lineage, and a clear path to removal through Sadhana and Annadanam during Pitru Paksha."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Ashta Daridra, Pitru Paksha, bloodline curse, Pitru Dosha, Ayu, Arogya, Dhana Dhanya, Kali Sadhana, Annadanam, Mahalaya Amavasya, Adya Kali"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:24:00
 readingTime: 6

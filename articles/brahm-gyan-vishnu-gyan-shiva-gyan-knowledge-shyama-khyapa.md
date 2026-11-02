@@ -4,7 +4,7 @@ title: "Brahm Gyan, Vishnu Gyan, Shiva Gyan: Gurudev's Enlightenment on Knowledg
 breadcrumbTitle: "Three Types of Spiritual Knowledge"
 description: "Guru Shyama Khyapa explains the three types of knowledge—Brahm Gyan, Vishnu Gyan, and Shiva Gyan—how they relate to Mahasaraswati, Mahalakshmi, and Mahakali worship, and the difference between bookish and realized knowledge."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Brahm Gyan, Vishnu Gyan, Shiva Gyan, Knowledge, Mahasaraswati, Mahalakshmi, Mahakali, Tantra, Vedas, Brahmacharya, Soham"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:50:00
 readingTime: 11

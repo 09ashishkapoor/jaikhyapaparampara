@@ -4,7 +4,7 @@ title: "Kalabhairava Name 55: Kala-Kantha-Rava-Nandine - Meaning and Significanc
 breadcrumbTitle: "Kala-Kantha-Rava-Nandine"
 description: "English meaning and spiritual significance of Kala-Kantha-Rava-Nandine, the 55th name of Lord Kalabhairava, who delights in the sweet cry of the dark-throated bird and the harmony within creation."
 keywords: "Kala-Kantha-Rava-Nandine, Kalabhairava name 55, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Kantha-Rava-Nandine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

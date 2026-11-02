@@ -4,7 +4,7 @@ title: "Origin of Chandi: Medha Rishi Ashram and the True History of Durga Puja"
 breadcrumbTitle: "Chandi Origin and Durga Puja History"
 description: "Guru Shyama Khyapa reveals the origin of the Chandi Path at Medha Rishi's Ashram in Garh Jungle, the story of King Suratha and the merchant Samadhi, and explains Akal Bodhan versus Basanti Puja."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Chandi, Medha Rishi, Durga Puja, Akal Bodhan, Basanti Puja, Spiritual History"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 13:28:00
 readingTime: 10

@@ -4,7 +4,7 @@ title: "Is Mahadev Without a Tribe? Guru Shyama Khyapa on Shiva's Gotra and Shak
 breadcrumbTitle: "Shiva Gotrahin and Shakti Peethas Origin"
 description: "Guru Shyama Khyapa reveals why Shiva has no Gotra, the story of Daksha Yagna, how Gauri became Kali, and the true origin of the 51 Shakti Peethas."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Shiva, Gotra, Shakti Peethas, Daksha Yagna, Kali, Gauri, Rudraksha, Swayambhu"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:40:00
 readingTime: 7

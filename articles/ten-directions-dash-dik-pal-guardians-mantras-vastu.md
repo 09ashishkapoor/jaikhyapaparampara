@@ -4,7 +4,7 @@ title: "Ten Directions and Their Guardians: Dash Dik Pal, Mantras, and Vastu Sha
 breadcrumbTitle: "Ten Directions Guardians Dash Dik Pal"
 description: "Guru Shyama Khyapa explains the ten directional guardians (Dash Dik Pal), their seed mantras, and the origins of Vastu Shastra and Feng Shui in ancient Indian wisdom."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, ten directions, Dash Dik Pal, Indra, Varuna, Kubera, Yama, Ishan, Nairit, Agni, Vayu, Brahma, Ananta, Vastu Shastra, Feng Shui, Khona, mantras, East, West, North, South"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:38:00
 readingTime: 6

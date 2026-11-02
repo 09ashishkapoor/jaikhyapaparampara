@@ -4,7 +4,7 @@ title: "Kalabhairava Name 77: Koti-Surya-Sama-Prabhaya - Meaning and Significanc
 breadcrumbTitle: "Koti-Surya-Sama-Prabhaya"
 description: "English meaning and spiritual significance of Koti-Surya-Sama-Prabhaya, the 77th name of Lord Kalabhairava, whose radiance is likened to ten million suns."
 keywords: "Koti-Surya-Sama-Prabhaya, Kalabhairava name 77, 108 names of Kalabhairava, Kalabhairava namavali meaning, Koti-Surya-Sama-Prabhaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

@@ -4,7 +4,7 @@ title: "Method of Tantra Practice: Oath, Shmashan, Guru Choice, and Yogini — S
 breadcrumbTitle: "Method of Tantra Practice Explained"
 description: "Guru Shyama Khyapa explains the true method of Tantra Sadhana — the mandatory vow for human welfare, choosing a Guru in the cremation grounds, the test of the midnight hour, Pashvachara and Divyachara stages, and the role of the Yogini in empowering the seeker."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tantra Sadhana, Shmashan, Pashvachara, Divyachara, Guru Disciple, Yogini, Kali Sadhana"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:41:00
 readingTime: 7

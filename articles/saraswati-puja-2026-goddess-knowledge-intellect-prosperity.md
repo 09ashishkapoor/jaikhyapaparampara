@@ -4,7 +4,7 @@ title: "Saraswati Puja 2026: The Goddess of Knowledge, Intellect, and Prosperity
 breadcrumbTitle: "Saraswati Puja Knowledge Intellect"
 description: "Guru Shyama Khyapa reveals the deep spiritual significance of Saraswati Puja, the connection between knowledge and wealth, and the power of Neel Saraswati Kavach for academic success."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Saraswati Puja, Vidya Yantra, Knowledge, Intellect, Vishalakshi, Maha-Saraswati, Bhadrakali, Neel Saraswati Kavach"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 00:01:00
 readingTime: 8

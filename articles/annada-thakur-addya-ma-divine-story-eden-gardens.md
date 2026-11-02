@@ -4,7 +4,7 @@ title: "Annada Thakur and Addya Ma: The Divine Story of Eden Gardens"
 breadcrumbTitle: "Annada Thakur Addya Ma Divine Story"
 description: "Guru Shyama Khyapa narrates the mystical life of Annada Thakur, the divine madman who established Addya Ma in Kolkata, his visions, struggles, and ultimate immersion of the living deity."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Annada Thakur, Addya Ma, Eden Gardens, Sri Ramakrishna, Swapnadesh, divine vision, idol immersion, Chittagong, Ayurveda, Sabarna Choudhury, 29 years"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:24:00
 readingTime: 5

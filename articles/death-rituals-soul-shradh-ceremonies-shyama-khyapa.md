@@ -4,7 +4,7 @@ title: "Death Rituals and Soul Science: Guru Shyama Khyapa Explains the Mystery 
 breadcrumbTitle: "Death Rituals and Soul Science"
 description: "Guru Shyama Khyapa reveals the truth about what happens to the soul after death, the spiritual science of Shradh ceremonies, Pinda offerings, possession, and the mysterious role of the Yogini in the soul's journey."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, death rituals, soul, Shradh ceremony, Hindu funeral rites, afterlife, karma, soul possession, Pinda-dan, Dasha ritual, spiritual science, Gupta Sadhak Shyamakhyapa, afterlife practices, ritual impurity"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 22

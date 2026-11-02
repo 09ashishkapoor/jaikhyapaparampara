@@ -4,7 +4,7 @@ title: "Kakaradi Kali Sahasranama in English: Names 778-888 with One-Line Meanin
 breadcrumbTitle: "Kakaradi Kali Sahasranama Names 778-888"
 description: "Read names 778-888 of the Kakaradi Kali Sahasranama in English, with simple one-line devotional meanings for Kali prayer, japa, kula study, and contemplation."
 keywords: "Kakaradi Kali Sahasranama in English, Kakārādi Kali Sahasranama, Kali Sahasranama names with meaning, Kali 1000 names English meaning, Maa Kali names, Kali namavali, Kali devotional meanings, Kula Kali names, Kumari Puja Kali names, Kundalini Kali, Kurukulla Kali, Kubjika Kali, Kakaradi Kali names 778-888"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "KaliPutra-Ashish"
 date: 2026-04-26
 readingTime: 14

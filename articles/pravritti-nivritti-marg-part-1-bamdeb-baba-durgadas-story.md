@@ -4,7 +4,7 @@ title: "The Path of Attachment and the Path of Detachment Part 1: Bama-dev Baba 
 breadcrumbTitle: "Pravritti Nivritti Marg Part 1"
 description: "Guru Shyama Khyapa explains Pravritti Marg (path of worldly attachment) and Nivritti Marg (path of renunciation) through the story of Bama-dev Baba and Durgadas Kaka, including discussions on Ashtanga Yoga, the six chakras, and Kundalini awakening."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Pravritti Marg, Nivritti Marg, Bama-dev Baba, Durgadas Kaka, Ashtanga Yoga, Chakras, Kundalini, Kumbhaka, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:37:00
 readingTime: 5

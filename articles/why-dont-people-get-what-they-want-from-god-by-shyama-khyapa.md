@@ -4,7 +4,7 @@ title: "Why Don't People Get What They Want from God? by Shyama Khyapa"
 breadcrumbTitle: "Why Don't People Get What They Want"
 description: "Guru Shyama Khyapa discusses the flaws in our prayers, why material requests go unanswered, and the importance of seeking wisdom and righteousness from the Divine."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, GuruDeva Shyama Khyapa, Prayers, God, Wisdom, Vivekananda, Devotion"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 15

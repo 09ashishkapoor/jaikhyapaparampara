@@ -4,7 +4,7 @@ title: "The Power of Omkar: Pranava Mantra Meditation and Self-Inquiry with Guru
 breadcrumbTitle: "Omkar Pranava Meditation"
 description: "Guru Shyama Khyapa explains the profound practice of Omkar chanting, the three essential questions of self-inquiry ('Who am I?'), and recites sacred mantras for Kamakhya worship."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Omkar, Pranava Mantra, Om Meditation, Self-Inquiry, Who Am I, Kamakhya, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 15:30:00
 readingTime: 6

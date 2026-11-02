@@ -4,7 +4,7 @@ title: "Bengali Year 1429 Predictions: How Will the Next Year Be?"
 breadcrumbTitle: "Bengali Year 1429 Predictions"
 description: "Guru Shyama Khyapa shares his predictions for the upcoming Bengali year 1429, warning of natural disasters, political upheaval, and calling for spiritual awakening to navigate difficult times."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bengali New Year, 1429, Predictions, Prophecy, Earthquake, Cyclone, Political Upheaval, Sanatan Dharma"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:03:00
 readingTime: 3

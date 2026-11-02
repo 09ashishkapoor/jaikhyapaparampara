@@ -4,7 +4,7 @@ title: "Special Appeal: Gurudev's Health and Request to Avoid Visits"
 breadcrumbTitle: "Special Appeal Gurudev Health Request"
 description: "An urgent appeal from Gurudev Shyama Khyapa's caregivers requesting devotees not to visit due to his severe illness, cough, fever, and risk of infection."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gurudev Health, Devotional Visits, Recovery, Infection Risk, Special Appeal"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:53:00
 readingTime: 3

@@ -4,7 +4,7 @@ title: "End of Kali Yuga: Bhavishya Malika and the Next Seven Years — Guru Shy
 breadcrumbTitle: "End of Kali Yuga Bhavishya Malika"
 description: "Guru Shyama Khyapa discusses the Bhavishya Malika, prophecies for the next seven years, 700 crore perish, Puri Jagannath, and the way of salvation."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bhavishya Malika, Kali Yuga, Jagannath, prophecy, World War III, Kalki Avatar"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:14:00
 readingTime: 4

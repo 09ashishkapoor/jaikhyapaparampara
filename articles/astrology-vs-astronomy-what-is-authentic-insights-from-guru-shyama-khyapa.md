@@ -4,7 +4,7 @@ title: "Astrology vs Astronomy: What is Authentic? Insights from Guru Shyama Khy
 breadcrumbTitle: "Astrology vs Astronomy"
 description: "Guru Shyama Khyapa explains the differences between unscientific Astrology and scientific Astronomy, discussing planetary positions, gemstones, and predictions about the COVID-19 pandemic based on the Natakarta (star) cycles."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Astrology, Astronomy, Planets, Gemstones, COVID-19, Nakshatras, Krittika, Rohini, Science of Stars"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 30

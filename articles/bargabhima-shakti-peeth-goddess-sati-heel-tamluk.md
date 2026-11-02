@@ -4,7 +4,7 @@ title: "Bargabhima: The Shakti Peeth Where Goddess Sati's Heel Fell"
 breadcrumbTitle: "Bargabhima Sacred Shakti Peeth"
 description: "An exploration of Bargabhima, one of the fifty-one Shakti Peethas in Tamluk, with rich legends of the Jibantakunda sacred pond, King Tamradhwaj's devotion, Netaji Subhash Chandra Bose's visit, and the worship of Goddess Ugra Tara."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bargabhima, Shakti Peeth, Ugra Tara, Kali worship, Tamluk, sacred pond"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 14:09:00
 readingTime: 10

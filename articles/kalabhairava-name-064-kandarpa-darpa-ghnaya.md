@@ -4,7 +4,7 @@ title: "Kalabhairava Name 64: Kandarpa-Darpa-Ghnaya - Meaning and Significance"
 breadcrumbTitle: "Kandarpa-Darpa-Ghnaya"
 description: "English meaning and spiritual significance of Kandarpa-Darpa-Ghnaya, the 64th name of Lord Kalabhairava, who crushes the pride of Kama and reveals mastery over desire."
 keywords: "Kandarpa-Darpa-Ghnaya, Kalabhairava name 64, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kandarpa-Darpa-Ghnaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

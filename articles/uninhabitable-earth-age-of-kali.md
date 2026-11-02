@@ -4,7 +4,7 @@ title: "The Uninhabitable Earth: Guru Shyama Khyapa on the Age of Kali"
 breadcrumbTitle: "Uninhabitable Earth"
 description: "Guru Shyama Khyapa explains the spiritual and environmental decay of the modern world, tracing the origins of the Kali Yuga to King Parikshit and its manifestation through global warming and pollution."
 keywords: "Guru Shyama Khyapa, Kali Yuga, King Parikshit, Global Warming, Environmental Crisis, Space Pollution, Spiritual Decay, Narayana, Prophecy"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 11

@@ -4,7 +4,7 @@ title: "Krishnananda Agambagish: Agam and Nigam Tantra"
 breadcrumbTitle: "Agam and Nigam Tantra Secrets"
 description: "Guru Shyama Khyapa discusses Krishnananda Agambagish, Agam and Nigam Tantra, and his view that Tantric practice should serve others."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Agam Tantra, Nigam Tantra, Krishnananda Agambagish, Tantra Practice, Spiritual Liberation"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:02:00
 readingTime: 6

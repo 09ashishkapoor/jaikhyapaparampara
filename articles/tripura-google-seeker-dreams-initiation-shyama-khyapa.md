@@ -4,7 +4,7 @@ title: "From Faraway Tripura, Trusting Google: Guru Shyama Khyapa on Divine Drea
 breadcrumbTitle: "Tripura Seeker Google Journey"
 description: "A devotee from Tripura shares his recurring dream of a meditating saint by a river, how YouTube and Google Maps led him to Gurudev, and the signs that indicate initiation time has arrived."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Initiation, Dreams, Tripura, YouTube, Google Maps, Spiritual Signs, Divine Connection"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:49:00
 readingTime: 5

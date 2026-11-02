@@ -4,7 +4,7 @@ title: "Tarakhepa: The Spiritual Revolutionary, Netaji's Guru, and the Gold from
 breadcrumbTitle: "Tarakhepa: Netaji's Guru and Spiritual Revolutionary"
 description: "A visiting devotee shares rare history about Tarakhepa — the powerful saint from Berhampore who guided Netaji Subhash Chandra Bose, turned earth into gold through yogic powers, and was connected to the revolutionary movement."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tarakhepa, Bama Khepa, Netaji Subhash Chandra Bose, Berhampore, Panchagni Vidya, Chandannagar, Prabartak Sangha, Ashta Bajra Milan"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:47:00
 readingTime: 5

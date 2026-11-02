@@ -4,7 +4,7 @@ title: "Tantra Sadhana and Kula Kundalini Part 3: True vs. False Tantriks — Sh
 breadcrumbTitle: "True vs. False Tantriks Explained"
 description: "Guru Shyama Khyapa exposes the false practices done in the name of Tantra, explains the inner meaning of the Pancha Makara, and speaks on the true goal of Tantrik sadhana — the welfare of all living beings."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tantra Sadhana, Kula Kundalini, Pancha Makara, False Tantriks, Tarapith, Spiritual Teachings"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:35:00
 readingTime: 6

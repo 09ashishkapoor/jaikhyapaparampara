@@ -4,7 +4,7 @@ title: "Guru Chandal Dosha: The Astrological Misconception and Its True Meaning"
 breadcrumbTitle: "Guru Chandal Dosha Truth"
 description: "Guru Shyama Khyapa and disciple Shantanu debunk the widely feared 'Guru Chandal Dosha' in astrology, revealing it is actually Guru-Shishya Yoga—a beneficial combination of Jupiter and Rahu."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Guru Chandal Dosha, Astrology, Rahu, Jupiter, Brihaspati, Grahana Dosha, Nakshatras, Vedic Astrology"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:12:00
 readingTime: 7

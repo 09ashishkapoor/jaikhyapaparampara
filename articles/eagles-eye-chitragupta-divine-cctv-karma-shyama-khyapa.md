@@ -4,7 +4,7 @@ title: "Eagle's Eye: Chitragupta's Ledger and the Divine CCTV of Karma"
 breadcrumbTitle: "Eagle's Eye - Divine Justice"
 description: "Guru Shyama Khyapa explains the concept of divine surveillance through Chitragupta, shares the story of two friends and the pigeon test, and discusses Vishwakarma Puja."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Eagle's Eye, Chitragupta, Divine CCTV, Karma, Bhava Pagla, Pigeon Story, Vishwakarma Puja"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:09:00
 readingTime: 4

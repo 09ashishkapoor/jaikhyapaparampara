@@ -4,7 +4,7 @@ title: "The Return of Pagla Baba from Kamakhya: A Spiritual Journey"
 breadcrumbTitle: "Pagla Baba's Return"
 description: "Guru Shyama Khyapa welcomes his disciple Santu Acharya (Pagla Baba) back from a four-month pilgrimage to Kamakhya Temple, highlighting the deep Guru-disciple bond and spiritual significance."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pagla Baba, Santu Acharya, Kamakhya, Pilgrimage, Guru-Disciple, Spiritual Practice"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 10

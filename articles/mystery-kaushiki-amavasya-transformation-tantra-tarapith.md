@@ -4,7 +4,7 @@ title: "The Mystery of Kaushiki Amavasya: Transformation, Tantra, and the Truth 
 breadcrumbTitle: "Kaushiki Amavasya Mystery"
 description: "Guru Shyama Khyapa explains the profound meaning of 'Kaushik,' the legend of Mother Durga's transformation into Kali for Mahadev's Kriya, and warns against commercialized rituals."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kaushiki Amavasya, Koushika, Mother Tara, Tarapith, Mahadev, Durga to Kali Transformation, Adharani Tantra, Bama Khepa, Tantra Truth"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:31:00
 readingTime: 6

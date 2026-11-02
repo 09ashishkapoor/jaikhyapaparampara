@@ -4,7 +4,7 @@ title: "Disciples of Swami Nigamananda Meet Guru Shyama Khyapa"
 breadcrumbTitle: "Nigamananda Disciples Meeting"
 description: "A profound spiritual meeting between Guru Shyama Khyapa and Brahmananda Brahmachari, discussing selflessness, the purity of Guru-disciple relations, and the future of spiritual seekers."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Swami Nigamananda, Brahmananda Brahmachari, Spiritual Service, Dakshina Kali, Shantikunj Ashram"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:07:00
 readingTime: 6

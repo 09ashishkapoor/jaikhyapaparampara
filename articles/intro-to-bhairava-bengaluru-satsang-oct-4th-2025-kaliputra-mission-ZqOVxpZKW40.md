@@ -4,7 +4,7 @@ title: "Introduction to Bhairava: Bengaluru Satsang — Kaliputra Mission"
 breadcrumbTitle: "Introduction to Bhairava: Bengaluru Satsang"
 description: "A complete record of Shri Praveen Radhakrishna's October 2025 Bengaluru Satsang introducing Bhairava — covering the Kaula path, Sri Bamakhepa's lineage, the etymology of Bhairava, his dog Vahana, Adya Kali, and the correct approach to Bhairava Sadhana."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Kaliputra Mission, Bamakhepa, Adya Kali, Kaula path, Swarna Akarshana Bhairava, Vatuka Bhairava, Kshetrapala, Bhairava Sadhana"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:28:00
 readingTime: 11

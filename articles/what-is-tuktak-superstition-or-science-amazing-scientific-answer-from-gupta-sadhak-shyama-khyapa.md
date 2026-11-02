@@ -4,7 +4,7 @@ title: "What is Tuktak? Superstition or Science? Amazing Scientific Answer from 
 breadcrumbTitle: "Tuktak Superstition or Science"
 description: "Guru Shyama Khyapa explains the phenomenon of Tuktak, debunking superstitions about black magic, ghosts, and curses as mental delusions and ignorance."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, GuruDeva Shyama Khyapa, Tuktak, Superstition, Science, Black Magic, Ghosts, Curses"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 20

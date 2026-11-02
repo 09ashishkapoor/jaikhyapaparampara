@@ -4,7 +4,7 @@ title: "Shri Kali Tandava Stotram: English Lyrics, Meaning & Commentary"
 breadcrumbTitle: "Kali Tandava Stotram"
 description: "English lyrics, translation, and verse-by-verse commentary on the Shri Kali Tandava Stotram, with reflections on Ma Kali's fierce and compassionate form."
 keywords: "Kali Tandava Stotram, Ma Kali, Tandava, English lyrics, Kali meaning, spiritual commentary, Shakti, divine dance, liberation, Kali sadhana"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "KaliPutra-Ashish"
 date: 2025-12-25
 readingTime: 12

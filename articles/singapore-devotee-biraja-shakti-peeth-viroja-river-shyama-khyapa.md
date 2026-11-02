@@ -4,7 +4,7 @@ title: "Singapore Devotee Meets Guru: Biraja Shakti Peeth and the Viroja River M
 breadcrumbTitle: "Singapore Devotee and Biraja Peeth"
 description: "A devotee from Singapore visits Guru Shyama Khyapa to discuss Biraja Maha Shakti Peeth, the mystical Viroja River, and the spiritual journey of crossing over after death."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Singapore devotee, Biraja, Shakti Peeth, Viroja River, Nabhi Gaya, Chandi Path, spiritual journey"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:06:00
 readingTime: 4

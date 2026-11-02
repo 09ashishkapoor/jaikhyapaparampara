@@ -4,7 +4,7 @@ title: "The Journey of Girija Library: Publishing Spiritual Books"
 breadcrumbTitle: "Girija Library Journey"
 description: "Guru Shyama Khyapa discusses the profound journey of Girija Library with its director, Prasanta Chakraborty, encompassing its history, divine interventions, and spiritual readership."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Girija Library, Prasanta Chakraborty, Spiritual Books, Kriya Yoga, College Street"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:54:00
 readingTime: 6

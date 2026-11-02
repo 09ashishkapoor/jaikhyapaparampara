@@ -4,7 +4,7 @@ title: "The Mystery of Creation: Guru Shyama Khyapa on Adi-Shakti Creating Brahm
 breadcrumbTitle: "Mystery of Creation - Adi-Shakti"
 description: "Guru Shyama Khyapa reveals the Vaikritika Rahasya from Chandi: how Adi-Shakti created the Trinity, gave them their consorts, and why Kali is worshipped at all 51 Shakti Pithas."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Adi-Shakti, Brahma Vishnu Maheshwar, Chandi, Vaikritika Rahasya, Mahamaya, Shakti Pithas, Kali, Creation Mystery"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:59:00
 readingTime: 6

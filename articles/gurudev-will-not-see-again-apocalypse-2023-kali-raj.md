@@ -4,7 +4,7 @@ title: "Gurudev Says 'I Will Not See Again': The Apocalypse of 2023 and Kali Raj
 breadcrumbTitle: "Gurudev Will Not See Again 2023"
 description: "Guru Shyama Khyapa announces he will no longer see people as the apocalypse begins in 2023, with Narayan taking the form of destroyer, earthquakes, tsunamis, and the battle against Kali Raj."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, will not see again, 2023 apocalypse, Kali Raj, Narayan destroyer, earthquake, tsunami, Parashuram, Kalki, 64 Yoginis, Rajpur Mahashasman Shanti Kunj closed"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:32:00
 readingTime: 5

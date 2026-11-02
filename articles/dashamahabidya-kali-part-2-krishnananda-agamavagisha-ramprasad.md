@@ -4,7 +4,7 @@ title: "Dashamahabidya Kali Part 2: Krishnananda Agamavagisha and Ramprasad"
 breadcrumbTitle: "Dashamahabidya Kali Part 2"
 description: "Guru Shyama Khyapa explains the origin of Kali worship through the stories of Krishnananda Agamavagisha and Ramprasad, discussing the significance of Kali's form, garland of skulls, and the connection between Tantra and devotees."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Dashamahabidya, Kali, Krishnananda Agamavagisha, Ramprasad, Tantra, Agama, Nigama, Mahavidya"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:08:00
 readingTime: 4

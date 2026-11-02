@@ -4,7 +4,7 @@ title: "Gods and Demons: The Story of Devas and Asuras by Guru Shyama Khyapa"
 breadcrumbTitle: "Gods and Demons Devas Asuras Story"
 description: "Guru Shyama Khyapa explains the eternal struggle between Devas (Gods) and Asuras (Demons), the churning of the ocean, the nectar of immortality, and the rising demonic tendencies in Kali Yuga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Devas, Asuras, Gods, Demons, Samudra Manthan, Amrita, Kali Yuga, Shukracharya, Kalki Avatar, Spiritual Teachings"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:52:00
 readingTime: 3

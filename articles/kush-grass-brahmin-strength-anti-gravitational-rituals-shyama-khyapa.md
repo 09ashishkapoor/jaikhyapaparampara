@@ -4,7 +4,7 @@ title: "Kush Grass Significance: Gurudev Reveals Why Brahmins Use Kush in Ritual
 breadcrumbTitle: "Kush Grass and Ganga in Rituals"
 description: "Guru Shyama Khyapa explains the sacred significance of Kush grass—its anti-gravitational properties, why it's the Brahmin's strength, and the proper use of Kush and Ganga water in funeral rites."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Kush Grass, Brahmin Rituals, Pindo Daan, Ganga Water, Funeral Rites, Shraddha, Tripatra, Kush Anguriya, Anti-Gravitational"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:34:00
 readingTime: 9

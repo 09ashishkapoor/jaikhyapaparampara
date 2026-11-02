@@ -4,7 +4,7 @@ title: "Janmashtami, Rohini Nakshatra, Krishna Birth, and Kalki Signs | Guru Shy
 breadcrumbTitle: "Janmashtami Rohini and Krishna Birth"
 description: "Guru Shyama Khyapa explains the spiritual significance of Janmashtami with Rohini Nakshatra, recounts the full Krishna birth narrative, and connects it to current Kali Yuga signs and Kalki's return. The discussion also covers Nanda Utsav and the importance of Krishna chanting in every household."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Janmashtami, Rohini Nakshatra, Krishna Birth, Kansa, Mahamaya, Vindhya, Nanda Utsav, Kali Yuga, Kalki Avatar, Mahapralaya"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:59:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "The Science of Kula-Kundalini: Awakening the Seven Chakras through Tantr
 breadcrumbTitle: "Kula-Kundalini and Chakras"
 description: "Guru Shyama Khyapa explains the esoteric science of the Kula-Kundalini, the five elements of the body, and the spiritual path to awakening the seven chakras."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kula-Kundalini, Chakras, Tantra Sadhana, Muladhara, Ida Pingala Sushumna, Pancha Bhuta, Five Elements, Spiritual Awakening"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 16

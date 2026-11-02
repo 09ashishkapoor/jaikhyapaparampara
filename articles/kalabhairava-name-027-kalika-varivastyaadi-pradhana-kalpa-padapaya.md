@@ -4,7 +4,7 @@ title: "Kalabhairava Name 27: Kalika-Varivastyaadi-Pradhana-Kalpa-Padapaya - Mea
 breadcrumbTitle: "Kalika-Varivastyaadi-Pradhana-Kalpa-Padapaya"
 description: "English meaning and spiritual significance of Kalika-Varivastyaadi-Pradhana-Kalpa-Padapaya, the 27th name of Lord Kalabhairava: the primordial wish-fulfilling tree rooted in Kali's own power."
 keywords: "Kalika-Varivastyaadi-Pradhana-Kalpa-Padapaya, Kalabhairava name 27, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kalika-Varivastyaadi-Pradhana-Kalpa-Padapaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

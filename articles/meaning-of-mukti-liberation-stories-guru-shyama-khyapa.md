@@ -4,7 +4,7 @@ title: "The True Meaning of Mukti: Stories of Liberation from Guru Shyama Khyapa
 breadcrumbTitle: "True Meaning of Mukti Liberation"
 description: "Guru Shyama Khyapa shares profound stories about people seeking liberation— a dialysis patient, a transgender devotee, and mysterious encounters—explaining what Mukti truly means."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Mukti, Liberation, Dialysis, Transgender, Hijra, Mahadev, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:32:00
 readingTime: 5

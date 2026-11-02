@@ -4,7 +4,7 @@ title: "Kalabhairava Name 87: Kali-M-Manya-Yoginii-Priyaya - Meaning and Signifi
 breadcrumbTitle: "Kali-M-Manya-Yoginii-Priyaya"
 description: "English meaning and spiritual significance of Kali-M-Manya-Yoginii-Priyaya, the 87th name of Lord Kalabhairava, who is beloved of the Yoginis associated with Kali's sacred mandala."
 keywords: "Kali-M-Manya-Yoginii-Priyaya, Kalabhairava name 87, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kali-M-Manya-Yoginii-Priyaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

@@ -4,7 +4,7 @@ title: "Maha Navami and Dashami: Complete Durga Puja Rituals Explained by Gurude
 breadcrumbTitle: "Maha Navami Dashami Rituals"
 description: "Guru Shyama Khyapa explains the complete rituals of Maha Navami and Dashami—from Ashta Bhairav and Ashta Shakti worship to Bisarjan, Aparajita Puja, and the Kon-kanchuli ceremony."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Maha Navami, Dashami, Durga Puja, Bisarjan, Ashta Bhairav, Ashta Shakti, Aparajita Puja, Kon-kanchuli, Anjali"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:36:00
 readingTime: 10

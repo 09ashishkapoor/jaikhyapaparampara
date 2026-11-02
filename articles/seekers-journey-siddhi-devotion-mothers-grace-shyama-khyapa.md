@@ -4,7 +4,7 @@ title: "A Seeker's Journey: Siddhi, Devotion, and the Mother's Grace"
 breadcrumbTitle: "Siddhi & The Mother's Grace"
 description: "A conversation exploring spiritual attainment (Siddhi), complete devotion to the Mother Goddess, and the intense path of a seeker."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Sushona Banerjee, Tantra, Siddhi, Mother Goddess, Spiritual Awakening"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:57:00
 readingTime: 7

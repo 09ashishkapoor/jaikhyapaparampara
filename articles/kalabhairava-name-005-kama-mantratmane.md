@@ -4,7 +4,7 @@ title: "Kalabhairava Name 5: Kama-Mantratmane - Meaning and Significance"
 breadcrumbTitle: "Kama-Mantratmane"
 description: "English meaning and spiritual significance of Kama-Mantratmane, the 5th name of Lord Kalabhairava: embodiment of the kama mantra and the divine force of creative will."
 keywords: "Kama-Mantratmane, Kalabhairava name 5, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kama-Mantratmane meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

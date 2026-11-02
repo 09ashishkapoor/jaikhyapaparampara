@@ -4,7 +4,7 @@ title: "Disciple's Achievement: Dr. Sujeev Kar Receives 'Shiksha Ratna' Award"
 breadcrumbTitle: "Dr. Sujeev Kar's Achievement"
 description: "Guru Shyama Khyapa celebrates his disciple Dr. Sujeev Kar's 'Shiksha Ratna' award and discusses his scientific contributions to disaster prediction and the Metro Rail project."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Dr. Sujeev Kar, Shiksha Ratna Award, West Bengal Government, Climatologist, Metro Rail Project, Bowbazar, Environmental Science, Kaushiki Amavasya"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:16:00
 readingTime: 5

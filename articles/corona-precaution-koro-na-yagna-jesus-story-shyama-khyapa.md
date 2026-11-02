@@ -4,7 +4,7 @@ title: "Gupta Sadhak's Precaution Against Coronavirus: Koro-Na, Yagna, and the S
 breadcrumbTitle: "Corona Precaution and Yagna"
 description: "Guru Shyama Khyapa shares his precaution against Coronavirus—'Koro-na' (don't mingle)—the Mahamrityunjay Yagna for world peace, and a story of faith and Jesus Christ."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Coronavirus, Corona, Yagna, Koro-na, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:21:00
 readingTime: 4

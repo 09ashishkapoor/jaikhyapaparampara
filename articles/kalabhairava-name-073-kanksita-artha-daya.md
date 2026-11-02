@@ -4,7 +4,7 @@ title: "Kalabhairava Name 73: Kanksita-Artha-Daya - Meaning and Significance"
 breadcrumbTitle: "Kanksita-Artha-Daya"
 description: "English meaning and spiritual significance of Kanksita-Artha-Daya, the 73rd name of Lord Kalabhairava, who grants the sincerely sought aims and blessings of his devotees."
 keywords: "Kanksita-Artha-Daya, Kalabhairava name 73, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kanksita-Artha-Daya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

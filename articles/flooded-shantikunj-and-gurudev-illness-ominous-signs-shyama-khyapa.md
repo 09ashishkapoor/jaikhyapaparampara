@@ -4,7 +4,7 @@ title: "Flooded Shantikunj and Gurudev's Illness: Ominous Signs and Devotee Cond
 breadcrumbTitle: "Gurudev's Illness & Floods"
 description: "Guru Shyama Khyapa discusses his severe illness, the ominous flooding of Shantikunj, and respectfully requests devotees to grant him time to recover before visiting."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shantikunj flood, Illness, Devotee conduct, Prophecy, Ominous signs, 2021 disasters"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:08:00
 readingTime: 4

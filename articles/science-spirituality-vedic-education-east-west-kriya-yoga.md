@@ -4,7 +4,7 @@ title: "Science and Spirituality: Vedic Education, East vs West, and Kriya Yoga"
 breadcrumbTitle: "Science, Spirituality, and Vedic Education"
 description: "Guru Shyama Khyapa explains how spirituality is the advanced stage of science, discusses the contrast between Eastern renunciation and Western materialism, and calls for revival of Vedic education."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, science spirituality, Kriya Yoga, Maha Mrityunjaya Yajna, Vedic education, East West materialism, Einstein God Particle, Jagadish Chandra Bose"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:40:00
 readingTime: 8

@@ -4,7 +4,7 @@ title: "World Cancer Day: Spiritual and Medical Perspectives with Guru Shyama Kh
 breadcrumbTitle: "World Cancer Day Spiritual Insights"
 description: "A cancer specialist and Guru Shyama Khyapa discuss World Cancer Day awareness, prevention, early detection, and the spiritual dimensions of healing."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, World Cancer Day, Cancer Awareness, Cancer Prevention, Healing, Medical Treatment, Chemotherapy, Lifestyle, Health"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:50:00
 readingTime: 4

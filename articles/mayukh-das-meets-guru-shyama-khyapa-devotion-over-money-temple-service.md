@@ -4,7 +4,7 @@ title: "Mayukh Das Meets Guru Shyama Khyapa: Devotion Over Money and Temple Serv
 breadcrumbTitle: "Mayukh's Devotion and Gurudev's Message"
 description: "A new actor, Mayukh Das, visits Guru Shyama Khyapa to seek blessings and shares his testimony about devotion, humility, and a temple path free from money. The conversation expands into Gurudev's teachings on service, world peace, and selfless spiritual work."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mayukh Das, temple service, devotion, Mahamritunjaya Japa, world peace, guru blessings"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:59:06
 readingTime: 14

@@ -4,7 +4,7 @@ title: "The Mystery of Netaji Subhas Chandra Bose: Is He Still Alive in Gyanganj
 breadcrumbTitle: "Netaji's Mystery and Gyanganj"
 description: "Guru Shyama Khyapa discusses the 125th birth anniversary of Netaji Subhas Chandra Bose, challenging the plane crash narrative and claiming the national hero lives in the mystical realm of Gyanganj."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Netaji Subhas Chandra Bose, Gyanganj, Swami Vivekananda, Indian Independence, Article 370, Spiritual Prophecy"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:17:00
 readingTime: 8

@@ -4,7 +4,7 @@ title: "Pagla Baba's Journey: Dakshina Kali Temple in Raiganj and Spiritual Atta
 breadcrumbTitle: "Pagla Baba Raiganj Dakshina Kali"
 description: "Pagla Baba describes his current location in Raiganj at the Dakshina Kali temple during his pilgrimage toward Kamakhya, sharing the miraculous history of this sacred Siddha Peeth where the Mother is installed and immersed in a single night."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pagla Baba, Raiganj, Dakshina Kali, Siddha Peeth, Kamakhya, Pilgrimage, Lord Zamindar, Mother Worship"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 10:03:00
 readingTime: 6

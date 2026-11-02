@@ -4,7 +4,7 @@ title: "The Strange Experiences of Gangasagar: 22 Years of Devotion"
 breadcrumbTitle: "Gangasagar Experiences"
 description: "Guru Shyama Khyapa recounts 22 years of performing Kali Puja at Gangasagar, sharing supernatural encounters and the deep spiritual significance of the 'underworld' pilgrimage."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gangasagar, Kali Puja, Kapil Muni Temple, Spiritual Experiences, Bhadrakali, Bishalakshi, Supernatural Stories, Pilgrimage"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 25

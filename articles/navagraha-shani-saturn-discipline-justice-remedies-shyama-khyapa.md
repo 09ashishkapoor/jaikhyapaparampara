@@ -4,7 +4,7 @@ title: "Navagraha Shani: Gurudev Reveals Saturn's Discipline, Justice, and Remed
 breadcrumbTitle: "Shani Saturn Discipline and Justice"
 description: "Guru Shyama Khyapa explains Shani (Saturn)—his stern justice, connection to Dakshina Kali, the stories of King Harishchandra, and remedies like Tulsi leaves to Shaligram for Sade Sati."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Shani, Saturn, Sade Sati, Dakshina Kali, Navagraha, Shaligram, Tulsi, King Harishchandra, Astrology"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:37:00
 readingTime: 10

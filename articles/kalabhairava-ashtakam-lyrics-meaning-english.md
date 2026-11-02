@@ -4,7 +4,7 @@ title: "Kalabhairava Ashtakam: The Song of the Lord of Time (Lyrics & Meaning)"
 breadcrumbTitle: "Kalabhairava Ashtakam"
 description: "Complete guide to Kalabhairava Ashtakam by Adi Shankaracharya. Includes English lyrics, translation, and spiritual commentary on time and liberation."
 keywords: "Kalabhairava Ashtakam, Adi Shankaracharya, Kalabhairava lyrics, Kalabhairava meaning, English translation, spiritual commentary, Kashi, Lord Shiva, time and death, liberation"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "KaliPutra-Ashish"
 date: 2025-12-25
 readingTime: 15

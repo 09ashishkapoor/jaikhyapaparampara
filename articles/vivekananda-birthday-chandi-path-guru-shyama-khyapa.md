@@ -4,7 +4,7 @@ title: "Vivekananda Birthday Chandi Path with Guru Shyama Khyapa"
 breadcrumbTitle: "Vivekananda Birthday Path"
 description: "A reporter meets Guru Shyama Khyapa during the Vivekananda birthday Chandi Path, and the guru narrates the devotee's devotion along with the Homa and sacrificial rites. The scene emphasizes how disciples handle the decorations while the guru blesses the seeker in Swami Vivekananda's name."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Vivekananda, Chandi Path, Devi Mahatmyam, Homa, Swami Vivekananda, Ramakrishna Math"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:00:00
 readingTime: 3

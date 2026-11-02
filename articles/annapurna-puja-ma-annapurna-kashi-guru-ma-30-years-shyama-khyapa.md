@@ -4,7 +4,7 @@ title: "Annapurna Puja: Gurudev and Guru-ma on Ma Annapurna, Kashi, and 30 Years
 breadcrumbTitle: "Annapurna Puja and 30 Years of Devotion"
 description: "Guru Shyama Khyapa and Guru-ma share the story of Ma Annapurna who feeds the world, the tale of Sati and Daksha, Ravana and Kuber, Bama-Khepa's leela, and 30 years of Annapurna Puja at home."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Annapurna Puja, Ma Annapurna, Kashi Vishwanath, Sati, Daksha, Veerabhadra, Shakti Peetha, Ravana, Kuber, Gyan Ganj, Bama-Khepa, Tantra"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:43:00
 readingTime: 11

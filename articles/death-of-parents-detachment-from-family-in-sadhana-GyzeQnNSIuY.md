@@ -4,7 +4,7 @@ title: "Death of Parents, Detachment from Family in Sadhana"
 breadcrumbTitle: "Death of Parents and Detachment in Sadhana"
 description: "Shri Praveen Radhakrishna addresses one of the most emotionally charged questions in Sadhana: how a Kali Sadhaka must understand and respond to the death of a parent or family member, the real meaning of detachment from the 'nest,' and how Maa Kali — Rudhirapriya, the lover of bloodlines — uses every death as an opportunity for the Sadhaka to rise into the Bhairava of their own lineage."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Kali Sadhana, Rudhirapriya, bloodline karma, death in Sadhana, detachment, Pashu Vira Divya, Devaki Yashoda, Sri Krishna, Raktabija, Kashi, Kala Bhairava, generational trauma"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:10:00
 readingTime: 9

@@ -4,7 +4,7 @@ title: "Caste Disaster: Gurudev on the Bhagavad Gita, Arjuna, and Krishna's Teac
 breadcrumbTitle: "Caste Disaster and the Gita"
 description: "Gurudev Shyama Khyapa discusses the Bhagavad Gita's wisdom, Arjuna's spiritual journey, Krishna's strategy in the Mahabharata, and the true meaning of Karma and caste."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Bhagavad Gita, Arjuna, Krishna, Mahabharata, Caste System, Karma, Dharma, Kshatriya, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:01:00
 readingTime: 4

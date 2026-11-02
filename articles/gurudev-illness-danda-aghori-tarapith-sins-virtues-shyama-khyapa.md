@@ -4,7 +4,7 @@ title: "Did Gurudev Find the Body Bad in the Judgment of Sins and Virtues? With 
 breadcrumbTitle: "Gurudev Illness, Danda, Aghori"
 description: "Guru Shyama Khyapa and Aghori Baba Maharudra Nath speak on Gurudev's illness, the spiritual penalty (danda) for helping others, the cobra-bite girl, the doctor's mother, and why one must not perform negative rituals at Tarapith."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Aghori, Tarapith, Danda, Sins, Virtues, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:24:00
 readingTime: 5

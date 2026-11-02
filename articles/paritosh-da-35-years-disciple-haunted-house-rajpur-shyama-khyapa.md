@@ -4,7 +4,7 @@ title: "Paritosh Da: A 35-Year Disciple's Journey with Guru Shyama Khyapa"
 breadcrumbTitle: "Paritosh Da - 35 Year Disciple"
 description: "Paritosh Da, a devoted disciple of 35 years, shares his journey with Guru Shyama Khyapa from the early days at Rajpur, the haunted house worship, and visions of Lord Shiva and Mother Durga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Paritosh Da, 35 Year Disciple, Rajpur, Haunted House, Khorohata, Lord Shiva Vision, Mother Durga, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:02:00
 readingTime: 9

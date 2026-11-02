@@ -4,7 +4,7 @@ title: "Science and Spirituality: When Doctors Meet Gurudev"
 breadcrumbTitle: "Science Spirituality Doctors Meet"
 description: "Two doctors from PG Hospital and Netaji Subhash Cancer Hospital meet Guru Shyama Khyapa to discuss the convergence of medical science and spirituality, finding peace and courage."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, science and spirituality, doctors, PG Hospital, Netaji Subhash Cancer Hospital, Dr. Subhadeep Karanjay, Dr. Sandipan Purkait, Homa, Ramakrishna Mission"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:48:00
 readingTime: 5

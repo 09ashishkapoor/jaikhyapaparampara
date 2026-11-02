@@ -4,7 +4,7 @@ title: "Kalabhairava Name 9: Kalika-Tanave - Meaning and Significance"
 breadcrumbTitle: "Kalika-Tanave"
 description: "English meaning and spiritual significance of Kalika-Tanave, the 9th name of Lord Kalabhairava: the destroyer of strife, calamity, and dark influences."
 keywords: "Kalika-Tanave, Kalabhairava name 9, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kalika-Tanave meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

@@ -4,7 +4,7 @@ title: "Ban Mara: Understanding the Ritual Curse and Its Remedy"
 breadcrumbTitle: "Ban Mara Curse and Remedy"
 description: "Guru Shyama Khyapa explains the dark practice of Ban Mara—a ritualistic curse using human skulls and spiritual forces—and shares methods for protection and remedy."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ban Mara, ritual curse, black magic, human skull, Sulemani Vidya, Tin-mathar mor, Shun-nagaar, remedy, protection, pig's tooth"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:25:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 25: Kalii-Kurca-Sama-Yukta-Bhuvana-Kuta-Bhasuraya - Me
 breadcrumbTitle: "Kalii-Kurca-Sama-Yukta-Bhuvana-Kuta-Bhasuraya"
 description: "English meaning and spiritual significance of Kalii-Kurca-Sama-Yukta-Bhuvana-Kuta-Bhasuraya, the 25th name of Lord Kalabhairava: radiant with the seed powers that underlie the universe."
 keywords: "Kalii-Kurca-Sama-Yukta-Bhuvana-Kuta-Bhasuraya, Kalabhairava name 25, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kalii-Kurca-Sama-Yukta-Bhuvana-Kuta-Bhasuraya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

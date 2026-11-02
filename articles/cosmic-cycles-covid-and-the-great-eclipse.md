@@ -4,7 +4,7 @@ title: "Cosmic Cycles and COVID-19: The Hidden Connection Between Solar Eclipses
 breadcrumbTitle: "Cosmic Cycles & COVID"
 description: "Guru Shyama Khyapa reveals the spiritual and scientific connection between solar eclipses and the COVID-19 pandemic, explaining how cosmic phenomena generate new viruses, increase Earth's rotation, and affect human consciousness."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, COVID-19, Solar Eclipse, Lunar Eclipse, Cosmic Phenomena, Tsunami, Earth Rotation, Rahu, Vitamin D, Krittika Nakshatra, Cosmic Events"
-category: "Prophecy & Science"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 38

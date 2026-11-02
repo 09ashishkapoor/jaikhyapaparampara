@@ -4,7 +4,7 @@ title: "Miracles of Bama-Deb Baba: Guru Shyama Khyapa Shares Supernatural Storie
 breadcrumbTitle: "Bama-Deb Baba Miracles Stories"
 description: "Guru Shyama Khyapa shares miraculous stories of Bama-Deb Baba—stopping a train for devotees and resolving a property case from afar—demonstrating the supernatural power of this great saint of Tarapith."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Bama-Deb Baba, Miracles, Tarapith, Supernatural, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:14:00
 readingTime: 6

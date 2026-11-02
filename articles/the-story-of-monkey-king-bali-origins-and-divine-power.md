@@ -4,7 +4,7 @@ title: "The Story of Monkey King Bali: Origins and Divine Power"
 breadcrumbTitle: "Monkey King Bali's Story"
 description: "Guru Shyama Khyapa narrates the mystical origins of Bali and Sugriva, the invincibility of Bali's golden necklace, and the karmic conclusion of his life in the Ramayana."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bali, Sugriva, Ramayana, Lord Ram, Hanuman, Kishkindha, Matanga Muni"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:11:00
 readingTime: 6

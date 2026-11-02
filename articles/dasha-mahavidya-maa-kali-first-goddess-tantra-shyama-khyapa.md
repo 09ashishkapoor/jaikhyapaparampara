@@ -4,7 +4,7 @@ title: "Dasha Mahavidya: Maa Kali — The First Divine Goddess | Guru Shyama Khy
 breadcrumbTitle: "Maa Kali — Dasha Mahavidya Part 1"
 description: "Guru Shyama Khyapa reveals the first of the Ten Wisdom Goddesses — Maa Kali. The Supreme Mother who keeps Time beneath Her feet. Stories of Krishnananda Agamavagisha, the forms of Kali, the significance of 51 skulls, and why Kali worship requires a Guru and cannot be done at home."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Dasha Mahavidya, Maa Kali, Mahakali, Kali Puja, Tantra, Krishnananda Agamavagisha, Shmashan Kali, Dakshina Kali, 51 Skulls, Guru, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 20:42:00
 readingTime: 9

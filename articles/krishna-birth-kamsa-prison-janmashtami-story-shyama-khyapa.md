@@ -4,7 +4,7 @@ title: "Krishna's Birth in Kamsa's Prison: The Divine Story of Janmashtami"
 breadcrumbTitle: "Krishna Birth Kamsa Prison"
 description: "Guru Shyama Khyapa narrates the miraculous birth of Lord Krishna in Kamsa's prison, the exchange with Mahamaya, and the significance of Rohini Nakshatra on Janmashtami."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Krishna, Kamsa, Janmashtami, Rohini Nakshatra, Devaki, Vasudeva, Mahamaya, Gokul, Khyapa Parampara"
-category: "Divine Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:11:00
 readingTime: 6

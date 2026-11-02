@@ -4,7 +4,7 @@ title: "Dharma and Moral Teachings: The Role of Gurus in Modern Times"
 breadcrumbTitle: "Dharma Moral Teachings Modern Times"
 description: "Guru Shyama Khyapa discusses why people struggle to follow the moral teachings of great souls like Krishna, Buddha, Jesus, and Chaitanya Mahaprabhu in the current era."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Dharma, moral teachings, Krishna, Buddha, Jesus Christ, Chaitanya Mahaprabhu, Prophet Muhammad, NASA Kailash, Sanatan Dharma, Ramakrishna Mission, Bharat Sevashram Sangha, initiation, faith"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:45:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "Reiki Part Three: Healing, Chakras, and Spiritual Practice - Guru Shyama
 breadcrumbTitle: "Reiki Part Three Healing Chakras"
 description: "Guru Shyama Khyapa explains the science of Reiki, its origins with Lord Buddha, the role of chakras and angels in healing, and proper training requirements for practitioners."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Reiki, Healing, Chakras, Kundalini, Third Eye, Angels, Fairies, Shirdi Sai Baba, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:08:00
 readingTime: 8

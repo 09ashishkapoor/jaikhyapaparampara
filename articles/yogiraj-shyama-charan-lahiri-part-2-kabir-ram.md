@@ -4,7 +4,7 @@ title: "Yogiraj Shyama Charan Lahiri Part 2: Kabir, Ram, and Spiritual Wisdom"
 breadcrumbTitle: "Yogiraj Lahiri Part 2"
 description: "Guru Shyama Khyapa continues discussing Yogiraj Shyama Charan Lahiri, exploring the connection between Kabir, Ram, and the path of Kriya Yoga, explaining the meaning of inner pilgrimage sites and the significance of the guru-disciple relationship."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Yogiraj, Shyama Charan Lahiri, Kriya Yoga, Kabir, Ram, Guru, Disciple, Gyanganj, Babaji"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:09:00
 readingTime: 10

@@ -4,7 +4,7 @@ title: "The Mystery of Tarapith: Who is Tara-Bata? Insights by Guru Shyama Khyap
 breadcrumbTitle: "Who is Tara-Bata?"
 description: "Guru Shyama Khyapa sheds light on the sacred Brahmasila of Tarapith, the importance of Bamakhepa, and why humility is essential for a true devotee of Mother Tara."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tarapith, Tara-Bata, Brahmasila, Bamakhepa, Mother Tara, Spiritual Practice, Devotion, Humility, Tantra, Bengal Saints"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 20

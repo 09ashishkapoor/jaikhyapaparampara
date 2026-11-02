@@ -4,7 +4,7 @@ title: "Gyanvapi: Mosque or Temple? Guru Shyama Khyapa on Kashi Vishwanath"
 breadcrumbTitle: "Gyanvapi Mosque or Temple"
 description: "Guru Shyama Khyapa discusses the Gyanvapi dispute—the Hindu name, Aurangzeb's temple demolitions, the court verdict enabling worship, and the prophecy of Sanatan Dharma's return."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gyanvapi, Kashi Vishwanath, Aurangzeb, Hindu Temple, Mosque, Ayodhya"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:03:00
 readingTime: 12

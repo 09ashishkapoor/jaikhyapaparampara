@@ -4,7 +4,7 @@ title: "Self-Esteem and the Decline of Values — Guru Shyama Khyapa on Youth, P
 breadcrumbTitle: "Self-Esteem and Decline of Values"
 description: "Guru Shyama Khyapa delivers a powerful talk on the loss of self-esteem among today's youth, the role of mobile phones and politics in moral decline, and the urgent need to revive values in families."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, self-esteem, Atma-maryada, youth, parenting, mobile phone addiction, society, values, moral decline"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 06:46:00
 readingTime: 6

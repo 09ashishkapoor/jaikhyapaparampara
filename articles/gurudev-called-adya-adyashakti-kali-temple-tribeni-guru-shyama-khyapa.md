@@ -4,7 +4,7 @@ title: "Gurudev Called Adya: Adyashakti Kali Temple in Tribeni Anniversary"
 breadcrumbTitle: "Adya and Adyashakti Temple in Tribeni"
 description: "Guru Shyama Khyapa visits the Adyashakti Kali Temple in Tribeni for its annual celebration, discussing his role in establishing the temple, ritual practices, and the importance of maintaining spiritual traditions."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Adyashakti, Kali Temple, Tribeni, Ritual, Hom Yagna, Chakhshu Daan, Temple Foundation, Spiritual Tradition"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 10:00:00
 readingTime: 6

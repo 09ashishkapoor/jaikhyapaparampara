@@ -4,7 +4,7 @@ title: "Protection Charm: The Sacred Science of Tabeez and Kavach in Tantra"
 breadcrumbTitle: "Protection Charm and Tantric Amulets"
 description: "Guru Shyama Khyapa explains the origins, creation process, and spiritual power of Tabeez (amulets) and Kavach (talismans) in Tantra, emphasizing the need for Siddhi and proper ritual practice."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tabeez, Kavach, amulet, talisman, protection charm, Surya Kavach, Dasha Mahavidya, Siddhi"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:41:00
 readingTime: 5

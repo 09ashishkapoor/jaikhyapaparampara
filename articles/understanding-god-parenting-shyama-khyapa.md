@@ -4,7 +4,7 @@ title: "Understanding God: The Foundation of Life and Spiritual Parenting"
 breadcrumbTitle: "Knowing and Understanding God"
 description: "Guru Shyama Khyapa discusses the profound significance of knowing God, the origin of the life force (Pran), and the spiritual responsibility of parents in the modern age."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Shyama Khyapa, Knowing God, Parenting, Life Force, Pran, Truth, Satyameva Jayate, Spiritual discipline, Divine Mother, modern parenting"
-category: "Guru Messages"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-01-08
 readingTime: 15

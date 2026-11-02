@@ -4,7 +4,7 @@ title: "Who Is This Aghori? A Story of Devotion and Healing"
 breadcrumbTitle: "Aghori Disciple's Devotion"
 description: "Guru Shyama Khyapa shares a touching account of an Aghori disciple who performed three days of fire rituals and sacrificed his own comfort to ensure his Guru's recovery."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Aghori, Aghora, Fire Ritual, Hom, Homa, Healing, Devotion, Guru Bhakti, Matsyendranath, Gorakshanath, Vibhuti"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:53:00
 readingTime: 2

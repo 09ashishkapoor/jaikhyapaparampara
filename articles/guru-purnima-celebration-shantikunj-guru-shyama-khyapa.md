@@ -4,7 +4,7 @@ title: "Guru Purnima Celebrations at Shantikunj: Gathering of Devotees"
 breadcrumbTitle: "Guru Purnima Shantikunj"
 description: "Guru Shyama Khyapa celebrates Guru Purnima at Shantikunj with a large gathering of devotees, including his beloved disciples Snehasis and Subhasis who studied at Ramakrishna Mission."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Guru Purnima, Shantikunj, Celebration, Disciples, Snehasis, Subhasis, Ramakrishna Mission, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:43:00
 readingTime: 2

@@ -4,7 +4,7 @@ title: "Devotees Visit Guru Shyama Khyapa: Law Student's Testimony and Bapi Maha
 breadcrumbTitle: "Devotees Visit and Testimonies"
 description: "A law student shares her divine experiences and guidance received from Guru Shyama Khyapa, while Bapi Maharaj reminisces about family connections to Tarapith."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tarapith, Law Student, Bapi Maharaj, Bama Khepa, Jamshedpur, High Court, Divine Dreams, Spiritual Healing"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:06:00
 readingTime: 3

@@ -4,7 +4,7 @@ title: "The Feeling of a Saint: A Conversation on Divine Realization"
 breadcrumbTitle: "Feeling of a Saint"
 description: "Guru Baba Shyama Khyapa discusses the mystery of divine work, the transition from physical forms to spiritual essence, and the invisible hand of the Mother in a seeker's life."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, Saint realization, Divine Mother, Bama Khapa, spiritual awakening, Ram Prasad, Sadhak, mystery of God, Pashupatinath, Third Eye"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27 11:20:00
 readingTime: 15

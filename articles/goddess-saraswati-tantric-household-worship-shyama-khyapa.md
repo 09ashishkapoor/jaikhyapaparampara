@@ -4,7 +4,7 @@ title: "Goddess Saraswati: Tantric Forms, Household Worship, and the Decline of 
 breadcrumbTitle: "Saraswati Puja Wisdom"
 description: "Guru Shyama Khyapa illuminates the difference between Tantric Mahasaraswati and household worship forms, shares Dhyana mantras, and warns about the paradox of increasing celebrations amid declining true knowledge."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Saraswati Puja, Mahasaraswati, Dhyana Mantra, Vidya, Tantric Worship, Knowledge Decline, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 13:00:00
 readingTime: 7

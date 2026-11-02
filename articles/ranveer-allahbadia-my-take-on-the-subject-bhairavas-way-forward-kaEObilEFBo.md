@@ -4,7 +4,7 @@ title: "Ranveer Allahbadia — My Take on the Subject and Bhairava's Way Forward
 breadcrumbTitle: "Bhairava's Way Forward: The Ranveer Incident"
 description: "Shri Praveen Radhakrishna analyzes the Ranveer Allahbadia controversy through the lens of Nimitta Shastra, revealing the role of Deva Senapati Skanda, Ma Kamakhya, and the divine principle of decentralization in the spread of Bhairava Sadhana."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Skanda, Nimitta Shastra, Ma Kamakhya, Thaipusam, Kshetra Neeti, Rajapalayam, Ma Kali, Smashana Kali, Trikaal Darshan"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:49:00
 readingTime: 10

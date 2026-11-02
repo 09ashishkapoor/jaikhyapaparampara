@@ -4,7 +4,7 @@ title: "Remembering Shri Shri Lokenath Brahmachari on His 131st Disappearance An
 breadcrumbTitle: "Lokenath Brahmachari's Disappearance Anniversary"
 description: "Guru Shyama Khyapa discusses the extraordinary life, travels, and divine miracles of Shri Shri Lokenath Brahmachari on his 131st disappearance anniversary."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Lokenath Brahmachari, Barodi, Tailangaswami, Bijoy Krishna Goswami, Disappearance Anniversary"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 12:00:00
 readingTime: 6

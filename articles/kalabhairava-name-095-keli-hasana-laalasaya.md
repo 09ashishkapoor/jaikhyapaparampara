@@ -4,7 +4,7 @@ title: "Kalabhairava Name 95: Keli-Hasana-Laalasaya - Meaning and Significance"
 breadcrumbTitle: "Keli-Hasana-Laalasaya"
 description: "English meaning and spiritual significance of Keli-Hasana-Laalasaya, the 95th name of Lord Kalabhairava, shining with the radiance of divine play and laughter."
 keywords: "Keli-Hasana-Laalasaya, Kalabhairava name 95, 108 names of Kalabhairava, Kalabhairava namavali meaning, Keli-Hasana-Laalasaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

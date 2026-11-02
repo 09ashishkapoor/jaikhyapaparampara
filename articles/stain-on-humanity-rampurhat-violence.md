@@ -4,7 +4,7 @@ title: "The Stain on Humanity: Guru Shyama Khyapa on the Rampurhat Violence"
 breadcrumbTitle: "Rampurhat Violence"
 description: "In a rare and courageous move, Guru Shyama Khyapa breaks his silence on the heinous Rampurhat (Bogtui) violence, transcending politics to advocate for human life and divine justice."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Rampurhat Violence, Bogtui, West Bengal Politics, Human Rights, Spiritual Perspective, Kazi Nazrul Islam, Justice, CBI Investigation, Mamata Banerjee"
-category: "Social Commentary"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 22

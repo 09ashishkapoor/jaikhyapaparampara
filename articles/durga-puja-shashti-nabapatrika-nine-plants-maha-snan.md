@@ -4,7 +4,7 @@ title: "Durga Puja Shashti: Guru Shyama Khyapa Explains the Nabapatrika Nine Pla
 breadcrumbTitle: "Durga Puja Shashti Nabapatrika Nine Plants Explained"
 description: "Guru Shyama Khyapa explains the deep symbolism of Maha Shashti during Durga Puja—listing the nine sacred plants of the Nabapatrika and which goddess each represents, how the Bodhon awakening is performed under the Bael tree, and the rare ingredients required for the auspicious Maha-snan of the Mother."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Durga Puja, Maha Shashti, Katyayani, Nabapatrika, nine plants, Mahalakshmi, Kalika, Chamunda, Bodhon, Maha-snan, Saptami, Ashtami, Navami"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:31:00
 readingTime: 6

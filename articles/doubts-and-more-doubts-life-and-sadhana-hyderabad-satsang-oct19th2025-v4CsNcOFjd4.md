@@ -4,7 +4,7 @@ title: "Doubts and More Doubts: Life and Sadhana — Hyderabad Satsang Q&A, Oct 
 breadcrumbTitle: "Life and Sadhana Q&A Hyderabad Satsang"
 description: "A rich Q&A from the Hyderabad Satsang on October 19th, 2025, where Shri Praveen Radhakrishna addresses seekers' genuine doubts — from patriarchy and past-life suffering to astrological charts, family bloodlines, keeping Kali at home, reading divine signs, and how to pass the Sadhana path to the next generation."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Kali Sadhana, Hyderabad Satsang, Smashan Kali, Nimitta Shastra, Bhairavi Yatana, Bloodline Karma, Guru, Vatuka Bhairava, Dhumavati, Patriarchy, Divine Signs"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:35:00
 readingTime: 14

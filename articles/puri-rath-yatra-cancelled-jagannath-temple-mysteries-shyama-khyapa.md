@@ -4,7 +4,7 @@ title: "The Wheel of Time Stopped: Puri Rath Yatra Cancelled, Temple Mysteries, 
 breadcrumbTitle: "Rath Yatra Cancelled, Jagannath's Omens"
 description: "Guru Shyama Khyapa explains the historical precedents for the Puri Rath Yatra being stopped, shares supernatural stories from the Jagannath Temple, describes the nightly visits of Vibhishan and the Saptarishi, and discusses recent divine omens including the falling of the temple flag and lightning striking the Sudarshana Chakra."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Puri Rath Yatra, Jagannath, temple mysteries, Vibhishan, Kalapahad, COVID-19"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:47:00
 readingTime: 5

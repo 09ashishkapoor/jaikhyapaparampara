@@ -4,7 +4,7 @@ title: "Bhairava Sadhana: Sri Krishna's Secret Sadhana of Adya Shakti"
 breadcrumbTitle: "Sri Krishna's Secret Sadhana of Adya Shakti"
 description: "Shri Praveen Radhakrishna reveals that even Maha Vishnu, upon incarnating as Sri Krishna, performed the Sadhana of Adi Shakti — proving that pure Bhakti is not only valid but the most powerful way to invoke Maa Kali and the Dasa Mahavidyas."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Sri Krishna, Maa Radha, Adi Shakti, Maa Kali, Dasa Mahavidyas, Bhakti Marga, Panchali, Mahabharata"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-17 10:00:00
 readingTime: 8

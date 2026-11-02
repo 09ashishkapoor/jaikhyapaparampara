@@ -4,7 +4,7 @@ title: "The Essence of Guru Purnima and True Discipleship: Guru Shyama Khyapa"
 breadcrumbTitle: "Essence of Guru Purnima"
 description: "On the auspicious occasion of Guru Purnima, Guru Shyama Khyapa explains the profound relationship between a Guru and disciple, the qualities of a true Sadguru, and the meaning of Guru's grace."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Guru Purnima, Sadguru, Guru Kripa, Discipleship, Ishta, Swami Vivekananda, Lokenath Baba"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:07:00
 readingTime: 5

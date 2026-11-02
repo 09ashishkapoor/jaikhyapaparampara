@@ -4,7 +4,7 @@ title: "The Power of a Saint - They Don't Know It Themselves! Inner Workings Rev
 breadcrumbTitle: "Power and Mystery of Saints"
 description: "Guru Shyama Khyapa reveals how saints work miracles, their relationship with divine forces, and the mysterious ways in which spiritual power manifests through pure devotion, penance, and divine grace."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Siddhi, Spiritual Power, Saints, Miracles, Divine Grace, Penance, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 40

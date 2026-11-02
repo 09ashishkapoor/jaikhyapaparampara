@@ -4,7 +4,7 @@ title: "Mother Jagadhatri: Vision at Narmada and the Significance of Navami Puja
 breadcrumbTitle: "Mother Jagadhatri Facts"
 description: "Guru Shyama Khyapa shares his personal vision of Mother Jagadhatri at Narmada and explains her role as the sustainer of the universe and her relationship with Mother Durga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jagadhatri Puja, Mother Jagadhatri, Narmada, Bhrigu Kamandal, Vision of Mother, Navami Puja, Chandi, Devi Mahatmya, Adyashakti"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:34:00
 readingTime: 6

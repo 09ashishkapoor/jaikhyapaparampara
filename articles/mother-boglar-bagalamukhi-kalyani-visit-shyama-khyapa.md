@@ -4,7 +4,7 @@ title: "Mother Boglar: The Yellow Mother Bagalamukhi and the Kalyani Visit"
 breadcrumbTitle: "Mother Boglar Bagalamukhi"
 description: "Guru Shyama Khyapa shares the story of his visit to Mother Bagalamukhi in Kalyani, the disciple's betrayal, spiritual protection, and the immense power of the Mother."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mother Boglar, Bagalamukhi, Yellow Mother, Kalyani, Vasudev Baba, Baan, Spiritual Protection, Siddha, Tara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:21:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Uttarakhand Glacier Disaster: Chamoli Flood and Environmental Crisis War
 breadcrumbTitle: "Uttarakhand Chamoli Disaster"
 description: "Guru Shyama Khyapa discusses the Chamoli glacier disaster in Uttarakhand, predicting more catastrophic events due to climate change, melting glaciers, and environmental destruction. He warns about rising sea levels and future disasters."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Uttarakhand, Chamoli, Glacier Disaster, Joshimath, Climate Change, Global Warming, Environmental Crisis, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:38:00
 readingTime: 4

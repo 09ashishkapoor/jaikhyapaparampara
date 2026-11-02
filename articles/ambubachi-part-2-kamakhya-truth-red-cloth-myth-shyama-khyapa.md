@@ -4,7 +4,7 @@ title: "Ambubachi Part 2: The Truth About Kamakhya and the Red Cloth Myth"
 breadcrumbTitle: "Ambubachi Part 2 - Kamakhya Truth"
 description: "Guru Shyama Khyapa exposes the commercialization of Kamakhya temple during Ambubachi, debunking myths about red water and red cloth, and warning devotees about exploitation."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ambubachi, Kamakhya, Nilachal, red cloth myth, temple commercialization, Yoni Mudra, Shakti Peeth"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:05:00
 readingTime: 3

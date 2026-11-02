@@ -4,7 +4,7 @@ title: "Durgaprasanna Paramhansa Dev: The Third Man in the Sacred Lineage of Bam
 breadcrumbTitle: "Durgaprasanna Paramhansa Dev Sacred Lineage"
 description: "Guru Shyama Khyapa shares the life story of Durgaprasanna Paramhansa Dev, the third great soul in the lineage of Bamakhepa and Nigamananda, his spiritual journey, miracles, and devotion to women's education."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Durgaprasanna Paramhansa Dev, Nigamananda, Bamakhepa, Naktala Ashram, Radhamadhav, Brahmachari, Tantra Vedic Yagna"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 06:54:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Gurudev's Illness and the Doctor's Devotion: A Story of Gratitude"
 breadcrumbTitle: "Gurudev's Illness Story"
 description: "Guru Shyama Khyapa shares a heartfelt account of his recent hospitalization, the exceptional care from his long-time doctor, and the disappointing reactions of some disciples who questioned the expenses during his treatment."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Doctor, Hospital, Illness, Gratitude, Disciples, Medical Care, FRCS, MRCP"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:10:00
 readingTime: 7

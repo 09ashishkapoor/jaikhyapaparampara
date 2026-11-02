@@ -4,7 +4,7 @@ title: "Awaken Your Conscience: Guru Shyama Khyapa on Saving Society from Violen
 breadcrumbTitle: "Awaken Your Conscience Message"
 description: "Guru Shyama Khyapa calls for awakening human conscience to end violence against teachers and doctors, criticizes political play in temples, and predicts a spiritual messenger will save society."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Conscience, Consciousness, Violence, Teachers, Doctors, Political Play, Temples, Initiation, Diksha, Spiritual Guide"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:52:00
 readingTime: 5

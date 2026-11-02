@@ -4,7 +4,7 @@ title: "Kalabhairava Name 18: Kalpanta-Dahanakaya - Meaning and Significance"
 breadcrumbTitle: "Kalpanta-Dahanakaya"
 description: "English meaning and spiritual significance of Kalpanta-Dahanakaya, the 18th name of Lord Kalabhairava: whose form is the fire at the end of a cosmic age."
 keywords: "Kalpanta-Dahanakaya, Kalabhairava name 18, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kalpanta-Dahanakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

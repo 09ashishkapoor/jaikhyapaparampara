@@ -4,7 +4,7 @@ title: "Sati Peeth Part One: The Seven Mahasatis and the Mystery of Mother Kamak
 breadcrumbTitle: "Sati Peeth Part One - Seven Mahasatis"
 description: "Guru Shyama Khyapa explains the seven Mahasatis who form Mother Kamakhya—Gauri, Gandhari, Shabari, Kirata, Matangi, Krishna (Draupadi), and Yashoda—and their significance in Tantric practice."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Sati Peeth, Saptashati, Mahasati, Kamakhya, Seven Satis, Shaktipith, Borgobhima, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:18:00
 readingTime: 5

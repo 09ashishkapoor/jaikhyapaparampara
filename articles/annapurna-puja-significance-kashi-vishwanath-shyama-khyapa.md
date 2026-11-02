@@ -4,7 +4,7 @@ title: "The Significance of Annapurna Puja and Kashi Vishwanath"
 breadcrumbTitle: "Annapurna Puja Significance"
 description: "Guru Shyama Khyapa explains the significance of Annapurna Puja - Mother Annapurna who feeds the ten-faced Shiva, the mythology of Kashi, and the sacred traditions of the Annapurna Temple."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Annapurna Puja, Kashi, Vishwanath, Mother Annapurna, Shiva, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:49:00
 readingTime: 3

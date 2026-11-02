@@ -4,7 +4,7 @@ title: "Has Kalki's Game Begun? What Did Gurudev Say?"
 breadcrumbTitle: "Kalki's Game Has Begun"
 description: "Guru Shyama Khyapa discusses the divine protection of India, the arrival of Kalki Avatar, the end of Kali Yuga, predictions of disasters in 2025, and the transition to Satya Yuga with fires, bloodshed, and global events."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kalki Avatar, Kali Yuga, Satya Yuga, Divine Protection, Prophecies"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:11:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "Auspicious vs. Inauspicious: Guru Shyama Khyapa on Marriage, Divorce, an
 breadcrumbTitle: "Auspicious vs Inauspicious Marriage"
 description: "Guru Shyama Khyapa explains the connection between mixing auspicious and inauspicious elements in marriage ceremonies, the rising divorce rates, and the decline of traditional values in modern society."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Auspicious, Inauspicious, Mangolik, Amangolik, Marriage, Divorce, Meat, Traditions, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:07:00
 readingTime: 8

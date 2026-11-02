@@ -4,7 +4,7 @@ title: "Fire at Vaishno Devi: Saturn-Mars Omen and Divine Warning - Shyama Khyap
 breadcrumbTitle: "Fire at Vaishno Devi: Ominous Sign"
 description: "Guru Shyama Khyapa interprets the fire at Vaishno Devi Shaktipeeth as an ominous sign of Saturn-Mars alignment, warning of a 'game of fire' affecting even divine lands."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Vaishno Devi, Fire, Shaktipeeth, Saturn, Mars, Ominous Sign, Kali Yuga, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:46:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "The Last Hour of Kali: Guru Shyama Khyapa on King Parikshit and Kalki Av
 breadcrumbTitle: "Last Hour of Kali - King Parikshit Story"
 description: "Guru Shyama Khyapa reveals how Kali entered King Parikshit's kingdom through gold, the four places Kali resides, and why Kalki Avatar arrived 4000 years ago to end Kali Yuga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Kali Yuga, Kalki Avatar, King Parikshit, End Times, COVID-19, Prophecy, Maha Nirvana Tantra, Narayana"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 12:03:00
 readingTime: 7

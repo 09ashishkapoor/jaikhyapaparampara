@@ -4,7 +4,7 @@ title: "Communicating with the Dead: Planchettes and High-Level Souls - Guru Shy
 breadcrumbTitle: "Communicating with Dead Planchette"
 description: "Guru Shyama Khyapa explains the truth about communicating with deceased persons, why planchettes don't work for common people, and how high-level Mahatmas can establish spiritual connections."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Dead, Deceased, Planchette, Communication, Mahatma, High-Level Souls, Bamakhepa, Spiritual Realms, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:09:00
 readingTime: 5

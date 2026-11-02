@@ -4,7 +4,7 @@ title: "Kalabhairava Name 2: Kala-Kalaya - Meaning and Significance"
 breadcrumbTitle: "Kala-Kalaya"
 description: "English meaning and spiritual significance of Kala-Kalaya, the 2nd name of Lord Kalabhairava: the Lord who stands beyond time, death, and destruction."
 keywords: "Kala-Kalaya, Kalabhairava name 2, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Kalaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

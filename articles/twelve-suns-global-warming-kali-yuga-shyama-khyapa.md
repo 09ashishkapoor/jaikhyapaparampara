@@ -4,7 +4,7 @@ title: "Twelve Suns Rising: Global Warming and Kali Yuga - Guru Shyama Khyapa's 
 breadcrumbTitle: "Twelve Suns: Global Warming Warning"
 description: "Guru Shyama Khyapa discusses the extreme heatwave from spiritual and scientific perspectives, Ramakrishna Dev's prophecy of twelve suns, and the consequences of man's interference with nature."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Global Warming, Climate Change, Heatwave, Kali Yuga, Ramakrishna Dev, Twelve Suns, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:42:00
 readingTime: 9

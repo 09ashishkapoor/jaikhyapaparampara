@@ -4,7 +4,7 @@ title: "Guru Purnima Special: Moksha Ekadashi and Wife's Consecration - Shyama K
 breadcrumbTitle: "Guru Purnima: Moksha Ekadashi Special"
 description: "Guru Shyama Khyapa, despite illness, blesses devotees on Guru Purnima and reveals how his wife attained liberation on Moksha Ekadashi and was consecrated as a Devi."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Guru Purnima, Moksha Ekadashi, Prana Pratishtha, Consecration, Guru Ma, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:45:00
 readingTime: 6

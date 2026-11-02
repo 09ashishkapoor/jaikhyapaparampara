@@ -4,7 +4,7 @@ title: "The Meaning of Kulota: Guru Shyama Khyapa on Family Lineage and Modern S
 breadcrumbTitle: "The Meaning of Kulota"
 description: "Guru Shyama Khyapa explains the meaning of 'Kulota' (one who abandons family lineage), discusses the decline of traditional family values, and reflects on modern education and its impact on marriage and family relationships."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Kulota, Family Lineage, Traditional Values, Marriage, Divorce, Social Issues, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:00:00
 readingTime: 9

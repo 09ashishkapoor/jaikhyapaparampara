@@ -4,7 +4,7 @@ title: "Manastapa: Guru Shyama Khyapa on Betrayal, Slander, and Unwavering Grace
 breadcrumbTitle: "Betrayal Slander and Unwavering Grace"
 description: "Guru Shyama Khyapa speaks openly about those who spread slander against him, how they drove away his disciples, and why despite all the pain, he continues to love and forgive — in the spirit of Tagore."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Manastapa, Slander, Betrayal, Rajpur Mahashashan, Shantikunj, Tagore, Gupta Sadhak Shyamakhyapa"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 06:57:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "Jupiter-Saturn Conjunction and the Birth Story of Lord Saturn: Guptasadh
 breadcrumbTitle: "Jupiter-Saturn Conjunction and Saturn's Birth"
 description: "Guru Shyama Khyapa explains the great conjunction of Jupiter and Saturn, the celestial significance for 2021, and the fascinating birth story of Saturn (Shani) from the shadow of Sarvani."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Jupiter Saturn Conjunction, Brihaspati Shani, Saturn Birth Story, Devguru, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:16:00
 readingTime: 4

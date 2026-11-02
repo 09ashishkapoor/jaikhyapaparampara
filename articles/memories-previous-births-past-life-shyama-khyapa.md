@@ -4,7 +4,7 @@ title: "Memories of Previous Births: Guru Shyama Khyapa on Why We Should Not Rem
 breadcrumbTitle: "Previous Birth Memories Warning"
 description: "Guru Shyama Khyapa explains why God makes us forget past lives, how children under 11 can remember, and why knowing your past would bring unbearable sorrow."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Past Life Memories, Reincarnation, Jatiswar, Trailokya Swami, Children, Divine Law, Bholanath"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:57:00
 readingTime: 5

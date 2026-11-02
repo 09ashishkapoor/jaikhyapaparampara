@@ -4,7 +4,7 @@ title: "Kalabhairava Name 63: Karala-Damstraya - Meaning and Significance"
 breadcrumbTitle: "Karala-Damstraya"
 description: "English meaning and spiritual significance of Karala-Damstraya, the 63rd name of Lord Kalabhairava, whose fearsome fangs tear through evil, ego, and obstruction."
 keywords: "Karala-Damstraya, Kalabhairava name 63, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karala-Damstraya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

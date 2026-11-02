@@ -4,7 +4,7 @@ title: "Navagraha Surya: Matangi Mantra and Morning Arghya by Guru Shyama Khyapa
 breadcrumbTitle: "Navagraha Surya and Matangi Practice"
 description: "Guru Shyama Khyapa explains the Sun's role in longevity, fame, and honor, and shares practical Surya remedies through mantra and water offering, along with Matangi's Tantric connection."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Navagraha Surya, Matangi, Surya Arghya, Budh Aditya Yoga, Sun Gayatri, Tantra"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:59:09
 readingTime: 8

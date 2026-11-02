@@ -4,7 +4,7 @@ title: "Puri Temple Flag: An Inauspicious Sign of the Coming Apocalypse"
 breadcrumbTitle: "Puri Flag Inauspicious Sign Warning"
 description: "Guru Shyama Khyapa interprets the falling of the Puri Jagannath temple flag as a dire omen, connecting it to signs of the approaching pralay and the departure of the Lord from Earth."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Puri Temple, Jagannath, Flag Falling, Inauspicious Sign, Apocalypse, Pralay, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 6

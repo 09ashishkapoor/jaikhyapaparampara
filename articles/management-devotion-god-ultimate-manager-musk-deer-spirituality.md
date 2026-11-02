@@ -4,7 +4,7 @@ title: "Management and Devotion: God as the Ultimate Manager and the Path of Tru
 breadcrumbTitle: "God as Manager Musk Deer Devotion"
 description: "A conversation between Gurudev and Tapas Ranjan Roy on how management principles reflect God's divine plan, the musk deer parable as metaphor for seeking God within, and the true meaning of devotion beyond rituals."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, management, God, devotion, Musk Deer, self-realization, Bhakti Marg"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 14:10:00
 readingTime: 13

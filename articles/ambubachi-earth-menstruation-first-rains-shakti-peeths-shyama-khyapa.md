@@ -4,7 +4,7 @@ title: "Ambubachi: When Mother Earth Menstruates and the Sacred First Rains Begi
 breadcrumbTitle: "Ambubachi Earth's Sacred Cycle"
 description: "Guru Shyama Khyapa reveals the deep significance of Ambubachi—the four-day period when Mother Nature undergoes her menstrual cycle, why temple doors close across all 51 Shakti Peeths, and the truth behind the red cloth myth at Kamakhya."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ambubachi, Kamakhya, Shakti Peeth, Earth menstruation, first rains, Ashar, Yoni, fertility"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:10:00
 readingTime: 4

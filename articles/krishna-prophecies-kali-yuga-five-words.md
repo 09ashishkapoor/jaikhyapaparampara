@@ -4,7 +4,7 @@ title: "Krishna's Prophecies for Kali Yuga: Five Profound Teachings"
 breadcrumbTitle: "Krishna's Kali Yuga Prophecies"
 description: "Guru Shyama Khyapa reveals the five profound prophecies Lord Krishna gave to the Pandavas about the nature of Kali Yuga - from the two-faced people to the power of God's name."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Krishna, Kali Yuga, Prophecy, Mahabharata, Pandavas, Kalki Avatar, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:01:00
 readingTime: 4

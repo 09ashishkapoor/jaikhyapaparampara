@@ -4,7 +4,7 @@ title: "Faith and Disbelief: What They Mean and How They Impact Life — Guru Sh
 breadcrumbTitle: "Faith and Disbelief in Life"
 description: "Guru Shyama Khyapa speaks on faith versus disbelief, the Tailanga Swami story, Bama-deb, idols and consecration, and Ramprasad's devotion."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, faith, disbelief, Tailanga Swami, Bama-deb, Ramprasad Sen, Shantipunj, Pran-Pratishtha"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:16:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Dhupguri MLA Mitali Roy's Devotion: Daily Gita Reading Inspires Gurudev"
 breadcrumbTitle: "MLA Mitali Roy Gita Devotion"
 description: "Gurudev Shyama Khyapa expresses admiration for Dhupguri MLA Mitali Roy's daily Gita reading practice, even while serving in the Legislative Assembly, and shares profound insights on the Gita's message of renunciation."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Mitali Roy, MLA, Dhupguri, Bhagavad Gita, Daily Reading, Devotion, Legislative Assembly, Renunciation, Krishna, Gita vs Chandi"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:22:00
 readingTime: 8

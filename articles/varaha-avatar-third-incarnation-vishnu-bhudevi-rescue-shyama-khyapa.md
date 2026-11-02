@@ -4,7 +4,7 @@ title: "Varaha Avatar: The Third Incarnation of Vishnu - Guru Shyama Khyapa's Te
 breadcrumbTitle: "Varaha Avatar - Third Incarnation"
 description: "Guru Shyama Khyapa reveals the story of Lord Vishnu's Varaha avatar, the battle with Hiranyaksha, and the secret mantra combining Veda and Tantra for world protection."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Varaha Avatar, Vishnu, Dashavatar, Hiranyaksha, Bhudevi, Tantra, Veda, Homa, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:55:00
 readingTime: 8

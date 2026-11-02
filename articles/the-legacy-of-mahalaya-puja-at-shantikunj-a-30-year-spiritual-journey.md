@@ -4,7 +4,7 @@ title: "The Legacy of Mahalaya Puja at Shantikunj: A 30-Year Spiritual Journey"
 breadcrumbTitle: "Mahalaya Puja Traditions at Shantikunj"
 description: "Guru Shyama Khyapa recounts the three-decade history of the grand Mahalaya Puja at Shantikunj Ashram, detailing the evolution from open-air cremation ground rituals to organized spiritual gatherings."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mahalaya Puja, Shantikunj Ashram, Kali Puja, Tara Puja, Cremation Ground Rituals, Spiritual History"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:19:00
 readingTime: 9

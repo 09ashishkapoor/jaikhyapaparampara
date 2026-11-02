@@ -4,7 +4,7 @@ title: "The Disaster of Civilization: 2026 and World War III — Guru Shyama Khy
 breadcrumbTitle: "2026 World War III Warning"
 description: "Guru Shyama Khyapa delivers a grave prophecy about 2026 as the year of impending World War III, massive civilian displacement, and the only refuge available to humanity: Harinam Sankirtan (chanting the divine names) in this Kali Yuga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, 2026 Prophecy, World War III, Kali Yuga, Harinam Sankirtan, Prophecy, Spiritual Warning, Divine Protection"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 00:03:00
 readingTime: 8

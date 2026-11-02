@@ -4,7 +4,7 @@ title: "Narasimha in Kali Sadhana: Without Bhairava?"
 breadcrumbTitle: "Narasimha in Kali Sadhana"
 description: "Shri Praveen Radhakrishna explores the deep cosmic connection between Swami Narasimha and Maa Kali through the lens of Nimitta Kali, the Kali Sahasranama, and the story of Prahlada — revealing that Narasimha devotees need not abandon their path to find Devi."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Narasimha, Kali Sadhana, Nimitta Kali, Prahlada, Kayadu, Pratyangira, Kakara Varna Sarvangi, Narasimhi, Sarabha, Hiranyakashipu, Kali Sahasranama"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:19:00
 readingTime: 6

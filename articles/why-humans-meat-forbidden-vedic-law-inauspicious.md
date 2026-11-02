@@ -4,7 +4,7 @@ title: "Why Humans Should Not Eat Meat: Vedic Prohibitions and the Consequences 
 breadcrumbTitle: "Meat Prohibition Vedic"
 description: "Guru Shyama Khyapa teaches why meat consumption is forbidden according to Vedic law, explaining that meat is the food of demons and linking its consumption to family discord and marriage breakdown in modern times."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, meat prohibition, vegetarian, Vedic law, inauspicious"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:59:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "Astika Muni and Mansa Devi: The Mahabharata Connection to Nag Panchami"
 breadcrumbTitle: "Astika Muni Mansa Devi Mahabharata"
 description: "Guru Shyama Khyapa narrates the story of Astika Muni, son of Mansa Devi, who stopped the Sarpa Satra sacrifice and saved the snake race, connecting King Parikshit, Janamejaya, and the Mahabharata."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Astika Muni, Mansa Devi, Nag Panchami, Mahabharata, King Parikshit, Janamejaya, Sarpa Satra, Jaratkaru, Vasuki, Takshaka, Behula, Lakhinder, Chand Sadagar"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:40:00
 readingTime: 6

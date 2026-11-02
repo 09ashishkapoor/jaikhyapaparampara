@@ -4,7 +4,7 @@ title: "Real Saints vs. Frauds: How to Recognize a True Sadhu"
 breadcrumbTitle: "Real vs. Fake Saints"
 description: "Gurudev Shyama Khyapa discusses the difference between genuine spiritual masters and fraudulent 'sadhus,' explaining how to test them and the importance of Bhakti Yog."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Real Sadhu, Fake Saint, Bhakti Yog, Raj Yog, Param Brahma, Spiritual Testing, Meditation, Gyan Yog, Spiritual Discernment"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 24

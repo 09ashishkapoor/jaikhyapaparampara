@@ -4,7 +4,7 @@ title: "Sri Ram Thakur: The Saint of Kaibalya Dham, Tantra, Krishna Devotion, an
 breadcrumbTitle: "Sri Ram Thakur Kaibalya Dham Tantra Krishna"
 description: "Guru Shyama Khyapa narrates the extraordinary life of Sri Ram Thakur — his birth in Faridpur Bangladesh, his training as a Tantrik, his service to his mother as a cook, the founding of Kaibalya Dham, and his supreme teaching: keep your mind calm."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ram Thakur, Kaibalya Dham, Tantra, Krishna Devotion, Kamakhya, Ashta Siddhi, Kaibalya Sadhana, Rabindranath Tagore"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 07:07:00
 readingTime: 4

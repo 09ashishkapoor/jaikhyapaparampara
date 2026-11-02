@@ -4,7 +4,7 @@ title: "What is Kalapani? Guru Shyama Khyapa Reveals the Unknown History"
 breadcrumbTitle: "Kalapani Black Water Unknown History"
 description: "Guru Shyama Khyapa explains the true meaning of Kalapani (crossing the ocean), the social ostracism faced by Michael Madhusudan Dutt, Vivekananda, and Ram Mohan Roy, and how reformers like Vidyasagar liberated society from these brutal customs."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kalapani, Michael Madhusudan Dutt, Vivekananda, Ram Mohan Roy, Vidyasagar, Sati, Social Reform, Bengali History"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 07:01:00
 readingTime: 7

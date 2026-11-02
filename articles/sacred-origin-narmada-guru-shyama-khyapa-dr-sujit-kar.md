@@ -4,7 +4,7 @@ title: "The Sacred Origin of Narmada: Guru Shyama Khyapa and Dr. Sujit Kar's Rev
 breadcrumbTitle: "Sacred Origin of Narmada River"
 description: "Guru Shyama Khyapa and renowned meteorologist Dr. Sujit Kar discuss the geological and spiritual origins of the Narmada River, its significance for sadhus, and the mystical aspects of Amarkantak."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Narmada River, Amarkantak, Dr. Sujit Kar, Sri Yantra, Shiva Linga, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:27:00
 readingTime: 12

@@ -4,7 +4,7 @@ title: "Batuka Bhairava with Maa Durga or Maa Kali: Part 2 — Prana, Raktabija,
 breadcrumbTitle: "Batuka Bhairava: Durga or Kali — Part 2"
 description: "In Part 2, Shri Praveen Radhakrishna reveals why the Sadhaka himself can become Raktabija when Maa Durga's powers are abused, how Maa Kali inevitably emerges from within Durga to reclaim the Sadhaka's Prana, and why the Adya Kali Stotra must be practised even when Maa Durga is the primary Ishta."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Batuka Bhairava, Maa Durga, Kala Bhairava, Maa Kali, Raktabija, Prana, Vairagya, Sadhana, Adya Kali Stotra, Krodha Bhairava, Guhyapati"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-17 10:07:00
 readingTime: 9

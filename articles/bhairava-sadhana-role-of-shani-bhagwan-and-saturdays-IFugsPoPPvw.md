@@ -4,7 +4,7 @@ title: "Bhairava Sadhana: The Role of Shani Bhagwan and Saturdays"
 breadcrumbTitle: "Shani Bhagwan and Saturdays in Bhairava Sadhana"
 description: "Shri Praveen Radhakrishna explains the crucial role of Shanishwara Bhagavan (Lord Saturn) in Bhairava Sadhana — how both forces work together to burn karma, and why Saturdays demand physical labor, service, and humility from the serious practitioner."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Shani Bhagwan, Shanishwara, Saturn, Karma, Sadhana, Gau Sewa, Sewa, Saturday, Kala Bhairava, Moksha"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:04:00
 readingTime: 6

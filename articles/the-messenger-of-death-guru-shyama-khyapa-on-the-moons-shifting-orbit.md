@@ -4,7 +4,7 @@ title: "The Messenger of Death: Guru Shyama Khyapa on the Moon's Shifting Orbit"
 breadcrumbTitle: "Moon Orbit and Global Warnings"
 description: "Guru Shyama Khyapa explains how the moon's straightening orbit is triggering global floods, health crises, and a potential mass extinction by 2030."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Moon Orbit, Global Floods, 2030 Prophecy, Spiritual Protection, Khyapa Parampara, Blood Moon, Pret Loka"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 2

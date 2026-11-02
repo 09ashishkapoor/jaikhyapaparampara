@@ -4,7 +4,7 @@ title: "Kalabhairava Name 71: Kamala-Iksanaya - Meaning and Significance"
 breadcrumbTitle: "Kamala-Iksanaya"
 description: "English meaning and spiritual significance of Kamala-Iksanaya, the 71st name of Lord Kalabhairava, whose lotus-like eyes reveal beauty, grace, and compassion."
 keywords: "Kamala-Iksanaya, Kalabhairava name 71, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kamala-Iksanaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

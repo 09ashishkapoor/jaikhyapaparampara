@@ -4,7 +4,7 @@ title: "Pagla Baba's Journey: At Alipurduar's Ma Tara Temple in Jamtala"
 breadcrumbTitle: "Pagla Baba Alipurduar Jamtala Ma Tara"
 description: "Pagla Baba stops at a beautiful Ma Tara temple in Alipurduar, Jamtala, an exact replica of Tarapith, on his journey to Kamakhya."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pagla Baba, Alipurduar, Jamtala, Ma Tara temple, Kamakhya, pilgrimage, Tarapith replica, Shyamal Samajpati"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:52:00
 readingTime: 4

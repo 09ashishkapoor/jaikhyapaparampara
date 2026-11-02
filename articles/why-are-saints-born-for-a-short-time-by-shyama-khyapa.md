@@ -4,7 +4,7 @@ title: "Why Are Saints Born for a Short Time? by Shyama Khyapa"
 breadcrumbTitle: "Why Saints Die Young"
 description: "Guru Shyama Khyapa discusses why perfected seekers and saints leave the world early after visions of the Divine, and explains rituals like Snana Yatra and Ambubachi."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Saints, Khanjanmas, Vision of Mother, Snana Yatra, Ambubachi"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 30

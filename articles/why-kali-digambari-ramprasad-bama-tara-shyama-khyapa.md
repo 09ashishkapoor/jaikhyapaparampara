@@ -4,7 +4,7 @@ title: "Why Kali is Digambari: Guru Shyama Khyapa on Ramprasad and Bama Tara"
 breadcrumbTitle: "Kali Digambari and Ramprasad Songs"
 description: "Guru Shyama Khyapa explains the deeper meaning of Goddess Kali's naked form, Ramprasad's devotional songs, and the fierce Bama Tara worship practiced by Bama Khepa."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Ramprasad, Kali, Digambari, Bama Tara, Bama Khepa, Tantra, Spiritual Songs, Agambagish"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:39:00
 readingTime: 7

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 10: Kala-Jaya - Meaning and Significance"
 breadcrumbTitle: "Kala-Jaya"
 description: "English meaning and spiritual significance of Kala-Jaya, the 10th name of Lord Kalabhairava: victorious over time and its limitations."
 keywords: "Kala-Jaya, Kalabhairava name 10, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Jaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

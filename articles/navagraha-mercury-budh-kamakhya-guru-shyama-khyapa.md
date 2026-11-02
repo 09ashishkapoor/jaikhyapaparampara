@@ -4,7 +4,7 @@ title: "Navagraha Mercury (Budh): Intelligence and Knowledge from Mother Kamakhy
 breadcrumbTitle: "Navagraha Mercury Budh"
 description: "Guru Shyama Khyapa explains Mercury (Budh), the planet of intelligence and education, its connection to Mother Kamakhya, and remedies for weak Mercury including offerings of moong dal, ivory, camphor, fruits, and ghee."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Navagraha, Mercury, Budh, Intelligence, Education, Mother Kamakhya, Kamakhya, Shodashi, Astrology, Planet, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:41:00
 readingTime: 3

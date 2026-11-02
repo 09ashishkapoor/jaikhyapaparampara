@@ -4,7 +4,7 @@ title: "Nilanjan Nandy at Shantikunj: Shyama Sangeet and Conversation"
 breadcrumbTitle: "Nilanjan Nandy at Shantikunj"
 description: "Gurudev and a host speak with singer Nilanjan Nandy amid Shyama Sangeet performances and devotional songs to Mother Tara."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Nilanjan Nandy, Shantikunj, Shyama Sangeet, Mother Tara, Tarapith, Ramprasad Sen, Dasha Mahavidya"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 00:02:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Aum Bhairavaya Namah: A Fake Mantra? Good and Bad Days in Sadhana, the A
 breadcrumbTitle: "Aum Bhairavaya Namah & Agni"
 description: "Shri Praveen Radhakrishna explains why *Om Bhairavaya Namaha* is a valid and effective *Nama Japa*, why visualization and form matter, and how the inner *Agni Chakra* (inner Homa) burns karma when you stop \"throwing the Samagri outside\" through constant venting and victim mindset."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Om Bhairavaya Namaha, Aum Bhairavaya Namah, Nama Japa, visualization, mantra, Procedural Collapse, Fifth Head, Brahma, Shiva, Sri Krishna, Swarna Akarshana Bhairava, Kala Bhairava, Batuka Bhairava, Samsara, karma, Agni Chakra, Homa Chakra, Samudra Manthan, Sankalpa, Garbhagriha, Maa Adhya, Maa Kali, Vana Durga, Krim"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:32:00
 readingTime: 8

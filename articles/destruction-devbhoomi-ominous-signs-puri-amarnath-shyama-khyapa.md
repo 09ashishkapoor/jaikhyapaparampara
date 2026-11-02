@@ -4,7 +4,7 @@ title: "The Destruction of Devbhoomi: Ominous Signs at Puri and Amarnath"
 breadcrumbTitle: "Destruction of Devbhoomi"
 description: "Guru Shyama Khyapa discusses the collapse of sacred sites, the fulfillment of Bhabishya Malika prophecies, and the spiritual reasons behind natural disasters and impending world war."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Devbhoomi, Puri Jagannath Temple, Bhabishya Malika, Amarnath, Kedarnath, World War III, Global Floods, Kali Yuga End, Satya Yuga"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:27:00
 readingTime: 7

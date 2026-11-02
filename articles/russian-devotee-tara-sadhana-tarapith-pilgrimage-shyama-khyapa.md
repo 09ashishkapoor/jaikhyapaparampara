@@ -4,7 +4,7 @@ title: "From Russia to India for Tantra Education: A Russian Devotee's Tara Sadh
 breadcrumbTitle: "Russian Devotee Tara Sadhana"
 description: "A Russian visitor explains his fifteen-year journey practicing Tara Sadhana, having traveled from Moscow to Tarapith multiple times. Guru Shyama Khyapa discusses the importance of choosing one deity (Ishta-Devi), Rasa (spiritual flavor), and staying loyal to one's Guru."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Tara Sadhana, Tara Puja, Chinnamasta, Tantra, Russian Devotee, Tarapith, Ishta-Devi, Spiritual Practice, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:04:00
 readingTime: 14

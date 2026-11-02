@@ -4,7 +4,7 @@ title: "The Earth's Quickening Rotation: Shorter Days, Pandemic Decline, and Cos
 breadcrumbTitle: "Earth's Quickening Rotation"
 description: "Guru Shyama Khyapa discusses the physical transformation of Earth with increased rotation speed, shortened 24-hour cycles, the pandemic's trajectory, Saturn-Mars alignment fears, and the law of diminishing returns in cosmic cycles."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Earth Rotation, Shorter Days, 22-hour cycle, COVID-19, Saturn Mars Alignment, Dakshinayan, June 21, Fertility Decline, Stress"
-category: "Prophecy & Science"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 35

@@ -4,7 +4,7 @@ title: "Jagannath Dev's Bathing Ceremony: Sacred Rituals and Charan-Amrita Bless
 breadcrumbTitle: "Jagannath Bathing Ceremony"
 description: "Guru Shyama Khyapa presides over the sacred bathing ceremony of Lord Jagannath, featuring Vedic mantras, Charan-Amrita distribution, and the Guru's prophetic call for rain."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Jagannath Dev, Bathing Ceremony, Charan-Amrita, Vedic Mantras, Snana Yatra, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 18:30:00
 readingTime: 4

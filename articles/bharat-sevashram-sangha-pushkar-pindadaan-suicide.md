@@ -4,7 +4,7 @@ title: "Bharat Sevashram Sangha of Pushkar: Pindadaan for Suicide and Untimely D
 breadcrumbTitle: "Bharat Sevashram Pushkar Pindadaan"
 description: "Guru Shyama Khyapa meets with Swami Jaynathananda from Bharat Sevashram Sangha in Pushkar to discuss the sacred rituals of Pindadaan for souls who died by suicide or accidents."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bharat Sevashram Sangha, Pushkar, Pindadaan, suicide, accidental death, Lord Brahma, Gaya, Swami Jaynathananda, Karmakanda, soul liberation"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:46:00
 readingTime: 5

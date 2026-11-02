@@ -4,7 +4,7 @@ title: "Kalabhairava Name 51: Kala-Atmakaya - Meaning and Significance"
 breadcrumbTitle: "Kala-Atmakaya"
 description: "English meaning and spiritual significance of Kala-Atmakaya, the 51st name of Lord Kalabhairava, revered as the living embodiment of time and the inner essence of every age."
 keywords: "Kala-Atmakaya, Kalabhairava name 51, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Atmakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

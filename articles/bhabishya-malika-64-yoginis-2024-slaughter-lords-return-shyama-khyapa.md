@@ -4,7 +4,7 @@ title: "Bhabishya Malika Prophecies: 64 Yoginis, 2024 Slaughter, and the Lord's 
 breadcrumbTitle: "64 Yoginis Awaken, 2024 Prophecy Fulfilled"
 description: "Devotees from Jagannath Dham visit the ailing Guru Shyama Khyapa and discuss the prophecies of the Bhabishya Malika Puran — the awakening of the 64 Yoginis, the predicted great slaughter of 2024-25, the arrival of Kalki, and the protection offered to those who chant the Lord's name."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bhabishya Malika, 64 Yoginis, Kalki, prophecy, 2024, Achyutananda Das"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:46:00
 readingTime: 6

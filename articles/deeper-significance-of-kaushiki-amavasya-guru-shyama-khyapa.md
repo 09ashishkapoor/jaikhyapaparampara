@@ -4,7 +4,7 @@ title: "The Deeper Significance of Kaushiki Amavasya: Guru Shyama Khyapa's Insig
 breadcrumbTitle: "Kaushiki Amavasya Significance"
 description: "Guru Shyama Khyapa explains the spiritual origins of Kaushiki Amavasya, the cellular transformation of Goddess Durga into Kali, and why householders should avoid cremation grounds during this potent night."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kaushiki Amavasya, Tarapith, Goddess Durga, Kriya Yoga, Tantra, Spiritual Protection, Homa"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:09:00
 readingTime: 5

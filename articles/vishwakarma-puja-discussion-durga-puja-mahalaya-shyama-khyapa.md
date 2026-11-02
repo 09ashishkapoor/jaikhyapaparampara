@@ -4,7 +4,7 @@ title: "Vishwakarma Puja: Detailed Discussion with Guru Shyama Khyapa"
 breadcrumbTitle: "Vishwakarma Puja Discussion"
 description: "Guru Shyama Khyapa explains Vishwakarma as the divine architect, his puja on Sankranti, the connection to Durga Puja and Mahalaya, and the story of Behula-Lakhindar."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Vishwakarma Puja, Durga Puja, Mahalaya, Behula Lakhindar, Manasa"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:06:00
 readingTime: 5

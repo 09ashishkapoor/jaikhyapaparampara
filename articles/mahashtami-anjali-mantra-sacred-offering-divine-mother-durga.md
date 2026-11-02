@@ -4,7 +4,7 @@ title: "Mahashtami Anjali Mantra: Complete Sacred Ritual for Offering to Divine 
 breadcrumbTitle: "Mahashtami Anjali Mantra"
 description: "Guru Shyama Khyapa recites and explains the complete Mahashtami Anjali Mantra with full Sanskrit verses and guidance for performing sacred floral offerings to Divine Mother Durga with a pure heart."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Anjali Mantra, Mahashtami, Divine Mother Durga, ritual, sacred offering"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:56:00
 readingTime: 8

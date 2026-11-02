@@ -4,7 +4,7 @@ title: "Kali Puja and Bhoot Chaturdashi: Tantric Rituals and Spiritual Insights 
 breadcrumbTitle: "Kali Puja and Bhoot Chaturdashi Rituals"
 description: "Guru Shyama Khyapa explains the spiritual significance of Bhoot Chaturdashi, Tantric methods of Kali Puja, the four phases of Shiva worship, and his progressive views on women's participation in rituals."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Kali Puja, Bhoot Chaturdashi, Tantric Rituals, Choddo Shak, Amavasya, Dashmahavidya, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:30:00
 readingTime: 6

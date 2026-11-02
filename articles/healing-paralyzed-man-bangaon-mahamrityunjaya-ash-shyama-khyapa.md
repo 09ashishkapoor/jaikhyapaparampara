@@ -4,7 +4,7 @@ title: "Healing Through Divine Grace: A Paralyzed Man's Journey from Bangaon to 
 breadcrumbTitle: "Healing a Paralyzed Man"
 description: "A powerful testimony of a paralyzed man from Bangaon who sought healing from Guru Shyama Khyapa through the Mahamrityunjaya holy ash and mantras."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Healing, Paralysis, Mahamrityunjaya, Holy Ash, Miracles, Bangaon, Khyapa Parampara"
-category: "Miracles & Healing"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:05:00
 readingTime: 3

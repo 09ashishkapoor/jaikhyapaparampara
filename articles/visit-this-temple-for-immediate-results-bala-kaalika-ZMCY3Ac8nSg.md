@@ -4,7 +4,7 @@ title: "Visit This Temple for Immediate Results? A Sadhaka's Guide to Temple Vis
 breadcrumbTitle: "Temple Visits, Sadhana, and Bala Kalika"
 description: "Shri Praveen Radhakrishna explains why a serious Sadhaka should not engage in temple hopping, how popular temples become energy-negative spaces, why the Sadhaka empowers the idol — not the other way around — and announces the consecration process for the Bala Kalika vigraham."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, temple hopping, Sadhaka and temple, Bala Kalika, Adya Kali, consecration, Deva Tattva, Kshetra, Upasana, Asana, Smashana Kali"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:59:00
 readingTime: 7

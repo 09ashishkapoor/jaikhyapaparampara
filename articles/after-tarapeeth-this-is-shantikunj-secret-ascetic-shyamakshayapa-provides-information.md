@@ -4,7 +4,7 @@ title: "After Tarapeeth, This is Shantikunj | Secret Ascetic Shyama Khyapa Provi
 breadcrumbTitle: "Shantikunj and Spiritual Wisdom"
 description: "Guru Shyama Khyapa and S. P. Mukherjee discuss the importance of mental resilience, the true nature of devotion, and the spiritual immunity gained through faith and sacred rituals."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tara Peeth, Shantikunj, Spiritual Immunity, Mental Resilience, Maha Mrityunjaya Yajna, Tantra, Devotion"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 15

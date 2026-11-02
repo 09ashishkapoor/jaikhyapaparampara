@@ -6,7 +6,7 @@ metaTitle: "Batuka Bhairava 108 Names with Meanings"
 description: "Complete Shri Batuka Bhairava Ashtottara Shata Namavali with all 108 names, transliteration, and simple English meanings for study, remembrance, and devotional recitation."
 metaDescription: "Chant Shri Batuka Bhairava 108 names with the full Om-Namah namavali, then study each name with simple English meanings and recitation guidance."
 keywords: "Batuka Bhairava 108 names, Batuka Bhairava namavali, Shri Batuka Bhairava Ashtottara Shata Namavali, Batuka Bhairava meanings, Bhairava 108 names, Khyapa Parampara, Bhairava Sadhana"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish"
 date: 2026-06-12
 language: "en"

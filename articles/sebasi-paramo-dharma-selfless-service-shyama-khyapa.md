@@ -4,7 +4,7 @@ title: "Sebai Paramo Dharma: The True Meaning of Selfless Service"
 breadcrumbTitle: "Sebai Paramo Dharma"
 description: "Guru Shyama Khyapa explores the true meaning of 'Seba' (Service), distinguishing between genuine selfless service to God and humanity versus actions driven by ego and self-interest."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Seba, Selfless Service, Bharat Sevashram Sangha, Ramakrishna Mission, Spiritual Independence, Temple Donations, Gita, Chandi"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:38:00
 readingTime: 6

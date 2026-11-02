@@ -4,7 +4,7 @@ title: "The True Story of Tantric Wives Who Never Become Widows"
 breadcrumbTitle: "Tantric Wives Never Widows Story"
 description: "Guru Shyama Khyapa shares the true story of Bamdeb Baba's divine order that Tantric practitioners' wives never become widows, and the miraculous tale of Shubodh Mukhopadhyay's spiritual journey."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bamdeb Baba, Tantric Wives, Widows, Tarapith, Mother Sarada, Swami Purnananda, Shubodh Mukhopadhyay, Spiritual Partners"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:35:00
 readingTime: 18

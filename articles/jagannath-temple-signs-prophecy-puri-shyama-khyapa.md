@@ -4,7 +4,7 @@ title: "The Jagannath Temple as Nature's Stethoscope: Signs and Prophecies"
 breadcrumbTitle: "Jagannath Temple Signs"
 description: "Guru Shyama Khyapa explains how the Jagannath Temple in Puri serves as a spiritual stethoscope for the world, revealing ominous signs like vultures on the temple flag and prophecies of destruction."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Jagannath Temple, Puri, Prophecy, Signs, Kali Yuga, Kalki Avatar, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:47:00
 readingTime: 2

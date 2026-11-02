@@ -4,7 +4,7 @@ title: "Traveling in the Subtle Body: The Mystery of Spiritual Vibration and Pre
 breadcrumbTitle: "Subtle Body Sukshmo Shorir Spiritual Vibration"
 description: "Guru Shyama Khyapa explains how his subtle body travels to devotees, the science of spiritual vibration, and why people feel his presence even without meeting him physically."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, subtle body, Sukshmo Shorir, spiritual vibration, Gyanganj, Kriya, spiritual travel, aura, divine presence"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:59:00
 readingTime: 7

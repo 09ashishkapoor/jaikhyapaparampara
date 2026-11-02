@@ -4,7 +4,7 @@ title: "Preparations for Mahalaya and Ominous Signs for Durga Puja: Guru Shyama 
 breadcrumbTitle: "Mahalaya Preparations & Prophecy"
 description: "Guru Shyama Khyapa discusses the upcoming Mahalaya festival, his severe illness from taking on a devotee's karma, and ominous signs for the upcoming Durga Puja and the final months of the year."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mahalaya, Durga Puja, Prophecy, Ominous signs, Karma, Healing, Shantikunj"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:06:00
 readingTime: 4

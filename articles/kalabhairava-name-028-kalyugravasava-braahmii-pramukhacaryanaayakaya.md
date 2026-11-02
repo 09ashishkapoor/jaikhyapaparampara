@@ -4,7 +4,7 @@ title: "Kalabhairava Name 28: Kalyugravasava Braahmii Pramukhacaryanaayakaya - M
 breadcrumbTitle: "Kalyugravasava Braahmii Pramukhacaryanaayakaya"
 description: "English meaning and spiritual significance of Kalyugravasava Braahmii Pramukhacaryanaayakaya, the 28th name of Lord Kalabhairava: leader of Brahmi and the Matrikas, fierce guardian of the Kali age."
 keywords: "Kalyugravasava Braahmii Pramukhacaryanaayakaya, Kalabhairava name 28, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kalyugravasava Braahmii Pramukhacaryanaayakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

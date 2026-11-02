@@ -4,7 +4,7 @@ title: "The Sacred Trishul: Symbolism, Power, and the Divine Trinity"
 breadcrumbTitle: "Sacred Trishul"
 description: "Guru Shyama Khyapa explains the profound spiritual significance of the Trishul (Trident), representing the unified power of Brahma, Vishnu, and Maheshwara, and its role as an awakened weapon for protection and destruction of evil."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Trishul, Trident, Brahma Vishnu Maheshwar, Tantra Sadhana, Protection, Tarapith, Bama Khepa, Lightning Rod, Spiritual Power"
-category: "Spiritual Tools"
+category: "Sadhana, Tantra and Mantra"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 12

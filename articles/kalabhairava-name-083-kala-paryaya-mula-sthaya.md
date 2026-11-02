@@ -4,7 +4,7 @@ title: "Kalabhairava Name 83: Kala-Paryaya-Mula-Sthaya - Meaning and Significanc
 breadcrumbTitle: "Kala-Paryaya-Mula-Sthaya"
 description: "English meaning and spiritual significance of Kala-Paryaya-Mula-Sthaya, the 83rd name of Lord Kalabhairava, the abiding source behind the cycles and transformations of time."
 keywords: "Kala-Paryaya-Mula-Sthaya, Kalabhairava name 83, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Paryaya-Mula-Sthaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

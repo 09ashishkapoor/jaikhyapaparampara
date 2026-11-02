@@ -4,7 +4,7 @@ title: "Generational Trauma and Karma in Bhairava Sadhana: Four Heads vs Fifth H
 breadcrumbTitle: "Generational Karma"
 description: "Shri Praveen Radhakrishna explains how karma and trauma move through bloodlines for about 7.5 generations, why Bhairava as Kshetrapala operates differently across the four heads and the fifth head of Brahma, and how a seeker can begin burning inherited patterns by spiritually owning them."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, generational trauma, generational karma, bloodline, Rudhirapriya, Prana, Shanishwara, 7.5 generations, Kshetrapala, Four Heads of Brahma, Fifth Head of Brahma, Ma Adhya, Adi Shakti, Yantra, Niyama, curse, lineage, Sri Krishna, loneliness, Dhumavati"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:41:00
 readingTime: 9

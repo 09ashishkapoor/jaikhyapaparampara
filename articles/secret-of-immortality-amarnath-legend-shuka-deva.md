@@ -4,7 +4,7 @@ title: "The Secret of Immortality: Amarnath Legend and the Story of Shuka Deva"
 breadcrumbTitle: "The Secret of Immortality"
 description: "Guru Shyama Khyapa explains the true meaning of immortality, the legend of how the Amarnath cave came to be, and why deeds outlive the physical body."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Immortality, Amrit, Amarnath Cave, Lord Shiva, Mother Durga, Shuka Deva, Samudra Manthan, Neelkantha, Kumbh Mela, Gyan Ganj, Pawhari Baba, Karma"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:07:00
 readingTime: 7

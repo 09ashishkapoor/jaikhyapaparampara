@@ -4,7 +4,7 @@ title: "Guru Purnima Announcement: Gurudev's Recovery from Lung Infection"
 breadcrumbTitle: "Guru Purnima July 10 Health Update"
 description: "Guru Shyama Khyapa addresses his followers on Guru Purnima, announcing his recent hospitalization for a lung infection and COPD diagnosis, explaining why he cannot receive visitors during his recovery."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Guru Purnima, Health, Lung Infection, COPD, Rajpur, Shantikunj, Paduka, Recovery"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 10:04:00
 readingTime: 6

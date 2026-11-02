@@ -4,7 +4,7 @@ title: "Prophecy of 100 Crore Deaths: Gurudev on the Future of India and Societa
 breadcrumbTitle: "Prophecy of 100 Crore Deaths"
 description: "Guru Shyama Khyapa delivers a chilling prophecy about India's future, discussing the decline of youth, the breakdown of family values, and the coming crisis of malnutrition and hunger. A full conversation between devotee and Guru on societal collapse."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Prophecy, India Future, Societal Decay, Youth Crisis, Women, Tribal People, Poverty, Hunger, 100 Crore Deaths"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 20

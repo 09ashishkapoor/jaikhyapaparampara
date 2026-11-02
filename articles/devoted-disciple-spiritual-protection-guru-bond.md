@@ -4,7 +4,7 @@ title: "The Devoted Disciple: A True Guru Can Manifest Divine Protection Through
 breadcrumbTitle: "Devoted Disciple Gargi"
 description: "Guru Shyama Khyapa and his long-time devoted disciple Gargi share testimonies of spiritual connection, divine protection, and the profound bond between a true Guru and an obedient student who has surrendered completely."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Guru disciple, devotion, spiritual protection, surrender"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:01:00
 readingTime: 7

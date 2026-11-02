@@ -4,7 +4,7 @@ title: "Vishkumbha: Guru Shyama Khyapa on the Damaged Kumbh and Coming War"
 breadcrumbTitle: "Vishkumbha Damaged Kumbh Warning"
 description: "Guru Shyama Khyapa reveals why householders should not attend Kumbh, how the Pishach Yoga caused fires and deaths, and why the same planetary positions as Kurukshetra signal inevitable war."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Maha Kumbh, Vishkumbha, Pishach Yoga, War Prophecy, Bhavishya Malika, Kurukshetra, Planetary Alignment, Sadhus"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:54:00
 readingTime: 6

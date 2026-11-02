@@ -4,7 +4,7 @@ title: "The Name is the Best in Kali Yuga: Hari Naam Sankirtan with Guptasadhak 
 breadcrumbTitle: "Hari Naam Sankirtan - The Name in Kali Yuga"
 description: "Guru Shyama Khyapa leads a powerful Hari Naam Sankirtan session, explaining that in the age of Kali, only the chanting of the Divine Name can save us. Features traditional Bengali kirtan and prophecies from Bhavishya Malika."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Hari Naam, Sankirtan, Kali Yuga, Krishna, Radha, Bhavishya Malika, Jagannath, Khyapa Parampara"
-category: "Prayers and Chants"
+category: "Rituals, Worship and Festivals"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:22:00
 readingTime: 4

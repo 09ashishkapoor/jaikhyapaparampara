@@ -4,7 +4,7 @@ title: "Sraddha Ceremonies, Pret-Lok, and the Soul's Ten-Month Journey Through t
 breadcrumbTitle: "Sraddha Rituals & Soul's Spiritual Journey"
 description: "Guru Shyama Khyapa reveals the profound science behind Sraddha rituals, the soul's journey through Pret-Lok and Chandralok, the significance of the sixteen essential offerings, and how these ceremonies liberate the deceased from the spirit realm in ten months and ten days."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Sraddha, Pret-Lok, Chandralok, soul journey, death rituals, Shorosh-daan, Pinda-daan, spirit realm, reincarnation, funeral ceremonies, liberation"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:09:00
 readingTime: 16

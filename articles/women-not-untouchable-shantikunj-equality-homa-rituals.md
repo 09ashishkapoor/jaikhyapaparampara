@@ -4,7 +4,7 @@ title: "Women Are Not Untouchable in Shantikunj: Equality in Homa and Rituals"
 breadcrumbTitle: "Women Equality in Shantikunj Rituals"
 description: "Guru Shyama Khyapa affirms women's equal right to perform Vedic Homas and rituals at Shantikunj, rejecting orthodox restrictions and training women in sacred ceremonies for world peace."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, women equality, Shantikunj, Homa, Yagna, Maghi Purnima, Jagannath, Narayana, Vedic tradition, Sattvic, Tantra, Divya-achara, women's rights"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:21:00
 readingTime: 4

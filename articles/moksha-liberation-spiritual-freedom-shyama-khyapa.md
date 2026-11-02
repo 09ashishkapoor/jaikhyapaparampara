@@ -4,7 +4,7 @@ title: "Moksha: Understanding Liberation and the Path to Spiritual Freedom"
 breadcrumbTitle: "Moksha Liberation"
 description: "Guru Shyama Khyapa explains the profound difference between Mukti and Moksha, the four goals of life (Chaturvarga), and how liberation can only be granted by a realized soul."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Moksha, Liberation, Mukti, Chaturvarga, Dharma, Artha, Kama, Shada-ripu, Vivekananda, Service"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:20:00
 readingTime: 3

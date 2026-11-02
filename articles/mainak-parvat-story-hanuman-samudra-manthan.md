@@ -4,7 +4,7 @@ title: "Mainak Parvat: The Flying Mountain That Aided Hanuman and Samudra Mantha
 breadcrumbTitle: "Mainak Parvat Story"
 description: "Guru Shyama Khyapa reveals the fascinating Puranic history of Mainak Parvat—the winged mountain that offered rest to Hanuman and served as the churning rod for the Ocean of Milk."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mainak Parvat, Hanuman, Samudra Manthan, Himalayas, Parvati, Puranas"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:03:00
 readingTime: 5

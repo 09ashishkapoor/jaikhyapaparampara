@@ -4,7 +4,7 @@ title: "The Mystery of Ram Mandir and the Kalki Avatar: A Prophetic Conversation
 breadcrumbTitle: "Ram Mandir and Kalki"
 description: "Guru Shyama Khyapa and a devoted disciple discuss the spiritual significance of the Ayodhya Ram Mandir, the ten incarnations of Narayana, and the prophesied arrival of the Kalki Avatar with the seven immortals (Chiranjivi). Topics include the Bhavishya Malika prophecies, the cycles of the Yugas, and the final spiritual war prophesied for 2050."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ram Mandir, Ayodhya, Kalki Avatar, Bhavishya Malika, Kali Yuga, Seven Immortals, Chiranjivi, Rama, Krishna, Prophecy, Spiritual Warfare, Yugas"
-category: "Prophecy & Spirituality"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 36

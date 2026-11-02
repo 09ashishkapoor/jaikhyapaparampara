@@ -4,7 +4,7 @@ title: "Guru Shyama Khyapa's Dire Warnings: World War 3, Famine, and the Bhavish
 breadcrumbTitle: "World War 3 & Prophecies"
 description: "Guru Shyama Khyapa discusses the recent Durga and Lakshmi Pujas, then delivers a stark warning about the impending Third World War, nuclear threats, a global famine, and the unfolding prophecies of the Bhavishya Malika. He also shares insights into the current state of the world and his own health."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Durga Puja, Kali Puja, Lakshmi Puja, Kojagari, World War 3, Nuclear War, Famine, Bhavishya Malika, Prophecy, Biological Warfare, Saturn in Pisces, Health, Spiritual Healing, Gupta Sadhak Shyamakhyapa"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 8

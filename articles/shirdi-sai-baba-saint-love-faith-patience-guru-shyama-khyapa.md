@@ -4,7 +4,7 @@ title: "Shirdi Sai Baba: The Saint Who Taught Love, Faith, and Patience"
 breadcrumbTitle: "Shirdi Sai Baba"
 description: "Guru Shyama Khyapa shares his insights on Shirdi Sai Baba, discussing his life, spiritual teachings, connection with Dattatreya, and the famous saying 'Sabka Malik Ek'."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shirdi Sai Baba, Dattatreya, spiritual guru, saint, Hindu Muslim unity, Narmada, Shani Shingnapur"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:16:00
 readingTime: 3

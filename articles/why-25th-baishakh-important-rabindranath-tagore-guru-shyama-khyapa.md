@@ -4,7 +4,7 @@ title: "Why the 25th of Baishakh Is Important: Rabindranath Tagore Through Guru 
 breadcrumbTitle: "Why 25th Baishakh Is Important"
 description: "Guru Shyama Khyapa reflects on Rabindranath Tagore's spiritual and cultural legacy, the Tarapith-Shantiniketan connection through Debendranath Tagore and Bama Khepa, and the enduring significance of 25th Baishakh for Bengalis."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, 25th Baishakh, Rabindranath Tagore, Shantiniketan, Debendranath Tagore, Bama Khepa, Jallianwala Bagh"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:59:10
 readingTime: 10

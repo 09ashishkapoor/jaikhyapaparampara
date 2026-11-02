@@ -4,7 +4,7 @@ title: "Living Death: How Bhairava Detaches the Atma While Alive — Hyderabad S
 breadcrumbTitle: "Bhairava Detaches the Atma While Alive"
 description: "Shri Praveen Radhakrishna explains the profound concept of 'living death' — how Bhairava takes control of the Atma even while the physical body is still active — and how the Khepa Parampara provides a radical, ruleless path to Devi for every sincere seeker."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Living Death, Atma, Kali, Bama Khepa, Shama Khepa, Kshetrapala, Kundalini, Hyderabad Satsang, Bhog Mukti Moksha, Adya Kali"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:32:00
 readingTime: 11

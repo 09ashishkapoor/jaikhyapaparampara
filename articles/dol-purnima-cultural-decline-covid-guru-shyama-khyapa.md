@@ -4,7 +4,7 @@ title: "Dol Purnima Message: Cultural Decline, COVID Warnings, and the Loss of T
 breadcrumbTitle: "Dol Purnima Warnings"
 description: "Guru Shyama Khyapa discusses the fading traditions of Dol Purnima, the dangers of chemical colors, rising COVID-19 concerns during celebrations, and the cultural decline marked by intoxication and political interference."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Dol Purnima, Holi, Cultural Decline, COVID-19, Traditional Values, Festival, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 12:00:00
 readingTime: 8

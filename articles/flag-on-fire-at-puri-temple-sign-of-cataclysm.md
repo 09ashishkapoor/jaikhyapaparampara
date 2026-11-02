@@ -4,7 +4,7 @@ title: "Flag on Fire at Puri Temple - Sign of Cataclysm"
 breadcrumbTitle: "Flag on Fire at Puri Temple"
 description: "Guru Shyama Khyapa interprets the burning of the flag atop the Jagannath Temple in Puri as a sign of impending cataclysm and warns of disasters."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jagannath Temple, Puri, cataclysm, pralaya, Coronavirus, flag fire"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:20:00
 readingTime: 7

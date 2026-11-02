@@ -4,7 +4,7 @@ title: "Holi and Dol Festival: Gurudev's Guidance and Warnings"
 breadcrumbTitle: "Holi and Dol Guidance"
 description: "Gurudev discusses the Dol and Holi festival traditions, Krishna's leela, and offers cautions about colors, health, and alcohol." 
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Holi, Doljatra, Dol festival, Phalguna, Abir, Vishnu-Maya, Krishna, Radha, Mahadev, Narada, Shantiniketan, Shantikunj, alcohol warning"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 00:03:00
 readingTime: 9

@@ -4,7 +4,7 @@ title: "This Shantikunja, Far from Manchester: A Devotee's Visit to Gurudev"
 breadcrumbTitle: "Manchester Devotee at Shantikunj"
 description: "Sagnik Dutta, a software engineer from Manchester, visits Shantikunj to meet Gurudev. He shares his connection to Ma Tara's devotees abroad, his career, and his wish to return to India, with Gurudev's blessings and a discussion on Tata and Singur."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shantikunj, Manchester, Ma Tara, Tata, Singur, Bengali devotee abroad"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:33:00
 readingTime: 4

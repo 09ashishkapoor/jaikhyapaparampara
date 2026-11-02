@@ -4,7 +4,7 @@ title: "Mahakal: The Wheel of Time and the Puri Temple Omen"
 breadcrumbTitle: "Mahakal and the Wheel of Time"
 description: "Guru Shyama Khyapa explains the mysteries of Mahakal worship, the terrifying concept of the Womb of Time, and reveals a shocking omen he witnessed at the Jagannath Puri temple—a kite sitting on the sacred flag."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Mahakal, Kal Bhairava, Jagannath, Puri Temple, Wheel of Time, Death worship, Spiritual teachings, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:02:00
 readingTime: 18

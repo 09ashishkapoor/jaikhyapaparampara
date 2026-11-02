@@ -4,7 +4,7 @@ title: "The Legend of Netaji Subhas Chandra Bose: Is He Still Alive?"
 breadcrumbTitle: "Netaji Subhas Chandra Bose"
 description: "Guru Shyama Khyapa shares his personal experiences and spiritual conviction that Netaji Subhas Chandra Bose is alive in Gyanganj and will return to India."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Netaji Subhas Chandra Bose, Gyanganj, Baradacharan Majumdar, Independence Movement, Gyanganj Mystery, Khechari Mudra, Bharat Mata"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:13:00
 readingTime: 7

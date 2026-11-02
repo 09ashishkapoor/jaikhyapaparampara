@@ -4,7 +4,7 @@ title: "Who Is Greater: The Initiator or the Teacher? Understanding Guru Types"
 breadcrumbTitle: "Initiator vs Teacher"
 description: "Guru Shyama Khyapa explores the relationship between Shiksha Guru (teacher) and Diksha Guru (spiritual initiator), affirming that parents, teachers, and spiritual guides are all equally great in their roles."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shiksha Guru, Diksha Guru, Initiator, Teacher, Parents, Adya Ma, Jahid Bin Rahim, Unity, Interfaith"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:00:00
 readingTime: 5

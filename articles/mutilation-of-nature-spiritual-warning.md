@@ -4,7 +4,7 @@ title: "Mutilation of Nature: A Spiritual Warning from Guru Shyama Khyapa"
 breadcrumbTitle: "Mutilation of Nature"
 description: "In this profound special episode, Guru Shyama Khyapa reveals why God is moving away from humanity, the spiritual void that has grown since the second lockdown, and why 2022 holds calamities far more severe than anything witnessed before. A conversation about natural disasters, human frustration, and the final path left for salvation."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, 2022 Prophecy, Nature's Destruction, Tsunamis, Earthquakes, Volcanoes, COVID-19, Spiritual Void, God's Absence, Tarapith, Disaster Prediction"
-category: "Prophecy & Science"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 32

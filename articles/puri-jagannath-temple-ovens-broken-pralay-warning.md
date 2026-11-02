@@ -4,7 +4,7 @@ title: "Puri Temple Ovens Broken: Guru Shyama Khyapa's Warning of Pralay and Jag
 breadcrumbTitle: "Puri Temple Ovens Broken Pralay Warning"
 description: "Guru Shyama Khyapa interprets the shocking breaking of 43 ancient ovens at the Puri Jagannath Temple as a foreboding sign of the approaching Pralay—predicting earthquakes, floods, famine, and Lord Jagannath's imminent departure from the earth as foretold in the Jagannath Bhagwat."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Puri, Jagannath temple, ovens broken, Pralay, Kali Yuga, apocalypse, famine, earthquake, Jagannath Bhagwat, Bimala, Subhadra, Haladhar, temple cracks"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:24:00
 readingTime: 6

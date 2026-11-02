@@ -4,7 +4,7 @@ title: "Bama Khepa's Blessing: The True Yogi Does Not Become a Widow"
 breadcrumbTitle: "Bama Khepa's Blessings to Widows"
 description: "Gurudev Shyama Khyapa narrates a miraculous story of Bama Khepa blessing a female practitioner in Tarapith and discusses the Tantric perspective on ritual impurity during death."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bama Khepa, Tarapith, Gombhirnath Ji, Ponumananda Ji, widowhood, Shakha Sindoor, Tantric rituals, Asauch"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 12:05:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Coromandel Express Miracle: Survivor's Story and Prophecy of Coming Disa
 breadcrumbTitle: "Coromandel Express Survivor Miracle Story"
 description: "A disciple who narrowly survived the Coromandel Express train accident recounts the horrifying ordeal with Guru Shyama Khyapa, who then shares prophecies about a coming earthquake and the destruction of Odisha's coastal regions."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Coromandel Express, train accident, miracle, Jagannath, Odisha, Puri, earthquake, prophecy, Kali Yuga, Mahapralaya"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:07:00
 readingTime: 5

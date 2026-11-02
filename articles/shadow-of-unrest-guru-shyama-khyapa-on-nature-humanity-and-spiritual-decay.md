@@ -4,7 +4,7 @@ title: "Shadow of Unrest: Guru Shyama Khyapa on Nature, Humanity, and Spiritual 
 breadcrumbTitle: "Shadow of Unrest"
 description: "Guru Shyama Khyapa discusses the growing restlessness in humanity and nature, the futility of material offerings, and the spiritual consequences of ignoring natural laws."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Spiritual Unrest, Nature, Tantra, Human Greed, Spiritual Protection, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 10

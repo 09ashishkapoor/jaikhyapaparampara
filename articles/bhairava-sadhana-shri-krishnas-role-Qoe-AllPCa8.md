@@ -4,7 +4,7 @@ title: "Bhairava Sadhana: Shri Krishna's Role in the Kali Yuga Path"
 breadcrumbTitle: "Shri Krishna's Role in Bhairava Sadhana"
 description: "Shri Praveen Radhakrishna explains the inner Yuga cycle of the Jiva — from Satya to Treta to Dvapara to Kali — and why Sri Krishna's Yogastha Buddhi is the indispensable guide for any practitioner walking toward Bhairava and Maa Kali in the Kali Yuga."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Sri Krishna, Kali Yuga, Jiva, Yuga Chakra, Moksha, Yogastha Buddhi, Hanuman, Ganesha, Sri Rama, Maa Kali, Mahakala"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:08:00
 readingTime: 12

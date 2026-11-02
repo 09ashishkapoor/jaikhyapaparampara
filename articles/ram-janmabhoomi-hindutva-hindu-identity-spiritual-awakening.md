@@ -4,7 +4,7 @@ title: "Ram Janmabhoomi and the Establishment of Hindutva: Restoring Sacred Hind
 breadcrumbTitle: "Ram Janmabhoomi Hindutva"
 description: "Guru Shyama Khyapa discusses the sacred significance of the Ram Janmabhoomi temple establishment, the 492-year history of Hindu struggle, and the spiritual importance of Hindutva (Hindu identity) in restoring dharma during Kali Yuga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ram Janmabhoomi, Hindutva, Hindu identity, Ram Temple, spiritual awakening"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:57:00
 readingTime: 6

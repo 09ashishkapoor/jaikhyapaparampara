@@ -4,7 +4,7 @@ title: "God is the Ultimate Doctor: Removing the Ego"
 breadcrumbTitle: "God is the Ultimate Doctor"
 description: "Guru Shyama Khyapa explains how removing the 'I' (ego) and surrendering to the Divine Mother can cure incurable diseases and bring peace. Featuring a moving story of faith and divine healing."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Ego, Divine Mother, Healing, Faith, Jesus Christ, Spiritual Medicine, Surrender, Khyapa Parampara, God as Doctor"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-01-08
 readingTime: 18

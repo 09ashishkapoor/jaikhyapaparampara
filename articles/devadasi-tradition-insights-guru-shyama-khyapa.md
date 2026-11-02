@@ -4,7 +4,7 @@ title: "Devadasi Tradition: Insights from Guru Shyama Khyapa"
 breadcrumbTitle: "Devadasi Tradition"
 description: "Guru Shyama Khyapa explains the ancient tradition of Devadasis, their role in temples, and the historical context across the Yugas."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Devadasi, temple servants, Jagannath, Dwapara Yuga"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:02:00
 readingTime: 4

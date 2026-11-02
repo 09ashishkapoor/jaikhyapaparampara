@@ -4,7 +4,7 @@ title: "Kalabhairava Name 3: Kala-Danda-Dhrite - Meaning and Significance"
 breadcrumbTitle: "Kala-Danda-Dhrite"
 description: "English meaning and spiritual significance of Kala-Danda-Dhrite, the 3rd name of Lord Kalabhairava: bearer of the rod of time, discipline, and divine judgment."
 keywords: "Kala-Danda-Dhrite, Kalabhairava name 3, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Danda-Dhrite meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

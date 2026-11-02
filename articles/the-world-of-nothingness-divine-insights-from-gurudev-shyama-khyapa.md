@@ -4,7 +4,7 @@ title: "The World of Nothingness: Divine Insights from Gurudev Shyama Khyapa"
 breadcrumbTitle: "World of Nothingness"
 description: "Guru Shyama Khyapa explains the spiritual concept of the 'World of Nothingness' (Neimoy Jogot), how the Five Elements consume us from birth, and the six inner enemies that plague human existence."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, World of Nothingness, Five Elements, Six Enemies, Brahma, Shankaracharya, Spiritual Philosophy"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 20

@@ -4,7 +4,7 @@ title: "Unknown Stories of Bama Khepa from Tarapith | Guru Shyama Khyapa"
 breadcrumbTitle: "Unknown Stories of Bama Khepa"
 description: "Guru Shyama Khyapa shares rare accounts about Bama Khepa's life, Tarapith cremation-ground sadhana, and his connections with major spiritual personalities. The discourse includes incidents tied to Mother Tara, Shantiniketan, and oral traditions preserved by close disciples."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bama Khepa, Tarapith, Mother Tara, Debendranath Tagore, Shantiniketan, Nigamananda Saraswati, Vivekananda, Rajpur Maha Sashan"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:11:00
 readingTime: 11

@@ -4,7 +4,7 @@ title: "Mr. Ravi Kishan Podcast: Life and Bloodline Lessons Revealed"
 breadcrumbTitle: "Ravi Kishan: Liberating the Bloodline"
 description: "Using the life story of actor and politician Shri Ravi Kishan as a living scripture, Shri Praveen Radhakrishna delivers a complete teaching on what it means to liberate one's bloodline — how the seed chosen by Devi breaks the karma of generations, earns the tears of the father, and activates the full power of the ancestral lineage."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, bloodline liberation, Pitru moksha, Ravi Kishan, Kali Sadhana, Shakta, Brihannala, Bhairava of the bloodline, generational karma, Sthula Sharira, femininity, Shakti"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:12:00
 readingTime: 9

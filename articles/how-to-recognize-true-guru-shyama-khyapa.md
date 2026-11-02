@@ -4,7 +4,7 @@ title: "How to Recognize a True Guru in the Age of Confusion"
 breadcrumbTitle: "Recognizing a True Guru"
 description: "How to distinguish between a real guru and a fake one? Guru Baba Shyama Khyapa explains the eight markers of a Sath-Guru and the true meaning of 'Om Tat Sat'."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, Sath-Guru, True Guru, Om Tat Sat, Guru Purnima, Diksha, Initiation, Rakshas-kal, Spiritual Testing, Bagalamukhi, Vashikaran"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-26
 readingTime: 14

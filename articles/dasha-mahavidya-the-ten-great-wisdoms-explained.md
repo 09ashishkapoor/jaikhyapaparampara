@@ -4,7 +4,7 @@ title: "Dasha Mahavidya: The Ten Great Wisdoms Explained"
 breadcrumbTitle: "Dasha Mahavidya"
 description: "Guru Baba Shyama Khyapa explains the origin and significance of the Dasha Mahavidya, the ten aspects of the Divine Mother, with stories from Hindu mythology."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 4

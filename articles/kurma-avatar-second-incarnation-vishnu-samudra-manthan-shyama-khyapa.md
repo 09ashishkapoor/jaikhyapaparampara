@@ -4,7 +4,7 @@ title: "Narayan's Dashavatara: The Kurma Avatar — The Tortoise Incarnation | G
 breadcrumbTitle: "The Kurma Avatar — Dashavatara Part 2"
 description: "Guru Shyama Khyapa explains the second avatar of Lord Vishnu — the Kurma (Tortoise). The story of the Churning of the Ocean, Sage Durvasa's curse, Mount Mandara, the emergence of poison and nectar, and Mother Tara's divine intervention to save Lord Shiva."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Dashavatara, Kurma Avatar, Lord Vishnu, Samudra Manthan, Churning of the Ocean, Mount Mandara, Halahala poison, Neelkanth, Mother Tara, Amrita, Rahu Ketu, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 20:41:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Gurudev's Testimonial: Vidya Kalpadrum Title for Bamananda Deb"
 breadcrumbTitle: "Vidya Kalpadrum, Bamananda"
 description: "At Shanti Kunj, Gurudev honors disciple Bamananda Deb with the title Vidya Kalpadrum; Bamananda shares how a Narmada monk sent him to the cremation ground and why he sees the Guru as Parabrahma."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Vidya Kalpadrum, Bamananda Deb, Shanti Kunj, Narmada, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:31:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Education, Humility, and the Right Path: Swami Jog Sundarananda with Gur
 breadcrumbTitle: "Education and Humility"
 description: "Swami Jog Sundarananda and Guru Shyama Khyapa discuss education without God as mis-education, Vidya Dadati Vinayam, parenting, monks in Bengal, and the need for ideals."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Education, Humility, Swami Jog Sundarananda, Vidya Dadati Vinayam, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:26:00
 readingTime: 5

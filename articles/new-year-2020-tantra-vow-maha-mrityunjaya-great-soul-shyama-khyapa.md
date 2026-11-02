@@ -4,7 +4,7 @@ title: "New Year 2020: Gurudev's Vow, Maha Mrityunjaya Yajna, and the Coming Gre
 breadcrumbTitle: "New Year 2020 Vow Yajna Great Soul Prophecy"
 description: "As 2020 begins, Guru Shyama Khyapa reveals his original vow of Tantra for human welfare, the cost of the 1000-day Maha Mrityunjaya Yajna on the participants, current astrological dangers mirroring the Kurukshetra era, and his certainty that a Great Soul will emerge to save humanity."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, New Year 2020, Maha Mrityunjaya Yajna, Kurukshetra, Kali Yuga, Saturn Jupiter, Mahapurush, Gita, World Peace"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 07:09:00
 readingTime: 6

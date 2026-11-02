@@ -4,7 +4,7 @@ title: "Guru Shyama Khyapa and Dr. Sujib Kar on Extreme Heat and the Delayed Mon
 breadcrumbTitle: "Extreme Heat and Delayed Monsoon"
 description: "Guru Shyama Khyapa and Dr. Sujib Kar explain how desert greening and unchecked global warming have pushed moisture away from the monsoon core, leaving the region parched until mid-July while heat deaths climb."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Climate Change, Extreme Heat, Khyapa Parampara, Dr. Sujib Kar, Monsoon Delay, Global Warming, Thar Desert, Rain Forecast"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:54:00
 readingTime: 3

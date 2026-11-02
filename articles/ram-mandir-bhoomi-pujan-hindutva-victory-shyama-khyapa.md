@@ -4,7 +4,7 @@ title: "Ram Mandir Bhoomi Pujan: Victory of Hindutva - Guru Shyama Khyapa"
 breadcrumbTitle: "Ram Mandir: Victory of Hindutva"
 description: "Guru Shyama Khyapa discusses the historical Ram Mandir Bhoomi Pujan ceremony, the existence of Lord Ram, and the awakening of Hindu identity after 492 years."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Ram Mandir, Ayodhya, Hindutva, Lord Ram, Bhoomi Pujan, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:41:00
 readingTime: 8

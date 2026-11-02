@@ -4,7 +4,7 @@ title: "The Mystery of Adhaar and Adhikar: How Guru Chooses Disciples"
 breadcrumbTitle: "Adhaar and Adhikar"
 description: "Guru Baba Shyama Khyapa explains the deep concepts of Adhaar (capacity) and Adhikar (right) in spiritual practice, using the examples of Ramakrishna and Vivekananda."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Adhaar, Adhikar, Ramakrishna, Vivekananda, Karma, Past Lives, Initiation, Diksha, Spiritual Capacity"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 6

@@ -4,7 +4,7 @@ title: "Who Is Bhadrakali? Shyama Khyapa on Mahasaraswati"
 breadcrumbTitle: "Bhadrakali: The Netherworld Goddess"
 description: "In this translated conversation, Guru Shyama Khyapa discusses Bhadrakali as Mahasaraswati, her worship in Patala, and the story of Mahiravana."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bhadrakali, Mahasaraswati, Patala, Mahiravana, Tantra, Hindu Mythology, Spiritual Enlightenment"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:21:00
 readingTime: 11

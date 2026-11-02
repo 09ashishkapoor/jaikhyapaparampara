@@ -4,7 +4,7 @@ title: "Kalabhairava Name 42: Kanaka-Acala-Deha-Vate - Meaning and Significance"
 breadcrumbTitle: "Kanaka-Acala-Deha-Vate"
 description: "English meaning and spiritual significance of Kanaka-Acala-Deha-Vate, the 42nd name of Lord Kalabhairava, whose form shines like a golden mountain."
 keywords: "Kanaka-Acala-Deha-Vate, Kalabhairava name 42, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kanaka-Acala-Deha-Vate meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

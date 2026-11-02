@@ -4,7 +4,7 @@ title: "Day and Night: Guru Shyama Khyapa on the Dark Age and Great Destruction"
 breadcrumbTitle: "Dark Age Great Destruction Prophecy Shyama Khyapa"
 description: "Guru Shyama Khyapa speaks about humanity's descent into a Dark Age, the signs of Maha Pralaya, rising sea levels, Disease X, melting ice, and the truth that we ourselves have sown the seeds of destruction."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Dark Age, Kali Yuga, Maha Pralaya, Mahapralaya, Disease X, Nipah, Climate Change, Prophecy, Jagannath, Govardhan, World Destruction"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 06:56:00
 readingTime: 6

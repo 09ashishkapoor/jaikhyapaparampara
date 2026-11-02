@@ -4,7 +4,7 @@ title: "Kalabhairava Name 97: Kala-Natha-Paraya - Meaning and Significance"
 breadcrumbTitle: "Kala-Natha-Paraya"
 description: "English meaning and spiritual significance of Kala-Natha-Paraya, the 97th name of Lord Kalabhairava, the supreme lord of time who also stands beyond it."
 keywords: "Kala-Natha-Paraya, Kalabhairava name 97, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Natha-Paraya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

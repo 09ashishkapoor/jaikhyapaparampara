@@ -4,7 +4,7 @@ title: "God and Demon in One Body: Shyama Khyapa on the Yugas"
 breadcrumbTitle: "God and Demon in One Body"
 description: "Guru Shyama Khyapa explains how the distance between gods and demons shrank across the Yugas, leading to the inner conflict seen in Kali Yuga. He also outlines the return of divine souls and the role of the Kalki Avatar in restoring balance."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shyama Khyapa, Guru Shyama Khyapa, Kali Yuga, Satya Yuga, Treta Yuga, Dwapara Yuga, Devas, Asuras, Samudra Manthan, Ramayana, Mahabharata, Kalki Avatar, Chiranjeevis"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:41:00
 readingTime: 3

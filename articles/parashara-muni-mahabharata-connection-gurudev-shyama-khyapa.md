@@ -4,7 +4,7 @@ title: "Parashara Muni and Mahabharata Connection - Gurudev Shyama Khyapa"
 breadcrumbTitle: "Parashara Muni and Mahabharata"
 description: "Gurudev Shyama Khyapa discusses the connection between Parashara Muni and the Mahabharata, explaining the story of Vyasadeva's birth, the lineage of Kauravas and Pandavas, and the prophecy of catastrophes from 2023-2030."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Parashara Muni, Vyasadeva, Mahabharata, Satyavati, Kauravas, Pandavas, Dhritarashtra, Vidura, Pandu"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:31:00
 readingTime: 6

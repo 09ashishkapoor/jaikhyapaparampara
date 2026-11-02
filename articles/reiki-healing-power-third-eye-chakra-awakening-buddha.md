@@ -4,7 +4,7 @@ title: "Reiki: The Healing Power of Buddha, the Third Eye, and Spiritual Energy 
 breadcrumbTitle: "Reiki Healing Third Eye"
 description: "Guru Shyama Khyapa explains the ancient practice of Reiki, its origins from Lord Buddha himself, awakening of the Third Eye and chakras, and how healing energy can be transmitted across distances through spiritual power."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Reiki, Third Eye, Ajna Chakra, Kundalini awakening, spiritual healing, Buddha"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:45:00
 readingTime: 6

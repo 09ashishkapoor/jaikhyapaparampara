@@ -4,7 +4,7 @@ title: "How Does the Soul Sense That Death Is Imminent? What Happens After Death
 breadcrumbTitle: "Soul Death Imminent Yamdoot"
 description: "Guru Shyama Khyapa speaks on signs before death, Yamdoot, the 'discharged' experience, Narmada Parikrama, and the Mother's watch over devotees."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, death, soul, Yamdoot, Narmada Parikrama, Mukti, signs before death"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:18:00
 readingTime: 4

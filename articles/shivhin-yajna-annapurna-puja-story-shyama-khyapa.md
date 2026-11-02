@@ -4,7 +4,7 @@ title: "Shivhin Yajna and Annapurna Puja: The Sacred Story of Sati, Kashi, and D
 breadcrumbTitle: "Annapurna Puja Story"
 description: "Guru Shyama Khyapa shares the profound mythology behind Mother Annapurna, the story of Sati's sacrifice, the 51 Shakti Peethas, and how divine tests led to 32 years of continuous worship."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Annapurna Puja, Shivhin Yajna, Sati, Shakti Peethas, Kashi, Virabhadra, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 12:30:00
 readingTime: 8

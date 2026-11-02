@@ -4,7 +4,7 @@ title: "Understanding Gana: Deva, Nara, and Rakshasa Ganas in Astrology"
 breadcrumbTitle: "Gana Deva Nara Rakshasa"
 description: "Guru Shyama Khyapa and Santanu explain the three Ganas in Vedic astrology—Deva, Nara, and Rakshasa—and clarify misconceptions about their role in marriage and profession."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gana, Deva Gana, Nara Gana, Rakshasa Gana, Debari Gana, Astrology, Nakshatra, Marriage, Profession, Jupiter, Saturn, Venus"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:09:00
 readingTime: 3

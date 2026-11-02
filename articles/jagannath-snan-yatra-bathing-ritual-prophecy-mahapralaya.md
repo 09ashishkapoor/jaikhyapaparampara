@@ -4,7 +4,7 @@ title: "Jagannath's Sacred Bath: The Snan Yatra Ritual and the Prophecy of the M
 breadcrumbTitle: "Jagannath Snan Yatra Ritual"
 description: "Guru Shyama Khyapa explains the Snan Yatra—the sacred bathing ceremony of Lord Jagannath—revealing hidden esoteric knowledge about divine illness, temple closure mysteries, and prophecies about the Lord leaving Puri as Mahapralaya intensifies."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jagannath, Snan Yatra, Puri temple, prophecy, Mahapralaya, bathing ritual"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:55:00
 readingTime: 7

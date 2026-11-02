@@ -4,7 +4,7 @@ title: "Kalabhairava Name 46: Kriya-Pradaya - Meaning and Significance"
 breadcrumbTitle: "Kriya-Pradaya"
 description: "English meaning and spiritual significance of Kriya-Pradaya, the 46th name of Lord Kalabhairava, bestower of action and dispenser of its results."
 keywords: "Kriya-Pradaya, Kalabhairava name 46, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kriya-Pradaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

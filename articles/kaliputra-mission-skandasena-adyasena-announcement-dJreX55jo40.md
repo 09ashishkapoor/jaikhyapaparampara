@@ -4,7 +4,7 @@ title: "The Kaliputra Mission: Skanda Sena, Adya Sena — An Announcement"
 breadcrumbTitle: "The Kaliputra Mission Announced"
 description: "Shri Praveen Radhakrishna announces the Kaliputra Mission and Adya Sena — revealing the story of Sri Anand Thakur, the hidden Adya Kali Vigraham, the progression of Devi's forms, and the grand vision for Her temple that money alone can never enter."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Kaliputra Mission, Adya Sena, Adya Kali, Anand Thakur, Sri Ramakrishna, Kanda, Thaipusam, Vigraham, Ashta Dhatu, Temple"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:48:00
 readingTime: 9

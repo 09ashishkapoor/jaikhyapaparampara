@@ -4,7 +4,7 @@ title: "Why Do We Come and Go: Guru Shyama Khyapa on Life's Eternal Question"
 breadcrumbTitle: "Why We Come and Go Life Question"
 description: "Guru Shyama Khyapa reflects on a viewer's poem about life's mystery—why we come, why we go, what we want and get—and shares insights from Ramprasad and Bengali poetry on God's eternal play."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Life Purpose, Philosophy, Ramprasad, God's Play, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:13:00
 readingTime: 6

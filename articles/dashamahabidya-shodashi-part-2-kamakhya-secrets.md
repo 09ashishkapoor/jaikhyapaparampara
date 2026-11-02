@@ -4,7 +4,7 @@ title: "Dashamahabidya Shodashi Part 2: The Secrets of Kamakhya"
 breadcrumbTitle: "Dashamahabidya Shodashi Kamakhya Secrets"
 description: "Guru Shyama Khyapa continues his discourse on Shodashi, revealing the mysteries of Kamakhya temple, the significance of the Yoni, Ambubachi festival, and sacred mantras."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Dashamahabidya, Shodashi, Kamakhya, Yoni, Ambubachi, Seed Mantras, Saptasati"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:54:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Cosmic Action and the Creation of the Universe: Insights from Guru Shyam
 breadcrumbTitle: "Cosmic Action and Universe Creation"
 description: "Guru Shyama Khyapa explains the mysteries of Brahmanda (the universe), the Big Bang theory, Puranic creation stories, and the divine activities that sustain all existence."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Brahmanda, Cosmic Action, Universe Creation, Big Bang, Puranas, Divine Activities, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 17:30:00
 readingTime: 8

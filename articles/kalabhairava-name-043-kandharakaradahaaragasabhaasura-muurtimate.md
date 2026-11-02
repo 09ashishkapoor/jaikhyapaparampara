@@ -4,7 +4,7 @@ title: "Kalabhairava Name 43: Kandharakaradahaaragasabhaasura Muurtimate - Meani
 breadcrumbTitle: "Kandharakaradahaaragasabhaasura Muurtimate"
 description: "English meaning and spiritual significance of Kandharakaradahaaragasabhaasura Muurtimate, the 43rd name of Lord Kalabhairava, whose radiant form and skull-garland reveal mastery over death and entry into bliss."
 keywords: "Kandharakaradahaaragasabhaasura Muurtimate, Kalabhairava name 43, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kandharakaradahaaragasabhaasura Muurtimate meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

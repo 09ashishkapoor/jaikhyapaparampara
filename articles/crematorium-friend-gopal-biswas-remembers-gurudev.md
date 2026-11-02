@@ -4,7 +4,7 @@ title: "Crematorium Friend: Gopal Biswas Remembers Gurudev"
 breadcrumbTitle: "Crematorium Friend Memories"
 description: "Gopal Biswas recounts decades of memories from the crematorium, including Gurudev's early sadhana, hardships, and miracles. The conversation traces how Syama Khapa's name was born and the beginnings of the crematorium temple."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Crematorium, Tarapith, Kali Puja, Kousiki Amavasya, Gopal Biswas, Syama Khapa, Shymal Bhattacharya, Cremation Ground"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:59:03
 readingTime: 7

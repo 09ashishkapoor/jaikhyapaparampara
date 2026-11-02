@@ -4,7 +4,7 @@ title: "Tribeni Pilgrimage and Kumbh Mela Revival: The Fifth Dham of Bengal's Sa
 breadcrumbTitle: "Tribeni Kumbh Mela Revival"
 description: "Guru Shyama Khyapa celebrates the revival of the ancient Tribeni Kumbh Mela at the confluence of Ganga, Yamuna, and Saraswati, reconnecting Bengal to its 750-year-old spiritual heritage and the penance of the Saptarishi."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Tribeni, Kumbh Mela, Fifth Dham, Ganga Yamuna Saraswati Confluence, Saptarishi, Bengal Heritage, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 14:00:00
 readingTime: 5

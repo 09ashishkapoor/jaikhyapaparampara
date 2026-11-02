@@ -4,7 +4,7 @@ title: "The Sacred Dwaraka River at Tarapith: Gurudev's Revelations on the North
 breadcrumbTitle: "Dwaraka River Mysteries"
 description: "Guru Shyama Khyapa reveals the mystical secrets of the Dwaraka River at Mundamalitala, the unique South-to-North flowing river where the Divine Mother bathes at 4 AM, and its significance for Kumbhaka practice."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Dwaraka River, Tarapith, Mundamalitala, Uttarabahini, Kumbhaka, Sati Ghat, Divine Mother, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 10:30:00
 readingTime: 5

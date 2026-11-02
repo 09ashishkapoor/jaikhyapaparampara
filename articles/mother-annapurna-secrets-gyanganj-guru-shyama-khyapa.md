@@ -4,7 +4,7 @@ title: "Mother Annapurna and the Secrets of Gyanganj: Gurudev's Revelations"
 breadcrumbTitle: "Annapurna and Gyanganj Secrets"
 description: "Guru Shyama Khyapa shares the mythology of Goddess Annapurna, the story of Sati's sacrifice, the creation of Shakti Peethas, and reveals the hidden connection between Kashi and the secret realm of Gyanganj (Yakshapuri)."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Annapurna, Gyanganj, Yakshapuri, Kashi, Varanasi, Sati, Shakti Peetha, Jutsu Lama, Kubera"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:33:00
 readingTime: 8

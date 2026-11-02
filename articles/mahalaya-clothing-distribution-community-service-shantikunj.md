@@ -4,7 +4,7 @@ title: "Clothing Distribution on Mahalaya: Community Service and Sacred Worship"
 breadcrumbTitle: "Mahalaya Community Service"
 description: "Guru Shyama Khyapa and the community organize clothing distribution during Mahalaya at Shantikunj. Municipal councillor Mrs. Shibani Ghosh honors the event, celebrating the sacred worship of Mother Kali and communal service."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Mahalaya, Clothing Distribution, Community Service, Shantikunj, Spiritual Service, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:08:00
 readingTime: 7

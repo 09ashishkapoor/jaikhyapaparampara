@@ -4,7 +4,7 @@ title: "Prophecy Warning Part 2: Bhabisya Malika and the Coming Apocalypse"
 breadcrumbTitle: "Bhabisya Malika Prophecy Warning"
 description: "Guru Shyama Khyapa discusses the Bhabisya Malika, signs around Puri Dham, and the approaching Maha Pralay described in the ancient prophecies. He explains the role of Kalki Avatar, the six devastating years ahead, and the single path of salvation through Shri Madhav."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bhabisya Malika, Prophecy, Maha Pralay, Jagannath Temple, Puri Dham, Kalki Avatar, Cyclone Mocha, apocalypse, Sri Madhav"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:42:00
 readingTime: 5

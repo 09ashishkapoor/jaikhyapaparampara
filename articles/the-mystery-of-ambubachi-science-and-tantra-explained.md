@@ -4,7 +4,7 @@ title: "The Mystery of Ambubachi: Science and Tantra Explained"
 breadcrumbTitle: "Ambubachi Mystery"
 description: "Guru Shyama Khyapa reveals the scientific and tantric significance of the Ambubachi festival, explaining its connection to Nature's cycle, menstruation, and spiritual practices."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ambubachi, Kamakhya, Shakti Peethas, Menstruation, Nature, Tantra, Rituals"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 15

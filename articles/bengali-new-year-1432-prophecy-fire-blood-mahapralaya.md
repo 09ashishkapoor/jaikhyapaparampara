@@ -4,7 +4,7 @@ title: "Bengali New Year 1432: Prophecy of Fire, Blood, and the Age of Demons (P
 breadcrumbTitle: "Bengali New Year 1432 Prophecy"
 description: "Guru Shyama Khyapa reveals his prophecies for the Bengali New Year 1432, warning of fire, bloodshed, military conflict, World War III, and the coming Mahapralaya (Great Cataclysm) that increases the dominance of Kali Yuga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, prophecy, Bengali New Year 1432, World War 3, Mahapralaya, Pishach Yog"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:54:00
 readingTime: 7

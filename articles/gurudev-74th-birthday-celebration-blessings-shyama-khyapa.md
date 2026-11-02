@@ -4,7 +4,7 @@ title: "Gurudev's 74th Birthday Celebration: Blessings for World Peace"
 breadcrumbTitle: "Gurudev's 74th Birthday Celebration"
 description: "A heartwarming celebration of Gurudev Shyama Khyapa's 74th birthday, featuring cake cutting, devotee offerings, a doctor's insights on COVID, and Gurudev's blessings for disciples worldwide."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, 74th Birthday, Birthday Celebration, COVID, Corona, World Peace, Mahamrityunjaya, Blessings, Dr. Shanti Ger"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:46:00
 readingTime: 3

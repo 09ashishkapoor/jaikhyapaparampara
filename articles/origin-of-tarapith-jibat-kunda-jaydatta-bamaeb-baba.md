@@ -4,7 +4,7 @@ title: "The Origin of Tarapith: Jibat Kunda and the Miraculous Healing of Jaydat
 breadcrumbTitle: "The Origin of Tarapith"
 description: "Guru Shyama Khyapa recounts the ancient history of Tarapith, from the merchant Jaydatta's discovery of the life-giving Jibat Kunda to the divine play of Bamaeb Baba."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tarapith, Jibat Kunda, Jaydatta Merchant, Dwaraka River, Bamaeb Baba, Ma Tara, Kamakhya, Basistha Dev, Miracles"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:08:00
 readingTime: 6

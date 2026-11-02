@@ -4,7 +4,7 @@ title: "Kalabhairava Name 6: Kasika-Pura-Nayakaya - Meaning and Significance"
 breadcrumbTitle: "Kasika-Pura-Nayakaya"
 description: "English meaning and spiritual significance of Kasika-Pura-Nayakaya, the 6th name of Lord Kalabhairava: lord and guardian of sacred Kashi."
 keywords: "Kasika-Pura-Nayakaya, Kalabhairava name 6, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kasika-Pura-Nayakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

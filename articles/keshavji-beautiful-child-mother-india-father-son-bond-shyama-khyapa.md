@@ -4,7 +4,7 @@ title: "Keshavji: The Beautiful Child of Mother India and Gurudev's Father Figur
 breadcrumbTitle: "Keshavji: Beautiful Child of Mother India"
 description: "Guru Shyama Khyapa tells the story of his deep father-son bond with Keshavji, a 96-year-old RSS veteran who spent 80 years in selfless service to India, and whose photo Gurudev keeps at the feet of the Mother Goddess."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Keshavji, Keshav Bhavan, Kalyan Bhavan, Bharat Mata, RSS veteran, father-son bond, Gita reader, Hindutva"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:44:00
 readingTime: 6

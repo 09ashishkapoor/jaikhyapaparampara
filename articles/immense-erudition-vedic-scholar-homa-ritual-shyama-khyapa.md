@@ -4,7 +4,7 @@ title: "Immense Erudition: Guru Shyama Khyapa Blesses Vedic Scholar Surjokanto M
 breadcrumbTitle: "Immense Erudition - Vedic Scholar Blessing"
 description: "Guru Shyama Khyapa praises a devotee who performed a 5-hour Homa, laments the fading of Vedic traditions, and declares that spirituality is ahead of science."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Homa, Vedic Rituals, Sanatan Dharma, Brahmin, Mantras, Science and Spirituality, Ganesh Chaturthi, Tamluk"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:56:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Compassionate Alms to the Compassionate: The Cost of Hom Rituals and Wor
 breadcrumbTitle: "Hom Rituals and World Peace Cost"
 description: "Guru Shyama Khyapa shares the profound spiritual and personal toll of performing Mahamrityunjaya Hom for world peace, revealing the hidden price paid by those who perform sacred rituals."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Hom Ritual, Mahamrityunjaya, World Peace, Sacrifice, Spiritual Cost, Yagna"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 13:27:00
 readingTime: 7

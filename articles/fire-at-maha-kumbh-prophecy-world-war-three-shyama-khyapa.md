@@ -4,7 +4,7 @@ title: "Fire at the Maha Kumbh: Guru Shyama Khyapa's Prophecy on War and Global 
 breadcrumbTitle: "Fire at Maha Kumbh Prophecy"
 description: "Guru Shyama Khyapa discusses the spiritual implications of the fire at the 2024 Maha Kumbh, linking it to future earthquakes, World War III, and the end-times."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Maha Kumbh, Kumbh Mela Fire, Prophecy, World War III, Planetary Alignment, Kurukshetra, Kalki Avatar, Natural Disasters"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:15:00
 readingTime: 5

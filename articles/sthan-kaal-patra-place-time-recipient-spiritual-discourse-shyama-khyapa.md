@@ -4,7 +4,7 @@ title: "Sthan Kaal Patra: The Sacred Principles of Place, Time, and Recipient"
 breadcrumbTitle: "Sthan Kaal Patra Place Time Recipient"
 description: "Guru Shyama Khyapa explains the essential spiritual principles of Sthan (Place), Kaal (Time), and Patra (Recipient), and their connection to Kaya, Mana, and Vakya (Body, Mind, and Speech), with wisdom from the story of Rama and Ravana."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Guru Shyama Khyapa, Sthan Kaal Patra, Place Time Recipient, Kaya Mana Vakya, Body Mind Speech, Spiritual Discourse, Ravana Story"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:35:00
 readingTime: 2

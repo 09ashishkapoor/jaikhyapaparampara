@@ -4,7 +4,7 @@ title: "Hore's Notice: The Story of Death's Messenger and Its Meaning"
 breadcrumbTitle: "Hore's Notice Story"
 description: "Guru Shyama Khyapa narrates the allegorical story of Hore, the servant who becomes Yamraj's messenger, revealing how God sends us warnings through life's difficulties before our final notice."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Hore Notice, Yamraj, Death, Messenger, Spiritual Warning, Life and Death"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:08:00
 readingTime: 7

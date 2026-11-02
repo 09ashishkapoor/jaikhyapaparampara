@@ -4,7 +4,7 @@ title: "Divine Answers: Gurudev on Menstruation, Suicide, and Shani Dev Worship"
 breadcrumbTitle: "Questions on Menstruation, Suicide, Shani"
 description: "Guru Shyama Khyapa answers three important questions: the spiritual significance of menstruation, the consequences of suicide, and the proper worship of Shani Dev."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Menstruation, Suicide, Shani Dev, Worship, Scriptural Rules"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:06:00
 readingTime: 5

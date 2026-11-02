@@ -4,7 +4,7 @@ title: "Staying Home During Solar Eclipse: Guru Shyama Khyapa on Rituals and Ecl
 breadcrumbTitle: "Solar Eclipse Rituals"
 description: "Guru Shyama Khyapa explains the importance of performing Homa rituals during a solar eclipse, the power of mantras during eclipses, and the purpose of rituals for world peace."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Solar Eclipse, Homa, Rituals, Mantras, World Peace, Eclipse Significance"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:07:00
 readingTime: 5

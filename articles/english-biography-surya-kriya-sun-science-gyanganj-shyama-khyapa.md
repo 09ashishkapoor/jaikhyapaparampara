@@ -4,7 +4,7 @@ title: "English Biography and Surya Kriya: The Sun Science of Gyanganj"
 breadcrumbTitle: "English Biography Surya Kriya Sun Science"
 description: "Subhankar Bhowmick discusses writing Gurudev Shyama Khyapa's English biography, while Gurudev reveals the ancient Surya Kriya practice of Gyanganj - traveling to the Sun in a subtle body through yogic science."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Guru Shyama Khyapa, Surya Kriya, Sun Science, English Biography, Subhankar Bhowmick, Gyanganj, Sukshma Deha, Spiritual Practice, Solar Yoga"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:36:00
 readingTime: 8

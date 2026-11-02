@@ -4,7 +4,7 @@ title: "Neel Shashti and Charak Puja: Guru Shyama Khyapa on the Sacred Vow for t
 breadcrumbTitle: "Neel Shashti Charak Puja Mahadev Lineage Vow"
 description: "Guru Shyama Khyapa explains the significance of Neel Shashti—the Sanskrit day marking the Bengali year's end—when women light lamps at Mahadev's temple for family lineage protection, and ascetics endure a month of penance before the awe-inspiring Charak tree ritual in the name of Neelkantha Shiva."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Neel Shashti, Charak Puja, Neel Puja, Mahadev, Neelkantha, Gajan, Sankranti, lineage, Shiva, vow, Sanyasi, Tarakeswar"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:30:00
 readingTime: 7

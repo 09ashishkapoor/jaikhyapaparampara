@@ -4,7 +4,7 @@ title: "Living Shiva of Tarapeeth: The Miraculous Stories of Bama-deb Baba and D
 breadcrumbTitle: "Bama-deb Baba Miracles"
 description: "Chronicles of miraculous incidents from the life of Bama-deb Baba, Guru Shyama Khyapa's spiritual predecessor, demonstrating his transcendent power, compassion, and ability to intervene silently in the lives of his devotees."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bama-deb Baba, miracles, Tarapeeth, spiritual power, divine intervention, living Shiva"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:51:00
 readingTime: 9

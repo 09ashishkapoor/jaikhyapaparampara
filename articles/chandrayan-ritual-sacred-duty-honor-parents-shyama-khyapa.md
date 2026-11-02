@@ -4,7 +4,7 @@ title: "Chandrayan Ritual and the Sacred Duty to Honor Elderly Parents — Guru 
 breadcrumbTitle: "Chandrayan Ritual and Honoring Parents"
 description: "Guru Shyama Khyapa explains the Chandrayan death ritual from Hindu scriptures and speaks powerfully on the sacred duty of caring for elderly parents, warning against abandonment."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Chandrayan, Hindu death ritual, elderly parents, Moon ritual, lunar rites, parent care, spiritual duty"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 06:45:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Tarapith Sadhana: The Brahma Shila and the Legacy of Bama Khepa"
 breadcrumbTitle: "Tarapith Sadhana Brahma Shila Bama Khepa"
 description: "Guru Shyama Khyapa shares deep insights about Tara Sadhana at Tarapith, the secret Brahma Shila, the Eight Taras, and the living legacy of Bama Khepa."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tarapith, Tara Sadhana, Brahma Shila, Bama Khepa, Ramprasad, Krishnananda Agambagish, Ugra Tara, Ekjata, Neel Saraswati, Ashta Tara, Mundamalitala, Samudra Manthan"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:50:00
 readingTime: 7

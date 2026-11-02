@@ -4,7 +4,7 @@ title: "Water-Filled Earth: The Coming Submersion and Global Warming Crisis"
 breadcrumbTitle: "Earth Submersion Crisis"
 description: "Guru Shyama Khyapa and scientist Korda discuss the catastrophic future of Earth—melting glaciers, rising seawaters, coastal city submersion within 10-12 years, and the depletion of nature due to human exploitation and pollution."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Global Warming, Climate Change, Sea Level Rise, Glacier Melting, Environmental Crisis, Coastal Submersion, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:07:00
 readingTime: 18

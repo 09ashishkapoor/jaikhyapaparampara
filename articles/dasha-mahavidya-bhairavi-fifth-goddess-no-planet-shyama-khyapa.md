@@ -4,7 +4,7 @@ title: "Dasha Mahavidya Bhairavi: The Goddess Without a Planet Who Controls Ever
 breadcrumbTitle: "Bhairavi: The Sovereign Goddess"
 description: "Guru Shyama Khyapa reveals the mystery of Mother Bhairavi, the fifth Mahavidya who has no ruling planet yet controls all planets. Learn about the eight Bhairavas, eight Bhairavis, and why Harinam Sankirtan is the only path in Kali Yuga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bhairavi, Dasha Mahavidyas, Ten Wisdom Goddesses, Tantra, Harinam, Sankirtan, Eight Bhairavas, Eight Shaktis, Navagraha, Planets, Spiritual Practice, Kali Yuga"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 20:43:00
 readingTime: 8

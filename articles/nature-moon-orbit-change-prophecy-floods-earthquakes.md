@@ -4,7 +4,7 @@ title: "Nature in Crisis: Guru Shyama Khyapa's Prophecy of Floods, Earthquakes, 
 breadcrumbTitle: "Moon's Orbit and Nature's Wrath"
 description: "Guru Shyama Khyapa reveals his 2021 predictions about the moon's orbit change, devastating floods, earthquakes, and environmental collapse—all now coming true with alarming accuracy."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, moon orbit, prophecy, earthquakes, floods, environmental disaster, Krishna Sagar, cosmic cycles"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 18

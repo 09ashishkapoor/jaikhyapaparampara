@@ -4,7 +4,7 @@ title: "Why Did the Beggar Lord Say This? Guru Shyama Khyapa on Ego and Greed"
 breadcrumbTitle: "The Beggar Lord and Ego"
 description: "Guru Shyama Khyapa explains why he forbids money in his temple, the dangers of ego in spiritual practice, and why one must approach the Divine as a beggar."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Ego, Greed, Spiritual Practice, Temple Donations, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 12

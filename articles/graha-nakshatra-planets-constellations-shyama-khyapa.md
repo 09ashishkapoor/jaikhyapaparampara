@@ -4,7 +4,7 @@ title: "Graha and Nakshatra: The Nine Planets and Twenty-Six Constellations Reve
 breadcrumbTitle: "Graha and Nakshatra Cosmic Forces"
 description: "Guru Shyama Khyapa explains the Navagraha system, the 26 Nakshatras, their genders, and the profound interconnection between planetary movements and Tantra Sadhana."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Graha, Nakshatra, Navagraha, Astrology, Planets, Constellations, Tantra Sadhana"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 13:25:00
 readingTime: 8

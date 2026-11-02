@@ -4,7 +4,7 @@ title: "Gurudev Health Update: Hospital Stay, Kali Puja Rituals, and World War P
 breadcrumbTitle: "Gurudev Health and Prophecy Update"
 description: "Guru Shyama Khyapa shares his health journey at Paramount Nursing Home, performing Kali Puja from his hospital bed, and delivers prophecies about World War 3 and a dangerous new virus."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, health update, Paramount Nursing Home, prostate, catheter, Kali Puja, World War 3, Bhavishya Malika, prophecy, virus"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:01:00
 readingTime: 4

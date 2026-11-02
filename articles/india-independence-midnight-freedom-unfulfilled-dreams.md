@@ -4,7 +4,7 @@ title: "India's Independence at Midnight: Was It Truly Freedom? Guru's Commentar
 breadcrumbTitle: "India Independence Freedom"
 description: "Guru Shyama Khyapa reflects on India's 74th Independence Day, questioning whether the midnight declaration of freedom was truly independence and discussing the unfulfilled dreams of martyrs and the need for a spiritual awakening of conscience."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Independence Day, freedom, India, martyrs, Hindutva"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:00:00
 readingTime: 7

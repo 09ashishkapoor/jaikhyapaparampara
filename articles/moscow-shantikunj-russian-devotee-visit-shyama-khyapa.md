@@ -4,7 +4,7 @@ title: "From Moscow to Shantikunj: A Russian Devotee's Journey to Guru Shyama Kh
 breadcrumbTitle: "Russian Devotee Alexa's Visit"
 description: "Alexa, a seeker from Russia, visits Guru Shyama Khyapa in Kolkata to explore Indian culture, Sanatan Dharma, and find peace amidst global conflict."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Russian Devotee, Alexa, Moscow, Sanatan Dharma, Hinduism in Russia, World Peace, Hare Krishna, Vegetarianism, Bhagavad Gita, Shantikunj"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:26:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Sadhak Shyamakhyapa about Rajpur Burning Ghat"
 breadcrumbTitle: "Sadhak Shyamakhyapa about Rajpur Burning Ghat"
 description: "Guru Shyama Khyapa shares his experiences and stories from practicing at the Rajpur Mahashasan cremation ground for 32 years, discussing its history, rituals, and spiritual significance."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Rajpur Mahashasan, cremation ground, sadhana, Kali Puja, Mahamrityunjaya Yagya"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:22:00
 readingTime: 8

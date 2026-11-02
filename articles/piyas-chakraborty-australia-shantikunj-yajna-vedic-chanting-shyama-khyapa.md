@@ -4,7 +4,7 @@ title: "From Australia to Shantikunj: Piyas Chakraborty's Long Wait to Meet Guru
 breadcrumbTitle: "Australia Devotee Shantikunj Yajna Vedic Chanting"
 description: "Piyas Chakraborty, originally from Dhaka with a 160-year family tradition of Kali Puja, shares how he found Guru Shyama Khyapa on YouTube from Australia, the peace he found at Shantikunj, and his experience of Vedic chanting and the Yajna ceremony."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Australia, Piyas Chakraborty, Shantikunj, Yajna, Vedic Chanting, Kali Puja, Temple, Devotee Visit"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 07:06:00
 readingTime: 4

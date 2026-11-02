@@ -4,7 +4,7 @@ title: "The Living Bhairava: Bama Khepa and the Eternal Khyapa Parampara"
 breadcrumbTitle: "Living Bhairava"
 description: "Explore the life of Bama Khepa, the 'Living Bhairava' of Tarapith. Learn about the Khyapa tradition, Procedural Collapse from Shri Praveen Radhakrishna."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Bama Khepa, Bamdev, Tarapith, Khyapa Parampara, Procedural Collapse, Ma Tara, Kali Sadhana, Praveen Radhakrishna, Living Bhairava, Aghori, Tantra"
-category: "Our Roots"
+category: "Guru Stories and Devotee Lives"
 author: "KaliPutra-Ashish"
 date: 2025-12-25
 readingTime: 10

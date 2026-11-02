@@ -4,7 +4,7 @@ title: "Maha Mrityunjaya Origins: Shukracharya, Mecca, and the Four Vedas"
 breadcrumbTitle: "Maha Mrityunjaya Origins and Four Vedas"
 description: "Guru Shyama Khyapa reveals the secret origins of the Maha Mrityunjaya mantra with Shukracharya and Mecca, the story of Kacha and Devayani, and explains the four Vedas and their geographical distribution."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Maha Mrityunjaya, Shukracharya, Brihaspati, Kacha, Devayani, Mecca, Four Vedas, Rigveda, Samaveda, Yajurveda, Atharvaveda, Bhadrakali, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:09:00
 readingTime: 14

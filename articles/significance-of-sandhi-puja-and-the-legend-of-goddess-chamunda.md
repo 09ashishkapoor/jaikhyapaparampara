@@ -4,7 +4,7 @@ title: "The Significance of Sandhi Puja and the Legend of Goddess Chamunda"
 breadcrumbTitle: "Significance of Sandhi Puja"
 description: "Guru Shyama Khyapa explains the 48-minute transition of Sandhi Puja, the skeletal form of Goddess Chamunda, and the true universal meaning of offering Anjali during Durga Puja."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Sandhi Puja, Chamunda, Durga Puja, Raktabija, Ashtami, Navami, Anjali"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:12:00
 readingTime: 6

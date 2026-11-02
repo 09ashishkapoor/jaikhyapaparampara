@@ -4,7 +4,7 @@ title: "Certificate of Siddhai: Guru Shyama Khyapa Honours Disciple Anshuman as 
 breadcrumbTitle: "Siddhai Certificate for Disciple Anshuman"
 description: "Guru Shyama Khyapa awards a formal certificate of spiritual perfection (Siddhai) to his disciple Dr. Anshuman Chowdhury at the cremation grounds, recognizing his attainment in eight forms of Yoga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Siddhai, Siddha Yogi, Bamananda Khepa, Anshuman Chowdhury, Kriya Yoga, Hatha Yoga, Chakra Sadhana, Vak Siddhai"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:42:00
 readingTime: 4

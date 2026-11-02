@@ -4,7 +4,7 @@ title: "Mysterious Kamakhya: Why is it scary to visit Kamakhya temple at night?"
 breadcrumbTitle: "Mysterious Kamakhya at Night"
 description: "Guru Shyama Khyapa discusses the mysteries of Kamakhya and Mayong, while his disciple Pagla Baba shares experiences from his long walking penance."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kamakhya Temple, occult practices, Mayong, sadhana, Pagla Baba"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:46:00
 readingTime: 6

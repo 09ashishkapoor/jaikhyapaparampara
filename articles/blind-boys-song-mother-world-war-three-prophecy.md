@@ -4,7 +4,7 @@ title: "Blind Boy's Song to the Mother: Guru Shyama Khyapa on Compassion and Wor
 breadcrumbTitle: "Blind Boy and Global Crisis"
 description: "Guru Shyama Khyapa shares his compassion for a blind boy singing devotional songs and delivers grave warnings about World War III, nuclear weapons, and the prophecies coming true before our eyes."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Blind Boy, Compassion, World War III, Prophecy, Israel-Hamas, Nuclear Weapons, Bhavishya Malika, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:10:00
 readingTime: 10

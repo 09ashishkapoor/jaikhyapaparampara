@@ -4,7 +4,7 @@ title: "Paramahansa Yogananda, Kriya Yoga, and Yogoda Satsanga: A Conversation w
 breadcrumbTitle: "Paramahansa Yogananda & Kriya Yoga"
 description: "A Yogoda Satsanga doctor shares the life and miracles of Paramahansa Yogananda, Lahiri Mahasaya, Mahavatar Babaji, and Sri Yukteswar with Gurudev Shyama Khyapa, in a detailed conversation on Kriya Yoga and spiritual realization."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Paramahansa Yogananda, Lahiri Mahasaya, Mahavatar Babaji, Sri Yukteswar Giri, Yogoda Satsanga Society of India, Self-Realization Fellowship, Kriya Yoga, Autobiography of a Yogi"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:55:00
 readingTime: 7

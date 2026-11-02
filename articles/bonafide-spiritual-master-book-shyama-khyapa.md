@@ -4,7 +4,7 @@ title: "The Bonafide Spiritual Master: Guru Shyama Khyapa on His New English Boo
 breadcrumbTitle: "Bonafide Spiritual Master Book Release"
 description: "Guru Shyama Khyapa discusses his upcoming English book 'The Bonafide Spiritual Master: Shyama Khyapa', featuring international Q&A, rare photographs, and spiritual insights compiled over a year."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Book, Spiritual Master, Shantikunj, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:07:00
 readingTime: 4

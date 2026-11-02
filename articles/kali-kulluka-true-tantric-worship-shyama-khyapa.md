@@ -4,7 +4,7 @@ title: "Kali Kulluka: The Secret Petals of True Tantric Worship"
 breadcrumbTitle: "Kali Kulluka and True Worship"
 description: "Guru Shyama Khyapa reveals the hidden meaning of Kali Kulluka (Chinna Kulluka), distinguishing true Tantric worship from household puja, and shares a powerful story of a Varanasi devotee."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kali Kulluka, Chinna Kulluka, Tantra, Kali Puja, Kapalika, Tantric Worship"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:00:00
 readingTime: 7

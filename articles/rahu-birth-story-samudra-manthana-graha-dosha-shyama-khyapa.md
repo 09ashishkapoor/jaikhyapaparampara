@@ -4,7 +4,7 @@ title: "Rahu's Birth Story: Gurudev and Santam-da Explain the Demon Planet's Ori
 breadcrumbTitle: "Rahu Birth and Samudra Manthana Story"
 description: "Guru Shyama Khyapa and Santam-da recount Rahu's birth from Sage Kashyapa and Simhika, the story of Vashistha's curse on Indra, and the beginning of Samudra Manthana."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Rahu, Ketu, Samudra Manthana, Graha Dosha, Kashyapa, Simhika, Indra, Vashistha, Brahma, Vishnu, Shiva"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:40:00
 readingTime: 10

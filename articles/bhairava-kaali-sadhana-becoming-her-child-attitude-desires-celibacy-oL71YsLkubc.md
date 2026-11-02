@@ -4,7 +4,7 @@ title: "Bhairava Kali Sadhana: Becoming Her Child — Desires, Celibacy, Attitud
 breadcrumbTitle: "Becoming Her Child: Desires, Celibacy, and Kali"
 description: "Shri Praveen Radhakrishna delivers profound teachings on why true Brahmacharya comes from over-indulgence and not suppression, why Maa Kali wears babies as earrings, how the Sadhaka must live like a child to become her ornament, and the cosmic truth of Maa Kali as the Black Mass that will one day consume the Sun."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Maa Kali, Kala Bhairava, Brahmacharya, celibacy, desires, Vairagya, Sadhana, non-attachment, Smashana Kali, black mass, child ornament, Kali earrings"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-17 10:09:00
 readingTime: 9

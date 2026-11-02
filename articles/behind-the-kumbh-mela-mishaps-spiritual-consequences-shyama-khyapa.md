@@ -4,7 +4,7 @@ title: "Behind the Kumbh Mela Mishaps: Spiritual Consequences and the Balance of
 breadcrumbTitle: "Insights on Kumbh Mela Mishaps"
 description: "Guru Shyama Khyapa discusses the spiritual consequences of the tragic events at the Kumbh Mela, explaining how a pilgrimage site loses its sanctity and the effects of carrying unpurified sins."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kumbh Mela, Spiritual Consequences, Sin and Virtue, Ganga Sagar, Pilgrimage Sanctity"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 12:01:00
 readingTime: 8

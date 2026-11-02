@@ -4,7 +4,7 @@ title: "Kalabhairava Name 11: Kukkuta-Arudhaya - Meaning and Significance"
 breadcrumbTitle: "Kukkuta-Arudhaya"
 description: "English meaning and spiritual significance of Kukkuta-Arudhaya, the 11th name of Lord Kalabhairava: mounted upon the rooster of vigilance and awakening."
 keywords: "Kukkuta-Arudhaya, Kalabhairava name 11, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kukkuta-Arudhaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

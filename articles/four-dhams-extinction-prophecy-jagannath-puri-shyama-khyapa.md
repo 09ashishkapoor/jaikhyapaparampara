@@ -4,7 +4,7 @@ title: "Four Dhams on the Verge of Extinction? Guru Shyama Khyapa on Prophecies 
 breadcrumbTitle: "Four Dhams Extinction Prophecy"
 description: "Guru Shyama Khyapa reveals how all four Dhams will vanish, the Ganga will return to heaven, and a celestial object will strike near Puri causing a massive tsunami in Kali Yuga's final days."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Four Dhams, Jagannath Puri, Prophecy, Bhavishya Malika, Kali Yuga, Destruction, Kalki Avatar, Ganga"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:50:00
 readingTime: 5

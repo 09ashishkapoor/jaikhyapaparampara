@@ -4,7 +4,7 @@ title: "Radhakrishna in Vrindavan by Shyama Khyapa"
 breadcrumbTitle: "Radhakrishna Vrindavan"
 description: "Gurudev Shyama Khyapa narrates a beautiful and lesser-known story of Radhika's lamentation in Vrindavan when Krishna did not visit her kunj on a full moon night."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Radha, Krishna, Vrindavan, Nidhivan, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 00:04:00
 readingTime: 6

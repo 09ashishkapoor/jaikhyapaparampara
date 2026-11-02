@@ -4,7 +4,7 @@ title: "Ishwar Darshan: Gurudev on Seeing God, the Six Enemies, and Mother's Hum
 breadcrumbTitle: "Seeing God and Six Enemies"
 description: "Guru Shyama Khyapa shares his 35 years in the crematorium waiting to see God, explains why seeing and realizing God differ, tells the story of Mother testing a devotee, and warns about the six enemies."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Ishwar Darshan, Seeing God, Six Enemies, Shoro-ripu, Lust, Anger, Greed, Spiritual Practice, Crematorium, Mother Goddess, Realization"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:47:00
 readingTime: 10

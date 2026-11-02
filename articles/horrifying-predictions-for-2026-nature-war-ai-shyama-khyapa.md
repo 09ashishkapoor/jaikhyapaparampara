@@ -4,7 +4,7 @@ title: "Horrifying Predictions for 2026: Nature, War, and AI Control"
 breadcrumbTitle: "2026 Predictions"
 description: "Guru Shyama Khyapa shares terrifying predictions for 2026 including massive earthquakes, volcanic eruptions, Third World War, AI control over finances, and offers hope through Hari Naam chanting."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, 2026, Predictions, Third World War, AI, Earthquakes, Kali Yuga, Prophecy, Natural Disasters"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:05:00
 readingTime: 4

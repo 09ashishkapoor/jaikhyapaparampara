@@ -4,7 +4,7 @@ title: "Navagraha Ketu and Mahavidya Dhumavati: The Planet of Extremes - Guru Sh
 breadcrumbTitle: "Ketu and Dhumavati Planet"
 description: "Guru Shyama Khyapa explains the dual nature of Ketu, its association with Mother Dhumavati, and how this powerful planet can bring either great success or total ruin depending on its placement."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Ketu, Dhumavati, Navagraha, Mahavidya, Cat's Eye, crow, astrology, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:43:00
 readingTime: 4

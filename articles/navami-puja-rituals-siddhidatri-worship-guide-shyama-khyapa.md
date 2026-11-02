@@ -4,7 +4,7 @@ title: "Navami Puja Rituals: Complete Guide to Worship Goddess Siddhidatri"
 breadcrumbTitle: "Navami Puja Rituals Siddhidatri Worship"
 description: "A comprehensive guide to Navami Puja rituals including Dashadikpala Puja, Ashtashakti Puja, Bhairava worship, Chausath Yogini, weapon worship, and the sacred conclusion ceremonies of Durga Puja."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Guru Shyama Khyapa, Navami Puja, Siddhidatri, Dashadikpala, Ashtashakti, Bhairava, Durga Puja Rituals, Sindoor Khela, Darpana Visarjana"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:38:00
 readingTime: 3

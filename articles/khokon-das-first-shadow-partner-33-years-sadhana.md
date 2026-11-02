@@ -4,7 +4,7 @@ title: "Khokon Das: Gurudev's First Shadow Partner and 33 Years of Sadhana"
 breadcrumbTitle: "First Shadow Partner Journey"
 description: "Khokon Das recounts his 33-year companionship with Guru Shyama Khyapa, sharing miracles, travels, and early sadhana hardships, with Gurudev adding his own memories."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Khokon Das, Rajpur Market, Kamakhya, Tarapith, Ganga Sagar, Jagannath Temple, cremation ground, sadhana, miracles, Mother Kali"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 00:00:00
 readingTime: 7

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 30: Kaamaniya-Jata-Dharaya - Meaning and Significance"
 breadcrumbTitle: "Kaamaniya-Jata-Dharaya"
 description: "English meaning and spiritual significance of Kaamaniya-Jata-Dharaya, the 30th name of Lord Kalabhairava: bearing beautiful matted locks that express yogic power and ascetic grace."
 keywords: "Kaamaniya-Jata-Dharaya, Kalabhairava name 30, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kaamaniya-Jata-Dharaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

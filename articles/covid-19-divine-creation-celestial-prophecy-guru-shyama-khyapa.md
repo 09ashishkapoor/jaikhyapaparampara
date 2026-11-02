@@ -4,7 +4,7 @@ title: "COVID-19: Divine Creation and Celestial Prophecy - Guru Shyama Khyapa"
 breadcrumbTitle: "COVID-19 Divine Creation and Prophecy"
 description: "Guru Shyama Khyapa reveals COVID-19 as God's creation to punish worldly sin, and prophesies its end through a celestial event when a star rises to consume the virus."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, COVID-19, Corona virus, God's creation, celestial prophecy, divine punishment, pandemic, spiritual warning"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:13:00
 readingTime: 3

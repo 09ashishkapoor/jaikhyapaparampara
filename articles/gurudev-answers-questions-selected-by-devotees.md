@@ -4,7 +4,7 @@ title: "Gurudev Answers Questions Selected by Devotees"
 breadcrumbTitle: "Devotees' Questions"
 description: "Guru Baba Shyama Khyapa addresses various spiritual questions from devotees, covering topics like seeing God, rituals for children, initiation, Krishna's visit to Mahakal, astrology, Gotra, and protective amulets."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, God, Panchanana Puja, Diksha, Krishna, Mahakal, Shatabhisha Nakshatra, Gotra, DNA, Mahatara Kavach, Mahamrityunjaya Kavach"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 20

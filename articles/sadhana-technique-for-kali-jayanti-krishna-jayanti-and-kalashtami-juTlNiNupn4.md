@@ -4,7 +4,7 @@ title: "Sadhana Technique for Kali Jayanti, Krishna Jayanti, and Kalashtami"
 breadcrumbTitle: "Sadhana for Kali Jayanti and Janmashtami"
 description: "On the rare convergence of Kali Jayanti, Janmashtami, and Kalashtami, Shri Praveen Radhakrishna reveals the profound teaching that Krishna is Kali — and delivers a specific Sadhana technique using the Beeja mantra Om Kling Krishnaya Namah, with two distinct visualizations for those in spiritual battle and those approaching the Smashan path."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Kali Jayanti, Janmashtami, Kalashtami, Krishna is Kali, Yogastabuddhi, Kling Krishnaya Namah, Kali Sadhana, Bhairava Adhara, Yashoda, Gopi, Smashan Kali, Kurukshetra"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:16:00
 readingTime: 8

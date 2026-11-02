@@ -4,7 +4,7 @@ title: "Gurukaran: Understanding the True Nature of a Guru - Shyama Khyapa's Wis
 breadcrumbTitle: "Gurukaran - Understanding Guru"
 description: "Guru Shyama Khyapa explains profound questions about the Guru: What is a Guru? How to find one? The role of Prarabdha, the testing of both Guru and disciple, and why liberation is not a commodity to be sought."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gurukaran, Guru nature, finding a Guru, Prarabdha, disciple readiness, initiation, liberation, truth"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:00:00
 readingTime: 4

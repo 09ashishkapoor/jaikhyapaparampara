@@ -4,7 +4,7 @@ title: "Who is the Guru of Sin?"
 breadcrumbTitle: "The Guru of Sin"
 description: "Guru Baba Shyama Khyapa answers a profound question about the origin of sin through a story of a scholar and a courtesan, revealing the true 'Guru of Sin'."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, Sin, Guru of Sin, Greed, Kali Yuga, Jagannath Temple, Badrinath, Spiritual Story"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27
 readingTime: 12

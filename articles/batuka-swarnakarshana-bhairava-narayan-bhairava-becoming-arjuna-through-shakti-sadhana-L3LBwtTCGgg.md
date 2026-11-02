@@ -4,7 +4,7 @@ title: "Batuka Swarnakarshana Bhairava (Narayana Bhairava): Becoming Arjuna Thro
 breadcrumbTitle: "Becoming Arjuna Through Shakti"
 description: "Shri Praveen Radhakrishna teaches why a sadhaka must separate lust from love, how Kama Deva becomes *Ananga* (bodiless) through Mahadeva's lesson, and why men in Bhairava's path must embody Shakti-using Arjuna's Brihannala year, the Gandiva's return, and *Gau Seva* as the hidden pattern."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Batuka Swarnakarshana Bhairava, Narayana Bhairava, Shakti Sadhana, masculinity, lust, love, Kama Deva, Rati, Ananga, Mahadeva, Parvati, Tapasya, Samadhi, Kartikeya, Tarakasura, Vajra, Arjuna, Sri Krishna, Gandiva, Brihannala, Agyatavasa, Gograhana, Gau Seva, Shiva Tattva, Bhairava Tattva, Kali Yuga"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:34:00
 readingTime: 5

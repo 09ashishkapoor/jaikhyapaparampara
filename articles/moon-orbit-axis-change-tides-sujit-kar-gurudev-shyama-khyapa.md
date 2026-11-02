@@ -4,7 +4,7 @@ title: "Moon's Axis Change: Gurudev and Meteorologist Sujit Kar on Lunar Orbit, 
 breadcrumbTitle: "Moon Orbit Change and Tides"
 description: "Gurudev and meteorologist Sujit Kar discuss the shift in the Moon's orbit, its effect on Earth's tides, coastal flooding risk, and implications for human health and climate."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Moon orbit, lunar axis, Sujit Kar, tides, coastal flooding, climate, meteorology"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:34:00
 readingTime: 3

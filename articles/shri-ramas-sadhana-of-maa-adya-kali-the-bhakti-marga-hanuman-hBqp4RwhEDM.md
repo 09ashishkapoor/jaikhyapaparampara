@@ -4,7 +4,7 @@ title: "Sri Rama's Sadhana of Maa Adya Kali: The Bhakti Marga and the Secret of 
 breadcrumbTitle: "Sri Rama's Bhakti of Maa Adya"
 description: "Shri Praveen Radhakrishna reveals the hidden meaning of the Ramayana — that Ma Sita is Maa Adya Kali and Sri Rama's entire life was her Sampoorna Bhakti — showing that devotion alone, not supernatural powers, grants eligibility to the Primordial Goddess."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Maa Adya Kali, Sri Rama, Ma Sita, Hanuman, Ramayana, Bhakti Marga, Sampoorna Bhakti, Ashta Siddhi, Brahma, Valmiki"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:13:00
 readingTime: 11

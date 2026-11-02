@@ -4,7 +4,7 @@ title: "Phetkarini Tantra: Understanding Boli (Sacrifice) in Hindu Tradition"
 breadcrumbTitle: "Phetkarini Tantra Boli Sacrifice Hindu"
 description: "Guru Shyama Khyapa explains the practice of animal sacrifice (Boli), its origins in Phetkarini Tantra, the ritual process, and why it is not mentioned in the Vedas."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Phetkarini Tantra, Boli, sacrifice, animal sacrifice, Shhmashana, Moshan, Kalighat, Tarapith, Kapaliks, Kamar, Kharga, Boli-Gonona"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:57:00
 readingTime: 6

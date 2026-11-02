@@ -4,7 +4,7 @@ title: "From Maldah to Shantikunj - Journey of Faith and Healing"
 breadcrumbTitle: "Tapash Chowdhury's Journey to Shantikunj"
 description: "Tapash Chowdhury from Malda shares his inspiring journey to Shantikunj, driven by faith in Guru Shyama Khyapa, seeking healing after 12 years of illness."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, faith, healing, Shantikunj, Malda, devotion"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:06:00
 readingTime: 6

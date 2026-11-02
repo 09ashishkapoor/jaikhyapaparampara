@@ -4,7 +4,7 @@ title: "The End of the World Part 2: Geopolitical Crisis, Nuclear War, and Mahap
 breadcrumbTitle: "Geopolitical Crisis and World Destruction"
 description: "Guru Shyama Khyapa discusses India-Pakistan tensions, nuclear threats, and prophecies from the Bhavishya Malika predicting a seven-day darkness and the arrival of the Kalki Avatar."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, prophecy, India Pakistan war, nuclear weapons, Mahapralay, Kalki Avatar, Bhavishya Malika, geopolitics"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 14

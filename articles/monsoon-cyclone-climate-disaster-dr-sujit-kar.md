@@ -4,7 +4,7 @@ title: "Weather Patterns, Monsoon Dynamics, and Climate Disaster Ahead: Dr. Suji
 breadcrumbTitle: "Monsoon and Climate Disaster Analysis"
 description: "Climate specialist Dr. Sujit Kar explains incoming monsoon systems, potential cyclone formation in the Bay of Bengal, and the alarming long-term climate crisis facing coastal India."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Climate Change, Monsoon, Cyclone, Weather Prediction, Environmental Crisis"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 13:24:00
 readingTime: 6

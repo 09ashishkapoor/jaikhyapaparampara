@@ -4,7 +4,7 @@ title: "Nature, Technology, and the Metro Tunnel: A Dialogue on Climate and Huma
 breadcrumbTitle: "Nature, Tech, and Climate Dialogue"
 description: "A profound dialogue exploring the limits of technology against nature's power, the pollution crisis in our oceans, delayed monsoons, and insights about the Metro tunnel construction under the Ganges."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, nature, technology, ocean pollution, plastic pollution, climate change, monsoon, Metro tunnel, Ganges, Kolkata"
-category: "Science and Spirituality"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:34:00
 readingTime: 6

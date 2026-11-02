@@ -4,7 +4,7 @@ title: "Nishi Dak: The Night Call - A Warning About Midnight Tantrik Dangers"
 breadcrumbTitle: "Nishi Dak Night Call Warning"
 description: "Guru Shyama Khyapa reveals the terrifying truth about Nishi Dak (Night Call), a dangerous Tantric practice used to capture souls, and warns against the dangers of visiting Tantriks."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Nishi Dak, Night Call, Midnight Call, Tantric Danger, Amavasya, Cremation Ground, Yogini"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:44:00
 readingTime: 7

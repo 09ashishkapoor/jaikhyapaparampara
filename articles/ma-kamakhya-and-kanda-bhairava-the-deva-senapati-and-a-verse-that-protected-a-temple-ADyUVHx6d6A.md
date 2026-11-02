@@ -4,7 +4,7 @@ title: "Ma Kamakhya and Kanda Bhairava: The Deva Senapati and a Verse That Prote
 breadcrumbTitle: "Kamakhya & Kanda"
 description: "Shri Praveen Radhakrishna explains Kanda Bhairava as the commander who upholds the Agamas, connects India’s historical losses to a karmic balancing cycle, and reveals how Arunagirinathar’s Tiruppugazh preserved Dharma centuries later—while warning seekers to burn hatred before it becomes destiny."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Kanda Bhairava, Skanda, Kartikeya, Muruga, Shanmukha, Saravana, Deva Senapati, Ma Kamakhya, Shakti Peetha, Sati, Mathura, Mahmud of Ghazni, libraries burned, karma, Kala Chakra, Sri Krishna, Gita, Kali Yuga, Arunagirinathar, Tiruppugazh, Chidambaram, Thillai Nataraja Temple, Dikshitars, British rule, hatred, Agni Chakra, Sanatana Dharma"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:40:00
 readingTime: 9

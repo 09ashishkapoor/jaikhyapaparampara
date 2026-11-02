@@ -4,7 +4,7 @@ title: "Durga Puja: The Only Way to Salvation During the Pandemic"
 breadcrumbTitle: "Durga Puja Salvation Pandemic"
 description: "Guru Shyama Khyapa explains that collective worship of Goddess Durga and Adya Shakti Mahamaya is the only way to overcome the COVID-19 pandemic and find salvation in these troubled times."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Durga Puja, COVID-19, pandemic, Adya Shakti Mahamaya, Chandi, Havan, collective prayer, Kling mantra, Brahma Vishnu Shiva, Primal Energy"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:42:00
 readingTime: 5

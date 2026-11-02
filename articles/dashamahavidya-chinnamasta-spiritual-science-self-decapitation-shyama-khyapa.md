@@ -4,7 +4,7 @@ title: "Dashamahavidya Chinnamasta: The Fierce Spiritual Science of Self-Decapit
 breadcrumbTitle: "Chinnamasta Spiritual Science"
 description: "Guru Shyama Khyapa reveals the profound tantric science behind Goddess Chinnamasta—her self-decapitation form represents the Sushumna nadi, Ida-Pingala channels, and the double dissolution within the human body."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Chinnamasta, Dashamahavidya, Tantra, Ida Pingala, Sushumna, Kundalini, Spiritual Science, Pancha Makara, Kumbhaka"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:31:00
 readingTime: 8

@@ -4,7 +4,7 @@ title: "The Nine Planets and the Dashamahavidya: Vedic Wisdom, Tantra, and the S
 breadcrumbTitle: "Nine Planets Dashamahavidya Remedy"
 description: "Guru Shyama Khyapa reveals the sacred connection between the Nine Planets and the Ten Mahavidyas, explaining how Tantric practices can heal planetary afflictions and why Vedic and Tantric wisdom must be combined for true transformation."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Nine Planets, Navagraha, Dashamahavidya, Tantra, Vedic Wisdom, Kali, Tara, Planetary Remedies"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 00:02:00
 readingTime: 10

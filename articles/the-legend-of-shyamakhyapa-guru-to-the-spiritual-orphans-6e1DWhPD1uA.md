@@ -4,7 +4,7 @@ title: "The Legend of Shyama Khepa: Guru to the Spiritual Orphans"
 breadcrumbTitle: "The Legend of Shyama Khepa"
 description: "Shri Praveen Radhakrishna narrates the complete life story of his Guru, Gupt Sadhak Shama Khepa — from wealthy businessman to wandering Smashan monk, from the divine voice at Pashupatinath to initiation by Bama Khepa himself on the Ugra Tara Chitta."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Shama Khepa, Bama Khepa, Gupt Sadhak, Smashan Sadhana, Tarapith, Ugra Tara, Adya Kali, Guru Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:31:00
 readingTime: 8

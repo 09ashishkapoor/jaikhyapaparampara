@@ -4,7 +4,7 @@ title: "Karma Yoga and Gyan Yoga: The Paths of Selfless Action and Knowledge"
 breadcrumbTitle: "Karma Yoga Gyan Yoga"
 description: "Guru Shyama Khyapa explains the profound meanings of Nishkam Karma Yoga (selfless action) and Gyan Yoga (knowledge sharing), drawing from RSS ideals, Swami Vivekananda, and the teachings of Ram Prasad."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Karma Yoga, Gyan Yoga, Nishkam Karma, Selfless Action, Knowledge, Vivekananda, Ram Prasad, Spirituality"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:14:00
 readingTime: 7

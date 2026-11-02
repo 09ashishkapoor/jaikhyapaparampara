@@ -4,7 +4,7 @@ title: "Kakaradi Kali Sahasranama in English: Names 112-222 with One-Line Meanin
 breadcrumbTitle: "Kakaradi Kali Sahasranama Names 112-222"
 description: "Read names 112-222 of the Kakaradi Kali Sahasranama in English with simple one-line devotional meanings for prayer, Kali japa, study, and contemplation."
 keywords: "Kakaradi Kali Sahasranama in English, Kakārādi Kali Sahasranama, Kali Sahasranama names with meaning, Kali 1000 names English meaning, Maa Kali names, Kali namavali, Kali sword names, Kali skull garland meaning, Kakaradi Kali names 112-222"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "KaliPutra-Ashish"
 date: 2026-04-25
 readingTime: 14

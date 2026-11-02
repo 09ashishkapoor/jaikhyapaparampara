@@ -4,7 +4,7 @@ title: "The Story of Mother Annapurna: Origin and Significance"
 breadcrumbTitle: "Mother Annapurna Story Origin Significance"
 description: "Guru Shyama Khyapa narrates the divine origin story of Mother Annapurna, the connection to Sati's sacrifice, and the significance of Annapurna Puja at the cremation ground."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mother Annapurna, Annapurna Puja, Sati, Daksha, Kashi, Shiva, Divine Story"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:56:00
 readingTime: 4

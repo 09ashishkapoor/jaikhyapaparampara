@@ -4,7 +4,7 @@ title: "Fairies and Pari Tantra: Guru Shyama Khyapa on Fairy Spiritual Practice"
 breadcrumbTitle: "Fairies and Pari Tantra"
 description: "Guru Shyama Khyapa explains the nature of fairies (Paris), their habitat and behavior, Pari Sadhana practices, and distinguishes between low-tier and high-tier spiritual disciplines."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Fairies, Paris, Pari Tantra, Pari Sadhana, Spiritual Practice, Tantra, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:01:00
 readingTime: 7

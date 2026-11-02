@@ -4,7 +4,7 @@ title: "Grandpa's Advice for Children: Guru Shyama Khyapa's Message to Young Vie
 breadcrumbTitle: "Grandpa's Advice for Young Viewers"
 description: "Guru Shyama Khyapa shares heartfelt advice with children who call him 'Dadu' (Grandpa), encouraging them to focus on education, avoid bad company, and keep Goddess Saraswati in their hearts."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, children, education, Saraswati, young viewers, Sanket Bhattacharjee, spiritual guidance"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:25:00
 readingTime: 3

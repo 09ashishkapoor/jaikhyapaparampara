@@ -4,7 +4,7 @@ title: "Your Blood, My Blood - The Color of Everything is Red: Unity Beyond Reli
 breadcrumbTitle: "Blood Unity Meditation"
 description: "Guru Shyama Khyapa explains how meditation leads to God, discusses the unity of all religions, and shares the story of Bamdeb Baba's hidden blessings. He emphasizes that blood has no religion and that true spiritual realization comes through meditation alone."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Meditation, God, Allah, Unity of Religion, Blood, Bamdeb Baba, Sanatan Dharma"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:10:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Hey Beginner, Let's Start: Japa Mala, Nama Japa, Sankalp, and Setting Yo
 breadcrumbTitle: "Beginner's Guide to Bhairava Sadhana"
 description: "Shri Praveen Radhakrishna gives a complete practical guide for absolute beginners: how to procure a mala, set an asana, take a sankalp, start Nama Japa, progress to Swarnakarshana Bhairava, and eventually receive the Bija Mantra — without fear and without elaborate ritual."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Bhairava Sadhana, Beginner, Japa Mala, Rudraksha, Nama Japa, Sankalp, Asana, Swarnakarshana Bhairava, Vatuka Bhairava, Bija Mantra"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:36:00
 readingTime: 6

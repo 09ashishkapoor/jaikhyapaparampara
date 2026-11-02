@@ -4,7 +4,7 @@ title: "Self-Protection First: Guru Shyama Khyapa's Teaching on Ego and Spiritua
 breadcrumbTitle: "Self-Protection Before Saving Others"
 description: "Guru Shyama Khyapa shares a profound story about ego and self-protection, explaining why one must learn to protect themselves before they can protect others. Includes insights on Gatra Bandhan and spiritual safeguards."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Self-Protection, Ego, Spiritual Protection, Gatra Bandhan, Negative Energies, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:28:00
 readingTime: 5

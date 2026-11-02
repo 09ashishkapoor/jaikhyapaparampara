@@ -4,7 +4,7 @@ title: "The Chariot of Conscience: Finding Peace in Times of Crisis"
 breadcrumbTitle: "Awaken Your Conscience"
 description: "Gurudev Shyama Khyapa discusses conscience, the COVID-19 pandemic, mirror philosophy, Buddha's teachings, and how awakening one's inner conscience is the key to navigating global crises."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Conscience, COVID-19, Spiritual Awareness, Buddha Teachings, Mirror Philosophy, Global Crisis"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 20

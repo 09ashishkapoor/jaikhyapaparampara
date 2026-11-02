@@ -4,7 +4,7 @@ title: "Irony of Fate: Why Did Gurudev Say This to the Secret Seeker Shyama Khya
 breadcrumbTitle: "Irony of Fate"
 description: "Guru Shyama Khyapa and devotee Shibani recount her journey of hardships, unwavering faith, and miraculous transformations through Guru's blessings."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Fate, Struggles, Faith, Guru Grace, Devotion, Gupta Sadhak Shyamakhyapa"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 15

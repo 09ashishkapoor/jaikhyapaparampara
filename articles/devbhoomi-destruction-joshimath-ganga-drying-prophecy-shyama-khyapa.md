@@ -4,7 +4,7 @@ title: "Devbhoomi on the Verge of Destruction: Joshimath, Ganga Drying, and Prop
 breadcrumbTitle: "Devbhoomi Destruction Signs"
 description: "Guru Shyama Khyapa warns of the impending destruction of Devbhoomi—the landslides in Joshimath, the drying Ganga, Saturn's transit, and China's search for Gyanganj all point to ancient prophecies being fulfilled."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Devbhoomi, Joshimath, Ganga Drying, Prophecy, Bhavishya Malika, Saturn Aquarius, Gyanganj, Shangri-La, Badrinath, Kedarnath"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:24:00
 readingTime: 6

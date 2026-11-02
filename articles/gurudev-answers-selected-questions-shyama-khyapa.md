@@ -4,7 +4,7 @@ title: "Guru Shyama Khyapa Answers Selected Questions: Faith, Miracles, and Divi
 breadcrumbTitle: "Gurudev Answers Questions"
 description: "Guru Shyama Khyapa addresses negative comments, explains the miracle of multiplied food, discusses the equality of Brahma Vishnu Maheshwar, and reveals the secrets of Nil Saraswati and Mother Tara."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, selected questions, Brahma Vishnu Maheshwar, Nil Saraswati, Mother Tara, Annapurna, miracle, food multiplication"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:17:00
 readingTime: 3

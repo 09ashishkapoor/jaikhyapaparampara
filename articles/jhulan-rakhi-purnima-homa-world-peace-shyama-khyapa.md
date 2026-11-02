@@ -4,7 +4,7 @@ title: "Jhulan and Rakhi Purnima: Homa for World Peace and Universal Brotherhood
 breadcrumbTitle: "Jhulan Rakhi Purnima Homa"
 description: "Guru Shyama Khyapa explains the significance of daily Homa rituals at Santikunj, the special observance of Rakhi Purnima, and his heartfelt concern for the truly needy during difficult times."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jhulan Purnima, Rakhi Purnima, Raksha Bandhan, Homa, Yajna, World Peace, Mahamrityunjaya, Nikumbhila, Brotherhood"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:54:00
 readingTime: 2

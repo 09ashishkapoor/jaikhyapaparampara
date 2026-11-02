@@ -4,7 +4,7 @@ title: "The Mystery of the Six Vices: Why God Appears to Devotees"
 breadcrumbTitle: "Six Vices & Divine Play"
 description: "Discover Guru Shyama Khyapa's profound insights on the Shoro Ripu (six vices), their cosmic origin, and why spiritual practice aims to control rather than eliminate them."
 keywords: "GuruDeva Shyama Khyapa, Shoro Ripu, Six Vices, Lust, Anger, Greed, Attachment, Pride, Envy, Brahma, spiritual practice, Guru Shyama Khyapa, Senses control"
-category: "Guru Messages"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-01-08
 readingTime: 12

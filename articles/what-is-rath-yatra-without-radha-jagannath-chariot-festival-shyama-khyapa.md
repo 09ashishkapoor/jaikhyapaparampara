@@ -4,7 +4,7 @@ title: "What is Rath Yatra Without Radha? The Legends and Significance of Jagann
 breadcrumbTitle: "Rath Yatra Legends and Significance"
 description: "Guru Shyama Khyapa reveals the deep legends behind Rath Yatra, including the story of Krishna and Radha's separation, the mysteries of the Jagannath Bhagawat, and the spiritual merit of seeing the Lord on his chariot."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Rath Yatra, Jagannath, Puri, Radha, Krishna, chariot festival, Nabakalebara, Jagannath Bhagawat"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:42:00
 readingTime: 6

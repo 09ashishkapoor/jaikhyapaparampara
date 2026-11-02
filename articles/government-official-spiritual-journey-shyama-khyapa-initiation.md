@@ -4,7 +4,7 @@ title: "The Journey to the Guru: A Government Official's Spiritual Awakening"
 breadcrumbTitle: "A Government Official's Journey"
 description: "Rahul Kaushik Bhattacharya, a high-ranking government official, shares his life-long spiritual search and how he eventually found his Guru, Shyama Khyapa, after years of struggle."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Rahul Kaushik Bhattacharya, Spiritual Awakening, Tarapith, Government Official, Hanuman Chalisa, Initiation, The Bona Fide Spiritual Master, Shantikunja"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:12:00
 readingTime: 6

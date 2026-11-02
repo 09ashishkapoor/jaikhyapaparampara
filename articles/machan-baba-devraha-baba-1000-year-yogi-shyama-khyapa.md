@@ -4,7 +4,7 @@ title: "Machan Baba (Devraha Baba): The 1000-Year-Old Yogi - Guru Shyama Khyapa 
 breadcrumbTitle: "Machan Baba 1000-Year Yogi"
 description: "Guru Shyama Khyapa shares the extraordinary life of Devraha Baba (Machan Baba), a great yogi who lived over 1000 years, met Tulsidas, and performed countless miracles for humanity's welfare."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Machan Baba, Devraha Baba, Yogi, Hanuman, Tulsidas, Miracles, Sadhu Sanga, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:03:00
 readingTime: 7

@@ -4,7 +4,7 @@ title: "Sadhana: How Many Hours Per Day? How to Dress (Outer and Inner Appearanc
 breadcrumbTitle: "Hours, Bhakti, Appearance"
 description: "Shri Praveen Radhakrishna explains why Bhakti matters more than counting hours, how Upasana matures into Tapasya over lifetimes, and why outer appearance should match your worldly role while inner remembrance stays fixed on Bhairava and Ma Adya."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Sadhana, Upasana, Tapasya, Virabhava, Bhakti Marga, Gyana Marga, Kali Yuga, procedural collapse, Kula, Vidhi, Prayoga, Adhara, Kshetrapala, Fifth Head, Brahma, Kala Bhairava, Batuka Bhairava, Ma Adya, Adya Kali, Kalika, Sri Krishna, Mahadeva, Bhima, Arjuna, appearance, dress, Samsara"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:35:00
 readingTime: 9

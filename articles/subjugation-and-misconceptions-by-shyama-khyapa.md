@@ -4,7 +4,7 @@ title: "Subjugation and Misconceptions: Gurudev Exposes Spiritual Frauds"
 breadcrumbTitle: "Subjugation Misconceptions"
 description: "Gurudev Shyama Khyapa exposes the widespread fraud of Vashikaran (enthrallment), mysterious extractions from the body, and false spiritual powers, while revealing what true Kriya Yoga actually is."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Vashikaran, spiritual fraud, Kriya Yoga, spiritual misconceptions, fake extractions, tantric fraud"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 22

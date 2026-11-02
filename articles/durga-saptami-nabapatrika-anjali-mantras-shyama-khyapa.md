@@ -4,7 +4,7 @@ title: "Durga Saptami: Rituals, Nabapatrika, and the Anjali Mantras Explained"
 breadcrumbTitle: "Durga Saptami Nabapatrika Anjali Mantras"
 description: "Guru Shyama Khyapa explains the sacred rituals of Maha Saptami during Durga Puja—the Nabapatrika bath, Ardharatri Vihita Puja, Chandi Path recitation—and teaches the Anjali mantras for those who cannot visit a pandal, emphasizing that Durga Puja is a prayer for universal well-being."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Durga Saptami, Maha Saptami, Nabapatrika, Kola Bou, Anjali mantra, Durga Puja, Chandi Path, Ardharatri Vihita Puja, Mahasnan, Navami, Sarva Mangala"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:16:00
 readingTime: 5

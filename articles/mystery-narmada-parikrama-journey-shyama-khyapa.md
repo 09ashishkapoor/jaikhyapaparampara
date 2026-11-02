@@ -4,7 +4,7 @@ title: "The Mystery of Narmada Parikrama: A Devotee's Journey"
 breadcrumbTitle: "Mystery of Narmada Parikrama"
 description: "Guru Shyama Khyapa and Chandan Babu discuss the rigorous spiritual journey of the Narmada Parikrama, ashram customs, and the powerful presence of Mother Narmada."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Narmada Parikrama, Chandan Babu, Omkareshwar, Amarkantak, Mother Narmada, Markandeya Muni"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:53:00
 readingTime: 10

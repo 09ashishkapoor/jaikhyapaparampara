@@ -4,7 +4,7 @@ title: "The Greatness of Swami Pranabananda: An Incarnation of Shiva"
 breadcrumbTitle: "Swami Pranabananda's Greatness"
 description: "Guru Shyama Khyapa pays tribute to Swami Pranabananda Maharaj, the founder of Bharat Sevashram Sangha, detailing his divine birth, spiritual discipline, and his mission of selfless service to humanity."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Swami Pranabananda, Bharat Sevashram Sangha, Lord Shiva, Incarnation, Spiritual Service, Brahmacharya"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:10:00
 readingTime: 9

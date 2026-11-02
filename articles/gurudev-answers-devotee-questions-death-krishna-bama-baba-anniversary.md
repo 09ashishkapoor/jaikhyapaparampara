@@ -4,7 +4,7 @@ title: "Gurudev Answers Devotees' Questions: Death, Krishna's Worship, Bama Baba
 breadcrumbTitle: "Gurudev Answers Devotee Channel Anniversary"
 description: "On the first anniversary of the YouTube channel, Guru Shyama Khyapa answers viewer questions covering the mystery of death, Lord Krishna's divine worship of Ma Durga, his first guru grace from Bama Baba, the Red Moon omen, and the deeper difference between Sadhu and Sannyasi."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, death mystery, Pancha Bhoota, Prana Vayu, Krishna, Ma Durga, Bama Baba, Ma Tara, Ramakrishna, Sadhu, Sannyasi, Red Moon, saffron"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:10:00
 readingTime: 5

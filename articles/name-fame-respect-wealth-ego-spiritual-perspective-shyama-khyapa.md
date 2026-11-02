@@ -4,7 +4,7 @@ title: "Name, Fame, Respect & Wealth: A Spiritual Perspective on Life's Four Pil
 breadcrumbTitle: "Name Fame Respect Wealth Spirituality"
 description: "Guru Shyama Khyapa explains the true nature of prestige, respect, wealth, and fame, emphasizing that they must be earned through right actions and warning against the ego that often accompanies them."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, prestige, respect, wealth, fame, Maan, Somman, Ortho, Josh, ego, character, Karma, Shada-ripu, humility, spiritual values"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:20:00
 readingTime: 6

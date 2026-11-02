@@ -4,7 +4,7 @@ title: "Protect Humanity Before Religion: Vivekananda's Warning Explained by Shy
 breadcrumbTitle: "Protect Humanity Before Religion"
 description: "Gurudev reflects on Swami Vivekananda's quote about sacrificing religion to protect humanity, condemning violence in the name of faith and emphasizing equal respect for all religions."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Swami Vivekananda, humanity, religion, communal violence, consciousness, Shravan, Shantikunj, Ma Bama, Hinduism, Islam, Christianity, Buddhism, equality, liberal thought"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 03:21:10
 readingTime: 6

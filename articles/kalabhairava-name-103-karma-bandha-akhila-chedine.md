@@ -4,7 +4,7 @@ title: "Kalabhairava Name 103: Karma-Bandha-Akhila-Chedine - Meaning and Signifi
 breadcrumbTitle: "Karma-Bandha-Akhila-Chedine"
 description: "English meaning and spiritual significance of Karma-Bandha-Akhila-Chedine, the 103rd name of Lord Kalabhairava, revered as the one who cuts through every bond created by karma."
 keywords: "Karma-Bandha-Akhila-Chedine, Kalabhairava name 103, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karma-Bandha-Akhila-Chedine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

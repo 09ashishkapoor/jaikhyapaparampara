@@ -4,7 +4,7 @@ title: "Chhatrapati Shivaji Maharaj: Kali Putra, Skanda Bhairava, and the True S
 breadcrumbTitle: "Shivaji Maharaj: Kali Putra and Smashana Kali"
 description: "Shri Praveen Radhakrishna explains the true nature of Smashana Kali, the Kali Putra mindset through the life of Chhatrapati Shivaji Maharaj, and what it truly means to break the Kala Chakra — going far beyond ordinary Sadhana into the territory of Devi's chosen sons."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Smashana Kali, Ma Adhya Kali, Kali Putra, Chhatrapati Shivaji Maharaj, Sambhaji Maharaj, Skanda, Kartikeya, Kala Chakra, Ma Bhavani, Skanda Bhairava, Deva Senapati"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:01:00
 readingTime: 8

@@ -4,7 +4,7 @@ title: "Happy Akshaya Tritiya: Guru Shyama Khyapa on Parashurama, Kubera, and th
 breadcrumbTitle: "Akshaya Tritiya 2025 Warning"
 description: "Guru Shyama Khyapa explains Akshaya Tritiya significance, Parashurama Jayanti, Kubera's wealth, Ravana's death, and warns that 2025 is a cursed year with terrible wars coming."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Akshaya Tritiya, Parashurama Jayanti, Kubera, Ravana, Kedarnath, Badrinath, 2025 Prophecy, War"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 12:00:00
 readingTime: 6

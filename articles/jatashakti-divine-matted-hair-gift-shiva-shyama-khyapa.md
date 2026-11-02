@@ -4,7 +4,7 @@ title: "Jatashakti: Guru Shyama Khyapa on the Divine Gift of Matted Hair"
 breadcrumbTitle: "Divine Gift of Matted Hair Jata"
 description: "Guru Shyama Khyapa explains how Jata (matted hair) is not created by human effort but is a divine gift of Lord Mahadev, as illustrated through the miraculous experience of his disciple Tapan from Kerala."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jata, Matted Hair, Mahadev, Shiva Grace, Jatashakti, Spiritual Initiation, Tapan Kumar Sarada, Pashupatinath"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 06:55:00
 readingTime: 4

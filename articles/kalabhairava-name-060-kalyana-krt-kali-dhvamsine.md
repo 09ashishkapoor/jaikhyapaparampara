@@ -4,7 +4,7 @@ title: "Kalabhairava Name 60: Kalyana-Krt-Kali-Dhvamsine - Meaning and Significa
 breadcrumbTitle: "Kalyana-Krt-Kali-Dhvamsine"
 description: "English meaning and spiritual significance of Kalyana-Krt-Kali-Dhvamsine, the 60th name of Lord Kalabhairava, the auspicious benefactor who destroys the disorders of Kali Yuga."
 keywords: "Kalyana-Krt-Kali-Dhvamsine, Kalabhairava name 60, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kalyana-Krt-Kali-Dhvamsine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

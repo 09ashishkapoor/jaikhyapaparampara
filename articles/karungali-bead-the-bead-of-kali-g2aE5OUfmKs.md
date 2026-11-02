@@ -4,7 +4,7 @@ title: "Karungali Bead: The Bead of Kali — How to Use It Safely"
 breadcrumbTitle: "Karungali: The Bead of Kali"
 description: "Shri Praveen Radhakrishna explains the profound spiritual properties of the Karungali Mala — an absorber of all energy, consecrated with Ma Kali's presence. He delivers direct warnings against wearing it without proper consecration and teaches the precise 'on and off' technique for safe and beneficial use."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Karungali Mala, Kali Sadhana, Ma Adya Maha Kali, Yantra, Prana Pratishta, Prayoga, Kavach, Amavasya, Rudraksha"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:09:00
 readingTime: 6

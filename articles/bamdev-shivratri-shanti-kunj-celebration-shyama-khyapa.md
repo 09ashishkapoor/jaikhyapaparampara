@@ -4,7 +4,7 @@ title: "Bamdeb's Birth: Shivratri Celebration at Shanti Kunj with Ishan Aghor"
 breadcrumbTitle: "Bamdeb Shivratri Shanti Kunj"
 description: "Guru Shyama Khyapa celebrates Shivratri and Bamdeb Baba's birthday at Shanti Kunj, explaining the four forms of Shiva worship and the simplicity of cremation ground spirituality."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bamdeb, Shivratri, Shanti Kunj, Ishan, Aghora, Sadyojata, Cremation Ground, Homa, Vashistha, Tarapeeth"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:13:00
 readingTime: 3

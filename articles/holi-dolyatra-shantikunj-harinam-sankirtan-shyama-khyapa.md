@@ -4,7 +4,7 @@ title: "Observation of Holi and Dolyatra at Shantikunj: The Power of Harinam San
 breadcrumbTitle: "Holi and Dolyatra at Shantikunj"
 description: "Guru Shyama Khyapa explains the significance of Dol Purnima, the presence of Narayan at the cremation ground, and why Harinam Sankirtan is the ultimate path in Kali Yuga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Holi, Dol Purnima, Harinam Sankirtan, Kali Yuga, Shantikunj, Salagram Shila"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:00:00
 readingTime: 3

@@ -4,7 +4,7 @@ title: "Hinduism and Inclusivity: Gurudev on Mother Teresa Photo and White Attir
 breadcrumbTitle: "Hinduism Inclusivity and White Attire"
 description: "Guru Shyama Khyapa responds to critics about Mother Teresa's photo in the prayer room and explains why he wears white—the color of peace—emphasizing that Hinduism accepts all religions."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Hinduism, Sanatan Dharma, Mother Teresa, Religious Inclusivity, White Attire, Peace, Tantra, Service to Humanity"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:42:00
 readingTime: 8

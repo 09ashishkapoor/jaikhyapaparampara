@@ -4,7 +4,7 @@ title: "Kalabhairava Name 108: Karaya - Meaning and Significance"
 breadcrumbTitle: "Karaya"
 description: "English meaning and spiritual significance of Karaya, the 108th and final name of Lord Kalabhairava, praised as the divine doer behind all action."
 keywords: "Karaya, Kalabhairava name 108, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

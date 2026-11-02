@@ -4,7 +4,7 @@ title: "Dhyana and Dharana: Guru Shyama Khyapa on the Art of Meditation and Ment
 breadcrumbTitle: "Dhyana Meditation Techniques"
 description: "Guru Shyama Khyapa explains the essential techniques of Dhyana (meditation) and Dharana (concentration), including the black dot method, Raj Yoga, and the path from form to formless contemplation."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Dhyana, Dharana, Meditation, Concentration, Ashtanga Yoga, Raj Yoga, Manonibesh, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:03:00
 readingTime: 5

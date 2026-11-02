@@ -4,7 +4,7 @@ title: "Bhairava Sadhana: Family, Desires, Karma and the Jiva"
 breadcrumbTitle: "Desires, Karma and the Jiva in Sadhana"
 description: "Shri Praveen Radhakrishna explores the deep karmic mechanics behind Bhairava Sadhana — the latent desires from past births stored in the Jiva, why broken family relationships are part of the design, and how placing the Deity into every empty relationship is the path to Moksha."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Jiva, Karma, Moksha, desires, past births, Garbhagriha, Sadhana, Bhakti, Kali Yuga, family"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:06:00
 readingTime: 10

@@ -4,7 +4,7 @@ title: "Gurudev's Visit to Tarapith Again: Mundamalini, Dwaraka River, and the M
 breadcrumbTitle: "Gurudev Visit Tarapith Again"
 description: "Guru Shyama Khyapa at Mundamalinitola on the Dwaraka River speaks on the significance of Tarapith, the south-to-north flowing river, Siddha Piths, Bamakhepa, and Nature as the Mother."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Tarapith, Mundamalini, Dwaraka River, Siddha Pith, Bamakhepa, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:19:00
 readingTime: 5

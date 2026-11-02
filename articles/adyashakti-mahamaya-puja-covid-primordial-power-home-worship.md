@@ -4,7 +4,7 @@ title: "Adyashakti Mahamaya Puja During COVID: Guru Shyama Khyapa on Worshipping
 breadcrumbTitle: "Adyashakti Puja During COVID Simple Home Worship"
 description: "Guru Shyama Khyapa responds to a devotee's request for guidance on performing Adyashakti Mahamaya Puja and Homa at home during the COVID-19 pandemic, explaining the primordial Beej Mantra 'Kleem,' the significance of Sandhi Puja, and a simple path of worship for every household."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Adyashakti, Mahamaya, COVID-19, Kleem Beej Mantra, Sandhi Puja, Homa, Durga Puja, Adyapith, home worship, Pralaya"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:33:00
 readingTime: 6

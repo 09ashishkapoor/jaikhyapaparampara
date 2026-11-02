@@ -4,7 +4,7 @@ title: "What did Gurudev Predict about Delta+? Spiritual Insights on the COVID-1
 breadcrumbTitle: "Delta+ Predictions"
 description: "Guru Shyama Khyapa and Kaushik discuss the Delta Plus variant, vaccination efficacy, and the spiritual rituals performed for world peace during the pandemic."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Delta Plus Variant, COVID-19, Vaccination, Spiritual Rituals, Homa, Yajna, Pandemic Predictions, West Bengal COVID"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 18

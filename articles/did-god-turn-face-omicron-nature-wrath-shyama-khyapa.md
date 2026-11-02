@@ -4,7 +4,7 @@ title: "Did God Turn His Face? Gurudev on the Omicron Variant and Nature's Wrath
 breadcrumbTitle: "Did God Turn His Face?"
 description: "Gurudev Shyama Khyapa discusses the Omicron variant's rapid spread, the increasing natural disasters, and his prophecy that God and nature have turned against humanity in 2022."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Omicron, COVID-19, 2022, nature's revenge, population, God's face, pandemic, Sourav Ganguly"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:45:00
 readingTime: 5

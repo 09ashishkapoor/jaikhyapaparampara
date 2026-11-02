@@ -4,7 +4,7 @@ title: "Saraswati Puja Teachings, YouTube Silver Play Button, and Gurudev's Heal
 breadcrumbTitle: "Saraswati Puja and YouTube Milestone"
 description: "Guru Shyama Khyapa shares insights on Saraswati Puja and the fierce Tantric Maha Saraswati, while devotees announce the channel's YouTube Silver Play Button milestone. He also addresses wellwishers about his health recovery."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Saraswati Puja, YouTube Silver Play Button, Bhadrakali, Hanuman, Mahiravana, Saraswati Dhyana Mantra, gurdev health"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 06:49:00
 readingTime: 6

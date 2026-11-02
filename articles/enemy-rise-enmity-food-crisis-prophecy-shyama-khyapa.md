@@ -4,7 +4,7 @@ title: "Enemy: The Rise of Enmity and the Coming Food Crisis"
 breadcrumbTitle: "Enemy and the Food Crisis Prophecy"
 description: "Guru Shyama Khyapa discusses the rising enmity among people, the five impulses that create conflict, and prophesies a severe food distribution crisis where resources will rot while people starve."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, enemy, enmity, anger, lust, food crisis, distribution, Amartya Sen, 2021 prophecy"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:36:00
 readingTime: 7

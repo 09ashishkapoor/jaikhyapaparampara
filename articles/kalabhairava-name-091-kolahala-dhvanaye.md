@@ -4,7 +4,7 @@ title: "Kalabhairava Name 91: Kolahala-Dhvanaye - Meaning and Significance"
 breadcrumbTitle: "Kolahala-Dhvanaye"
 description: "English meaning and spiritual significance of Kolahala-Dhvanaye, the 91st name of Lord Kalabhairava, whose cosmic roar shakes illusion and resounds through the universe."
 keywords: "Kolahala-Dhvanaye, Kalabhairava name 91, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kolahala-Dhvanaye meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

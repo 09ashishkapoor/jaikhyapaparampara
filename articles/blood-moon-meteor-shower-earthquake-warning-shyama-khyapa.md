@@ -4,7 +4,7 @@ title: "Blood Moon and Meteor Showers: Gurudev's Warning of Celestial Omens"
 breadcrumbTitle: "Blood Moon and Meteor Shower Warnings"
 description: "Guru Shyama Khyapa reveals the terrifying significance of the blood moon and meteor showers as bad omens, explaining their connection to earthquakes, pandemics, and divine wrath upon humanity."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Blood Moon, Meteor Shower, Earthquake, Divine Wrath, Celestial Omens, Pandemic, Natural Disasters, Planetary Positions"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:26:00
 readingTime: 10

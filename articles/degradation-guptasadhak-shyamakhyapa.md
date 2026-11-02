@@ -4,7 +4,7 @@ title: "Degradation | What Did Guptasadhak Shyamakhyapa Say?"
 breadcrumbTitle: "Degradation"
 description: "A discussion at the cremation ground about fire rituals, the nature of fire in spirituality, the degradation of human health and morality, and upcoming challenges."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, cremation ground, fire ritual, degradation, health, family disputes"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:23:00
 readingTime: 5

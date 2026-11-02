@@ -4,7 +4,7 @@ title: "Akshaya Tritiya Charity, World Peace Homa, and COVID Prayer | Guru Shyam
 breadcrumbTitle: "Akshaya Tritiya Charity and Prayer"
 description: "Guru Shyama Khyapa explains the eternal merit of Akshaya Tritiya charity and highlights Lakshmi-Ganesh worship, world peace Homa, and humanitarian prayer. The conversation also carries a deep appeal for peace for souls lost during the COVID pandemic."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Akshaya Tritiya, Daan Dhyan, Zakat, Lakshmi Puja, Ganesh Puja, Homa, World Peace, Human Welfare, COVID Prayer"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:59:00
 readingTime: 5

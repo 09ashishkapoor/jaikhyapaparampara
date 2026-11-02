@@ -4,7 +4,7 @@ title: "Kandari Warning: Gurudev on COVID-19 Third Wave and Social Responsibilit
 breadcrumbTitle: "Kandari Warning and COVID Third Wave"
 description: "Guru Shyama Khyapa warns about the approaching third wave of COVID-19, the breakdown of family and social bonds during the pandemic, and calls for community responsibility rather than isolation of affected families."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kandari, COVID-19, third wave, pandemic, social isolation, family bonds, vaccine, lockdown"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:39:00
 readingTime: 6

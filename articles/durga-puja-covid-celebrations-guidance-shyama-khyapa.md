@@ -4,7 +4,7 @@ title: "Durga Puja During COVID-19: Guidance on Celebrations and Precautions"
 breadcrumbTitle: "Durga Puja COVID Celebrations Guidance"
 description: "Guru Shyama Khyapa provides guidance on celebrating Durga Puja during the COVID-19 pandemic, discussing Ghorowa Puja, social responsibility, and the spiritual significance of the festival amidst challenging times."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Guru Shyama Khyapa, Durga Puja, COVID-19, Sharadiya Festival, Ghorowa Puja, Social Responsibility, Pandemic Guidance, Molo Mash"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:37:00
 readingTime: 5

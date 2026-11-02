@@ -4,7 +4,7 @@ title: "What is the Purpose of Taking Initiation? Guru Shyama Khyapa on Diksha a
 breadcrumbTitle: "Purpose of Spiritual Initiation"
 description: "Guru Shyama Khyapa explains why initiation is a spiritual rebirth, how to test a Guru before accepting them, and why people wander in ignorance until they surrender to the Divine Mother."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Initiation, Diksha, Spiritual Rebirth, Guru-Disciple, Surrender, Divine Mother, Avidya, Vidya"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:45:00
 readingTime: 4

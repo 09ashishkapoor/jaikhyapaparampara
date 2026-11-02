@@ -4,7 +4,7 @@ title: "Conquering Death: The Sacred Maha Mrityunjaya Rituals and the Creation o
 breadcrumbTitle: "Maha Mrityunjaya Rituals"
 description: "Guru Shyama Khyapa explains the 1,000-day Maha Mrityunjaya ritual performed to conquer death, the sacred preparation of the Kabach protective amulet, specific procedures, mantras, and documented cases of lives saved through the power of this ritual."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Maha Mrityunjaya, Kabach, death-conquering ritual, amulet, spiritual protection, mantra"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:52:00
 readingTime: 8

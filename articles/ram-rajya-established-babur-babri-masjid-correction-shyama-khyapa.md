@@ -4,7 +4,7 @@ title: "Ram Rajya Established: Gurudev's Apology and Blessings for the Nation"
 breadcrumbTitle: "Ram Rajya and Historical Corrections"
 description: "Guru Shyama Khyapa apologizes for providing incorrect information about Babur and the Babri Masjid, then discusses the establishment of Ram Rajya and its spiritual significance for the nation."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ram Rajya, Ram Mandir, Babri Masjid, Jai Shri Ram, Hindu Spirituality, Supreme Court Verdict"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:54:00
 readingTime: 11

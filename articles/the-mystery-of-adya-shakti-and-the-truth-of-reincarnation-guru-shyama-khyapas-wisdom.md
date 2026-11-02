@@ -4,7 +4,7 @@ title: "The Mystery of Adya Shakti and the Truth of Reincarnation: Guru Shyama K
 breadcrumbTitle: "Adya Shakti and Reincarnation"
 description: "Guru Shyama Khyapa explains the significance of Mother Adya Shakti, the spiritual science behind reincarnation, and why names should never be invoked during rituals in a cremation ground."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Adya Shakti, Reincarnation, Shmashan, Homa, Karma, Soul, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 6

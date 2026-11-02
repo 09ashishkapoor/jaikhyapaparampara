@@ -4,7 +4,7 @@ title: "Jagannath Mahaprasad: Sacred Healing Properties and Child's First Rice C
 breadcrumbTitle: "Jagannath Mahaprasad and Annaprashan Ceremony"
 description: "Guru Shyama Khyapa explains the sacred healing properties of Jagannath's Mahaprasad—used for dog bites and first rice ceremonies—and then personally performs the Annaprashan (first rice feeding) of a child born by Mother's grace in front of the temple."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jagannath, Mahaprasad, Annaprashan, first rice ceremony, Puri, Jagannath temple, coarse rice, salt-free offering, Jai Tara, Ma Tara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:22:00
 readingTime: 5

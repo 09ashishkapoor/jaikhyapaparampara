@@ -4,7 +4,7 @@ title: "Can You Recognize Him? Guru Shyama Khyapa on an Old Mahalaya Cremation-G
 breadcrumbTitle: "Recognizing an Old Photo"
 description: "A viewer-submitted photo leads to a conversation where Guru Shyama Khyapa describes his appearance decades ago, his all-night Mahalaya puja at the cremation ground, and how his name and life changed over time."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mahalaya, new moon, cremation ground, all-night puja, Mother Goddess, disciples, old photo, transformation, Shyama Khapa, office job"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 16:42:00
 readingTime: 3

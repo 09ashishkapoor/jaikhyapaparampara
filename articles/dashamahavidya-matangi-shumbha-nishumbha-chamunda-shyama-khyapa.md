@@ -4,7 +4,7 @@ title: "Dashamahavidya Matangi: Guru Shyama Khyapa on the Mysterious Goddess Who
 breadcrumbTitle: "Matangi Ninth Mahavidya Secrets"
 description: "Guru Shyama Khyapa reveals the hidden history of Matangi, the ninth Mahavidya who killed Shumbha-Nishumbha, her Tibetan origins, and why she brings trouble to those who worship her."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Matangi, Dashamahavidya, Shumbha Nishumbha, Chamunda, Krishnananda Agambagish, Tara-Nath Tantrik, Homa, Gunja Garland"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 12:01:00
 readingTime: 7

@@ -4,7 +4,7 @@ title: "Omkar (Pranava): Benefits, Chakras, and the Vedas — Guru Shyama Khyapa
 breadcrumbTitle: "Omkar Pranava Benefits"
 description: "Guru Shyama Khyapa explains the immense benefits of Omkar (Pranava), the three sounds A-U-M, its journey through the chakras, the Sun-Moon-Fire Kalas, and its connection to the Vedas and inner sky."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Omkar, Pranava, Aum, Chakras, Vedas, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:20:00
 readingTime: 5

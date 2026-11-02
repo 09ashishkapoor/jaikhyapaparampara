@@ -4,7 +4,7 @@ title: "The Earth's Rotation and the Great Doomsday (Mahapralaya): Insights from
 breadcrumbTitle: "Earth's Rotation and Mahapralaya"
 description: "Guru Shyama Khyapa explains the spiritual and physical signs of the Earth's accelerating rotation, its impact on astrology, and the unfolding of the Great Destruction (Mahapralaya) predicted in ancient prophecies."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mahapralaya, Earth Rotation, Astrology, Bhavishya Malika, Climate Change, Spiritual Prophecy"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:16:00
 readingTime: 7

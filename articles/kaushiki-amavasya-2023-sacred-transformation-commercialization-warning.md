@@ -4,7 +4,7 @@ title: "Kaushiki Amavasya 2023: Guru Shyama Khyapa on the Sacred Transformation 
 breadcrumbTitle: "Kaushiki Amavasya 2023"
 description: "Guru Shyama Khyapa discusses the spiritual significance of Kaushiki Amavasya, the legend of Kali's emergence, and warns against the commercialized and disrespectful behavior often seen at Tarapith."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kaushiki Amavasya, Tarapith, Mother Tara, Mahadev, Kali, Transformation, Homa, 51 Shakti Peethas, Prophecy, Seven Days of Darkness, Commercialization"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:35:00
 readingTime: 5

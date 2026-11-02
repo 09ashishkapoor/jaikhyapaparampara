@@ -4,7 +4,7 @@ title: "Maha Nirvan Tantra: The Pure Sattvik Path Among the Three Primary Tantra
 breadcrumbTitle: "Maha Nirvan Tantra"
 description: "Guru Shyama Khyapa explains the Maha Nirvan Tantra—the third primary Tantra text after Agam and Nigam—and how it offers a purely Sattvik, Divyachara path without the complex or lower rituals found in other Tantras."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Maha Nirvan Tantra, Agam Tantra, Nigam Tantra, Krishnananda Agambagish, Divyachara, Sattvik, Tantra Shastra, Parvati, Shiva"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:13:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "The Life and Vedic Vision of Balak Brahmachari: Guru Shyama Khyapa's Ins
 breadcrumbTitle: "Balak Brahmachari and the Vedas"
 description: "Guru Shyama Khyapa discusses the life of the Janmasiddha saint Balak Brahmachari, his connection to Netaji Subhas Chandra Bose, and his mission to rejuvenate India through the Vedas."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Balak Brahmachari, Netaji Subhas Chandra Bose, Vedas, Upanishads, Sanatana Dharma, Gyan Gunj, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 2

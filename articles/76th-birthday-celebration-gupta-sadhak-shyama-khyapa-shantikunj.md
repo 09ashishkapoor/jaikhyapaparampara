@@ -4,7 +4,7 @@ title: "76th Birthday Celebration of Gupta Sadhak Shyama Khyapa at Shantikunj"
 breadcrumbTitle: "76th Birthday Celebration Shantikunj"
 description: "A humble celebration of the 76th birthday of Gupta Sadhak Shyama Khyapa at Shantikunj, featuring Vedic rituals, a chhana cake cutting, blessings for hundreds of devotees, and a gift of Radha-Krishna painting."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Birthday Celebration, Shantikunj, Bama Deb Baba, 76th Birthday, Rajpur Cremation Ground, Radha Krishna"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 06:58:00
 readingTime: 4

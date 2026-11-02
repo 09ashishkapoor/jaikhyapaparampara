@@ -4,7 +4,7 @@ title: "Warning! Part 1: Mountains and Sea Becoming Dangerous"
 breadcrumbTitle: "Warning Mountains Sea Part 1"
 description: "Guru Shyama Khyapa issues urgent warnings about rising sea levels, landslides, impending tsunamis, and the destruction facing sacred pilgrimage sites across India."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Warning, Natural Disasters, Sea, Mountains, Landslide, Tsunami, Earthquake, Floods, Kedarnath, Badrinath, Puri, Digha, Taj Mahal"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:16:00
 readingTime: 3

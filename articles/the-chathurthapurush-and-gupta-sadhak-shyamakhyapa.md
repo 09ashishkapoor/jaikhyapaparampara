@@ -4,7 +4,7 @@ title: "The Chathurthapurush and Gupta Sadhak Shyama Khyapa"
 breadcrumbTitle: "Chathurthapurush & Gupta Sadhak"
 description: "After years of silence, Shri Praveen RadhaKrishna reveals the identity of his Guru, a hidden master from the Khyapa lineage of Tarapith. From a wealthy businessman to a wandering monk meditating on funeral pyres, this is the extraordinary story of Guru Baba Shyama Khyapa, a disciple of Bama Khepa."
 keywords: "GuruDeva Shyama Khyapa, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, Bama Khepa, Khyapa Parampara, Tarapith, Gupta Sadhak, Praveen RadhaKrishnan, Kali sadhana, spiritual guru, cremation ground meditation"
-category: "Our Roots"
+category: "Guru Stories and Devotee Lives"
 author: "KaliPutra-Ashish"
 date: 2025-12-24
 readingTime: 12

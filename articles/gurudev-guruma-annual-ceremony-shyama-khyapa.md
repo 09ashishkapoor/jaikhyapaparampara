@@ -4,7 +4,7 @@ title: "Gurudev and Guruma | Annual Ceremony by Shyama Khyapa"
 breadcrumbTitle: "Gurudev and Guruma Annual Ceremony"
 description: "Guru Shyama Khyapa discusses the annual ceremony of Shiva and Parvati puja, his 30+ years of performing this ritual, the transformation from dark cremation ground pujas to today's ceremonies, and the role of a Guru."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, annual ceremony, Shiva, Parvati, Kali Puja, cremation ground, tantra"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:25:00
 readingTime: 8

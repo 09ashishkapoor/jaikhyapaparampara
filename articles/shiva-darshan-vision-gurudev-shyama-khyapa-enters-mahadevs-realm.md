@@ -4,7 +4,7 @@ title: "Shiva Darshan Vision: Gurudev Shyama Khyapa Enters Mahadev's Realm"
 breadcrumbTitle: "Shiva Darshan Vision"
 description: "Guru Shyama Khyapa recounts how he was permitted to enter the luminous world where Mahadev dwells, surrounded by tiger-clad guardians and the Pillar of Light."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Khyapa Parampara, Shiva Darshan, Mahadev, Shantikunj, Pillar of Light, Tiger Guardians"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:59:01
 readingTime: 5

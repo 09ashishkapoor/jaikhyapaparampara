@@ -4,7 +4,7 @@ title: "Sadhak Ramprasad Sen: Life, Songs, and the Path of Devotion to Mother Ka
 breadcrumbTitle: "Sadhak Ramprasad Sen Part 2"
 description: "Guru Shyama Khyapa shares profound insights into the life of Sadhak Ramprasad Sen, his spontaneous songs of devotion, and his ultimate attainment of Brahmagyan from Mother Tara."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Sadhak Ramprasad Sen, Mother Kali, Mother Tara, Tantra, Bengali Devotional Songs, Kulakundalini, Brahmagyan, Spiritual Stories"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 14

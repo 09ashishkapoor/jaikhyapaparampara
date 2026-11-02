@@ -4,7 +4,7 @@ title: "Celebrating 2 Years After the Great Mahamrityunjaya Purna Ahuti"
 breadcrumbTitle: "Mahamrityunjaya Anniversary Celebration"
 description: "Guru Shyama Khyapa celebrates the anniversary of the 1000-day Mahamrityunjaya Yajna performed at Rajpur cremation ground, discussing the significance of this rare spiritual accomplishment."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Mahamrityunjaya Yajna, Anniversary, 1000 Days, Ritual, Rajpur, Shantikunj, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:00:00
 readingTime: 2

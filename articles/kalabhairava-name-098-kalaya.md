@@ -4,7 +4,7 @@ title: "Kalabhairava Name 98: Kalaya - Meaning and Significance"
 breadcrumbTitle: "Kalaya"
 description: "English meaning and spiritual significance of Kalaya, the 98th name of Lord Kalabhairava, who is revered here as time itself."
 keywords: "Kalaya, Kalabhairava name 98, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kalaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

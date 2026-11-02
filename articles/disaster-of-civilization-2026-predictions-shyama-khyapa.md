@@ -4,7 +4,7 @@ title: "2026 Predictions: Hari Naam Sankirtan as the Only Refuge in Kali Yuga"
 breadcrumbTitle: "2026 Predictions & Refuge"
 description: "While 2026 brings terrifying predictions of global unrest, Guru Shyama Khyapa reveals why Hari Naam Sankirtan remains the only true refuge and path to peace in Kali Yuga."
 keywords: "GuruDeva Shyama Khyapa, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, 2026 predictions, World War III, Kali Yuga, Hari Naam Sankirtan, spiritual guidance, disaster of civilization, Gupta Sadhak"
-category: "Guru Messages"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-28
 readingTime: 10

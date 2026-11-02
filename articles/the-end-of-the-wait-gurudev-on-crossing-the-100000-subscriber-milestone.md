@@ -4,7 +4,7 @@ title: "The End of the Wait: Gurudev on Crossing the 100,000 Subscriber Mileston
 breadcrumbTitle: "100,000 Milestone"
 description: "Guru Shyama Khyapa reflects on the journey of his YouTube channel reaching 100,000 subscribers, sharing stories of faith, challenges, global reach, and the role of Mother Tara in fulfilling his mission."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, YouTube 100k Milestone, Hiranyagarbha, Rajpur Mahashmashan, Spiritual Journey, Global Reach, Mother Tara, Gupta Sadhak Shyama Khyapa"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 24

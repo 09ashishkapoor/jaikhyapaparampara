@@ -4,7 +4,7 @@ title: "It Is Important to Amend the Constitution: A Call for Change"
 breadcrumbTitle: "Amend the Constitution"
 description: "On the 73rd Republic Day, Guru Shyama Khyapa calls for constitutional reform, reflecting on Dr. Ambedkar's legacy and the urgent need for an indigenous Indian constitution suited to modern realities."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Constitution, Republic Day, India, Dr Ambedkar, Constitutional Reform, British Era, Law, Corruption"
-category: "Social Commentary"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:56:00
 readingTime: 3

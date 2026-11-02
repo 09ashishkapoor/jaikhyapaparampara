@@ -4,7 +4,7 @@ title: "Vamana Avatar: The Dwarf Incarnation Who Covered Earth and Heaven in Two
 breadcrumbTitle: "Vamana Avatar: Three Steps of Space"
 description: "Guru Shyama Khyapa narrates the story of Lord Vishnu's Vamana Avatar, the dwarf Brahmin who subdued demon king Mahabali with three steps of land, covering Earth and Heaven, and granted him immortality in the underworld."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Vamana Avatar, Lord Vishnu, Mahabali, King Bali, Treta Yuga, Aditi, Kashyapa, Three Steps, Rasatala, Chiranjeevi, Prahlada, Dharma, Yajna, Harinam, Kali Yuga"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 20:44:00
 readingTime: 7

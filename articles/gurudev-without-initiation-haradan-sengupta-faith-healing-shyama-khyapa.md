@@ -4,7 +4,7 @@ title: "Gurudev Without Initiation: Haradan Sengupta's Story of Faith and Divine
 breadcrumbTitle: "Haradan's Faith Without Initiation"
 description: "Long-time devotee Haradan Sengupta shares how Guru Shyama Khyapa became his spiritual anchor after his son's death, and how Gurudev ensures Mother Tara's presence during critical surgeries."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Haradan Sengupta, Devotion, Faith, Mother Tara, Divine Healing, Operation Theater, Spiritual Connection, Initiation, Diksha"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:35:00
 readingTime: 10

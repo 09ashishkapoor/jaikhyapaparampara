@@ -4,7 +4,7 @@ title: "Akshaya Tritiya: Parashuram, Kalki's Training, and the Akshaya Patra of 
 breadcrumbTitle: "Akshaya Tritiya Parashuram Kalki Akshaya Patra"
 description: "Guru Shyama Khyapa explains the sacred significance of Akshaya Tritiya — the birth of Parashuram, his future role in training Kalki, the story of Draupadi's inexhaustible vessel, and prophecies of the coming Satya Yuga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Akshaya Tritiya, Parashuram, Kalki Avatar, Draupadi Akshay Patra, Durvasa, Kedarnath, Badrinath, Satya Yuga"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 07:02:00
 readingTime: 5

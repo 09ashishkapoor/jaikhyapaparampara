@@ -4,7 +4,7 @@ title: "Godless Earth: Guru Shyama Khyapa's Warning on Kali Yuga and Kalki"
 breadcrumbTitle: "Godless Earth - Kali Yuga Warning"
 description: "Guru Shyama Khyapa warns of the earth becoming devoid of God, the departure of deities, the five Dhams controversy, and the catastrophic events predicted for 2025."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Kali Yuga, Kalki Avatar, Godless Earth, Puri Jagannath, Dandapati, Four Dhams, Pralaya, 2025 Prophecy, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:57:00
 readingTime: 10

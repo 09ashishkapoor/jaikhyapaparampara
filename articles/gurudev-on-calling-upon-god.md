@@ -4,7 +4,7 @@ title: "Gurudev's Insight on 'To Call Upon God or Not to Call Upon Him'"
 breadcrumbTitle: "Gurudev on Calling God"
 description: "Gurudev explains why praying to God is important despite apparent lack of benefits, emphasizing universal grace and the impact on others."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, faith, suffering, divinity, prayer"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 14:00:00
 readingTime: 6

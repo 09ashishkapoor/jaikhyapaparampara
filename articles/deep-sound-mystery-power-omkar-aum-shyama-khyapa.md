@@ -4,7 +4,7 @@ title: "Deep Sound: The Mystery and Power of Omkar (A-U-M)"
 breadcrumbTitle: "Deep Sound of Omkar"
 description: "Gurudev Shyama Khyapa explains the profound significance of Omkar, its three components A-U-M representing Sun, Moon, and Fire, who has the right to chant Om, and the correct way to chant the Maha Mrityunjaya Mantra."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Omkar, Om, A-U-M, Pranava Mantra, Sun Moon Fire, Ang Ung Mang, Hamsa, So-ham, Maha Mrityunjaya"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:50:00
 readingTime: 7

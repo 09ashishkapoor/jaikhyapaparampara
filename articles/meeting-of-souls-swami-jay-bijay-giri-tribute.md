@@ -4,7 +4,7 @@ title: "Meeting of Souls: Swami Jay Bijay Giri's Tribute and the Essence of Sana
 breadcrumbTitle: "Meeting of Souls"
 description: "Swami Jay Bijay Giri from Haridwar offers a profound poetic tribute to Guru Shyama Khyapa, followed by a deep philosophical discussion on the nature of the Guru, daily cycles of the Yugas within the human mind, Nishkam Karma (selfless action), and the universal essence of Sanatan Dharma that unites all scriptures—Hindu, Islamic, Christian, and beyond."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Swami Jay Bijay Giri, Haridwar, Ganga Sagar, Sadhu, Sanatan Dharma, Guru Tattva, Yugas, Satya Yuga, Treta Yuga, Dwapara Yuga, Kali Yuga, Nishkam Karma, Bhagavad Gita, Spiritual Tribute, Selfless Service, Universal Truth"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 22

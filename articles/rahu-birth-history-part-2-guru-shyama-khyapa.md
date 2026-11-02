@@ -4,7 +4,7 @@ title: "The Birth History of Rahu: Part 2 - Guru Shyama Khyapa's Insights"
 breadcrumbTitle: "Rahu's Birth History Part 2"
 description: "Guru Shyama Khyapa and Shantanu discuss the second part of the story of Rahu's birth, the churning of the ocean, and the significance of the Kumbh Mela sites."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Rahu, Ketu, Samudra Manthan, Kumbh Mela, Mythology, Spiritual Teachings, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:13:00
 readingTime: 5

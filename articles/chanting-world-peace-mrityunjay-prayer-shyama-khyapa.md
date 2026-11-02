@@ -4,7 +4,7 @@ title: "Chanting for World Peace: Gurudev's Prayer to Mrityunjay for Disease Era
 breadcrumbTitle: "Chanting for World Peace"
 description: "A sacred recording of Guru Shyama Khyapa's prayer to Lord Mahadev and Mrityunjay for world peace, healing from disease, and the wellbeing of all humanity."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, World Peace, Mrityunjay, Mahadev, Chanting, Sanskrit Mantra, Khyapa Parampara"
-category: "Prayers and Chants"
+category: "Rituals, Worship and Festivals"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:17:00
 readingTime: 1

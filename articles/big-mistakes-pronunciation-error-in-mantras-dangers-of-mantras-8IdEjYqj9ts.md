@@ -4,7 +4,7 @@ title: "Big Mistakes, Pronunciation Errors in Mantras, and the Dangers of Mantra
 breadcrumbTitle: "Pronunciation Errors in Mantras"
 description: "Shri Praveen Radhakrishna addresses the overwhelming fear of mantra mispronunciation in Kali Sadhana, explaining why sincere intent and devotion matter far more than technical perfection — and how the Manasic Guru resolves all such doubts."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Kali Sadhana, Mantra pronunciation, Manasic Guru, Adya Kali, Vama Khepa, Matru Bhav"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:17:00
 readingTime: 4

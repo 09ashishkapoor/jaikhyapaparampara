@@ -4,7 +4,7 @@ title: "Astrology Not Based on Science: Gurudev and Disciple Santanu Roy on Plan
 breadcrumbTitle: "Astrology Science and Planetary Predictions"
 description: "Guru Shyama Khyapa and disciple Santanu Roy discuss astrology, the coming Year of Saturn and Mars, terrifying disasters predicted for 2024-2025, and why chanting Harinaam is the only refuge in Kali Yuga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Astrology, Santanu Roy, Ketu, Saturn, Rahu, Mars, 2024 Predictions, 2025 Predictions, Harinaam, Kali Yuga, Blood Rain, Mud Rain"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:27:00
 readingTime: 11

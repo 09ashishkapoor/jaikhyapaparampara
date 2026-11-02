@@ -4,7 +4,7 @@ title: "Bhairava Sadhana: Dogs in Sadhana Before the Basics — Part 2"
 breadcrumbTitle: "Bhairava Sadhana: Dogs and Basics Part 2"
 description: "Shri Praveen Radhakrishna continues his series on Bhairava Sadhana, discussing the role of the Guru in Kali Yuga, how to begin with Batuka Bhairava, and the profound spiritual significance of dogs as the sacred Vahana of Bhairava."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Batuka Bhairava, Kala Bhairava, Guru Tattva, Vahana, Sadhana, Upasana, Moksha, dogs, karma"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:03:00
 readingTime: 6

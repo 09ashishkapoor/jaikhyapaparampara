@@ -4,7 +4,7 @@ title: "Gurudev's Personal Message to Tirthankar: An Invitation for Help"
 breadcrumbTitle: "Message to Tirthankar"
 description: "Guru Shyama Khyapa sends a personal message to a young man named Tirthankar who shared valuable information, inviting him to Rajpur for help with health and employment."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tirthankar, Job, Health, Rajpur, Cremation Ground"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:02:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Shmashana Kali Puja at Chaturdashi and Amavasya: Guru Shyama Khyapa on T
 breadcrumbTitle: "Shmashana Kali Puja Chaturdashi Amavasya Tantric"
 description: "Guru Shyama Khyapa oversees the installation and worship of a 102-year-old Shmashana Kali deity found during a house renovation—explaining that this Tantric worship under the Revati constellation at the confluence of Chaturdashi and Amavasya is exclusively for Veeras, the brave ones on the spiritual path."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shmashana Kali, Chaturdashi, Amavasya, Revati nakshatra, Tantric worship, Veera sadhana, Dakshina Kali, Mahakal Bhairav, cremation ground, Maya"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:27:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Brahmacharya Part 1: Celibacy, Self-Discipline, and the Path to Brahma"
 breadcrumbTitle: "Brahmacharya Part 1"
 description: "Guru Shyama Khyapa explains the profound meaning of Brahmacharya—the practice of celibacy and spiritual discipline—drawing from the Upanayana ceremony, Hanuman's story, and the sixteen kalas of Brahma."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Brahmacharya, Celibacy, Brahma, Upanayana, Hanuman, Chamunda, Brahma-gyan, Brahma-tej, Self-Discipline"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:17:00
 readingTime: 4

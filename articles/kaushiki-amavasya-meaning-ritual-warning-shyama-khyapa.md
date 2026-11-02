@@ -4,7 +4,7 @@ title: "Kaushiki Amavasya: The Formidable New Moon of Transformation - Guru Shya
 breadcrumbTitle: "Kaushiki Amavasya Meaning"
 description: "Guru Shyama Khyapa explains the significance of Kaushiki Amavasya, when Mother Durga transformed into Kali, and warns householders against visiting Tara Peeth on this powerful night."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Kaushiki Amavasya, Tara Peeth, Durga, Kali, Yogini, Bama Dev, Vashishta, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:47:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 61: Karma-Saksine - Meaning and Significance"
 breadcrumbTitle: "Karma-Saksine"
 description: "English meaning and spiritual significance of Karma-Saksine, the 61st name of Lord Kalabhairava, the witness of all actions and the guardian of karmic order."
 keywords: "Karma-Saksine, Kalabhairava name 61, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karma-Saksine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

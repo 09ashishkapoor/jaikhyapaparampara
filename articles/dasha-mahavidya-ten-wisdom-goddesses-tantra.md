@@ -4,7 +4,7 @@ title: "The Dasha Mahavidya: The Ten Divine Wisdom Goddesses of Tantra"
 breadcrumbTitle: "Dasha Mahavidya - Ten Goddesses"
 description: "Guru Shyama Khyapa introduces the Dasha Mahavidya—the ten supreme forms of Goddess Durga—and their profound connection to Tantric practice, astrology, and divine healing through mantras and rituals."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Dasha Mahavidya, Goddess Durga, Tantra, Navagraha, Kali, Tara, Sadhana, Khyapa Parampara, Spiritual Goddesses"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 23:56:00
 readingTime: 9

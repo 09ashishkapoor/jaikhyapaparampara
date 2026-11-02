@@ -4,7 +4,7 @@ title: "Pashupatinath Temple: Adi Shiva and the Primordial Spiritual Abode"
 breadcrumbTitle: "Pashupatinath Temple Spiritual Significance"
 description: "Gurudev explains the sacred history of Pashupatinath Temple, the significance of Adi Shiva, and the spiritual importance of this primordial temple in Kathmandu."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pashupatinath Temple, Adi Shiva, Kathmandu, Adi Shankaracharya, spiritual places, Hindu temples"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 14:00:00
 readingTime: 15

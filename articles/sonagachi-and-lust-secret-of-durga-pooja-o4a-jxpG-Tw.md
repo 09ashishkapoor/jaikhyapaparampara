@@ -4,7 +4,7 @@ title: "Sonagachi and Lust: The Secret of Durga Puja and the Punya Mati"
 breadcrumbTitle: "Sonagachi and the Secret of Durga Puja"
 description: "Shri Praveen Radhakrishna reveals the profound spiritual significance of the Punya Mati ritual — the sacred soil taken from Sonagachi's red-light district to sculpt Ma Durga's idols — as a teaching on conquering lust and awakening the Deva Tattva within."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Punya Mati, Sonagachi, Mahishasura, Durga Puja, Devi Sadhana, lust, Mahishasura Mardini, Divine Consciousness, Deva Tattva, Kali Kshetra"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:25:00
 readingTime: 7

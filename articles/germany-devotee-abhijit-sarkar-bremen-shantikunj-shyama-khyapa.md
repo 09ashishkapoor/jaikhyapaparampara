@@ -4,7 +4,7 @@ title: "From Germany to Shantikunj: Abhijit Sarkar's Spiritual Journey"
 breadcrumbTitle: "German Devotee Abhijit Sarkar"
 description: "Abhijit Sarkar from Bremen, Germany shares his journey of discovering Guru Shyama Khyapa through YouTube, his first in-person meeting, and the harmony of science and spirituality."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Germany, Bremen, Abhijit Sarkar, Science and Spirituality, Yoga, Vegetarian, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:07:00
 readingTime: 3

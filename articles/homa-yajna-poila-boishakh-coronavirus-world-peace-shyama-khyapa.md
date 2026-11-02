@@ -4,7 +4,7 @@ title: "Homa Yajna for World Peace on Poila Boishakh: Guru Shyama Khyapa's Praye
 breadcrumbTitle: "Homa Yajna Poila Boishakh Coronavirus World Peace"
 description: "On Bengali New Year (Poila Boishakh), Guru Shyama Khyapa performs a sacred Homa Yajna at Shanti Kunja Ashram for world peace during the coronavirus pandemic—urging human awareness as the true protection while warning of a coming economic crisis."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Homa Yajna, Poila Boishakh, Bengali New Year, coronavirus, pandemic, world peace, Shanti Kunja Ashram, Mahamrityunjaya Yajna, lockdown, economic crisis, Gita"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:26:00
 readingTime: 5

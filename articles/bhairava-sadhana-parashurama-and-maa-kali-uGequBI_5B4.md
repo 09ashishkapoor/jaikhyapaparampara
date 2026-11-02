@@ -4,7 +4,7 @@ title: "Bhairava Sadhana: Parashurama and Maa Kali"
 breadcrumbTitle: "Parashurama and Maa Kali"
 description: "Shri Praveen Radhakrishna explores the profound connection between Bhagavan Parashurama and Maa Kali — how Bhadrakali appeared before the most ferocious Vishnu Avatar, rendered his every weapon useless, and revealed herself as the Adi Shakti behind all of creation."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Parashurama, Maa Kali, Bhadrakali, Adi Shakti, Kamadhenu, Kerala, Dharma Raksha, Vishnu Tattva, Kali Yuga, Vanadurga"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-17 10:02:00
 readingTime: 10

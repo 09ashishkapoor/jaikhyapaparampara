@@ -4,7 +4,7 @@ title: "Predict the Future: Nimittha Shastra, Trikaal Darshan, and Bhairava Sadh
 breadcrumbTitle: "Nimittha Shastra and Trikaal Darshan"
 description: "Shri Praveen Radhakrishna reveals the Bhairava Sadhana technique of Nimittha Shastra — reading omens in daily life — and explains how silence, organic paths, and mastery of the three times (past, present, future) constitute the heart of Trikaal Darshan."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Nimittha Shastra, Trikaal Darshan, Dhumavati, Karma Yoga, Sadhana, omens, signs, organic path, Kula Devata, Dakshineshwar"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:45:00
 readingTime: 11

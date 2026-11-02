@@ -4,7 +4,7 @@ title: "Initiation (Deeksha): The Sacred Guru-Disciple Tradition"
 breadcrumbTitle: "Initiation Deeksha Guru Disciple Tradition"
 description: "Guru Shyama Khyapa discusses the profound tradition of spiritual initiation (Deeksha), the relationship between Guru and disciple, and why devotees seek his blessings."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Deeksha, initiation, Guru, disciple, Dada Ghatak, Prarabdha karma, Ramnarayan Ram, Balak Brahmachari, Sanatan India, Vivekananda, Ramakrishna"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:53:00
 readingTime: 7

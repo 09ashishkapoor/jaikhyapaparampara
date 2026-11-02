@@ -4,7 +4,7 @@ title: "One Goal, Different Paths: Gurudev and Dr. Amitabha Paul on Delta Plus"
 breadcrumbTitle: "Delta Plus Medical Spiritual Discussion"
 description: "Guru Shyama Khyapa and Dr. Amitabha Paul discuss the Delta Plus variant—its contagiousness, vaccination, symptoms, and why spiritual Homa rituals alongside medical science are needed to fight the virus."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Delta Plus, COVID-19, Dr Amitabha Paul, Homa, Vaccination"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:09:00
 readingTime: 10

@@ -4,7 +4,7 @@ title: "Special Announcement: Gurudev Not Seeing Visitors"
 breadcrumbTitle: "Gurudev Visitors Announcement"
 description: "A brief announcement that Gurudev fell ill before his scheduled start date for seeing visitors; the Divine Mother does not want him to see people yet. Updates will follow."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shantikunj, Visitors"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:07:00
 readingTime: 2

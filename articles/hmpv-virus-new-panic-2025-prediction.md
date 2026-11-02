@@ -4,7 +4,7 @@ title: "New Panic: HMPV Virus, 2025 Predictions, and the Coming Catastrophe"
 breadcrumbTitle: "HMPV Virus New Panic 2025 Prediction"
 description: "Guru Shyama Khyapa warns about the emerging HMPV virus, Baba Vanga's prophecy of 2025, and the possibility of a new biological war with devastating consequences."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, HMPV, Human Metapneumovirus, 2025 prediction, Baba Vanga, biological war, China, COVID-19, WHO, sun rise west"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:55:00
 readingTime: 6

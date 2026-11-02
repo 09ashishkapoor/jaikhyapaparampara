@@ -4,7 +4,7 @@ title: "Prophecy 2025: Signs of Great Disaster, Planetary Alignments, and the Ye
 breadcrumbTitle: "2025 Prophecy and Disaster Signs"
 description: "Guru Shyama Khyapa discusses ominous signs for 2025 including Saturn's transit to Pisces, planetary alignments, solar eclipse, wars, natural disasters, and Bhavishya Malika predictions."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, 2025 Prophecy, Bhavishya Malika, Saturn Transit, Solar Eclipse, Year of Mars, Natural Disasters, War, Planetary Alignment, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 8

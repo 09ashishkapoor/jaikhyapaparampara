@@ -4,7 +4,7 @@ title: "A Kali Temple at Home: The Secret Teaching of Adya Kali"
 breadcrumbTitle: "Kali Temple at Home"
 description: "Shri Praveen Radhakrishna explains why Adya Kali deliberately left Bengal after her peak presence there, and why her true instruction is to be worshipped privately at home — in your own asana — without rigid procedures or temple queues."
 keywords: "Shri Praveen Radhakrishna, Adya Kali, Kali Temple, Bhairava, Khyapa Parampara, Khepa Tradition, Bama Khepa, Tarapith, Home Worship, Asana, Kali at Home"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:33:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Why Are Sadhus Brutalized? Gurudev on Palghar and Pralay Warnings"
 breadcrumbTitle: "Sadhus, Palghar, and Pralay"
 description: "Gurudev responds to violence against sadhus, the Palghar lynching, and omens of Pralay, urging awareness and spiritual responsibility."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Sadhu, Palghar, Pralay, Coronavirus, Hindutva, Homa, Sadhus"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:59:05
 readingTime: 6

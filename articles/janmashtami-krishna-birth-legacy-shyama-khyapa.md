@@ -4,7 +4,7 @@ title: "Janmashtami: The Birth and Legacy of Lord Krishna - Guru Shyama Khyapa's
 breadcrumbTitle: "Krishna's Birth and Legacy"
 description: "Guru Shyama Khyapa narrates the complete story of Lord Krishna's birth, his childhood pastimes, the killing of Kansa, the Kurukshetra war, and the divine journey of Lord Jagannath's heart."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Janmashtami, Krishna, Kurukshetra, Jagannath, Vasudeva, Devaki, Kansa, Yashoda, Mahamaya, Bhagavad Gita"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:57:00
 readingTime: 4

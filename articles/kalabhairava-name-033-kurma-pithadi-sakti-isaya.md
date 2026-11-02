@@ -4,7 +4,7 @@ title: "Kalabhairava Name 33: Kurma-Pithadi-Sakti-Isaya - Meaning and Significan
 breadcrumbTitle: "Kurma-Pithadi-Sakti-Isaya"
 description: "English meaning and spiritual significance of Kurma-Pithadi-Sakti-Isaya, the 33rd name of Lord Kalabhairava: whose abode rests on Kurma and the primordial energies of Shakti."
 keywords: "Kurma-Pithadi-Sakti-Isaya, Kalabhairava name 33, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kurma-Pithadi-Sakti-Isaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

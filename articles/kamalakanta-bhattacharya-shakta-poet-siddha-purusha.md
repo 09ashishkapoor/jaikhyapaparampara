@@ -4,7 +4,7 @@ title: "Kamalakanta Bhattacharya: The Shakta Poet and Siddha Purusha of Bardhama
 breadcrumbTitle: "Kamalakanta Bhattacharya Shakta Poet"
 description: "Guru Shyama Khyapa shares the life story of Kamalakanta Bhattacharya, the great Tantric seeker and poet who stands as the second pillar after Ramprasad in Bengal's spiritual tradition."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kamalakanta Bhattacharya, Shakta poet, Siddha Purusha, Bardhaman, Ramprasad, Panchamundi, Kolaghat, King Tej Chandra"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:58:00
 readingTime: 6

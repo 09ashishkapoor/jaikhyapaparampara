@@ -4,7 +4,7 @@ title: "Is Ravana Really a Demon or a God? Guru Shyama Khyapa on Jagannath Mantr
 breadcrumbTitle: "Ravana Demon or God Discussion"
 description: "Guru Shyama Khyapa reveals Jagannath's seed mantra, explains the true meaning of Tantra, why Ravana was a great Brahmin, and how God has no specific form beyond all deities."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Jagannath Mantra, Ravana, Tantra, Beej Mantra, Spiritual Practice, God Form, Vedanta"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:46:00
 readingTime: 7

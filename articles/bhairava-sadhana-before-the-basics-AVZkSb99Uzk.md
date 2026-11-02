@@ -4,7 +4,7 @@ title: "Bhairava Sadhana: Before the Basics"
 breadcrumbTitle: "Before the Basics of Bhairava Sadhana"
 description: "Shri Praveen Radhakrishna explains the foundational mindset and prerequisites required before beginning Bhairava Sadhana, emphasizing karmic burning, procedural collapse, and the importance of Batuka Bhairava."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Bhairava Sadhana, Karma, Batuka Bhairava, Kali Yuga, Moksha, Ganesha"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:02:00
 readingTime: 4

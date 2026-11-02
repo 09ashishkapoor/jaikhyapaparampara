@@ -4,7 +4,7 @@ title: "Kalabhairava Name 69: Kali-Bhakta-Loka-Avara-Pradaya - Meaning and Signi
 breadcrumbTitle: "Kali-Bhakta-Loka-Avara-Pradaya"
 description: "English meaning and spiritual significance of Kali-Bhakta-Loka-Avara-Pradaya, the 69th name of Lord Kalabhairava, who grants blessings to the devotees of Goddess Kali."
 keywords: "Kali-Bhakta-Loka-Avara-Pradaya, Kalabhairava name 69, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kali-Bhakta-Loka-Avara-Pradaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

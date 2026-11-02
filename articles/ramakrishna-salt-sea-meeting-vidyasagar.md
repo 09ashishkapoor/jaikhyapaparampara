@@ -4,7 +4,7 @@ title: "Ramakrishna in the Salt Sea: A Meeting Between Two Great Souls"
 breadcrumbTitle: "Ramakrishna and Vidyasagar Meeting"
 description: "Guru Shyama Khyapa narrates the legendary encounter between Sri Ramakrishna Paramahamsa and Ishwar Chandra Vidyasagar, revealing their profound dialogue about Brahman, knowledge, and the path of renunciation."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Ramakrishna Paramahamsa, Vidyasagar, Brahman, Divine Knowledge, Vedas, Upanishads, Spiritual Realization, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:09:00
 readingTime: 14

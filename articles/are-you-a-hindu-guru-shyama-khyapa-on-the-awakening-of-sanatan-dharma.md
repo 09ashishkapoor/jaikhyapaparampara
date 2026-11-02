@@ -4,7 +4,7 @@ title: "Are You a Hindu? Guru Shyama Khyapa on the Awakening of Sanatan Dharma"
 breadcrumbTitle: "Hinduism's Awakening"
 description: "Guru Shyama Khyapa discusses the resurgence of Sanatan Dharma, the role of organizations like RSS and VHP, the transition into Satya Yuga, and the challenges facing Hinduism in modern India, emphasizing the true meaning of Hindutva."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Sanatan Dharma, Hinduism, Hindutva, RSS, VHP, BJP, Satya Yuga, Swami Vivekananda, Gyan Ganj, India, Hindu Rashtra, Narendra Modi, Mohan Bhagwat"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 13

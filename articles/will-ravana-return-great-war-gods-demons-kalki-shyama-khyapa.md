@@ -4,7 +4,7 @@ title: "Will Ravana Return? The Great War Between Gods and Demons - Guru Shyama 
 breadcrumbTitle: "Ravana Return and Kalki War"
 description: "Guru Shyama Khyapa discusses the return of Ravana, the coming of Kalki avatar, the seven immortals, and the great war between gods and demons prophesied for the end times."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Ravana, Kalki avatar, Chiranjivi, seven immortals, gods, demons, end times, prophecy, Vibhishana, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:41:00
 readingTime: 7

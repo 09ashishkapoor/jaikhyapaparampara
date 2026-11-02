@@ -4,7 +4,7 @@ title: "Ominous Signs at Jagannath Temple: Guru Shyama Khyapa Warns of Coming Di
 breadcrumbTitle: "Ominous Signs Jagannath Temple Warning"
 description: "Guru Shyama Khyapa, despite recovering from illness, warns of ominous signs at Jagannath Temple—vultures and crows on the flag signaling impending calamity in 2021-2022."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Jagannath Temple, Ominous Signs, Prophecy, Disaster, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:11:00
 readingTime: 5

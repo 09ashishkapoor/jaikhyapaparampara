@@ -4,7 +4,7 @@ title: "Akalipur Guhya Kali: The Secret Fierce Goddess of Birbhum"
 breadcrumbTitle: "Akalipur Guhya Kali Birbhum"
 description: "Guru Shyama Khyapa reveals the secrets of Akalipur Guhya Kali - the fierce goddess discovered during British rule, her connection to Maharaja Nandakumar, her serpent form, and why even Bama Khepa acknowledged her terrifying intensity."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Guru Shyama Khyapa, Akalipur Guhya Kali, Birbhum, Maharaja Nandakumar, Bama Khepa, Serpent Goddess, Takshak, Ananta Nag, Secret Kali, Guhyati Guhya"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:39:00
 readingTime: 3

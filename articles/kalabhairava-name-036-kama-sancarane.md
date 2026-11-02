@@ -4,7 +4,7 @@ title: "Kalabhairava Name 36: Kama-Sancarane - Meaning and Significance"
 breadcrumbTitle: "Kama-Sancarane"
 description: "English meaning and spiritual significance of Kama-Sancarane, the 36th name of Lord Kalabhairava: moving according to his own sovereign will."
 keywords: "Kama-Sancarane, Kalabhairava name 36, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kama-Sancarane meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

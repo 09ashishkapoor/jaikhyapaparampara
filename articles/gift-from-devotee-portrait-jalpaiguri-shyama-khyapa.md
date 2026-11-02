@@ -4,7 +4,7 @@ title: "Gurudev is a Gift from His Devotee: A Portrait from Jalpaiguri"
 breadcrumbTitle: "Gift From Devotee Portrait"
 description: "Guru Shyama Khyapa shares the touching story of a young girl from Jalpaiguri who drew his portrait after watching him on YouTube, never having seen him in person."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Portrait, Gift, Devotee, Samrita De, Jalpaiguri, Art, Drawing, Blessings"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:31:00
 readingTime: 1

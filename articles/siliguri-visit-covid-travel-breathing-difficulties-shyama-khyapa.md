@@ -4,7 +4,7 @@ title: "When Will Gurudev Visit Siliguri? Answers on COVID Travel and Health"
 breadcrumbTitle: "Siliguri Visit COVID Travel Health Concerns"
 description: "Guru Shyama Khyapa and Dulal Da address the earnest calls from Siliguri devotees asking when he will visit, explaining his breathing difficulties, COVID-19 third wave concerns, and why train and road travel are both currently challenging."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Siliguri, COVID-19, Third Wave, Covishield, Dulal Da, Devotees, Health, Travel"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 07:03:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Guddu Maharaj of Kashi Vishwanath Temple Visits Gurudev Shyama Khyapa"
 breadcrumbTitle: "Guddu Maharaj Visits Gurudev"
 description: "Guddu Maharaj, chief priest of the Saptarishi Aarti at Kashi Vishwanath Temple, visits Gurudev Shyama Khyapa. A spiritual meeting between two devotees of Lord Vishwanath and Maa Tara."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Guddu Maharaj, Kashi Vishwanath, Saptarishi Aarti, Temple Priest, Spiritual Meeting, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:40:00
 readingTime: 3

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 47: Karana-Adhipataye - Meaning and Significance"
 breadcrumbTitle: "Karana-Adhipataye"
 description: "English meaning and spiritual significance of Karana-Adhipataye, the 47th name of Lord Kalabhairava, Lord of causes and the source from which creation unfolds."
 keywords: "Karana-Adhipataye, Kalabhairava name 47, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karana-Adhipataye meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

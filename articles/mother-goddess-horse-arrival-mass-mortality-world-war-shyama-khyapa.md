@@ -4,7 +4,7 @@ title: "Mother Goddess Arrives on Horse: Gurudev Warns of Mass Mortality and Wor
 breadcrumbTitle: "Horse Arrival Warning and World War III"
 description: "Guru Shyama Khyapa and astrologer Santanu explain the ominous significance of Mother Goddess arriving and departing on a horse—predicting mass mortality, eight new viruses, and World War III in 2024-2025."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Horse Arrival, Mass Mortality, World War III, 2024 Predictions, Bhabishya Malika, Saturn, Mars, Bagalamukhi, Eight Viruses, Santanu"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:45:00
 readingTime: 12

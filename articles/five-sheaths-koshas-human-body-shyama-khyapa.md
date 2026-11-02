@@ -4,7 +4,7 @@ title: "The Five Sheaths of the Human Body: Wisdom from Guru Baba Shyama Khyapa"
 breadcrumbTitle: "Five Sheaths (Koshas)"
 description: "Explore the five koshas—Annamaya, Pranamaya, Manomaya, Vijnanamaya, and Anandamaya—and how they govern our physical, mental, and spiritual existence."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, Five Koshas, Annamaya Kosha, Pranamaya Kosha, Manomaya Kosha, Vijnanamaya Kosha, Anandamaya Kosha, human body science, spirituality, Sat-Chit-Ananda, Panchabhuta"
-category: "Philosophy"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27 11:25:00
 readingTime: 12

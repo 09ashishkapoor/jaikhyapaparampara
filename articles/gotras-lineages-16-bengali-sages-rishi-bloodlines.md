@@ -4,7 +4,7 @@ title: "Gotras: The 16 Sacred Lineages of Bengali Sages and Rishi Bloodlines"
 breadcrumbTitle: "Gotras 16 Bengali Sages Lineages"
 description: "Guru Shyama Khyapa explains the significance of Gotras in Bengali Hindu society, detailing 16 ancient sage lineages including Shiva, Kashyapa, Sandilya, Shakti, Vishnu, Brihaspati, and more."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gotras, Bengali Gotras, Rishi bloodlines, Shiva Gotra, Kashyapa Gotra, Sandilya Gotra, Shakti Gotra, Vishnu Gotra, Brihaspati Gotra, Parashara Gotra, Katyayana Gotra, Vishvamitra Gotra, Garga Gotra, Agastya Gotra, Mudgala Gotra, Alamman Gotra, Bharadwaja Gotra, Atri Gotra, Gautama Gotra, marriage traditions"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:34:00
 readingTime: 8

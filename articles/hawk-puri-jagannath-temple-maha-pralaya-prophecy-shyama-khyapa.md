@@ -4,7 +4,7 @@ title: "New Moon Signal — Hawk at Puri Jagannath Temple and the Coming Maha Pr
 breadcrumbTitle: "Hawk at Puri Temple and Prophecy"
 description: "Guru Shyama Khyapa explains the ominous sign of a hawk tearing the flag from the Puri Jagannath temple, connecting it to the Bhavishya Malika prophecies of the Great Apocalypse (Maha Pralaya) in 2025."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Puri Jagannath, hawk flag temple, Bhavishya Malika, Maha Pralaya, 2025 apocalypse, Kalki Avatar, Hanuman, Dwarka, prophecy"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 06:52:00
 readingTime: 6

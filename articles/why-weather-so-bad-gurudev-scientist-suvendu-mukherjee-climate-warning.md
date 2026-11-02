@@ -4,7 +4,7 @@ title: "Why Is the Weather So Bad? Gurudev and Scientist Suvendu Mukherjee on Cl
 breadcrumbTitle: "Why Weather Is So Bad"
 description: "Gurudev and meteorologist Suvendu Mukherjee discuss heatwaves, climate disruption, urban heat islands, cyclones, and the long-term risk to human civilization. The dialogue warns that nature's balance is breaking under human action."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, climate change, global warming, heatwave, cyclone, Kolkata, urban heat island, Suvendu Mukherjee"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:59:07
 readingTime: 10

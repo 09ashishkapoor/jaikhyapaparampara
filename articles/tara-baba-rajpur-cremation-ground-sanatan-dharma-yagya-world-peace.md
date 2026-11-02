@@ -4,7 +4,7 @@ title: "Tara Baba at Rajpur Cremation Ground: Sanatan Dharma Yagya for Peace"
 breadcrumbTitle: "Tara Baba Yagya for Peace"
 description: "Gurudeb Shyamakshapa Baba speaks with Tara Baba about Kamakhya Tantra, the Rajpur cremation ground, and a Sanatan Dharma Yagya for world peace. The interview explores why the rituals are being performed and the role of saints in Kalyug."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tara Baba, Kamakhya, Mayong, Assam, Sanatan Dharma, Yagya, Havan, Rajpur cremation ground, Mahamrityunjaya Yagya, Kalyug, Hindutva, Guru Gorakhnath, world peace"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:49:00
 readingTime: 5

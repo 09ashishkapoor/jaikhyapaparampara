@@ -4,7 +4,7 @@ title: "Bhairava–Kali Sadhana for Grihasthas: Maya of Kali and Difficulties"
 breadcrumbTitle: "Kali Sadhana for Grihasthas"
 description: "Shri Praveen Radhakrishna explains what it truly means to approach Ma Kali as a householder, why she is deeply misunderstood, and why Bhairava Sadhana is the indispensable pedestal for moving toward Kali."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Ma Kali, Mahakali, Adi Shakti, Grihastha, Ishta, Sadhana, Jiva, Alangaram, Digambara Rupam, Abhaya Mudra, Prana Shakti, Kundalini Shakti, Dasha Mahavidyas, Gupta Vidya, Krodha Bhairava, Chhinnamasta"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:20:00
 readingTime: 7

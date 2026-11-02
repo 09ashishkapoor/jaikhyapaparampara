@@ -4,7 +4,7 @@ title: "Seven Seas and Thirteen Rivers: The Internal and External Mystery Explai
 breadcrumbTitle: "Seven Seas and Thirteen Rivers"
 description: "Guru Shyama Khyapa reveals the profound mystery of the seven seas and thirteen rivers—how they exist both within the human body and in the external world, and their significance in Durga Puja rituals."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Seven Seas, Thirteen Rivers, Sapta Sagar, Viroja River, Maha Snan, Durga Puja, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:15:00
 readingTime: 4

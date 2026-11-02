@@ -4,7 +4,7 @@ title: "Amritvahani Will Never Be Satisfied: Gurudev on Mother Ganga"
 breadcrumbTitle: "Amritvahani Will Never Be Satisfied"
 description: "Gurudev Shyama Khyapa explains why the Ganges and Godavari remain holy Amritvahini rivers, retells Bhagirath’s pilgrimage, and urges every seeker to guard the sacred flow as sages keep it pure."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Ganges, Godavari, Bhagirath, Trikut Kumbhak, Gangasagar, Spiritual Purity, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:41:10
 readingTime: 7

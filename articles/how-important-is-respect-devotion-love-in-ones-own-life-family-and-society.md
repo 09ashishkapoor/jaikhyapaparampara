@@ -4,7 +4,7 @@ title: "How Important is Respect, Devotion, Love, in One's Own Life, Family, and
 breadcrumbTitle: "Importance of Respect, Devotion, and Love"
 description: "Guru Shyama Khyapa discusses the declining values of respect, devotion, and love in modern society, emphasizing their importance and how they have become superficial."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, respect, devotion, love, spiritual values, modern society"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:17:00
 readingTime: 8

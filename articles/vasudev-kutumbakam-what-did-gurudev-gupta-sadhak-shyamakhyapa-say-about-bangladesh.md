@@ -4,7 +4,7 @@ title: "Vasudev Kutumbakam | What did Gurudev Gupta Sadhak Shyamakhyapa say abou
 breadcrumbTitle: "Vasudev Kutumbakam - Gurudev on Bangladesh"
 description: "Guru Shyama Khyapa responds to a follower from Bangladesh, emphasizing universal blessings and spiritual unity, sharing stories of devotees and the spiritual heritage of Bangladesh."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bangladesh, Vasudev Kutumbakam, universal blessings, spiritual unity"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:23:00
 readingTime: 4

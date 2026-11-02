@@ -4,7 +4,7 @@ title: "The Coming Calamities of 2023: Earthquakes, Epidemics, and the Bhabishya
 breadcrumbTitle: "2023 Predictions and Prophecies"
 description: "Gurudev reveals alarming predictions for 2023 from the ancient Bhabishya Malika, including catastrophic earthquakes at Kedar-Badri, a deadly epidemic, food shortages, and the need for spiritual protection."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, 2023 predictions, Bhabishya Malika, Kedar-Badri, prophecy, disasters, COVID, Kali Yuga"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 14:02:00
 readingTime: 13

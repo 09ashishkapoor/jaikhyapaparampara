@@ -4,7 +4,7 @@ title: "The Difference Between a Sadhu and a Sadhak: Guru Shyama Khyapa Explains
 breadcrumbTitle: "Sadhu vs Sadhak"
 description: "Guru Shyama Khyapa elucidates the profound distinction between a Sadhu and a Sadhak, detailing the rigorous spiritual path, unique lifestyle, and inner experiences of true Sadhaks, including their ability to sustain themselves internally and their ultimate goal of divine vision."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Sadhu, Sadhak, Sanyas, Viraja Homa, Spiritual Practice, Renunciation, Subtle Body, Divine Vision, Ramprasad, Bamdeb Baba, Trailanga Swami, Onkarnath Thakur, Japa, Tapa, Meditation, Panchabhuta, Uttarkashi"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 9

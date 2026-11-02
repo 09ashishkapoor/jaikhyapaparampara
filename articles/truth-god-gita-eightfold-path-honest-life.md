@@ -4,7 +4,7 @@ title: "Truth is God: The Gita's Message on Honesty and the Eightfold Path by Gu
 breadcrumbTitle: "Truth God Gita Eightfold"
 description: "Guru Shyama Khyapa teaches that truth and God are inseparable, explaining how deception prevents spiritual progress and sharing the wisdom of Buddha's Eightfold Path for living an honest, virtuous life."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gita truth, eightfold path, Buddha teaching, honesty, spiritual wisdom"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:48:00
 readingTime: 9

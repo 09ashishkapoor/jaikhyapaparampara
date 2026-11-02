@@ -4,7 +4,7 @@ title: "The Radiant Life of Mother Anandamayi: From Nirmala to the Mother of the
 breadcrumbTitle: "Mother Anandamayi"
 description: "Guru Shyama Khyapa recounts the full divine story of Mother Anandamayi, her miraculous birth in Bangladesh, her spiritual marriage to Ramani Mohan, and her 86-year legacy of divine bliss and spiritual power."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mother Anandamayi, Nirmala Sundari, Kankhal, Dehradun, Spiritual Marriage, Divine Bliss, Indira Gandhi, Daksha Yajna, Saints of India"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 25

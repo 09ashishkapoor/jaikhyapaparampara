@@ -4,7 +4,7 @@ title: "Vijaya Dashami: The Rituals and Essence of Bijoya Dashami"
 breadcrumbTitle: "Vijaya Dashami Rituals and Essence"
 description: "Guru Shyama Khyapa explains the rituals of Dashami—Rahu Ketu Tarpana, Dadhikarma, Sutokata, immersion, Aparajita Puja, and the tradition of writing Durga's name—and reflects on modern Durga Puja practices."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Vijaya Dashami, Bijoya Dashami, Durga Puja, Rahu Ketu, Aparajita Puja, Immersion"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:02:00
 readingTime: 8

@@ -4,7 +4,7 @@ title: "Markandeya Muni: The Sage Who Conquered Death - Guru Shyama Khyapa and D
 breadcrumbTitle: "Markandeya Muni Conquered Death"
 description: "Guru Shyama Khyapa and disciple Haldar Saheb reveal the extraordinary story of Markandeya Muni, who lived through seven Kalpas by the grace of Mahamrityunjaya and Lord Shiva's blessing."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Markandeya Muni, Mahamrityunjaya, Shiva, Yama, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:10:00
 readingTime: 6

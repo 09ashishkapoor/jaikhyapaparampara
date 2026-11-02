@@ -4,7 +4,7 @@ title: "The Making of a Dharmic Man: The Warrior Made by Devi and the Secret of 
 breadcrumbTitle: "The Dharmic Man Made by Devi"
 description: "Shri Praveen Radhakrishna reveals Devi's grand design in transforming Mahavishnu from Parashurama to Sri Rama — and how this cosmic PHATT moment teaches that no man can embody true Dharma without first embracing and worshipping femininity."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Parashurama, Sri Rama, Ma Sita, Mahavishnu, Dharma, Dakshineshwar, Brihannala, Arjuna, Panchali, Kali Yuga, Bow and Arrow"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:46:00
 readingTime: 12

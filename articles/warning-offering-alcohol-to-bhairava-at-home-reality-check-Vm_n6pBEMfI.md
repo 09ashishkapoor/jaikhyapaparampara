@@ -4,7 +4,7 @@ title: "Warning: Offering Alcohol to Bhairava at Home — Reality Check"
 breadcrumbTitle: "Offering Alcohol to Bhairava: The Truth"
 description: "Shri Praveen Radhakrishna delivers a direct teaching on the true meaning and sacred contract behind offering Karan (alcohol) or jaggery water to Kala Bhairava at home. He explains what is actually being surrendered, the vow that gets initiated the moment you begin, and the strict conditions required — including a strong warning for those not ready."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Kala Bhairava, Vatuka Bhairava, offering to Bhairava, Karan offering, Tamasic Guna, Shunyata, Bhairava Sadhana, Smashan Kali, Neelakantha, jaggery water, ritual offering"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:15:00
 readingTime: 8

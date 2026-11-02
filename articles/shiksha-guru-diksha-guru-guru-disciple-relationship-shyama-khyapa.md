@@ -4,7 +4,7 @@ title: "Shiksha Guru vs Diksha Guru: Understanding the Guru-Disciple Relationshi
 breadcrumbTitle: "Shiksha Guru and Diksha Guru"
 description: "Guru Shyama Khyapa explains the difference between Shiksha Guru (teacher) and Diksha Guru (spiritual initiator), the meaning of Guru, and the sacred bond between Guru and disciple."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shiksha Guru, Diksha Guru, guru, disciple, initiation, mantra, spiritual teacher, education, Narayan"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:20:00
 readingTime: 4

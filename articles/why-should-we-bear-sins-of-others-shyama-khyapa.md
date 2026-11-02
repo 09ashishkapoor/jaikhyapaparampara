@@ -4,7 +4,7 @@ title: "Why Should We Bear the Sins of Others?"
 breadcrumbTitle: "Sins and Justice"
 description: "Guru Baba Shyama Khyapa discusses the burden of sins, divine justice, and the importance of protesting against injustice in society."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Baba Shyama Khyapa, Sins, Divine Justice, Karma, Bamakhepa, Protesting Injustice, Spirituality, Politics"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27
 readingTime: 15

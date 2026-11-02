@@ -4,7 +4,7 @@ title: "Kalabhairava Name 37: Kama-Araye - Meaning and Significance"
 breadcrumbTitle: "Kama-Araye"
 description: "English meaning and spiritual significance of Kama-Araye, the 37th name of Lord Kalabhairava: destroyer of desire and the illusions born from Kama."
 keywords: "Kama-Araye, Kalabhairava name 37, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kama-Araye meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

@@ -4,7 +4,7 @@ title: "Kakaradi Kali Sahasranama in English: Names 556-666 with One-Line Meanin
 breadcrumbTitle: "Kakaradi Kali Sahasranama Names 556-666"
 description: "Read names 556-666 of the Kakaradi Kali Sahasranama in English, with simple one-line devotional meanings for Kali japa, prayer, mantra study, and contemplation."
 keywords: "Kakaradi Kali Sahasranama in English, Kakārādi Kali Sahasranama, Kali Sahasranama names with meaning, Kali 1000 names English meaning, Maa Kali names, Kali namavali, Kali devotional meanings, Kamarupa Kali, Kamakhya Kali, Kashi Kali, Kālabhairava Kali names, Kakaradi Kali names 556-666"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "KaliPutra-Ashish"
 date: 2026-04-26
 readingTime: 14

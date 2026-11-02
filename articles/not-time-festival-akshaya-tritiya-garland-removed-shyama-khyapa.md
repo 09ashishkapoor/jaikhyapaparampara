@@ -4,7 +4,7 @@ title: "This Is Not the Time for Any Festival: Gurudev Removes the Garland"
 breadcrumbTitle: "Not Time for Festival"
 description: "On Akshaya Tritiya during the devastating COVID second wave, Guru Shyama Khyapa removes his garland and declares the day inauspicious, unable to celebrate while young lives are being lost to the pandemic."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Akshaya Tritiya, COVID, Pandemic, Second Wave, Oxygen, Death, Inauspicious, Garland, Compassion, Gargidi"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:59:00
 readingTime: 3

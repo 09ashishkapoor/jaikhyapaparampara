@@ -4,7 +4,7 @@ title: "Can a Gupta Sadhak Preach Publicly? Guru Shyama Khyapa Explains the Bala
 breadcrumbTitle: "Gupta Sadhak Secret Practice and Public Outreach"
 description: "Guru Shyama Khyapa answers Dr. Niranjan Bhattacharjee's question on how a secret practitioner can engage in public education—revealing that his inner Gupta Sadhana never stops even while surrounded by people, that seed mantras are never shared, and that he spiritually follows his disciple walking to Kamakhya on foot."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gupta Sadhana, secret knowledge, Gupta Vidya, Tarapith, Bamdev Baba, Tara, public outreach, seed mantra, Kamakhya, Pagla Baba"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:29:00
 readingTime: 6

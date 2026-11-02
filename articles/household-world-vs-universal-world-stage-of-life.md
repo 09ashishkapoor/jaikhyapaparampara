@@ -4,7 +4,7 @@ title: "Household World vs Universal World: Gurudev on the Stage of Life"
 breadcrumbTitle: "Household vs Universal World"
 description: "Gurudev explains the household world and the universal world, using Shakespeare's stage metaphor while discussing sadhaks, cosmic forces, and Gyanganj."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shakespeare, universal world, household world, sadhak, Gyanganj, Rabindranath Tagore, Netaji Subhash Chandra Bose, Swami Vivekananda, Dwadash Surya, solar energy"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 00:01:00
 readingTime: 14

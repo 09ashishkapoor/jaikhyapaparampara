@@ -4,7 +4,7 @@ title: "Miracles Still Happen Today: Pushpak's Miraculous Encounter with Maa Tar
 breadcrumbTitle: "Miracles Today, Maa Tara"
 description: "Pushpak Chatterjee from Barrackpore shares his vision of Maa Tara—the child with hibiscus garland who gave him Gurudev's name and number—and Guru Shyama Khyapa's response."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Maa Tara, Tarapith, Miracle, Vision, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:30:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "Jap Mala (Prayer Beads): Guidance from Bamdeb Baba"
 breadcrumbTitle: "Jap Mala Guidance"
 description: "Guru Shyama Khyapa explains the spiritual rules of Jap Mala, the merits of different beads, and proper chanting discipline as taught by Bamdeb Baba. The conversation covers purification, secrecy of mantra, and guidance for children."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jap Mala, Prayer Beads, Japa, Rudraksha, Conch, Lotus Seeds, Crystal, Pearl, Gold Beads, Mantra Secrecy, Bamdeb Baba"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:59:00
 readingTime: 5

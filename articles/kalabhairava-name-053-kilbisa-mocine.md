@@ -4,7 +4,7 @@ title: "Kalabhairava Name 53: Kilbisa-Mocine - Meaning and Significance"
 breadcrumbTitle: "Kilbisa-Mocine"
 description: "English meaning and spiritual significance of Kilbisa-Mocine, the 53rd name of Lord Kalabhairava, praised as the remover of sin and the liberator from moral fault."
 keywords: "Kilbisa-Mocine, Kalabhairava name 53, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kilbisa-Mocine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

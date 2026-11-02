@@ -4,7 +4,7 @@ title: "Kalabhairava Name 22: Kali-Kalavatii-Diiksa-Samskaaropasanapriyaya - Mea
 breadcrumbTitle: "Kali-Kalavatii-Diiksa-Samskaaropasanapriyaya"
 description: "English meaning and spiritual significance of Kali-Kalavatii-Diiksa-Samskaaropasanapriyaya, the 22nd name of Lord Kalabhairava: delighting in initiation, purification, and worship on the path of Kali."
 keywords: "Kali-Kalavatii-Diiksa-Samskaaropasanapriyaya, Kalabhairava name 22, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kali-Kalavatii-Diiksa-Samskaaropasanapriyaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

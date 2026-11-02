@@ -4,7 +4,7 @@ title: "Ma Shodashi and Kamakhya: The Third Mahavidya - Guru Shyama Khyapa's Tea
 breadcrumbTitle: "Ma Shodashi - Kamakhya Temple"
 description: "Guru Shyama Khyapa reveals the secrets of Ma Shodashi (Kamakhya), the 16-syllable mantra, conquering lust, Kumari Puja, and the power of Mercury at the sacred Kamakhya Temple."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Shodashi, Kamakhya, Dasha Mahavidya, Kumari Puja, Mercury, Budh, Tantra, Kameshwari, Tripura Sundari, Ambubachi, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:58:00
 readingTime: 11

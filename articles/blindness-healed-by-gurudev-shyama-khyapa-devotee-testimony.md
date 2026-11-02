@@ -4,7 +4,7 @@ title: "Blindness Healed by Gurudev Shyama Khyapa: A Devotee's Testimony"
 breadcrumbTitle: "Blindness Healed by Gurudev"
 description: "A devotee shares how her cataract blindness was healed after Gurudev's blessing and surgery, and Gurudev reflects on the joy of restoring sight."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, blindness healed, cataracts, Gurudev blessing, diksha, Nethralaya, miracle, devotees"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:01:00
 readingTime: 4

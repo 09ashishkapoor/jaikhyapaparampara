@@ -4,7 +4,7 @@ title: "The Mystery of Vibhuti: Holy Ash from Homa Rituals and Its Healing Power
 breadcrumbTitle: "Vibhuti Mystery Holy Ash Healing"
 description: "Guru Shyama Khyapa explains the scientific and spiritual significance of Vibhuti (holy ash) from Homa rituals, its healing properties, and the transformative power of Mahamrityunjaya Homa."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Vibhuti, holy ash, Homa, Mahamrityunjaya, Bael wood, Sandalwood, Bhurja, healing, carbon, phosphorus, calcium, potassium, oxygen, neem leaves, turmeric, skin diseases, 1000 days Homa, Jagannath Temple, Kashi Vishwanath"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:37:00
 readingTime: 5

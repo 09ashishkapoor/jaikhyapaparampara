@@ -4,7 +4,7 @@ title: "Kalabhairava Name 88: Kahala-Adi-Maha-Vaadya-Atala-Taandava-Laalasaya - 
 breadcrumbTitle: "Kahala-Adi-Maha-Vaadya-Atala-Taandava-Laalasaya"
 description: "English meaning and spiritual significance of Kahala-Adi-Maha-Vaadya-Atala-Taandava-Laalasaya, the 88th name of Lord Kalabhairava, who delights in the great tandava of dissolution accompanied by mighty instruments."
 keywords: "Kahala-Adi-Maha-Vaadya-Atala-Taandava-Laalasaya, Kalabhairava name 88, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kahala-Adi-Maha-Vaadya-Atala-Taandava-Laalasaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

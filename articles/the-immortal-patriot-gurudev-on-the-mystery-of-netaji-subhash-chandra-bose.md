@@ -4,7 +4,7 @@ title: "The Immortal Patriot: Gurudev on the Mystery of Netaji Subhash Chandra B
 breadcrumbTitle: "Living Mystery of Netaji"
 description: "Gurudev shares profound spiritual insights into the mystery of Netaji Subhash Chandra Bose's disappearance, revealing his belief in Netaji's continued existence in Gyanganj and detailing an encounter through powerful tantric Dulal Bhattacharya."
 keywords: "Netaji Subhash Chandra Bose, Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gyanganj, Netaji Death Mystery, Dulal Bhattacharya, Spiritual Immortality, Indian Independence, Gandhi"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 32

@@ -4,7 +4,7 @@ title: "Best Wishes from Gurudev Shyama Khyapa on Poila Boishakh, Banglar Notun 
 breadcrumbTitle: "Poila Boishakh Wishes"
 description: "Gurudev Shyama Khyapa shares his thoughts on Poila Boishakh (Bengali New Year), the disappearing Bengali traditions, COVID-19 pandemic, and the significance of Akshaya Tritiya."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Poila Boishakh, Bengali New Year, COVID-19, Khyapa Parampara, Lakshmi Ganesh Puja"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 00:03:00
 readingTime: 5

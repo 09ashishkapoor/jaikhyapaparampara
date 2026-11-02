@@ -4,7 +4,7 @@ title: "Climate Change and Nature's Warning: A Discussion with Meteorologist Dr.
 breadcrumbTitle: "Climate Change Warning"
 description: "Guru Shyama Khyapa discusses climate change and environmental destruction with meteorologist Dr. Sujit Kar. They explore the causes of global warming, ozone depletion, and the warning signs that humanity is destroying nature."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Climate Change, Nature, Environment, Global Warming, Ozone, Pollution, Dr. Sujit Kar"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:16:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Sin and Virtue: Leave the Judgment to God"
 breadcrumbTitle: "Sin and Virtue - God Judges"
 description: "Guru Shyama Khyapa explains the nature of sin and virtue (Paap-Punya), why the pot of sin fills quickly while virtue accumulates slowly, and why judgment belongs only to God."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Sin and Virtue, Paap Punya, Karma, Service, Truth and Lies, Spiritual Wisdom"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:26:00
 readingTime: 4

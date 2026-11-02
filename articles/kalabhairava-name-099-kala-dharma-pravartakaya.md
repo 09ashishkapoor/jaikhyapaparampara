@@ -4,7 +4,7 @@ title: "Kalabhairava Name 99: Kala-Dharma-Pravartakaya - Meaning and Significanc
 breadcrumbTitle: "Kala-Dharma-Pravartakaya"
 description: "English meaning and spiritual significance of Kala-Dharma-Pravartakaya, the 99th name of Lord Kalabhairava, who sets the law of time and cosmic order in motion."
 keywords: "Kala-Dharma-Pravartakaya, Kalabhairava name 99, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Dharma-Pravartakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

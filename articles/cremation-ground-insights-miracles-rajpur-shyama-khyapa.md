@@ -4,7 +4,7 @@ title: "Cremation Ground Insights: Miracles and Untold Stories from Rajpur"
 breadcrumbTitle: "Cremation Ground Insights"
 description: "Guru Shyama Khyapa shares remarkable stories from his decades at Rajpur Mahashashan—healing miracles, encounters with wealthy factory owners, Tantric rituals, and his boundless compassion for the suffering."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Rajpur, Mahashashan, Cremation Ground, Miracles, Healing, Sagar Baba, Tantric, Kolabagan, PG Hospital, Tarapith"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:57:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Destiny Cannot Be Written and Refuted | Why Did Gurudev Say This?"
 breadcrumbTitle: "Destiny Cannot Be Written"
 description: "Gurudev discusses the nature of fate, destiny, and spirituality. Explains the concept of Bhagya Vidhata (Giver of Fate) and shares a profound story about fate's writing that cannot be erased."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, fate, destiny, Bhagya Vidhata, Shetra Puja, palmistry, astrology, spirituality"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:19:00
 readingTime: 4

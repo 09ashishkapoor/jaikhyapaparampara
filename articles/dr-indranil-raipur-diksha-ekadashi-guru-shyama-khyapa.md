@@ -4,7 +4,7 @@ title: "Dr. Indranil from Raipur Takes Initiation from Guru Shyama Khyapa on Eka
 breadcrumbTitle: "Doctor Raipur Initiation Ekadashi Guru Shyama Khyapa"
 description: "Dr. Indranil Chattopadhyay from Raipur, Chhattisgarh, travels to take initiation (Diksha) from Guru Shyama Khyapa on an auspicious Ekadashi day, sharing how YouTube videos and recurring dreams guided him to seek the Guru without needing to travel to the Himalayas."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Diksha, initiation, Ekadashi, Dr. Indranil, Raipur, Chhattisgarh, Prarabdha, devotee visit"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:39:00
 readingTime: 4

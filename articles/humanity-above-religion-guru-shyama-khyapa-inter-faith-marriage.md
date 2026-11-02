@@ -4,7 +4,7 @@ title: "Humanity Above Religion: Guru Shyama Khyapa on Inter-Faith Marriage and 
 breadcrumbTitle: "Humanity Above Religious Norms"
 description: "Guru Shyama Khyapa explains why he arranged a Hindu girl's marriage to a Christian man, revealing that humanity and compassion transcend religious boundaries and social conventions."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Inter-religious Marriage, Humanity, Religion, Lineage, Kultayg, Social Norms, Compassion"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:36:00
 readingTime: 5

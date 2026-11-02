@@ -4,7 +4,7 @@ title: "Kalabhairava Name 14: Kala-Kanthaya - Meaning and Significance"
 breadcrumbTitle: "Kala-Kanthaya"
 description: "English meaning and spiritual significance of Kala-Kanthaya, the 14th name of Lord Kalabhairava: the dark-throated one who bears the cosmic poison."
 keywords: "Kala-Kanthaya, Kalabhairava name 14, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Kanthaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

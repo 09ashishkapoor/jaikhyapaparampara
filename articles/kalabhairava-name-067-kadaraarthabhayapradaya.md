@@ -4,7 +4,7 @@ title: "Kalabhairava Name 67: Kadaraartha'Bhayapradaya - Meaning and Significanc
 breadcrumbTitle: "Kadaraartha'Bhayapradaya"
 description: "English meaning and spiritual significance of Kadaraartha'Bhayapradaya, the 67th name of Lord Kalabhairava, the giver of fearlessness in danger, hardship, and anxiety."
 keywords: "Kadaraartha'Bhayapradaya, Kalabhairava name 67, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kadaraartha'Bhayapradaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

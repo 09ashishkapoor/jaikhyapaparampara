@@ -4,7 +4,7 @@ title: "Totka: Easy Way to Remove Sorrows and Miseries — Secret Ascetic Shyama
 breadcrumbTitle: "Totka for Sorrows and Miseries"
 description: "Guru Shyama Khyapa shares folk remedies (totka): breaking Daridra Yoga by feeding black ants jaggery, strengthening a weak Sun with Bel root and Arghya, and the crow's twig (Kaker Kuti)."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Totka, Daridra Yoga, Sun remedy, Kaker Kuti, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:25:00
 readingTime: 4

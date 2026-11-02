@@ -4,7 +4,7 @@ title: "The Truth About Ambubachi: Science vs. Superstition"
 breadcrumbTitle: "Ambubachi Truths"
 description: "Guru Baba Shyama Khyapa debunks common myths about Ambubachi and explains its true scientific and spiritual significance as a period of honoring Mother Earth's cycle."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Ambubachi, Guru Baba Shyama Khyapa, Kamakhya, Mother Earth, Tantra, Science, Superstition, Rituals"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27
 readingTime: 18

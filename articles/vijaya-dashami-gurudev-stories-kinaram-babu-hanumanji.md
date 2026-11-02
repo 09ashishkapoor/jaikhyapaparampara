@@ -4,7 +4,7 @@ title: "Vijaya Dashami Wishes and Stories: Kinaram Babu and Hanumanji's Divine G
 breadcrumbTitle: "Vijaya Dashami Stories and Blessings"
 description: "Guru Shyama Khyapa shares sacred stories of Tulsidas, Kinaram Babu's miraculous power, and Hanumanji's devotion on Vijaya Dashami. A message of divine grace and true spiritual accomplishment."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Vijaya Dashami, Tulsidas, Kinaram Babu, Hanumanji, Kinaram Estate, Banaras, spiritual stories, Siddha Purushas, Shyamacharan Lahiri, divine vision, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 20:39:00
 readingTime: 12

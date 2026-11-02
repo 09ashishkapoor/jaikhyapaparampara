@@ -4,7 +4,7 @@ title: "COVID-19 Medical Insights: Dr. Nilanjan Bhattacharya of Ruby Hospital"
 breadcrumbTitle: "COVID-19 Medical Insights Doctor Interview"
 description: "Dr. Nilanjan Bhattacharya from Ruby Hospital provides practical medical guidance on COVID-19, explaining infectivity vs virulence, home treatment options, and the importance of following health protocols."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, COVID-19, Corona virus, Dr. Nilanjan Bhattacharya, Ruby Hospital, medical guidance, pandemic advice, health protocols, immune system"
-category: "Health & Wellness"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Dr. Nilanjan Bhattacharya"
 date: 2026-03-09 19:15:00
 readingTime: 5

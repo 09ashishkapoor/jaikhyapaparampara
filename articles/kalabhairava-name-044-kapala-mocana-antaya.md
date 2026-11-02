@@ -4,7 +4,7 @@ title: "Kalabhairava Name 44: Kapala-Mocana-Antaya - Meaning and Significance"
 breadcrumbTitle: "Kapala-Mocana-Antaya"
 description: "English meaning and spiritual significance of Kapala-Mocana-Antaya, the 44th name of Lord Kalabhairava, revered as the one who releases the burden of sin, ego, and delusion."
 keywords: "Kapala-Mocana-Antaya, Kalabhairava name 44, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kapala-Mocana-Antaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

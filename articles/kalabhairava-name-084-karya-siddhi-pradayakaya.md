@@ -4,7 +4,7 @@ title: "Kalabhairava Name 84: Karya-Siddhi-Pradayakaya - Meaning and Significanc
 breadcrumbTitle: "Karya-Siddhi-Pradayakaya"
 description: "English meaning and spiritual significance of Karya-Siddhi-Pradayakaya, the 84th name of Lord Kalabhairava, who grants the successful completion of worthy undertakings."
 keywords: "Karya-Siddhi-Pradayakaya, Kalabhairava name 84, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karya-Siddhi-Pradayakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

@@ -4,7 +4,7 @@ title: "Living Bhairava: Bamakhepa — An Introduction to My Guru Parampara"
 breadcrumbTitle: "Bamakhepa: My Guru Parampara"
 description: "Shri Praveen Radhakrishna introduces his Guru Parampara through the life of his Paramaguru Bamakhepa, explaining how this divinely insane Tara Putra embodied the Bhairava Tattva and broke the Shastras to reveal the highest teaching of Adya Kali."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Bamakhepa, Bamdev, Ma Tara, Adya Maha Kali, Ma Tarini, Tara Peeth, Guru Parampara, Procedural Collapse, Khepa, Sadhana, Vairagya"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:05:00
 readingTime: 9

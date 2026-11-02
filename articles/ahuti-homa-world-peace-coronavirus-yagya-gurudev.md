@@ -4,7 +4,7 @@ title: "Ahuti (Homa) for World Peace and Stability: Gurudev's Yagya During the P
 breadcrumbTitle: "Homa for World Peace"
 description: "Gurudev Shyama Khyapa explains a special Yagya for world peace during the coronavirus pandemic, the use of neem and turmeric, and the importance of prayer and government guidelines."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Homa, Yagya, Ahuti, world peace, coronavirus, neem, turmeric, ritual fire, Vishweshwar"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:02:00
 readingTime: 3

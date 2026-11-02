@@ -4,7 +4,7 @@ title: "Pagla Baba's Pilgrimage to Kamakhya: A Journey of Devotion and Blessing"
 breadcrumbTitle: "Pagla Baba's Sacred Journey"
 description: "Witness the emotional departure of Pagla Baba as he begins his pilgrimage on foot to Kamakhya, blessed by Gurudev Shyama Khyapa and the devoted community at Shantikunj."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Pagla Baba, Kamakhya, pilgrimage, Mother Tara, Shantikunj, devotion, sacred journey, Khyapa Parampara, spiritual practice"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:01:00
 readingTime: 4

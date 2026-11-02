@@ -4,7 +4,7 @@ title: "Shani Dev Sadhana Tips: Bhairava, Maa Adya Kali, and the True Grace of S
 breadcrumbTitle: "Shani Dev Sadhana: Bhairava and Kali"
 description: "Shri Praveen Radhakrishna reveals the esoteric truth behind Shanishwara — his mythological birth from the Sun's own shadow, why rituals cannot please him, and how the path of Bhairava and Ma Kali is the only true Sadhana of Saturn."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Shanishwara, Shani Dev, Saturn Sadhana, Chaya Devi, Kali, Sade Sati, Ashtama Shani, Karma Yoga, blue collar workers, Adya Kali"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:55:00
 readingTime: 8

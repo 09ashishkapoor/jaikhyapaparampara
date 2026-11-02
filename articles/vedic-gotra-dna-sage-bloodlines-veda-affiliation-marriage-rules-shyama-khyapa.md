@@ -4,7 +4,7 @@ title: "Vedic Gotra as DNA: Sage Bloodlines, Veda Affiliation, and the Laws of M
 breadcrumbTitle: "Gotra DNA Sage Bloodlines Vedic Marriage"
 description: "Guru Shyama Khyapa explains how Vedic Gotras are the spiritual equivalent of DNA, descended from ancient sages. He details why knowing your Veda affiliation is essential for correct ritual mantras, why same-Gotra marriages cause genetic problems, and how this ancient system mirrors modern blood-type science."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gotra, DNA, Vedic Lineage, Bharadwaj, Rig Veda, Marriage Rules, Sanatan Dharma, Rishi"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 07:10:00
 readingTime: 6

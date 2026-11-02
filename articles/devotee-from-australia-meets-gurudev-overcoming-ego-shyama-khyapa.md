@@ -4,7 +4,7 @@ title: "Devotee from Australia Meets Guru Shyama Khyapa: Overcoming Ego"
 breadcrumbTitle: "Meeting Gurudev & Overcoming Ego"
 description: "A conversation with Minakshi Chakraborty, an expatriate from Australia, where Guru Shyama Khyapa discusses the importance of overcoming ego and instilling spiritual values in the youth."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Devotee from Australia, Minakshi Chakraborty, Overcoming Ego, Spiritual Initiation, Youth Guidance, Calling on God"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:56:00
 readingTime: 12

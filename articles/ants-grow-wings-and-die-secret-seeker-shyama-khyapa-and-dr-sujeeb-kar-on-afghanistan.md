@@ -4,7 +4,7 @@ title: "Ants Grow Wings and Die: Secret Seeker Shyama Khyapa and Dr. Sujeeb Kar 
 breadcrumbTitle: "Ants Grow Wings and Die"
 description: "Guru Shyama Khyapa and Dr. Sujeeb Kar discuss the Taliban takeover in Afghanistan, oppression of women, and the call for resistance and spiritual intervention."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shyama Khyapa, Afghanistan, Taliban, Oppression, Women, Spiritual Power"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 4

@@ -4,7 +4,7 @@ title: "2025 Predictions: The Year of Mars - Guru Shyama Khyapa's Prophetic Warn
 breadcrumbTitle: "2025 Predictions Year of Mars"
 description: "Guru Shyama Khyapa and disciples discuss ominous predictions for 2025, including the rare Purna Kumbh, wars, natural disasters, Saturn's transit, and the 'Year of Mars' with potential global conflicts."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, 2025 Predictions, Year of Mars, Purna Kumbh, Saturn Transit, War Prophecy, Bangladesh, Nuclear Threat, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:03:00
 readingTime: 9

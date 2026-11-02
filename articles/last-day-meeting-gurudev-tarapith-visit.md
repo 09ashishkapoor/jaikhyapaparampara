@@ -4,7 +4,7 @@ title: "Last Day Meeting Gurudev: A Visit to Tarapith During COVID"
 breadcrumbTitle: "Last Day Meeting Gurudev Tarapith"
 description: "Guru Shyama Khyapa meets with his devoted disciple Sourav Banerjee at Tarapith, discussing COVID precautions, plans for Homa rituals, and the Mother's divine pull."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tarapith, Sourav Banerjee, COVID-19, Mundamali tree, Homa, Pagla Baba, Mother's darshan, Pratap Panda"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:51:00
 readingTime: 4

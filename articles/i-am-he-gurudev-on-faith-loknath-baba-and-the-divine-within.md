@@ -4,7 +4,7 @@ title: "I Am He: The Divine Within - Faith, Loknath Baba, and the God Particle"
 breadcrumbTitle: "I Am He - Faith and Divinity"
 description: "Guru Shyama Khyapa explains the profound meaning of 'Soaham' (I am He) and the unshakable faith required for spiritual transformation. Learn about Loknath Baba's divine power, the God Particle, and how humans evolve into avatars through authentic spiritual practice."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Soaham, Loknath Baba, Faith, Devotion, Spiritual Power, Agya Chakra, Bhabapagla, Mother Tara, God Particle, Tantra, Divine Connection, Authenticity"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 19

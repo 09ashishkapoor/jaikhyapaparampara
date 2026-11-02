@@ -4,7 +4,7 @@ title: "What is the Future of the Wavering Student? - Guru Shyama Khyapa's Warni
 breadcrumbTitle: "Future of Wavering Student"
 description: "Guru Shyama Khyapa discusses the grim future of students in West Bengal's education system, the consequences of marks given without exams, and the impact on job prospects."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Education Crisis, Student Future, West Bengal, COVID-19, Exams, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 12:00:00
 readingTime: 8

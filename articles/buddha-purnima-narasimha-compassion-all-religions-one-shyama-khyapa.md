@@ -4,7 +4,7 @@ title: "Buddha Purnima: Guru Shyama Khyapa on Narasimha, Compassion, and All Rel
 breadcrumbTitle: "Buddha Purnima - All Religions One"
 description: "Guru Shyama Khyapa explains the significance of Buddha Purnima, how Buddha was an incarnation of Narayana, the story of Kisa Gautami, and why all religions lead to the same truth."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Buddha Purnima, Narasimha, Buddha, Compassion, All Religions One, Kisa Gautami, Prahlad, Lumbini"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:58:00
 readingTime: 7

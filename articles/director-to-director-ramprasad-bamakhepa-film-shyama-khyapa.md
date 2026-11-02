@@ -4,7 +4,7 @@ title: "Director to Director: Filming Ramprasad and Bamakhepa—The Hidden Dange
 breadcrumbTitle: "Director Filming Ramprasad Bamakhepa"
 description: "Film director Indrajit shares harrowing experiences of making spiritual biopics—mysterious illnesses, accidents, and deaths that plagued the cast and crew of Ramprasad and Bamakhepa."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Director, Film, Ramprasad, Bamakhepa, Arindam, Indrajit, Dangers, Spiritual, Consequences, Guillian-Barré"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:26:00
 readingTime: 5

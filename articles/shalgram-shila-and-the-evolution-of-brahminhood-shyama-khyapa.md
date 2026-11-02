@@ -4,7 +4,7 @@ title: "Shalgram Shila and the Evolution of Brahminhood"
 breadcrumbTitle: "Shalgram Shila & Brahminhood"
 description: "Guru Shyama Khyapa discusses the worship of the Shalgram Shila, the changing roles of Brahmins and Shudras in spiritual practices, and prophecies regarding the preservation of dharma."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shalgram Shila, Narayana Seva, Brahminhood, Shudras, Varna, Prophecy"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:55:00
 readingTime: 5

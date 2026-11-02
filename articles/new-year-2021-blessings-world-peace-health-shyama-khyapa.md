@@ -4,7 +4,7 @@ title: "New Year 2021 Blessings: Gurudev's Prayer for World Peace and Health"
 breadcrumbTitle: "New Year 2021 Blessings and Prayer"
 description: "Guru Shyama Khyapa shares New Year 2021 blessings, explains Bengali calendar vs English year, and describes peace missions to Kamakhya, Narmada, and Kashi Vishwanath for world peace and disease-free humanity."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, New Year 2021, World Peace, Homa, Kamakhya, Narmada, Kashi Vishwanath, Coronavirus, Dondi Ritual, Bengali Calendar, Pohela Boishakh"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:49:00
 readingTime: 7

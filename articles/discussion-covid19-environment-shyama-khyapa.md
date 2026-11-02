@@ -4,7 +4,7 @@ title: "Timely Message: A Discussion on COVID-19 and the Environment"
 breadcrumbTitle: "COVID and Environment Discussion"
 description: "Guru Shyama Khyapa engages in a discussion with Dr. S. Karanjay and environmentalist Sujit Kar regarding the COVID-19 pandemic, vaccines, and the looming environmental disasters in India."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, COVID-19, Environment, Vaccines, Dr Karanjay, Sujit Kar, Climate Change"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:51:00
 readingTime: 12

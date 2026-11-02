@@ -4,7 +4,7 @@ title: "Durga is the One Who is Invincible - Part 2"
 breadcrumbTitle: "Durga Invincible Part 2"
 description: "An in-depth exploration of Goddess Durga - covering Akal Bodhon, the significance of Navratri, the ten forms of Durga, Dasha Mahavidya, and the secrets of Tantric worship."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Durga, Navratri, Dasha Mahavidya, Tantra, Kali, Mahakali, Khyapa Parampara, Goddess Durga"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 00:00:00
 readingTime: 8

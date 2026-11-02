@@ -4,7 +4,7 @@ title: "Tantrics, Remember Your Past — Don't Lose Grip Now"
 breadcrumbTitle: "Tantrics Remember Your Past"
 description: "Shri Praveen Radhakrishna explains the true definition of Tantra as the technique to attain the state of Shiva — not worship — and teaches how Tantrics must face their *Ghrina* (disgust and hate) now to avoid being reborn into those very experiences they have rejected."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Tantra, Kali, Ghrina, Tantric Mind, Yogic Mind, Kaula Path, Brahma Tattva, Vishnu Tattva, Shiva Tattva, Vatuka Bhairava, Kali Yuga, Bama Khepa, Warrior Monk"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:37:00
 readingTime: 8

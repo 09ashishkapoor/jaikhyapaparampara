@@ -4,7 +4,7 @@ title: "The Sacred Pilgrimage to Reva: Gurudev's Narmada Parikrama"
 breadcrumbTitle: "Narmada Parikrama"
 description: "Guru Shyama Khyapa shares his spiritual journey to the Narmada River, the significance of the Reva chant, and his encounters with supernatural guardians like the monkeys of the Mother's Yantra."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Narmada River, Reva, Narmada Parikrama, Barfani Baba, Kapildhara, Dudhdhara, Spiritual Pilgrimage, Reva Chant"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 20

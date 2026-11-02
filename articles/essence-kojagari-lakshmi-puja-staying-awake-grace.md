@@ -4,7 +4,7 @@ title: "The Essence of Kojagari Lakshmi Puja: Staying Awake for the Mother's Gra
 breadcrumbTitle: "Kojagari Lakshmi Puja"
 description: "Guru Shyama Khyapa explains the meaning of 'Kojagari,' the traditions of Lakshmi Puja in East and West Bengal, and reflects on the tragic events that marked this year's Durga Puja."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kojagari Lakshmi Puja, West Bengal, East Bengal, Tarapith, Mahalakshmi, Advaita, Dvaita, Durga Puja Tragedy, Jalpaiguri, Kalyani Twin Towers"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:30:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "The Life and Journey of a Sadhak: From Struggling Priest to World-Renown
 breadcrumbTitle: "Life Journey of a Sadhak"
 description: "Guru Shyama Khyapa shares an intimate account of his 35-year spiritual journey—from a young priest performing rituals for survival, to establishing a flourishing export business, to receiving a divine dream that led him to abandon everything and embrace intense cremation ground sadhana. Discover how personal sacrifice, unwavering faith, and divine grace transformed him into a globally respected spiritual master."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Life Journey, Spiritual Path, Sadhana, Tantra Practice, Cremation Ground, Divine Vision, Kali Puja, Avatar, Spiritual Transformation, Divine Grace, Bhavishya Malika, Kali Yuga, Prophecy, Spiritual Discipline, Guru Stories, Transformation"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 22

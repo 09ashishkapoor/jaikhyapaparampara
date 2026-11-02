@@ -4,7 +4,7 @@ title: "Gurudev's Disciple Dr. Nilanjan Bhattacharya Takes COVID Vaccine Second 
 breadcrumbTitle: "Dr Nilanjan COVID Vaccine Second Dose"
 description: "In a candid conversation with Guru Shyama Khyapa, Doctor Nilanjan Bhattacharya shares his experience after receiving the second dose of the Covishield COVID-19 vaccine and discusses the current pandemic situation in West Bengal and the future of COVID vaccination."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, COVID-19, vaccine, Covishield, Dr Nilanjan Bhattacharya, West Bengal, second dose, herd immunity, pandemic, Covaxin, CoWIN"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:13:00
 readingTime: 3

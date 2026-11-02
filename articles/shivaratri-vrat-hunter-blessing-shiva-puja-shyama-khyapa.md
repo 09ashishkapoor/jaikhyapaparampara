@@ -4,7 +4,7 @@ title: "Shivaratri Vrat and the Hunter's Blessing: Guru Shyama Khyapa's Teaching
 breadcrumbTitle: "Shivaratri Vrat and Hunter's Blessing"
 description: "Guru Shyama Khyapa explains the proper methods of Shivaratri worship, the four prahar pujas, and the famous Puranic story of how a hunter unknowingly received Shiva's blessings."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Shivaratri, Maha Shivaratri, Shiva Puja, Bael Leaves, Hunter Story, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:40:00
 readingTime: 10

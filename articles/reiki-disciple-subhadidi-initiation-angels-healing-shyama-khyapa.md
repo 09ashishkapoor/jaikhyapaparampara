@@ -4,7 +4,7 @@ title: "Gurudev's Disciple Subhadidi on Reiki Healing — Initiation, Angels, an
 breadcrumbTitle: "Disciple Subhadidi on Reiki Healing"
 description: "Guru Shyama Khyapa's disciple Subhadidi, a Reiki specialist, shares the story of her spiritual initiation, how Reiki works through energy channels, Angels, and distance healing, with commentary from Gurudev on spiritual blessings and humanity."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Reiki, Subhadidi, initiation, Diksha, Angels, energy healing, Ida Pingala Sushumna, crystals, distance healing"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 06:53:00
 readingTime: 6

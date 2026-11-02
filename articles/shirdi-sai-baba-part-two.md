@@ -4,7 +4,7 @@ title: "Shirdi Sai Baba Part Two"
 breadcrumbTitle: "Shirdi Sai Baba Part 2"
 description: "Gurudev Shyama Khyapa discusses Shirdi Sai Baba, his connection to Dattatreya, the profound spiritual relationship between Sai Baba and Sri Ramakrishna, and the unity of all religions."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Sai Baba, Shirdi, Dattatreya, Ramakrishna, Spiritual Teachings, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 00:02:00
 readingTime: 4

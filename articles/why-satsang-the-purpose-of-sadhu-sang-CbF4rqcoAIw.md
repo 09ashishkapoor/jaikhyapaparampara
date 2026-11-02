@@ -4,7 +4,7 @@ title: "Why Satsang? Understanding the Spiritual Purpose of Sadhu Sang"
 breadcrumbTitle: "Why Satsang? The Purpose of Sadhu Sang"
 description: "Shri Praveen Radhakrishna explains the true purpose of Satsang — not as a curriculum-driven workshop but as the sacred company of seekers that advances a Sadhaka from Shraddha all the way to Prema, the deepest state of union with the deity."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Satsang, Sadhu Sang, Shraddha, Bhakti, Prema, Anartha Nivritti, Nishtha, Ruchi, Ashakti, Bhava"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:26:00
 readingTime: 7

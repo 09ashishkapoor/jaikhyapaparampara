@@ -4,7 +4,7 @@ title: "Living as Bhairava: Adya Kalika, Alpha Mindset, and Preparing the Mind a
 breadcrumbTitle: "Living as Bhairava (Part 1)"
 description: "Shri Praveen Radhakrishna introduces Maa Adya Kalika as the vast Shakti that demands total inner alignment, and explains why accepting one’s birth design and embodying the body as yantra are prerequisites for any mantra to truly work."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Adya Kalika, Adya Kali, Shakti, Sadhana, Birth design, Identity crisis, Karma, Jiva, Mrityu Loka, Moksha, Yantra, Mantra, Garbhagriha, Hatha, Vairagya, Swarnakarshana Bhairava"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:28:00
 readingTime: 8

@@ -4,7 +4,7 @@ title: "Dashamahabidya Kali Part 1: The First and Last Wisdom"
 breadcrumbTitle: "Dashamahabidya Kali Part 1"
 description: "Guru Shyama Khyapa reveals the profound mysteries of Kali, the first of the Dasha Mahavidyas, her connection to the 51 Shakti Peethas, the story of Narayana's birth from Durga, and the origin of Ganesha worship."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Dasha Mahavidya, Kali, Kalighat, Shakti Peetha, Narayani, Ganesha, Durga, Tantra, Vamachar, Divyachar"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:44:00
 readingTime: 4

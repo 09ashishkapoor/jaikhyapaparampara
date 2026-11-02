@@ -4,7 +4,7 @@ title: "Guruma's Journey to Amrit Lok: Guidance for Disciples on Mourning"
 breadcrumbTitle: "Guruma's Passing and Disciple Duties"
 description: "Guru Shyama Khyapa announces Guruma's passing and provides guidance to initiated disciples on the three-day mourning period (ashoucha) and the rituals to be observed."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Guruma, Amrit Lok, ashoucha, mourning, disciples, initiation, cremation"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:30:00
 readingTime: 2

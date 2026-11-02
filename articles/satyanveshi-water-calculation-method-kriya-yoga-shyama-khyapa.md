@@ -4,7 +4,7 @@ title: "Satyanveshi: Gurudev's Water Calculation Method and Kriya Yoga for Seein
 breadcrumbTitle: "Satyanveshi - Water Calculation Method"
 description: "Guru Shyama Khyapa reveals his unique method of water calculation (Jal-Ganana) using a stone bowl to see future events, and explains the transition from Kali Yuga to Satya Yuga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Satyanveshi, Water Calculation, Kriya Yoga, Kali Yuga, Satya Yuga, Prophecy, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:19:00
 readingTime: 5

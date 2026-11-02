@@ -4,7 +4,7 @@ title: "Kalabhairava Name 104: Gosthastha-Bhairava-Agranye - Meaning and Signifi
 breadcrumbTitle: "Gosthastha-Bhairava-Agranye"
 description: "English meaning and spiritual significance of Gosthastha-Bhairava-Agranye, the 104th name of Lord Kalabhairava, honored as the foremost among Bhairavas and leader of Shiva's hosts."
 keywords: "Gosthastha-Bhairava-Agranye, Kalabhairava name 104, 108 names of Kalabhairava, Kalabhairava namavali meaning, Gosthastha-Bhairava-Agranye meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

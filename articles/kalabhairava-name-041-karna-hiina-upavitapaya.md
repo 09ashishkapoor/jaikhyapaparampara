@@ -4,7 +4,7 @@ title: "Kalabhairava Name 41: Karna-Hiina-Upavitapaya - Meaning and Significance
 breadcrumbTitle: "Karna-Hiina-Upavitapaya"
 description: "English meaning and spiritual significance of Karna-Hiina-Upavitapaya, the 41st name of Lord Kalabhairava, whose sacred thread at the ear signifies radical renunciation."
 keywords: "Karna-Hiina-Upavitapaya, Kalabhairava name 41, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karna-Hiina-Upavitapaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

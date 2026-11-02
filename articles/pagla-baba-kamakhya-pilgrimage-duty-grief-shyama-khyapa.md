@@ -4,7 +4,7 @@ title: "Pagla Baba's Kamakhya Pilgrimage and Gurudev's Teachings on Duty and Gri
 breadcrumbTitle: "Pilgrimage, Duty, and Grief"
 description: "Guru Shyama Khyapa discusses the spiritual merit of Pagla Baba's walking pilgrimage to Kamakhya, and shares profound insights on balancing personal grief with duty to serve others."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pagla Baba, Kamakhya, Pilgrimage, Spiritual Merit, Duty, Grief, Service"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:58:00
 readingTime: 4

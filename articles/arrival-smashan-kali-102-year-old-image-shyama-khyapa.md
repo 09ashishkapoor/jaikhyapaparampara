@@ -4,7 +4,7 @@ title: "The Arrival of Mother Shmashan Kali: A 102-Year-Old Divine Image Comes H
 breadcrumbTitle: "Arrival of Shmashan Kali - 102 Year Old Image"
 description: "Guru Shyama Khyapa receives a miraculous 102-year-old hand-painted image of Shmashan Kali discovered beneath a house foundation, and shares his overwhelming joy and the significance of this divine arrival."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Shmashan Kali, Ancient Image, Kali, Cremation Ground, Kazi Nazrul Islam, Boroda Prasad, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:20:00
 readingTime: 3

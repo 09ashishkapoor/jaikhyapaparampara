@@ -4,7 +4,7 @@ title: "The Power of Faith: How Guru Shyama Khyapa's Blessing Secured a Devotee'
 breadcrumbTitle: "Faith and Career Success"
 description: "Arpan Chatterjee shares how a simple phone call to Guru Shyama Khyapa led to his success in a difficult job interview at American Express and his subsequent visit to offer gratitude."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Arpan Chatterjee, Career Success, Faith, American Express, Spiritual Connection, Damodar Shila, Gratitude, Gurgaon, Behala"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:21:00
 readingTime: 6

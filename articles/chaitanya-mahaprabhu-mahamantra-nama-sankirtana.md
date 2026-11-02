@@ -4,7 +4,7 @@ title: "Chaitanya Mahaprabhu and the Mahamantra: The Power of Nama Sankirtana in
 breadcrumbTitle: "Chaitanya Mahamantra"
 description: "Guru Shyama Khyapa explains the life and teachings of Chaitanya Mahaprabhu, focusing on the supreme importance of the Mahamantra (Hare Krishna, Hare Rama) and Nama Sankirtana as the only path to liberation and peace in Kali Yuga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Chaitanya Mahaprabhu, Mahamantra, Hare Krishna, Nama Sankirtana"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:04:00
 readingTime: 8

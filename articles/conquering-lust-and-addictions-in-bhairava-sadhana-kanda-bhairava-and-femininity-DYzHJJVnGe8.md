@@ -4,7 +4,7 @@ title: "Conquering Lust and Addictions in Bhairava Sadhana: Kanda Bhairava and t
 breadcrumbTitle: "Conquer Lust"
 description: "Shri Praveen Radhakrishna explains why lust and addiction intensify as Prana rises in Bhairava Sadhana, why a seeker should not shame themselves as immoral, and how devotion matures when every woman is seen as Devi rather than as an object of desire."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Bhairava Sadhana, lust, addiction, Prana, Vatuka Bhairava, Kanda Bhairava, Cand Bhairava, Kali Yuga, morality, Ajnana, Devi, femininity, Ma Adhya, Adya Kali, Arunagirinathar, Kandan, Muruga, Saravana Bhava, self-control, detachment, discipline"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:38:00
 readingTime: 10

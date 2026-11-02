@@ -4,7 +4,7 @@ title: "Full of Sins: Greed as the Guru of Sins and the Selling of Education"
 breadcrumbTitle: "Greed, Sin, and Education Warning"
 description: "Guru Shyama Khyapa speaks on greed as the root of all sins, warns about those exploiting his name, and condemns the selling of education in West Bengal with references to Rabindranath Tagore."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, greed, sin, education, West Bengal, Rabindranath Tagore, Gopal story, Shantikunja"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:03:00
 readingTime: 5

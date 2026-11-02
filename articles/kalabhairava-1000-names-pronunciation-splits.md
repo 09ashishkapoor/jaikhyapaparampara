@@ -6,7 +6,7 @@ description: "Read 1000 names of Kalabhairava in English with chant-friendly pau
 metaTitle: "Kalabhairava 1000 Names in English with Pronunciation Splits"
 metaDescription: "A devotional list of 1000 Kalabhairava names with pause-based pronunciation splits and simple one-line meanings for chanting, japa, study, and contemplation."
 keywords: "Kalabhairava 1000 names, Kalabhairava sahasranama, Kala Bhairava 1000 names in English, Bhairava sahasranama meanings, Kalabhairava names pronunciation, Bhairava namavali, Kalabhairava devotional reading, Bhairava names with meaning"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "KaliPutra-Ashish"
 date: 2026-05-10
 readingTime: 70

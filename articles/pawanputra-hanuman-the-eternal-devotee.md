@@ -4,7 +4,7 @@ title: "Pawanputra Hanuman - The Eternal Devotee"
 breadcrumbTitle: "Pawanputra Hanuman"
 description: "Guru Shyama Khyapa shares stories and teachings about Hanuman, the eternal devotee of Lord Ram, explaining his powers, lineage, and presence in the world."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Hanuman, Pawanputra, Bajrangbali, Ramayana, Sankat Mochan"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:19:00
 readingTime: 6

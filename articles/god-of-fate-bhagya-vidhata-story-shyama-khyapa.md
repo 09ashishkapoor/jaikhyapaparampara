@@ -4,7 +4,7 @@ title: "The God of Fate: Bhagya Vidhata and the Unchangeable Law of Destiny"
 breadcrumbTitle: "God of Fate Bhagya Vidhata"
 description: "Guru Shyama Khyapa shares a profound story about the Provider of Destiny (Bhagya Vidhata), exploring whether destiny can be changed and how fate unfolds in human lives."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Bhagya Vidhata, God of Fate, Destiny, Setra Puja, Brahma Shapa, Tarapith, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:07:00
 readingTime: 6

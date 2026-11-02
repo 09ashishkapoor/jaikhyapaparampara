@@ -4,7 +4,7 @@ title: "Ashtavakra Muni: The Sage Born Crooked Who Mastered the Brahman"
 breadcrumbTitle: "Ashtavakra Muni Life Story Teachings"
 description: "Guru Shyama Khyapa recounts the remarkable life of Ashtavakra Muni—born with eight bends in his body due to his father's curse—who defeated the arrogant scholar Vandin in King Janaka's court, was healed in the Samanga River, and composed the immortal Ashtavakra Gita on Advaita Vedanta."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ashtavakra Muni, Ashtavakra Gita, King Janaka, Yajnavalkya, Vandin, Maharshi Kahola, Uddalaka, Advaita Vedanta, Suprabha, celibacy, Samanga River"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:14:00
 readingTime: 3

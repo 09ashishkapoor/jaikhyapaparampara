@@ -4,7 +4,7 @@ title: "Avoid Deception: Gurudev Shyama Khyapa's Warning About Fraud Using His N
 breadcrumbTitle: "Avoid Deception Warning"
 description: "Guru Shyama Khyapa exposes a fraud scheme where former associates are using his name to cheat devotees, taking money, and distributing medicines illegally. He warns everyone to be cautious and verify before trusting anyone claiming to represent him."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Fraud Warning, Deception, Shantikunj, Tantric Fraud, Money, Cheating, Devotees"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:15:00
 readingTime: 8

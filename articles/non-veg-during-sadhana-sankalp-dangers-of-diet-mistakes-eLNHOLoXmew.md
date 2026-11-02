@@ -4,7 +4,7 @@ title: "Non-Veg During Sadhana Sankalp? The Dangers of Diet Mistakes"
 breadcrumbTitle: "Non-Veg During Sadhana Sankalp"
 description: "Shri Praveen Radhakrishna tackles the persistent question of non-vegetarian diet during Sadhana Sankalp, explaining why forced diet suppression is spiritually counterproductive — and how the teaching of Sri Krishna reveals the true nature of Kali Yuga Sadhana."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Kali Sadhana, Sankalp, non-veg Sadhana, Adya Kali, Krishna Avatar, Kali Yuga, diet and spirituality, Vama Khepa"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:18:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "The Essence of Atma-Jnana and Brahma-Jnana: Guru Shyama Khyapa's Wisdom"
 breadcrumbTitle: "Atma-Jnana and Brahma-Jnana"
 description: "Guru Shyama Khyapa explains the profound concepts of Self-Knowledge (Atma-Jnana) and Divine Knowledge (Brahma-Jnana), the role of the Gita, and the path to spiritual enlightenment."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Atma-Jnana, Brahma-Jnana, Self-Knowledge, Divine Knowledge, Bhagavad Gita, Upanishads, Vedas, Kundalini, Chakras, Soham"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:05:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Kala Bhairava and Mahakal: What is the Difference?"
 breadcrumbTitle: "Kala Bhairava and Mahakal"
 description: "Shri Praveen Radhakrishna explains the profound difference between Mahakal, the latent potential energy of Time without Shakti, and Kala Bhairava, the dynamic energy infused with Shakti."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Mahakal, Kala Bhairava, Shakti, Shiva, Dasa Mahavidyas, Kalika, Tara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:01:00
 readingTime: 4

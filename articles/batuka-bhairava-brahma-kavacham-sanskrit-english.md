@@ -4,7 +4,7 @@ title: "Shri Batuka Bhairava Brahma Kavacham: Sanskrit Text & English Meaning"
 breadcrumbTitle: "Batuka Bhairava Brahma Kavacham"
 description: "Complete Shri Batuka Bhairava Brahma Kavacham with Sanskrit transliteration and plain English meaning side by side. Drawn from the Rudra Yamala Tantra, this text is presented for study and recitation."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Batuka Bhairava, Brahma Kavacham, Rudra Yamala, Bhairava mantra, kavacham Sanskrit English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "KaliPutra-Ashish"
 date: 2026-04-03
 readingTime: 12

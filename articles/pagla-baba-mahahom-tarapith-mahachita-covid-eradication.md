@@ -4,7 +4,7 @@ title: "Pagla Baba's Mahahom at Tarapith Mahachita for COVID-19 Eradication"
 breadcrumbTitle: "Pagla Baba Homa for COVID-19"
 description: "Guru Shyama Khyapa sends his disciple Pagla Baba to Tarapith to perform a powerful Mahahom on the sacred Mahachita (great funeral pyre) specifically to combat the COVID-19 pandemic, sharing his deep concerns about the global crisis."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Pagla Baba, Tarapith, Mahahom, Mahachita, COVID-19, Corona, Fire Ritual, World Peace, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:12:00
 readingTime: 4

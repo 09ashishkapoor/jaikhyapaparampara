@@ -4,7 +4,7 @@ title: "God is Pleased with One Who Does Their Own Work: Kakorid, Tarapith, and 
 breadcrumbTitle: "Kakorid Tarapith Crow Lore True Devotion"
 description: "Guru Shyama Khyapa explains the secret craft of Kakorid (Crow Lore) practiced near Tarapith, the famous story of the monk, the housewife, and the butcher, and why God is pleased with those who perform their own duty faithfully."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kakorid, Tarapith, Crow Lore, Amulet, Duty, Karma, Housewife Monk Butcher Story, Spiritual Teaching"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 06:59:00
 readingTime: 6

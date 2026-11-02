@@ -4,7 +4,7 @@ title: "Kalabhairava Name 40: Kriyadi-Koti-Diipakaya - Meaning and Significance"
 breadcrumbTitle: "Kriyadi-Koti-Diipakaya"
 description: "English meaning and spiritual significance of Kriyadi-Koti-Diipakaya, the 40th name of Lord Kalabhairava, who illumines the countless paths of action."
 keywords: "Kriyadi-Koti-Diipakaya, Kalabhairava name 40, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kriyadi-Koti-Diipakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

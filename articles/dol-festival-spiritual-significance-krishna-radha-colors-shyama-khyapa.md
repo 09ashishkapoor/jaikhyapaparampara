@@ -4,7 +4,7 @@ title: "Dol Festival: Spiritual Significance and Modern Distortions - Guru Shyam
 breadcrumbTitle: "Dol Festival Spiritual Meaning"
 description: "Guru Shyama Khyapa explains the true spiritual significance of Dol Purnima (Holi), how it was celebrated by Krishna and Radha, and how modern society has distorted it into a festival of alcohol and meat."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Dol Purnima, Holi, Krishna, Radha, festival of colors, spiritual significance, Kam, desire, six enemies of mind, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:40:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "To Gain Immortality: Gurudev on Being Worshipped While Alive"
 breadcrumbTitle: "Immortality and Worship"
 description: "Guru Shyama Khyapa reflects on people worshipping him while he is alive, the dangers of pride for a seeker, the power in his feet that blesses devotees, and what true immortality means."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, immortality, worship, pride, Siddhai, feet, Bhabapagla, Avatar"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:44:00
 readingTime: 6

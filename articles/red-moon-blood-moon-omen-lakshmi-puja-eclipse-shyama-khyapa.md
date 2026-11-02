@@ -4,7 +4,7 @@ title: "Red Moon: The Blood Moon Omen and the Coming Conflict"
 breadcrumbTitle: "Red Moon Blood Moon Omen"
 description: "Guru Shyama Khyapa warns about the ominous significance of the red blood moon during Lakshmi Puja and lunar eclipse—a sign of impending bloodshed and the difficult months ahead."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Red Moon, Blood Moon, Lunar Eclipse, Lakshmi Puja, Kojagari, Prophecy, Omen, Bloodshed"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:25:00
 readingTime: 4

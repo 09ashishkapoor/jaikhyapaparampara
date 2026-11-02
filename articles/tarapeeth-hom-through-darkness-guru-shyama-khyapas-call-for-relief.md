@@ -4,7 +4,7 @@ title: "Tarapeeth Hom Through Darkness: Guru Shyama Khyapa's Call for Relief"
 breadcrumbTitle: "Tarapeeth Hom for Relief"
 description: "The night Hom at Tarapeeth is described line by line as Gurudev's Pagla Baba tends the fire in silence, a ritual aimed at bringing relief to the world after Gurudev's single instruction."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Tarapeeth, Hom, Pagla Baba, Khyapa Parampara, World Relief, Crematorium, Spiritual Fire"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:56:00
 readingTime: 3

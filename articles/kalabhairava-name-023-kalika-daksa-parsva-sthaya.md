@@ -4,7 +4,7 @@ title: "Kalabhairava Name 23: Kalika-Daksa-Parsva-Sthaya - Meaning and Significa
 breadcrumbTitle: "Kalika-Daksa-Parsva-Sthaya"
 description: "English meaning and spiritual significance of Kalika-Daksa-Parsva-Sthaya, the 23rd name of Lord Kalabhairava: abiding at the right side of Goddess Kali."
 keywords: "Kalika-Daksa-Parsva-Sthaya, Kalabhairava name 23, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kalika-Daksa-Parsva-Sthaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

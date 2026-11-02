@@ -4,7 +4,7 @@ title: "Geopolitics, Spirituality, and Future Predictions"
 breadcrumbTitle: "Geopolitics and Future Predictions"
 description: "Guru Shyama Khyapa discusses the impossibility of a third world war, impending global food and water crises, China's predicted downfall through devastating earthquakes, and the protective role of spiritual masters from Gyanganj in guiding world events."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, geopolitics, third world war, food crisis, water crisis, China, earthquakes, Gyanganj, Netaji Subhash Chandra Bose, spiritual predictions, biological war, COVID-19"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 10

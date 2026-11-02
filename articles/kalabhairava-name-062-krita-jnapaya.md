@@ -4,7 +4,7 @@ title: "Kalabhairava Name 62: Krita-Jnapaya - Meaning and Significance"
 breadcrumbTitle: "Krita-Jnapaya"
 description: "English meaning and spiritual significance of Krita-Jnapaya, the 62nd name of Lord Kalabhairava, honored for divine deeds that uphold dharma and cosmic order."
 keywords: "Krita-Jnapaya, Kalabhairava name 62, 108 names of Kalabhairava, Kalabhairava namavali meaning, Krita-Jnapaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

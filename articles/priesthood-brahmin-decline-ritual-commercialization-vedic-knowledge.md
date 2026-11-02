@@ -4,7 +4,7 @@ title: "The Priest's Role: Commercialization of Rituals, Brahmin Decline, and Sa
 breadcrumbTitle: "Priesthood Rituals Brahmin Role"
 description: "Gurudev discusses the decline of priesthood in modern times, commercialization of rituals, the shortage of Brahmins, women entering priesthood, and predictions from the Bhagavatam about shifts in spiritual hierarchy."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, priesthood, Brahmins, rituals, Purohit, Shaligram Shila, Vedic knowledge"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 14:11:00
 readingTime: 11

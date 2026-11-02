@@ -4,7 +4,7 @@ title: "Mahashivratri: The Four Phases of Puja, Bael Leaves, and the Hunter's Mi
 breadcrumbTitle: "Mahashivratri Four Phases Puja Hunter"
 description: "Guru Shyama Khyapa explains the complete rituals of Mahashivratri, the four phases of worship (Ishan, Aghore, Bama, Sadyojata), and the famous story of the hunter who became a king."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mahashivratri, Shivratri, four phases, Ishan, Aghore, Bama, Sadyojata, Bael leaves, Bilva, hunter, Vyadh, Sadyojata story, Chamunda, Peepal tree"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:41:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Clarifying Mythology and Responding to Critics: Guru Shyama Khyapa's Fir
 breadcrumbTitle: "Clarifying Myths and Responding to Critics"
 description: "Guru Shyama Khyapa corrects a minor mythological error regarding Vasuki's parentage and delivers a stern warning to critics and those attempting to incite communal tension."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Vasuki, Kashyapa Muni, Kadru, Manasa Devi, Mythology Correction, Responding to Critics, Spiritual Warning, Communal Harmony"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:11:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "The Crisis in Child Education — Guru Shyama Khyapa and Headmaster Suji
 breadcrumbTitle: "Crisis in Child Education Today"
 description: "Guru Shyama Khyapa and Headmaster Dr. Sujit Kar discuss the alarming pressure on children in modern education, the loss of childhood, disconnection from nature, and the decline of humility and values."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, child education, children stress, Dr. Sujit Kar, modern schooling, childhood, parenting, nature, humility, Vidya dadati vinayam"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 06:48:00
 readingTime: 5

@@ -4,7 +4,7 @@ title: "Mother Annapurna's Unknown Story: Guru Shyama Khyapa on the Goddess Who 
 breadcrumbTitle: "Mother Annapurna Unknown Story"
 description: "Guru Shyama Khyapa reveals the hidden stories of Maa Annapurna, how Parvati feeds Mahadev in Kashi, and why worshipping her ensures you never lack food, clothing, or shelter."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Annapurna, Kashi, Varanasi, Mahadev, Shakti Peethas, Gyangunj, Kubera, Food Goddess"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:41:00
 readingTime: 6

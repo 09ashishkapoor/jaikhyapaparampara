@@ -4,7 +4,7 @@ title: "Batuka Swarnakarshana Bhairava: The Hero (Nayaka), the King of Samsara, 
 breadcrumbTitle: "Batuka Swarnakarshana Bhairava"
 description: "Shri Praveen Radhakrishna explains why Batuka Swarnakarshana Bhairava is the correct form for seekers living in *Samsara* with desires, how Kubera’s wealth is “borrowed,” and why one must go to the Source of wealth through Bhairava rather than getting trapped in karmic bargains and distractions."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Batuka Swarnakarshana Bhairava, Swarna Akarshana Bhairava, Kubera, Mahalakshmi, Dhanada, wealth, Samsara, karma, Fifth Head, Brahma, Mahadeva, Smashana, Nayaka"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:31:00
 readingTime: 6

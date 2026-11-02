@@ -4,7 +4,7 @@ title: "Duties of Common People in the Modern Age: Guru Shyama Khyapa's Prophecy
 breadcrumbTitle: "Modern Age Duties"
 description: "Guru Shyama Khyapa reveals the dire astrological predictions for the modern age, including widespread death, new diseases, natural disasters, economic collapse, and societal anarchy, urging people to find inner peace amidst the chaos."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Modern Age, Kali Yuga, Prophecy, Astrology, Kurukshetra, Coronavirus, Economic Collapse, Anarchy, Spiritual Peace, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 7

@@ -4,7 +4,7 @@ title: "Dol Purnima and the Blood Moon: Guru Shyama Khyapa's Prophetic Warnings"
 breadcrumbTitle: "Dol Purnima Blood Moon Prophecy"
 description: "Guru Shyama Khyapa discusses the significance of Dol Purnima (Holi) coinciding with a Blood Moon eclipse, warning of impending conflicts, the decline of traditions, and prophetic signs for the future."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Dol Purnima, Holi, Blood Moon, Lunar Eclipse, Noshto Chand, Prophecy, Bhavishya Malika, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:04:00
 readingTime: 9

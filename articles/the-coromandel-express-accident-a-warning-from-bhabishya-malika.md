@@ -4,7 +4,7 @@ title: "The Coromandel Express Accident: A Warning from Bhabishya Malika"
 breadcrumbTitle: "Coromandel Accident & Prophecy"
 description: "Guru Shyama Khyapa discusses the spiritual significance of the Coromandel Express accident, linking it to the prophecies of Bhabishya Malika, the onset of a period of global transformation, and warnings of immense challenges ahead."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Coromandel Express Accident, Bhabishya Malika, Prophecy, Kali Yuga, Jagannath Puri, Spiritual Warning, Pralaya, Saturn in Pisces"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 24

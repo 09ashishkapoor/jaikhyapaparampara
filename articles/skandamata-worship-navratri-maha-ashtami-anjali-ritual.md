@@ -4,7 +4,7 @@ title: "Skandamata Worship and Maha Ashtami Anjali: Celebrating Mother Durga Dur
 breadcrumbTitle: "Skandamata Navratri Worship"
 description: "Guru Shyama Khyapa guides devotees on worshipping Skandamata, the fifth form of Goddess Durga, and shares the sacred Maha Ashtami Anjali ritual that can be performed at home during Navratri."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Skandamata, Navratri, Maha Ashtami, Goddess Durga, Pushpanjali, devotional ritual"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:43:00
 readingTime: 7

@@ -4,7 +4,7 @@ title: "Nigamananda Paramahamsa: The Saint Who Attained Siddhi in Four Spiritual
 breadcrumbTitle: "Biography of Nigamananda Paramahamsa"
 description: "Guru Shyama Khyapa reveals the extraordinary life of Swami Nigamananda Saraswati, who mastered Tara Sadhana, Brahma-tattva, Yoga, and the path of Divine Love within just 55 years."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Nigamananda, Paramahamsa, Saint, Siddhi, Spiritual Master, Bengal"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 13:29:00
 readingTime: 12

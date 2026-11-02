@@ -4,7 +4,7 @@ title: "The Silent Path: Why Gurudev is Called Gupta Sadhak and the Secret of 22
 breadcrumbTitle: "The Silent Path & Gupta Sadhak"
 description: "An intimate dialogue with Guru Shyama Khyapa revealing the true meaning of Gupta Sadhak (Secret Practitioner), his 22.5 years of hidden sadhana in a 6x6 room, the role of YouTube in Ma's plan, honesty as the path to God, and the ultimate settlement of accounts between a sadhak and the Goddess."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gupta Sadhak, Secret Practitioner, Bama Khyapa, Hidden Sadhana, Kali Worship, Spiritual Practice, Honesty, Ma's Order, Vibhuti, Divine Power, Renunciation, Spiritual Realization"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 34

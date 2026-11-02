@@ -4,7 +4,7 @@ title: "Swami Vivekananda: National Youth Day Tribute by Guru Shyama Khyapa"
 breadcrumbTitle: "Vivekananda National Youth Day"
 description: "Guru Shyama Khyapa pays tribute to Swami Vivekananda on his birth anniversary—Yugavatar, Belur Math, Chicago speech, Nivedita, Karmayoga, and the soul's departure."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Swami Vivekananda, National Youth Day, Belur Math, Nivedita, Karmayoga, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:22:00
 readingTime: 6

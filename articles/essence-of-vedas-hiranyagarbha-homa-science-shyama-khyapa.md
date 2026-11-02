@@ -4,7 +4,7 @@ title: "The Essence of the Vedas: Four Vedas, Hiranyagarbha, and the Science of 
 breadcrumbTitle: "The Essence of the Vedas"
 description: "Guru Shyama Khyapa explains the structure of the four Vedas, the 24 deities of the Gayatri, and the spiritual significance of Hiranyagarbha and the ritual of Homa."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Vedas, Rig Veda, Sama Veda, Yajur Veda, Atharva Veda, Hiranyagarbha, Gayatri Mantra, Homa, Rasayana Shastra, Vedic Deities, Advaita"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:14:00
 readingTime: 7

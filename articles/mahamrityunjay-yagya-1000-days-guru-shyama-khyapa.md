@@ -4,7 +4,7 @@ title: "The 1000-Day Mahamrityunjay Yagya for World Peace"
 breadcrumbTitle: "Mahamrityunjay Yagya"
 description: "Guru Shyama Khyapa explains the significance of the 1000-day Mahamrityunjay Yagya performed for global welfare, the sacrifices involved, and the spiritual essence of the inner sky."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Mahamrityunjay Yagya, Guru Shyama Khyapa, world peace, Vedic rituals, Kali Yuga, spiritual sacrifice, Sage Dadhichi, Mrityunjay Mantra"
-category: "Rituals & Yagyas"
+category: "Rituals, Worship and Festivals"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-28
 readingTime: 12

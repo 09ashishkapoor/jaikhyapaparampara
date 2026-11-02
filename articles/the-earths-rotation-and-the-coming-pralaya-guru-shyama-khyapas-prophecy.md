@@ -4,7 +4,7 @@ title: "The Earth's Rotation and the Coming Pralaya: Guru Shyama Khyapa's Prophe
 breadcrumbTitle: "Earth's Rotation and Pralaya"
 description: "Guru Shyama Khyapa discusses the increasing rotation of the Earth, the impact of human interference with nature, and the signs of the coming Great Destruction (Maha-pralaya)."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Earth Rotation, Pralaya, Maha-pralaya, Bhabishya Malika, Jagannath Temple, Climate Change, Spiritual Prophecy, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 2

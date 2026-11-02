@@ -4,7 +4,7 @@ title: "Dashamahavidya: Bhuvaneshwari - The Mother of the Universe"
 breadcrumbTitle: "Dashamahavidya Bhuvaneshwari"
 description: "Guru Shyama Khyapa discusses the fourth Mahavidya, Bhuvaneshwari, explaining her role as the Mother of the Universe and her connection to Goddess Durga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Dashamahavidya, Bhuvaneshwari, Mother of the Universe, Subhadra, Jagannath Temple, Chandi"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:49:00
 readingTime: 5

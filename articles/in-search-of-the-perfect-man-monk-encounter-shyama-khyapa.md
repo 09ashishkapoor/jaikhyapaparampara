@@ -4,7 +4,7 @@ title: "In Search of the Perfect Man: A Monk's Encounter with Gurudev"
 breadcrumbTitle: "A Monk's Encounter with Gurudev"
 description: "A visiting monk from Benares shares his profound spiritual experiences, discusses soul connections across lifetimes, and delves into Lord Shiva's true spiritual nature with Gurudev."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Monk from Benares, Past lives, Soul connections, Spiritual aura, Lord Shiva, Divine intervention"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 12:07:00
 readingTime: 9

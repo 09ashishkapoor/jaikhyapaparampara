@@ -4,7 +4,7 @@ title: "Kalabhairava Name 59: Kinkinimannjunirvana-Katisutaravirajitaya - Meanin
 breadcrumbTitle: "Kinkinimannjunirvana-Katisutaravirajitaya"
 description: "English meaning and spiritual significance of Kinkinimannjunirvana-Katisutaravirajitaya, the 59th name of Lord Kalabhairava, adorned with a girdle of bells whose sound points toward liberation."
 keywords: "Kinkinimannjunirvana-Katisutaravirajitaya, Kalabhairava name 59, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kinkinimannjunirvana-Katisutaravirajitaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

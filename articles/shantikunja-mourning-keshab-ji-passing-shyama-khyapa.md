@@ -4,7 +4,7 @@ title: "Shantikunj in Mourning: The Passing of Keshab-ji"
 breadcrumbTitle: "Shantikunja Mourning Keshab"
 description: "Guru Shyama Khyapa mourns the passing of his beloved father-figure Keshab-ji, sharing memories of their deep bond, flower garlands, and the loss that has left Shantikunj grieving."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shantikunj, Mourning, Keshab-ji, Passing, Death, Father-Son Bond, Bharat Mata, Loss, Grief"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:28:00
 readingTime: 4

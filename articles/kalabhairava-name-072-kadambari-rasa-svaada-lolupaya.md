@@ -4,7 +4,7 @@ title: "Kalabhairava Name 72: Kadambari-Rasa-Svaada-Lolupaya - Meaning and Signi
 breadcrumbTitle: "Kadambari-Rasa-Svaada-Lolupaya"
 description: "English meaning and spiritual significance of Kadambari-Rasa-Svaada-Lolupaya, the 72nd name of Lord Kalabhairava, who delights in the blissful essence symbolized by kadambari."
 keywords: "Kadambari-Rasa-Svaada-Lolupaya, Kalabhairava name 72, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kadambari-Rasa-Svaada-Lolupaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

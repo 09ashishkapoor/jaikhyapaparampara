@@ -4,7 +4,7 @@ title: "The Call of Vasudev: Jagannath Temple Khidirpur, Bhavishya Malika Prophe
 breadcrumbTitle: "Vasudev Call: Jagannath Temple and Prophecies"
 description: "Guru Shyama Khyapa accepts an invitation to the Jagannath Temple Khidirpur's Shrimad Bhagwat Kathamrita event, discusses prophecies from the Bhavishya Malika Purana about the end of Kali Yuga, and the awakening of the 64 Yoginis."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jagannath Temple Khidirpur, Bhavishya Malika Purana, 64 Yoginis, Kali Yuga end, Satya Yuga, Home Yajna, Bhagwat Kathamrita, Kalika Mandal"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:46:00
 readingTime: 5

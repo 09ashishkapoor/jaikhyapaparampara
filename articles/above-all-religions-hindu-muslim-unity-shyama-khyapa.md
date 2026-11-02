@@ -4,7 +4,7 @@ title: "Above All Religions: Guru Shyama Khyapa on Hindu-Muslim Unity and Spirit
 breadcrumbTitle: "Above All Religions Unity"
 description: "Guru Shyama Khyapa embraces a Muslim devotee from Bangladesh, declaring that Allah and Bhagwan are the same, and that true spirituality transcends religious boundaries and communal divisions."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Religion, Hindu-Muslim Unity, Spirituality, Equality, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:08:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "Predictions for 2021: Guru Shyama Khyapa's Warning of a Terrifying Year"
 breadcrumbTitle: "2021 Predictions Warning"
 description: "Guru Shyama Khyapa discusses the spiritual and physical dangers of the year 2021, the limitations of science, and the necessity of surrendering to Mother Tara."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, 2021 Predictions, Bhabisshotbani, Mother Tara, Tarapith, Spiritual Protection, Khyapa Parampara, Nostradamus, Vedanta"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 6

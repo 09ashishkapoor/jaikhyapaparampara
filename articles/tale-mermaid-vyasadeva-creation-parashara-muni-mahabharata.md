@@ -4,7 +4,7 @@ title: "The Tale of the Mermaid and the Creation of Vyasadeva: Parashara Muni's 
 breadcrumbTitle: "Vyasadeva Birth Parashara Muni"
 description: "Guru Shyama Khyapa reveals the profound story of Parashara Muni's divine encounter with Satyavati the mermaid-girl, leading to the birth of Vyasadeva, the author of the Mahabharata."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Parashara Muni, Vyasadeva, Satyavati, Mahabharata, Vedas, spiritual lineage"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:42:00
 readingTime: 5

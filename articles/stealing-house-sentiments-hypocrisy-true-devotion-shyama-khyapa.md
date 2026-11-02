@@ -4,7 +4,7 @@ title: "Stealing in the House of Sentiments: Hypocrisy, Nature, and True Devotio
 breadcrumbTitle: "Stealing House Sentiments Hypocrisy"
 description: "Guru Shyama Khyapa explains Ramakrishna's teaching about 'stealing in the house of sentiments'—the hypocrisy of outward show without inner substance—and shares stories on true devotion."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bhaber Ghore Churi, Stealing Sentiments, Hypocrisy, Swabhav, True Devotion, Ramakrishna"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:43:00
 readingTime: 8

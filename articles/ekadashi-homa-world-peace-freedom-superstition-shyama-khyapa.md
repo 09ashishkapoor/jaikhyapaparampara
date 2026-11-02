@@ -4,7 +4,7 @@ title: "Ekadashi Homa for World Peace: Gurudev on Freedom from Superstition in W
 breadcrumbTitle: "Ekadashi Homa and Freedom from Superstition"
 description: "Guru Shyama Khyapa explains that the Homa Kunda is dedicated solely to world peace rituals, COVID is decreasing, and emphasizes that clothing doesn't matter in worship—only remembering God makes one pure."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Ekadashi, Homa, World Peace, Maha Mrityunjaya, COVID-19, Bagalamukhi, Superstition, Spiritual Purity"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:39:00
 readingTime: 9

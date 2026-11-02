@@ -4,7 +4,7 @@ title: "Falaharini Amabashya: Special Homa After the Partial Cataclysm"
 breadcrumbTitle: "Falaharini Amabashya Homa"
 description: "Guru Shyama Khyapa performs a special Homa on Falaharini Amabashya after the partial cataclysm (likely Cyclone Amphan), expressing concerns about nature's fury, tiger roars in the Sundarbans, and strange fish behavior at Puri."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Falaharini, Amabashya, Khanda Pralaya, partial cataclysm, Homa, Amphan, Sundarbans, ocean heat"
-category: "Rituals & Yagyas"
+category: "Rituals, Worship and Festivals"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:43:00
 readingTime: 5

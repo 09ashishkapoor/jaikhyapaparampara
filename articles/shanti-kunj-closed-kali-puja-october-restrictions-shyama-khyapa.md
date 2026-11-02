@@ -4,7 +4,7 @@ title: "Why Shanti Kunj is Closed During Kali Puja: Gurudev's Important Announce
 breadcrumbTitle: "Shanti Kunj Closed Kali Puja October"
 description: "Guru Shyama Khyapa explains why Shanti Kunj remains closed from October 21st to 30th during Kali Puja, and the spiritual reasons behind these restrictions."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shanti Kunj, Kali Puja, Cremation Ground, Tantric Rituals, October Closure, Mahalaya"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:37:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "The Dual Forms of Goddess Saraswati: Vedic Home Worship vs. Tantric Maha
 breadcrumbTitle: "Forms of Goddess Saraswati"
 description: "Guru Shyama Khyapa explores the difference between the household worship of Goddess Saraswati and the esoteric Tantric form of Mahasaraswati, including the Anjali Mantra and its meanings."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Goddess Saraswati, Mahasaraswati, Bhadrakali, Tantra, Vedic Tradition, Anjali Mantra, 51 Shakti Peethas, Hansa, Vishuddha Chakra, Veda, Brahma"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:22:00
 readingTime: 6

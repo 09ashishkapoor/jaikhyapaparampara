@@ -4,7 +4,7 @@ title: "Mysteries of Gyanganj and Mount Kailash: The Dimension Beyond Time"
 breadcrumbTitle: "Mysteries of Gyanganj and Kailash"
 description: "Gurudev Shyama Khyapa delves into the mystical dimension of Mount Kailash, Gyanganj, the sadhus beyond time, and the magnetic anomalies surrounding Shiva's abiding realm."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gyanganj, Mount Kailash, Shibalok, Lamas, Naga Sadhus, Asana Vidya, Kalatit, Mansarovar, Garuda Purana, Himalayan Yogis"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 12:06:00
 readingTime: 8

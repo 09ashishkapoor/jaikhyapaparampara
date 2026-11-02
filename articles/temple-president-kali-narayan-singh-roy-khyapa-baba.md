@@ -4,7 +4,7 @@ title: "Temple President Kali Narayan Singh Roy on Khyapa Baba's Padayatra"
 breadcrumbTitle: "Temple President on Khyapa Baba"
 description: "Shri Kalinarayan Singha Roy, President of Bramhanandaganj Mahastitwa Temple, welcomes Khyapa Baba (Bangla Baba) on his walking pilgrimage from Sonarpur to Kamakhya Dham for world peace during the COVID pandemic."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kali Narayan Singh Roy, Temple President, Khyapa Baba, Bangla Baba, Padayatra, Walking Pilgrimage, Kamakhya, COVID, World Peace"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:58:00
 readingTime: 2

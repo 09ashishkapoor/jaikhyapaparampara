@@ -4,7 +4,7 @@ title: "Saptarshi: The New Biography of Gurudev Shyama Khyapa"
 breadcrumbTitle: "Saptarshi Biography Book"
 description: "Guru Shyama Khyapa introduces his new biography written and edited by Dr. Sujit Kar (Saptarshi), published in Mumbai for the Bengali community, chronicling his life and spiritual journey."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Saptarshi, Dr. Sujit Kar, biography, book, Mumbai, Shiksha Ratna, Bhabadeb Baba, Tantra initiation, Saptarshi constellation, divine prophecy"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:31:00
 readingTime: 6

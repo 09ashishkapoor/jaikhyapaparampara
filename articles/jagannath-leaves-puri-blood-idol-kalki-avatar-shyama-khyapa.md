@@ -4,7 +4,7 @@ title: "Jagannath Leaves Puri: Blood from Idol and Kalki Avatar Prophecy"
 breadcrumbTitle: "Jagannath Leaves Puri Temple"
 description: "Guru Shyama Khyapa reveals extraordinary prophecies about Lord Jagannath leaving the Puri temple in human form, blood appearing on the idol, and the imminent arrival of Kalki Avatar."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Jagannath, Puri Temple, Kalki Avatar, Blood Idol, Jagannath Bhagavat, Prophecy, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:43:00
 readingTime: 8

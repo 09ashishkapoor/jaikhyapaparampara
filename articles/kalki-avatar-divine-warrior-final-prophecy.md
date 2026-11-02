@@ -4,7 +4,7 @@ title: "The Kalki Avatar: The Final Divine Warrior and His Quest for Dharma"
 breadcrumbTitle: "Kalki Avatar - Final Divine Warrior"
 description: "Guru Shyama Khyapa reveals the secrets of the Kalki Avatar, his birth, training with immortals, and the spiritual war that will restore dharma at the end of Kali Yuga. Based on the prophecies of Bhavishya Malika."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Kalki Avatar, Kali Yuga, Bhavishya Malika, Dharma, Devadatta, Ashwatthama, Hanuman, Chiranjivis, Khyapa Parampara, Prophecy"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 23:58:00
 readingTime: 7

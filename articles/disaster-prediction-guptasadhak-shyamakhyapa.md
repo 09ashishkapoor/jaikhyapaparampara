@@ -4,7 +4,7 @@ title: "Disaster Prediction by Guptasadhak Shyamakhyapa"
 breadcrumbTitle: "Disaster Prediction"
 description: "Guru Shyama Khyapa discusses his recent illness, recovery, and prophecies about upcoming disasters, climate change, and the end times, including the rise of Kalki and the sinking of the Himalayas."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Disaster Prediction, Climate Change, Kalki Avatar, Himalayas Sinking, Third World War, Prophecies"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:06:00
 readingTime: 15

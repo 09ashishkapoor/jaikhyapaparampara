@@ -4,7 +4,7 @@ title: "Maha Saptami Rituals: Nava Patrika, Kola Bou, and the Great Bath"
 breadcrumbTitle: "Maha Saptami Puja Rituals"
 description: "Guru Shyama Khyapa explains the intricate rituals of Maha Saptami, including the Nava Patrika (nine plants), Kola Bou ceremony, Maha Snan, Pran Pratishtha, and the significance of Kaal Ratri."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Maha Saptami, Durga Puja, Nava Patrika, Kola Bou, Maha Snan, Kaal Ratri, Pran Pratishtha, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:05:00
 readingTime: 6

@@ -4,7 +4,7 @@ title: "Periods and Maa Matangi: The Secret of Devi"
 breadcrumbTitle: "Periods and Maa Matangi"
 description: "Shri Praveen Radhakrishna reveals the hidden teachings of Ma Matangi — the Tantric Saraswati — and explains why menstrual periods are sacred in the Fifth Head of Brahma, not a reason for spiritual abstinence."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Ma Matangi, Ma Saraswati, Adya Kali, Dasa Mahavidyas, Tantric Saraswati, periods and Sadhana, Para Sanatani, Sarangi"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:54:00
 readingTime: 7

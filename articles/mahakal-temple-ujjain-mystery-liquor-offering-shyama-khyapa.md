@@ -4,7 +4,7 @@ title: "Mahakal: The Mystery of Ujjain's Ancient Temple and Divine Offerings"
 breadcrumbTitle: "Mahakal Temple Ujjain Mysteries"
 description: "Guru Shyama Khyapa reveals the ancient secrets of Mahakal temple in Ujjain, including the mysterious phenomenon of liquor offerings disappearing before the deity and the spiritual significance of sacred ash."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mahakal, Ujjain, Shipra River, Kumbh Mela, sacred ash, Bhasma, Bhairava, time, Kal, spiritual offering, temple mystery"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:16:00
 readingTime: 3

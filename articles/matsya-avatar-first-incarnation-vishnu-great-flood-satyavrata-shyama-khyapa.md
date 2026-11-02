@@ -4,7 +4,7 @@ title: "Matsya Avatar: The First Incarnation of Vishnu - The Great Flood and Man
 breadcrumbTitle: "Matsya Avatar - First Incarnation"
 description: "Guru Shyama Khyapa reveals the story of Lord Vishnu's Matsya (Fish) avatar, the great deluge, King Satyavrata, and the evolutionary perspective of the Dashavatara."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Matsya Avatar, Vishnu, Dashavatar, King Satyavrata, Manu, Pralaya, Flood, Evolution, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 14:00:00
 readingTime: 10

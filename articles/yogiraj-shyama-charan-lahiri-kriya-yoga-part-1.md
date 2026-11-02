@@ -4,7 +4,7 @@ title: "Yogiraj Shyama Charan Lahiri: The Path of Kriya Yoga (Part 1)"
 breadcrumbTitle: "Yogiraj Shyama Charan Lahiri - Part 1"
 description: "A deep dive into the life of Yogiraj Shyama Charan Lahiri Mahasaya, his meeting with Mahavatar Babaji in the Himalayas, and the secret practice of Kriya Yoga."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Yogiraj Shyama Charan Lahiri, Kriya Yoga, Mahavatar Babaji, Varanasi, Spiritual Awakening, Lahiri Mahasaya"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:06:00
 readingTime: 12

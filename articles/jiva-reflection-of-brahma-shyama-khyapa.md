@@ -4,7 +4,7 @@ title: "Jiva is a Reflection of Brahma"
 breadcrumbTitle: "Jiva and Brahma"
 description: "Gurudev Shyama Khyapa explains the symbolic relationship between the soul (Jiva) and the Supreme Being (Brahma) using the metaphor of a mirror, and discusses the intersection of spirituality and science."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Gupta Sadhak Shyamakhyapa, Jiva, Brahma, Shyama Khyapa, Mirror Ritual, Evolution, Avatars, Spirituality, Science"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2025-12-27
 readingTime: 12

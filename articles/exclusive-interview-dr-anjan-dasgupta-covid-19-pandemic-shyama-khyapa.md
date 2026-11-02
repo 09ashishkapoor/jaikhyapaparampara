@@ -4,7 +4,7 @@ title: "Exclusive Interview with Dr. Anjan Dasgupta on COVID-19 Pandemic"
 breadcrumbTitle: "Dr. Anjan Dasgupta on COVID-19"
 description: "Dr. Anjan Dasgupta discusses the COVID-19 pandemic, the role of doctors, physical distancing, and the importance of positive energy during the lockdown."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, COVID-19, pandemic, doctors, physical distancing, positive energy"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:05:00
 readingTime: 8

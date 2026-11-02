@@ -4,7 +4,7 @@ title: "Beware! Mother Does Not Tolerate Injustice: A Divine Warning Through Pos
 breadcrumbTitle: "Divine Warning at Temple"
 description: "Guru Shyama Khyapa witnesses a startling supernatural event where a devotee from Dhubguri enters a trance, delivering an urgent warning from the Divine Mother about impurity threatening the temple."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Divine Possession, Dhubguri, Impurity Warning, Trance, Divine Mother, Temple Purity, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 11:00:00
 readingTime: 6

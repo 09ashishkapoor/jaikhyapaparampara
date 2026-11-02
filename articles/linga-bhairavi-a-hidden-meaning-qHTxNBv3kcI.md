@@ -4,7 +4,7 @@ title: "Linga Bhairavi — A Hidden Meaning Revealed in the Sahasranamavali"
 breadcrumbTitle: "Linga Bhairavi's Hidden Meaning in Kali's Names"
 description: "Shri Praveen Radhakrishna answers whether followers of Isha Foundation and Linga Bhairavi can also practice Maa Adya Kali Sadhana — revealing through the Adhya Kali Sahasranamavali that Linga Bhairavi is indeed a form of Ma Kali herself."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Linga Bhairavi, Ma Kali, Sahasranamavali, Isha Foundation, Sadhguru, Dhyanalinga, Shivalinga, Procedural Collapse, Linga Rupini, Linga Nivasini"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:53:00
 readingTime: 7

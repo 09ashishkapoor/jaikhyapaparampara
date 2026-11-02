@@ -4,7 +4,7 @@ title: "Who Walks Past the Crematorium Emperor? Guru Shyama Khyapa and Robi Dom"
 breadcrumbTitle: "The Crematorium Emperor"
 description: "Guru Shyama Khyapa and Robi Dom reveal the supernatural mysteries of the Rajpur cremation ground, including spirits, unburnable bodies, and the towering Shmashan Rakshak."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Robi Dom, Rajpur Cremation Ground, Tantra, Spirits, Shmashan Rakshak, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 6

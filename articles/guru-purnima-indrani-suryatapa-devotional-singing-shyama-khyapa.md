@@ -4,7 +4,7 @@ title: "Guru Purnima with Indrani Suryatapa: Devotional Singing and Ramprasadi S
 breadcrumbTitle: "Guru Purnima with Indrani Suryatapa"
 description: "Guru Shyama Khyapa celebrates Guru Purnima with renowned singer Indrani Suryatapa, discussing Ramprasadi songs, devotion, and the divine connection between music and spirituality."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Guru Purnima, Indrani Suryatapa, Ramprasadi Songs, Shyama Sangeet, Devotional Music, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:39:00
 readingTime: 12

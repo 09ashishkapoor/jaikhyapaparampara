@@ -4,7 +4,7 @@ title: "50,000 Subscribers but Not Even 1%: Gurudev Shyama Khyapa Reflects on th
 breadcrumbTitle: "50,000 Subscribers and 1%"
 description: "Gurudev Shyama Khyapa and a devotee discuss the channel's 50,000-subscriber milestone, the 5.8 million views, and why more viewers should subscribe to strengthen the mission."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Guptasadhak Shyama Khepa, 50,000 subscribers, 58 lakh views, YouTube channel, viewer support, global devotees"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:00:00
 readingTime: 3

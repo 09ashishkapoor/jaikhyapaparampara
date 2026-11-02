@@ -4,7 +4,7 @@ title: "Indication of Present and Upcoming Disasters | Special Message from Gupt
 breadcrumbTitle: "Indication of Disasters"
 description: "Guru Shyamakhyapa discusses the Coronavirus pandemic, the fire at Puri Jagannath Temple, and the upcoming asteroid threat. Explains the metaphor of 'Teasle Gourd' and 'Jackfruit' for different disasters."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Coronavirus, pandemic, asteroid, Puri Jagannath, disaster, prophecy"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:24:00
 readingTime: 3

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 101: Kula-Carataya - Meaning and Significance"
 breadcrumbTitle: "Kula-Carataya"
 description: "English meaning and spiritual significance of Kula-Carataya, the 101st name of Lord Kalabhairava, who upholds the conduct and living traditions of the sacred lineage."
 keywords: "Kula-Carataya, Kalabhairava name 101, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kula-Carataya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

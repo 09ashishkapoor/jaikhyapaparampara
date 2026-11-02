@@ -4,7 +4,7 @@ title: "Shut Up and Dance: Faking Spirituality Won't Help — The Life of Girish
 breadcrumbTitle: "Girish Ghosh: The Bhairava of Ramakrishna"
 description: "Using the extraordinary life of Sri Girish Ghosh — playwright, drinker, rescuer of women, and the man Sri Ramakrishna gave the 12th ochre robe — Shri Praveen Radhakrishna dismantles the performance of spirituality and reveals a timeless teaching: that surrender of one's entire creative life to the Guru is the fastest path to Devi."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Girish Ghosh, Sri Ramakrishna Paramahansa, Bhairava Tattva, Sakama, Nishkama, Nati Binodini, Power of Attorney, ochre robe, Guru surrender, Kali Sadhana, identity crisis"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:14:00
 readingTime: 8

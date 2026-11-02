@@ -4,7 +4,7 @@ title: "Mother Tara: The Mysteries of Tara Peeth and Prophecies of Destruction"
 breadcrumbTitle: "Mother Tara Mysteries"
 description: "Guru Shyama Khyapa reveals the mysteries of Mother Tara at Tara Peeth, including the eight forms of Tara, the legend of Bama Khepa, and ominous prophecies about Badrinath and Jagannath temples."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Mother Tara, Tara Peeth, Ashta Tara, Bama Khepa, Prophecy, Bhavishya Malika, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:45:00
 readingTime: 2

@@ -4,7 +4,7 @@ title: "Siliguri Devotees Visit Gurudev: The Power of Guru-Devotion - Guru Shyam
 breadcrumbTitle: "Siliguri Devotees Visit"
 description: "Guru Shyama Khyapa receives devoted disciples from Siliguri, discussing their spiritual connection, the Guru's recovery from surgery, and the profound bond between Guru and disciple."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Siliguri, devotees, Guru devotion, diksha, spiritual connection, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:45:00
 readingTime: 4

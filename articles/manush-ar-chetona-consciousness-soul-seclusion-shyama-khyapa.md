@@ -4,7 +4,7 @@ title: "Manush Ar Chetona — Guru Shyama Khyapa on Consciousness, the Soul, and
 breadcrumbTitle: "Consciousness, Soul, and Return to Seclusion"
 description: "Guru Shyama Khyapa speaks about the divine mandate to return to seclusion, explains the relationship between mind, soul, and consciousness, and reflects on the bonds between Guru, devotee, and God."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Manush Ar Chetona, consciousness, soul, Guru disciple, seclusion, Yoga, Prahlad, Narasimha, divine will"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 06:51:00
 readingTime: 5

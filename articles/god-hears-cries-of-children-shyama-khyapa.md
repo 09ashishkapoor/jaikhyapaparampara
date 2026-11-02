@@ -4,7 +4,7 @@ title: "Will God Hear the Cries of a Three-Year-Old Child? Secret Ascetic Shyama
 breadcrumbTitle: "Will God Hear a Child's Cry?"
 description: "A profound discussion with Guru Shyama Khyapa on global unrest, divine justice, and whether God hears the prayers of the innocent. Explores the spiritual significance of current world events."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Shyama Khyapa, God's Justice, Three-year-old child, Divine transformation, Rahu Ketu, Communism, Islam, Kali Yuga"
-category: "Guru Messages"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-01-08
 readingTime: 12

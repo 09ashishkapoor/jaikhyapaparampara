@@ -4,7 +4,7 @@ title: "Offering by the Mystic: Guru Shyama Khyapa on Hiranmaya Garva and Deroga
 breadcrumbTitle: "Hiranmaya Garva Response"
 description: "Guru Shyama Khyapa responds to derogatory remarks from the Hiranmaya Garva channel—Vidyasagar's words, the mouse-and-sage story, and why he will not dirty his hands with malice."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Hiranmaya Garva, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:27:00
 readingTime: 5

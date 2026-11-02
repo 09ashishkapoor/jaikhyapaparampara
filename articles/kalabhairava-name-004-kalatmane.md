@@ -4,7 +4,7 @@ title: "Kalabhairava Name 4: Kalatmane - Meaning and Significance"
 breadcrumbTitle: "Kalatmane"
 description: "English meaning and spiritual significance of Kalatmane, the 4th name of Lord Kalabhairava: the soul of time and the inner essence moving through all existence."
 keywords: "Kalatmane, Kalabhairava name 4, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kalatmane meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

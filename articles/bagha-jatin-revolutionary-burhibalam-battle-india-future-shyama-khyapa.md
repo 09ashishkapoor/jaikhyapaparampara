@@ -4,7 +4,7 @@ title: "Bagha Jatin: The Tiger-Fighting Revolutionary and the Battle of Burhibal
 breadcrumbTitle: "Bagha Jatin - Revolutionary Hero"
 description: "Guru Shyama Khyapa narrates the life of revolutionary freedom fighter Bagha Jatin, his battle with a tiger, the Battle of Burhibalam, and prophetic vision for India's future."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bagha Jatin, Jatindranath Mukherjee, Burhibalam, Revolutionary, Freedom Fighter, Anushilan Samiti, Rishi Aurobindo"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:08:00
 readingTime: 8

@@ -4,7 +4,7 @@ title: "Bhairava Sadhana: Batuka Bhairava and the Path to Kala Bhairava"
 breadcrumbTitle: "Batuka Bhairava and Durga Mata"
 description: "Shri Praveen Radhakrishna explains the true relationship between Batuka Bhairava and Kala Bhairava — they are the same deity before and after the twelve-year cosmic penance. Batuka is the Moving Bhairava, the ideal form for new Sadhakas and householders, accessible without initiation."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Batuka Bhairava, Kala Bhairava, Durga Mata, Vairagi Guru Tattva, procedural collapse, Bhairava Sadhana, Kartika, Kashi"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-17 10:03:00
 readingTime: 9

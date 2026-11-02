@@ -4,7 +4,7 @@ title: "The One Who Is Invincible Is Durga Part 1: Vehicles, Naba Patrika, and C
 breadcrumbTitle: "Durga: Invincible Goddess Part 1"
 description: "Guru Shyama Khyapa explains the vehicles of Goddess Durga, the true meaning of Naba Patrika, the origin of Chamunda, and the spiritual significance of Sandhi Puja during Durga Puja."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Durga Puja, Chamunda, Naba Patrika, Sandhi Puja, Devi Durga, Mahishasura"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:38:00
 readingTime: 6

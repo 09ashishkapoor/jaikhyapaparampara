@@ -4,7 +4,7 @@ title: "Vedas Male-Centric but Women Are Power: Gurudev on Women and Spiritualit
 breadcrumbTitle: "Women as Source of Spiritual Power"
 description: "Guru Shyama Khyapa reveals how women are the true source of spiritual power despite male-centric Vedas, explaining how sadhaks draw energy from the divine feminine and why women deserve reverence."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Women Spirituality, Vedas, Divine Feminine, Shakti, Bhairavi, Ramakrishna, Rani Rashmoni, Saraswati, Kali Puja, Mahalaya"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:28:00
 readingTime: 9

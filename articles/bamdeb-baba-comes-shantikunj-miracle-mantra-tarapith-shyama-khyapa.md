@@ -4,7 +4,7 @@ title: "Bamdeb Baba Comes to Shantikunj: Gurudev's Miracle and the Mantra of Bam
 breadcrumbTitle: "Bamdeb Baba Arrives at Shantikunj"
 description: "Guru Shyama Khyapa marvels as Bamdeb Baba himself arrives at Shantikunj for a puja, shares the correct mantra for Bamdeb Baba, and describes the fearsome Leela of Baba at Tarapith."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bamdeb Baba, Shantikunj, mantra Om Shri Bhagawate Bamdebaya Maheshwaraya, Tarapith, Ashtatara, eight forms of Tara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:45:00
 readingTime: 4

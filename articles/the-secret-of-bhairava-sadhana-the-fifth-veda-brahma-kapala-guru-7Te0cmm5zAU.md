@@ -4,7 +4,7 @@ title: "The Secret of Bhairava Sadhana: The Fifth Veda, Brahma Kapala, and the G
 breadcrumbTitle: "The Fifth Veda and Brahma Kapala"
 description: "Shri Praveen Radhakrishna reveals that Bhairava's cutting of Brahma's fifth head represents the Fifth Veda — the path to Maa Adya Kali — which can only be attained through procedural collapse, not through Brahma's Vedic design."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Fifth Veda, Brahma Kapala, Brahma fifth head, Maa Adya Kali, Yoga Maya, procedural collapse, Shakti Path, Guru Tattva, Kashi"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:14:00
 readingTime: 10

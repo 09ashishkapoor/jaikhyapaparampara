@@ -4,7 +4,7 @@ title: "Answering Fans' Questions: Homa, Purity, and Spirituality vs. Science"
 breadcrumbTitle: "Homa, Purity & Science vs. Spirituality"
 description: "Guru Shyama Khyapa and Biswaroop Bhattacharya answer questions on the significance of Homa, the truth about external purity versus internal devotion, and the relationship between science and spirituality."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Homa, World Peace, Biswaroop Bhattacharya, Purity, Science and Spirituality, Tantra"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:59:00
 readingTime: 6

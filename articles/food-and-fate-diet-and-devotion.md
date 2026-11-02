@@ -4,7 +4,7 @@ title: "Food and Fate: The Science of Diet and Devotion According to Guru Shyama
 breadcrumbTitle: "Diet and Spiritual Practice"
 description: "A complete dialogue with Guru Shyama Khyapa on spiritual nutrition, Satvik food, the science of fasting, Abhyasa Yoga, and how to properly worship without attachment to results. Learn about Kam Puja vs Nishkam Puja, the four G's from the Bhagavad Gita, and why eating less benefits spiritual seekers."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bhagavad Gita, Spiritual Diet, Satvik Food, Fasting, Shivratri, Shravan, Abhyasa Yoga, Health and Spirituality, Krishna, Four Gs, Kam Puja, Nishkam Puja, Meditation, Sages, Akshiddha Bhat, Goddess Shakhambari"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 26

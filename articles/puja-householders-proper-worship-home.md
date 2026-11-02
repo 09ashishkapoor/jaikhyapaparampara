@@ -4,7 +4,7 @@ title: "Puja of the Householders: Proper Worship at Home According to Guru Shyam
 breadcrumbTitle: "Worship in the Household"
 description: "Guru Shyama Khyapa explains the distinction between household worship and Tantric practice, warning against keeping fierce deities at home and emphasizing service to humanity as the highest religion."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Household Worship, Lakshmi Puja, Tantric Deities, Spiritual Practice, Family Peace"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 13:26:00
 readingTime: 9

@@ -4,7 +4,7 @@ title: "Why God Appears on Earth: Vedas, Nature, and Krishna Explained by Shyama
 breadcrumbTitle: "Why God Appears on Earth"
 description: "Gurudev explains the Vedic view of Nature, Omkar, and the Gayatri Mantra, discusses Krishna and later scriptures, and reflects on what God 'wants' versus the reality of Nature, science, and faith."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Vedas, Yajurveda, Bhagavad Gita, Krishna, Omkar, Gayatri Mantra, Bhur Bhuvah Svah, Brahma, Ganesha, Saraswati, Savitri, Maha-Saraswati, Shruti, Samaveda, Rigveda, Indra, Varuna, Agni, Vishweshwar, Mahadev, Nature, science, Ramprasad"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 03:22:10
 readingTime: 8

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 90: Kalaratri Maharatri Sivaratryaadi Karakaya - Meani
 breadcrumbTitle: "Kalaratri Maharatri Sivaratryaadi Karakaya"
 description: "English meaning and spiritual significance of Kalaratri Maharatri Sivaratryaadi Karakaya, the 90th name of Lord Kalabhairava, who presides over Kalaratri, Maharatri, Shivaratri, and other sacred nights."
 keywords: "Kalaratri Maharatri Sivaratryaadi Karakaya, Kalabhairava name 90, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kalaratri Maharatri Sivaratryaadi Karakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

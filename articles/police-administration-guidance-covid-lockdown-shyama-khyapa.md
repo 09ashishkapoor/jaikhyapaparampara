@@ -4,7 +4,7 @@ title: "Police and Administration: Gurudev's Extraordinary Guidance During Lockd
 breadcrumbTitle: "Police Administration Guidance"
 description: "Guru Shyama Khyapa acknowledges the dedication of police and medical personnel during COVID lockdown, urging citizens to follow government orders and cooperate with authorities."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Police, Administration, COVID, Lockdown, Government Orders, Maha Mrityunjaya Yagya, Shanti Kunj, Responsibility"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:15:00
 readingTime: 3

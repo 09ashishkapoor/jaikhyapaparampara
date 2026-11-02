@@ -4,7 +4,7 @@ title: "Maha Shashthi: The Sacred Vow of Goddess Shashthi and the Nabapatrika Ri
 breadcrumbTitle: "Maha Shashthi Sacred Vow"
 description: "Guru Shyama Khyapa explains the Maha Shashthi vow observed by mothers, the ritual of Nabapatrika (nine sacred plants), and the spiritual significance of Goddess Shashthi as protector of children and lineage."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shashthi vow, Nabapatrika, Divine Mother, children protection"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:58:00
 readingTime: 6

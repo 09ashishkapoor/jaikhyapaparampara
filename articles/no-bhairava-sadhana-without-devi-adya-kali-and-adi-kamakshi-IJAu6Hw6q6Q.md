@@ -4,7 +4,7 @@ title: "No Bhairava Sadhana Without Devi: Adya Kali and Adi Kamakshi"
 breadcrumbTitle: "Devi for Bhairava"
 description: "Shri Praveen Radhakrishna explains why Bhairava Sadhana must be rooted in Shakti through Adya Kali and Adi Kamakshi, shares how a visit to the Kanchi Kamakshi Peetham relates to generational curses and broken vows, and describes the deep love between Shiva and Shakti across cycles of creation and dissolution."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Adya Kali, Ma Adhya, Adi Kamakshi, Kanchi Kamakshi, Shakti Peetha, Nabhi, generational curse, bloodline, Bhairava Sadhana, Fifth Head, Kali Purusha, Bhakti, Bhasma, Smashana, Shiva, Shakti, Mahadeva, Rajarajeshwari, Lalita Tripurasundari"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:43:00
 readingTime: 10

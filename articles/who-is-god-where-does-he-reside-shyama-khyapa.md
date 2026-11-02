@@ -4,7 +4,7 @@ title: "Who is God? Where Does He Reside?"
 breadcrumbTitle: "Who is God?"
 description: "In this profound discussion, Guru Shyama Khyapa explains the nature of God, where He resides, and the path to self-realization. Explore the mystery of death and the vision of the Supreme."
 keywords: "Who is God, where does God live, Guru Shyama Khyapa, self-realization, Vedanta, Gyan Ganj, Third Eye, spiritual awakening, Shyama Khyapa, divine vision"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-04
 readingTime: 12

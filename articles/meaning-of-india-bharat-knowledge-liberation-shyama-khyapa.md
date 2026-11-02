@@ -4,7 +4,7 @@ title: "Meaning of India (Bharat): Gurudev on Knowledge, Liberation, and Reincar
 breadcrumbTitle: "Meaning of Bharat and Liberation"
 description: "Guru Shyama Khyapa explains the meaning of 'Bharat' (engaged in knowledge), reincarnation from the Gita, Mahishasur as Manasur, and why knowledge is the only path to liberation."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Bharat, India, Knowledge, Liberation, Reincarnation, Gita, Mahishasur, Chandi, Upanishads, Punojanmobad, Gyan"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 21:51:00
 readingTime: 10

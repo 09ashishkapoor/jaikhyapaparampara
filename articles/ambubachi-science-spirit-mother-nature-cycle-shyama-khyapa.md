@@ -4,7 +4,7 @@ title: "The Science and Spirit of Ambubachi: Respecting Mother Nature's Cycle"
 breadcrumbTitle: "Ambubachi and Nature's Cycle"
 description: "Guru Shyama Khyapa explains the meaning and rituals of Ambubachi, drawing parallels between the Earth's fertility cycle and human biology, and emphasizing the importance of respecting Nature."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ambubachi, Mother Nature, Kamakhya, Tantra Rituals, Menstruation, Agriculture, Farmers, Spiritual Cleansing, Mango and Milk"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:18:00
 readingTime: 5

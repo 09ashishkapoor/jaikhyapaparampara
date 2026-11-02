@@ -4,7 +4,7 @@ title: "The Tirupati Scandal and Omens of Kali: Guru's Warning on Temple Integri
 breadcrumbTitle: "Tirupati Scandal Prophecy"
 description: "Guru Shyama Khyapa discusses the Tirupati temple's ghee-substitution scandal, connects it to prophecies of destruction, and shares the parable of 'The One Eye' to warn that divine justice is inescapable."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tirupati scandal, temple integrity, prophecy, divine justice, Kali Yuga"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:53:00
 readingTime: 6

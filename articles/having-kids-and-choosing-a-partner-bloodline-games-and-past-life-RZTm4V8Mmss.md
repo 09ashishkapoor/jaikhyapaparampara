@@ -4,7 +4,7 @@ title: "Having Kids and Choosing a Partner: Bloodline Games and Past Life Desire
 breadcrumbTitle: "Bloodline Games and Past Life Desires"
 description: "Shri Praveen Radhakrishna draws on his own life story to explain how unfulfilled past-life desires and ancestral urges drive our present choices — and reveals the critical spiritual teaching on bloodlines, choosing a partner, and raising children through the lens of Adya Maha Kali."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, past life desires, bloodline karma, ancestors, Karana Sharira, Adya Maha Kali, children sadhana, choosing a partner, Pitru Dosha, Yakshini Sadhana, Sadhana"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:06:00
 readingTime: 9

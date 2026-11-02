@@ -4,7 +4,7 @@ title: "Kalabhairava Name 50: Kanthadya-Akhila-Desa-Ahi-Bhusana-Adhyaya - Meanin
 breadcrumbTitle: "Kanthadya-Akhila-Desa-Ahi-Bhusana-Adhyaya"
 description: "English meaning and spiritual significance of Kanthadya-Akhila-Desa-Ahi-Bhusana-Adhyaya, the 50th name of Lord Kalabhairava, whose very adornment is the vast expanse of space and direction."
 keywords: "Kanthadya-Akhila-Desa-Ahi-Bhusana-Adhyaya, Kalabhairava name 50, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kanthadya-Akhila-Desa-Ahi-Bhusana-Adhyaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

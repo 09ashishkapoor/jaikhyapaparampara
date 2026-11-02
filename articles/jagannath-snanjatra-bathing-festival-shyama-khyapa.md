@@ -4,7 +4,7 @@ title: "Jagannath Snanjatra: The Sacred Bathing Festival and Hidden Mysteries"
 breadcrumbTitle: "Jagannath Snanjatra Festival"
 description: "Guru Shyama Khyapa reveals the mysteries of Lord Jagannath's Snanjatra bathing festival, the connection to 51 Shakti Peethas, and ominous signs foretelling natural disasters."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jagannath, Snanjatra, Bathing Festival, Purnima, Nashta Chandra, Shakti Peetha, Swet Ganga, Nabakalebara, Rath Yatra, Kalighat"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:08:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Let There Be Consciousness: Attaining Chaitanya Through Spiritual Focus"
 breadcrumbTitle: "Attaining Consciousness Chaitanya"
 description: "Guru Shyama Khyapa explains the profound meaning of Chaitanya (Consciousness), how to attain it by transcending the five elements and six vices, and Ramakrishna's teachings on awareness."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Chaitanya, Consciousness, Awareness, Kutastha, Shada-ripu, Six Vices, Pancha-bhuta, Ramakrishna"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:39:00
 readingTime: 4

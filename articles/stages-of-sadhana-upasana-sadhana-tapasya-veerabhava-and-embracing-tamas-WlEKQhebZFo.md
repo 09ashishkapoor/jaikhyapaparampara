@@ -4,7 +4,7 @@ title: "Stages of Sadhana: Upasana, Sadhana, Tapasya, Veerabhava—and Embracing
 breadcrumbTitle: "Stages of Sadhana"
 description: "Shri Praveen Radhakrishna explains how to recognize progress in Bhairava Sadhana through discipline and inner change, why revisiting teachings every Mandala reveals new layers, and how Tamas is not laziness but the Shunyata that allows Sattva to emerge."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Upasana, Sadhana, Tapasya, Veerabhava, Mandala, Asana, discipline, Kali Yuga, Tamas, Shunyata, Rajo Guna, Sattva Guna, Ma Kali, Smashana, Hum Phat Swaha, Agni Chakra, Rudhirapriya, bloodline, DNA memory, lineage, Ma Adya Kali"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:39:00
 readingTime: 12

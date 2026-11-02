@@ -4,7 +4,7 @@ title: "Pagla Baba's Hom at Tarapith: Why the Guru Cannot Be Present"
 breadcrumbTitle: "Pagla Baba Hom at Tarapith"
 description: "Pagla Baba explains performing a hom at Shhmashana Kali temple in Tarapith, and Gurudev reveals why a Guru cannot be present when disciples perform rituals."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Pagla Baba, Tarapith, Hom, Fire Ritual, Shhmashana Kali, Guru Tradition, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 22:00:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Bhairava vs Narasimha Sadhana: Kula Devata Karma — Maa Kamala, a Case 
 breadcrumbTitle: "Bhairava vs Narasimha Sadhana"
 description: "Shri Praveen Radhakrishna explains why abandoning one's Kula Devata leads to spiritual crisis, using a real case study of a family caught between Narasimha, Bhairava, and Maa Kamala — and the correct way to integrate these paths."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Narasimha, Kula Devata, Maa Kamala, Maa Kamakhya, Dasa Mahavidyas, Prahlada, Maha Vishnu, Shakti Peetha"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:10:00
 readingTime: 9

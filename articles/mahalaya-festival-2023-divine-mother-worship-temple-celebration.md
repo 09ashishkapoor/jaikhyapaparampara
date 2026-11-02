@@ -4,7 +4,7 @@ title: "Mahalaya Festival 2023: Thirty-Two Years of Divine Mother Worship and Te
 breadcrumbTitle: "Mahalaya Festival 2023 Celebration"
 description: "Guru Shyama Khyapa announces the 2023 Mahalaya festival celebration of Divine Mother, explaining the sacred rituals, temple traditions spanning 32 years, and inviting devotees to join in worship and community."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mahalaya festival, Divine Mother, temple worship, Mora Puja, ritual sacrifice"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:49:00
 readingTime: 5

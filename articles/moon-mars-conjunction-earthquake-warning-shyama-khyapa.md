@@ -4,7 +4,7 @@ title: "Moon and Mars Conjunction: Guru Shyama Khyapa's Earthquake Warning"
 breadcrumbTitle: "Moon-Mars Conjunction Earthquake Warning"
 description: "Guru Shyama Khyapa reveals the fearsome implications of the rare Moon and Mars conjunction, predicting devastating earthquakes in India and explaining why worship cannot stop natural disasters."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Moon Mars Conjunction, Earthquake, Natural Disaster, Pralay, Astrology, Astronomy, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:01:00
 readingTime: 7

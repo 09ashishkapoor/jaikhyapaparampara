@@ -4,7 +4,7 @@ title: "The Terrifying Beauty of Mother Kali: Esoteric Insights and Ritual Pract
 breadcrumbTitle: "Kali Puja Rituals & Symbolism"
 description: "Guru Shyama Khyapa provides profound esoteric insights into the form and symbolism of Goddess Kali, the significance of Amavasya (new moon) worship, the meticulous rituals of Kali Puja including the Brihat Shodosh Nyas body purification, timing requirements from 10 PM to 1:55 AM, offerings to jackals and eight supernatural beings, the transformation of worship spaces into cremation grounds, and why householders should not attempt this dangerous tantra practice without proper initiation."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mother Kali, Kali Puja, Amavasya New Moon, Tantra Ritual, Dashamahavidya, Garland of Heads, Cremation Ground, Jackals Shival, Brihat Shodosh Nyas, Bija Mantra Bang, Mahakala Puja, Yogini Worship, Kshetrapal, Tantric Practice, Shamshan Kali"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-07
 readingTime: 32

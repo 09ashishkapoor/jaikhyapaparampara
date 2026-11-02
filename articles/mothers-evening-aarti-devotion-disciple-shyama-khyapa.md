@@ -4,7 +4,7 @@ title: "Mother's Evening Aarti: A Conversation on Devotion - Guru Shyama Khyapa"
 breadcrumbTitle: "Evening Aarti and Devotion"
 description: "Guru Shyama Khyapa discusses the essence of true devotion with a disciple, emphasizing that calling Mother with sincere love matters more than elaborate rituals and mantras."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, evening aarti, devotion, bhakti, disciple, rituals, mantra, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:42:00
 readingTime: 6

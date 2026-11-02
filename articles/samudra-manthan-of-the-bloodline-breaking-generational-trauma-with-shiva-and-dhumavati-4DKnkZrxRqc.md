@@ -4,7 +4,7 @@ title: "Samudra Manthan of the Bloodline: Breaking Generational Trauma with Shiv
 breadcrumbTitle: "Bloodline Churning"
 description: "Shri Praveen Radhakrishna continues his Dhumavati teaching by explaining the body’s Sthala Purana as inherited lineage, why Devi births Gurus into ordinary careers to experience trauma first-hand, and how a seeker begins churning generational karma instead of living in an identity crisis."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Dhumavati, Shiva, generational trauma, generational curse, bloodline, Samudra Manthan, Sthala Purana, lineage, DNA memory, Jiva, identity crisis, corporate ID card, banking, Karma Bhoomi, Ma Adya, Kali Yuga, Kali Purush, language, English, Sanskrit, Tamil"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:42:00
 readingTime: 10

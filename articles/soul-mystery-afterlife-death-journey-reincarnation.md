@@ -4,7 +4,7 @@ title: "The Soul's Mystery: What Happens After Death and Where the Spirit Travel
 breadcrumbTitle: "Soul After Death Journey"
 description: "Guru Shyama Khyapa reveals the profound mystery of the soul—what it is, where it goes after death, and how past deeds determine the journey to the lunar realm, netherworld, or rebirth."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, soul, afterlife, death, reincarnation, cremation, Chandraloka, spirit"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 20

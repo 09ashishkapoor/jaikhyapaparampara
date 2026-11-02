@@ -4,7 +4,7 @@ title: "Identify and Remove the Five Deadly Enemies: Sadhana and Life"
 breadcrumbTitle: "The Five Deadly Enemies in Sadhana"
 description: "Shri Praveen Radhakrishna explains the five categories of deadly enemies as described by Sri Krishna — and how a Kali Sadhaka must identify and neutralize each through either organic action or spiritual surrender, while remaining completely detached from the result."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, five enemies, Stambhan, Kali Sadhana, Simhasana, Bhairava Tattva, Shunyata, Dharma, Sri Krishna Arjuna, enemy removal sadhana"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:23:00
 readingTime: 6

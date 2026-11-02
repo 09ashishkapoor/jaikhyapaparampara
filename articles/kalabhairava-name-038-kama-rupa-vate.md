@@ -4,7 +4,7 @@ title: "Kalabhairava Name 38: Kama-Rupa-Vate - Meaning and Significance"
 breadcrumbTitle: "Kama-Rupa-Vate"
 description: "English meaning and spiritual significance of Kama-Rupa-Vate, the 38th name of Lord Kalabhairava: free to assume whatever form divine will requires."
 keywords: "Kama-Rupa-Vate, Kalabhairava name 38, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kama-Rupa-Vate meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 21: Kali-Kula-Vara-Pradaya - Meaning and Significance"
 breadcrumbTitle: "Kali-Kula-Vara-Pradaya"
 description: "English meaning and spiritual significance of Kali-Kula-Vara-Pradaya, the 21st name of Lord Kalabhairava: giver of boons to the lineage of Kala or Kali."
 keywords: "Kali-Kula-Vara-Pradaya, Kalabhairava name 21, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kali-Kula-Vara-Pradaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

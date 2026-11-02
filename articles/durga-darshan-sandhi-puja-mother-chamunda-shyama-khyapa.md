@@ -4,7 +4,7 @@ title: "Durga Darshan: Guru Shyama Khyapa on Sandhi Puja, Mother Chamunda, and D
 breadcrumbTitle: "Durga Darshan - Sandhi Puja"
 description: "Guru Shyama Khyapa explains Sandhi Puja timing, why only Mother Chamunda is worshipped during the 48-minute sacred window, and why Mother comes in her own way—not by our calling."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Durga Darshan, Sandhi Puja, Mother Chamunda, Maha Ashtami, Maha Navami, Hiranyagarbha, Rajpur Mahashmashan, Divine Grace"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:54:00
 readingTime: 4

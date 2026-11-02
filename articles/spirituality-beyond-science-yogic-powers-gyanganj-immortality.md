@@ -4,7 +4,7 @@ title: "Spirituality Beyond Science: Yogic Powers, Gyanganj, and the Quest for I
 breadcrumbTitle: "Spirituality Beyond Science"
 description: "Guru Shyama Khyapa explains why spirituality transcends modern science, discussing ancient Vedic knowledge, the secrets of Gyanganj, and the yogic mastery of elements and ether."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Science and Spirituality, Gyanganj, Immortality, Yogic Powers, Vedas, Feng Shui, Lord Mahadev, Ether Communication, Kriya Yoga"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:36:00
 readingTime: 7

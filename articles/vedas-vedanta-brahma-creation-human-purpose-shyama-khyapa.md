@@ -4,7 +4,7 @@ title: "Vedas Vedanta and Brahma's Creation: Understanding Human Purpose"
 breadcrumbTitle: "Vedas Vedanta Brahma Creation Human Purpose"
 description: "Guru Shyama Khyapa discusses the Vedas and Vedanta, Brahma's plan for human creation, the conflict between Darwin's theory and scriptures, the Chaturvarna system, and the decline of Vedic knowledge in modern times."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Guru Shyama Khyapa, Vedas, Vedanta, Brahma Creation, Human Purpose, Darwin Theory Evolution, Chaturvarna, Gita, Sanskrit Education"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:40:00
 readingTime: 4

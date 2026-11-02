@@ -4,7 +4,7 @@ title: "Parashurama Avatar: The Sixth Incarnation - Immortal Warrior of Vishnu"
 breadcrumbTitle: "Parashurama - Sixth Avatar"
 description: "Guru Shyama Khyapa reveals the story of Lord Parashurama, the sixth avatar of Vishnu, who annihilated Kshatriyas 21 times and remains immortal until Kalki's arrival."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Parashurama, Dashavatar, Vishnu Avatar, Jamadagni, Renuka, Kartavirya Arjuna, Immortal, Kshetra, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 13:56:00
 readingTime: 9

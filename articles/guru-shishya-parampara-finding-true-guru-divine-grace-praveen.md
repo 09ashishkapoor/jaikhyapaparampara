@@ -4,7 +4,7 @@ title: "Guru-Shishya Parampara: Finding a True Guru and the Power of Divine Grac
 breadcrumbTitle: "Finding a True Guru Divine Grace"
 description: "Praveen Radha Krishna and Guru Shyama Khyapa discuss the sacred guru-disciple relationship, the difference between chasing a guru and being called, and how divine grace manifests through the Guru's lineage."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Guru-Shishya, Guru-Disciple, Diksha, Initiation, Divine Grace, Sadhana, Gurumandala"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 00:00:00
 readingTime: 11

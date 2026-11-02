@@ -4,7 +4,7 @@ title: "Overcoming Financial Difficulties: The White Akanda Root Remedy"
 breadcrumbTitle: "Financial Difficulties Remedy"
 description: "Guru Shyama Khyapa shares a powerful folk remedy (totka) using the White Akanda root, cow products, and sacred mantras to help overcome financial struggles and attract prosperity."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Financial Difficulties, Money Problems, White Akanda, Crown Flower, Shiva Linga, Remedy, Totka, Prosperity, Mantra"
-category: "Spiritual Remedies"
+category: "Sadhana, Tantra and Mantra"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:51:00
 readingTime: 2

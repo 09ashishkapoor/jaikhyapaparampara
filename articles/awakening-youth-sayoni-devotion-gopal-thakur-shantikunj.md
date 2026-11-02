@@ -4,7 +4,7 @@ title: "The Awakening Youth: Sayoni's Devotion to Gopal Thakur at Shantikunj"
 breadcrumbTitle: "Sayoni and Gopal Thakur"
 description: "Sayoni Seal shares her unique bond with her deity Gopal Thakur, while Guru Shyama Khyapa discusses the growing spiritual awakening among India's youth."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gopal Thakur, Sayoni Seal, Shantikunj, Spiritual Awakening, Youth Spirituality, Diksha, Initiation, Michael Nagar, Kula Kundalini"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:20:00
 readingTime: 4

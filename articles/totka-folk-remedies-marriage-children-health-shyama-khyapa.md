@@ -4,7 +4,7 @@ title: "Totka: Folk Remedies for Marriage, Children, and Health Issues"
 breadcrumbTitle: "Totka Folk Remedies"
 description: "Guru Shyama Khyapa shares traditional folk remedies (Totkas) for common problems—marriage delays, childlessness, domestic unrest, and health issues using sacred roots and trees."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Totka, Folk Remedy, Marriage, Children, Peepal Tree, Jayanti Tree, Lajjabati, Shimal Tree, Akanda, Aparajita, Domestic Peace, Health"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:12:00
 readingTime: 4

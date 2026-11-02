@@ -4,7 +4,7 @@ title: "The 33,000 Volts of Divine Power: A Sadhak's Role in Awakening the Mothe
 breadcrumbTitle: "Sadhak's Role in Divine Power"
 description: "Guru Shyama Khyapa explains how Sadhaks channel universal power into deities, making them conscious, and the immense, 33,000-volt energy involved. He reveals why practitioners cannot retain this power and must remain ever-awake to keep the Mother alive."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Sadhak, Divine Power, Universal Power, Deity Consecration, Pran Pratishtha, 33000 Volts, Sojag Dham, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 15

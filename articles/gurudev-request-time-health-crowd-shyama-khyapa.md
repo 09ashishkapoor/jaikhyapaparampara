@@ -4,7 +4,7 @@ title: "Gurudev's Request: 'I Need Some Time' - Guru Shyama Khyapa on Health and
 breadcrumbTitle: "Gurudev's Request for Time"
 description: "Guru Shyama Khyapa makes an emotional appeal to devotees: do not visit Shantikunj while his health is fragile and COVID-19 cases are rising. He needs time to recover before serving again."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Health, COVID-19, Shantikunj, Devotees, Service, Spiritual Healing, Third Wave"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:47:00
 readingTime: 5

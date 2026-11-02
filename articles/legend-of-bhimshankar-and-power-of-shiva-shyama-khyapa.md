@@ -4,7 +4,7 @@ title: "The Legend of Bhimshankar and the Power of Lord Shiva"
 breadcrumbTitle: "Legend of Bhimshankar"
 description: "Guru Shyama Khyapa narrates the ancient story of Bhimasura, the manifestation of Bhimshankar Jyotirlinga, and the immense power of worshipping Lord Shiva in Tantric practice."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bhimshankar, Lord Shiva, Jyotirlinga, Kamrup Kamakhya, Ravana, Bhimasura, Mahamrityunjaya Yagna"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 12:02:00
 readingTime: 6

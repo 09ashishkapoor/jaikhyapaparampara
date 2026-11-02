@@ -4,7 +4,7 @@ title: "Suspension of Darshan Sessions: Overcrowding and Safety Concerns at Shan
 breadcrumbTitle: "Suspension of Darshan Sessions"
 description: "Due to overwhelming crowds, safety concerns at the cremation ground, and Guru Shyama Khyapa's fragile health, all in-person darshan sessions are temporarily suspended."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shantikunja, Cremation Ground, Darshan Suspended, Devotee Crowds, Health Concerns, Temple Administration, Spiritual Boundary"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:37:00
 readingTime: 4

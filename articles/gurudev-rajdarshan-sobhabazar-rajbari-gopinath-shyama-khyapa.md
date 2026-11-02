@@ -4,7 +4,7 @@ title: "Gurudev's Rajdarshan: A Visitor from Sobhabazar Rajbari Speaks of Gopina
 breadcrumbTitle: "Gurudev's Rajdarshan and Sobhabazar Rajbari"
 description: "Guru Shyama Khyapa meets a Shebait (custodian) of Gopinath from Sobhabazar Rajbari, discussing the palace temple, Lake Kalibari, and the historic crown of Siraj ud-Daulah."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Sobhabazar Rajbari, Gopinath, Nabakrishna Deb, Lake Kalibari, Mundomanitala"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 20:02:00
 readingTime: 3

@@ -4,7 +4,7 @@ title: "Sadhak Shantikunje: A Meeting of Spiritual Masters at Gurudev's Ashram"
 breadcrumbTitle: "Meeting of Sadhus"
 description: "Gurudev Shyama Khyapa hosts Swami Tantra Devananda from Belur Math and Sujoy Palit from the Indian Sadhu Society, discussing spiritual recognition,  divine calls, and the power of love and devotion."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Swami Tantra Devananda, Belur Math, Indian Sadhu Society, spiritual meeting, divine call, tantra, devotion, love"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 30

@@ -4,7 +4,7 @@ title: "The Rigors of True Tantra: Guru Shyama Khyapa on Sadhana, Gurus, and Res
 breadcrumbTitle: "True Tantra Rigors"
 description: "Guru Shyama Khyapa explains the demanding path of genuine Tantric practice, the scarcity of true Gurus, the immense temptations faced by practitioners, and his personal journey guided by Baba Bama-Deb and the recognition of Jagannath Dev."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tantra, Tantric practice, Sadhana, Guru, Baba Bama-Deb, Jagannath Dev, Rajpur cremation ground, temptation, spiritual discipline, Siddhi, Kali Yuga, Tarapith, Kamakhya, Benares, Chinnamasta puja, Basudeb Jagannath"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 17

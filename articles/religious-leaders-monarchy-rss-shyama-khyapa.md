@@ -4,7 +4,7 @@ title: "Religious Leaders and Monarchy: Gurudev on RSS, Politics, and Planetary 
 breadcrumbTitle: "Religious Leaders and Monarchy"
 description: "Guru Shyama Khyapa discusses the historical roots of RSS, the role of religious gurus in guiding rulers, the connection between planets and human behavior, and his views on speaking truth to power."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, RSS, Religious Leaders, Monarchy, Politics, Planetary Influence, Saturn, Rahu, Ketu, Six Enemies, Shada-Ripu"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:17:00
 readingTime: 12

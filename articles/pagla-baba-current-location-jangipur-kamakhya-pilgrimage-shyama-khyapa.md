@@ -4,7 +4,7 @@ title: "Pagla Baba's Current Location: Jangipur and the Kamakhya Pilgrimage"
 breadcrumbTitle: "Pagla Baba Location Update"
 description: "Guru Shyama Khyapa shares Pagla Baba's whereabouts on his foot pilgrimage to Kamakhya—resting at the Dakshinakali Temple in Raghunathganj, Jangipur, before continuing toward Aurangabad."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pagla Baba, Kamakhya, Jangipur, Raghunathganj, Dakshinakali Temple, Pilgrimage"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 10:01:00
 readingTime: 3

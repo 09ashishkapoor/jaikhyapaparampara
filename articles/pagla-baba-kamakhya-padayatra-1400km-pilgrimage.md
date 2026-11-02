@@ -4,7 +4,7 @@ title: "Pagla Baba's 1400km Padayatra to Kamakhya: A Walking Pilgrimage"
 breadcrumbTitle: "Pagla Baba Kamakhya Padayatra"
 description: "Tapan shares his experience accompanying Pagla Baba on a 1400km walking pilgrimage from Ranaghat to Kamakhya, detailing the challenges, divine experiences, and RSS support along the way."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pagla Baba, Kamakhya, Padayatra, walking pilgrimage, 1400km, RSS, Tapan, Manoj Sharma, Bhupesh Sharma, Bharat Sevashram Sangha"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:27:00
 readingTime: 4

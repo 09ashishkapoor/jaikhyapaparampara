@@ -4,7 +4,7 @@ title: "Mother Bhuvaneshwari, the Moon, and Chandrayan"
 breadcrumbTitle: "Bhuvaneshwari and the Moon"
 description: "Guru Shyama Khyapa explains Mother Bhuvaneshwari’s role in the Dasha Mahavidya, the Moon’s link to life and death, and the Chandrayan ritual. He also recounts the Daksha curse and the Moon’s waxing and waning."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mother Bhuvaneshwari, Dasha Mahavidya, Moon, Chandra, Chandrayan, Daksha, Yakshma, Brahma, Harinaam Sankirtan, Tantra"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 20:37:00
 readingTime: 6

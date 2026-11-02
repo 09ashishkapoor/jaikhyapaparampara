@@ -4,7 +4,7 @@ title: "Kanda Bhairava: Kartikeya, the Left-Handed Path, and Kaumari Devi"
 breadcrumbTitle: "Kanda Bhairava"
 description: "Shri Praveen Radhakrishna explains why Lord Kartikeya safeguards Tantra for Kali Yuga, how Kanda Bhairava represents a fierce corrective current when temples and satvic structures decline, and why Kaumari Devi and Valli Devi are central to this form of worship."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Kanda Bhairava, Cand Bhairava, Kartikeya, Muruga, Skanda, Guhan, Vamachara, Vama Marga, Tantra, Left-Handed Path, Kali Yuga, Divya Sthalam, Tirupati, Kshetrapala, Pranava, sixth head, Pancha Tattva, Mahadeva, Shiva, Kaumari Devi, Valli Devi, Shakti Vel, Ashta Bhairavas, Dharma, Adharma"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:37:00
 readingTime: 7

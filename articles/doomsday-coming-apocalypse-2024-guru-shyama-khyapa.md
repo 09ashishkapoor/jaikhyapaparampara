@@ -4,7 +4,7 @@ title: "The Doomsday is Coming: Apocalyptic Warnings and Prophecies for 2024 by 
 breadcrumbTitle: "Doomsday Warnings 2024"
 description: "On the eve of Guru Purnima, Guru Shyama Khyapa delivers dire warnings about 2024 as a 'year of death,' discussing cyber threats, train disasters, Jagannath temple omens, and the coming global upheaval."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Doomsday 2024, Apocalypse, Year of Death, Global Upheaval, Bhavishya Malika, Prophecy, Khyapa Parampara"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 16:00:00
 readingTime: 8

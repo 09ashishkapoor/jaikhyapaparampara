@@ -4,7 +4,7 @@ title: "Clarifications on the Ranveer Incident — Skanda's Compassion, Surrende
 breadcrumbTitle: "Skanda's Compassion and the Sacred Womb"
 description: "Shri Praveen Radhakrishna clarifies his previous video on the Ranveer Allahbadia controversy — exploring Skanda's deep compassion, the path of surrender, Sri Krishna as Maa Kali, and the urgent spiritual message about honouring every woman's womb."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Skanda, Ma Kali, Sharanagati, Ma Kamakhya, Panchali, Sri Krishna, Nimitta Shastra, Soorapadman, Arunagirinathar, Brihannala"
-category: "Discourse"
+category: "Discourses, Questions & Practical Life"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:50:00
 readingTime: 9

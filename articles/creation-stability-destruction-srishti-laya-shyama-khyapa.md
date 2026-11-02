@@ -4,7 +4,7 @@ title: "Creation, Stability and Destruction: Guru Shyama Khyapa on Srishti and L
 breadcrumbTitle: "Creation, Stability and Destruction"
 description: "Guru Shyama Khyapa explains the cycle of creation, preservation, and dissolution—Brahma, Vishnu, and Shiva—and speaks on Coronavirus as biological war, the eight paths of truth, and the Mahamrityunjaya Mantra."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Creation, Dissolution, Srishti, Laya, Brahma, Vishnu, Shiva, Coronavirus, Mahamrityunjaya, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 11:18:00
 readingTime: 4

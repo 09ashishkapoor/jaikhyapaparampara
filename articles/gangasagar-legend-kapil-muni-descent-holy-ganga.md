@@ -4,7 +4,7 @@ title: "Gangasagar: The Legend of Kapil Muni and the Descent of the Holy Ganga"
 breadcrumbTitle: "Gangasagar Legends"
 description: "Guru Shyama Khyapa explains the mythological history of Gangasagar, including the story of Kapil Muni, King Sagar's 60,000 sons, and the descent of Ganga from the heavens."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gangasagar, Kapil Muni, King Sagar, Bhagirath, Lord Shiva, Ganga Descent, Holy Bath, Patal, Bishalakshmi, Bhadrakali"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:33:00
 readingTime: 5

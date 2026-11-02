@@ -4,7 +4,7 @@ title: "Bhairava Sadhana: Nimitta Kali — Understanding Maa's Plan"
 breadcrumbTitle: "Nimitta Kali: Understanding Maa's Plan"
 description: "Shri Praveen Radhakrishna reveals Maa Kali as the cosmic planner — 'Nimitta Kali' — who deliberately places herself as the victim in every major divine event to trigger transformative action, and explains how this same design plays out in every Sadhaka's life."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Maa Kali, Adi Shakti, Nimitta Kali, Mata Sati, Mata Sita, Kamadhenu, Parashurama, Shakti Peethas, Mooladhara Nivasini, Dharma, Vairagya"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-17 10:01:00
 readingTime: 9

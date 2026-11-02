@@ -4,7 +4,7 @@ title: "Devotees from Bangladesh Receive Initiation: Gurudev's Teaching on Hones
 breadcrumbTitle: "Bangladesh Devotees Initiation"
 description: "Devotees from Bangladesh travel to receive diksha (initiation) from Guru Shyama Khyapa. Gurudev emphasizes that true instruction is living honestly and purely, reminding householders to always remember God."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Diksha, Initiation, Bangladesh, Barisal, Spiritual Instruction, Honest Living, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:36:00
 readingTime: 3

@@ -4,7 +4,7 @@ title: "Gurudev Shyama Khyapa on the Arrival of Kalki Avatar and the Final Battl
 breadcrumbTitle: "Kalki Avatar's Arrival"
 description: "Guru Shyama Khyapa discusses the impending birth of Kalki Avatar, the construction of his temple in Sambhal, the role of the seven immortals, the final battle, seven days of darkness from atomic explosions, and the fate of souls after death."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kalki Avatar, Final Battle, Seven Immortals, Atomic Explosion, Vaitarani River, Akhand Bharat"
-category: "Prophecy"
+category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-14 10:09:00
 readingTime: 8

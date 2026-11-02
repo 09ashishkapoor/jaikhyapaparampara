@@ -4,7 +4,7 @@ title: "The Second Mahavidya: The Mystery and Power of Mother Tara (Part 1)"
 breadcrumbTitle: "Dashamahabidya Tara 1"
 description: "In the first part of this series, Guru Shyama Khyapa explores the origins of the second Mahavidya, Mother Tara. From the legends of the Jibat Kunda to the arrival of the Brahma Shila from China, learn about the deep connection between Bama Khepa and the Mother."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Mother Tara, Dashamahabidya, Tarapith, Bama Khepa, Jibat Kunda, Brahma Shila, Vashistha Muni, Nigamananda, Spiritual Journey"
-category: "Dasa Mahavidyas"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 18

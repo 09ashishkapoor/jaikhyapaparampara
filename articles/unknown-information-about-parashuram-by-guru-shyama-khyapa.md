@@ -4,7 +4,7 @@ title: "Unknown Information About Parashuram by Guru Shyama Khyapa"
 breadcrumbTitle: "Parashuram Insights"
 description: "Gurudev Gupta Sadhak Sri Sri Shyama Khapa reveals lesser-known facts about Lord Parashurama, his birth on Akshaya Tritiya, his devotion to Shiva, and his role as a teacher to Bhishma, Drona, and Karna."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Shyama Khyapa, Parashuram, Hindu Mythology, Avatars, Akshaya Tritiya, Shiva Devotee"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 6

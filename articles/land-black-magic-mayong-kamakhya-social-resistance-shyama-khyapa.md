@@ -4,7 +4,7 @@ title: "The Land of Black Magic: Guru Shyama Khyapa on Mayong, Kamakhya, and Soc
 breadcrumbTitle: "Black Magic and Social Resistance"
 description: "Guru Shyama Khyapa discusses the rising prevalence of black magic in West Bengal, its origins in Mayong and Kamakhya, and the urgent need for social unity to combat it."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Black Magic, Mayong, Kamakhya, West Bengal, Social Resistance, Mental Health, Spiritual Protection, Mantras"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:25:00
 readingTime: 4

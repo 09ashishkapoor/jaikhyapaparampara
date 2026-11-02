@@ -4,7 +4,7 @@ title: "Akshaya Tritiya: Sins Removed by Charity - Guru Shyama Khyapa's Teaching
 breadcrumbTitle: "Akshaya Tritiya and Charity"
 description: "Guru Shyama Khyapa explains the spiritual significance of Akshaya Tritiya, emphasizing that charity given on this day becomes eternal and can overcome obstacles and dangers."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Akshaya Tritiya, Charity, Homa, Fire Ritual, Spiritual Giving, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 20:02:00
 readingTime: 7

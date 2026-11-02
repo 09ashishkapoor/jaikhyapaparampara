@@ -4,7 +4,7 @@ title: "Shiva Chaturdashi: Fire Ritual, Planetary Defects, and the Legend of the
 breadcrumbTitle: "Shiva Chaturdashi and Debt Relief"
 description: "Gurudev explains the significance of Shivaratri, shares the legend of the hunter who unknowingly worshipped Shiva, and reveals spiritual remedies for planetary defects and debt through devotion to Lord Shiva."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Shivaratri, Shiva Chaturdashi, Planetary defects, Debt relief, Fire ritual"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 14:07:00
 readingTime: 8

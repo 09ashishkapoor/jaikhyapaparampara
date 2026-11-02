@@ -4,7 +4,7 @@ title: "Brahmin Food Rules, Sattvic Diet, and Controlling the Six Internal Enemi
 breadcrumbTitle: "Brahmin Food and Sattvic Diet"
 description: "Guru Shyama Khyapa explains what foods Brahmins and spiritual seekers must avoid, the Gita's guidelines on stimulants, the difference between Sattvic and Asattvic food, and how diet connects directly to mastering the six internal enemies—Kama, Krodha, Lobha, Moha, Mada, and Matsarya."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Brahmin food, Sattvic diet, six internal enemies, Shada-ripu, Gita, stimulants, onion garlic, food habits"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:12:00
 readingTime: 6

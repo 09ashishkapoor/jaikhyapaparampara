@@ -4,7 +4,7 @@ title: "Tantric Saraswati Puja: The Fierce Form vs. The Common Worship"
 breadcrumbTitle: "Tantric Saraswati Puja"
 description: "Guru Shyama Khyapa reveals the stark differences between the gentle Saraswati of household worship and the fierce Maha Saraswati of Tantra, including the necessity of animal sacrifice and proper ritual protocols."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Saraswati Puja, Tantric Puja, Maha Saraswati, Kali Puja, Sacrifice, Tarapith"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:07:00
 readingTime: 6

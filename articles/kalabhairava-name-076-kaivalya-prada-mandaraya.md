@@ -4,7 +4,7 @@ title: "Kalabhairava Name 76: Kaivalya-Prada-Mandaraya - Meaning and Significanc
 breadcrumbTitle: "Kaivalya-Prada-Mandaraya"
 description: "English meaning and spiritual significance of Kaivalya-Prada-Mandaraya, the 76th name of Lord Kalabhairava, revered as the giver of liberation and the bliss of ultimate freedom."
 keywords: "Kaivalya-Prada-Mandaraya, Kalabhairava name 76, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kaivalya-Prada-Mandaraya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 70: Kaminii-Kancanaa-Bhakta-Mocakaya - Meaning and Sig
 breadcrumbTitle: "Kaminii-Kancanaa-Bhakta-Mocakaya"
 description: "English meaning and spiritual significance of Kaminii-Kancanaa-Bhakta-Mocakaya, the 70th name of Lord Kalabhairava, who frees devotees from bondage to lust and greed."
 keywords: "Kaminii-Kancanaa-Bhakta-Mocakaya, Kalabhairava name 70, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kaminii-Kancanaa-Bhakta-Mocakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

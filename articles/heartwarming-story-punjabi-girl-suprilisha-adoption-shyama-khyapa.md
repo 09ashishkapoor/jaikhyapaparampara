@@ -4,7 +4,7 @@ title: "The Heartwarming Story of a Punjabi Girl: Guru Shyama Khyapa on Adopting
 breadcrumbTitle: "Punjabi Girl Adoption Story"
 description: "Guru Shyama Khyapa shares the remarkable story of Suprilisha, a Punjabi divorcee he adopted as his daughter, performed her Kanyadaan, and blessed her marriage to a South Indian man."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Suprilisha, Punjabi Girl, Kanyadaan, Inter-faith Marriage, Church Wedding, Raniganj, Divine Blessing, Adoption"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 12:02:00
 readingTime: 6

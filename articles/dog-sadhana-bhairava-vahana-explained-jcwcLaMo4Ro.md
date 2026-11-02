@@ -4,7 +4,7 @@ title: "Dog Sadhana? Bhairava's Vahana Explained"
 breadcrumbTitle: "Bhairava's Vahana: The Sacred Dog"
 description: "Shri Praveen Radhakrishna reveals the profound esoteric significance of Bhairava's Vahana — the dog — explaining how the 'inauspicious' animal embodies the entire four Vedas, the Jyotish Shastra, and the gateway to ultimate Bhairava Sadhana."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Bhairava Vahana, dog and Bhairava, Sarama, Yudhisthira and dog, Batuka Bhairava, Sharvara, Shyama, four Vedas, Fifth Head of Brahma, Canis Major"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 00:57:00
 readingTime: 7

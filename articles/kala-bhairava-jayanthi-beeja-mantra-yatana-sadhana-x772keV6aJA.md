@@ -4,7 +4,7 @@ title: "Kala Bhairava Jayanthi: Bhairavi Yatana and Who Is Ready for Kala Bhaira
 breadcrumbTitle: "Kala Bhairava Jayanthi: Yatana Sadhana"
 description: "On Kala Bhairava Jayanthi, Shri Praveen Radhakrishna explains the profound concept of Bhairavi Yatana — the living death of conscious karma processing — and lays out a clear set of conditions for those who are genuinely ready to begin Kala Bhairava Sadhana."
 keywords: "Shri Praveen Radhakrishna, Kala Bhairava, Bhairava, Khyapa Parampara, Khepa Tradition, Bhairavi Yatana, Kala Bhairava Jayanthi, Beeja Mantra, Vatuka Bhairava, Swarna Akarshana Bhairava, Kashi, Moksha, Atma, Sadhana"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:34:00
 readingTime: 10

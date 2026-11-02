@@ -4,7 +4,7 @@ title: "Sadguru and Asadguru: The Difference Between True and False Gurus"
 breadcrumbTitle: "Sadguru vs Asadguru Difference"
 description: "Guru Shyama Khyapa explains the profound difference between a Sadguru (true guru) and an Asadguru (false guru), sharing illuminating stories that reveal the true nature of spiritual guidance."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Sadguru, Asadguru, True Guru, False Guru, Ahetuk Kripa, Spiritual Guidance, Karmaphal"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 17:38:00
 readingTime: 12

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 82: Kara-Griha-Vimocakaya - Meaning and Significance"
 breadcrumbTitle: "Kara-Griha-Vimocakaya"
 description: "English meaning and spiritual significance of Kara-Griha-Vimocakaya, the 82nd name of Lord Kalabhairava, who frees the soul from bondage and the prison of worldly existence."
 keywords: "Kara-Griha-Vimocakaya, Kalabhairava name 82, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kara-Griha-Vimocakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

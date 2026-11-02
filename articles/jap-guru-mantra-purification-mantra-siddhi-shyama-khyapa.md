@@ -4,7 +4,7 @@ title: "The Secrets of Jap: From Hand Purification to Mantra Siddhi"
 breadcrumbTitle: "Secrets of Jap and Mantra Siddhi"
 description: "Guru Shyama Khyapa reveals the complete practice of Jap—the correct way to purify the hands, the deep significance of the 50 sacred letters in Mother Kali's necklace, counting methods for men and women, and how repeated chanting awakens the mantra and leads to Siddhi."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jap, chanting, Guru Mantra, hand purification, Nyasa, Mala, Mantra Siddhi, Purashcharana, Ramakrishna"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:13:00
 readingTime: 7

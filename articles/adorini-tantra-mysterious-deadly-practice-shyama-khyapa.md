@@ -4,7 +4,7 @@ title: "Adorini Tantra: The Mysterious and Deadly Practice - Guru Shyama Khyapa 
 breadcrumbTitle: "Adorini Tantra Mystery Revealed"
 description: "Guru Shyama Khyapa reveals the secrets of Adorini Tantra, a formidable tantric practice involving Shiva and Durga, the Womb of Time, and why it should never be witnessed by others."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Adorini Tantra, Tantra, Shiva, Durga, Kali, Kriya-Yoga, Womb of Time, Kaler Chaka, Spiritual Practice, Khyapa Parampara"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 23:00:00
 readingTime: 8

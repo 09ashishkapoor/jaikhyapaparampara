@@ -4,7 +4,7 @@ title: "Guru Reiki Part Two: Gurudev Explains Reiki Healing and Angels"
 breadcrumbTitle: "Guru Reiki Part Two"
 description: "Guru Shyama Khyapa explains the profound science of Reiki, the role of angels and crystals, and the discipline required to practice this ancient healing art."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Reiki, Healing, Angels, Crystals, Chakras, Mikao Usui, Spiritual Science"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 11:48:00
 readingTime: 8

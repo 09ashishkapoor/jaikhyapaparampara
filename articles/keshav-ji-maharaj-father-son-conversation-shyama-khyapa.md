@@ -4,7 +4,7 @@ title: "Father-Son Bond: Gurudev's Visit to Keshav-ji Maharaj"
 breadcrumbTitle: "Keshav-ji Maharaj Conversation"
 description: "Guru Shyama Khyapa visits the ailing Keshav-ji Maharaj (RSS leader), sharing a father-son relationship and performing a healing kriya for his leg pain."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Keshav-ji Maharaj, RSS, Kriya, Healing, Father-Son"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:05:00
 readingTime: 4

@@ -4,7 +4,7 @@ title: "Brother Phota: The Sacred Bond of Bhratri Dwitiya (Bhai Dooj)"
 breadcrumbTitle: "Brother Phota Bhratri Dwitiya"
 description: "Guru Shyama Khyapa explains the significance of Bhratri Dwitiya (Bhai Dooj/Bhai Phonta), the ritual of placing a 'thorn' at Yama's door, and his support for the evolving tradition of brothers giving phonta to sisters."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bhratri Dwitiya, Bhai Dooj, Bhai Phonta, Brother Phota, Sister Phonta, Yama, Yamuna, Festival, Hindu Tradition, Sanatana Dharma"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:11:00
 readingTime: 2

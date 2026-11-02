@@ -4,7 +4,7 @@ title: "Lord Kartikeya as Chand Bhairava: Brahma’s Lesson, Guru of Shiva, God 
 breadcrumbTitle: "Kartikeya as Chand Bhairava"
 description: "Shri Praveen Radhakrishna presents Lord Kartikeya (Muruga) as Chand Bhairava—an intensely Dharmic, secretive deity of straight-path truth whose worship punishes dishonesty, empowers divine masculinity, and reveals Bhairava-like Guru Tattva within Shiva."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Lord Kartikeya, Muruga, Chand Bhairava, Dharma, Devaloka, Sadashiva, Adi Shakti, Shakti, Vairagya, Kundalini Shakti, Mars, Peacock, Vahana, Tamil Nadu, Brahma, Guru Tattva"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Shri Praveen Radhakrishna"
 date: 2026-03-18 00:26:00
 readingTime: 8

@@ -4,7 +4,7 @@ title: "Birth Cycle: Understanding Reincarnation and Past Lives"
 breadcrumbTitle: "Birth Cycle Reincarnation"
 description: "Guru Shyama Khyapa explores the cycle of birth, revealing how souls transition between human and animal forms based on karma, and sharing his own past life memories as a wandering monk."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Birth Cycle, Reincarnation, Past Lives, Yoni, Animal Birth, Karma, Bamdeb Baba, Kalu Baba, Ramakrishna, Swami Satyananda"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:07:00
 readingTime: 4

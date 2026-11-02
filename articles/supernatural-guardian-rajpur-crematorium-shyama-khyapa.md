@@ -4,7 +4,7 @@ title: "The Supernatural Guardian of Rajpur Crematorium: 40 Years of Miracles an
 breadcrumbTitle: "Rajpur Crematorium Miracles"
 description: "Gurudev Shyama Khyapa recounts mystical and supernatural incidents from his 40 years at the Rajpur Crematorium, including encounters with the legendary Shmashan Rakshak, protection rituals, and stories of divine intervention."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Rajpur Crematorium, Shmashan Rakshak, supernatural, spirits, Mother Kali, spiritual protection, tantra"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-05
 readingTime: 32

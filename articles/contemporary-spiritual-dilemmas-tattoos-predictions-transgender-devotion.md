@@ -4,7 +4,7 @@ title: "Contemporary Spiritual Dilemmas: Tattoos, Predictions, and the Deep Devo
 breadcrumbTitle: "Modern Spiritual Questions"
 description: "Guru Shyama Khyapa addresses modern concerns including the spiritual impact of tattoos, why negative predictions manifest quickly while good things take time, and celebrates the profound devotion of the transgender (Hijra/Brihannala) community seeking God."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tattoos, Predictions, Transgender, Hijra, Brihannala, Spiritual Ethics, Cremation Ground, Gyanganj, Six Enemies"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-06
 readingTime: 35

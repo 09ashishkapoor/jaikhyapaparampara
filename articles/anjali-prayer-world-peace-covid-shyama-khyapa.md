@@ -4,7 +4,7 @@ title: "Anjali: Special Prayer for World Peace and Eradication of COVID-19"
 breadcrumbTitle: "Anjali Prayer World Peace"
 description: "A sacred Pushpanjali ritual led by Guru Shyama Khyapa with Sanskrit mantras to Mother Durga for world peace, health, and the eradication of the coronavirus pandemic."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Anjali, Pushpanjali, Prayer, World Peace, COVID, Durga, Mantra, Ritual, Shanti-Kunda, Narayani"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-10 11:19:00
 readingTime: 5

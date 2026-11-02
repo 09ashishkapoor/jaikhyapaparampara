@@ -4,7 +4,7 @@ title: "Durga to Defeat Demons | Guptasadhak Shyamakhyapa Provides Information"
 breadcrumbTitle: "Durga to Defeat Demons"
 description: "Gurudev discusses the significance of Goddess Durga/Chandi worship in the current global context of natural disasters and conflicts. Explains the need for Homa-Yagna to awaken the Mother."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Durga, Chandi, Mahishasura, demon, Homa Yagna, natural disaster"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 10:20:00
 readingTime: 3

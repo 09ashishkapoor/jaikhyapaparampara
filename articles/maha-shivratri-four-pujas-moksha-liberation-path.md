@@ -4,7 +4,7 @@ title: "Maha Shivratri: The Four Pujas, Moksha, and the Path to Liberation"
 breadcrumbTitle: "Maha Shivratri Rituals and Moksha"
 description: "Gurudev explains the sacred significance of Maha Shivratri, the four pujas performed throughout the night, and how both men and women seek blessings from Lord Shiva for liberation and spiritual fulfillment."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Maha Shivratri, Shiva worship, Moksha, liberation, Shivratri Vrata, Shaivite"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-15 14:06:00
 readingTime: 8

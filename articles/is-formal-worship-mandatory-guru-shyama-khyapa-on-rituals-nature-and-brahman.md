@@ -4,7 +4,7 @@ title: "Is Formal Worship Mandatory? Guru Shyama Khyapa on Rituals, Nature, and 
 breadcrumbTitle: "Worship and Brahman"
 description: "Guru Shyama Khyapa discusses why formal rituals aren't for everyone, the relationship between Lord Jagannath and Nature, and the path to realizing Brahman."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Rituals, Jagannath, Brahman, Nature, Spiritual Practice, Worship, Sadhana"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09
 readingTime: 6

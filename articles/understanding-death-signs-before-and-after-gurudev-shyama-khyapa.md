@@ -4,7 +4,7 @@ title: "Understanding Death: Signs, Fear, and the Soul's Journey"
 breadcrumbTitle: "Understanding Death"
 description: "Gurudev explains the reality of death, signs before passing, spiritual practices for transition, and the soul's journey according to karma and devotion."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, death, Yam-doots, Mahamrityunjaya Mantra, Bhagavad Gita, karma, soul journey"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "??? Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:06:00
 readingTime: 4

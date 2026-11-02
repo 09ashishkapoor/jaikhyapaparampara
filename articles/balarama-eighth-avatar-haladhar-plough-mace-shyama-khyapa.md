@@ -4,7 +4,7 @@ title: "Balarama Avatar: The Eighth Incarnation with the Plough and Mace"
 breadcrumbTitle: "Balarama: Krishna's Powerful Brother"
 description: "Guru Shyama Khyapa reveals the mystery of Lord Balarama, the eighth avatar of Narayana. Learn about his transfer from Devaki's to Rohini's womb, his weapons of plough and mace, the Tantric significance of Haladhar, and why Balarama was more fearsome than Rama."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Balarama, Haladhar, Sankarshan, Lord Krishna, Rohini, Devaki, Vasudeva, Kamsa, Plough, Mace, Langal, Musala, Tantra, Guhya, Root Chakra, Jagannath, Kedarnath, Badrinath, Dashavatar, Eighth Avatar"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-17 20:45:00
 readingTime: 8

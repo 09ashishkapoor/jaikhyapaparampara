@@ -4,7 +4,7 @@ title: "Not Durga, But Duggi: The Real Names of the Mother and Kola Bou Explaine
 breadcrumbTitle: "Duggi Real Name Durga Four Names"
 description: "Guru Shyama Khyapa reveals that Mother Durga's original name is 'Duggi,' explains her four primary names, and decodes the botanical significance of Kola Bou and the nine plants of Nabapatrika."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Duggi, Durga real name, Katyayani, Dakshayani, Narayani, Shibani, Kola Bou, Nabapatrika, Mahishasura, Nava Durga, Ganesh origin"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-09 19:28:00
 readingTime: 9

@@ -4,7 +4,7 @@ title: "Kalabhairava Name 93: Kaulaa-Marga-Pravartakaya - Meaning and Significan
 breadcrumbTitle: "Kaulaa-Marga-Pravartakaya"
 description: "English meaning and spiritual significance of Kaulaa-Marga-Pravartakaya, the 93rd name of Lord Kalabhairava, revered as the revealer and guide of the Kaula path."
 keywords: "Kaulaa-Marga-Pravartakaya, Kalabhairava name 93, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kaulaa-Marga-Pravartakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
-category: "Temple of Knowledge"
+category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
 language: "en"

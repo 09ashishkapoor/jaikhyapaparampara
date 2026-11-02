@@ -4,7 +4,7 @@ title: "Afghanistan Crisis and Taliban Takeover: Gurudev Shyama Khyapa Speaks on
 breadcrumbTitle: "Afghanistan Taliban Crisis"
 description: "Guru Shyama Khyapa discusses the Taliban takeover of Kabul, Afghanistan, expressing deep concern about the oppression of women, the humanitarian crisis, and the threat to world peace. He condemns the violence and calls for protest."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Afghanistan, Taliban, Kabul, World Peace, Oppression, Women Rights, Khyapa Parampara"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:39:00
 readingTime: 4

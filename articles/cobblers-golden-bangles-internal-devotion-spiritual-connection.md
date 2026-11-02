@@ -4,7 +4,7 @@ title: "The Cobbler's Golden Bangles: A Story of Internal Devotion and True Spir
 breadcrumbTitle: "Cobbler Brahmin Devotion Story"
 description: "Guru Shyama Khyapa shares a profound teaching through the story of a humble cobbler and a learned Brahmin, revealing the difference between true inner devotion and hollow external displays of spirituality."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Antarbhakti, internal devotion, spiritual wisdom, Ganges worship, Brahmin story"
-category: "Guru Stories"
+category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
 date: 2026-03-16 10:44:00
 readingTime: 8

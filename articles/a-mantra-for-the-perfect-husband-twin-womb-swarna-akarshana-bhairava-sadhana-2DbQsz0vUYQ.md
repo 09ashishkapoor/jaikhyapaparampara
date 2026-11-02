@@ -4,7 +4,7 @@ title: "A Mantra for the Perfect Husband: Twin Womb and Swarna Akarshana Bhairav
 breadcrumbTitle: "Twin Womb and Bhairava Sadhana for Marriage"
 description: "Shri Praveen Radhakrishna presents a specialized Sadhana Vidhi for women seeking the Bhairava Tattva in a husband — including the extraordinary Twin Womb concept, the role of Swarna Akarshana Bhairava, and why Kala Bhairava is not suited for those still filled with desires."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Swarna Akarshana Bhairava, marriage Sadhana, Twin Womb, Bhairava Tattva, Kala Bhairava, Panchali Draupadi Arjuna, Adya Kali, Batuka Bhairava, Kali Sahasranama"
-category: "Spiritual Teachings"
+category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Shri Praveen Radhakrishna"
 date: 2026-03-18 01:21:00
 readingTime: 6
