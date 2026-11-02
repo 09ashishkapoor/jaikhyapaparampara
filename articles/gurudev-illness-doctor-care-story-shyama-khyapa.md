@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts spending the entire Puja season hospitalized with a severe lung condition worsened by past smoking, smoke from a three-year Mahamrityunjay Yagya, and humidity from temple ponds. He praises a long-time doctor who refused fees, reduced the bill to about 2.9 lakh rupees, and had saved his wife from cancer, while expressing hurt that some disciples questioned the expenses and treated the doctor rudely. That contrast between loyalty and ingratitude is the heart of the account, which ends with his warning of future epidemics.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

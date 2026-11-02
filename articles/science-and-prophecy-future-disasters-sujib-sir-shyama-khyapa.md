@@ -31,6 +31,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa and geologist Sujib Sir discuss why a warming Bay of Bengal, sinking land, and unstable tectonic plates may bring cyclones and earthquakes to the region. Sujib Sir warns of a possible major cyclone and of Kolkata's hollow subsurface, while Guru Shyama Khyapa dismisses the coming solar eclipse as having no effect but agrees that the warming sea, the changing climate, and the approach of the end of Kali Yuga point to calamity. He counsels steadiness, health, and refusing to spread rumors.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
