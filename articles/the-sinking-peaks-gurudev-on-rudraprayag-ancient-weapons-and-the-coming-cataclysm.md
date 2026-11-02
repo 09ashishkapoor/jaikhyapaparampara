@@ -2,7 +2,7 @@
 layout: article
 title: "The Sinking Peaks: Gurudev on Rudraprayag, Ancient Weapons, Brihaspati, and the Coming Cataclysm"
 breadcrumbTitle: "Kailash & The Cataclysm"
-description: "Gurudev Shyama Khyapa reveals the spiritual significance of Rudraprayag and the mythology of Daksha Yagna, discusses hidden Mahabharata artifacts including Karna's armor at Konark Temple, and delivers a prophetic warning about a massive impending earthquake as Kailash sinks, water levels rise, and the Kalki Avatar emerges. Learn about Brihaspati, Shukracharya, the seven immortals, and the critical six years ahead."
+description: "Gurubaba Shyama Khyapa reveals the spiritual significance of Rudraprayag and the mythology of Daksha Yagna, discusses hidden Mahabharata artifacts including Karna's armor at Konark Temple, and delivers a prophetic warning about a massive impending earthquake as Kailash sinks, water levels rise, and the Kalki Avatar emerges. Learn about Brihaspati, Shukracharya, the seven immortals, and the critical six years ahead."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Rudraprayag, Shiva, Sati, Daksha Yagna, Karna Armor, Konark Temple, Brihaspati, Shukracharya, Kalki Avatar, Bhavishya Malika, Kailash Sinking, Earthquake Prophecy, Chiranjivis, Ashwatthama, Vibhishana, Jagannath, Kirat Deity"
 category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
@@ -38,7 +38,7 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
-<p class="transcript-context">Asked about cracks near Rudraprayag, Gurudev Shyama Khyapa recounts the region's association with Sati's penance and the Daksha Yagna, then moves to Karna's armor and other Mahabharata artifacts he says are hidden at Konark. He describes Brihaspati as maker of divine armors and protector of Earth, and Shukracharya as the demons' guru who alone received the Maha Mrityunjaya Mantra. He closes with a prophetic warning that Kailash is sinking, Badrinath will not remain, and a massive earthquake may come, calling the next six years critical and Kalki's final form destructive.</p>
+<p class="transcript-context">Asked about cracks near Rudraprayag, Gurubaba Shyama Khyapa recounts the region's association with Sati's penance and the Daksha Yagna, then moves to Karna's armor and other Mahabharata artifacts he says are hidden at Konark. He describes Brihaspati as maker of divine armors and protector of Earth, and Shukracharya as the demons' guru who alone received the Maha Mrityunjaya Mantra. He closes with a prophetic warning that Kailash is sinking, Badrinath will not remain, and a massive earthquake may come, calling the next six years critical and Kalki's final form destructive.</p>
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 

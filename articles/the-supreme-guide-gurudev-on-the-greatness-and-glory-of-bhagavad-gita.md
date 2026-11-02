@@ -2,7 +2,7 @@
 layout: article
 title: "The Supreme Guide: Gurudev on the Greatness and Glory of Bhagavad Gita"
 breadcrumbTitle: "Glory of Bhagavad Gita"
-description: "Gurudev Shyama Khyapa explains why the Bhagavad Gita is the root of all peace and the supreme guide for life, featuring a recitation and explanation of the 10th Chapter (Vibhuti Yoga)."
+description: "Gurubaba Shyama Khyapa explains why the Bhagavad Gita is the root of all peace and the supreme guide for life, featuring a recitation and explanation of the 10th Chapter (Vibhuti Yoga)."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bhagavad Gita, Vibhuti Yoga, Lord Krishna, Shrimad Bhagavad Gita, Gita Mahatmya, Spiritual Peace, Karma, Yoga, Divine Opulence"
 category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

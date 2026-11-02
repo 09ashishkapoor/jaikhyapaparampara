@@ -2,7 +2,7 @@
 layout: article
 title: "Birth from Death: The Complete Cycle of Soul's Journey and Rebirth"
 breadcrumbTitle: "Birth from Death"
-description: "Gurudev Shyama Khyapa explains the journey of the soul after death, the importance of afterlife rituals, the ten months and ten days required for rebirth, crossing the Vaitarani river, and attaining Moksha."
+description: "Gurubaba Shyama Khyapa explains the journey of the soul after death, the importance of afterlife rituals, the ten months and ten days required for rebirth, crossing the Vaitarani river, and attaining Moksha."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, birth from death, soul journey, afterlife, Dasha ritual, ten months ten days, Vaitarani, Yama-loka, Moksha, rebirth"
 category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

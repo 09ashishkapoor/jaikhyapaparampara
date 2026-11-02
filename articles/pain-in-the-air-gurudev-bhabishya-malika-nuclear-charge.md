@@ -2,7 +2,7 @@
 layout: article
 title: "Pain in the Air: Gurudev Warns of Bhabishya Malika's Nuclear Charge"
 breadcrumbTitle: "Bhabishya Malika Nuclear Charge Warning"
-description: "Gurudev Shyama Khyapa reads from the Bhabishya Malika, warns that the Third World War has already begun, describes nuclear darkness and the fall of Dwarka, and shares how he is bedridden while the battle for the future rages."
+description: "Gurubaba Shyama Khyapa reads from the Bhabishya Malika, warns that the Third World War has already begun, describes nuclear darkness and the fall of Dwarka, and shares how he is bedridden while the battle for the future rages."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Bhabishya Malika, Third World War, Nuclear Charge, Dwarka, Prophecy, Khyapa Parampara"
 category: "Prophecy and World Events"
 author: "??? Gupta Sadhak Shyama Khyapa"

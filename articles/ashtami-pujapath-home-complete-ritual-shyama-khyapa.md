@@ -2,7 +2,7 @@
 layout: article
 title: "Ashtami Pujapath at Home: The Complete Ritual Process and Significance"
 breadcrumbTitle: "Ashtami Pujapath and Home"
-description: "Gurudev Shyama Khyapa explains the detailed rituals of Maha Ashtami during Durga Puja, including Danta-Manjan, Mahasnan, worship of Ashtashakti, eight Bhairavas, 64 Yoginis, and the story of Mahishasura's redemption."
+description: "Gurubaba Shyama Khyapa explains the detailed rituals of Maha Ashtami during Durga Puja, including Danta-Manjan, Mahasnan, worship of Ashtashakti, eight Bhairavas, 64 Yoginis, and the story of Mahishasura's redemption."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ashtami, Maha Ashtami, Durga Puja, Danta-Manjan, Mahasnan, Ashtashakti, eight Bhairavas, 64 Yoginis, Mahishasura, Kumari Puja"
 category: "Rituals, Worship and Festivals"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

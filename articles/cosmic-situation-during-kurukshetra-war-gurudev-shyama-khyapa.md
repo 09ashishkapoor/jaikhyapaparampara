@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Cosmic Situation During Kurukshetra War - Gurudev Shyama Khyapa"
+title: "Cosmic Situation During Kurukshetra War - Gurubaba Shyama Khyapa"
 breadcrumbTitle: "Cosmic Situation During Kurukshetra War"
-description: "Gurudev Shyama Khyapa explains the planetary positions during the Kurukshetra war and how the current cosmic situation mirrors that ancient time, discussing the roles of Rahu, Ketu, Mars, Sun, and Jupiter in determining the fate of nations."
+description: "Gurubaba Shyama Khyapa explains the planetary positions during the Kurukshetra war and how the current cosmic situation mirrors that ancient time, discussing the roles of Rahu, Ketu, Mars, Sun, and Jupiter in determining the fate of nations."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kurukshetra, planetary positions, astrology, astronomy, Dharma, Adharma, Shakuni, Duryodhana, Krishna"
 category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

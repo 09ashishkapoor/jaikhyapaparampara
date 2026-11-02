@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "My Gurudev: Shree Gurudev Shyama Khyapa — The Revelation of a Gupta Sadhak"
+title: "My Gurudev: Shree Gurubaba Shyama Khyapa — The Revelation of a Gupta Sadhak"
 breadcrumbTitle: "My Gurudev: Revealing Shyama Khyapa"
 description: "After long deliberation, Shri Praveen Radhakrishna reveals the identity of his Guru — Shyamaka Gupta, the youngest disciple of Shri Bama Khepa of Tarapith. This teaching traces his Guru's extraordinary journey from a wealthy businessman to a gupta Sadhak of the Kapalika tradition, and the story of how Shri Praveen came to sit at his feet."
 keywords: "Shri Praveen Radhakrishna, Bhairava, Khyapa Parampara, Khepa Tradition, Shyama Khyapa, Shyamaka Gupta, Bama Khepa, Tarapith, Rajpur Mahashamshana, Kapalika, gupta sadhak, Ugratara, Kali Sadhana, Guru Tattva"

@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Where is the End of Space? Insights from Gurudev Shyama Khyapa"
+title: "Where is the End of Space? Insights from Gurubaba Shyama Khyapa"
 breadcrumbTitle: "End of Space"
-description: "Gurudev Shyama Khyapa addresses profound questions about the end of space, the residence of Param Brahma in hearts, salvation, and the nature of darkness in the universe, blending spiritual wisdom with scriptural references."
+description: "Gurubaba Shyama Khyapa addresses profound questions about the end of space, the residence of Param Brahma in hearts, salvation, and the nature of darkness in the universe, blending spiritual wisdom with scriptural references."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, space, universe, darkness, Param Brahma, salvation, prayers, Mahadev, Omkar"
 category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

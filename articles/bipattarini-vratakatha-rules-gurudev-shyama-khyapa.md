@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Bipattarini Vratakatha and Rules - Learn from Gurudev Shyama Khyapa"
+title: "Bipattarini Vratakatha and Rules - Learn from Gurubaba Shyama Khyapa"
 breadcrumbTitle: "Bipattarini Vratakatha and Rules"
-description: "Gurudev Shyama Khyapa explains the history and rituals of Bipattarini Puja, the tradition of offering 13 fruits, the Broto Kotha legend, and the significance of the red thread with 13 knots."
+description: "Gurubaba Shyama Khyapa explains the history and rituals of Bipattarini Puja, the tradition of offering 13 fruits, the Broto Kotha legend, and the significance of the red thread with 13 knots."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bipattarini, Chandi Bari, Baba Dulal, Broto Kotha, Kamakhya Tantra, Rajpur, Tantric rituals"
 category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
@@ -15,7 +15,7 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
-<p class="transcript-context">Gurudev Shyama Khyapa recounts the history of the Bipattarini Puja at Rajpur, describing a temple established by Baba Dulal and served by non-Brahmin priests in the Kamakhya Tantra tradition. He explains the fast, the 13 whole fruits, and the 13-knot red thread with Durba grass, tells the Broto Kotha of a Vidarbha queen whose beef turned into flowers, and says the Tantric puja is not strictly for homes, though many keep a photo and fast. The discussion preserves the temple's local history and practical guidance for households unable to attend.</p>
+<p class="transcript-context">Gurubaba Shyama Khyapa recounts the history of the Bipattarini Puja at Rajpur, describing a temple established by Baba Dulal and served by non-Brahmin priests in the Kamakhya Tantra tradition. He explains the fast, the 13 whole fruits, and the 13-knot red thread with Durba grass, tells the Broto Kotha of a Vidarbha queen whose beef turned into flowers, and says the Tantric puja is not strictly for homes, though many keep a photo and fast. The discussion preserves the temple's local history and practical guidance for households unable to attend.</p>
 
 <div class="transcript-container" style="font-family: arial, sans-serif; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 20px;">
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Interviewer:</span> <span class="speech-text">Greetings, Gurudev.</span></div>

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "The Decline of Mankind: Why Did Gurudev Shyama Khyapa Say This?"
+title: "The Decline of Mankind: Why Did Gurubaba Shyama Khyapa Say This?"
 breadcrumbTitle: "Decline of Mankind"
 description: "Guru Shyama Khyapa discusses the alarming decline in modern society, divorce epidemic, family breakdowns, mobile phones, Western influences, disrespect for parents, and loss of character and conscience."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Decline of Society, Divorce, Family Problems, Modern Society, Western Culture, Spiritual Teaching"

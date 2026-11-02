@@ -2,7 +2,7 @@
 layout: article
 title: "The Reason for Gurudev's Illness"
 breadcrumbTitle: "Gurudev's Illness"
-description: "Gurudev Shyama Khyapa explains why he often falls ill while healing others, the spiritual and physical toll of his work, his relationship with doctors, and his perspective on COVID."
+description: "Gurubaba Shyama Khyapa explains why he often falls ill while healing others, the spiritual and physical toll of his work, his relationship with doctors, and his perspective on COVID."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, illness, healing, Tantra, Mother Tara, diseases, spiritual work, COVID, doctors"
 category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

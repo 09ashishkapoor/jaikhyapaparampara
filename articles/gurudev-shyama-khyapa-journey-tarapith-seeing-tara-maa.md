@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Gurudev Shyama Khyapa's Journey to Tarapith: Seeing Tara Maa During COVID"
+title: "Gurubaba Shyama Khyapa's Journey to Tarapith: Seeing Tara Maa During COVID"
 breadcrumbTitle: "Journey to Tarapith"
-description: "Gurudev Shyama Khyapa travels to Mahapith Tarapith during the COVID-19 period, sharing insights on the pandemic and preparations for rituals at the Mother's temple."
+description: "Gurubaba Shyama Khyapa travels to Mahapith Tarapith during the COVID-19 period, sharing insights on the pandemic and preparations for rituals at the Mother's temple."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tarapith, Tara Maa, COVID-19, journey, rituals"
 category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

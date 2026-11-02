@@ -2,7 +2,7 @@
 layout: article
 title: "Gurudev Shyamakshayapa Sheds Light on the Mystery of Chandi"
 breadcrumbTitle: "Mystery of Chandi Revealed"
-description: "The ancient story of how Mother Durga first descended to Earth according to the Markandeya Purana, at the ashram of Sage Medha in Chittagong, Bangladesh, as revealed by Gurudev Shyama Khyapa."
+description: "The ancient story of how Mother Durga first descended to Earth according to the Markandeya Purana, at the ashram of Sage Medha in Chittagong, Bangladesh, as revealed by Gurubaba Shyama Khyapa."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shyama Khyapa, Gupta Sadhak Shyamakhyapa, Guru Shyama Khyapa, Chandi, Durga, Markandeya Purana, Sage Medha, Khyapa Parampara, King Suratha, Samadhi"
 category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

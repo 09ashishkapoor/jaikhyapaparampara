@@ -2,7 +2,7 @@
 layout: article
 title: "Subjugation and Misconceptions: Gurudev Exposes Spiritual Frauds"
 breadcrumbTitle: "Subjugation Misconceptions"
-description: "Gurudev Shyama Khyapa exposes the widespread fraud of Vashikaran (enthrallment), mysterious extractions from the body, and false spiritual powers, while revealing what true Kriya Yoga actually is."
+description: "Gurubaba Shyama Khyapa exposes the widespread fraud of Vashikaran (enthrallment), mysterious extractions from the body, and false spiritual powers, while revealing what true Kriya Yoga actually is."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Vashikaran, spiritual fraud, Kriya Yoga, spiritual misconceptions, fake extractions, tantric fraud"
 category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
@@ -14,7 +14,7 @@ tags:
   - Kriya Yoga
   - Exploitation
   - Spiritual Truth
-  - Gurudev Shyama Khyapa
+  - Gurubaba Shyama Khyapa
   - Tantric Fraud
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>
@@ -22,7 +22,7 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
-<p class="transcript-context">Gurudev Shyama Khyapa challenges claims of Vashikaran and of flowers, nails, or hair being extracted from the stomach, arguing that swallowed objects are digested and that such displays are staged. He recounts a practitioner who used sticky taro-root sap to fake an extraction and charged 10,000 rupees, and he says desperation drives people to repeat these visits. He contrasts this with Kriya Yoga, which he says is used on nature rather than people, and with his own temple's refusal to charge, citing a story of a monk healing Swami Vivekananda.</p>
+<p class="transcript-context">Gurubaba Shyama Khyapa challenges claims of Vashikaran and of flowers, nails, or hair being extracted from the stomach, arguing that swallowed objects are digested and that such displays are staged. He recounts a practitioner who used sticky taro-root sap to fake an extraction and charged 10,000 rupees, and he says desperation drives people to repeat these visits. He contrasts this with Kriya Yoga, which he says is used on nature rather than people, and with his own temple's refusal to charge, citing a story of a monk healing Swami Vivekananda.</p>
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 

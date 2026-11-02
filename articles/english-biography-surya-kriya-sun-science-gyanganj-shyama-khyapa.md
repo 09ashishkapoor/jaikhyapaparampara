@@ -2,7 +2,7 @@
 layout: article
 title: "English Biography and Surya Kriya: The Sun Science of Gyanganj"
 breadcrumbTitle: "English Biography Surya Kriya Sun Science"
-description: "Subhankar Bhowmick discusses writing Gurudev Shyama Khyapa's English biography, while Gurudev reveals the ancient Surya Kriya practice of Gyanganj - traveling to the Sun in a subtle body through yogic science."
+description: "Subhankar Bhowmick discusses writing Gurubaba Shyama Khyapa's English biography, while Gurudev reveals the ancient Surya Kriya practice of Gyanganj - traveling to the Sun in a subtle body through yogic science."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Guru Shyama Khyapa, Surya Kriya, Sun Science, English Biography, Subhankar Bhowmick, Gyanganj, Sukshma Deha, Spiritual Practice, Solar Yoga"
 category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
@@ -22,7 +22,7 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
-<p class="transcript-context">Subhankar Bhowmick explains why he wants to write an English biography of Gurudev Shyama Khyapa, describing how Gurudev's association helped him during a dark period and praising his experiential knowledge of Indian philosophy, culture, and religion. Gurudev says their sessions are a meeting of minds, describes the book as recorded questions and answers, and hopes it will spread Indian spiritual heritage worldwide. He describes Gyanganj's Surya Kriya, a yogic practice to travel to the Sun in a subtle body that he says Gyanganj has begun and hopes will succeed.</p>
+<p class="transcript-context">Subhankar Bhowmick explains why he wants to write an English biography of Gurubaba Shyama Khyapa, describing how Gurudev's association helped him during a dark period and praising his experiential knowledge of Indian philosophy, culture, and religion. Gurudev says their sessions are a meeting of minds, describes the book as recorded questions and answers, and hopes it will spread Indian spiritual heritage worldwide. He describes Gyanganj's Surya Kriya, a yogic practice to travel to the Sun in a subtle body that he says Gyanganj has begun and hopes will succeed.</p>
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 

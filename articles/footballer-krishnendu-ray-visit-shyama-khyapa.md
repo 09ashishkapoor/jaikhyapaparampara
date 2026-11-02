@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Football Legend Krishnendu Ray's Visit to Gurudev Shyama Khyapa"
+title: "Football Legend Krishnendu Ray's Visit to Gurubaba Shyama Khyapa"
 breadcrumbTitle: "Krishnendu Ray Football Visit"
 description: "Guru Shyama Khyapa hosts football legend Krishnendu Ray in a heartfelt conversation about Mohun Bagan glory days, the legendary P.K. Banerjee, and the lost passion of Indian football."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Krishnendu Ray, Mohun Bagan, Football, P.K. Banerjee, Surajit Sengupta, Goutam Sarkar, Indian Football"

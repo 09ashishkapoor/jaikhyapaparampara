@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Yours is the Beginning, Mine is the End: Gurudev Shyama Khyapa on Spiritual Legacy and Blessings"
+title: "Yours is the Beginning, Mine is the End: Gurubaba Shyama Khyapa on Spiritual Legacy and Blessings"
 breadcrumbTitle: "Spiritual Legacy and Blessings"
-description: "Gurudev Shyama Khyapa discusses the continuity of spiritual tradition, the importance of temples, and the true nature of blessings with a young monk from Bangladesh."
+description: "Gurubaba Shyama Khyapa discusses the continuity of spiritual tradition, the importance of temples, and the true nature of blessings with a young monk from Bangladesh."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, spiritual legacy, blessings, temples, monks"
 category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
@@ -23,7 +23,7 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
-<p class="transcript-context">Gurudev Shyama Khyapa receives Shrimad Paritoshonanda Brahmachari, a young monk from Chittagong, Bangladesh, and speaks about seeing the Mother rather than a temple's exterior, about blessings that come from the heart rather than a hand on the head, and about one generation of seekers giving way to the next. He says no one enters this path without past-life merit, that a newly built temple is a sign of Hindu Sanatan Dharma, and that young monks will keep the Mother and the world awakened. The visitor recounts his early initiation.</p>
+<p class="transcript-context">Gurubaba Shyama Khyapa receives Shrimad Paritoshonanda Brahmachari, a young monk from Chittagong, Bangladesh, and speaks about seeing the Mother rather than a temple's exterior, about blessings that come from the heart rather than a hand on the head, and about one generation of seekers giving way to the next. He says no one enters this path without past-life merit, that a newly built temple is a sign of Hindu Sanatan Dharma, and that young monks will keep the Mother and the world awakened. The visitor recounts his early initiation.</p>
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 

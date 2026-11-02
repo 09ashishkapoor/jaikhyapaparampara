@@ -2,7 +2,7 @@
 layout: article
 title: "A Miraculous Visit: The Grandson of Kazi Nazrul Islam Meets Gurudev"
 breadcrumbTitle: "Meeting Kazi Nazrul Islam's Grandson"
-description: "Gurudev Shyama Khyapa shares a deeply moving encounter with Arnab Kazi, the grandson of the legendary poet and Tara Khapa devotee Kazi Nazrul Islam, discussing his incredible legacy of devotion."
+description: "Gurubaba Shyama Khyapa shares a deeply moving encounter with Arnab Kazi, the grandson of the legendary poet and Tara Khapa devotee Kazi Nazrul Islam, discussing his incredible legacy of devotion."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Kazi Nazrul Islam, Arnab Kazi, Tara Khapa, Goddess Kali, Religious Harmony"
 category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

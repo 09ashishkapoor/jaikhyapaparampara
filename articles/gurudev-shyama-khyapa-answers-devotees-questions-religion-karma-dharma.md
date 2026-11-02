@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Gurudev Shyama Khyapa Answers Devotees' Questions: On Religion, Karma, and Dharma"
+title: "Gurubaba Shyama Khyapa Answers Devotees' Questions: On Religion, Karma, and Dharma"
 breadcrumbTitle: "Devotees' Questions Answered"
 description: "Guru Shyama Khyapa addresses questions from devotees on who created religion, the nature of Karma and Dharma, recommended mantras for women, achieving divine power, vegetarianism in Sanatan Dharma, and communicating with the deceased."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Religion, Karma, Dharma, Mantras, Divine Power, Sanatan Dharma"

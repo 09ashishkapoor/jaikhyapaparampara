@@ -2,7 +2,7 @@
 layout: article
 title: "The Call of the Crematorium: 42 Years of Sadhana and Supernatural Service"
 breadcrumbTitle: "The Crematorium's Call"
-description: "Gurudev Shyama Khyapa shares 42 years of spiritual practice at Rajpur Crematorium, revealing the supernatural 'call' of the Shashan, invisible guardians, the mysteries of the Neem tree, and divine interventions through psychic connection."
+description: "Gurubaba Shyama Khyapa shares 42 years of spiritual practice at Rajpur Crematorium, revealing the supernatural 'call' of the Shashan, invisible guardians, the mysteries of the Neem tree, and divine interventions through psychic connection."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Shashan Sadhana, Crematorium, Neem Tree, Brahmadaitya, Supernatural Guardians, Khyapa Parampara"
 category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
@@ -15,7 +15,7 @@ tags:
   - Brahmadaitya
   - Neem Tree Magic
   - Divine Intervention
-  - Gurudev Shyama Khyapa
+  - Gurubaba Shyama Khyapa
   - Spiritual Service
 source: |
   <p><strong>Source:</strong> YouTube video | Bengali to English Translation</p>

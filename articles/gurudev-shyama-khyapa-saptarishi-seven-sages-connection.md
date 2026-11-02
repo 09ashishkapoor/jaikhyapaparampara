@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Gurudev Shyama Khyapa and the Saptarishi: A Divine Connection to the Seven Sages"
+title: "Gurubaba Shyama Khyapa and the Saptarishi: A Divine Connection to the Seven Sages"
 breadcrumbTitle: "Gurudev and the Saptarishi"
 description: "Guru Shyama Khyapa reveals how high-level spiritual practitioners identified him as one of the Saptarishi (Seven Sages), and how the head priest of the Saptarishi temple in Varanasi came to worship him."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Saptarishi, Seven Sages, Varanasi, Atri, Vashistha, Angira, Pulastya, Pulaha, Kratu, Marichi, Ramakrishna Paramhansa, Vivekananda, spiritual realm"

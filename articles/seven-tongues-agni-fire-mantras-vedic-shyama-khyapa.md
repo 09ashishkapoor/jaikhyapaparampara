@@ -2,7 +2,7 @@
 layout: article
 title: "The Seven Tongues of Agni: Sacred Fire Mantras and Vedic Rituals"
 breadcrumbTitle: "Seven Tongues of Agni"
-description: "Gurudev Shyama Khyapa explains the seven tongues of Agni (Fire God), their Vedic mantras, the importance of fire in rituals and initiation, and the proper procedures for Homa and Visarjan."
+description: "Gurubaba Shyama Khyapa explains the seven tongues of Agni (Fire God), their Vedic mantras, the importance of fire in rituals and initiation, and the proper procedures for Homa and Visarjan."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Agni, seven tongues, sapta jihva, fire ritual, Homa, Vedic mantras, Jataveda, Visarjan"
 category: "Rituals, Worship and Festivals"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

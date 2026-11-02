@@ -2,7 +2,7 @@
 layout: article
 title: "Special Appeal: Gurudev's Health and Request to Avoid Visits"
 breadcrumbTitle: "Special Appeal Gurudev Health Request"
-description: "An urgent appeal from Gurudev Shyama Khyapa's caregivers requesting devotees not to visit due to his severe illness, cough, fever, and risk of infection."
+description: "An urgent appeal from Gurubaba Shyama Khyapa's caregivers requesting devotees not to visit due to his severe illness, cough, fever, and risk of infection."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Gurudev Health, Devotional Visits, Recovery, Infection Risk, Special Appeal"
 category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
@@ -22,7 +22,7 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
-<p class="transcript-context">A caregiver announces that Gurudev Shyama Khyapa, recently back from a nursing home, has fallen very ill again with a severe cough and slight fever, and a doctor's appointment is scheduled. The speaker urgently asks devotees not to visit for Vijaya Dashami or any other reason, promising another video once he is healthy and suggesting they may then see him from a distance. Gurudev confirms the request, saying he fears returning to hospital, while the caregiver cites his age and weakness and the doctor's instruction to keep him 'like cotton.'</p>
+<p class="transcript-context">A caregiver announces that Gurubaba Shyama Khyapa, recently back from a nursing home, has fallen very ill again with a severe cough and slight fever, and a doctor's appointment is scheduled. The speaker urgently asks devotees not to visit for Vijaya Dashami or any other reason, promising another video once he is healthy and suggesting they may then see him from a distance. Gurudev confirms the request, saying he fears returning to hospital, while the caregiver cites his age and weakness and the doctor's instruction to keep him 'like cotton.'</p>
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 

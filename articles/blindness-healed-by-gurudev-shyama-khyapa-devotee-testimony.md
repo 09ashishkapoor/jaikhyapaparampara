@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Blindness Healed by Gurudev Shyama Khyapa: A Devotee's Testimony"
+title: "Blindness Healed by Gurubaba Shyama Khyapa: A Devotee's Testimony"
 breadcrumbTitle: "Blindness Healed by Gurudev"
 description: "A devotee shares how her cataract blindness was healed after Gurudev's blessing and surgery, and Gurudev reflects on the joy of restoring sight."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, blindness healed, cataracts, Gurudev blessing, diksha, Nethralaya, miracle, devotees"
@@ -22,7 +22,7 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
-<p class="transcript-context">A devotee from Thakurpukur describes how severe cataracts left her unable to see Gurudev or the Mother, and how Gurudev Shyama Khyapa told her she would see and directed her to change doctors. After a new doctor at Sankara Nethralaya recommended immediate surgery, she regained her sight, which she calls a rebirth. She asks for initiation and to pass away before her husband, and Gurudev grants that blessing while reflecting on the joy of removing someone's darkness.</p>
+<p class="transcript-context">A devotee from Thakurpukur describes how severe cataracts left her unable to see Gurudev or the Mother, and how Gurubaba Shyama Khyapa told her she would see and directed her to change doctors. After a new doctor at Sankara Nethralaya recommended immediate surgery, she regained her sight, which she calls a rebirth. She asks for initiation and to pass away before her husband, and Gurudev grants that blessing while reflecting on the joy of removing someone's darkness.</p>
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 

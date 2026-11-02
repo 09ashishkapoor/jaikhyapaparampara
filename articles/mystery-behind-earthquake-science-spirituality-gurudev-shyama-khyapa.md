@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "The Mystery Behind Earthquake - Science and Spirituality - Gurudev Shyama Khyapa"
+title: "The Mystery Behind Earthquake - Science and Spirituality - Gurubaba Shyama Khyapa"
 breadcrumbTitle: "Mystery Behind Earthquake"
-description: "Gurudev Shyama Khyapa and geologist Dr. Sujit Kar discuss the science and spirituality behind recent earthquakes, the Eocene Hinge zone under Kolkata, and prophecies of destruction including the Bhabishya Malika predictions."
+description: "Gurubaba Shyama Khyapa and geologist Dr. Sujit Kar discuss the science and spirituality behind recent earthquakes, the Eocene Hinge zone under Kolkata, and prophecies of destruction including the Bhabishya Malika predictions."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, earthquake, geology, science, prophecy, Bhabishya Malika, Mahapralay, Kali Yuga, Kolkata, Eocene Hinge"
 category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Goddess Bagalamukhi - The Eighth Mahavidya - Gurudev Shyama Khyapa"
+title: "Goddess Bagalamukhi - The Eighth Mahavidya - Gurubaba Shyama Khyapa"
 breadcrumbTitle: "Goddess Bagalamukhi - Eighth Mahavidya"
-description: "Gurudev Shyama Khyapa explains the powers and rituals of Goddess Bagalamukhi, the eighth of the Dashamahavidya, including her mantras, worship rules, noon restrictions, and the significance of yellow color."
+description: "Gurubaba Shyama Khyapa explains the powers and rituals of Goddess Bagalamukhi, the eighth of the Dashamahavidya, including her mantras, worship rules, noon restrictions, and the significance of yellow color."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bagalamukhi, Mahavidya, goddess, worship, mantra, Tantra, Stambhan, Maran"
 category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

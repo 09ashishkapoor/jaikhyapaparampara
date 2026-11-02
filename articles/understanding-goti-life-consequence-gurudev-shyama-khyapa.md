@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Understanding Goti - Life and Consequence - Gurudev Shyama Khyapa"
+title: "Understanding Goti - Life and Consequence - Gurubaba Shyama Khyapa"
 breadcrumbTitle: "Understanding Goti - Life and Consequence"
-description: "Gurudev Shyama Khyapa explains the concept of Goti (recourse/consequence) in spiritual practice, discussing the prayer for orphans and the helpless, Karma, and the principle of Charaiveti (keep moving forward)."
+description: "Gurubaba Shyama Khyapa explains the concept of Goti (recourse/consequence) in spiritual practice, discussing the prayer for orphans and the helpless, Karma, and the principle of Charaiveti (keep moving forward)."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Goti, Charaiveti, spiritual practice, Karma, recourse, Upanishads"
 category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

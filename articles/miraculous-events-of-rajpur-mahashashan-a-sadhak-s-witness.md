@@ -2,7 +2,7 @@
 layout: article
 title: "Miraculous Events of Rajpur Mahashashan: A Sadhak's Witness"
 breadcrumbTitle: "Rajpur Crematorium Miracles"
-description: "Gurudev Shyama Khyapa recounts supernatural events and miracles witnessed at Rajpur Mahashashan cremation ground, including meetings with famous personalities and spiritual interventions."
+description: "Gurubaba Shyama Khyapa recounts supernatural events and miracles witnessed at Rajpur Mahashashan cremation ground, including meetings with famous personalities and spiritual interventions."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Rajpur Mahashashan, Supernatural Miracles, Cremation Ground, Spiritual Practice, Mahamrityunjay Yagya, World Peace"
 category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

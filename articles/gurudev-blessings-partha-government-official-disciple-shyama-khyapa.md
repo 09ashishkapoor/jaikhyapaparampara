@@ -2,7 +2,7 @@
 layout: article
 title: "Gurudev's Blessings: Partha-da, the Government Official Disciple"
 breadcrumbTitle: "Gurudev Blessings Partha"
-description: "A high-ranking government official shares his supernatural experiences with Gurudev Shyama Khyapa, including seeing Gurudev's subtle body during meditation and miraculous healing."
+description: "A high-ranking government official shares his supernatural experiences with Gurubaba Shyama Khyapa, including seeing Gurudev's subtle body during meditation and miraculous healing."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Partha, Government Official, Disciple, Mahamrityunjaya Yagna, Initiation, Diksha, Supernatural, Sukshma Deha, Miraculous"
 category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

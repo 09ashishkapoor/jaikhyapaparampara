@@ -2,7 +2,7 @@
 layout: article
 title: "Nature's Final Warning: Gurudev and Meteorologist Dr. Sujit Kar on Climate Crisis"
 breadcrumbTitle: "Nature's Final Warning"
-description: "A profound dialogue between Gurudev Shyama Khyapa and meteorologist Dr. Sujit Kar exploring the scientific and spiritual dimensions of the current climate crisis and the impending 'Kalpanta' (cosmic end)."
+description: "A profound dialogue between Gurubaba Shyama Khyapa and meteorologist Dr. Sujit Kar exploring the scientific and spiritual dimensions of the current climate crisis and the impending 'Kalpanta' (cosmic end)."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Climate Change, Global Warming, Meteorology, Earth Balance, Isostasy, Urban Heat Islands, Kalpanta, Prophecy"
 category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

@@ -2,7 +2,7 @@
 layout: article
 title: "Jagadhatri Puja Mantra: From the Mouth of Gurudev Himself"
 breadcrumbTitle: "Jagadhatri Puja Mantra"
-description: "Gurudev Shyama Khyapa recites the sacred Jagadhatri Puja mantra from the Chandi Path, explains her Tantric form, and provides a health update about his catheter and upcoming surgery."
+description: "Gurubaba Shyama Khyapa recites the sacred Jagadhatri Puja mantra from the Chandi Path, explains her Tantric form, and provides a health update about his catheter and upcoming surgery."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Jagadhatri, Jagaddhatri, Puja, Mantra, Chandi Path, Durga, Chhath Puja, health update, catheter"
 category: "Rituals, Worship and Festivals"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
@@ -25,7 +25,7 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
-<p class="transcript-context">Gurudev Shyama Khyapa updates listeners on his catheter and its planned removal after Chhath Puja, then describes Jagadhatri as a Tantric goddess in the Chandi Path and as none other than Durga. He recites her dhyana mantra, explains the elephant head beneath her as her victory over Mahishasura, and notes that her puja is compressed into one day in many places. He also describes writing a Siddha Kavach at midnight and says one Ghat represents all forms of the Mother.</p>
+<p class="transcript-context">Gurubaba Shyama Khyapa updates listeners on his catheter and its planned removal after Chhath Puja, then describes Jagadhatri as a Tantric goddess in the Chandi Path and as none other than Durga. He recites her dhyana mantra, explains the elephant head beneath her as her victory over Mahishasura, and notes that her puja is compressed into one day in many places. He also describes writing a Siddha Kavach at midnight and says one Ghat represents all forms of the Mother.</p>
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 

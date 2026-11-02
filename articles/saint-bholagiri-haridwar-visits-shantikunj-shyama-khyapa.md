@@ -2,7 +2,7 @@
 layout: article
 title: "Saint from Bholagiri Haridwar Visits Shantikunj: Meeting With Shyama Khyapa"
 breadcrumbTitle: "Bholagiri Saint Meets Shyama Khyapa"
-description: "A saint from the Bholagiri Ashram in Haridwar, Swami Tejoshananda Giri, visits Gurudev Shyama Khyapa at Shantikunj. They share spiritual stories, sacred chants, and reflections on the Mother's devotion."
+description: "A saint from the Bholagiri Ashram in Haridwar, Swami Tejoshananda Giri, visits Gurubaba Shyama Khyapa at Shantikunj. They share spiritual stories, sacred chants, and reflections on the Mother's devotion."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Bholagiri Ashram, Haridwar, Swami Tejoshananda Giri, Shantikunj, Meeting of Saints, Guru Stories"
 category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

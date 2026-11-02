@@ -2,7 +2,7 @@
 layout: article
 title: "Mental Anguish and Silent Grief: Consequences of Actions - Guru Shyama Khyapa"
 breadcrumbTitle: "Mental Anguish and Curses"
-description: "Gurudev Shyama Khyapa discusses the power of curses and silent grief (monostap) in ancient and modern times, warning against causing harm to others."
+description: "Gurubaba Shyama Khyapa discusses the power of curses and silent grief (monostap) in ancient and modern times, warning against causing harm to others."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, mental anguish, curses, monostap, silent grief"
 category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

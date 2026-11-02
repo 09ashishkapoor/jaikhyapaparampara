@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Mother’s Worship Method at Shantikunj: Gurudev Shyama Khyapa’s Explanation"
+title: "Mother’s Worship Method at Shantikunj: Gurubaba Shyama Khyapa’s Explanation"
 breadcrumbTitle: "Mother’s Worship Method at Shantikunj"
-description: "Gurudev Shyama Khyapa explains the unique worship method of Mother at Shantikunj, including the use of two idols, corpse worship at the cremation ground, sattvic offerings, and the deeper spiritual reasons behind timing and rituals."
+description: "Gurubaba Shyama Khyapa explains the unique worship method of Mother at Shantikunj, including the use of two idols, corpse worship at the cremation ground, sattvic offerings, and the deeper spiritual reasons behind timing and rituals."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Ma Tara, Shantikunj, corpse worship, cremation ground, sattvic bali, Kali Puja, Maha Mrityunjaya, Pratyangira, 2020 predictions, famine, epidemics, earthquakes, wars"
 category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

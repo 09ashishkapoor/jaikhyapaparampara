@@ -2,7 +2,7 @@
 layout: article
 title: "Official Book Release: The Bona Fide Spiritual Master at Shanti Kunj"
 breadcrumbTitle: "Official Book Release Bona Fide Spiritual Master"
-description: "Announcement of the official book release of 'The Bona Fide Spiritual Master', a book about Gurudev Shyama Khyapa by Shubhankar Bhowmick, at Shanti Kunj Rajpur Mahashashan."
+description: "Announcement of the official book release of 'The Bona Fide Spiritual Master', a book about Gurubaba Shyama Khyapa by Shubhankar Bhowmick, at Shanti Kunj Rajpur Mahashashan."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, The Bona Fide Spiritual Master, Shubhankar Bhowmick, Shanti Kunj, Rajpur Mahashashan, Book Release"
 category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

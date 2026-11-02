@@ -2,7 +2,7 @@
 layout: article
 title: "Real Saints vs. Frauds: How to Recognize a True Sadhu"
 breadcrumbTitle: "Real vs. Fake Saints"
-description: "Gurudev Shyama Khyapa discusses the difference between genuine spiritual masters and fraudulent 'sadhus,' explaining how to test them and the importance of Bhakti Yog."
+description: "Gurubaba Shyama Khyapa discusses the difference between genuine spiritual masters and fraudulent 'sadhus,' explaining how to test them and the importance of Bhakti Yog."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Real Sadhu, Fake Saint, Bhakti Yog, Raj Yog, Param Brahma, Spiritual Testing, Meditation, Gyan Yog, Spiritual Discernment"
 category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
@@ -11,7 +11,7 @@ readingTime: 24
 tags:
   - Spiritual Discernment
   - Real vs Fake
-  - Gurudev Shyama Khyapa
+  - Gurubaba Shyama Khyapa
   - Bhakti Yog
   - Raj Yog
   - Param Brahma
@@ -22,7 +22,7 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
-<p class="transcript-context">Gurudev Shyama Khyapa says Mahakali and Param Brahma are one, but the divine within each person is asleep and must be awakened through meditation, chanting, and penance. He tells seekers to test sadhus with pointed questions: a genuine one answers instantly and lives by honesty, not clothes or Rudraksha beads, while frauds dodge questions and sell God for money. He contrasts Raj Yog's grand public rituals with Bhakti Yog's private tears and describes frauds who tell vulnerable people to leave home after declaring a curse.</p>
+<p class="transcript-context">Gurubaba Shyama Khyapa says Mahakali and Param Brahma are one, but the divine within each person is asleep and must be awakened through meditation, chanting, and penance. He tells seekers to test sadhus with pointed questions: a genuine one answers instantly and lives by honesty, not clothes or Rudraksha beads, while frauds dodge questions and sell God for money. He contrasts Raj Yog's grand public rituals with Bhakti Yog's private tears and describes frauds who tell vulnerable people to leave home after declaring a curse.</p>
 
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 

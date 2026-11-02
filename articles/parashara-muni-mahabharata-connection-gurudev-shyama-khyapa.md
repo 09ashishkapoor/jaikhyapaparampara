@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Parashara Muni and Mahabharata Connection - Gurudev Shyama Khyapa"
+title: "Parashara Muni and Mahabharata Connection - Gurubaba Shyama Khyapa"
 breadcrumbTitle: "Parashara Muni and Mahabharata"
-description: "Gurudev Shyama Khyapa discusses the connection between Parashara Muni and the Mahabharata, explaining the story of Vyasadeva's birth, the lineage of Kauravas and Pandavas, and the prophecy of catastrophes from 2023-2030."
+description: "Gurubaba Shyama Khyapa discusses the connection between Parashara Muni and the Mahabharata, explaining the story of Vyasadeva's birth, the lineage of Kauravas and Pandavas, and the prophecy of catastrophes from 2023-2030."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Parashara Muni, Vyasadeva, Mahabharata, Satyavati, Kauravas, Pandavas, Dhritarashtra, Vidura, Pandu"
 category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
@@ -15,7 +15,7 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
-<p class="transcript-context">Gurudev Shyama Khyapa traces Parashara Muni's lineage and the story of Vyasadeva's birth to Satyavati, then explains Vyasadeva's role in the Mahabharata as the father of Dhritarashtra, Pandu, and Vidura and as the sage who divided Gandhari's flesh into a hundred sons. He also describes Vyasadeva's warning before Kurukshetra and his naming of characters. Looking to the present, Gurudev says the years 2023 to 2030 will bring catastrophes and great destruction.</p>
+<p class="transcript-context">Gurubaba Shyama Khyapa traces Parashara Muni's lineage and the story of Vyasadeva's birth to Satyavati, then explains Vyasadeva's role in the Mahabharata as the father of Dhritarashtra, Pandu, and Vidura and as the sage who divided Gandhari's flesh into a hundred sons. He also describes Vyasadeva's warning before Kurukshetra and his naming of characters. Looking to the present, Gurudev says the years 2023 to 2030 will bring catastrophes and great destruction.</p>
 
 <div class="transcript-container" style="font-family: arial, sans-serif; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 20px;">
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Speaker 1:</span> <span class="speech-text">Gurudev.</span></div>

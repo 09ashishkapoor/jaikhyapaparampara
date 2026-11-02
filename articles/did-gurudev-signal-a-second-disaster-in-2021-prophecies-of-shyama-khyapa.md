@@ -2,7 +2,7 @@
 layout: article
 title: "Did Gurudev Signal a Second Disaster in 2021? Prophecies of Shyama Khyapa"
 breadcrumbTitle: "2021 Prophecies"
-description: "Gurudev Shyama Khyapa discusses terrifying global prophecies for 2021, including asteroid strikes, solar storms, and the spiritual transition into Satya Yuga."
+description: "Gurubaba Shyama Khyapa discusses terrifying global prophecies for 2021, including asteroid strikes, solar storms, and the spiritual transition into Satya Yuga."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara"
 category: "Prophecy and World Events"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

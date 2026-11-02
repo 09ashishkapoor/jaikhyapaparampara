@@ -2,7 +2,7 @@
 layout: article
 title: "From Lawyer to Tantrik: The Spiritual Journey of Shyama Khyapa"
 breadcrumbTitle: "The Journey of Shyama Khyapa"
-description: "Gurudev Shyama Khyapa shares his profound transition from a successful legal career and business life to a life of complete surrender to Mother Tara and the path of Tantra."
+description: "Gurubaba Shyama Khyapa shares his profound transition from a successful legal career and business life to a life of complete surrender to Mother Tara and the path of Tantra."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Gupta Sadhak Shyamakhyapa, Shyama Khyapa, Spiritual Journey, Lawyer to Tantrik, Mother Tara, Tarapith, Pashupatinath, Tantra, Divine Vision"
 category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
@@ -141,5 +141,5 @@ Interviewer: Respects to the Mother and to you. We conclude today's episode.
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Gurudev Shyama Khyapa shares his profound transition from a successful legal career and business life to a life of complete surrender to Mother Tara and the path of Tantra.</p>
+<p>Gurubaba Shyama Khyapa shares his profound transition from a successful legal career and business life to a life of complete surrender to Mother Tara and the path of Tantra.</p>
 </div>

@@ -2,7 +2,7 @@
 layout: article
 title: "Pagla Baba's Long-Awaited Visit: A Heartfelt Reunion with Gurudev"
 breadcrumbTitle: "Pagla Baba Visits Gurudev"
-description: "An emotional reunion between Gurudev Shyama Khyapa and his beloved disciple Pagla Baba, who shares his journey of seeking initiation and the transformative power of Guru's grace."
+description: "An emotional reunion between Gurubaba Shyama Khyapa and his beloved disciple Pagla Baba, who shares his journey of seeking initiation and the transformative power of Guru's grace."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Pagla Baba, Disciple, Initiation, Diksha, Spiritual Journey, Devotion, Guru Grace, Reunion"
 category: "Guru Stories and Devotee Lives"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"

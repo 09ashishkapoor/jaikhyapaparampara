@@ -2,7 +2,7 @@
 layout: article
 title: "The Eternal Call of Narmada: Searching for Siddhas in Kali Yuga"
 breadcrumbTitle: "Narmada & Siddha Search"
-description: "A profound spiritual dialogue between Gurudev Shyama Khyapa and a traveling Maharaj about the sacred banks of Narmada, the presence of immortals like Ashwatthama, and the search for true realization."
+description: "A profound spiritual dialogue between Gurubaba Shyama Khyapa and a traveling Maharaj about the sacred banks of Narmada, the presence of immortals like Ashwatthama, and the search for true realization."
 keywords: "Guru Deva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Narmada, Ma Reva, Siddha Saints, Kriya Yoga, Dattatreya, Ashwatthama, Kali Yuga, Satyayuga, Gyan Ganj, Surya Yoga, spiritual search"
 category: "Discourses, Questions & Practical Life"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
