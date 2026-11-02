@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">A devotee asks Guru Shyama Khyapa about a fire in the Tarapith Temple's generator room, and he calls it a grave omen of a larger disaster, comparing it to the Jagannath Temple flag fire that preceded COVID-19. He attributes the fire to corruption around the Mother's bath and to fake rituals, insisting that Bama-deb and Mother Tara are angry and that those responsible will face judgment. He predicts violence and internal conflict that the government cannot stop, and says people must change rather than buy God's favor.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

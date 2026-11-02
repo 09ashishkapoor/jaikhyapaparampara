@@ -27,6 +27,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Responding to a devotee's question about a suspected biological war and a possible global attack on China, Guru Shyama Khyapa says a Third World War will not happen because nuclear weapons would annihilate the world, though a severe food and water crisis is coming. He predicts that China's arrogance will bring it down through devastating earthquakes, while India will survive by the grace of the spiritual masters. He also describes the hidden saints of Gyanganj as guiding world events and says Netaji Subhash Chandra Bose remains alive in disguise.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
