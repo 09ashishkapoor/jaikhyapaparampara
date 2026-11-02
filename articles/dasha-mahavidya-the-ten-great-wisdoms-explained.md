@@ -19,6 +19,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains the origin of the Dasha Mahavidya, the ten aspects of the Divine Mother, through the story of Durga holding Vishnu in her womb and later manifesting ten forms after Shiva beheaded him. He recounts how Ganesha received an elephant's head and was made first in worship, and says the ten forms are meant for sadhaks in cremation grounds, empty fields, or abandoned houses, not household worship. He also links Kanyakumari and Belur Math to Durga and Kumari Puja.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;padding:1.5rem;background:rgba(255,184,76,0.05);border-left:4px solid var(--accent-bright);border-radius:0 8px 8px 0;">
