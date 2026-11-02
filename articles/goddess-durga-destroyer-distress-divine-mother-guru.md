@@ -27,6 +27,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains why Durga is called the destroyer of distress, tracing her names Narayani, Dakshayani, and Katyayani and describing her as the root from which Kali, Tara, and the ten Mahavidyas emerge. He says the 51 Peethas worship Dakshina Kali rather than Durga, links this to Durga's change into Kaushiki, and stresses that worship of the 64 Yoginis is central to attaining Siddhi. Speaking after consecrating a Siliguri devotee's idol, he recounts sixty years of Durga Puja and the Mother's promise to Mahishasura.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

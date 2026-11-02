@@ -33,6 +33,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells a disciple that India-Pakistan tensions could widen into a global war, with Bangladesh and China drawn in and nuclear weapons capable of causing destruction far beyond Hiroshima and Nagasaki. He reads the Bhavishya Malika's seven days without sunlight as a sign of atomic fallout, treats the Jagannath Temple's broken flag and falling blood as omens of Mahapralay, and says the present generation will be wiped out before a new one arrives. He also links the Kumbh Mela's bathing order and a Vish-Kumbh conjunction to coming catastrophe.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

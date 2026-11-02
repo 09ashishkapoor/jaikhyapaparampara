@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa listens as a devotee reads from the Bhagavad Gita on desireless action, the disciplined mind, and the practice of meditation, offering brief confirmation and practical comment throughout. He stresses purifying the mind before reading the Gita, describes Kusha grass and deerskin as suitable seats, and explains that meditation requires fixing the gaze at the nose tip with no second thought. He describes drawing out the body's inner light as the aura and calls Samadhi the Brahmi state, saying the Gita is necessary for steadying the mind.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
