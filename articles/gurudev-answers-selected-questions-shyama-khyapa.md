@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers hostile comments by saying the critics lack a sense of right and wrong and that God will deal with them, while a disciple says the chained image of the Mother reflects the abandonment of parents in old age. He credits Ma Annapurna for food for eight to ten people feeding twenty-five and forbids payment for the Mother's food. Asked whether Brahma, Vishnu, or Shiva is greatest, he calls them equal in Vedanta and describes Nil Saraswati as a form of Tara linked to Bamadeb.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

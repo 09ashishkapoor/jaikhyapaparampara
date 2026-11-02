@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Gurudev explains that the tilak originally meant a Raj-Tilak, a victory mark given to kings before war, and argues that its commercial use at temples today dishonors the Goddess. He says Bama Khepa refused to wear one because it was meant for kings, that men have no right to apply vermilion to the Mother, and that paying thousands to watch her ritual bath is degrading. He also introduces the Mahanirvana Tantra as a non-violent, Buddhist-associated path that seeks liberation by awakening the conscience.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

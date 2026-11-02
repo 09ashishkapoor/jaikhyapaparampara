@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains Ambubachi as adherence to water, describing the first rain of Ashar being collected to bathe the Goddess and the temple doors staying closed for three days. He connects the observance to farmers refraining from plowing so seeds are not harmed and to precautions traditionally taken during menstruation, saying both follow the same logic of precaution. He also describes rituals such as avoiding hot food, offering mango and milk, and having a girl pluck flowers for Shiva after her first period.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
