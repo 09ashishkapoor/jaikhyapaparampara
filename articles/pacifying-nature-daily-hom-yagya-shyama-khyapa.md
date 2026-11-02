@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by KaliPutra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains to an interviewer why his temple performs Hom-Yagya daily, saying the Vedic fire ritual with ghee offerings and mantras can bring positive results when nature is deeply agitated. He connects the practice to ancestors who sought to pacify natural forces, the Vedas' twenty-four deities, and the Gayatri Mantra, while acknowledging that improvement is gradual rather than instant. He also cites three straight years of Mahamrityunjaya Hom plus Nikumbhila and Pratyangira Yagyas, and stresses that devotees supply materials while no money is charged.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

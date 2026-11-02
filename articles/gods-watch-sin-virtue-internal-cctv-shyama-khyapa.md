@@ -26,6 +26,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers a disciple's question about divine judgment by teaching that humans cannot reliably judge sin and virtue, so each day's actions should be reported to God at night. He retells Krishna's boon allowing Shishupala a hundred sins, the sage's pigeon test, and Vidura's next birth to argue that the Paramatma is an internal CCTV camera recording every deed. Because earthly courts can be bought, he says, surrender both sins and virtues to God, who judges across lifetimes.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
