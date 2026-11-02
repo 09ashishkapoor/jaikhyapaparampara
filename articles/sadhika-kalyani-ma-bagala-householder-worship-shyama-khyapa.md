@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">A seeker from Kalyani tells Guru Shyama Khyapa how she found his YouTube episodes, felt peace, and came to Rajpur Mahashoshan to meet him at last. She describes her guru, Sadhak Basudev Paramhansa, her devotion to Ma Bagala, and a householder practice built around simple worship, the guru's mantra, and leaving elaborate rituals to the Mother. Her account matters because it presents ordinary domestic duty as a valid spiritual path and repeatedly credits the guru and Mother, not herself, for any guidance she gives.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

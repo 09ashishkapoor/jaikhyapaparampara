@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Swami Jog Sundarananda, a monk at Medinipur's Universal Peace Center, discusses with Guru Shyama Khyapa why education pursued only for wealth can leave character behind. Drawing on his time as a school headmaster, he describes parents who want monks to teach culture but will not send a son to monastic life, and says Bengal's regard for monks and rituals has declined. Guru Shyama Khyapa adds that advice is useless until people see they are on the wrong path; the exchange calls on parents to model those ideals.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

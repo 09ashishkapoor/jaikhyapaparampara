@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers a devotee's request for help by describing folk remedies, or totkas, for people in sorrow and financial hardship. He explains Daridra Yoga as a Sun-Venus combination and recommends feeding large black ants jaggery, while for a weak Sun he gives a Bel-root remedy purified with Panchamrita, a water offering with a Sanskrit chant, and the crow's twig known as Kaker Kuti. The conversation matters because it records the folk remedies he gives to people who cannot afford expensive gemstones.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

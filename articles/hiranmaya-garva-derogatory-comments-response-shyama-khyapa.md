@@ -20,6 +20,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa responds to a devotee's report that the Hiranmaya Garva channel, with which he once worked, is now making derogatory remarks about him. He cites Vidyasagar's words about favors breeding criticism, recounts the mouse-and-sage story, and says he has the power to change things but will not dirty his hands with lowly people. He also says he will not pursue legal action now, preferring to let the other person earn a living while reserving the right to act if his episodes are exploited or the comments continue.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells Aghori Baba Maharudra Nath that his illness is a danda, or spiritual penalty, incurred for ritual help given to a cobra-bite victim and to a doctor's dying mother. The Aghori recounts seeing six Bhairavs during a Tarapith ritual, a falling branch, and a fever, and urges listeners never to perform negative rituals there. Their exchange matters because it frames ritual power as something exercised at personal cost and warns that it must never be turned toward harm.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
