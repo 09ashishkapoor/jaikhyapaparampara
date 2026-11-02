@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Answering Raja Chakraborty's question, Guru Shyama Khyapa says Ma Tara and Bama Deb Baba are far superior to politics and calls today's politics a 'dustbin,' while recalling a past when Bidhan Chandra Roy bowed to Omkarnath and Indira Gandhi sought Anandamayi Ma's counsel. He calls himself a 'dustbin' for people's worries and says leaders and officials seek his advice, though he will not join any party and insists a saint must balance spiritual life with society. The exchange matters because Guru Shyama Khyapa sets out his independent, non-partisan public role.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

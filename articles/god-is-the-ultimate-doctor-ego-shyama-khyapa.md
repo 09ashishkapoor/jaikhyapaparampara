@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Asked how to surrender the ego's sense of 'I' and 'mine,' Guru Shyama Khyapa says removing the 'A' from 'Aamitto' leaves everything as Mother's and releases one from the burden of responsibility. He illustrates this with a story from Aesop about an abandoned, incurably ill girl who is healed after praying to a picture of Jesus Christ and unknowingly gives clothes, cake, and medicine money to Jesus in three guises. The conversation matters because he presents ego-removal and faith in the Divine as the remedy for suffering and disease.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
