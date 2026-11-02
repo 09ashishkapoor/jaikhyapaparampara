@@ -29,6 +29,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Gurudev explains the Sraddha ceremonies, saying that liberation from Pret-lok comes only after ten months and ten days and that the soul then journeys to Chandralok before returning to a new womb according to its karma. He describes the sixteen-item Shorosh-daan, the simpler Til-Kanchan offering, and scriptural allowances such as clay vessels or banana leaves for the poor. He also locates Pret-lok at the Pret-shila in Gaya and calls the rites a scientific support for the deceased soul.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -28,6 +28,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains why a fire ritual is being performed at Shantikunj during the COVID-19 pandemic, describing the use of bael leaves, turmeric, and sun-dried rice and the need to chant mantras so the coronavirus leaves the place. He says the ritual is meant to raise oxygen levels and protect the world, and he appeals to listeners to help neighbours with shopping and food. He also describes the pandemic and a rise in 'tuk-tak' as grave signs, urging prayer and collective action.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
