@@ -15,6 +15,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa argues that the planetary alignment around the Kurukshetra war closely resembles the present one, a comparison he bases on astronomy rather than astrology and on Jupiter’s weakening as a loss of protection. He retells how Bhishma seized Gandhari, how Shakuni survived starvation and made dice from his father’s bones, and how Duryodhana refused five villages and declared war under Amavasya and Rikta Yoga. He warns that the same destructive setup is repeating and that he sees millions dying, with weak Mercury producing perverted judgment.</p>
+
 <div class="transcript-container" style="font-family: arial, sans-serif; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 20px;">
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Narrator:</span> <span class="speech-text">Namo Shree Shree Guptasadhak Shyamakhapaye Namo. Greetings. We are beginning today's program from Shantikunj by paying our respects to Gurudev Guptasadhak Shree Shree Shyamakhapa. Come, let us all listen to the invaluable words of Gurudev.</span></div>
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Disciple:</span> <span class="speech-text">Gurudev, my salutations to you.</span></div>

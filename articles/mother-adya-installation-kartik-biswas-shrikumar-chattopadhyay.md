@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts how a confrontation over drinking at a cremation ground led municipal councilor Kartik Biswas to invite him to install Mother Adya at a Rajpur Sonarpur temple, where he performed the life-infusion and eye-opening rites after five years of Adya-sadhana. He also describes singer Shrikumar Chattopadhyay’s reverence at a later function, including the dim lamp-light Guru requested and the garland Shrikumar placed around him, and explains his refusal to enter inner sanctums and his opposition to a donation box.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

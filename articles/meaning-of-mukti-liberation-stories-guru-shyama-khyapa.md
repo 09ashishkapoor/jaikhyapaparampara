@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa distinguishes bodily release from true Mukti, which he says only Mahadev can grant, and illustrates this through people who sought an end to suffering. He recalls a dialysis patient from Nadia begging him to end her life, a transgender woman who wanted the Gita and prayed not to be reborn in that condition, and a professor whose dying wife passed peacefully after consecrated water and herbs. He links these encounters to the funeral rite of breaking a water pot and the soul’s hoped-for journey to Shiva-lok.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

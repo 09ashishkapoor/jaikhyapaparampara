@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains the lore and lasting significance of Gangasagar, from Ganga’s turbulent meeting with the sea to the Gita’s Kapil Muni and the sea that annually washes the deity’s feet. He recounts King Sagar’s 60,000 sons, Kapil Muni’s curse, and Bhagirath’s penance that brought Ganga to earth through Shiva’s matted hair, while treating Patal as the low delta rather than a literal underworld. He adds that the Jog-er Snan bath is believed to cure disease and that Tarpana is said to liberate seven generations of ancestors.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

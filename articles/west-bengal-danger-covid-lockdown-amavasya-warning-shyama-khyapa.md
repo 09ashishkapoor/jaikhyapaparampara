@@ -29,6 +29,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa announces a temporary lockdown at Shanti Kunj, closing it to visitors from Pratipada onward because COVID cases are rising and visitors come from across India, while temple rituals continue inside. He also forbids householders from entering the cremation ground on Amavasya, describing the night as devoid of planetary light, when solar and human energy weaken and Tantrics perform harmful rites. He also says people are suffering for their own misdeeds while seeking remedies from Tantrics and astrologers, and calls West Bengal’s situation dire.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
