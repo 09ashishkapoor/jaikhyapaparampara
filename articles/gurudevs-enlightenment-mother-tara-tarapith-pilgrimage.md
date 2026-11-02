@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa describes his recent pilgrimage to Tarapith, where he had Pagla Baba perform a night Homa for world peace and worshipped at Mundomalitola rather than the crowded main temple. He speaks of his fear and reverence for Ma Tara, warns that the sacred Shila should be neither seen nor touched as Bama Khepa said, and criticizes priests who display it for money. He also recalls a man-high sacrificial blade from the Kapalika era, which he says was used for human sacrifice.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

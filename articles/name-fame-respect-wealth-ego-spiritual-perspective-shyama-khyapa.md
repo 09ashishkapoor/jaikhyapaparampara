@@ -25,6 +25,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers a seeker's question about prestige, respect, wealth and fame, arguing that none of them can be gained by wishing and that all depend on right action and character. He says respect must be commanded rather than demanded, that wealth should be earned by honest means and follows those who live with dignity, and he warns that a dangerous ego can hide within these attainments. He holds up the grass that rises again after being stepped on as a model of humility.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

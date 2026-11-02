@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">On Maghi Purnima, Guru Shyama Khyapa describes a Homa at his temple performed by a woman for world peace, and explains why he trains women to conduct Vedic rituals and even shares the mantras with them by phone. He says women have been suppressed for too long and that equality must be practised rather than merely discussed. He distinguishes the Sattvic Vedic path followed there from Tantric practice, which he says he reserves for places like Tarapith or Kamakhya.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

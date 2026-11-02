@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa continues a discussion of the 51 Sati Peethas, telling the story of the Cooch Behar king who built Kamakhya's temple after conquering Assam and was warned never to look upon the Nilachal hills again. He describes the peethas as places of radiating spiritual power and explains that "holding" one requires a vow that confines the sadhak to the sacred ground. He criticizes crowds, commercial group rituals and alcohol for disturbing the sites and driving sadhaks to the Himalayas.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
