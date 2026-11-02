@@ -20,6 +20,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa tells a disciple how he first came to Rajpur Mahashashan in office clothes, was challenged by caretaker Gopal Biswas, and gradually made the dark, wood-fired cremation ground his place of night-long prayer. He recounts what he presents as a miracle—an infant reported dead who survived after he sent a herbal root—and recalls meetings with Annadashankar Ray, Nabaneeta Dev Sen, Keshavji Maharaj, and intelligence official Parth Bhatti. He says his meditation and long Mahamrityunjay ritual are dedicated to world peace and human welfare.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

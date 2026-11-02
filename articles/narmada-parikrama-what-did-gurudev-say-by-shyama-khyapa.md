@@ -20,6 +20,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Disciple Chandan Adhikari describes returning from the Narmada Parikrama, a roughly 3,320-kilometer circuit that Gurudev says traditionally takes three years, three months, and thirteen days and is truest when walked along the riverbank. Chandan recounts the hospitality, honesty, and service of residents and sages, the protection he believes Mother Narmada gives from wild animals, and a prophecy that only her water will sustain humanity when other Indian rivers dry up. Gurudev frames the journey around service and surrender, while Chandan credits his guru's grace for drawing him to it.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

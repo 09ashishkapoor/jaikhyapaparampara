@@ -20,6 +20,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa explains the Panchamundi seat as a Kamakhya-related Tantric asana built from five skulls, including a Chandala's, a langur's, a mongoose's, a snake's, and a fox's, awakened on an Amavasya night after midnight. He describes it as a seat of immense power that can kill an unprepared sitter, notes that Ramprasad made one at Garalgacha, and says permission from its creator is needed before another seeker may use it. He distinguishes it from Shava Sadhana while presenting both as advanced practices whose methods should not be disclosed.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -19,6 +19,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa responds to the interviewer's request for firsthand examples by recounting households he says were damaged after keeping cremation-ground wood and worshipping Mother Tara at home. He describes families stricken by illness and a daughter's suicide, and says the troubles eased after the wood and image were removed, which leads him to insist that Dash Mahavidya puja must never be performed in a household. He also recalls a bird sacrifice at Tarapith and advises visiting on Shukla Ashtami and at 3 p.m. rather than on the new moon.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
