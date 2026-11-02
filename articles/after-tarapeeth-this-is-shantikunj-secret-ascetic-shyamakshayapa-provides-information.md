@@ -21,6 +21,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa and S. P. Mukherjee discuss mental resilience, devotion, and the immunity Guru Shyama Khyapa says comes from serving the Mother and tending the sacrificial fire. Mukherjee argues that mental strength matters more than amulets and recounts an encounter with an Aghori at Tara Peeth, while Guru Shyama Khyapa describes a vowed 1,000-day Maha Mrityunjaya Yajna that brought hardship and the death of a young member. They also discuss masks and immunity, with Mukherjee cautioning against steroids and stressing correct mask use.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

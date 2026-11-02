@@ -29,6 +29,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa asks astrologer Bishwodev Chakraborty why divorce and infertility are so common, and Chakraborty attributes infertility to weak or afflicted Moon, Mars, and Jupiter and to afflictions of the fifth and seventh houses. For divorce, he blames afflicted seventh and fourth houses, a weak Venus, Manglik placements, and difficult relations between the first and seventh lords. Guru Shyama Khyapa adds that Vedic fire rituals and the Mother's grace have helped couples conceive, while both men also link modern social changes to marital breakdown.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
