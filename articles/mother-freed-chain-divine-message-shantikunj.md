@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts how a mysterious woman appeared at Shantikunj wearing a lock and chain identical to the one he had placed on Mother's feet. He describes her silent stay at his feet, her request for water, her disappearance, and the crying he heard afterward. Taking this as Mother's message that she cuts through chains, he says he removed the chain and felt both freed.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

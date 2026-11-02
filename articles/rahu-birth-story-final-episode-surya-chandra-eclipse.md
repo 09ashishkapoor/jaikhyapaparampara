@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Shantanu recounts the final chapter of Rahu's story, explaining why Rahu and Ketu consume the Sun and Moon and how this threatened the three worlds. He describes Aruna's premature birth, his placement before the Sun's chariot to absorb heat, and Vishnu's intervention making Rahu and Ketu divine representatives of time. The narrator then tells how the child Hanuman grabbed Rahu, explaining why Hanuman Chalisa recitation is recommended against Rahu's influence.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
