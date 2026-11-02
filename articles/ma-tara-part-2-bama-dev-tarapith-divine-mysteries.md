@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa recounts Bama-dev's life and Tarapith's mysteries, describing the Dwaraka River's northward flow as a reflection of energy rising through the chakras and retelling how Bama-dev ate Ma Tara's offering before it was offered. He explains the resulting tradition, Ma Tara's meditative form, and the saint's compassion, including his defense of a poor thief. The account closes with Bama-dev's foreknowledge of death and burial at his temple, showing how his devotion shaped practices still observed at Tarapith.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

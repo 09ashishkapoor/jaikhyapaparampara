@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa answers devotees' questions on religion, karma, dharma, mantra practice, divine power, vegetarianism, and contact with the dead. He says man created religion and gods out of necessity, calls nature the supreme truth, and teaches that karma and dharma are inseparable. He recommends that women chant male deities' names and men chant female deities' names, says divine power requires past-life fruits and long practice, and holds that character matters more than diet and the dead cannot return, offering guidance on belief and practice.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
