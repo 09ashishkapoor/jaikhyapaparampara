@@ -24,6 +24,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa welcomes Alexa, a visitor from Moscow, and says Alexa came to see pilgrimage sites and meet him after hearing about him from Sanjiv Sen and watching the Guru's videos. Alexa describes an interest in Indian languages, temples, and Sanatan Dharma, calling Indian religions peaceful and seeing no contradiction between respecting Jesus Christ and Indian religion. The conversation highlights a Russian visitor's interest in Sanatan Dharma and closes with shared hopes that the Russia-Ukraine war will stop.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -15,6 +15,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Devotees from Siliguri tell Guru Shyama Khyapa how initiation during the lockdown changed their lives, with Jibon describing a spiritual center already formed there and Rakesh Singh, a footballer who has played for Mohun Bagan and East Bengal, expressing gratitude for what he received. Dulal recounts miracles, including the temple flood clearing before the visitors arrived, while Guru Shyama Khyapa says he takes no money and that healing begins as soon as a problem is reported to him. He promises to visit Siliguri, where many await him.</p>
+
 <div class="transcript-container" style="font-family: arial, sans-serif; line-height: 1.8; max-width: 900px; margin: 0 auto; padding: 20px;">
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Disciple (Dulal):</span> <span class="speech-text">Gurudev, my respects to you.</span></div>
 <div class="speaker-block" style="margin-bottom: 20px;"><span class="speaker-name" style="font-weight: bold; color: #333;">Guru Shyama Khyapa:</span> <span class="speech-text">My respects to you as well. Go ahead.</span></div>

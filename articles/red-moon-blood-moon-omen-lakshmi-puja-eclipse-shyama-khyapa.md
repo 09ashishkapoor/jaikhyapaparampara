@@ -31,6 +31,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">On the evening of Kojagari Lakshmi Puja, Guru Shyama Khyapa explains the festival's East Bengal roots before turning to the lunar eclipse and blood-red moon, which he calls an omen of violent conflict and bloodshed somewhere in the world. He calls it the last lunar eclipse of the century, says October, November, and December will be especially difficult, and fears something is going to happen even over Kolkata. The warning asks viewers to remain alert during a festival usually associated with celebration.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
