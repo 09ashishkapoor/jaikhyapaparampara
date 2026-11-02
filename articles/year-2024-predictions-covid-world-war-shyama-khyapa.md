@@ -31,6 +31,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa warns that the third COVID-19 variant will devastate India and predicts a far worse "Double Pneumonia" pandemic, urging immediate lockdowns and rapid vaccine development. He says the Third World War has begun, with nuclear bombs, a divided world, and attacks on India after it moves on PoK. He also predicts China's fall and India's rise to the highest seat in the world assembly, while warning that only 33 crore people will remain.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

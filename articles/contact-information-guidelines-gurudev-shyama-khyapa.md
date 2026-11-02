@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa shares his phone number, 8777-07-1816, while setting firm conditions: devotees should call only in genuine trouble, avoid unnecessary calls, and not call in the morning. He explains that visitors need not call before coming because he is usually at the ashram, and he warns that misuse will lead him to disconnect the line. The interviewer adds the weekly schedule, noting that Gurudev does not hold sessions on Amavasya, Ekadashi, Purnima, Saturdays, or Sundays.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
