@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">A caregiver announces that Gurudev Shyama Khyapa, recently back from a nursing home, has fallen very ill again with a severe cough and slight fever, and a doctor's appointment is scheduled. The speaker urgently asks devotees not to visit for Vijaya Dashami or any other reason, promising another video once he is healthy and suggesting they may then see him from a distance. Gurudev confirms the request, saying he fears returning to hospital, while the caregiver cites his age and weakness and the doctor's instruction to keep him 'like cotton.'</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

@@ -23,6 +23,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">Guru Shyama Khyapa describes Kamakhya's sanctum, where a spring flows over the Mother's yoni, covered by a golden plate, and explains Ambubachi as a time when plowing is avoided to protect germinating life. He calls the Earth Shodashi, forever sixteen, and recounts his months there, including a Kumari Puja on the Panchamundi seat and a later stay in Kashi. He also tells of Sage Vashistha's corrected mantra and refuses to disclose seed mantras, warning against alcohol and misconduct at the pithas.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

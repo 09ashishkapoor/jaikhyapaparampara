@@ -22,6 +22,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>Verified by Kaliputra-Ashish</em></p>
 ---
 
+<p class="transcript-context">A Lalon singer invited to perform in Kushtia, Bangladesh, on March 4–6 visits Guru Shyama Khyapa with her husband, Arun Bhattacharya, the Rajpurohit of the Sarvamangala Temple in Bardhaman. Though Gurudev is unwell, he blesses her journey, says he will pray to the Mother for her success among 300 invited artists, and asks whether he would find them if he visited Bardhaman. The singer describes Lalon Shah's songs as devotion and body philosophy (Dehatatwa), while Gurudev says removing the 'I' leaves everything as the Mother's.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">

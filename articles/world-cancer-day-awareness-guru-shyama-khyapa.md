@@ -31,6 +31,8 @@ source: |
   <p style="margin-top:0.5rem;"><em>On 4th February, Biswa cancer will be cured by Gurudev and his family.</em></p>
 ---
 
+<p class="transcript-context">A cancer specialist joins Guru Shyama Khyapa on World Cancer Day to discuss prevention, early detection, and treatment, warning that cancer is the second leading cause of death and that cases are increasing. The doctor urges vigilance about persistent coughs, non-healing wounds, and painless lumps, and cautions that alternative medicines can obscure how far the disease has progressed. Guru Shyama Khyapa says a Mother-given medicine received in a dream can arrest cancer and buy time for medical treatment, though he insists it does not alone eradicate the disease.</p>
+
 <div class="transcript-container" style="background:rgba(45,15,24,0.4);border:1px solid var(--border-gold);padding:2.5rem;border-radius:8px;box-shadow:0 10px 30px rgba(0,0,0,0.3);margin-bottom:2rem;">
 
 <div class="speaker-block" style="margin-bottom:2rem;border-left:3px solid var(--accent-color);padding-left:1.5rem;">
