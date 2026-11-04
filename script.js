@@ -4,8 +4,8 @@ const DOM = {
     navLinks: null,
     sections: null,
     init() {
-        this.header = document.querySelector('.header');
-        this.navLinks = document.querySelectorAll('.nav-menu a');
+        this.header = document.querySelector('.site-header, .header');
+        this.navLinks = document.querySelectorAll('.nav-menu a, .site-menu-list a');
         this.sections = document.querySelectorAll('section[id]');
     }
 };
@@ -68,6 +68,7 @@ function getTargetFromHash(hash) {
 // Smooth scroll behavior for navigation links with offset for sticky header
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
+        if (this.classList.contains('skip-link')) return;
         const href = this.getAttribute('href');
         const targetId = href ? decodeURIComponent(href.slice(1)) : '';
         const target = targetId ? document.getElementById(targetId) : null;

@@ -948,70 +948,57 @@
         ]
       }
     </script>
+    {% include "site-chrome.liquid" %}
+    <style>
+      .hero-actions{display:flex;gap:.75rem;justify-content:center;flex-wrap:wrap;margin:1.8rem 0 .5rem}
+      .hero-cta{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:.85rem 1.4rem;border-radius:999px;background:var(--gold-gradient);color:var(--light-bg);font-family:'Philosopher',sans-serif;font-weight:700;text-decoration:none;box-shadow:0 6px 18px rgba(232,196,104,.22);transition:transform .2s ease,box-shadow .2s ease}
+      .hero-cta:hover{transform:translateY(-2px);box-shadow:0 10px 24px rgba(232,196,104,.3)}
+      .hero-cta--ghost{background:transparent;color:var(--accent-color);border:1px solid var(--border-gold);box-shadow:none}
+      .hp-jump{display:flex;align-items:center;justify-content:center;gap:.5rem 1rem;flex-wrap:wrap;padding:1.1rem 1rem .25rem;font-size:.92rem}
+      .hp-jump span{color:var(--accent-color);font-family:'Philosopher',sans-serif;letter-spacing:.08em;text-transform:uppercase;font-size:.74rem;opacity:.8}
+      .hp-jump a{color:var(--text-dark);text-decoration:none;border-bottom:1px solid var(--border-gold);padding:.15rem 0}
+      .hp-jump a:hover{color:var(--accent-bright)}
+      .hp-hub-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;margin:1.6rem 0 1rem}
+      .hp-hub-card{display:flex;flex-direction:column;gap:.45rem;padding:1.2rem;border:1px solid var(--border-gold);border-radius:16px;background:linear-gradient(145deg,rgba(45,15,24,.5),rgba(17,6,9,.9));color:inherit;text-decoration:none;transition:transform .2s ease,border-color .2s ease,background .2s ease}
+      .hp-hub-card:hover{transform:translateY(-3px);border-color:var(--accent-color);background:linear-gradient(145deg,rgba(232,196,104,.1),rgba(17,6,9,.92))}
+      .hp-hub-count{font-size:.8rem;color:var(--accent-color);letter-spacing:.03em}
+      .hp-hub-card h3{font-family:'Philosopher',sans-serif;color:var(--accent-bright);font-size:1.2rem;line-height:1.3;margin:0}
+      .hp-hub-card p{color:var(--text-dark);opacity:.85;font-size:.95rem;line-height:1.55;margin:0}
+      .hp-hub-cta{margin-top:auto;padding-top:.5rem;color:var(--accent-color);font-weight:700;font-size:.9rem}
+      .hp-topic-foot{text-align:center;font-size:.95rem;color:var(--text-dark);opacity:.85;margin:.5rem 0 0}
+      .hp-topic-foot a{color:var(--accent-color)}
+      .hp-ebook-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:1rem;max-width:980px;margin:1.5rem auto}
+      .hp-ebook-card{display:flex;flex-direction:column;border:1px solid var(--border-gold);border-radius:16px;overflow:hidden;background:rgba(20,8,12,.6);text-decoration:none;color:inherit;transition:transform .2s ease,border-color .2s ease}
+      .hp-ebook-card:hover{transform:translateY(-3px);border-color:var(--accent-color)}
+      .hp-ebook-card img{display:block;width:100%;height:auto;aspect-ratio:3/4;object-fit:cover}
+      .hp-ebook-body{padding:.85rem 1rem 1rem}
+      .hp-ebook-title{display:block;font-family:'Philosopher',sans-serif;color:var(--accent-bright);font-weight:700;line-height:1.3}
+      .hp-ebook-lang{display:block;margin-top:.25rem;font-size:.85rem;color:var(--accent-color);opacity:.9}
+      .hp-ebook-all{display:flex;justify-content:center;margin-top:.4rem}
+      .about-pointer{max-width:760px;margin:0 auto;text-align:center;color:var(--text-dark);font-size:1.08rem;line-height:1.75}
+      .about-pointer a{color:var(--accent-color);font-weight:700;text-decoration:none;border-bottom:1px solid var(--border-gold)}
+      @media(max-width:600px){.hp-ebook-grid{grid-template-columns:1fr 1fr;gap:.7rem}.hp-ebook-body{padding:.65rem .7rem .8rem}.hp-ebook-title{font-size:.95rem}.hp-hub-grid{grid-template-columns:1fr}}
+    </style>
   </head>
   <body>
     <!-- Background audio controlled by header button -->
     <!-- Header -->
-    <header class="header">
-      <div class="container">
-        <nav class="nav">
-          <div class="logo">
-            <h1 translate="no">Jai Khyapa Parampara</h1>
-          </div>
-          <div class="nav-controls">
-            <button
-              id="audio-toggle"
-              aria-label="Play temple ambience"
-              title="Play temple ambience"
-            >
-              <i class="fas fa-music"></i>
-              <span class="audio-toggle-label">Play Music</span>
-            </button>
-            <button
-              class="nav-toggle"
-              aria-label="Toggle navigation"
-              aria-expanded="false"
-            >
-              <span></span>
-              <span></span>
-              <span></span>
-            </button>
-          </div>
-          <ul class="nav-menu">
-            <li><a href="#home">Home</a></li>
-            <li><a href="#sacred-texts">Sacred Texts</a></li>
-            <li><a href="articles/">Articles</a></li>
-            <li><a href="/glossary/">Glossary</a></li>
-            <li><a href="/gallery/">Sacred Art</a></li>
-            <li><a href="https://mantrini.jaikhyapaparampara.com/">MANTRINI App</a></li>
-            <li>
-              <a
-                href="https://calendar.jaikhyapaparampara.com/"
-                target="_blank"
-                rel="noopener"
-                >Calendar</a
-              >
-            </li>
-            <li><a href="#faq">FAQ</a></li>
-            <li><a href="#about">About</a></li>
-          </ul>
-        </nav>
-      </div>
-    </header>
+    {% assign showAudio = true %}
+    {% include "site-header.liquid" %}
 
     <!-- Audio Element (local chanting loop) -->
     <audio id="temple-audio" loop preload="none">
       <source src="1111.mp3" type="audio/mpeg" />
     </audio>
 
-    <main>
+    <main id="main" tabindex="-1">
       <!-- Entrance: Hero Section -->
       <section id="home" class="hero">
         <div class="hero-bg"></div>
         <div class="particles-container"></div>
         <div class="container">
           <div class="hero-content">
-            <h2 class="hero-title">A Flower at the Guru's Feet</h2>
+            <h1 class="hero-title">A Flower at the Guru's Feet</h1>
             <p class="hero-subtitle">
               For seekers drawn to the truth and wisdom of the Khyapa Parampara.
             </p>
@@ -1020,6 +1007,11 @@
               <p class="om-symbol">🕉️</p>
               <p>Om Shri Gurubhyo Namaha</p>
               <p>Jai Khyapa Parampara</p>
+            </div>
+
+            <div class="hero-actions">
+              <a class="hero-cta" href="/ebooks/">Free Ebooks</a>
+              <a class="hero-cta hero-cta--ghost" href="/articles/">Start Reading</a>
             </div>
 
             <div class="divine-presence">
@@ -1557,6 +1549,13 @@
       </style>
 
       <!-- ① Search Strip -->
+      <nav class="hp-jump" aria-label="Homepage quick links">
+        <span>Quick links</span>
+        <a href="/ebooks/">Free Ebooks</a>
+        <a href="#recently-added">Recently Added</a>
+        <a href="#faq">FAQ</a>
+        <a href="/about/">About the Parampara</a>
+      </nav>
       <section class="hp-search-strip" id="article-search">
         <div class="container">
           <div class="hp-search-inner">
@@ -1929,261 +1928,73 @@
         </div>
       </section>
 
-      <!-- ④ Topic Cloud -->
-      <section class="hp-topic-cloud" id="topic-cloud">
+      <!-- ④ Topic Paths -->
+      <section class="hp-topic-cloud" id="topics">
         <div class="container">
           <h2 class="hp-section-title">✦ Explore by Topic</h2>
           <p class="hp-section-subtitle">
-            Follow the subjects you want to read more deeply.
+            Eight paths through the archive. Each opens a complete, non-curated
+            list of related articles.
           </p>
-          <div id="hp-cloud-tags" class="hp-cloud-tags">
-            <span class="hp-cloud-tag-loading">Gathering topics...</span>
+          <div class="hp-hub-grid">
+            {% for group in collections.browseGroups %}
+            <a class="hp-hub-card" href="{{ group.url }}">
+              <span class="hp-hub-count">{{ group.count }} articles</span>
+              <h3>{{ group.name }}</h3>
+              <p>{{ group.description }}</p>
+              <span class="hp-hub-cta">Enter this path &rarr;</span>
+            </a>
+            {% endfor %}
           </div>
+          <p class="hp-topic-foot">
+            <a href="/topics/">See all topic paths</a> &middot;
+            <a href="/tags/">Browse all keywords</a>
+          </p>
         </div>
       </section>
 
-      <!-- Sanctum: Sacred Texts Section -->
+      <!-- Sanctum: Free Ebooks Teaser -->
       <section id="sacred-texts" class="library">
         <div class="container">
           <h2 class="section-title">Treasures for the Seeker</h2>
           <p class="section-subtitle">
-            Sacred texts, shared freely in the spirit of seva.
+            Free ebooks and sacred texts, shared in the spirit of seva.
           </p>
-
-          <div class="books-grid">
-            <!-- Book 1: Adya Mahakali 1000 Names -->
-            <div class="book-card">
-              <div class="book-content">
-                <h3 class="book-title">Adya Mahakali Sahasranama</h3>
-                <p class="book-description">
-                  Enter the remembrance of Ma Adya Mahakali through these 1000+
-                  names. This work is offered for bhakti, reflection, and daily
-                  chanting practice.
-                </p>
-                <div class="book-meta">
-                  <p><strong>Author:</strong> KaliPutra-Ashish</p>
-                  <span class="sr-only"
-                    >Available to download free of charge</span
-                  >
-                </div>
-                <div class="book-links">
-                  <a
-                    href="https://files.jaikhyapaparampara.com/AdyaMahakali_1000names_ebook_Final_V4.pdf"
-                    class="btn btn-primary"
-                    target="_blank"
-                    rel="noopener"
-                  >
-                    <i class="fas fa-file-pdf"></i> Click to download — Free
-                    eBook
-                  </a>
-                  <a
-                    href="https://archive.org/details/adya-mahakali-sahasranama-kaliputraashish"
-                    class="btn btn-secondary"
-                    target="_blank"
-                    rel="noopener"
-                  >
-                    <i class="fas fa-book-open"></i> Read & Download on Internet
-                    Archive
-                  </a>
-                  <a
-                    href="https://1000namesofmakali.com/names/"
-                    class="btn btn-secondary"
-                    target="_blank"
-                    rel="noopener"
-                  >
-                    <i class="fas fa-globe"></i> Read on Dedicated Website
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            <!-- Book 2: Kalabhairava 1000 Names, Second Digital Edition -->
-            <div class="book-card">
-              <div class="book-content">
-                <h3 class="book-title">
-                  Kalabhairava Sahasranama, Second Digital Edition
-                </h3>
-                <p class="book-description">
-                  Approach Ma Adya Mahakali through the 1000 names of
-                  Kalabhairava, the compassionate Guru who removes fear and
-                  steadies the seeker on the path. This updated English edition
-                  includes an addendum of pronunciation splits.
-                </p>
-                <div class="book-meta">
-                  <p><strong>Author:</strong> KaliPutra-Ashish</p>
-                  <p><strong>Language:</strong> English</p>
-                  <span class="sr-only"
-                    >Available to download free of charge</span
-                  >
-                </div>
-                <div class="book-links">
-                  <a
-                    href="https://files.jaikhyapaparampara.com/kalabhairavaBaba_1000names_ebook_Final_SecondDigitalEdition.pdf"
-                    class="btn btn-primary"
-                    target="_blank"
-                    rel="noopener"
-                  >
-                    <i class="fas fa-file-pdf"></i> Click to download — Free
-                    eBook
-                  </a>
-                  <a
-                    href="https://archive.org/details/kalabhairavaBaba_1000names_ebook_Final_SecondDigitalEdition"
-                    class="btn btn-secondary"
-                    target="_blank"
-                    rel="noopener"
-                  >
-                    <i class="fas fa-book-open"></i> Read & Download on Internet
-                    Archive
-                  </a>
-                  <a
-                    href="https://bhairavakalikenamosthute.com/names/"
-                    class="btn btn-secondary"
-                    target="_blank"
-                    rel="noopener"
-                  >
-                    <i class="fas fa-globe"></i> Read on Dedicated Website
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            <!-- Book 3: Kalabhairava 108 Names in English -->
-            <div class="book-card">
-              <div class="book-content">
-                <h3 class="book-title">
-                  Kālabhairava Ashtottarashata Nāmāvali
-                </h3>
-                <p class="book-description">
-                  Explore the 108 Sacred Names of Kālabhairava, with each name
-                  offering a deeper glimpse into his divine nature. English
-                  meanings and brief explanations help make the names more
-                  meaningful, deepening both understanding and devotion.
-                </p>
-                <div class="book-meta">
-                  <p><strong>Author:</strong> KaliPutra-Ashish</p>
-                  <p><strong>Language:</strong> English</p>
-                  <span class="sr-only"
-                    >Available to download free of charge</span
-                  >
-                </div>
-                <div class="book-links">
-                  <a
-                    href="https://files.jaikhyapaparampara.com/kalabhairava_108names_ebook_Final_V2.pdf"
-                    class="btn btn-primary"
-                    target="_blank"
-                    rel="noopener"
-                  >
-                    <i class="fas fa-file-pdf"></i> Click to download — Free
-                    eBook
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            <!-- Book 4: Kalabhairava 1000 Names in Hindi -->
-            <div class="book-card">
-              <div class="book-content">
-                <h3 class="book-title" lang="hi">श्री कालभैरव सहस्रनाम</h3>
-                <p class="book-description" lang="hi">
-                  कालभैरव के 1000 पवित्र नामों के माध्यम से माता आद्या महाकाली
-                  की ओर बढ़ें। कालभैरव - सबसे दयालु गुरु, Great Filter, और भय का
-                  विनाशक।
-                </p>
-                <div class="book-meta">
-                  <p><strong>लेखक:</strong> KaliPutra-Ashish</p>
-                  <span class="sr-only"
-                    >Available to download free of charge</span
-                  >
-                </div>
-                <div class="book-links">
-                  <a
-                    href="https://files.jaikhyapaparampara.com/kalabhairavaBaba_1000names_inHindi_ebook_Final.pdf"
-                    class="btn btn-primary"
-                    target="_blank"
-                    rel="noopener"
-                  >
-                    <i class="fas fa-file-pdf"></i> Click to download — Free
-                    eBook
-                  </a>
-                  <a
-                    href="https://archive.org/details/Kalabhairava-sahasranama-in-Hindi-kaliputraashish"
-                    class="btn btn-secondary"
-                    target="_blank"
-                    rel="noopener"
-                  >
-                    <i class="fas fa-book-open"></i> Read & Download on Internet
-                    Archive
-                  </a>
-                  <a
-                    href="https://bhairavakalikenamosthute.com/names/"
-                    class="btn btn-secondary"
-                    target="_blank"
-                    rel="noopener"
-                  >
-                    <i class="fas fa-globe"></i> Read on Dedicated Website
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            <!-- Book 4: Adya Mahakali 1000 Names in Hindi -->
-            <div class="book-card">
-              <div class="book-content">
-                <h3 class="book-title">आद्या महाकाली सहस्रनाम</h3>
-                <p class="book-description">
-                  माँ आद्या महाकाली के 1000+ पवित्र नामों में विलीन हो जाएं। ये
-                  नाम केवल शब्द नहीं, बल्कि शक्ति विद्या के प्रवेशद्वार हैं।
-                </p>
-                <div class="book-meta">
-                  <p><strong>लेखक:</strong> KaliPutra-Ashish</p>
-                  <span class="sr-only"
-                    >Available to download free of charge</span
-                  >
-                </div>
-                <div class="book-links">
-                  <a
-                    href="https://files.jaikhyapaparampara.com/AdyaMahakali_1000names_ebook_Final_Hindi.pdf"
-                    class="btn btn-primary"
-                    target="_blank"
-                    rel="noopener"
-                  >
-                    <i class="fas fa-file-pdf"></i> Click to download — Free
-                    eBook
-                  </a>
-                  <a
-                    href="https://archive.org/details/adya-mahakali-sahasranama-in-Hindi-kaliputraashish"
-                    class="btn btn-secondary"
-                    target="_blank"
-                    rel="noopener"
-                  >
-                    <i class="fas fa-book-open"></i> Read & Download on Internet
-                    Archive
-                  </a>
-                  <a
-                    href="https://1000namesofmakali.com/names/"
-                    class="btn btn-secondary"
-                    target="_blank"
-                    rel="noopener"
-                  >
-                    <i class="fas fa-globe"></i> Read on Dedicated Website
-                  </a>
-                </div>
-              </div>
-            </div>
+          <div class="hp-ebook-grid">
+            <a class="hp-ebook-card" href="/ebooks/#adya-mahakali-sahasranama">
+              <picture>
+                <source srcset="images/covers/adya-mahakali-sahasranama-en.webp" type="image/webp" />
+                <img src="images/covers/adya-mahakali-sahasranama-en.jpg" alt="Cover of the Adya Mahakali Sahasranama, English edition" width="720" height="960" loading="lazy" />
+              </picture>
+              <span class="hp-ebook-body">
+                <span class="hp-ebook-title">Adya Mahakali Sahasranama</span>
+                <span class="hp-ebook-lang">English &amp; Hindi &middot; 1000 names</span>
+              </span>
+            </a>
+            <a class="hp-ebook-card" href="/ebooks/#kalabhairava-sahasranama">
+              <picture>
+                <source srcset="images/covers/kalabhairava-sahasranama-en.webp" type="image/webp" />
+                <img src="images/covers/kalabhairava-sahasranama-en.jpg" alt="Cover of the Kalabhairava Sahasranama, English edition" width="720" height="960" loading="lazy" />
+              </picture>
+              <span class="hp-ebook-body">
+                <span class="hp-ebook-title">Kalabhairava Sahasranama</span>
+                <span class="hp-ebook-lang">English &amp; Hindi &middot; 1000 names</span>
+              </span>
+            </a>
+            <a class="hp-ebook-card" href="/ebooks/#kalabhairava-108-names">
+              <picture>
+                <source srcset="images/covers/kalabhairava-108-names-en.webp" type="image/webp" />
+                <img src="images/covers/kalabhairava-108-names-en.jpg" alt="Cover of the Kalabhairava 108 Names, English edition" width="720" height="960" loading="lazy" />
+              </picture>
+              <span class="hp-ebook-body">
+                <span class="hp-ebook-title">Kalabhairava 108 Names</span>
+                <span class="hp-ebook-lang">English &middot; 108 names</span>
+              </span>
+            </a>
           </div>
-        </div>
-        <div class="custom-shape-divider-bottom-1685027373">
-          <svg
-            data-name="Layer 1"
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 1200 120"
-            preserveAspectRatio="none"
-          >
-            <path
-              d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z"
-              class="shape-fill"
-            ></path>
-          </svg>
+          <div class="hp-ebook-all">
+            <a class="hero-cta" href="/ebooks/">Browse all five free ebooks &rarr;</a>
+          </div>
         </div>
       </section>
 
@@ -2265,38 +2076,15 @@
       <!-- Courtyard: About Section -->
       <section id="about" class="about">
         <div class="container">
-          <h2 class="section-title">The Scribe's Offering</h2>
-          <div class="about-content">
-            <div class="about-text">
-              <p class="intro-text">
-                I, KaliPutra Ashish, am only the flute. The breath belongs to
-                the Lineage.
-              </p>
-
-              <p>
-                This website is offered as seva. The books, articles, and
-                teachings shared here are laid at the feet of Guru Shrestha in
-                obedience to Aadesh.
-              </p>
-
-              <p>
-                These writings are devotional offerings for those who seek truth
-                through the Khyapa Parampara. Much has already been shared, and
-                more will continue to be added in the same spirit.
-              </p>
-
-              <p>
-                Everything here is offered in service to Ma Adya Mahakali and
-                the Khyapa Parampara.
-              </p>
-
-              <p style="margin-top: 2rem; font-style: italic">
-                May whatever you read here bring you a little closer to Ma Adya
-                Mahakali.<br />
-                <strong>Jai Ma Adya</strong>
-              </p>
-            </div>
-          </div>
+          <h2 class="section-title">The Parampara</h2>
+          <p class="about-pointer">
+            A short account of the Khyapa Parampara, Param Guru Bama Khyapa,
+            Gurubaba Shyama Khyapa and Shri Praveen Radhakrishnan &mdash; and
+            where to begin.
+          </p>
+          <p class="about-pointer" style="margin-top:1.2rem;">
+            <a href="/about/">Read about the Parampara &rarr;</a>
+          </p>
         </div>
       </section>
 
@@ -2649,38 +2437,8 @@
     </script>
 
     <!-- Exit: Footer -->
-    <footer class="footer">
-      <div class="container">
-        <div class="footer-content">
-          <p class="footer-blessing">
-            Om Shri Gurubhyo Namaha | Jai Khyapa Parampara
-          </p>
-          <p class="footer-description">
-            May every word read here bring you closer to Ma Adya Mahakali.
-          </p>
-          <p class="footer-meta">
-            &copy; <span data-current-year></span> KaliPutra-Ashish. All
-            knowledge shared here is free to read and share.
-          </p>
-          <p class="footer-meta">
-            <a
-              href="https://github.com/09ashishkapoor/jaikhyapaparampara"
-              target="_blank"
-              rel="noopener"
-              style="color: var(--accent-bright); text-decoration: none"
-              >⭐ Open Source on GitHub</a
-            >
-          </p>
-          <p id="site-version" class="footer-version">
-            <span>Version:</span> <span id="version-value">V1.122</span>
-          </p>
-          <p id="site-last-updated" class="footer-updated">
-            <span>Last Updated:</span>
-            <span id="last-updated-value">October 16, 2026</span>
-          </p>
-        </div>
-      </div>
-    </footer>
+    {% assign showVersion = true %}
+    {% include "site-footer.liquid" %}
 
     <!-- Article Discovery — Search strip, Spotlight, Tag Cloud, Count badge -->
     <script>

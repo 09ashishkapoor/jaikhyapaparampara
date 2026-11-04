@@ -38,6 +38,7 @@ dist/
 build/
 .cache/
 version.json
+/sitemap.xml
 
 # ── Environment variables & secrets ───────────────────────────
 .env
@@ -92,6 +93,7 @@ youtube_ids.csv
 batukbhairavabrahmakavach.md
 
 # ── Internal-only documentation ───────────────────────────────
+NAVIGATION-REVIEW.md
 AGENTS.md
 CONTRIBUTING.md
 ARTICLE_FIXING_PROMPT.md

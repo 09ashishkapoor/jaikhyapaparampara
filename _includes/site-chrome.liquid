@@ -1,0 +1,63 @@
+<style>
+/* Shared site chrome: header, menu, footer. Scoped classes only. */
+.skip-link{position:fixed;top:0;left:0;z-index:2000;transform:translateY(-130%);background:var(--accent-color,#e8c468);color:#1f0b11;padding:.7rem 1.1rem;font-family:'Philosopher',sans-serif;font-weight:700;text-decoration:none;border-radius:0 0 10px 0;transition:transform .2s ease}
+.skip-link:focus{transform:translateY(0)}
+.site-header{position:sticky;top:0;z-index:1100;background:linear-gradient(135deg,rgba(13,5,6,.98),rgba(31,11,17,.98));border-bottom:1px solid var(--border-gold,rgba(232,196,104,.4));box-shadow:0 4px 25px var(--shadow-colored,rgba(74,14,23,.7))}
+.site-shell{width:100%;max-width:1200px;margin:0 auto;padding:0 1rem}
+.site-header-inner{display:flex;align-items:center;gap:.5rem;min-height:64px}
+.site-logo{font-family:'Philosopher',sans-serif;color:var(--accent-color,#e8c468);font-size:1.2rem;font-weight:700;line-height:1.1;text-decoration:none;white-space:nowrap}
+.site-logo:hover,.site-logo:focus-visible{color:var(--accent-bright,#f4e4c1)}
+.site-header-actions{display:flex;align-items:center;gap:.15rem;order:3}
+.site-icon-btn{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;min-width:44px;border:0;background:transparent;color:var(--text-light,#fff8f0);border-radius:10px;cursor:pointer;text-decoration:none;transition:color .2s ease,background .2s ease}
+.site-icon-btn:hover,.site-icon-btn:focus-visible{color:var(--accent-color,#e8c468);background:rgba(232,196,104,.08)}
+.site-icon-btn svg{width:21px;height:21px;fill:currentColor;display:block}
+.site-audio{width:auto;padding:0 .8rem;gap:.45rem;font-family:'Philosopher',sans-serif;font-size:.9rem;color:var(--accent-color,#e8c468);border:1px solid var(--border-gold,rgba(232,196,104,.4));border-radius:999px;height:38px;min-height:38px}
+.site-audio.playing{background:rgba(232,196,104,.14)}
+.site-nav-toggle{display:none;flex-direction:column;justify-content:center;align-items:center;gap:5px;width:44px;height:44px;background:transparent;border:0;cursor:pointer;padding:0}
+.site-nav-toggle span{display:block;width:22px;height:2px;background:var(--accent-color,#e8c468);border-radius:2px;transition:transform .25s ease,opacity .25s ease}
+.site-nav-toggle[aria-expanded="true"] span:nth-child(1){transform:translateY(7px) rotate(45deg)}
+.site-nav-toggle[aria-expanded="true"] span:nth-child(2){opacity:0}
+.site-nav-toggle[aria-expanded="true"] span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
+.site-menu{order:2;margin-left:auto}
+.site-menu-list{display:flex;align-items:center;gap:1.05rem;list-style:none;margin:0;padding:0}
+.site-menu-list a{display:inline-flex;align-items:center;min-height:44px;color:var(--text-light,#fff8f0);font-size:.98rem;font-weight:600;text-decoration:none;white-space:nowrap;border-bottom:2px solid transparent}
+.site-menu-list a:hover,.site-menu-list a:focus-visible{color:var(--accent-color,#e8c468)}
+.site-menu-list a[aria-current="page"]{color:var(--accent-color,#e8c468);border-bottom-color:var(--accent-color,#e8c468)}
+.site-menu-start,.site-menu-more{display:none}
+.site-menu-more span{display:block;font-family:'Philosopher',sans-serif;font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:var(--accent-color,#e8c468);opacity:.75;margin-bottom:.35rem}
+.site-menu-more a{display:inline-flex;align-items:center;min-height:44px;margin-right:1.2rem;color:var(--text-light,#fff8f0);text-decoration:none;font-weight:600}
+.site-menu-more a:hover{color:var(--accent-color,#e8c468)}
+.site-footer{background:linear-gradient(135deg,#0d0506 0%,#1f0b11 50%,#0d0506 100%);border-top:1.5px solid var(--border-gold,rgba(232,196,104,.4));box-shadow:0 -4px 25px var(--shadow-colored,rgba(74,14,23,.7));padding:2.4rem 0 2.8rem;text-align:center;margin-top:4rem}
+.site-footer-inner{max-width:1000px;margin:0 auto;padding:0 1rem;display:flex;flex-direction:column;gap:.45rem;align-items:center}
+.site-footer-blessing{font-size:1.15rem;font-weight:600;color:var(--accent-color,#e8c468);margin:0 0 .25rem}
+.site-footer-desc{font-size:1rem;font-style:italic;color:var(--text-dark,#f0dcc8);margin:0 0 .6rem;max-width:620px}
+.site-footer-links{display:flex;flex-wrap:wrap;justify-content:center;gap:.35rem .9rem;margin:.35rem 0 .6rem;max-width:780px}
+.site-footer-links a{color:var(--text-dark,#f0dcc8);font-size:.9rem;text-decoration:none;border-bottom:1px solid transparent;padding:.2rem 0}
+.site-footer-links a:hover{color:var(--accent-color,#e8c468);border-bottom-color:var(--border-gold,rgba(232,196,104,.4))}
+.site-footer-meta{font-size:.85rem;color:var(--text-dark,#f0dcc8);opacity:.85;margin:0}
+.site-footer-meta a{color:var(--accent-color,#e8c468);text-decoration:none;border-bottom:1px solid var(--border-gold,rgba(232,196,104,.4))}
+.site-footer-version{font-size:.78rem;letter-spacing:.02em;color:var(--text-dark,#f0dcc8);opacity:.62;margin:0}
+@media(max-width:900px){
+ .site-header-inner{min-height:58px;gap:.25rem}
+ .site-logo{font-size:1.02rem;margin-right:auto}
+ .site-nav-toggle{display:flex}
+ .site-audio{width:44px;padding:0;border:0;height:44px;min-height:44px;font-size:0;gap:0}
+ #audio-toggle.site-audio{width:44px;min-width:44px;padding:0;border:0;background:transparent}
+ .site-audio .audio-toggle-label{display:none}
+ .site-audio svg{width:22px;height:22px}
+ .site-menu{display:none;position:absolute;left:0;right:0;top:100%;margin-left:0;background:#15090d;border-bottom:1px solid var(--border-gold,rgba(232,196,104,.4));box-shadow:0 18px 40px rgba(0,0,0,.5);max-height:calc(100dvh - 58px);overflow-y:auto;padding:.35rem 0 .9rem}
+ .site-menu.is-open{display:block}
+ .site-menu-list{display:block;padding:0 1rem}
+ .site-menu-list a{display:flex;width:100%;padding:.85rem .25rem;min-height:48px;border-bottom:1px solid rgba(232,196,104,.12);font-size:1rem}
+ .site-menu-list li:last-child a{border-bottom:0}
+ .site-menu-start{display:block}
+ .site-menu-more{display:block;padding:.7rem 1.25rem 0;margin-top:.35rem;border-top:1px solid rgba(232,196,104,.18)}
+ body.site-nav-open{overflow:hidden}
+}
+@media(min-width:901px){
+ .site-menu-start{display:none}
+}
+@media(max-width:380px){
+ .site-logo{font-size:.92rem}
+}
+</style>

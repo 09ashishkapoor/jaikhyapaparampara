@@ -5,18 +5,21 @@
 ## Key Pages
 
 - [Home](https://jaikhyapaparampara.com/): Main temple of knowledge, sacred resources, and site introduction.
+- [About the Parampara](https://jaikhyapaparampara.com/about/): The lineage, Param Guru Bama Khyapa, Gurubaba Shyama Khyapa, and Shri Praveen Radhakrishnan.
+- [Free Ebooks](https://jaikhyapaparampara.com/ebooks/): Free Adya Mahakali and Kalabhairava sahasranama PDFs in English and Hindi, plus the 108 names.
+- [Topics](https://jaikhyapaparampara.com/topics/): The eight curated topic paths through the archive.
 - [Articles](https://jaikhyapaparampara.com/articles/): Full article archive with topic hubs and A-Z browsing.
-- [Topic Hubs](https://jaikhyapaparampara.com/articles/): Browse articles by major themes including prophecy, rituals, sacred texts, sadhana, pilgrimage, guru stories, practical life, and philosophy.
 - [Core Entities Glossary](https://jaikhyapaparampara.com/glossary/): Canonical definitions for recurring deities, teachers, places, and lineage terms.
-- [Tags](https://jaikhyapaparampara.com/tags/): Substantial spiritual topic archives.
+- [All Keywords](https://jaikhyapaparampara.com/tags/): Keyword index for navigation; tag pages are noindex and not in the sitemap.
 - [Gallery](https://jaikhyapaparampara.com/gallery/): Sacred art gallery for Kali, Bhairava, Kalika, Shmashana Kali, and related devotional forms.
 - [Search](https://jaikhyapaparampara.com/search/): On-site article search for readers.
 
 ## Core Topics
 
 - Khyapa Parampara
-- Guru Shyama Khyapa
-- Bama Khepa
+- Param Guru Bama Khyapa
+- Gurubaba Shyama Khyapa
+- Shri Praveen Radhakrishnan and the Kaliputra Mission
 - Ma Kali and Ma Adya Mahakali
 - Bhairava and Kalabhairava
 - Tantra, mantra, sadhana, and devotional practice

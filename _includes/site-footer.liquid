@@ -1,0 +1,24 @@
+<footer class="site-footer">
+  <div class="site-footer-inner">
+    <p class="site-footer-blessing">Om Shri Gurubhyo Namaha | Jai Khyapa Parampara</p>
+    <p class="site-footer-desc">{{ footerMessage | default: 'May every word read here bring you closer to Ma Adya Mahakali.' }}</p>
+    <nav class="site-footer-links" aria-label="Footer">
+      <a href="/articles/">Articles</a>
+      <a href="/topics/">Topics</a>
+      <a href="/ebooks/">Free Ebooks</a>
+      <a href="/gallery/">Sacred Art</a>
+      <a href="/glossary/">Glossary</a>
+      <a href="/about/">About</a>
+      <a href="/search/">Search</a>
+      <a href="/tags/">All keywords</a>
+      <a href="https://calendar.jaikhyapaparampara.com/" target="_blank" rel="noopener">Calendar &nearr;</a>
+      <a href="https://mantrini.jaikhyapaparampara.com/" target="_blank" rel="noopener">MANTRINI &nearr;</a>
+    </nav>
+    <p class="site-footer-meta">&copy; <span data-current-year></span> KaliPutra-Ashish. All knowledge is forever free to share.</p>
+    <p class="site-footer-meta"><a href="https://github.com/09ashishkapoor/jaikhyapaparampara" target="_blank" rel="noopener">Open source on GitHub</a> &middot; Built with <a href="https://www.11ty.dev/" target="_blank" rel="noopener">11ty</a></p>
+    {%- if showVersion %}
+    <p id="site-version" class="site-footer-version">Version: <span id="version-value">V1.122</span></p>
+    <p id="site-last-updated" class="site-footer-version">Last updated: <span id="last-updated-value">October 16, 2026</span></p>
+    {%- endif %}
+  </div>
+</footer>

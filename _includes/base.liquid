@@ -99,71 +99,32 @@ main a:where(:not([class]):not([style]):focus-visible){outline:2px solid var(--a
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=Philosopher:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=Philosopher:wght@400;700&display=swap" rel="stylesheet"></noscript>
+    {% include "site-chrome.liquid" %}
+    <!-- Analytics is delayed until load so it does not compete with rendering. -->
+    <script>
+      window.addEventListener("load", () => {
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+        gtag("config", "G-KCVSN3F2DL");
+        const script = document.createElement("script");
+        script.async = true;
+        script.src = "https://www.googletagmanager.com/gtag/js?id=G-KCVSN3F2DL";
+        document.head.appendChild(script);
+      });
+    </script>
 </head>
 <body>
-    <header class="header">
-        <nav class="nav container">
-            <div class="logo">
-                <div class="logo-title"><a href="/" style="text-decoration:none;color:inherit;" translate="no">JAI KHYAPA PARAMPARA</a></div>
-            </div>
-            <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
-                <span></span>
-                <span></span>
-                <span></span>
-            </button>
-            <ul class="nav-menu">
-                <li><a href="/#sacred-texts">Temple of Knowledge</a></li>
-                <li><a href="/articles/"{% if page.url contains '/articles/' %} class="active"{% endif %}>Articles</a></li>
-                <li><a href="/gallery/"{% if page.url == '/gallery/' %} class="active"{% endif %}>Sacred Art</a></li>
-                <li><a href="/tags/"{% if page.url contains '/tags/' %} class="active"{% endif %}>Topics</a></li>
-                <li><a href="/glossary/"{% if page.url contains '/glossary/' %} class="active"{% endif %}>Glossary</a></li>
-                <li><a href="/search/"{% if page.url contains '/search/' %} class="active"{% endif %}>Search</a></li>
-                <li><a href="https://calendar.jaikhyapaparampara.com/" target="_blank" rel="noopener">Calendar</a></li>
-                <li><a href="/#about">About</a></li>
-            </ul>
-        </nav>
-    </header>
+    {% include "site-header.liquid" %}
 
-    <main>
+    <main id="main" tabindex="-1">
         {{ content }}
     </main>
 
-    <footer class="footer">
-        <div class="container">
-            <div class="footer-content">
-                <p class="footer-blessing">Om Shri Gurubhyo Namaha | Jai Khyapa Parampara</p>
-                <p class="footer-description">{{ footerMessage | default: 'May every word read here bring you closer to Ma Adya Mahakali.' }}</p>
-                <p class="footer-meta">&copy; <span data-current-year></span> KaliPutra-Ashish. All knowledge is forever free to share.</p>
-                <p class="footer-meta" style="margin-top: 0.5rem; font-size: 0.85rem; opacity: 0.7;">
-                    Built with <a href="https://www.11ty.dev/" target="_blank" rel="noopener" style="color: var(--accent-color); text-decoration: none; border-bottom: 1px solid var(--border-gold);">11ty</a>
-                </p>
-            </div>
-        </div>
-    </footer>
+    {% include "site-footer.liquid" %}
     <script>
-    (function(){
-        var toggle = document.querySelector('.nav-toggle');
-        var menu = document.querySelector('.nav-menu');
-        if (!toggle || !menu) return;
-        toggle.addEventListener('click', function(){
-            var isOpen = menu.classList.toggle('open');
-            toggle.setAttribute('aria-expanded', String(isOpen));
-        });
-        menu.querySelectorAll('a').forEach(function(link){
-            link.addEventListener('click', function(){
-                menu.classList.remove('open');
-                toggle.setAttribute('aria-expanded', 'false');
-            });
-        });
-        document.addEventListener('click', function(e){
-            var header = toggle.closest('header');
-            if (header && !header.contains(e.target)) {
-                menu.classList.remove('open');
-                toggle.setAttribute('aria-expanded', 'false');
-            }
-        });
-    })();
-
     (function(){
         var year = new Date().getFullYear();
         document.querySelectorAll('[data-current-year]').forEach(function(node){
