@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
 const fs = require('fs');
-const { execFileSync } = require('child_process');
 
 const FILE_PATH = process.argv[2] || '_site/index.html';
 
@@ -16,26 +15,14 @@ function formatDateFooter(date) {
   return `${month} ${day}, ${year}`;
 }
 
-function getVersionForCommit() {
-  const versionCommit = execFileSync('git', [
-    'log', '-G', 'meta name="build-version" content="[0-9.]+"',
-    '-1', '--format=%H', '--', 'index.html',
-  ], { encoding: 'utf8' }).trim();
-  if (!versionCommit) throw new Error('Could not find the commit that set the build version');
-
-  const baselineHtml = execFileSync('git', ['show', `${versionCommit}:index.html`], { encoding: 'utf8' });
-  const baselineVersion = baselineHtml.match(/meta name="build-version" content="([0-9.]+)"/);
-  if (!baselineVersion) throw new Error('Could not read the committed build version');
-  const commitsSinceVersion = Number.parseInt(execFileSync('git', [
-    'rev-list', '--count', `${versionCommit}..HEAD`,
-  ], { encoding: 'utf8' }).trim(), 10);
-  const parts = baselineVersion[1].split('.');
-  const lastPart = Number.parseInt(parts[parts.length - 1], 10);
-  if (Number.isNaN(lastPart) || Number.isNaN(commitsSinceVersion)) {
-    throw new Error('Build version or commit count is not numeric');
-  }
-  parts[parts.length - 1] = String(lastPart + commitsSinceVersion);
-  return parts.join('.');
+function getBuildVersion(date) {
+  const pad = (value) => String(value).padStart(2, '0');
+  const year = String(date.getUTCFullYear()).slice(-2);
+  const month = pad(date.getUTCMonth() + 1);
+  const day = pad(date.getUTCDate());
+  const hours = pad(date.getUTCHours());
+  const minutes = pad(date.getUTCMinutes());
+  return `1.${year}${month}${day}.${hours}${minutes}`;
 }
 
 function updateBuildInfo() {
@@ -53,8 +40,9 @@ function updateBuildInfo() {
       return false;
     }
 
+    const nowUtc = new Date();
     const currentVersion = versionMatch[1];
-    const newVersion = getVersionForCommit();
+    const newVersion = getBuildVersion(nowUtc);
 
     content = content.replace(
       /meta name="build-version" content="[^"]*"/,
@@ -67,7 +55,6 @@ function updateBuildInfo() {
 
     console.log(`Version: ${currentVersion} -> ${newVersion}`);
 
-    const nowUtc = new Date();
     const utcTimestamp = formatDateUtc(nowUtc);
     const footerDate = formatDateFooter(nowUtc);
 
