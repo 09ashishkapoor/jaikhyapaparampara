@@ -6,6 +6,7 @@
   {%- unless currentUrl contains '/topics' -%}{%- assign navArticles = true -%}{%- endunless -%}
 {%- endif -%}
 {%- assign navEbooks = false -%}{%- if currentUrl contains '/ebooks' -%}{%- assign navEbooks = true -%}{%- endif -%}
+{%- assign navRadio = false -%}{%- if currentUrl contains '/radio' -%}{%- assign navRadio = true -%}{%- endif -%}
 {%- assign navGallery = false -%}{%- if currentUrl contains '/gallery' -%}{%- assign navGallery = true -%}{%- endif -%}
 {%- assign navGlossary = false -%}{%- if currentUrl contains '/glossary' -%}{%- assign navGlossary = true -%}{%- endif -%}
 {%- assign navAbout = false -%}{%- if currentUrl contains '/about' -%}{%- assign navAbout = true -%}{%- endif -%}
@@ -33,6 +34,7 @@
         <li><a href="/articles/"{% if navArticles %} aria-current="page"{% endif %}>Articles</a></li>
         <li><a href="/topics/"{% if navTopics %} aria-current="page"{% endif %}>Topics</a></li>
         <li><a href="/ebooks/"{% if navEbooks %} aria-current="page"{% endif %}>Free Ebooks</a></li>
+        <li><a href="/radio/"{% if navRadio %} aria-current="page"{% endif %}>Radio</a></li>
         <li><a href="/gallery/"{% if navGallery %} aria-current="page"{% endif %}>Sacred Art</a></li>
         <li><a href="/glossary/"{% if navGlossary %} aria-current="page"{% endif %}>Glossary</a></li>
         <li><a href="/about/"{% if navAbout %} aria-current="page"{% endif %}>About</a></li>

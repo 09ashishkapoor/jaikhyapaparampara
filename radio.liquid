@@ -1,0 +1,539 @@
+---
+layout: base
+title: "Guru Vani Radio — Live Talks"
+description: "Listen to Guru Vani Radio: a continuous stream of Shri Praveen Radhakrishnan's recorded talks, in the order they were given."
+metaDescription: "Stream Guru Vani Radio free — the recorded talks of Shri Praveen Radhakrishnan, playing continuously from oldest to newest. No app, no sign-up."
+permalink: /radio/index.html
+robotsMeta: "index, follow"
+ogImage: "/images/guru-vani-radio.jpg"
+ogImageAlt: "Shri Praveen Radhakrishnan before the shrine of Ma Kali"
+---
+<style>
+.radio-page{padding-top:2.5rem;padding-bottom:1rem}
+.radio-hero{max-width:820px;margin:0 auto 2rem;text-align:center}
+.radio-eyebrow{display:inline-flex;align-items:center;gap:.45rem;padding:.4rem 1rem;border:1px solid var(--border-gold);border-radius:999px;background:rgba(232,196,104,.08);color:var(--accent-color);font-family:'Philosopher',sans-serif;font-size:.8rem;letter-spacing:.06em;text-transform:uppercase}
+.radio-hero h1{font-family:'Philosopher',sans-serif;color:var(--accent-bright);font-size:clamp(2.2rem,5vw,3.4rem);line-height:1.1;margin:1rem 0 .7rem}
+.radio-lead{color:var(--text-dark);opacity:.92;font-size:1.1rem;line-height:1.7;max-width:670px;margin:0 auto}
+.radio-status{display:inline-flex;align-items:center;gap:.5rem;margin-top:1.1rem;padding:.4rem .95rem;border-radius:999px;border:1px solid rgba(232,196,104,.3);background:rgba(232,196,104,.06);font-size:.9rem;letter-spacing:.02em;color:var(--text-dark)}
+.radio-status-dot{width:9px;height:9px;border-radius:50%;background:#9aa0a6;flex-shrink:0}
+.radio-status[data-state="live"] .radio-status-dot{background:#7ed957;animation:radio-pulse 2.2s infinite}
+.radio-status[data-state="offline"] .radio-status-dot{background:#e05c5c}
+.radio-status[data-state="error"] .radio-status-dot{background:var(--accent-color)}
+@keyframes radio-pulse{0%{box-shadow:0 0 0 0 rgba(126,217,87,.45)}70%{box-shadow:0 0 0 10px rgba(126,217,87,0)}100%{box-shadow:0 0 0 0 rgba(126,217,87,0)}}
+@media(prefers-reduced-motion:reduce){.radio-status[data-state="live"] .radio-status-dot{animation:none}}
+.radio-player{display:grid;grid-template-columns:230px minmax(0,1fr);gap:1.3rem;align-items:center;max-width:820px;margin:0 auto;padding:1.3rem;border:1px solid var(--border-gold);border-radius:20px;background:linear-gradient(145deg,rgba(45,15,24,.55),rgba(13,5,6,.96));box-shadow:0 12px 34px rgba(0,0,0,.45)}
+.radio-art{margin:0;border-radius:14px;overflow:hidden;border:1px solid rgba(232,196,104,.25);background:#0d0506}
+.radio-art picture{display:block}
+.radio-art img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;object-position:center 30%}
+.radio-body{min-width:0;display:flex;flex-direction:column;gap:.5rem}
+.radio-kicker{font-family:'Philosopher',sans-serif;font-size:.76rem;letter-spacing:.14em;text-transform:uppercase;color:var(--accent-color);opacity:.85;margin:0}
+.radio-title{font-family:'Philosopher',sans-serif;font-size:clamp(1.15rem,2.4vw,1.55rem);line-height:1.3;color:var(--accent-bright);margin:0;overflow-wrap:anywhere}
+.radio-meta{display:flex;flex-wrap:wrap;gap:.35rem .9rem;font-size:.92rem;color:var(--text-dark);opacity:.85;margin:0}
+.radio-next{font-size:.9rem;color:var(--text-dark);opacity:.72;margin:0;min-height:1.3em}
+.radio-progress{position:relative;height:6px;border-radius:999px;background:rgba(255,255,255,.09);overflow:hidden;margin-top:.4rem}
+.radio-progress-fill{display:block;height:100%;width:0;border-radius:999px;background:var(--gold-gradient);transition:width .9s linear}
+.radio-times{display:flex;justify-content:space-between;font-size:.8rem;color:var(--text-dark);opacity:.7;font-variant-numeric:tabular-nums}
+.radio-controls{display:flex;align-items:center;gap:.75rem;flex-wrap:wrap;margin-top:.45rem}
+.radio-toggle{display:inline-flex;align-items:center;justify-content:center;width:56px;height:56px;min-width:56px;border-radius:50%;border:0;cursor:pointer;background:var(--gold-gradient);color:#2a1010;box-shadow:0 6px 18px rgba(232,196,104,.25);transition:transform .18s ease,filter .18s ease}
+.radio-toggle:hover{transform:translateY(-2px)}
+.radio-toggle:focus-visible{outline:2px solid var(--accent-bright);outline-offset:3px}
+.radio-toggle[disabled]{opacity:.5;cursor:not-allowed;transform:none}
+.radio-toggle svg{width:24px;height:24px;fill:currentColor}
+.radio-toggle svg.radio-icon-pause{display:none}
+.radio-toggle.is-playing svg.radio-icon-play{display:none}
+.radio-toggle.is-playing svg.radio-icon-pause{display:block}
+.radio-btn{display:inline-flex;align-items:center;justify-content:center;gap:.4rem;min-height:44px;padding:.55rem 1.05rem;border-radius:999px;border:1px solid var(--border-gold);background:transparent;color:var(--accent-color);font-family:'Philosopher',sans-serif;font-size:.95rem;font-weight:700;text-decoration:none;cursor:pointer;transition:background .2s ease,color .2s ease,border-color .2s ease}
+.radio-btn:hover{background:rgba(232,196,104,.1);color:var(--accent-bright);border-color:var(--accent-color)}
+.radio-btn:focus-visible{outline:2px solid var(--accent-bright);outline-offset:2px}
+.radio-actions{display:flex;flex-wrap:wrap;gap:.6rem;justify-content:center;margin:1.6rem 0 0}
+.radio-note{text-align:center;font-size:.9rem;color:var(--text-dark);opacity:.7;margin:.9rem 0 0}
+.radio-section{max-width:820px;margin:2.4rem auto 0;border-top:1px solid rgba(232,196,104,.18);padding-top:1.7rem}
+.radio-section h2{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:clamp(1.5rem,3vw,2rem);line-height:1.25;margin:0 0 .9rem}
+.radio-section p{color:var(--text-dark);font-size:1.05rem;line-height:1.8;margin:0 0 1rem;max-width:760px}
+.radio-recent-list{list-style:none;margin:0;padding:0;max-width:760px}
+.radio-recent-item{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:1rem;align-items:baseline;padding:.75rem 0;border-bottom:1px dashed rgba(232,196,104,.16)}
+.radio-recent-item:last-child{border-bottom:0}
+.radio-recent-title{color:var(--text-dark);line-height:1.5;overflow-wrap:anywhere}
+.radio-recent-date{color:var(--accent-color);font-size:.86rem;white-space:nowrap;opacity:.85}
+.radio-recent-empty{color:var(--text-dark);opacity:.65;padding:.5rem 0}
+.radio-listen{list-style:none;margin:0;padding:0;display:grid;gap:.65rem;max-width:760px}
+.radio-listen li{padding:.85rem 1rem;border:1px solid rgba(232,196,104,.22);border-radius:12px;background:rgba(255,255,255,.02);color:var(--text-dark);line-height:1.6}
+.radio-listen strong{color:var(--accent-bright);font-family:'Philosopher',sans-serif}
+.radio-listen code{display:block;margin-top:.4rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.86rem;color:var(--accent-color);overflow-wrap:anywhere;word-break:normal}
+.radio-noscript{padding:1rem;border:1px solid var(--border-gold);border-radius:12px;background:rgba(232,196,104,.06);color:var(--text-dark);margin-top:1rem}
+@media(max-width:720px){
+ .radio-page{padding-top:1.6rem;padding-bottom:1rem}
+ .radio-player{grid-template-columns:1fr;gap:1rem;text-align:center}
+ .radio-art{max-width:100%;margin:0 auto}
+ .radio-body{align-items:center}
+ .radio-meta,.radio-controls{justify-content:center}
+ .radio-progress,.radio-times{width:100%}
+ .radio-recent-item{grid-template-columns:1fr;gap:.2rem}
+ .radio-recent-date{order:-1}
+}
+</style>
+
+<div class="container radio-page">
+  <header class="radio-hero">
+    <span class="radio-eyebrow">Live stream</span>
+    <h1>Guru Vani Radio</h1>
+    <p class="radio-lead">
+      The recorded talks of Shri Praveen Radhakrishnan, streaming continuously
+      in the order they were given &mdash; the oldest first. No app, no sign-up,
+      no payment. Press play and let the teaching unfold.
+    </p>
+    <span class="radio-status" id="radio-status" data-state="loading">
+      <span class="radio-status-dot" aria-hidden="true"></span>
+      <span id="radio-status-text">Connecting to the stream&hellip;</span>
+    </span>
+  </header>
+
+  <section class="radio-player" aria-labelledby="radio-now-heading">
+    <figure class="radio-art">
+      <picture>
+        <source srcset="/images/guru-vani-radio.webp" type="image/webp" />
+        <img src="/images/guru-vani-radio.jpg" alt="Shri Praveen Radhakrishnan before the shrine of Ma Kali" width="640" height="360" />
+      </picture>
+    </figure>
+
+    <div class="radio-body">
+      <p class="radio-kicker" id="radio-now-heading">Now playing</p>
+      <p class="radio-title" id="radio-title" aria-live="polite">Loading the current talk&hellip;</p>
+      <p class="radio-meta">
+        <span id="radio-recorded"></span>
+        <span>64 kbps MP3</span>
+      </p>
+      <p class="radio-next" id="radio-next"></p>
+
+      <div class="radio-progress" id="radio-progress" role="progressbar" aria-label="Progress through the current talk" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+        <span class="radio-progress-fill" id="radio-progress-fill"></span>
+      </div>
+      <div class="radio-times">
+        <span id="radio-elapsed">--:--</span>
+        <span id="radio-remaining">--:--</span>
+      </div>
+
+      <div class="radio-controls">
+        <button class="radio-toggle" id="radio-toggle" type="button" aria-label="Play Guru Vani Radio">
+          <svg class="radio-icon-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+          <svg class="radio-icon-pause" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 5h4v14H6zm8 0h4v14h-4z"/></svg>
+        </button>
+        <a class="radio-btn" id="radio-full-player" href="https://radio.jaikhyapaparampara.com/public/guru_vani_radio" target="_blank" rel="noopener">Full player &nearr;</a>
+        <button class="radio-btn" id="radio-copy" type="button">Copy link</button>
+      </div>
+    </div>
+  </section>
+
+  <audio id="radio-audio" preload="none" src="https://radio.jaikhyapaparampara.com/listen/guru_vani_radio/radio.mp3"></audio>
+
+  <noscript>
+    <p class="radio-noscript">
+      This player needs JavaScript. You can still listen by opening the stream
+      directly: <a href="https://radio.jaikhyapaparampara.com/public/guru_vani_radio">Guru Vani Radio on AzuraCast</a>.
+    </p>
+  </noscript>
+
+  <div class="radio-actions">
+    <a class="radio-btn" href="https://radio.jaikhyapaparampara.com/public/guru_vani_radio/playlist.m3u" rel="noopener">M3U playlist</a>
+    <a class="radio-btn" href="https://radio.jaikhyapaparampara.com/public/guru_vani_radio/playlist.pls" rel="noopener">PLS playlist</a>
+    <a class="radio-btn" href="/articles/">Read the articles</a>
+  </div>
+  <p class="radio-note">Streams 24 hours from the Garbhagriha.</p>
+
+  <section class="radio-section" aria-labelledby="radio-recent-heading">
+    <h2 id="radio-recent-heading">Just played</h2>
+    <ul class="radio-recent-list" id="radio-recent-list">
+      <li class="radio-recent-empty">Loading the recent set&hellip;</li>
+    </ul>
+  </section>
+
+  <section class="radio-section" aria-labelledby="radio-about-heading">
+    <h2 id="radio-about-heading">About the station</h2>
+    <p>
+      Guru Vani Radio is a single continuous stream drawn from the Khyapa
+      Parampara archive &mdash; at present the recorded talks of Shri Praveen
+      Radhakrishnan. The playlist is ordered chronologically, so a listener who
+      leaves the station running hears the teaching as it was actually given,
+      one talk following the next, oldest to newest.
+    </p>
+    <p>
+      Nothing is gated. There is no account, no subscription, and no advertising
+      &mdash; the same principle that keeps every article and ebook on this site
+      free. If a talk moves you, the written archive is where it is recorded in
+      full.
+    </p>
+  </section>
+
+  <section class="radio-section" aria-labelledby="radio-availability-heading">
+    <h2 id="radio-availability-heading">Availability</h2>
+    <p>
+      Guru Vani Radio is offered free of charge and is a best-effort
+      arrangement, not a guarantee: if the station falls silent, it is normally
+      brought back within a couple of hours.
+    </p>
+    <p>
+      If it stays quiet for longer than that, or anything else seems wrong,
+      write to <a href="mailto:kaliputraashish@gmail.com">kaliputraashish@gmail.com</a>
+      and it will be looked at.
+    </p>
+  </section>
+
+  <section class="radio-section" aria-labelledby="radio-listen-heading">
+    <h2 id="radio-listen-heading">Other ways to listen</h2>
+    <ul class="radio-listen">
+      <li><strong>In any media player.</strong> Open the <a href="https://radio.jaikhyapaparampara.com/public/guru_vani_radio/playlist.m3u">M3U playlist</a> in VLC, foobar2000, or iTunes, or add this stream URL directly: <code>https://radio.jaikhyapaparampara.com/<wbr>listen/<wbr>guru_vani_radio/<wbr>radio.mp3</code></li>
+      <li><strong>On your phone.</strong> Paste the same stream URL into any radio app that accepts a custom station, and it will show the current talk just as this page does.</li>
+      <li><strong>In the browser, full view.</strong> The <a href="https://radio.jaikhyapaparampara.com/public/guru_vani_radio" rel="noopener">AzuraCast player</a> offers request history, a schedule, and a dark or light theme.</li>
+    </ul>
+  </section>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "RadioStation",
+    "name": "Guru Vani Radio",
+    "url": "https://jaikhyapaparampara.com/radio/",
+    "description": "A continuous stream of recorded talks from the Khyapa Parampara, in chronological order.",
+    "inLanguage": "en",
+    "logo": "https://jaikhyapaparampara.com/icon-512x512.png",
+    "image": "https://jaikhyapaparampara.com/images/guru-vani-radio.jpg",
+    "parentOrganization": {
+      "@type": "Organization",
+      "name": "Jai Khyapa Parampara",
+      "url": "https://jaikhyapaparampara.com/"
+    }
+  }
+  </script>
+</div>
+
+{% raw %}
+<script>
+(function () {
+  'use strict';
+
+  var API_URL = 'https://radio.jaikhyapaparampara.com/api/nowplaying/guru_vani_radio';
+  var STREAM_URL = 'https://radio.jaikhyapaparampara.com/listen/guru_vani_radio/radio.mp3';
+  var SHARE_URL = 'https://jaikhyapaparampara.com/radio/';
+  var POLL_MS = 15000;
+
+  var audio = document.getElementById('radio-audio');
+  var toggle = document.getElementById('radio-toggle');
+  if (!audio || !toggle) return;
+
+  var el = {
+    status: document.getElementById('radio-status'),
+    statusText: document.getElementById('radio-status-text'),
+    title: document.getElementById('radio-title'),
+    recorded: document.getElementById('radio-recorded'),
+    next: document.getElementById('radio-next'),
+    progress: document.getElementById('radio-progress'),
+    fill: document.getElementById('radio-progress-fill'),
+    elapsed: document.getElementById('radio-elapsed'),
+    remaining: document.getElementById('radio-remaining'),
+    recent: document.getElementById('radio-recent-list'),
+    copy: document.getElementById('radio-copy'),
+    full: document.getElementById('radio-full-player')
+  };
+
+  var state = {
+    playing: false,
+    loading: false,
+    online: null,
+    anchor: null,
+    lastSongId: null
+  };
+
+  function esc(value) {
+    return String(value == null ? '' : value)
+      .replace(/\s*\[[^\]]*\]\s*$/, '')
+      .replace(/[\uFF1F]/g, '?')
+      .replace(/[\uFF01]/g, '!')
+      .replace(/[\uFF0C]/g, ',')
+      .replace(/[\u3002]/g, '.')
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
+
+  function songTitle(song) {
+    if (!song) return 'Guru Vani Radio';
+    return esc(song.title || song.text || '') || 'Guru Vani Radio';
+  }
+
+  function songDate(song) {
+    if (!song || !song.artist) return '';
+    var match = /^(\d{4})(\d{2})(\d{2})$/.exec(String(song.artist).trim());
+    if (!match) return '';
+    var date = new Date(Number(match[1]), Number(match[2]) - 1, Number(match[3]));
+    if (isNaN(date.getTime())) return '';
+    return date.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+  }
+
+  function clock(seconds) {
+    if (!isFinite(seconds) || seconds < 0) return '--:--';
+    var total = Math.floor(seconds);
+    var minutes = Math.floor(total / 60);
+    var secs = total % 60;
+    return minutes + ':' + (secs < 10 ? '0' + secs : String(secs));
+  }
+
+  function setStatus(kind, text) {
+    if (el.status) el.status.setAttribute('data-state', kind);
+    if (el.statusText) el.statusText.textContent = text;
+  }
+
+  function setPlaying(isPlaying) {
+    state.playing = isPlaying;
+    toggle.classList.toggle('is-playing', isPlaying);
+    toggle.setAttribute('aria-label', isPlaying ? 'Pause Guru Vani Radio' : 'Play Guru Vani Radio');
+    toggle.setAttribute('aria-pressed', isPlaying ? 'true' : 'false');
+  }
+
+  function setLoading(isLoading) {
+    state.loading = isLoading;
+    toggle.disabled = isLoading;
+  }
+
+  function renderProgress() {
+    var anchor = state.anchor;
+    if (!anchor || !anchor.duration) {
+      if (el.fill) el.fill.style.width = '0%';
+      if (el.progress) el.progress.setAttribute('aria-valuenow', '0');
+      if (el.elapsed) el.elapsed.textContent = '--:--';
+      if (el.remaining) el.remaining.textContent = '--:--';
+      return;
+    }
+
+    var elapsed = anchor.elapsed + (Date.now() - anchor.at) / 1000;
+    if (elapsed > anchor.duration) elapsed = anchor.duration;
+    if (elapsed < 0) elapsed = 0;
+
+    var percent = (elapsed / anchor.duration) * 100;
+    if (el.fill) el.fill.style.width = percent.toFixed(2) + '%';
+    if (el.progress) el.progress.setAttribute('aria-valuenow', String(Math.round(percent)));
+    if (el.elapsed) el.elapsed.textContent = clock(elapsed);
+    if (el.remaining) el.remaining.textContent = '-' + clock(anchor.duration - elapsed);
+  }
+
+  function renderTrack(data) {
+    var now = data.now_playing;
+    if (!now || !now.song) return;
+
+    if (el.title) el.title.textContent = songTitle(now.song);
+
+    var recorded = songDate(now.song);
+    if (el.recorded) el.recorded.textContent = recorded ? 'Recorded ' + recorded : '';
+
+    if (now.duration) {
+      state.anchor = {
+        elapsed: Number(now.elapsed) || 0,
+        duration: Number(now.duration) || 0,
+        at: Date.now()
+      };
+    } else {
+      state.anchor = null;
+    }
+    renderProgress();
+
+    var nextSong = data.playing_next && data.playing_next.song;
+    if (el.next) {
+      el.next.textContent = nextSong ? 'Up next: ' + songTitle(nextSong) : '';
+    }
+
+    if (state.lastSongId !== now.song.id) {
+      state.lastSongId = now.song.id;
+      updateMediaSession(now.song, recorded);
+    }
+  }
+
+  function renderRecent(history) {
+    if (!el.recent) return;
+    var items = Array.isArray(history) ? history.slice(0, 6) : [];
+
+    while (el.recent.firstChild) el.recent.removeChild(el.recent.firstChild);
+
+    if (!items.length) {
+      var empty = document.createElement('li');
+      empty.className = 'radio-recent-empty';
+      empty.textContent = 'Nothing has played yet.';
+      el.recent.appendChild(empty);
+      return;
+    }
+
+    items.forEach(function (item) {
+      var song = item && item.song;
+      var title = songTitle(song);
+      if (!title) return;
+
+      var li = document.createElement('li');
+      li.className = 'radio-recent-item';
+
+      var titleSpan = document.createElement('span');
+      titleSpan.className = 'radio-recent-title';
+      titleSpan.textContent = title;
+
+      var dateSpan = document.createElement('span');
+      dateSpan.className = 'radio-recent-date';
+      dateSpan.textContent = songDate(song);
+
+      li.appendChild(titleSpan);
+      li.appendChild(dateSpan);
+      el.recent.appendChild(li);
+    });
+  }
+
+  function updateMediaSession(song, recorded) {
+    if (!('mediaSession' in navigator) || typeof window.MediaMetadata !== 'function') return;
+    try {
+      navigator.mediaSession.metadata = new window.MediaMetadata({
+        title: songTitle(song),
+        artist: 'Guru Vani Radio',
+        album: recorded ? recorded : 'Jai Khyapa Parampara',
+        artwork: [
+          { src: '/icon-512x512.png', sizes: '512x512', type: 'image/png' }
+        ]
+      });
+    } catch (error) {
+      /* Media Session is a progressive enhancement. */
+    }
+  }
+
+  function pauseAmbience() {
+    var ambient = document.getElementById('temple-audio');
+    if (ambient && !ambient.paused) ambient.pause();
+  }
+
+  function play() {
+    pauseAmbience();
+    setLoading(true);
+    setStatus('live', 'Tuning in\u2026');
+
+    if (!audio.currentSrc && !audio.getAttribute('src')) {
+      audio.setAttribute('src', STREAM_URL);
+    }
+
+    var attempt = audio.play();
+    if (attempt && typeof attempt.then === 'function') {
+      attempt.then(function () {
+        setLoading(false);
+      }).catch(function () {
+        setLoading(false);
+        setPlaying(false);
+        setStatus('error', 'Could not start the stream. Press play to retry.');
+      });
+    }
+  }
+
+  function pause() {
+    audio.pause();
+    setStatus('live', 'Paused');
+  }
+
+  toggle.addEventListener('click', function () {
+    if (audio.paused) play();
+    else pause();
+  });
+
+  audio.addEventListener('playing', function () {
+    setLoading(false);
+    setPlaying(true);
+    setStatus('live', 'Live now');
+  });
+
+  audio.addEventListener('waiting', function () {
+    if (!audio.paused) setStatus('live', 'Reconnecting\u2026');
+  });
+
+  audio.addEventListener('pause', function () {
+    setPlaying(false);
+    if (state.online) setStatus('live', 'Paused');
+  });
+
+  audio.addEventListener('error', function () {
+    setLoading(false);
+    setPlaying(false);
+    setStatus('offline', 'The stream is unreachable right now.');
+  });
+
+  audio.addEventListener('stalled', function () {
+    if (!audio.paused) setStatus('live', 'Reconnecting\u2026');
+  });
+
+  if ('mediaSession' in navigator) {
+    try {
+      navigator.mediaSession.setActionHandler('play', play);
+      navigator.mediaSession.setActionHandler('pause', pause);
+    } catch (error) {
+      /* Unsupported action handlers are fine. */
+    }
+  }
+
+  if (el.copy) {
+    el.copy.addEventListener('click', function () {
+      var label = el.copy.textContent;
+      function done(ok) {
+        el.copy.textContent = ok ? 'Link copied' : 'Copy failed';
+        window.setTimeout(function () {
+          el.copy.textContent = label;
+        }, 2000);
+      }
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(SHARE_URL).then(function () {
+          done(true);
+        }).catch(function () {
+          done(false);
+        });
+      } else {
+        done(false);
+      }
+    });
+  }
+
+  var pollTimer = null;
+
+  function poll() {
+    fetch(API_URL, { headers: { Accept: 'application/json' } })
+      .then(function (response) {
+        if (!response.ok) throw new Error('HTTP ' + response.status);
+        return response.json();
+      })
+      .then(function (data) {
+        state.online = data.is_online !== false;
+        renderTrack(data);
+        renderRecent(data.song_history);
+
+        if (!state.playing) {
+          setStatus(state.online ? 'live' : 'offline', state.online ? 'Live now' : 'Station offline');
+        }
+      })
+      .catch(function () {
+        state.online = false;
+        if (!state.playing) {
+          setStatus('error', 'Cannot reach the station right now.');
+        }
+      });
+  }
+
+  function startPolling() {
+    poll();
+    if (pollTimer) window.clearInterval(pollTimer);
+    pollTimer = window.setInterval(poll, POLL_MS);
+  }
+
+  document.addEventListener('visibilitychange', function () {
+    if (document.hidden) {
+      if (pollTimer) {
+        window.clearInterval(pollTimer);
+        pollTimer = null;
+      }
+    } else if (!pollTimer) {
+      startPolling();
+    }
+  });
+
+  window.setInterval(renderProgress, 1000);
+
+  setPlaying(false);
+  startPolling();
+})();
+</script>
+{% endraw %}
