@@ -1,0 +1,384 @@
+---
+layout: base
+title: "Embedding Guru Vani Radio — Developer Notes"
+description: "Stream address, embedding options for websites, Android, iOS and Alexa, and autoplay rules for Guru Vani Radio."
+metaDescription: "Technical notes for embedding the Guru Vani Radio stream: endpoints, format, Android and iOS players, autoplay policy and Alexa options."
+permalink: /radio/developers/index.html
+robotsMeta: "index, follow"
+ogImage: "/images/guru-vani-radio.jpg"
+ogImageAlt: "Shri Praveen Radhakrishnan before the shrine of Ma Kali"
+---
+<style>
+.dev-page{padding-top:2.5rem;padding-bottom:1rem}
+.dev-hero{max-width:820px;margin:0 auto 2rem}
+.dev-eyebrow{display:inline-flex;align-items:center;gap:.45rem;padding:.4rem 1rem;border:1px solid var(--border-gold);border-radius:999px;background:rgba(232,196,104,.08);color:var(--accent-color);font-family:'Philosopher',sans-serif;font-size:.8rem;letter-spacing:.06em;text-transform:uppercase}
+.dev-hero h1{font-family:'Philosopher',sans-serif;color:var(--accent-bright);font-size:clamp(2rem,4.4vw,3rem);line-height:1.12;margin:1rem 0 .7rem}
+.dev-lead{color:var(--text-dark);opacity:.92;font-size:1.08rem;line-height:1.75;max-width:720px}
+.dev-back{display:inline-block;margin-top:1.1rem;font-size:.95rem;color:var(--link-color);text-decoration:underline;text-decoration-color:var(--link-underline-color);text-underline-offset:.18em}
+.dev-back:hover,.dev-back:focus-visible{color:var(--link-hover-color)}
+.dev-section{max-width:820px;margin:2.4rem auto 0;border-top:1px solid rgba(232,196,104,.18);padding-top:1.7rem}
+.dev-section h2{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:clamp(1.45rem,3vw,1.95rem);line-height:1.25;margin:0 0 .9rem;scroll-margin-top:6rem}
+.dev-section h3{font-family:'Philosopher',sans-serif;color:var(--accent-bright);font-size:1.15rem;line-height:1.35;margin:1.6rem 0 .55rem}
+.dev-section h3:first-of-type{margin-top:.2rem}
+.dev-section p,.dev-section li{color:var(--text-dark);font-size:1.02rem;line-height:1.78}
+.dev-section p{margin:0 0 .9rem;max-width:780px}
+.dev-section ul,.dev-section ol{margin:.2rem 0 1rem 1.25rem;padding:0}
+.dev-section li{margin:.35rem 0}
+.dev-code{display:block;margin:1rem 0 1.2rem;padding:1rem 1.1rem;border:1px solid rgba(232,196,104,.2);border-radius:12px;background:#0b0405;overflow-x:auto;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.85rem;line-height:1.6;color:#f0dcc8;white-space:pre}
+.dev-code code{font:inherit;color:inherit;background:none;padding:0}
+.dev-section code{overflow-wrap:anywhere}
+.dev-table{width:100%;border-collapse:collapse;margin:.4rem 0 1.4rem;font-size:.97rem}
+.dev-table th,.dev-table td{text-align:left;vertical-align:top;padding:.7rem .8rem;border-bottom:1px solid rgba(232,196,104,.16);line-height:1.6}
+.dev-table th{color:var(--accent-color);font-family:'Philosopher',sans-serif;font-weight:700;white-space:nowrap}
+.dev-table td{color:var(--text-dark)}
+.dev-table code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.84rem;color:var(--accent-color);overflow-wrap:anywhere}
+.dev-note{margin:1.1rem 0;padding:.9rem 1.1rem;border:1px solid rgba(232,196,104,.28);border-radius:12px;background:rgba(232,196,104,.06);color:var(--text-dark);font-size:.98rem;line-height:1.7}
+.dev-note strong{color:var(--accent-bright)}
+.dev-toc{list-style:none;margin:1.3rem 0 0;padding:0;display:flex;flex-wrap:wrap;gap:.5rem}
+.dev-toc a{display:inline-flex;align-items:center;min-height:40px;padding:.4rem .9rem;border:1px solid rgba(232,196,104,.25);border-radius:999px;font-size:.9rem;text-decoration:none}
+.dev-toc a:hover{border-color:var(--accent-color);color:var(--accent-bright)}
+.dev-footer-note{max-width:820px;margin:2rem auto 0;font-size:.94rem;line-height:1.7;color:var(--text-dark);opacity:.85}
+@media(max-width:720px){
+ .dev-table{display:block;overflow-x:auto}
+ .dev-table th,.dev-table td{white-space:normal}
+ .dev-table-spec,.dev-table-spec tbody,.dev-table-spec tr,.dev-table-spec th,.dev-table-spec td{display:block;width:auto}
+ .dev-table-spec tr{padding:.6rem 0;border-bottom:1px solid rgba(232,196,104,.16)}
+ .dev-table-spec th,.dev-table-spec td{border:0;padding:0}
+ .dev-table-spec th{white-space:normal}
+}
+</style>
+
+<div class="container dev-page">
+  <header class="dev-hero">
+    <span class="dev-eyebrow">For builders</span>
+    <h1>Embedding Guru Vani Radio</h1>
+    <p class="dev-lead">
+      The stream is a plain, public MP3 feed over HTTPS. There is no API key, no
+      account and no geoblocking, so a website, a native app or an Alexa skill
+      can play it directly. These notes collect the endpoints, the format and
+      the platform rules in one place.
+    </p>
+    <a class="dev-back" href="/radio/">&larr; Back to the listener page</a>
+    <nav class="dev-toc" aria-label="On this page">
+      <a href="#dev-stream-heading">The stream</a>
+      <a href="#dev-web-heading">Web embed</a>
+      <a href="#dev-android-heading">Android</a>
+      <a href="#dev-ios-heading">iOS</a>
+      <a href="#dev-autoplay-heading">Autoplay</a>
+      <a href="#dev-cross-heading">One codebase</a>
+      <a href="#alexa">Alexa</a>
+      <a href="#dev-practical-heading">Practical notes</a>
+    </nav>
+  </header>
+
+  <section class="dev-section" aria-labelledby="dev-stream-heading">
+    <h2 id="dev-stream-heading">The stream at a glance</h2>
+    <table class="dev-table dev-table-spec">
+      <tbody>
+        <tr><th scope="row">Live stream</th><td><code>https://radio.jaikhyapaparampara.com/listen/guru_vani_radio/radio.mp3</code></td></tr>
+        <tr><th scope="row">Format</th><td>MP3, 64 kbps CBR, 44.1 kHz, stereo, continuous</td></tr>
+        <tr><th scope="row">Transport</th><td>Icecast 2 served by AzuraCast; <code>audio/mpeg</code>; HTTP 206 responses; <code>Accept-Ranges: bytes</code></td></tr>
+        <tr><th scope="row">TLS</th><td>Let's Encrypt certificate, auto-renewed; HTTPS only; HSTS enabled</td></tr>
+        <tr><th scope="row">Access</th><td>Public and unauthenticated; no ads; no listener cap</td></tr>
+        <tr><th scope="row">CORS</th><td>Stream reflects the request <code>Origin</code>; <code>Access-Control-Allow-Credentials: true</code>; ICY headers exposed</td></tr>
+        <tr><th scope="row">ICY metadata</th><td>Yes. Send <code>Icy-MetaData: 1</code> and the response adds <code>icy-metaint: 16000</code>; the current talk title follows every 16,000 bytes</td></tr>
+        <tr><th scope="row">Playlists</th><td><code>/public/guru_vani_radio/playlist.m3u</code> and <code>/public/guru_vani_radio/playlist.pls</code></td></tr>
+        <tr><th scope="row">Public player</th><td><code>/public/guru_vani_radio</code> &mdash; a full AzuraCast player page; it sets no <code>X-Frame-Options</code>, so it can be iframed</td></tr>
+        <tr><th scope="row">Now playing JSON</th><td><code>/api/nowplaying/guru_vani_radio</code> &mdash; public, <code>Access-Control-Allow-Origin: *</code>, cached 15 s</td></tr>
+        <tr><th scope="row">Not available</th><td>HLS and AAC mounts (both 404); on-demand downloads; requests list</td></tr>
+        <tr><th scope="row">Content</th><td>150 recorded talks, ordered oldest to newest and looped; talk dates are in the <code>artist</code> field as <code>YYYYMMDD</code></td></tr>
+      </tbody>
+    </table>
+    <p>
+      The station shortcode used across the AzuraCast URLs is
+      <code>guru_vani_radio</code>. Everything above is served from
+      <code>radio.jaikhyapaparampara.com</code>, a separate host from the website.
+    </p>
+  </section>
+
+  <section class="dev-section" aria-labelledby="dev-web-heading">
+    <h2 id="dev-web-heading">Embed it in a web page</h2>
+    <p>
+      The smallest possible embed is a plain audio element. The site's own
+      player does more (current talk, progress, history) by polling the
+      now-playing endpoint every 15 seconds.
+    </p>
+    <pre class="dev-code"><code>&lt;audio controls preload="none"
+  src="https://radio.jaikhyapaparampara.com/listen/guru_vani_radio/radio.mp3"&gt;
+&lt;/audio&gt;</code></pre>
+    <p>
+      If you want the ready-made AzuraCast interface instead, the public player
+      can be framed &mdash; it sends no <code>X-Frame-Options</code> and no
+      <code>frame-ancestors</code> policy:
+    </p>
+    <pre class="dev-code"><code>&lt;iframe
+  src="https://radio.jaikhyapaparampara.com/public/guru_vani_radio"
+  title="Guru Vani Radio"
+  width="100%" height="520" style="border:0"
+  loading="lazy"&gt;&lt;/iframe&gt;</code></pre>
+    <p>
+      Two rules apply in every browser. Playback must start from a user gesture
+      (a tap or click), and if you call <code>play()</code> from JavaScript the
+      returned promise can reject with <code>NotAllowedError</code> &mdash; handle
+      it and ask for a tap. The site's own player does exactly that.
+    </p>
+  </section>
+
+  <section class="dev-section" aria-labelledby="dev-android-heading">
+    <h2 id="dev-android-heading">Android apps</h2>
+    <p>
+      The recommended path is <strong>Jetpack Media3 (ExoPlayer)</strong> with a
+      <code>MediaSessionService</code> for background playback. Progressive MP3
+      plays directly from the URL, and Media3 handles Icecast metadata itself:
+      it asks for <code>Icy-MetaData: 1</code>, strips the interleaved metadata,
+      and merges the current talk title into <code>player.mediaMetadata</code>.
+    </p>
+    <pre class="dev-code"><code>// Gradle: media3-exoplayer and media3-session
+// Manifest: INTERNET, FOREGROUND_SERVICE, FOREGROUND_SERVICE_MEDIA_PLAYBACK
+private const val STREAM = "https://radio.jaikhyapaparampara.com/listen/guru_vani_radio/radio.mp3"
+
+class PlaybackService : MediaSessionService() {
+    private var session: MediaSession? = null
+
+    override fun onCreate() {
+        super.onCreate()
+        val player = ExoPlayer.Builder(this)
+            .setAudioAttributes(
+                AudioAttributes.Builder()
+                    .setUsage(C.USAGE_MEDIA)
+                    .setContentType(C.AUDIO_CONTENT_TYPE_MUSIC)
+                    .build(),
+                true,
+            )
+            .setHandleAudioBecomingNoisy(true)   // pause when headphones unplug
+            .setWakeMode(C.WAKE_MODE_NETWORK)     // keep streaming with screen off
+            .build()
+            .apply {
+                setMediaItem(MediaItem.fromUri(STREAM))
+                prepare()
+                playWhenReady = true
+            }
+        session = MediaSession.Builder(this, player).build()
+    }
+
+    override fun onGetSession(controllerInfo: MediaSession.ControllerInfo) = session
+
+    override fun onDestroy() {
+        session?.run { player.release(); release() }
+        session = null
+        super.onDestroy()
+    }
+}</code></pre>
+    <p>
+      Declare the service with <code>android:foregroundServiceType="mediaPlayback"</code>
+      and an intent filter for <code>androidx.media3.session.MediaSessionService</code>,
+      then connect from your activity with a <code>MediaController</code>. Media
+      notifications from a media session are exempt from the Android 13+
+      notification permission.
+    </p>
+    <h3>Options at a glance</h3>
+    <table class="dev-table">
+      <thead><tr><th scope="col">Approach</th><th scope="col">Effort</th><th scope="col">Notes</th></tr></thead>
+      <tbody>
+        <tr><td>Media3 ExoPlayer + MediaSessionService</td><td>1&ndash;3 days</td><td>Recommended: notification, lock screen, audio focus, ICY metadata</td></tr>
+        <tr><td>WebView with the public player</td><td>Hours</td><td>Playback dies with the app; no lock-screen controls</td></tr>
+        <tr><td><code>Intent.ACTION_VIEW</code> to VLC or the browser</td><td>Minutes</td><td>Simplest of all; leaves your app and loses your branding</td></tr>
+        <tr><td>Platform <code>MediaPlayer</code></td><td>~1 day</td><td>Plays the stream, but no ICY metadata or MediaSession integration</td></tr>
+      </tbody>
+    </table>
+    <p>
+      A live stream never ends, so do not rely on the player finishing an item.
+      Recover from changes and outages (Wi-Fi to cellular, long background
+      pauses) by re-preparing the media item with a capped backoff &mdash; 1, 2, 5,
+      10 seconds &mdash; and resetting it on success. Add
+      <code>com.google.android.gms.car.application</code> metadata and a
+      <code>MediaLibraryService</code> browse tree if you want Android Auto.
+    </p>
+  </section>
+
+  <section class="dev-section" aria-labelledby="dev-ios-heading">
+    <h2 id="dev-ios-heading">iPhone and iPad apps</h2>
+    <p>
+      <strong>AVPlayer</strong> with an audio session is the standard approach.
+      Continuous MP3 over HTTPS works in practice, but Apple does not document a
+      live Icecast stream as a supported input, so treat it as
+      <em>empirical</em>: test on the current iOS release and always ship
+      reconnect logic. AVPlayer also does not expose ICY metadata, so poll the
+      now-playing JSON for the current talk.
+    </p>
+    <pre class="dev-code"><code>// Info.plist: UIBackgroundModes = ["audio"]
+import AVFoundation
+import MediaPlayer
+
+final class RadioPlayer {
+    private let player = AVPlayer()
+    private let stream = URL(
+        string: "https://radio.jaikhyapaparampara.com/listen/guru_vani_radio/radio.mp3"
+    )!
+
+    func start() throws {
+        let session = AVAudioSession.sharedInstance()
+        try session.setCategory(.playback, mode: .default)
+        try session.setActive(true)                 // keeps playing when locked
+
+        let item = AVPlayerItem(url: stream)
+        item.automaticallyWaitsToMinimizeStalling = false   // start live audio now
+        player.replaceCurrentItem(with: item)
+        player.play()
+
+        MPNowPlayingInfoCenter.default().nowPlayingInfo = [
+            MPMediaItemPropertyTitle: "Guru Vani Radio",
+            MPMediaItemPropertyArtist: "Jai Khyapa Parampara",
+            MPNowPlayingInfoPropertyIsLiveStream: true
+        ]
+    }
+}</code></pre>
+    <p>
+      Add <code>MPRemoteCommandCenter</code> handlers for play and pause so the
+      lock screen and headphones work, and handle
+      <code>AVAudioSession.interruptionNotification</code> plus route changes
+      (unplugged headphones should pause, not blast the speaker). Observe
+      <code>AVPlayerItem.status == .failed</code>,
+      <code>playbackStalledNotification</code> and
+      <code>AVPlayerItemFailedToPlayToEndTime</code> for reconnection.
+    </p>
+    <h3>Options at a glance</h3>
+    <table class="dev-table">
+      <thead><tr><th scope="col">Approach</th><th scope="col">Effort</th><th scope="col">Notes</th></tr></thead>
+      <tbody>
+        <tr><td>AVPlayer + AVAudioSession + Now Playing</td><td>1&ndash;3 days</td><td>Recommended: background audio, lock screen, small binary</td></tr>
+        <tr><td>MobileVLCKit</td><td>2&ndash;4 days</td><td>Tolerates ICY and flaky networks; large binary and LGPL dynamic-linking duties</td></tr>
+        <tr><td>WKWebView with the public player</td><td>Hours</td><td>Background audio and lock screen unreliable</td></tr>
+        <tr><td><code>UIApplication.shared.open</code> to Safari</td><td>Minutes</td><td>Simplest; exits your app</td></tr>
+      </tbody>
+    </table>
+    <p>
+      CarPlay needs Apple's <code>com.apple.developer.carplay-audio</code>
+      entitlement, which is requested from Apple and can take weeks. A pure
+      stream wrapper also risks App Store rejection under
+      <a href="https://developer.apple.com/app-store/review/guidelines/" rel="noopener">guideline 4.2</a>
+      (minimum functionality) unless it adds real value: now playing, history,
+      favourites, sharing, offline notes.
+    </p>
+  </section>
+
+  <section class="dev-section" aria-labelledby="dev-autoplay-heading">
+    <h2 id="dev-autoplay-heading">Autoplay, background audio and the silent switch</h2>
+    <p>
+      Audible autoplay is blocked by policy. On iOS it cannot be enabled at all;
+      on Android Chrome it is allowed only after the visitor has interacted with
+      the site or installed it. No header, flag or script changes that, so the
+      correct design is a prominent tap-to-play button with honest failure
+      handling &mdash; exactly what the listener page does.
+    </p>
+    <h3>iPhone and iPad</h3>
+    <ul>
+      <li><strong>There is no autoplay setting.</strong> iOS has no Auto-Play preference &mdash; not in Settings &gt; Apps &gt; Safari, and not in the per-site <em>aA</em> menu. The familiar &ldquo;Allow All Auto-Play&rdquo; / &ldquo;Stop Media with Sound&rdquo; / &ldquo;Never Auto-Play&rdquo; choice exists only in Safari on macOS. Do not send iPhone users looking for it.</li>
+      <li><strong>Call <code>play()</code> synchronously</strong> inside a <code>click</code>, <code>touchend</code> or <code>keydown</code> handler. Fetching anything first and calling <code>play()</code> afterwards can lose the gesture and reject with <code>NotAllowedError</code>.</li>
+      <li><strong>Keep one persistent <code>&lt;audio&gt;</code> element.</strong> The first tap unlocks that element for the session, so reconnects and <code>src</code> changes work later; a new element or a fresh page load needs a new tap. Adding the page to the Home Screen does not remove the first tap.</li>
+      <li><strong>The muted-autoplay trick does not work.</strong> WebKit's exception covers muted <code>&lt;video&gt;</code> only; <code>&lt;audio muted autoplay&gt;</code> still needs a gesture, and unmuting without one pauses playback &mdash; which is pointless for a live radio stream anyway.</li>
+      <li><strong>Media Session.</strong> After the first tap, iOS Safari 15+ supports the Media Session API: lock-screen artwork, title and play/pause. Use it; skip <code>setPositionState</code> for a live stream.</li>
+      <li><strong>Background audio.</strong> A plain <code>&lt;audio&gt;</code> in a Safari tab keeps playing when the screen locks or the user switches apps; closing the tab stops it. A Home Screen web app behaves similarly, but test it on each iOS release, and remember that timers may be throttled while the screen is locked &mdash; do not rely on JavaScript to reconnect in the background.</li>
+      <li><strong>Silent switch.</strong> An HTML5 <code>&lt;audio&gt;</code> element plays on the media channel and is <em>audible even when the Ring/Silent switch is on</em>. Only Web Audio is treated as ambient and muted by that switch &mdash; if you add Web Audio, set <code>navigator.audioSession.type = 'playback'</code> (Safari 16.4+).</li>
+      <li><strong>Low Power Mode.</strong> WebKit tightens media behaviour while it is on; a tap still works, but nothing should be expected to start on its own.</li>
+      <li><strong>In-app browsers.</strong> Instagram, Facebook, WhatsApp, TikTok and Gmail open links in their own WebView. They also require a tap, and some interfere with streaming or audio routing. Detect the common user agents and show an &ldquo;Open in Safari&rdquo; hint.</li>
+      <li><strong>Failure handling.</strong> <code>play()</code> returns a promise. Treat <code>NotAllowedError</code> as &ldquo;ask for another tap&rdquo;, <code>AbortError</code> as harmless, and anything else as a network or format problem worth retrying.</li>
+    </ul>
+    <h3>Android</h3>
+    <ul>
+      <li>Chrome always allows <em>muted</em> autoplay, and may allow audible autoplay once the visitor has interacted with the site or installed it to the home screen. Chrome's Media Engagement Index is a desktop feature, not Android.</li>
+      <li>Silent or vibrate mode does not mute media &mdash; media volume is separate &mdash; but Chrome's per-site sound setting can still block audio.</li>
+      <li>Use the same tap-first design; it is the only behaviour you can rely on across browsers and WebViews.</li>
+    </ul>
+    <h3>The pattern that works</h3>
+    <pre class="dev-code"><code>const audio = document.querySelector('#radio-audio');
+document.querySelector('#radio-toggle').addEventListener('click', () =&gt; {
+  audio.play().catch((error) =&gt; {
+    if (error.name === 'NotAllowedError') {
+      // Gesture lost or blocked: keep the button visible and ask for a tap.
+    } else if (error.name !== 'AbortError') {
+      // Network or format problem: show a retry state.
+    }
+  });
+});</code></pre>
+    <p>
+      Keep the same element and re-call <code>play()</code> after reconnection or
+      when the page becomes visible again; only fall back to a button prompt if
+      the promise rejects.
+    </p>
+  </section>
+
+  <section class="dev-section" aria-labelledby="dev-cross-heading">
+    <h2 id="dev-cross-heading">One codebase: React Native, Flutter, WebView</h2>
+    <p>
+      These all wrap the native players described above, so they inherit the
+      same rules &mdash; a foreground service on Android, the audio background
+      mode on iOS, and a user gesture on both.
+    </p>
+    <ul>
+      <li><strong>React Native Track Player.</strong> Add the stream as a track with <code>type: TrackType.Default</code>. Playback uses ExoPlayer or AVPlayer underneath and you get a notification, lock-screen controls and background playback.</li>
+      <li><strong>Flutter <code>just_audio</code>.</strong> Plays the URL directly. Pair it with <code>just_audio_background</code> (or <code>audio_service</code>) for the notification and background service.</li>
+      <li><strong>Capacitor, Cordova or a plain WebView.</strong> The quickest route, but background audio is unreliable on iOS and playback stops when the app is killed. Fine for an internal or demo app, not for the store.</li>
+    </ul>
+  </section>
+
+  <section class="dev-section" aria-labelledby="dev-practical-heading">
+    <h2 id="dev-practical-heading">Practical notes</h2>
+    <ul>
+      <li><strong>Metadata.</strong> The station's current talk is in <code>/api/nowplaying/guru_vani_radio</code>: <code>now_playing.song.title</code> holds the title, <code>now_playing.song.artist</code> the recording date as <code>YYYYMMDD</code>, and <code>now_playing.duration</code> / <code>elapsed</code> power a progress bar. Poll it every 15&ndash;30 seconds; it is cached for 15 seconds.</li>
+      <li><strong>Raw ICY clients.</strong> Send <code>Icy-MetaData: 1</code> and the response adds <code>icy-metaint: 16000</code>. Read the stream as 16,000-byte audio blocks, each followed by one length byte and the metadata block containing <code>StreamTitle</code>. That is how VLC, foobar2000 and ExoPlayer show the current talk.</li>
+      <li><strong>Data and battery.</strong> 64 kbps works out to roughly 28.8 MB an hour, or about 230 MB over eight hours. Offer a Wi-Fi-only switch.</li>
+      <li><strong>Reconnects.</strong> Treat it as live: never seek, and when the connection drops re-open the URL with a capped backoff rather than waiting for a natural end.</li>
+      <li><strong>CORS.</strong> The stream reflects any request <code>Origin</code> and exposes the ICY response headers. A plain <code>&lt;audio src&gt;</code> needs no CORS attributes at all; do not add <code>crossorigin</code> unless you genuinely need Web Audio analysis.</li>
+      <li><strong>HLS is not available today</strong> &mdash; the endpoints return 404. Enabling it in AzuraCast would give first-class HLS on both platforms, at the cost of 6&ndash;30 seconds of extra latency. Progressive MP3 is the low-latency option.</li>
+      <li><strong>Attribution.</strong> Link back to <a href="/radio/">the listener page</a>, keep the talks free to hear, and write to us before publishing an app or skill.</li>
+      <li><strong>Test checklist.</strong> Lock-screen controls, headphones unplugged, Wi-Fi to cellular, eight hours in the background, iPhone silent switch, and a cold start after the app was killed.</li>
+    </ul>
+  </section>
+
+  <section class="dev-section" aria-labelledby="alexa">
+    <h2 id="alexa">Amazon Echo / Alexa</h2>
+    <p>
+      Alexa plays audio only from sources it understands: a directory it has
+      integrated, or an Alexa skill. A bare stream URL cannot be spoken to a
+      device. The realistic options, in order of effort:
+    </p>
+    <table class="dev-table">
+      <thead>
+        <tr><th scope="col">Option</th><th scope="col">Voice?</th><th scope="col">Effort / cost</th><th scope="col">Notes</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Bluetooth from a phone</td><td>No</td><td>None, $0</td><td>Works on current Echo models today; the phone stays the player. Steps are on the <a href="/radio/">listener page</a>.</td></tr>
+        <tr><td>myTuner Radio directory</td><td>Partial</td><td>Free submission, ~30 min plus review</td><td>myTuner accepts station registrations and its Alexa skill plays catalogue stations by name (&ldquo;Alexa, ask myTuner Radio to play &hellip;&rdquo;). Listing is not guaranteed.</td></tr>
+        <tr><td>TuneIn directory</td><td>Best</td><td>Free self-service outside the US; US listings go through TuneIn On Air (paid)</td><td>If listed, &ldquo;Alexa, play Guru Vani Radio&rdquo; works with no listener setup. TuneIn has historically frozen new additions, so acceptance is uncertain.</td></tr>
+        <tr><td>Custom Alexa skill</td><td>Yes</td><td>2&ndash;5 developer days, $0 with an Alexa-hosted skill</td><td>The only path fully under the station's control: &ldquo;Alexa, open Guru Vani Radio&rdquo;. Public release requires Amazon certification.</td></tr>
+        <tr><td>Radio Browser (third party)</td><td>Clunky</td><td>&euro;2/month, ~15 min</td><td>A consumer skill that accepts arbitrary URLs, including this one, after a one-time web setup. Not a station-side solution.</td></tr>
+      </tbody>
+    </table>
+    <h3 id="alexa-skill">What a custom skill would need</h3>
+    <ul>
+      <li>An HTTPS endpoint on port 443 with a trusted certificate &mdash; the stream's Let's Encrypt certificate already satisfies this.</li>
+      <li>MP3 between 16 and 384 kbps &mdash; 64 kbps is comfortably inside the range.</li>
+      <li>The AudioPlayer interface, plus <code>AMAZON.PauseIntent</code> and <code>AMAZON.ResumeIntent</code>; a live stream never finishes, so <code>PlaybackNearlyFinished</code> is not used.</li>
+      <li><code>shouldEndSession: true</code> on the playback response, or Alexa stops the stream to listen for more speech.</li>
+      <li>An Amazon developer account. An <strong>Alexa-hosted skill</strong> needs no AWS account and does not charge for hosting.</li>
+      <li>Beta testing works on devices registered to the developer account; everyone else needs the skill published and certified.</li>
+    </ul>
+    <div class="dev-note">
+      <strong>A common misconception.</strong> TuneIn's listener-side
+      &ldquo;Custom URL&rdquo; feature does <em>not</em> make a station playable
+      by voice on Alexa. It works inside the TuneIn apps (and for Sonos), but
+      Alexa cannot reach those entries. The station must be in the public
+      directory, or served by a skill.
+    </div>
+  </section>
+
+  <!-- DEV-PRACTICAL -->
+
+  <p class="dev-footer-note">
+    Questions, corrections or a project you are planning? Write to
+    <a href="mailto:kaliputraashish@gmail.com">kaliputraashish@gmail.com</a>.
+    Please link back to <a href="/radio/">the listener page</a> if you embed the
+    stream, and do not put the stream behind a paywall.
+  </p>
+</div>

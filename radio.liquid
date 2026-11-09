@@ -48,7 +48,7 @@ ogImageAlt: "Shri Praveen Radhakrishnan before the shrine of Ma Kali"
 .radio-actions{display:flex;flex-wrap:wrap;gap:.6rem;justify-content:center;margin:1.6rem 0 0}
 .radio-note{text-align:center;font-size:.9rem;color:var(--text-dark);opacity:.7;margin:.9rem 0 0}
 .radio-section{max-width:820px;margin:2.4rem auto 0;border-top:1px solid rgba(232,196,104,.18);padding-top:1.7rem}
-.radio-section h2{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:clamp(1.5rem,3vw,2rem);line-height:1.25;margin:0 0 .9rem}
+.radio-section h2{scroll-margin-top:6rem;font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:clamp(1.5rem,3vw,2rem);line-height:1.25;margin:0 0 .9rem}
 .radio-section p{color:var(--text-dark);font-size:1.05rem;line-height:1.8;margin:0 0 1rem;max-width:760px}
 .radio-recent-list{list-style:none;margin:0;padding:0;max-width:760px}
 .radio-recent-item{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:1rem;align-items:baseline;padding:.75rem 0;border-bottom:1px dashed rgba(232,196,104,.16)}
@@ -56,10 +56,28 @@ ogImageAlt: "Shri Praveen Radhakrishnan before the shrine of Ma Kali"
 .radio-recent-title{color:var(--text-dark);line-height:1.5;overflow-wrap:anywhere}
 .radio-recent-date{color:var(--accent-color);font-size:.86rem;white-space:nowrap;opacity:.85}
 .radio-recent-empty{color:var(--text-dark);opacity:.65;padding:.5rem 0}
-.radio-listen{list-style:none;margin:0;padding:0;display:grid;gap:.65rem;max-width:760px}
-.radio-listen li{padding:.85rem 1rem;border:1px solid rgba(232,196,104,.22);border-radius:12px;background:rgba(255,255,255,.02);color:var(--text-dark);line-height:1.6}
-.radio-listen strong{color:var(--accent-bright);font-family:'Philosopher',sans-serif}
-.radio-listen code{display:block;margin-top:.4rem;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.86rem;color:var(--accent-color);overflow-wrap:anywhere;word-break:normal}
+.listen-intro{color:var(--text-dark);font-size:1.05rem;line-height:1.8;margin:0 0 1.2rem;max-width:760px}
+.listen-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem;max-width:860px;align-items:start}
+.listen-card{padding:1.1rem 1.2rem;border:1px solid rgba(232,196,104,.22);border-radius:14px;background:linear-gradient(160deg,rgba(45,15,24,.4),rgba(13,5,6,.62))}
+.listen-card h3{font-family:'Philosopher',sans-serif;color:var(--accent-bright);font-size:1.12rem;line-height:1.3;margin:0 0 .55rem}
+.listen-card p{color:var(--text-dark);font-size:.98rem;line-height:1.68;margin:0 0 .55rem}
+.listen-card p:last-child{margin-bottom:0}
+.listen-card ul,.listen-card ol{margin:.15rem 0 .55rem 1.1rem;padding:0;color:var(--text-dark);font-size:.98rem;line-height:1.65}
+.listen-card li{margin:.3rem 0}
+.listen-card strong{color:var(--accent-bright)}
+.listen-card code{display:block;margin:.55rem 0;padding:.6rem .75rem;border:1px solid rgba(232,196,104,.18);border-radius:8px;background:rgba(0,0,0,.35);font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.82rem;line-height:1.5;color:var(--accent-color);overflow-wrap:anywhere}
+.listen-help{max-width:860px;margin:1.2rem 0 0;border:1px solid rgba(232,196,104,.25);border-radius:12px;background:rgba(255,255,255,.02);padding:0 1.1rem}
+.listen-help summary{display:flex;align-items:center;gap:.55rem;min-height:48px;padding:.55rem 0;cursor:pointer;font-family:'Philosopher',sans-serif;font-size:1.04rem;color:var(--accent-color);list-style:none}
+.listen-help summary::-webkit-details-marker{display:none}
+.listen-help summary::before{content:"+";display:inline-block;width:1.2rem;font-size:1.2rem;line-height:1;color:var(--accent-color);transition:transform .2s ease}
+.listen-help[open] summary::before{transform:rotate(45deg)}
+.listen-help ol{margin:.1rem 0 1rem 1.2rem;padding:0;color:var(--text-dark);font-size:1rem;line-height:1.7}
+.listen-help li{margin:.35rem 0}
+.listen-help a{color:var(--link-color)}
+.listen-dev{max-width:860px;margin:1.1rem 0 0;font-size:.95rem;line-height:1.65;color:var(--text-dark);opacity:.8}
+.listen-dev a{color:var(--link-color)}
+.listen-contact{max-width:860px;margin:1.2rem 0 0;padding:.8rem 1.05rem;border:1px solid rgba(232,196,104,.28);border-radius:12px;background:rgba(232,196,104,.05);font-size:1rem;line-height:1.7;color:var(--text-dark)}
+.listen-contact a{color:var(--link-color)}
 .radio-noscript{padding:1rem;border:1px solid var(--border-gold);border-radius:12px;background:rgba(232,196,104,.06);color:var(--text-dark);margin-top:1rem}
 @media(max-width:720px){
  .radio-page{padding-top:1.6rem;padding-bottom:1rem}
@@ -70,6 +88,8 @@ ogImageAlt: "Shri Praveen Radhakrishnan before the shrine of Ma Kali"
  .radio-progress,.radio-times{width:100%}
  .radio-recent-item{grid-template-columns:1fr;gap:.2rem}
  .radio-recent-date{order:-1}
+ .listen-grid{grid-template-columns:1fr}
+ .listen-help{padding:0 .9rem}
 }
 </style>
 
@@ -139,6 +159,7 @@ ogImageAlt: "Shri Praveen Radhakrishnan before the shrine of Ma Kali"
     <a class="radio-btn" href="/articles/">Read the articles</a>
   </div>
   <p class="radio-note">Streams 24 hours from the Garbhagriha.</p>
+  <p class="radio-note"><a href="#radio-listen-heading">How to listen on phones, computers and smart speakers &darr;</a></p>
 
   <section class="radio-section" aria-labelledby="radio-recent-heading">
     <h2 id="radio-recent-heading">Just played</h2>
@@ -179,12 +200,120 @@ ogImageAlt: "Shri Praveen Radhakrishnan before the shrine of Ma Kali"
   </section>
 
   <section class="radio-section" aria-labelledby="radio-listen-heading">
-    <h2 id="radio-listen-heading">Other ways to listen</h2>
-    <ul class="radio-listen">
-      <li><strong>In any media player.</strong> Open the <a href="https://radio.jaikhyapaparampara.com/public/guru_vani_radio/playlist.m3u">M3U playlist</a> in VLC, foobar2000, or iTunes, or add this stream URL directly: <code>https://radio.jaikhyapaparampara.com/<wbr>listen/<wbr>guru_vani_radio/<wbr>radio.mp3</code></li>
-      <li><strong>On your phone.</strong> Paste the same stream URL into any radio app that accepts a custom station, and it will show the current talk just as this page does.</li>
-      <li><strong>In the browser, full view.</strong> The <a href="https://radio.jaikhyapaparampara.com/public/guru_vani_radio" rel="noopener">AzuraCast player</a> offers request history, a schedule, and a dark or light theme.</li>
-    </ul>
+    <h2 id="radio-listen-heading">How to listen</h2>
+    <p class="listen-intro">
+      Guru Vani Radio is free, needs no account, and sounds the same on every
+      device. Use whatever you already have &mdash; nothing needs to be
+      installed, and the stream never stops between talks.
+    </p>
+
+    <div class="listen-grid">
+      <article class="listen-card">
+        <h3>Right here</h3>
+        <p>
+          Tap the round play button above. This page works in any modern
+          browser, on a computer or a phone, and shows the current talk as it
+          plays. Nothing is downloaded and nothing is stored on your device.
+        </p>
+      </article>
+
+      <article class="listen-card">
+        <h3>On a phone or tablet</h3>
+        <ul>
+          <li><strong>iPhone or iPad:</strong> open this page in Safari and tap play. If a friend sent the link inside Instagram, Facebook or WhatsApp, choose <em>Open in Safari</em> from that app&rsquo;s menu first.</li>
+          <li><strong>Android:</strong> open this page in Chrome and tap play.</li>
+          <li><strong>Keep it at hand:</strong> add the page to your home screen. In Safari tap <em>Share</em>, then <em>Add to Home Screen</em>; in Chrome tap the menu, then <em>Add to Home screen</em>. It then opens with one tap, like an app.</li>
+          <li><strong>While listening:</strong> you can lock the screen or switch apps and the sound continues; closing the tab stops it.</li>
+        </ul>
+      </article>
+
+      <article class="listen-card">
+        <h3>In a radio app</h3>
+        <p>
+          Any player that accepts a custom station can play the stream. Paste
+          this address into VLC, MyTuner Radio, or a similar app:
+        </p>
+        <code>https://radio.jaikhyapaparampara.com/<wbr>listen/<wbr>guru_vani_radio/<wbr>radio.mp3</code>
+        <p>
+          On a computer you can also open the
+          <a href="https://radio.jaikhyapaparampara.com/public/guru_vani_radio/playlist.m3u">M3U playlist</a>
+          in VLC, foobar2000 or Apple Music.
+        </p>
+      </article>
+
+      <article class="listen-card">
+        <h3>On an Amazon Echo</h3>
+        <p>
+          <strong>Easiest today &mdash; Bluetooth.</strong> Pair your phone with
+          the Echo once, then play this page and the sound comes out of the
+          Echo.
+        </p>
+        <ol>
+          <li>Start the stream on your phone.</li>
+          <li>Say <em>&ldquo;Alexa, pair&rdquo;</em> &mdash; or open the Alexa app, choose your Echo, then <em>Bluetooth Connections</em> and <em>Pair a New Device</em> &mdash; and select the Echo on your phone.</li>
+          <li>Next time, say <em>&ldquo;Alexa, connect to my phone.&rdquo;</em></li>
+        </ol>
+        <p>
+          <strong>By voice, not yet.</strong> Alexa cannot open a bare stream
+          address on its own. &ldquo;Alexa, play Guru Vani Radio&rdquo; needs the
+          station listed in a directory such as TuneIn or myTuner Radio, or a
+          custom Alexa skill. The station is not listed yet; the
+          <a href="/radio/developers/#alexa">developer notes</a> describe those
+          options.
+        </p>
+        <p>
+          <strong>Echo Show:</strong> say <em>&ldquo;Alexa, open Silk&rdquo;</em>
+          and open the full player &mdash; though playback stops when the screen
+          sleeps.
+        </p>
+      </article>
+
+      <article class="listen-card">
+        <h3>On a computer</h3>
+        <p>
+          Keep this page open in a browser tab, or add the stream to the player
+          you already use &mdash; VLC, foobar2000, iTunes or Apple Music all
+          accept the address above. The
+          <a href="https://radio.jaikhyapaparampara.com/public/guru_vani_radio" rel="noopener">full player</a>
+          adds request history and a light or dark theme.
+        </p>
+      </article>
+
+      <article class="listen-card">
+        <h3>In the car</h3>
+        <p>
+          Play from your phone over Bluetooth, or use Android Auto or CarPlay
+          with a radio app that accepts a custom station. The stream is only 64
+          kbps, so an hour of listening uses roughly 30&nbsp;MB of mobile data
+          &mdash; keep that in mind away from Wi-Fi.
+        </p>
+      </article>
+    </div>
+
+    <p class="listen-contact">
+      Still stuck, or a question about the station? Write to
+      <a href="mailto:kaliputraashish@gmail.com">kaliputraashish@gmail.com</a>
+      &mdash; it reaches a real person.
+    </p>
+
+    <details class="listen-help">
+      <summary>No sound? Try this</summary>
+      <ol>
+        <li>Tap the play button once more. iPhone, iPad and most Android browsers require a tap before sound may start &mdash; this is a browser rule, not a fault in the station. On iPhone there is no setting that makes it automatic.</li>
+        <li>Give it 5&ndash;10 seconds. The stream needs a moment to buffer, especially on mobile data.</li>
+        <li>Turn the media volume up with the side buttons, and open Control Center to check the sound is not going to Bluetooth headphones or AirPods.</li>
+        <li>If the link opened inside another app (Instagram, Facebook, WhatsApp, Gmail), choose <em>Open in Safari</em> or <em>Open in Chrome</em>, then tap play.</li>
+        <li>Close other tabs or apps that are playing audio. A phone call or another player pauses the radio &mdash; tap play again afterwards.</li>
+        <li>Once it is playing you can lock the screen and keep listening; closing the tab stops the stream.</li>
+        <li>Still silent? The station may be briefly off the air. Try again in a few minutes, or <a href="mailto:kaliputraashish@gmail.com">write to us</a>.</li>
+      </ol>
+    </details>
+
+    <p class="listen-dev">
+      Building an app, a website or an Alexa skill? The
+      <a href="/radio/developers/">developer notes</a> cover the stream address,
+      embedding options and autoplay rules.
+    </p>
   </section>
 
   <script type="application/ld+json">
@@ -402,6 +531,21 @@ ogImageAlt: "Shri Praveen Radhakrishnan before the shrine of Ma Kali"
     if (ambient && !ambient.paused) ambient.pause();
   }
 
+  var isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) ||
+    (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+
+  function playFailureMessage(error) {
+    if (error && error.name === 'NotAllowedError') {
+      return 'Tap play once more to allow sound.';
+    }
+    if (error && error.name === 'NotSupportedError') {
+      return 'This browser cannot play the stream. Try Safari, Chrome, or VLC.';
+    }
+    return isIOS
+      ? 'Could not start the stream. Turn the volume up, then tap play again.'
+      : 'Could not start the stream. Press play to retry.';
+  }
+
   function play() {
     pauseAmbience();
     setLoading(true);
@@ -415,10 +559,10 @@ ogImageAlt: "Shri Praveen Radhakrishnan before the shrine of Ma Kali"
     if (attempt && typeof attempt.then === 'function') {
       attempt.then(function () {
         setLoading(false);
-      }).catch(function () {
+      }).catch(function (error) {
         setLoading(false);
         setPlaying(false);
-        setStatus('error', 'Could not start the stream. Press play to retry.');
+        setStatus('error', playFailureMessage(error));
       });
     }
   }
