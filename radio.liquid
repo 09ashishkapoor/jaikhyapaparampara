@@ -74,8 +74,12 @@ ogImageAlt: "Shri Praveen Radhakrishnan before the shrine of Ma Kali"
 .listen-help ol{margin:.1rem 0 1rem 1.2rem;padding:0;color:var(--text-dark);font-size:1rem;line-height:1.7}
 .listen-help li{margin:.35rem 0}
 .listen-help a{color:var(--link-color)}
-.listen-dev{max-width:860px;margin:1.1rem 0 0;font-size:.95rem;line-height:1.65;color:var(--text-dark);opacity:.8}
-.listen-dev a{color:var(--link-color)}
+.radio-dev-cta{max-width:860px}
+.dev-callout{padding:1.5rem 1.6rem;border:1px solid rgba(232,196,104,.42);border-radius:16px;background:linear-gradient(145deg,rgba(45,15,24,.72),rgba(13,5,6,.96));box-shadow:0 12px 32px rgba(0,0,0,.4)}
+.dev-callout-eyebrow{display:inline-flex;align-items:center;gap:.45rem;padding:.35rem .9rem;margin:0 0 .85rem;border:1px solid var(--border-gold);border-radius:999px;background:rgba(232,196,104,.08);color:var(--accent-color);font-family:'Philosopher',sans-serif;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase}
+.dev-callout h2{font-family:'Philosopher',sans-serif;color:var(--accent-bright);font-size:clamp(1.35rem,2.8vw,1.8rem);line-height:1.25;margin:0 0 .7rem;scroll-margin-top:6rem}
+.dev-callout p{color:var(--text-dark);font-size:1.02rem;line-height:1.75;margin:0 0 1.15rem;max-width:660px}
+.dev-callout .radio-btn{margin:0}
 .listen-contact{max-width:860px;margin:1.2rem 0 0;padding:.8rem 1.05rem;border:1px solid rgba(232,196,104,.28);border-radius:12px;background:rgba(232,196,104,.05);font-size:1rem;line-height:1.7;color:var(--text-dark)}
 .listen-contact a{color:var(--link-color)}
 .radio-noscript{padding:1rem;border:1px solid var(--border-gold);border-radius:12px;background:rgba(232,196,104,.06);color:var(--text-dark);margin-top:1rem}
@@ -90,6 +94,7 @@ ogImageAlt: "Shri Praveen Radhakrishnan before the shrine of Ma Kali"
  .radio-recent-date{order:-1}
  .listen-grid{grid-template-columns:1fr}
  .listen-help{padding:0 .9rem}
+ .dev-callout{padding:1.2rem 1.1rem}
 }
 </style>
 
@@ -157,6 +162,7 @@ ogImageAlt: "Shri Praveen Radhakrishnan before the shrine of Ma Kali"
     <a class="radio-btn" href="https://radio.jaikhyapaparampara.com/public/guru_vani_radio/playlist.m3u" rel="noopener">M3U playlist</a>
     <a class="radio-btn" href="https://radio.jaikhyapaparampara.com/public/guru_vani_radio/playlist.pls" rel="noopener">PLS playlist</a>
     <a class="radio-btn" href="/articles/">Read the articles</a>
+    <a class="radio-btn" href="/radio/developers/">Developer notes</a>
   </div>
   <p class="radio-note">Streams 24 hours from the Garbhagriha.</p>
   <p class="radio-note"><a href="#radio-listen-heading">How to listen on phones, computers and smart speakers &darr;</a></p>
@@ -308,14 +314,22 @@ ogImageAlt: "Shri Praveen Radhakrishnan before the shrine of Ma Kali"
         <li>Still silent? The station may be briefly off the air. Try again in a few minutes, or <a href="mailto:kaliputraashish@gmail.com">write to us</a>.</li>
       </ol>
     </details>
-
-    <p class="listen-dev">
-      Building an app, a website or an Alexa skill? The
-      <a href="/radio/developers/">developer notes</a> cover the stream address,
-      embedding options and autoplay rules.
-    </p>
   </section>
 
+  <section class="radio-section radio-dev-cta" aria-labelledby="radio-dev-heading">
+    <div class="dev-callout">
+      <p class="dev-callout-eyebrow">For app developers &amp; site owners</p>
+      <h2 id="radio-dev-heading">Building an app, a website or an Alexa skill?</h2>
+      <p>
+        The stream is public, needs no API key, and plays in a browser, an
+        Android or iPhone app, a smart speaker or a custom skill. The developer
+        notes gather the stream address and format, ready-to-use Media3 and
+        AVPlayer code, the autoplay rules every platform enforces, and the
+        realistic Amazon Echo options.
+      </p>
+      <a class="radio-btn" href="/radio/developers/">Read the developer notes &rarr;</a>
+    </div>
+  </section>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
