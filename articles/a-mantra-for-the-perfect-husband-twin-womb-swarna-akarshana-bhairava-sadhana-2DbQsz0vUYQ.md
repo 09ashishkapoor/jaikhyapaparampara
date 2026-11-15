@@ -51,6 +51,8 @@ The practice uses a specific photograph of **Batuka Swarna Akarshana Bhairava** 
 **Phase 1 — Three Ashtamis of Nama Japa:**
 For three consecutive *Ashtami* (eighth lunar day) evenings, perform only the Nama Japa of Swarna Akarshana Bhairava. The singular mental focus during these three *Ashtamis* is the clear intention: "I am searching for the Bhairava Tattva as my consort. That is my only goal in this *Sadhana*."
 
+If you are counting this Nama Japa through the three Ashtamis, you can [count the Swarnaakarshana Bhairav japa on MANTRINI](https://mantrini.jaikhyapaparampara.com/), the parampara's free japa counter — offline, on a 108-bead mala, with the record kept on your device.
+
 **Phase 2 — Fourth Ashtami with Beeja Mantra:**
 Before the fourth *Ashtami*, receive the *Beeja Mantra* (seed syllable) from the Guru via the WhatsApp group. From this point forward, the *Sadhana* deepens.
 

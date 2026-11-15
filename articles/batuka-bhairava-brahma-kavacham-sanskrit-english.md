@@ -504,3 +504,7 @@ Long life, knowledge, fame, dharma, and physical strength — all these are atta
   iti śrīrudrayāmaloktaṃ śrībaṭukabhairavabrahmakavacaṃ sampūrṇam
   <div style="font-style:normal;color:#d4c4b0;font-size:0.9rem;margin-top:0.75rem;">Thus ends the Shri Batuka Bhairava Brahma Kavacham from the Shri Rudra Yamala Tantra.</div>
 </div>
+
+---
+
+For daily japa with Bhairava, the parampara's free app lets you [count the Batuk Bhairav mantra on MANTRINI](https://mantrini.jaikhyapaparampara.com/) — offline, on a 108-bead mala, with every count kept on your own device.

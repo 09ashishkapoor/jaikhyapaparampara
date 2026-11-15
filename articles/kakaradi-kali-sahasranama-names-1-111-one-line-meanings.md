@@ -247,6 +247,8 @@ No. These are devotional one-line meanings meant for prayerful reading and conte
 
 The opening names of the Kakaradi Kali Sahasranama show Ma Kali as mantra, Mother, art, compassion, action, lotus, and clear realization. They begin in sound and end in a field of lotuses, as if the fierce seed of the Mother opens into the heart's own purity.
 
+If you want to carry these names into japa, the parampara's free app has an Adya Mahakali altar where you can [count Adya Mahakali japa on MANTRINI](https://mantrini.jaikhyapaparampara.com/) — offline, on a 108-bead mala, and the record stays on your device.
+
 Read them slowly. Let one name stay with you. Let that name become remembrance.
 
 Jai Ma Adya. Jai Kalabhairava. Jai Khyapa Parampara.
