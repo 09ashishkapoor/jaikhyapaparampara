@@ -12,6 +12,8 @@ const PAGES = [
 	"/about/",
 	"/articles/",
 	"/articles/topics/sadhana-tantra-mantra/",
+	"/colophon/",
+	"/changelog/",
 	"/articles/kalabhairava-name-001-kala-bhairava-devaya/",
 	"/articles/batuka-bhairava-brahma-kavacham-sanskrit-english/",
 ];
@@ -51,7 +53,7 @@ test("article pages carry almost no inline CSS and add the article bundle", asyn
 });
 
 test("non-article pages do not download the article bundle", async ({ request }) => {
-	for (const url of ["/", "/gallery/", "/search/", "/about/", "/articles/"]) {
+	for (const url of ["/", "/gallery/", "/search/", "/about/", "/articles/", "/colophon/", "/changelog/"]) {
 		const html = await (await request.get(url)).text();
 		expect(html, url).not.toContain('href="/article.min.css"');
 	}

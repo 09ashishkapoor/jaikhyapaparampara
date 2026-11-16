@@ -1,0 +1,116 @@
+---
+layout: base
+title: "Changelog"
+metaTitle: "Changelog — what changed on this site"
+description: "Notable changes to Jai Khyapa Parampara itself — design, performance, feeds and infrastructure — newest first. The teachings are not versioned; the site is."
+metaDescription: "Notable changes to Jai Khyapa Parampara itself — design, performance, feeds and infrastructure — newest first. The teachings are not versioned; the site is."
+permalink: /changelog/index.html
+robotsMeta: "index, follow"
+ogImage: "/images/gallery/responsive/Jai_Ma_Adya_Mahakali-1200.webp"
+ogImageAlt: "Jai Ma Adya Mahakali — devotional sacred artwork"
+footerMessage: "May every word read here bring you closer to Ma Adya Mahakali."
+---
+{%- comment -%}
+  Append-only. Add new entries at the TOP, newest first, then bump this page's
+  <lastmod> in sitemap.liquid. Do not rewrite past entries.
+{%- endcomment -%}
+<style>
+.info-page{max-width:860px;margin:0 auto;padding:2.6rem 20px 1rem}
+.info-eyebrow{display:inline-flex;align-items:center;padding:.35rem .95rem;border:1px solid var(--border-gold);border-radius:999px;background:rgba(232,196,104,.08);color:var(--accent-color);font-family:'Philosopher',sans-serif;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase}
+.info-title{font-family:'Philosopher',sans-serif;color:var(--accent-bright);font-size:clamp(2rem,4.6vw,2.9rem);line-height:1.15;margin:1rem 0 .7rem}
+.info-lead{color:var(--text-dark);opacity:.92;font-size:1.1rem;line-height:1.7;max-width:720px;margin:0 0 1.6rem}
+.info-section{border-top:1px solid rgba(232,196,104,.18);padding-top:1.7rem;margin-top:1.9rem}
+.info-section h2{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:clamp(1.35rem,2.6vw,1.7rem);line-height:1.25;margin:0 0 .8rem}
+.info-section p,.info-section li{color:var(--text-dark);font-size:1.03rem;line-height:1.8}
+.info-section p{margin:0 0 1rem}
+.info-section a{color:var(--accent-color);text-decoration-color:var(--border-gold);text-underline-offset:.18em}
+.info-section a:hover{color:var(--accent-bright)}
+.info-note{margin:1.6rem 0 0;padding:1rem 1.15rem;border-left:3px solid var(--accent-color);background:rgba(232,196,104,.05);border-radius:0 8px 8px 0;font-size:.98rem;color:var(--text-dark);line-height:1.7}
+.changelog-entry{margin:0 0 2.1rem}
+.changelog-entry:last-child{margin-bottom:0}
+.changelog-date{display:block;margin:0 0 .55rem;font-family:'Philosopher',sans-serif;font-size:.82rem;letter-spacing:.1em;text-transform:uppercase;color:var(--accent-color);font-weight:700}
+.changelog-list{list-style:none;margin:0;padding:0}
+.changelog-list li{position:relative;margin:0 0 .6rem;padding-left:1.15rem;font-size:1.01rem;line-height:1.75;color:var(--text-dark)}
+.changelog-list li:last-child{margin-bottom:0}
+.changelog-list li::before{content:"";position:absolute;left:0;top:.66em;width:6px;height:6px;border-radius:50%;background:var(--accent-color);opacity:.7}
+.changelog-list strong{color:var(--accent-bright)}
+@media(max-width:700px){.info-page{padding-top:1.6rem}}
+</style>
+
+<div class="container info-page">
+  <header>
+    <span class="info-eyebrow">Changelog</span>
+    <h1 class="info-title">Site changelog</h1>
+    <p class="info-lead">
+      Notable changes to the site itself — not to the teachings. Newest first, and
+      append-only: past entries are not rewritten.
+    </p>
+  </header>
+
+  <section class="info-section" aria-labelledby="year-2026">
+    <h2 id="year-2026">2026</h2>
+
+    <article class="changelog-entry">
+      <h3 class="changelog-date"><time datetime="2026-11-16">16 November 2026</time></h3>
+      <ul class="changelog-list">
+        <li><strong>One stylesheet for the whole site.</strong> Article pages used
+          to carry their own CSS in every page; they now share a single cached
+          style sheet, so reading a second article downloads nothing extra.</li>
+        <li><strong>Faster, steadier images.</strong> WebP images are cached for a
+          year, every image reserves its own space before it loads, and the largest
+          gallery works now open at up to 2048&nbsp;px in the lightbox — from a
+          derivative, never from the archive master.</li>
+        <li><strong>Self-hosted fonts.</strong> Crimson Text and Philosopher are
+          served from this domain as woff2 subsets. Google Fonts is no longer
+          contacted.</li>
+        <li><strong>Continuous validation.</strong> The test suite runs on every
+          push again after GitHub's runner-image migration broke the browser
+          install.</li>
+      </ul>
+    </article>
+
+    <article class="changelog-entry">
+      <h3 class="changelog-date"><time datetime="2026-11-15">15 November 2026</time></h3>
+      <ul class="changelog-list">
+        <li><strong>A social card for every article.</strong> Each article has its
+          own generated 1200&times;630 card, so a shared link shows that article's
+          title instead of a cropped image.</li>
+        <li><strong>Feeds.</strong> <a href="/feed.xml">/feed.xml</a> carries the
+          thirty most recent articles, and every topic path has its own feed.</li>
+        <li><strong>Quieter measurement.</strong> Google Analytics was removed.
+          Measurement moved to cookieless Cloudflare Web Analytics and Google
+          Search Console; the site sets no tracking cookies.</li>
+        <li><strong>Instant search results.</strong> Full-text search was kept, but
+          the large article-text index now loads after the first results appear.</li>
+        <li><strong>Housekeeping.</strong> Internal audit documents stopped being
+          published as public pages, a stray agent-skill page was removed, and
+          repository rules were written down for future contributors.</li>
+      </ul>
+    </article>
+
+    <article class="changelog-entry">
+      <h3 class="changelog-date"><time datetime="2026-10-22">22 October 2026</time></h3>
+      <ul class="changelog-list">
+        <li><strong>SEO and taxonomy audit.</strong> The archive, its category
+          vocabulary and its Search Console coverage were reviewed; the resulting
+          reports are archived in the repository and shaped the November work
+          above.</li>
+      </ul>
+    </article>
+  </section>
+
+  <section class="info-section" aria-labelledby="how-heading">
+    <h2 id="how-heading">About this log</h2>
+    <p>
+      Entries describe the site's machinery and design. The teachings themselves
+      are not versioned — an article's text is not edited for style, and past
+      entries here are never rewritten. The detailed record, commit by commit,
+      lives at
+      <a href="https://github.com/09ashishkapoor/jaikhyapaparampara" target="_blank" rel="noopener">the repository</a>.
+    </p>
+    <p class="info-note">
+      For how the site is built, see the <a href="/colophon/">colophon</a>; for the
+      lineage, see <a href="/about/">About the Parampara</a>.
+    </p>
+  </section>
+</div>

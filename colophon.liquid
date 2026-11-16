@@ -1,0 +1,167 @@
+---
+layout: base
+title: "Colophon"
+metaTitle: "Colophon — how this archive is made"
+description: "How this archive is built and maintained: a static Eleventy site on Cloudflare Pages, self-hosted fonts, one generated social card per article, no client-side tracking, and sacred-art masters kept at full resolution."
+metaDescription: "How this archive is built and maintained: a static Eleventy site on Cloudflare Pages, self-hosted fonts, one generated social card per article, no client-side tracking, and sacred-art masters kept at full resolution."
+permalink: /colophon/index.html
+robotsMeta: "index, follow"
+ogImage: "/images/gallery/responsive/Jai_Ma_Adya_Mahakali-1200.webp"
+ogImageAlt: "Jai Ma Adya Mahakali — devotional sacred artwork"
+footerMessage: "May every word read here bring you closer to Ma Adya Mahakali."
+---
+<style>
+.info-page{max-width:860px;margin:0 auto;padding:2.6rem 20px 1rem}
+.info-eyebrow{display:inline-flex;align-items:center;padding:.35rem .95rem;border:1px solid var(--border-gold);border-radius:999px;background:rgba(232,196,104,.08);color:var(--accent-color);font-family:'Philosopher',sans-serif;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase}
+.info-title{font-family:'Philosopher',sans-serif;color:var(--accent-bright);font-size:clamp(2rem,4.6vw,2.9rem);line-height:1.15;margin:1rem 0 .7rem}
+.info-lead{color:var(--text-dark);opacity:.92;font-size:1.1rem;line-height:1.7;max-width:720px;margin:0 0 1.6rem}
+.info-section{border-top:1px solid rgba(232,196,104,.18);padding-top:1.7rem;margin-top:1.9rem}
+.info-section h2{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:clamp(1.35rem,2.6vw,1.7rem);line-height:1.25;margin:0 0 .8rem}
+.info-section p,.info-section li{color:var(--text-dark);font-size:1.03rem;line-height:1.8}
+.info-section p{margin:0 0 1rem}
+.info-section ul{margin:0 0 1rem 1.2rem;padding:0}
+.info-section li{margin-bottom:.5rem}
+.info-section a{color:var(--accent-color);text-decoration-color:var(--border-gold);text-underline-offset:.18em}
+.info-section a:hover{color:var(--accent-bright)}
+.info-facts{list-style:none;margin:0 0 1rem;padding:0;display:grid;gap:.55rem}
+.info-facts li{display:flex;gap:.6rem;flex-wrap:wrap;padding:.6rem .85rem;border:1px solid rgba(232,196,104,.2);border-radius:10px;background:rgba(255,255,255,.02)}
+.info-facts b{color:var(--accent-color);font-family:'Philosopher',sans-serif;font-weight:700;min-width:8.5rem}
+.info-note{margin:1.6rem 0 0;padding:1rem 1.15rem;border-left:3px solid var(--accent-color);background:rgba(232,196,104,.05);border-radius:0 8px 8px 0;font-size:.98rem;color:var(--text-dark);line-height:1.7}
+@media(max-width:700px){.info-page{padding-top:1.6rem}.info-facts b{min-width:100%}}
+</style>
+
+<div class="container info-page">
+  <header>
+    <span class="info-eyebrow">Colophon</span>
+    <h1 class="info-title">How this archive is made</h1>
+    <p class="info-lead">
+      A provenance note for readers, and an honest account of the machinery: what
+      this site is, who keeps it, how it is built, and what it deliberately does
+      not do.
+    </p>
+  </header>
+
+  <section class="info-section" aria-labelledby="what-heading">
+    <h2 id="what-heading">What this site is</h2>
+    <p>
+      A free archive of the Khyapa Parampara of Tarapith: the teachings, sadhana
+      and sacred texts carried by Param Guru Bama Khyapa, Gurubaba Shyama Khyapa
+      and Shri Praveen Radhakrishnan, together with the devotional art that
+      accompanies them. Everything is open to read. There is no account to create,
+      no paywall, and no advertising.
+    </p>
+    <ul class="info-facts">
+      <li><b>Articles</b><span>{{ collections.articles | size | commafy }} written articles, browsable by topic, keyword and A&ndash;Z.</span></li>
+      <li><b>Sacred art</b><span>{{ galleryImages | size }} works in the <a href="/gallery/">gallery</a>, each viewable at its native resolution.</span></li>
+      <li><b>Books</b><span>Sahasranama and 108-names editions in English and Hindi, free to <a href="/ebooks/">download</a>.</span></li>
+      <li><b>Audio</b><span>A continuous stream of recorded talks on <a href="/radio/">Guru Vani Radio</a>.</span></li>
+    </ul>
+  </section>
+
+  <section class="info-section" aria-labelledby="who-heading">
+    <h2 id="who-heading">Who keeps it</h2>
+    <p>
+      The archive is compiled and maintained by <strong>KaliPutra-Ashish</strong>,
+      a disciple in this lineage, and offered in service to the Guru Parampara — it
+      is a work of devotion, not a publication house. The
+      <a href="/about/">About page</a> introduces the three teachers whose words
+      and forms fill it.
+    </p>
+    <p>
+      The code behind the site is public:
+      <a href="https://github.com/09ashishkapoor/jaikhyapaparampara" target="_blank" rel="noopener">github.com/09ashishkapoor/jaikhyapaparampara</a>.
+    </p>
+  </section>
+
+  <section class="info-section" aria-labelledby="built-heading">
+    <h2 id="built-heading">How it is built</h2>
+    <ul>
+      <li><strong>A static site.</strong> Every page is pre-rendered HTML generated
+        by <a href="https://www.11ty.dev/" target="_blank" rel="noopener">Eleventy</a>
+        and served from Cloudflare Pages. There is no database and no server-side
+        application to log into.</li>
+      <li><strong>Almost no JavaScript.</strong> A few small vanilla scripts power
+        on-site search, the gallery lightbox, the mobile menu and the radio player.
+        Everything else is plain HTML and CSS.</li>
+      <li><strong>One shared stylesheet.</strong> Every page loads the same style
+        sheet, so moving between articles costs nothing extra. The temple palette
+        of deep maroon, parchment and antique gold is the intended reading
+        environment — there is no light mode, and none is planned.</li>
+      <li><strong>Self-hosted fonts.</strong> Crimson Text and Philosopher are
+        served from this domain as woff2 subsets under the SIL Open Font License.
+        No request leaves the site to fetch a typeface.</li>
+      <li><strong>One social card per article.</strong> Each article has a
+        generated 1200&times;630 card at
+        <code>/images/og/&lt;slug&gt;.jpg</code>, so a shared link shows the
+        article's own title instead of a cropped image.</li>
+      <li><strong>Feeds.</strong> The newest articles are published at
+        <a href="/feed.xml">/feed.xml</a>, with a separate feed for each of the
+        {{ collections.browseGroups | size }} <a href="/topics/">topic paths</a>.</li>
+    </ul>
+  </section>
+
+  <section class="info-section" aria-labelledby="measure-heading">
+    <h2 id="measure-heading">What is measured, and what is not</h2>
+    <p>
+      The site carries <strong>no client-side analytics and no advertising
+      tracker</strong>. There are no cookies to consent to and no profile built
+      around a reader. Where the site measures anything, it uses two aggregate
+      sources:
+    </p>
+    <ul>
+      <li><strong>Cloudflare Web Analytics</strong> — cookieless page-load and
+        performance counts collected at the edge, without a per-reader identifier.</li>
+      <li><strong>Google Search Console</strong> — which queries and pages Google
+        showed, so the archive can be made easier to find.</li>
+    </ul>
+    <p>
+      Neither can reconstruct a reading session, and neither is used to profile
+      anyone. If a future feature would need per-reader tracking, it will not be
+      added here.
+    </p>
+  </section>
+
+  <section class="info-section" aria-labelledby="art-heading">
+    <h2 id="art-heading">The sacred-art archive</h2>
+    <p>
+      The gallery masters are the archive. They are kept exactly as received, at
+      their native resolution — up to 5600&nbsp;px — and are never resized,
+      re-compressed or overwritten. Smaller WebP derivatives exist only so that
+      the grid and the lightbox can load quickly; the
+      <em>View original</em> link in the lightbox always opens the untouched
+      master, and the gallery's structured data points at the masters too.
+    </p>
+  </section>
+
+  <section class="info-section" aria-labelledby="words-heading">
+    <h2 id="words-heading">Words, transcripts and translations</h2>
+    <p>
+      Mantras, quotations and recorded talks are published as received. They are
+      not reworded for style, and transcript text is not edited to read more
+      smoothly. Where a reader needs context — who is speaking, what a term means,
+      where a passage comes from — an attributed note is placed <em>before</em> the
+      transcript and set apart from it, so the sacred text and the editorial note
+      are never confused for one another.
+    </p>
+  </section>
+
+  <section class="info-section" aria-labelledby="share-heading">
+    <h2 id="share-heading">Sharing, and corrections</h2>
+    <p>
+      All knowledge here is forever free to share: quote it, print it, pass it on.
+      The site code is open source; the typefaces are under the SIL Open Font
+      License.
+    </p>
+    <p>
+      If something is wrong — a mistyped mantra, a broken link, a misspelled name
+      — please say so through the repository's issue templates. Corrections to
+      transcript or sacred text are handled with particular care, and never
+      silently.
+    </p>
+    <p class="info-note">
+      This page describes the machinery, not the teaching. For the lineage itself,
+      read <a href="/about/">About the Parampara</a>; for what has changed here
+      over time, see the <a href="/changelog/">changelog</a>.
+    </p>
+  </section>
+</div>

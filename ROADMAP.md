@@ -2,14 +2,14 @@
 
 Single source of truth for planned work on **jaikhyapaparampara.com**.
 
-**Last updated:** 2026-11-16 (Item 7 shipped and deployed — one shared stylesheet
-site-wide and no layout CSS inline on article pages. Items 1, 2, 3, 4, 5, 7, 8,
-and 10 are implemented; Item 4 was revised after owner feedback so full-text
-search stays, with the text index off the critical path; owner analytics setup
-recorded as deferred pending actions)
-**Status:** Items 1, 2, 4, 5, 7, 8, and 10 done; Item 3 code shipped; Items 6 and
-9 pending. The remaining Item 3 work is owner-side setup, deferred until the code
-items are done — see [13. Pending owner actions](#13-pending-owner-actions-deferred).
+**Last updated:** 2026-11-16 (Item 6 shipped — colophon and changelog pages; Item 9
+parked as not needed, the dark maroon theme is the intended look. Items 1, 2, 3, 4,
+5, 6, 7, 8, and 10 are implemented; Item 4 was revised after owner feedback so
+full-text search stays, with the text index off the critical path; owner analytics
+setup is the only work left)
+**Status:** Items 1, 2, 4, 5, 6, 7, 8, and 10 done; Item 3 code shipped; Item 9
+parked as not needed. The remaining Item 3 work is owner-side setup, deferred to the
+end — see [13. Pending owner actions](#13-pending-owner-actions).
 
 This document is written to be read cold. A new session (human or agent) with no
 memory of how it was produced should be able to start work from it directly.
@@ -56,8 +56,8 @@ article bodies as immutable unless the task says otherwise.
   copies the dashboard into `.analytics/`, and `stats.liquid` renders `/stats/`
   with `noindex`, no sitemap entry, and `X-Robots-Tag` headers. Covered by
   `tests/unit/analytics.test.js` and `tests/smoke/analytics.spec.js`. Live data
-  waits on the [pending owner actions](#13-pending-owner-actions-deferred),
-  deferred until Items 5–9 are done.
+  waits on the [pending owner actions](#13-pending-owner-actions) — with
+  every code item now done, they are the only work left.
 - **Item 4 — Search index payload.** Search keeps full article text, but no
   longer waits for it. `/article-index.json` (736 KB, metadata only) renders the
   first results, and `/search-index.json` (9.44 MB of `{url, content}` only,
@@ -78,6 +78,16 @@ article bodies as immutable unless the task says otherwise.
   `_headers` no longer lists `fonts.googleapis.com` or `fonts.gstatic.com`, and
   `/fonts/*.woff2` is cached immutably. OFL licences ship alongside the files.
   Covered by `tests/smoke/fonts.spec.js` and `npm run fonts:check`.
+- **Item 6 — Colophon and changelog.** `/colophon/` records how the archive is
+  made (what it is, who keeps it, the static build, self-hosted fonts, generated
+  social cards, the no-tracking measurement model, the sacred-art archive policy,
+  how transcripts are handled, and how corrections work). `/changelog/` is an
+  append-only, newest-first record of the site's own changes, seeded from this
+  roadmap's history. Both use `layout: base`, are linked from every footer next to
+  About, are listed in `sitemap.xml` and `llms.txt`, and are indexable. The
+  colophon renders live counts (`1,205` articles, `44` works, `8` topic paths)
+  through a `commafy` filter, so its numbers cannot go stale. Covered by
+  `tests/smoke/pages.spec.js`.
 - **Item 7 — Shared stylesheet.** Every page links one cached `/site.min.css`
   (7.6 KB; 2.1 KB gzip / 1.8 KB brotli) holding the design tokens, reset,
   `.container`, `.back-link` and site chrome; article pages add `/article.min.css`
@@ -279,10 +289,29 @@ article bodies as immutable unless the task says otherwise.
   sticky header, loading `fonts.css`, `site.min.css` and `article.min.css` with no
   console errors. The `validation` workflow is green on `ubuntu-24.04`.
 
-**Next task:** **Item 6 (colophon + changelog)** — two small evergreen pages and
-the last content item — then **Item 9 (reading themes)**, optional polish. Item 3
-needs no further code; its owner-side setup is deferred to the end and tracked in
-[13. Pending owner actions](#13-pending-owner-actions-deferred).
+**Verification for Item 6 (2026-11-16):**
+
+- `_site/colophon/index.html` (17.5 KB) and `_site/changelog/index.html` (14.7 KB)
+  build; the output count rose 3,534 → 3,536 files.
+- Both pages: `robots: index, follow`, absolute canonical and `og:image`
+  (`/images/gallery/responsive/Jai_Ma_Adya_Mahakali-1200.webp`), the full
+  `layout: base` shell with the shared footer, a single `<h1>`, `/site.min.css`
+  linked and no article bundle.
+- Live counts render as `1,205 written articles`, `44 works in the gallery` and
+  `8 topic paths`; nothing on the page is a hardcoded number that can drift.
+- The changelog's `<time datetime>` sequence is `2026-11-16`, `2026-11-15`,
+  `2026-10-22` — newest first and machine-readable — with headings running
+  h1 → h2 (year) → h3 (date).
+- Every footer (`/`, `/about/`, `/gallery/`, an article page) links both pages;
+  `sitemap.xml` carries both `<loc>` entries; `llms.txt` lists both.
+- Rendered in Chromium: Philosopher h1 at 46.4 px in `rgb(244,228,193)` on the
+  `rgb(31,11,17)` temple background, footer and header unchanged.
+- `npm run validate` passes **62 tests** (54 before + 6 new page tests + the two
+  new URLs added to the shared-stylesheet check).
+
+**Next task:** no roadmap items remain. What is left is the owner-side analytics
+setup ([§13](#13-pending-owner-actions)) and the optional homepage-CSS
+follow-up in §5. Item 9 is parked as not needed.
 
 ### 4. The one rule that matters most
 
@@ -294,15 +323,18 @@ this in place. Do not copy it. See [Image pipeline guardrails](#10-image-pipelin
 
 ### 5. Suggested next task
 
-Items 1, 2, 4, 5, 7, 8, and 10 are done, and Item 3's code is shipped — its
-owner-side setup is deferred to the end ([§13](#13-pending-owner-actions-deferred)).
-What is left is small: **Item 6 (colophon + changelog)**, two evergreen pages on
-`layout: base`, then **Item 9 (reading themes)**, optional polish.
+Everything planned is done: Items 1, 2, 4, 5, 6, 7, 8, and 10 are shipped, Item 3's
+code is complete, and Item 9 is parked as not needed. What remains:
 
-One follow-up worth doing later: the homepage still carries its own 64.8 KB
-`styles.min.css` plus seven inline blocks. That sheet is homepage-only legacy and
-was deliberately left alone here; folding it into `site.css` (or pruning the hero
-and library rules that nothing matches any more) is the next page-weight win.
+- **Owner actions P1–P7** ([§13](#13-pending-owner-actions)): the analytics
+  pipeline needs credentials, the Cloudflare Web Analytics switch, an R2 bucket and
+  an Access application. Cloudflare keeps roughly 30 days of RUM data, so P2 and P4
+  belong in the same month.
+- **The homepage's legacy CSS** (optional follow-up): `index.html` still loads its
+  own 64.8 KB `styles.min.css` plus seven inline blocks. That sheet is
+  homepage-only legacy and was deliberately left alone by Item 7; folding it into
+  `site.css` (or pruning the hero and library rules nothing matches any more) is
+  the largest remaining page-weight win, at about 8.6 KB brotli per first visit.
 
 ### 6. Build and verify
 
@@ -375,7 +407,7 @@ Test-Path _site\ACTION-PLAN                      # must be False
 - [10. Image pipeline guardrails](#10-image-pipeline-guardrails)
 - [11. Archive index](#11-archive-index)
 - [12. Remaining decisions](#12-remaining-decisions)
-- [13. Pending owner actions (deferred)](#13-pending-owner-actions-deferred)
+- [13. Pending owner actions](#13-pending-owner-actions)
 
 ---
 
@@ -428,6 +460,7 @@ Each of these was analysed and decided. Reopening them wastes a session.
 | **Analytics: Cloudflare Web Analytics + Search Console API** | Aligns with the site's own "no tracking" positioning. GSC is primary for SEO; CF is traffic/performance. |
 | **Colophon and changelog are two separate pages, footer-linked** | Colophon is evergreen; changelog is append-only. Merging makes the stable reference churn. |
 | **No video, no newsletter** | Site has neither. Do not plan for FFmpeg/Plyr/Listmonk. |
+| **Reading themes (Item 9) are not needed** | Owner decision 2026-11-16: the dark maroon temple palette is the intended reading environment and is easy on the eyes. Do not add a light/dark toggle or `prefers-color-scheme` variants. `/colophon/` states this publicly, so reversing the decision means editing that page too. |
 | **The 11ty image-optimisation recipe that resizes sources in place is forbidden** | Directly violates constraint 2 and would overwrite 11 hand-tuned jpg/webp pairs. |
 
 ### Closed 2026-11-15 (owner decisions — final)
@@ -635,8 +668,8 @@ article's `page.url` with the `https://jaikhyapaparampara.com` prefix.
 pull, nightly Actions job, R2 JSONL store, aggregate `dashboard.json`, and
 `/stats/` all shipped. The only remaining work is owner-side setup (credentials,
 the Cloudflare Web Analytics switch, Access), recorded as
-[pending actions P1–P7](#13-pending-owner-actions-deferred) and deferred until
-Items 5–9 are done. The shipped layout is in
+[pending actions P1–P7](#13-pending-owner-actions) — the last open work
+in this document now that Items 5–9 are done or parked. The shipped layout is in
 [7.8](#78-implemented-pipeline-2026-11-16).
 
 **Why:** no way to measure traffic or SEO progress today except the GA4 UI, which
@@ -686,8 +719,8 @@ place; creating the Access application is [P5](#p5--access).
 #### Owner setup
 
 Seven credential, zone, and Access actions remain. They need no code, are listed
-in full as [P1–P7](#13-pending-owner-actions-deferred), and are deferred until
-Items 5–9 are done.
+in full as [P1–P7](#13-pending-owner-actions), and are now the only open
+work in this document.
 
 #### Implementation notes (deliberate choices)
 
@@ -844,16 +877,55 @@ CSP lists neither host.
 
 ### Item 6 — Colophon and changelog (new pages)
 
+**Status: done (2026-11-16).** `/colophon/` and `/changelog/`, footer-linked, in
+the sitemap and in `llms.txt`.
+
 **Why:** provenance fits a lineage site, and it is cheap.
 
-**Files:** new `colophon.liquid`, `changelog.liquid`, `_includes/site-footer.liquid`,
-`llms.txt`, `sitemap.liquid`.
+**Files (shipped):** `colophon.liquid` (new), `changelog.liquid` (new),
+`_includes/site-footer.liquid`, `sitemap.liquid`, `llms.txt`, `.eleventy.js`
+(new `commafy` filter), `tests/smoke/pages.spec.js` (new),
+`tests/smoke/css.spec.js`.
 
-**Steps:** two pages using `layout: base` at `/colophon/` and `/changelog/`.
-Footer "Site" column: Colophon · Changelog · Feed. Add both to `llms.txt`.
+**Steps shipped**
 
-**Acceptance:** both pages build, are linked from the footer, and appear in the
-sitemap. Content per [settled decisions](#3-settled-decisions-do-not-relitigate).
+1. Two pages on `layout: base` at `/colophon/` and `/changelog/`.
+   `colophon.liquid` covers what the site is, who keeps it, how it is built, what
+   is measured, the sacred-art archive policy, how transcripts and editorial notes
+   are kept apart, and how corrections are made. `changelog.liquid` is an
+   append-only, newest-first log: 16 November (shared stylesheet, image pipeline,
+   self-hosted fonts, continuous validation), 15 November (social cards, feeds,
+   measurement, search, housekeeping) and 22 October (SEO and taxonomy audit).
+2. The footer gained **Colophon** and **Changelog** next to About and Search. The
+   footer is a single link row rather than columns, so the roadmap's "Site
+   column" became two adjacent links in that row.
+3. Both pages were added to `llms.txt` and to `sitemap.xml` (the sitemap is a
+   curated list, not a collection, so entries are manual — the changelog's
+   `lastmod` must be bumped whenever an entry is appended).
+4. A `commafy` filter was added so the colophon's counts read `1,205` rather than
+   `1205`.
+
+**Acceptance:** met — both pages build, are linked from every footer, appear in
+the sitemap, and are indexable.
+
+**Design notes**
+
+- **The colophon states policies, not marketing.** Every claim on it maps to
+  something the repository enforces: no client-side analytics, fonts served from
+  this domain, one generated card per article, gallery masters never rewritten.
+- **The changelog starts with real history.** It opens with the November work and
+  the October audit rather than an empty "launched" entry, because that history is
+  recorded in this roadmap. A `{% comment %}` block in `changelog.liquid` tells the
+  next editor to prepend entries and bump the sitemap `lastmod`.
+- **Numbers are live.** Article, gallery and topic counts come from
+  `collections.articles`, `galleryImages` and `collections.browseGroups`, so the
+  page cannot drift as the archive grows.
+- **One deliberate public promise.** The colophon says the dark palette is the
+  intended reading environment and that no light mode is planned — the parked
+  Item 9 decision, stated where readers can see it.
+- **No OG card was generated for these pages.** `scripts/generate-og.js` only
+  covers articles; both pages set `ogImage` to the 1200 px Adya Mahakali
+  derivative, which is a proper wide-ish social image.
 
 ### Item 7 — Shared stylesheet (closes D8)
 
@@ -998,9 +1070,14 @@ immutable caching. The live header behaviour needs a deploy to observe.
 
 ### Item 9 — Reading themes (optional)
 
-Light/paper/dark themes with `prefers-color-scheme`. CSS custom properties
-already exist (`var(--border-gold)` etc.), so it is feasible. Pure polish; do it
-last.
+**Status: parked — not needed (owner decision 2026-11-16).** The dark maroon temple
+palette is the intended reading environment and the owner finds it easy on the
+eyes. No light/dark toggle and no `prefers-color-scheme` variants will be added,
+and `/colophon/` says so publicly — reversing this means editing that page too.
+
+The section stays here rather than being deleted because the groundwork exists:
+CSS custom properties (`var(--border-gold)` etc.) are in `site.css`, so a theme
+layer would still be feasible if the decision ever changes.
 
 ### Item 10 — `AGENTS.md` repository instructions (do alongside Item 1)
 
@@ -1397,11 +1474,12 @@ analytics pull runs in GitHub Actions or a Worker cron.
 
 ---
 
-## 13. Pending owner actions (deferred)
+## 13. Pending owner actions
 
-The only remaining work from Items 1–3 lives outside the repository and needs
-**no code** — every script, page, test, and workflow is shipped. On 2026-11-16
-the owner decided to do these **once Items 5–9 are done**.
+The only remaining work in this document lives outside the repository and needs
+**no code** — every script, page, test, and workflow is shipped. On 2026-11-16 the
+owner deferred these until Items 5–9 were done; those items are now complete
+(Item 9 parked as not needed), so this is the only open work left.
 
 Until then the site is unaffected: builds succeed without the secrets,
 `/stats/` renders its setup state, and no traffic data accumulates. That last

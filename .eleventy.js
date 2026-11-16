@@ -122,6 +122,10 @@ module.exports = (eleventyConfig) => {
 
 	eleventyConfig.addFilter("categoryLabel", categoryLabel);
 
+	eleventyConfig.addFilter("commafy", (value) =>
+		Number(value || 0).toLocaleString("en-US"),
+	);
+
 	eleventyConfig.addFilter("articleTopicUrl", (groups, currentUrl) => {
 		if (!groups || !currentUrl) return "";
 		for (const group of groups) {
