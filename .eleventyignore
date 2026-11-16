@@ -11,6 +11,12 @@ archive/
 # the root-level Markdown rule above).
 .agents/
 
+# Raw transcript drops waiting to be converted into articles/. These are source
+# material, not pages: without this rule every transcript_*.md is built as a bare
+# HTML fragment (same leak class as the root-level Markdown rule above).
+transcript_*.md
+november2026*/
+
 README.md
 node_modules
 .omx
