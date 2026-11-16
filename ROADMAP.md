@@ -3,7 +3,8 @@
 Single source of truth for planned work on **jaikhyapaparampara.com**.
 
 **Last updated:** 2026-11-16 (Item 8 shipped and deployed — WebP caching,
-intrinsic image dimensions, 2048 px lightbox derivatives. Items 1, 2, 3, 4, 5, 8,
+intrinsic image dimensions, 2048 px lightbox derivatives; the validation workflow
+is green again after pinning the runner to Ubuntu 24.04. Items 1, 2, 3, 4, 5, 8,
 and 10 are implemented; Item 4 was revised after owner feedback so full-text
 search stays, with the text index off the critical path; owner analytics setup
 recorded as deferred pending actions)
@@ -295,6 +296,11 @@ and 24.04. No repository change sits between the last green run (`8a24a2f`,
 `ubuntu-24.04`, and the unit tests now run *before* the browser install so a
 broken install can never hide them. Revisit the pin only when Playwright is
 upgraded — a new Chromium build means regenerated visual baselines.
+
+**Verified green 2026-11-16** on run `43809150895` (`58292c2`): both jobs complete,
+the browser job logs `Runner is Ubuntu 24.04.5 LTS`, the unit tests run before
+the browser install, and all 41 Playwright tests — including the three Linux
+visual baselines — pass in CI.
 
 Verification is by reading `_site/`, not by trusting the build log. Example checks
 used in this session:
