@@ -20,11 +20,14 @@ changes and the constraints below.
    `/*.md` and `archive/` are currently ignored; verify before adding an
    exception.
 
-4. **Editing `styles.css` requires `python minify-css.py`; editing `script.js`
-   requires `python minify-js.py`.** Neither minify step runs inside
-   `npm run build`, so an unminified edit never reaches the site. Link the
-   stylesheet with the absolute path `/styles.min.css`; the homepage's relative
-   `href="styles.min.css"` only works because it is at `/`.
+4. **Editing `styles.css`, `site.css`, or `article.css` requires
+   `python minify-css.py`; editing `script.js` requires `python minify-js.py`.**
+   Neither minify step runs inside `npm run build`, so an unminified edit never
+   reaches the site. `site.css` holds the tokens, reset, `.container`,
+   `.back-link` and site chrome that every page loads as `/site.min.css`;
+   `article.css` holds the article-only rules and is loaded only by article
+   pages as `/article.min.css`. `styles.css` is the homepage's own stylesheet.
+   Link them with absolute paths — a relative path only resolves from `/`.
 
 5. **Build and verify by reading `_site/`.** Run `npm run build:test` (~105 s,
    ~3,700 files), then inspect the generated file. Do not trust the build log.

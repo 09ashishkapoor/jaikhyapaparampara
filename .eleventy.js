@@ -45,6 +45,10 @@ module.exports = (eleventyConfig) => {
 	// Copy static assets to output
 	eleventyConfig.addPassthroughCopy("styles.css");
 	eleventyConfig.addPassthroughCopy("styles.min.css");
+	eleventyConfig.addPassthroughCopy("site.css");
+	eleventyConfig.addPassthroughCopy("site.min.css");
+	eleventyConfig.addPassthroughCopy("article.css");
+	eleventyConfig.addPassthroughCopy("article.min.css");
 	eleventyConfig.addPassthroughCopy("icons.css");
 	eleventyConfig.addPassthroughCopy("performance-optimizations.css");
 	eleventyConfig.addPassthroughCopy("CLS_FIXES.css");

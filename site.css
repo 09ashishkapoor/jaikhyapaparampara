@@ -1,4 +1,33 @@
-<style>
+/* Shared site stylesheet — every layout links this file as /site.min.css.
+ *
+ * It holds only what every page needs: the design tokens, the reset, the generic
+ * link treatment, .container and .back-link (both used by the article and topic
+ * pages), and the site chrome (skip link, header, menu, footer, audio toggle).
+ *
+ * Article-only rules live in article.css, which _includes/article.liquid loads
+ * after this file. Rules that only one page uses stay inline in that page's
+ * template. Edit this file, then run `python minify-css.py` — the minify step is
+ * not part of `npm run build` (AGENTS.md rule 4).
+ */
+
+:root{--primary-color:#8B2635;--accent-color:#E8C468;--accent-bright:#F4E4C1;--light-bg:#1F0B11;--text-dark:#F0DCC8;--text-light:#FFF8F0;--shadow-colored:rgba(74,14,23,0.7);--border-gold:rgba(232,196,104,0.4);--link-color:var(--accent-color);--link-hover-color:var(--accent-bright);--link-underline-color:var(--border-gold);--gold-gradient:linear-gradient(135deg,#B8935A 0%,#C9A962 25%,#E8C468 50%,#F4E4C1 60%,#E8C468 75%,#C9A962 90%,#B8935A 100%);--temple-gradient:radial-gradient(ellipse at top,#2D0F18 0%,#1F0B11 45%,#0D0506 100%);}
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family:'Crimson Text',serif;line-height:1.6;color:var(--text-dark);background-color:var(--light-bg);overflow-x:hidden;}
+.container{max-width:1200px;margin:0 auto;padding:0 20px;}
+
+/* Generic in-content links. Scoped to body.page so the homepage, which carries
+   its own link styling in styles.min.css, is untouched. The page scope sits
+   inside :where() so these rules keep the (0,0,2) specificity they had as bare
+   `main a` rules — a page-level `text-decoration:none` must still win. */
+:where(body.page) main a:where(:not([class]):not([style])){color:var(--link-color);text-decoration:underline;text-decoration-color:var(--link-underline-color);text-decoration-thickness:1px;text-underline-offset:0.18em;transition:color 0.2s ease,text-decoration-color 0.2s ease;}
+:where(body.page) main a:where(:not([class]):not([style]):visited){color:var(--link-color);}
+:where(body.page) main a:where(:not([class]):not([style]):hover,:not([class]):not([style]):focus-visible){color:var(--link-hover-color);text-decoration-color:currentColor;}
+:where(body.page) main a:where(:not([class]):not([style]):focus-visible){outline:2px solid var(--accent-color);outline-offset:0.2em;border-radius:2px;}
+
+/* Article and topic-hub "back to articles" control. */
+.back-link{display:inline-block;background:var(--gold-gradient);color:var(--light-bg);padding:0.8rem 1.8rem;border-radius:5px;text-decoration:none;font-weight:700;transition:all 0.3s ease;box-shadow:0 2px 10px rgba(232,196,104,0.3);}
+.back-link:hover{transform:scale(1.05);box-shadow:0 4px 20px rgba(232,196,104,0.5);}
+
 /* Shared site chrome: header, menu, footer. Scoped classes only. */
 .skip-link{position:fixed;top:0;left:0;z-index:2000;transform:translateY(-130%);background:var(--accent-color,#e8c468);color:#1f0b11;padding:.7rem 1.1rem;font-family:'Philosopher',sans-serif;font-weight:700;text-decoration:none;border-radius:0 0 10px 0;transition:transform .2s ease}
 .skip-link:focus{transform:translateY(0)}
@@ -60,4 +89,3 @@
 @media(max-width:380px){
  .site-logo{font-size:.92rem}
 }
-</style>

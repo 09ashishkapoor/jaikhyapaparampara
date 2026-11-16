@@ -15,3 +15,5 @@ def minify_css(css: str) -> str:
 
 if __name__ == "__main__":
     run_minifier("styles.css", "styles.min.css", "CSS", minify_css)
+    run_minifier("site.css", "site.min.css", "site CSS", minify_css)
+    run_minifier("article.css", "article.min.css", "article CSS", minify_css)

@@ -265,17 +265,20 @@
         }
       }
     </style>
+    <!-- Shared site stylesheet, first in cascade order so the page-specific
+         styles below keep overriding it. -->
+    <link rel="stylesheet" href="/site.min.css" />
     <!-- Load main stylesheet non-blocking: preload then switch to stylesheet -->
     <link
       rel="preload"
-      href="styles.min.css"
+      href="/styles.min.css"
       as="style"
       onload="
         this.onload = null;
         this.rel = 'stylesheet';
       "
     />
-    <noscript><link rel="stylesheet" href="styles.min.css" /></noscript>
+    <noscript><link rel="stylesheet" href="/styles.min.css" /></noscript>
 
     <!-- PERFORMANCE: Inline critical optimizations to prevent render-blocking (was 310ms blocking) -->
     <style>
@@ -918,7 +921,6 @@
         ]
       }
     </script>
-    {% include "site-chrome.liquid" %}
     <style>
       .hero-actions{display:flex;gap:.75rem;justify-content:center;flex-wrap:wrap;margin:1.8rem 0 .5rem}
       .hero-cta{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:.85rem 1.4rem;border-radius:999px;background:var(--gold-gradient);color:var(--light-bg);font-family:'Philosopher',sans-serif;font-weight:700;text-decoration:none;box-shadow:0 6px 18px rgba(232,196,104,.22);transition:transform .2s ease,box-shadow .2s ease}

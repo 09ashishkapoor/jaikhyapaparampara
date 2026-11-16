@@ -33,6 +33,17 @@
 /styles.min.css
   Cache-Control: public, max-age=0, must-revalidate
 
+# Shared site CSS and the article bundle. One hour lets a reader navigate the
+# archive without revalidating (must-revalidate would cost a round trip before
+# every render), while still bounding how long a CSS deploy can lag for returning
+# visitors. Rules that raise caching are applied as written; lowering ones are
+# floored at 300 s by the edge.
+/site.min.css
+  Cache-Control: public, max-age=3600
+
+/article.min.css
+  Cache-Control: public, max-age=3600
+
 /script.js
   Cache-Control: public, max-age=0, must-revalidate
 
