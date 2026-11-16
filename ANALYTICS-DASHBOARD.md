@@ -69,7 +69,9 @@ health signal, never as a finding: at ~150 clicks a week it is noise.
 1. **Scorecard** — clicks, impressions, CTR, average position, page loads,
    visits, current vs previous 28 days.
 2. **Do this week** — at most five actions, each with the article, the query or
-   page, the number that justifies it, and the file to edit.
+   page, the number that justifies it, and the file to edit. Four slots go to
+   performance work; one is reserved for internal linking when an orphan exists,
+   because an orphan never outranks a CTR gap on its own.
 3. **Follow-up** — every previously merged action, re-measured after 14 days:
    `improved`, `unchanged`, `regressed`, `measuring`, or `stale`.
 4. **Watchlist** — counts and examples for zero-click pages, non-Google

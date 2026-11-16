@@ -302,6 +302,56 @@ test("follow-up measures merged actions, waits out the window, and flags stale o
 	assert.match(result.markdown, /\| improved \|/);
 });
 
+test("one internal-linking action survives a queue full of SERP work", () => {
+	const now = "2026-11-16";
+	const end = dates.addDays(now, -2);
+	const start = dates.addDays(end, -27);
+	const rows = [];
+	for (const date of dates.dateRange(start, end)) {
+		for (let index = 0; index < 5; index += 1) {
+			rows.push({
+				source: "gsc",
+				dataset: "query",
+				date,
+				query: `kali mantra ${index}`,
+				clicks: 0,
+				impressions: 5,
+				ctr: 0,
+				position: 7,
+			});
+			rows.push({
+				source: "gsc",
+				dataset: "querypage",
+				date,
+				query: `kali mantra ${index}`,
+				page: `https://jaikhyapaparampara.com/articles/serp-${index}/`,
+				clicks: 0,
+				impressions: 5,
+				ctr: 0,
+				position: 7,
+			});
+		}
+	}
+	const articles = [
+		...Array.from({ length: 5 }, (_, index) =>
+			makeArticle({ slug: `serp-${index}`, title: `Kali mantra ${index}`, keywords: "kali mantra" }),
+		),
+		...Array.from({ length: 6 }, (_, index) =>
+			makeArticle({ slug: `orphan-x${index}`, title: `Orphan ${index}`, date: "2025-01-01" }),
+		),
+	];
+	const result = report.buildReport({
+		rows,
+		articles,
+		now,
+		generatedAt: `${now}T06:10:00.000Z`,
+		missingDates: [],
+	});
+	assert.equal(result.actions.length, 5);
+	assert.equal(result.actions.filter((action) => action.type === "serp").length, 4);
+	assert.equal(result.actions.filter((action) => action.type === "links").length, 1);
+});
+
 test("orphan rotation changes with the week instead of repeating the same list", () => {
 	const first = build({ now: "2026-11-16" });
 	const second = build({ now: "2026-11-23" });
