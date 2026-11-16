@@ -379,10 +379,12 @@ harness interpreter is at
 numeric-id noreply address for the GitHub account, which GitHub attributes to the
 profile. Do not reset it to a machine-local name or to a plain
 `<username>@users.noreply.github.com` address; only an address associated with the
-account gets attribution. Commits before 2026-11-16 are authored as
-`kalbhairav <kalbhairav@users.noreply.github.com>`; they are deliberately left
-alone, because re-authoring them would rewrite published history and every sha
-this document references.
+account gets attribution. Commits from before this change are authored as
+`kalbhairav <kalbhairav@users.noreply.github.com>` (a different GitHub account),
+or with the local placeholders `kalabhairava@localhost` / `devnull@localhost`;
+`.mailmap` in the repo root maps all three to the canonical identity so `git log`,
+`git shortlog` and GitHub display them as the owner without rewriting history.
+`.mailmap` is read by git and GitHub only — Eleventy never publishes it.
 
 **GitHub Actions `validation` was red from 2026-11-14 for an environmental
 reason, now fixed:** `ubuntu-latest` began migrating to Ubuntu 26 on 2026-10-19

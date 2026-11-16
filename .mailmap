@@ -1,0 +1,16 @@
+# Canonical author identity for this repository.
+#
+# GitHub and `git log`/`git shortlog` read this file, so commits made with the
+# local placeholder identities below are displayed as the repository owner
+# instead of as `kalbhairav` (a different GitHub account) or as a bare
+# `localhost` address. History is not rewritten: the commit objects keep their
+# original author fields and shas.
+#
+# Canonical: 09ashishkapoor <202602731+09ashishkapoor@users.noreply.github.com>
+# (the numeric-id noreply address GitHub attributes to the account).
+#
+# Do not add Copilot or other agent identities here: those commits should stay
+# visibly distinct from the owner's.
+09ashishkapoor <202602731+09ashishkapoor@users.noreply.github.com> kalbhairav <kalbhairav@users.noreply.github.com>
+09ashishkapoor <202602731+09ashishkapoor@users.noreply.github.com> kalabhairava <kalabhairava@localhost>
+09ashishkapoor <202602731+09ashishkapoor@users.noreply.github.com> <devnull@localhost>
