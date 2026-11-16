@@ -27,7 +27,10 @@ module.exports = defineConfig({
     command: `npm run build:test && node scripts/serve_test_site.js ${port} _site`,
     url: baseURL,
     reuseExistingServer: false,
-    timeout: 180_000
+    // A clean build runs ~100 s on CI but can take ~150 s on a busy Windows host
+    // (Defender scanning ~3,500 fresh files). 180 s left no headroom and timed
+    // out locally; a slow-but-progressing build is not a failure.
+    timeout: 300_000
   },
   projects: [
     {
