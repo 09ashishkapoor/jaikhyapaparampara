@@ -2,11 +2,11 @@
 
 Single source of truth for planned work on **jaikhyapaparampara.com**.
 
-**Last updated:** 2026-11-16 (Item 7 shipped — one shared stylesheet site-wide
-and no layout CSS inline on article pages. Items 1, 2, 3, 4, 5, 7, 8, and 10 are
-implemented; Item 4 was revised after owner feedback so full-text search stays,
-with the text index off the critical path; owner analytics setup recorded as
-deferred pending actions)
+**Last updated:** 2026-11-16 (Item 7 shipped and deployed — one shared stylesheet
+site-wide and no layout CSS inline on article pages. Items 1, 2, 3, 4, 5, 7, 8,
+and 10 are implemented; Item 4 was revised after owner feedback so full-text
+search stays, with the text index off the critical path; owner analytics setup
+recorded as deferred pending actions)
 **Status:** Items 1, 2, 4, 5, 7, 8, and 10 done; Item 3 code shipped; Items 6 and
 9 pending. The remaining Item 3 work is owner-side setup, deferred until the code
 items are done — see [13. Pending owner actions](#13-pending-owner-actions-deferred).
@@ -268,6 +268,16 @@ article bodies as immutable unless the task says otherwise.
 - `_site/_headers` gives both bundles `public, max-age=3600`; every page emits an
   absolute `/site.min.css`, and the homepage's two remaining `styles.min.css`
   references are absolute too.
+- **Deployed to production 2026-11-16** (`main` at `5e7661f`, build-version
+  `1.261116.0550`). Verified on `https://jaikhyapaparampara.com`: both bundles
+  return 200 `text/css; charset=utf-8` with `Cache-Control: public, max-age=3600`
+  (raising the TTL is applied as written); the sampled article page serves 0 KB of
+  inline CSS and links both sheets; the homepage links `/site.min.css` and the
+  absolute `/styles.min.css` with 29.5 KB inline; gallery, search, about, the
+  archive and topic hubs link only the shared sheet. In Chromium the article body
+  renders `rgb(31, 11, 17)` at line-height 28.8 px with Philosopher headings and a
+  sticky header, loading `fonts.css`, `site.min.css` and `article.min.css` with no
+  console errors. The `validation` workflow is green on `ubuntu-24.04`.
 
 **Next task:** **Item 6 (colophon + changelog)** — two small evergreen pages and
 the last content item — then **Item 9 (reading themes)**, optional polish. Item 3
