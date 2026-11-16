@@ -4,6 +4,8 @@
 User-agent: *
 Allow: /
 Disallow: /version.json
+# Private analytics dashboard, behind Cloudflare Access.
+Disallow: /stats/
 
 # Google specific
 User-agent: Googlebot

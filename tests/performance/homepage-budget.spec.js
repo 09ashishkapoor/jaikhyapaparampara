@@ -19,24 +19,21 @@ test('homepage defers audio until the listener presses Play', async ({ page }) =
 });
 
 for (const url of ['/', '/gallery/', '/articles/batuka-bhairava-brahma-kavacham-sanskrit-english/']) {
-  test(`analytics loads after page load on ${url}`, async ({ page }) => {
+  test(`no third-party analytics tag loads on ${url}`, async ({ page }) => {
     await blockExternalNoise(page);
-    await page.addInitScript(() => {
-      window.__analyticsState = null;
-      new MutationObserver((records) => {
-        for (const record of records) {
-          for (const node of record.addedNodes) {
-            if (node.nodeName === 'SCRIPT' && node.src?.includes('/gtag/js')) {
-              window.__analyticsState = document.readyState;
-            }
-          }
-        }
-      }).observe(document, { childList: true, subtree: true });
+    const analyticsRequests = [];
+    page.on('request', (request) => {
+      if (/googletagmanager\.com|google-analytics\.com|\/gtag\/js/.test(request.url())) {
+        analyticsRequests.push(request.url());
+      }
     });
+
     await page.goto(url, { waitUntil: 'load' });
-    await expect.poll(() => page.evaluate(() => window.__analyticsState)).toBe('complete');
-    await expect(page.locator('script[src*="/gtag/js"]')).toHaveCount(1);
-    expect(await page.evaluate(() => window.dataLayer.length)).toBe(2);
+    await page.waitForTimeout(300);
+
+    expect(analyticsRequests).toEqual([]);
+    expect(await page.evaluate(() => typeof window.gtag)).toBe('undefined');
+    expect(await page.locator('script[src*="/gtag/js"], script[src*="googletagmanager"]').count()).toBe(0);
   });
 }
 

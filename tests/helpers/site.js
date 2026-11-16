@@ -1,6 +1,4 @@
 const EXTERNAL_NOISE_PATTERNS = [
-  'https://www.googletagmanager.com/**',
-  'https://www.google-analytics.com/**',
   'https://fonts.googleapis.com/**',
   'https://fonts.gstatic.com/**'
 ];

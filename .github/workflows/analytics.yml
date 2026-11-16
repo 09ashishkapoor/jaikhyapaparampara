@@ -1,0 +1,90 @@
+name: analytics
+
+# Nightly analytics ingestion for jaikhyapaparampara.com.
+#
+# Why a daily cron: Cloudflare Web Analytics retains roughly 30 days of RUM
+# data, so a long gap loses traffic history permanently. Search Console keeps
+# 16 months, but its last 7 days settle late, which is why the job re-pulls a
+# rolling window instead of just yesterday.
+#
+# Required repository secrets:
+#   GSC_SERVICE_ACCOUNT_JSON  service-account key JSON, added as a user on the
+#                             Search Console property (see ROADMAP.md Item 3)
+#   CF_API_TOKEN              Cloudflare token with Account Analytics: Read
+#   CF_ACCOUNT_ID             Cloudflare account id
+#   CF_RUM_SITE_TAG           32-char Web Analytics site tag (not the zone id)
+#   R2_ACCOUNT_ID             Cloudflare account id for the R2 bucket
+#   R2_BUCKET                 bucket that stores analytics/raw/*.jsonl
+#   R2_ACCESS_KEY_ID          R2 API token access key
+#   R2_SECRET_ACCESS_KEY      R2 API token secret
+# Optional:
+#   CF_PAGES_DEPLOY_HOOK_URL  Pages deploy hook, so /stats/ picks up fresh data
+# Optional repository variable:
+#   GSC_SITE_URL              defaults to sc-domain:jaikhyapaparampara.com
+
+on:
+  schedule:
+    # 05:17 UTC daily — off the hour so the run does not queue behind the
+    # thousands of jobs that Cron fires at :00.
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: analytics-pull
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    name: Pull Search Console + Cloudflare Web Analytics
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+
+      # The pipeline has no npm dependencies (Node core modules only), so there
+      # is nothing to install before running it.
+
+      # Run the pipeline self-tests before touching R2: a broken normaliser must
+      # fail here, not after half the objects have been overwritten.
+      - name: Run analytics pipeline tests
+        run: npm run test:analytics
+
+      - name: Pull and aggregate analytics into R2
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+          GSC_SITE_URL: ${{ vars.GSC_SITE_URL }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_RUM_SITE_TAG: ${{ secrets.CF_RUM_SITE_TAG }}
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+          R2_BUCKET: ${{ secrets.R2_BUCKET }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          ANALYTICS_DAYS: "7"
+          ANALYTICS_DASHBOARD_DAYS: "28"
+        run: npm run analytics:pull
+
+      # The dashboard is baked into /stats/ at build time (no signed URL is
+      # exposed to the browser), so ask Pages to rebuild after a successful
+      # pull. Without the hook, /stats/ refreshes on the next content deploy.
+      - name: Refresh /stats/
+        if: success()
+        env:
+          DEPLOY_HOOK: ${{ secrets.CF_PAGES_DEPLOY_HOOK_URL }}
+        run: |
+          if [ -z "$DEPLOY_HOOK" ]; then
+            echo "No CF_PAGES_DEPLOY_HOOK_URL secret; /stats/ will refresh on the next content deploy."
+            exit 0
+          fi
+          curl --fail --silent --show-error --request POST "$DEPLOY_HOOK" > /dev/null
+          echo "Requested a Cloudflare Pages build."

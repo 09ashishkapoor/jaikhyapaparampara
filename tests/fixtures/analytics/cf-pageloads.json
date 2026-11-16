@@ -1,0 +1,684 @@
+{
+  "data": {
+    "viewer": {
+      "accounts": [
+        {
+          "rumPageloadEventsAdaptiveGroups": [
+            {
+              "count": 40,
+              "sum": {
+                "visits": 30
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-08",
+                "requestPath": "/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 8,
+              "sum": {
+                "visits": 6
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-08",
+                "requestPath": "/articles/kali-mantra-guide/",
+                "refererHost": "google.com",
+                "countryName": "United States",
+                "deviceType": "desktop"
+              }
+            },
+            {
+              "count": 4,
+              "sum": {
+                "visits": 3
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-08",
+                "requestPath": "/articles/kali-mantra-guide/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 5,
+              "sum": {
+                "visits": 4
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-08",
+                "requestPath": "/articles/kalabhairava-mantra/",
+                "refererHost": "google.com",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 8,
+              "sum": {
+                "visits": 6
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-08",
+                "requestPath": "/articles/new-discourse/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 2,
+              "sum": {
+                "visits": 1
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-08",
+                "requestPath": "/articles/bama-khepa/",
+                "refererHost": "google.com",
+                "countryName": "India",
+                "deviceType": "desktop"
+              }
+            },
+            {
+              "count": 40,
+              "sum": {
+                "visits": 30
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-09",
+                "requestPath": "/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 8,
+              "sum": {
+                "visits": 6
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-09",
+                "requestPath": "/articles/kali-mantra-guide/",
+                "refererHost": "google.com",
+                "countryName": "United States",
+                "deviceType": "desktop"
+              }
+            },
+            {
+              "count": 4,
+              "sum": {
+                "visits": 3
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-09",
+                "requestPath": "/articles/kali-mantra-guide/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 5,
+              "sum": {
+                "visits": 4
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-09",
+                "requestPath": "/articles/kalabhairava-mantra/",
+                "refererHost": "google.com",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 8,
+              "sum": {
+                "visits": 6
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-09",
+                "requestPath": "/articles/new-discourse/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 2,
+              "sum": {
+                "visits": 1
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-09",
+                "requestPath": "/articles/bama-khepa/",
+                "refererHost": "google.com",
+                "countryName": "India",
+                "deviceType": "desktop"
+              }
+            },
+            {
+              "count": 40,
+              "sum": {
+                "visits": 30
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-10",
+                "requestPath": "/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 8,
+              "sum": {
+                "visits": 6
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-10",
+                "requestPath": "/articles/kali-mantra-guide/",
+                "refererHost": "google.com",
+                "countryName": "United States",
+                "deviceType": "desktop"
+              }
+            },
+            {
+              "count": 4,
+              "sum": {
+                "visits": 3
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-10",
+                "requestPath": "/articles/kali-mantra-guide/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 5,
+              "sum": {
+                "visits": 4
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-10",
+                "requestPath": "/articles/kalabhairava-mantra/",
+                "refererHost": "google.com",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 8,
+              "sum": {
+                "visits": 6
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-10",
+                "requestPath": "/articles/new-discourse/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 2,
+              "sum": {
+                "visits": 1
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-10",
+                "requestPath": "/articles/bama-khepa/",
+                "refererHost": "google.com",
+                "countryName": "India",
+                "deviceType": "desktop"
+              }
+            },
+            {
+              "count": 40,
+              "sum": {
+                "visits": 30
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-11",
+                "requestPath": "/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 8,
+              "sum": {
+                "visits": 6
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-11",
+                "requestPath": "/articles/kali-mantra-guide/",
+                "refererHost": "google.com",
+                "countryName": "United States",
+                "deviceType": "desktop"
+              }
+            },
+            {
+              "count": 4,
+              "sum": {
+                "visits": 3
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-11",
+                "requestPath": "/articles/kali-mantra-guide/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 5,
+              "sum": {
+                "visits": 4
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-11",
+                "requestPath": "/articles/kalabhairava-mantra/",
+                "refererHost": "google.com",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 8,
+              "sum": {
+                "visits": 6
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-11",
+                "requestPath": "/articles/new-discourse/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 2,
+              "sum": {
+                "visits": 1
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-11",
+                "requestPath": "/articles/bama-khepa/",
+                "refererHost": "google.com",
+                "countryName": "India",
+                "deviceType": "desktop"
+              }
+            },
+            {
+              "count": 40,
+              "sum": {
+                "visits": 30
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-12",
+                "requestPath": "/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 8,
+              "sum": {
+                "visits": 6
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-12",
+                "requestPath": "/articles/kali-mantra-guide/",
+                "refererHost": "google.com",
+                "countryName": "United States",
+                "deviceType": "desktop"
+              }
+            },
+            {
+              "count": 4,
+              "sum": {
+                "visits": 3
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-12",
+                "requestPath": "/articles/kali-mantra-guide/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 5,
+              "sum": {
+                "visits": 4
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-12",
+                "requestPath": "/articles/kalabhairava-mantra/",
+                "refererHost": "google.com",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 8,
+              "sum": {
+                "visits": 6
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-12",
+                "requestPath": "/articles/new-discourse/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 2,
+              "sum": {
+                "visits": 1
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-12",
+                "requestPath": "/articles/bama-khepa/",
+                "refererHost": "google.com",
+                "countryName": "India",
+                "deviceType": "desktop"
+              }
+            },
+            {
+              "count": 40,
+              "sum": {
+                "visits": 30
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-13",
+                "requestPath": "/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 8,
+              "sum": {
+                "visits": 6
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-13",
+                "requestPath": "/articles/kali-mantra-guide/",
+                "refererHost": "google.com",
+                "countryName": "United States",
+                "deviceType": "desktop"
+              }
+            },
+            {
+              "count": 4,
+              "sum": {
+                "visits": 3
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-13",
+                "requestPath": "/articles/kali-mantra-guide/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 5,
+              "sum": {
+                "visits": 4
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-13",
+                "requestPath": "/articles/kalabhairava-mantra/",
+                "refererHost": "google.com",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 8,
+              "sum": {
+                "visits": 6
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-13",
+                "requestPath": "/articles/new-discourse/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 2,
+              "sum": {
+                "visits": 1
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-13",
+                "requestPath": "/articles/bama-khepa/",
+                "refererHost": "google.com",
+                "countryName": "India",
+                "deviceType": "desktop"
+              }
+            },
+            {
+              "count": 40,
+              "sum": {
+                "visits": 30
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-14",
+                "requestPath": "/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 8,
+              "sum": {
+                "visits": 6
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-14",
+                "requestPath": "/articles/kali-mantra-guide/",
+                "refererHost": "google.com",
+                "countryName": "United States",
+                "deviceType": "desktop"
+              }
+            },
+            {
+              "count": 4,
+              "sum": {
+                "visits": 3
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-14",
+                "requestPath": "/articles/kali-mantra-guide/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 5,
+              "sum": {
+                "visits": 4
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-14",
+                "requestPath": "/articles/kalabhairava-mantra/",
+                "refererHost": "google.com",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 8,
+              "sum": {
+                "visits": 6
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-14",
+                "requestPath": "/articles/new-discourse/",
+                "refererHost": "",
+                "countryName": "India",
+                "deviceType": "mobile"
+              }
+            },
+            {
+              "count": 2,
+              "sum": {
+                "visits": 1
+              },
+              "avg": {
+                "sampleInterval": 1.5
+              },
+              "dimensions": {
+                "date": "2026-11-14",
+                "requestPath": "/articles/bama-khepa/",
+                "refererHost": "google.com",
+                "countryName": "India",
+                "deviceType": "desktop"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

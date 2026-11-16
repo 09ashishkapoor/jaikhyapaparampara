@@ -102,21 +102,8 @@ main a:where(:not([class]):not([style]):focus-visible){outline:2px solid var(--a
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=Philosopher:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=Philosopher:wght@400;700&display=swap" rel="stylesheet"></noscript>
     {% include "site-chrome.liquid" %}
-    <!-- Analytics is delayed until load so it does not compete with rendering. -->
-    <script>
-      window.addEventListener("load", () => {
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {
-          dataLayer.push(arguments);
-        }
-        gtag("js", new Date());
-        gtag("config", "G-KCVSN3F2DL");
-        const script = document.createElement("script");
-        script.async = true;
-        script.src = "https://www.googletagmanager.com/gtag/js?id=G-KCVSN3F2DL";
-        document.head.appendChild(script);
-      });
-    </script>
+    <!-- Analytics: Cloudflare Web Analytics is injected at the edge (cookieless,
+         no consent banner). Do not add a client-side analytics tag here. -->
 </head>
 <body>
     {% include "site-header.liquid" %}

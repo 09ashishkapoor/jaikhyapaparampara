@@ -77,7 +77,7 @@ npm run build
 npm start
 ```
 
-After cloning, the site builds and serves identically to production — no environment variables or secrets required.
+After cloning, the site builds and serves identically to production — no environment variables or secrets required. The private `/stats/` dashboard renders a setup page until analytics credentials are configured.
 
 ---
 
@@ -147,7 +147,10 @@ markdownfiles_forblog/        # Raw YouTube transcript staging area
 │   processed/                #   Converted transcripts (archive)
 │   redundant/                #   Duplicates / retired files
 docs/                         # How-to guides and editorial notes
-scripts/                      # Python build & audit helpers
+lib/analytics/                # Search Console, Cloudflare, SigV4/R2, dashboard aggregation
+scripts/                      # Build, audit, and analytics helpers (Node + Python)
+│   analytics-pull.js         #   Nightly pull → R2 raw JSONL + dashboard.json
+│   analytics-fetch.js        #   R2 dashboard → .analytics/ before the build
 .eleventy.js                  # Eleventy build config
 wrangler.toml                 # Cloudflare Pages config
 styles.css / styles.min.css   # Stylesheet (source + minified)
@@ -155,8 +158,11 @@ script.js  / script.min.js    # Frontend JS (source + minified)
 sitemap.liquid                # Sitemap template → sitemap.xml
 search-index.11ty.js          # Client-side search index (JS template)
 gallery.liquid                # Sacred image gallery (data: _data/galleryImages.js)
+stats.liquid                  # Private /stats/ analytics dashboard (noindex)
 _headers                      # Cloudflare HTTP response headers
 _redirects                    # Cloudflare URL redirects
+.github/workflows/            # Playwright validation + nightly analytics cron
+.analytics/                   # Local analytics cache (gitignored, never published)
 archive/                      # Retired plans and audits (never published)
 ROADMAP.md                    # Current plan (never published)
 ```
@@ -221,12 +227,14 @@ Contributions of any kind are welcome — corrections, new transcript conversion
 
 ## Deployment
 
-Cloudflare Pages auto-deploys on every push to `main`. The build output directory is `_site/` (configured in `wrangler.toml`). No extra secrets or environment variables are needed.
+Cloudflare Pages auto-deploys on every push to `main`. The build output directory is `_site/` (configured in `wrangler.toml`). No extra secrets or environment variables are needed to build.
 
 To deploy your own fork:
 1. Connect the repository to Cloudflare Pages.
 2. Set build command: `npm run build`
 3. Set output directory: `_site`
+
+The optional nightly analytics job needs its own secrets (listed in `.github/workflows/analytics.yml`). Without them the build is unchanged: `npm run analytics:fetch` is a no-op and `/stats/` renders setup instructions.
 
 ---
 
@@ -238,7 +246,7 @@ The homepage loads `/article-index.json` for article metadata without downloadin
 
 Sitemap `<lastmod>` uses each article's last git commit date. Cloudflare Pages builds from a shallow clone, so run `npm run sitemap:dates` after editing article content and commit `_data/articleLastmod.json` with those edits.
 
-The build emits `/404.html` so Cloudflare Pages returns a real 404 for missing URLs instead of its single-page-app homepage fallback. The internal search page and the 404 page intentionally use `noindex` and are excluded from the sitemap.
+The build emits `/404.html` so Cloudflare Pages returns a real 404 for missing URLs instead of its single-page-app homepage fallback. The internal search page, the 404 page, and the private `/stats/` dashboard intentionally use `noindex` and are excluded from the sitemap.
 
 After deploying indexing changes, use Search Console's live URL test on representative URLs and request indexing for important pages. Submit `https://jaikhyapaparampara.com/sitemap.xml` if it is not already submitted. An in-progress validation should be allowed to finish. A nonzero noindex count is expected for intentionally excluded pages; neither sitemap submission nor validation guarantees indexing.
 
@@ -251,6 +259,39 @@ Configure permanent hostname redirects in Cloudflare's Redirect Rules or Bulk Re
 | `www.jaikhepaparampara.com` | `jaikhyapaparampara.com` | 301 |
 
 Hostname redirects are configured outside this repository because Cloudflare Pages `_redirects` does not support domain-level redirects. Check Search Console Crawl Stats for host availability failures or crawl errors, and Cloudflare security events for blocked verified Googlebot traffic before changing bot protection.
+
+## Site analytics
+
+Traffic and SEO measurement is cookieless and carries no client-side tag:
+
+| Source | Role |
+|---|---|
+| **Google Search Console API** | Queries, pages, impressions, clicks, CTR, average position — the primary SEO input |
+| **Cloudflare Web Analytics** | Page loads, visits, referrers, country, device — injected at the edge, no cookies |
+
+Google Analytics was removed in favour of these two. `scripts/analytics-pull.js` runs nightly from `.github/workflows/analytics.yml`: it stores raw daily rows as JSONL in Cloudflare R2 (`analytics/raw/YYYY-MM-DD.jsonl`), re-pulling the last seven days every time, and aggregates them into `analytics/dashboard.json`. `npm run analytics:fetch` copies that dashboard to `.analytics/dashboard.json` before Eleventy runs, and `/stats/` renders it.
+
+Cloudflare injects its Web Analytics beacon at the edge, so no tag ships in the HTML. The CSP in `_headers` allows `https://static.cloudflareinsights.com`, and the beacon reports to same-origin `/cdn-cgi/rum`, covered by `connect-src 'self'`.
+
+The dashboard is `noindex`, excluded from the sitemap, and must be protected by Cloudflare Access (plus a `Disallow` in `robots.txt` as defence in depth). It is never linked from the public navigation.
+
+```bash
+npm run analytics:pull -- --dry-run     # show resolved sources and windows
+npm run analytics:fixtures              # offline demo from tests/fixtures/analytics
+npm run test:analytics                  # unit tests, no browser needed
+```
+
+Raw analytics never enters the repository (`.analytics/` is gitignored). Without R2 credentials the fetch step is a no-op, so a normal clone builds and serves identically to production.
+
+Setup, outside the repository:
+
+1. Enable the **Search Console API**, create a service account, and add its email as a user on the Search Console property.
+2. Create a Cloudflare API token with **Account Analytics: Read**, and note the account id.
+3. Enable **Web Analytics** for the zone and copy the 32-character site tag (not the zone id).
+4. Create an R2 bucket and an R2 API token, then add every secret listed at the top of `.github/workflows/analytics.yml`.
+5. Optionally add a Pages deploy hook as `CF_PAGES_DEPLOY_HOOK_URL` so `/stats/` refreshes after the nightly pull.
+
+---
 
 ## Asset Minification
 

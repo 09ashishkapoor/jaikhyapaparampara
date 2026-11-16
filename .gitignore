@@ -38,6 +38,9 @@ build/
 .cache/
 version.json
 /sitemap.xml
+# Local analytics cache: raw pulls and the dashboard JSON fetched from R2.
+# Never committed — traffic data stays out of the repository.
+.analytics/
 
 # ── Environment variables & secrets ───────────────────────────
 .env
@@ -166,6 +169,7 @@ kalabhairava_108names_onelinemeanings.md
 !.github/pull_request_template.md
 !.github/workflows/
 !.github/workflows/validation.yml
+!.github/workflows/analytics.yml
 
 # Validation artifacts
 playwright-report/

@@ -2,8 +2,9 @@
 
 Single source of truth for planned work on **jaikhyapaparampara.com**.
 
-**Last updated:** 2026-11-15 (Items 1, 2, and 10 implemented)
-**Status:** Items 1, 2, 10 done; Items 3–9 pending.
+**Last updated:** 2026-11-16 (Items 1, 2, 3, and 10 implemented)
+**Status:** Items 1, 2, and 10 done; Item 3 code shipped (live data needs the
+owner-side credentials and Access setup below); Items 4–9 pending.
 
 This document is written to be read cold. A new session (human or agent) with no
 memory of how it was produced should be able to start work from it directly.
@@ -41,9 +42,22 @@ article bodies as immutable unless the task says otherwise.
   each (topics with fewer articles emit all of them). Discovery links in both
   layouts, the homepage, `llms.txt`, and the footer. Feed tests live in
   `tests/smoke/feeds.spec.js`.
-- **Item 10 — `AGENTS.md`.** Repo-root operating rules, eight items. It was
-  gitignored under "Internal-only documentation"; that entry was removed so the
-  file can be committed. `/*.md` in `.eleventyignore` still keeps it unpublished.
+- **Item 3 — Analytics and SEO pipeline.** GA4 is gone from `index.html`,
+  `_includes/article.liquid`, and `_includes/base.liquid`, and both GA hosts are
+  out of the CSP in `_headers`. The replacement is Search Console + Cloudflare
+  Web Analytics: `scripts/analytics-pull.js` (over `lib/analytics/`) writes
+  daily raw JSONL and an aggregate `dashboard.json` to R2,
+  `.github/workflows/analytics.yml` runs it nightly, `npm run analytics:fetch`
+  copies the dashboard into `.analytics/`, and `stats.liquid` renders `/stats/`
+  with `noindex`, no sitemap entry, and `X-Robots-Tag` headers. Covered by
+  `tests/unit/analytics.test.js` and `tests/smoke/analytics.spec.js`. Live data
+  waits on the owner-side steps in [Item 3](#owner-steps-remaining-no-code).
+- **Item 10 — `AGENTS.md`.** Repo-root operating rules, now nine items (the OG
+  card rule, the image guardrails, the root-Markdown rule, the minify rule, the
+  build/verify rule, the taxonomy guard, sacred-text immutability, the roadmap
+  pointer, and the new `/stats/` privacy rule). It was gitignored under
+  "Internal-only documentation"; that entry was removed so the file can be
+  committed. `/*.md` in `.eleventyignore` still keeps it unpublished.
 - Defunct plans/reports moved from repo root to `archive/`.
 - `.eleventyignore` anchored with `/*.md` and `archive/` so root Markdown can
   never be published. This fixed a real leak — see [Already fixed](#44-already-fixed).
@@ -51,7 +65,7 @@ article bodies as immutable unless the task says otherwise.
 - `node_modules/` installed locally and `_site/` built to verify the changes.
   Both are gitignored build artifacts.
 
-**Verification for the shipped items (2026-11-15):**
+**Verification for the shipped items (2026-11-16):**
 
 - `npm run build:test` succeeds; `_site/images/og/` contains 1,205 JPEGs.
 - All 1,205 article pages emit an absolute `og:image` at
@@ -60,8 +74,26 @@ article bodies as immutable unless the task says otherwise.
 - All nine feeds parse as Atom 1.0, contain no unescaped `&`, use absolute
   canonical entry IDs, and topic feeds contain only their topic's articles.
 - `_site/AGENTS` and `_site/ROADMAP` do not exist; feeds are not in the sitemap.
+- No Google Analytics anywhere: all 3,523 built HTML files contain no
+  `googletagmanager`, `google-analytics`, `G-KCVSN3F2DL`, or `gtag(` reference.
+  The CSP lists neither host and does list the Cloudflare Web Analytics beacon
+  host (`static.cloudflareinsights.com`).
+- `/stats/` builds with `noindex, nofollow`, is absent from `sitemap.xml`, is
+  disallowed in `robots.txt`, is linked from no public page, and carries the
+  `X-Robots-Tag` / `Cache-Control: private` header block.
+- `npm run test:analytics` passes 11 tests, including the AWS SigV4
+  `get-vanilla` conformance vector, the live-sitemap fallback, and a full
+  fixture pull. A second fixture run writes zero raw objects (idempotent upsert).
+- Both the empty `/stats/` state (no `.analytics/dashboard.json`) and the demo
+  state (`npm run analytics:fixtures`, 469 page loads / 21 clicks / one orphan)
+  build and render.
+- 18 targeted Playwright tests pass: the analytics smoke tests, indexing, feeds,
+  and the three no-analytics-tag performance cases.
 
-**Next task:** Item 3 (analytics/SEO pipeline), Search Console half first.
+**Next task:** Item 4 (search-index payload). Item 3's remaining work is
+owner-side credential and Cloudflare Access setup, listed in
+[Item 3](#item-3--analytics-and-seo-pipeline-closes-d10); it needs no further
+code.
 
 ### 4. The one rule that matters most
 
@@ -73,16 +105,28 @@ this in place. Do not copy it. See [Image pipeline guardrails](#10-image-pipelin
 
 ### 5. Suggested next task
 
-Items 1, 2, and 10 are done. Next is **Item 3 (analytics and SEO pipeline)**;
-do the **Search Console** half first because it is independent of the analytics
-switch. Item 4 (search-index payload) is the next-largest visible win after that.
+Items 1, 2, 3, and 10 are done. Next is **Item 4 (search-index payload)** — the
+last visible defect (9.62 MB fetched whole on `/search/`) and a contained
+change. Item 8 is the largest remaining block (three image defects, one script);
+Item 7 is the largest page-weight win but touches every layout.
 
 ### 6. Build and verify
 
 ```bash
-npm ci                # only if node_modules is missing
-npm run build:test    # clean + eleventy, ~105 s, ~3,700 files
-npm run validate      # Playwright; needs `npx playwright install chromium`
+npm ci                    # only if node_modules is missing
+npm run build:test        # clean + eleventy, ~105 s, ~3,700 files
+npm run test:analytics    # analytics pipeline unit tests (Node, no browser)
+npm run validate          # Playwright; needs `npx playwright install chromium`
+```
+
+`build` and `build:test` now run `npm run analytics:fetch` first. With no R2
+credentials it prints one line and exits 0, so a plain clone builds unchanged.
+
+To preview `/stats/` with data but no API credentials:
+
+```powershell
+npm run analytics:fixtures   # writes .analytics/dashboard.json from tests/fixtures
+npm run build:test
 ```
 
 If `npm` is not on PATH, the harness Node install is at
@@ -271,7 +315,7 @@ untouched.
 | D7 | Lightbox caps at 1600 px for the largest works | `kali_0249` (5600 px) renders at 29% of native. 13 works are downscaled in the viewer. | Item 8 |
 | D8 | No shared stylesheet; ~20 KB inline per article page | 3 blocks / 20,299 bytes on a built article — over a third of the 55 KB page. Homepage carries 30.6 KB inline in 7 blocks *and* links an external sheet. Uncacheable across 1,230 pages. | Item 7 |
 | D9 | Google Fonts on the critical path | Crimson Text + Philosopher; 8 references, 2 distinct `css2` URLs; `_includes/article.liquid:292-294`, `_includes/base.liquid:98-101` | Item 5 |
-| D10 | GA4 on every page | `index.html`, `_includes/article.liquid` (loader at lines 21–32), `_includes/base.liquid` | Item 3 |
+| D10 | GA4 on every page | `index.html`, `_includes/article.liquid` (loader at lines 21–32), `_includes/base.liquid` | Item 3 (done) |
 
 ---
 
@@ -349,12 +393,22 @@ article's `page.url` with the `https://jaikhyapaparampara.com` prefix.
 
 ### Item 3 — Analytics and SEO pipeline (closes D10)
 
+**Status: code done (2026-11-16).** GA4 removed; Search Console + Cloudflare
+pull, nightly Actions job, R2 JSONL store, aggregate `dashboard.json`, and
+`/stats/` all shipped. What remains is owner-side setup (credentials, the
+Cloudflare Web Analytics switch, Access), listed under
+[Owner steps remaining](#owner-steps-remaining-no-code). The shipped layout is
+in [7.8](#78-implemented-pipeline-2026-11-16).
+
 **Why:** no way to measure traffic or SEO progress today except the GA4 UI, which
 is being removed.
 
-**Files:** `scripts/analytics-pull.js` (new, Node), `.github/workflows/analytics.yml`
-(new), `package.json`, `stats.liquid` (new), `_headers`, `sitemap.liquid`,
-`.eleventyignore`, `wrangler.toml` (only if a Worker cron is chosen instead of Actions).
+**Files (shipped):** `lib/analytics/` (new), `scripts/analytics-pull.js` (new),
+`scripts/analytics-fetch.js` (new), `.github/workflows/analytics.yml` (new),
+`tests/unit/analytics.test.js`, `tests/fixtures/analytics/`,
+`tests/smoke/analytics.spec.js`, `package.json`, `stats.liquid` (new),
+`_data/analyticsDashboard.js` (new), `_headers`, `robots.txt`, `sitemap.liquid`,
+`.gitignore`, `AGENTS.md`, `README.md`.
 
 **Steps**
 
@@ -390,8 +444,66 @@ hostname and is *not* covered by an Access application scoped to
 `/stats/*` → `X-Robots-Tag: noindex` in `_headers` and a `Disallow` in `robots.txt`
 as defence in depth.
 
-**Order of work:** do the **Search Console** half first — it is independent of
-the analytics switch and it is the half your SEO decisions depend on.
+#### Owner steps remaining (no code)
+
+1. **Search Console.** Enable the API in a Google Cloud project, create a service
+   account and a JSON key, then add the service-account email as a user on the
+   Search Console property (read access is enough). Set
+   `GSC_SERVICE_ACCOUNT_JSON` (the whole key JSON) and, unless the property is
+   `sc-domain:jaikhyapaparampara.com`, `GSC_SITE_URL`.
+2. **Cloudflare Web Analytics.** Enable it for the zone. Pages sits behind the
+   Cloudflare proxy, so automatic setup injects the beacon at the edge — there is
+   no tag to add. Copy the 32-character **site tag** into `CF_RUM_SITE_TAG`
+   (it is not the zone id). Create an API token with **Account Analytics: Read**
+   for `CF_API_TOKEN`, and set `CF_ACCOUNT_ID`. The CSP already allows
+   `https://static.cloudflareinsights.com`; automatic injection reports to
+   same-origin `/cdn-cgi/rum`, which `connect-src 'self'` covers.
+3. **R2.** Create a bucket (`R2_BUCKET`), an R2 API token
+   (`R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY`), and set `R2_ACCOUNT_ID`.
+4. **Run the job once by hand** (`workflow_dispatch`) and confirm
+   `analytics/raw/` gains seven objects and `analytics/dashboard.json` exists.
+5. **Access.** Create a Cloudflare Access application for
+   `jaikhyapaparampara.com/stats/*` (One-time PIN with an email allowlist is
+   enough). Repeat for the `*.pages.dev` preview hostname or disable preview
+   deployments — an Access app scoped to the custom domain does **not** cover the
+   preview domain.
+6. **Deploy hook (optional).** Add `CF_PAGES_DEPLOY_HOOK_URL` so a successful
+   nightly pull requests a Pages build; otherwise `/stats/` refreshes on the next
+   content push.
+7. **Final GA export.** Before deleting the GA4 property, export a 12-month
+   report and save it outside the repo. The tag is already gone, so no new
+   history is accumulating.
+
+#### Implementation notes (deliberate choices)
+
+- **No signed URL in the HTML.** The plan above sketched `/stats/` fetching
+  `dashboard.json` from R2 at runtime. Shipped instead:
+  `npm run analytics:fetch` copies `analytics/dashboard.json` into
+  `.analytics/dashboard.json` before Eleventy and the page renders server-side.
+  A signed URL in a static page either expires or has to be public; this keeps
+  traffic JSON behind the same Access policy as the page and ships no
+  client-side JS. Freshness comes from the deploy hook in step 6.
+- **One raw object per date** (`analytics/raw/YYYY-MM-DD.jsonl`), rows tagged
+  `source`/`dataset`. A re-pull replaces `(source, dataset, date)` groups — and
+  can clear a group that returns zero rows — so an API that drops a row cannot
+  leave stale data. Aggregation reads back the trailing 28 daily objects.
+- **CSP allows the Cloudflare beacon.** Removing the GA hosts is not enough:
+  automatic injection adds `static.cloudflareinsights.com/beacon.min.js` to every
+  HTML response, and without that `script-src` entry the beacon is silently
+  blocked and the dashboard stays empty. Beacon data POSTs to same-origin
+  `/cdn-cgi/rum`, already covered by `connect-src 'self'`. Do not add
+  `Cache-Control: … no-transform` to HTML — Cloudflare cannot inject the beacon
+  when the response forbids transformation.
+- **No new dependencies.** The service-account JWT (RS256), the Cloudflare
+  GraphQL call, and R2 SigV4 are ~500 lines of `crypto` + `fetch` under
+  `lib/analytics/`, so `npm ci` did not grow. SigV4 is verified against AWS's
+  published `get-vanilla` conformance vector.
+- **Lags.** The GSC window ends `today-2` (data settles after 2–3 days); the
+  Cloudflare window ends `today-1`. Both re-pull seven days nightly. R2 is not a
+  system of record, so the job must run daily; GSC can backfill 16 months with
+  `--days` / `--end` if a run is missed.
+- **`/stats/` is linked from nowhere** (not the footer, not `llms.txt`). It is a
+  private operational page.
 
 ### Item 4 — Search index payload (closes D4)
 
@@ -689,6 +801,57 @@ Pages-only, so this needs a second deploy config.
 - Traffic but no GSC impressions → non-Google referrers
 - In the sitemap with **neither** → orphaned articles, highest-value fix on a
   1,205-article archive
+
+### 7.8 Implemented pipeline (2026-11-16)
+
+```
+GitHub Actions cron 05:17 UTC (.github/workflows/analytics.yml)
+  ├─ npm run test:analytics        # fail before touching R2
+  └─ npm run analytics:pull        # scripts/analytics-pull.js
+       ├─ GSC API    → 7 days, daily grain, [date, query] + [date, page]
+       ├─ CF GraphQL → 7 days, daily grain, [date, path, referer, country, device]
+       ├─ upsert    → R2 analytics/raw/YYYY-MM-DD.jsonl
+       └─ read back 28 days → R2 analytics/dashboard.json
+  └─ POST CF_PAGES_DEPLOY_HOOK_URL (optional)
+       └─ Pages build → npm run analytics:fetch → .analytics/dashboard.json
+            └─ stats.liquid → /stats/ (Access, noindex, out of the sitemap)
+```
+
+| Piece | Path |
+|---|---|
+| GSC client (JWT, pagination) | `lib/analytics/gsc.js` |
+| Cloudflare GraphQL client | `lib/analytics/cloudflare.js` |
+| SigV4 signer + R2/file stores | `lib/analytics/sigv4.js`, `lib/analytics/store.js` |
+| JSONL upsert and sorting | `lib/analytics/jsonl.js` |
+| Dashboard aggregation | `lib/analytics/dashboard.js` |
+| Pull / fetch commands | `scripts/analytics-pull.js`, `scripts/analytics-fetch.js` |
+| Page and build data | `stats.liquid`, `_data/analyticsDashboard.js` |
+| Tests and fixtures | `tests/unit/analytics.test.js`, `tests/fixtures/analytics/`, `tests/smoke/analytics.spec.js` |
+
+Commands: `npm run analytics:pull` (network → R2), `-- --dry-run`,
+`-- --local`, `-- --fixtures <dir>`, `npm run analytics:fixtures`,
+`npm run analytics:fetch`, `npm run test:analytics`.
+
+Environment: `GSC_SERVICE_ACCOUNT_JSON` (or `GSC_SERVICE_ACCOUNT_FILE`),
+`GSC_SITE_URL`, `CF_API_TOKEN`, `CF_ACCOUNT_ID`, `CF_RUM_SITE_TAG`,
+`R2_ACCOUNT_ID`, `R2_BUCKET`, `R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY`;
+optional `R2_ENDPOINT`, `ANALYTICS_DAYS` (7), `ANALYTICS_DASHBOARD_DAYS` (28).
+
+Raw rows are flat JSONL, one object per line, tagged by `source`/`dataset` so a
+new dataset needs no schema migration:
+
+```json
+{"source":"gsc","dataset":"query","date":"2026-11-14","query":"kali mantra","clicks":2,"impressions":100,"ctr":0.02,"position":11.5}
+{"source":"gsc","dataset":"page","date":"2026-11-14","page":"https://jaikhyapaparampara.com/articles/x/","clicks":1,"impressions":50,"ctr":0.02,"position":8.2}
+{"source":"cf","dataset":"pageloads","date":"2026-11-14","path":"/articles/x/","refererHost":"google.com","country":"India","device":"mobile","pageLoads":8,"visits":6,"sampleInterval":1.5}
+```
+
+`dashboard.json` carries `schemaVersion: 1`, the window, totals, a daily series,
+top queries, joined top pages, the two gap lists from
+[7.7](#77-the-join-that-actually-pays-off), and an orphan count (sitemap URLs
+with neither a Google impression nor a page load). **`dashboard.json` is never
+public**: it is gitignored locally and served only through Access-protected
+`/stats/`.
 
 ---
 

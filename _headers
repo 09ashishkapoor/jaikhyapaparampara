@@ -3,7 +3,18 @@
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
   Referrer-Policy: strict-origin-when-cross-origin
-  Content-Security-Policy: script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com https://fonts.googleapis.com https://fonts.gstatic.com https://cdnjs.cloudflare.com; connect-src 'self' https://www.google-analytics.com https://www.googletagmanager.com https://radio.jaikhyapaparampara.com; media-src 'self' https://radio.jaikhyapaparampara.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://fonts.gstatic.com https://cdnjs.cloudflare.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com https://cdnjs.cloudflare.com; default-src 'self' https:;
+  Content-Security-Policy: script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com https://fonts.googleapis.com https://fonts.gstatic.com https://cdnjs.cloudflare.com; connect-src 'self' https://radio.jaikhyapaparampara.com; media-src 'self' https://radio.jaikhyapaparampara.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://fonts.gstatic.com https://cdnjs.cloudflare.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com https://cdnjs.cloudflare.com; default-src 'self' https:;
+
+# /stats/ is a private analytics dashboard. Cloudflare Access is the real access
+# control; noindex and no-store are defence in depth so a leaked path never
+# ends up in a search index or a shared cache.
+/stats/
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: private, no-store
+
+/stats/*
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: private, no-store
 
 /feed.xml
   Content-Type: application/atom+xml; charset=utf-8

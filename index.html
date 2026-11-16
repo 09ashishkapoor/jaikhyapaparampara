@@ -1,5 +1,4 @@
 <!doctype html>
-<!-- GA tracking enabled and deployed -->
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -39,21 +38,8 @@
     <meta name="revisit-after" content="7 days" />
     <meta name="distribution" content="global" />
 
-    <!-- Delay analytics until the page loads so it does not compete with mobile rendering. -->
-    <script>
-      window.addEventListener("load", () => {
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {
-          dataLayer.push(arguments);
-        }
-        gtag("js", new Date());
-        gtag("config", "G-KCVSN3F2DL");
-        const script = document.createElement("script");
-        script.async = true;
-        script.src = "https://www.googletagmanager.com/gtag/js?id=G-KCVSN3F2DL";
-        document.head.appendChild(script);
-      });
-    </script>
+    <!-- Analytics: Cloudflare Web Analytics is injected at the edge (cookieless,
+         no consent banner). Do not add a client-side analytics tag here. -->
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />

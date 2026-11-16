@@ -1,0 +1,204 @@
+---
+layout: base
+title: "Site analytics"
+description: "Private traffic and Search Console dashboard for jaikhyapaparampara.com."
+metaDescription: "Private analytics dashboard: Search Console performance, Cloudflare page loads, and content gaps. Not indexed."
+permalink: /stats/
+robotsMeta: "noindex, nofollow"
+eleventyExcludeFromCollections: true
+---
+{%- assign stats = analyticsDashboard -%}
+<style>
+.stats-shell{padding:3rem 20px 4rem;max-width:1200px;margin:0 auto;}
+.stats-header{padding:2rem;border-radius:24px;border:1px solid var(--border-gold);background:linear-gradient(145deg,rgba(45,15,24,.6) 0%,rgba(18,7,10,.96) 100%);box-shadow:0 22px 48px rgba(0,0,0,.22);margin-bottom:1.5rem;}
+.stats-eyebrow{font-family:'Philosopher',sans-serif;font-size:.8rem;letter-spacing:.16em;text-transform:uppercase;color:var(--accent-color);opacity:.85;margin-bottom:.6rem;}
+.stats-title{font-family:'Philosopher',sans-serif;color:var(--accent-bright);font-size:clamp(2rem,3.4vw,2.7rem);line-height:1.15;margin-bottom:.6rem;}
+.stats-copy{max-width:860px;color:var(--text-dark);opacity:.9;}
+.stats-copy code,.stats-empty code{font-size:.92em;background:rgba(232,196,104,.1);border:1px solid var(--border-gold);border-radius:6px;padding:.05rem .35rem;}
+.stats-demo{margin-top:1rem;padding:.7rem 1rem;border-radius:10px;border:1px solid #d97706;background:rgba(217,119,6,.14);color:#fbbf24;font-weight:700;letter-spacing:.04em;}
+.stats-meta{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:.9rem 1.6rem;padding:1.2rem 1.4rem;border:1px solid var(--border-gold);border-radius:16px;background:rgba(31,11,17,.55);margin-bottom:1.6rem;}
+.stats-meta div{display:flex;flex-direction:column;gap:.15rem;}
+.stats-meta dt{font-family:'Philosopher',sans-serif;font-size:.76rem;letter-spacing:.12em;text-transform:uppercase;color:var(--accent-color);opacity:.8;}
+.stats-meta dd{margin:0;color:var(--text-dark);font-size:.98rem;}
+.stats-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:.9rem;margin-bottom:2rem;}
+.stats-card{padding:1rem 1.1rem;border:1px solid var(--border-gold);border-radius:14px;background:linear-gradient(160deg,rgba(45,15,24,.55),rgba(13,5,6,.75));}
+.stats-card-label{display:block;font-family:'Philosopher',sans-serif;font-size:.74rem;letter-spacing:.12em;text-transform:uppercase;color:var(--accent-color);opacity:.85;margin-bottom:.3rem;}
+.stats-card-value{display:block;font-family:'Philosopher',sans-serif;font-size:1.75rem;line-height:1.1;color:var(--accent-bright);}
+.stats-card-note{display:block;font-size:.8rem;color:var(--text-dark);opacity:.65;margin-top:.2rem;}
+.stats-section{margin-bottom:2.2rem;}
+.stats-section h2{font-family:'Philosopher',sans-serif;color:var(--accent-bright);font-size:1.35rem;margin-bottom:.35rem;}
+.stats-hint{color:var(--text-dark);opacity:.75;font-size:.92rem;margin-bottom:.8rem;max-width:900px;}
+.stats-table-wrap{overflow-x:auto;border:1px solid var(--border-gold);border-radius:14px;background:rgba(13,5,6,.35);}
+.stats-table{width:100%;border-collapse:collapse;font-size:.92rem;min-width:560px;}
+.stats-table caption{text-align:left;padding:.85rem 1rem .35rem;font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:.88rem;letter-spacing:.06em;text-transform:uppercase;}
+.stats-table th,.stats-table td{padding:.6rem 1rem;text-align:left;border-bottom:1px solid rgba(232,196,104,.14);vertical-align:top;}
+.stats-table th{font-family:'Philosopher',sans-serif;font-size:.76rem;letter-spacing:.1em;text-transform:uppercase;color:var(--accent-color);opacity:.85;white-space:nowrap;}
+.stats-table td.n{white-space:nowrap;font-variant-numeric:tabular-nums;}
+.stats-table tbody tr:last-child td{border-bottom:0;}
+.stats-table tbody tr:hover{background:rgba(232,196,104,.05);}
+.stats-table a{color:var(--accent-color);text-decoration:none;border-bottom:1px solid var(--border-gold);}
+.stats-table a:hover{color:var(--accent-bright);}
+.stats-path{word-break:break-word;}
+.stats-two-col{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:1.4rem;}
+.stats-list{margin:0;padding:0 0 0 1.1rem;color:var(--text-dark);}
+.stats-list li{margin-bottom:.35rem;}
+.stats-list code{font-size:.88em;}
+.stats-empty{padding:2rem;border:1px solid var(--border-gold);border-radius:20px;background:rgba(31,11,17,.6);}
+.stats-empty h2{font-family:'Philosopher',sans-serif;color:var(--accent-bright);margin-bottom:.6rem;}
+.stats-empty p,.stats-empty li{color:var(--text-dark);opacity:.9;margin-bottom:.5rem;}
+.stats-empty ol{margin:.4rem 0 1rem 1.2rem;}
+.stats-foot{font-size:.84rem;color:var(--text-dark);opacity:.66;border-top:1px solid var(--border-gold);padding-top:1rem;}
+@media(max-width:640px){
+.stats-shell{padding:2rem 14px 3rem;}
+.stats-header{padding:1.4rem;}
+.stats-card-value{font-size:1.5rem;}
+}
+</style>
+
+<div class="stats-shell">
+  <header class="stats-header">
+    <p class="stats-eyebrow">Private dashboard &middot; not indexed</p>
+    <h1 class="stats-title">Site analytics</h1>
+    <p class="stats-copy">Search Console performance and Cloudflare Web Analytics for <code>jaikhyapaparampara.com</code>. Both sources are aggregate and cookieless: this pipeline never stores a visitor, a session, or an IP address.</p>
+    {%- if stats and stats.demo %}
+    <p class="stats-demo">DEMO DATA — generated from test fixtures, not live traffic.</p>
+    {%- endif %}
+  </header>
+
+{%- if stats %}
+  <dl class="stats-meta">
+    <div><dt>Window</dt><dd>{{ stats.window.start }} &rarr; {{ stats.window.end }} ({{ stats.window.days }} days)</dd></div>
+    <div><dt>Generated</dt><dd>{{ stats.generatedAt | date: "%Y-%m-%d %H:%M UTC" }}</dd></div>
+    <div><dt>Search Console</dt><dd>{{ stats.sources.gsc.days }} day(s) with data{% if stats.sources.gsc.latestDate %} &middot; latest {{ stats.sources.gsc.latestDate }}{% endif %}</dd></div>
+    <div><dt>Cloudflare</dt><dd>{{ stats.sources.cf.days }} day(s) with data{% if stats.sources.cf.latestDate %} &middot; latest {{ stats.sources.cf.latestDate }}{% endif %}</dd></div>
+  </dl>
+
+  <div class="stats-cards">
+    <div class="stats-card"><span class="stats-card-label">Clicks</span><span class="stats-card-value">{{ stats.totals.clicks }}</span><span class="stats-card-note">Search Console</span></div>
+    <div class="stats-card"><span class="stats-card-label">Impressions</span><span class="stats-card-value">{{ stats.totals.impressions }}</span><span class="stats-card-note">Search Console</span></div>
+    <div class="stats-card"><span class="stats-card-label">CTR</span><span class="stats-card-value">{{ stats.totals.ctr | times: 100 | round: 2 }}%</span><span class="stats-card-note">Clicks &divide; impressions</span></div>
+    <div class="stats-card"><span class="stats-card-label">Avg position</span><span class="stats-card-value">{{ stats.totals.position }}</span><span class="stats-card-note">Impression-weighted</span></div>
+    <div class="stats-card"><span class="stats-card-label">Page loads</span><span class="stats-card-value">{{ stats.totals.pageLoads }}</span><span class="stats-card-note">Cloudflare, bots excluded</span></div>
+    <div class="stats-card"><span class="stats-card-label">Visits</span><span class="stats-card-value">{{ stats.totals.visits }}</span><span class="stats-card-note">Cloudflare</span></div>
+  </div>
+
+  <section class="stats-section" aria-labelledby="stats-queries">
+    <h2 id="stats-queries">Top search queries</h2>
+    <p class="stats-hint">What Google showed and to whom. A query with impressions but no clicks means the result snippet is losing the click.</p>
+    <div class="stats-table-wrap">
+      <table class="stats-table">
+        <caption>Search Console &middot; {{ stats.window.days }}-day window</caption>
+        <thead><tr><th scope="col">Query</th><th scope="col">Clicks</th><th scope="col">Impressions</th><th scope="col">CTR</th><th scope="col">Avg position</th></tr></thead>
+        <tbody>
+        {%- for row in stats.topQueries %}
+          <tr><td>{{ row.query }}</td><td class="n">{{ row.clicks }}</td><td class="n">{{ row.impressions }}</td><td class="n">{{ row.ctr | times: 100 | round: 1 }}%</td><td class="n">{{ row.position }}</td></tr>
+        {%- else %}
+          <tr><td colspan="5">No query data in this window yet.</td></tr>
+        {%- endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="stats-section" aria-labelledby="stats-pages">
+    <h2 id="stats-pages">Top pages</h2>
+    <p class="stats-hint">Search Console landing pages joined with Cloudflare page loads on the path. A page with page loads but no impressions is being reached through non-Google referrers or direct links.</p>
+    <div class="stats-table-wrap">
+      <table class="stats-table">
+        <caption>Search Console + Cloudflare &middot; joined on path</caption>
+        <thead><tr><th scope="col">Page</th><th scope="col">Clicks</th><th scope="col">Impressions</th><th scope="col">CTR</th><th scope="col">Avg position</th><th scope="col">Page loads</th><th scope="col">Visits</th></tr></thead>
+        <tbody>
+        {%- for row in stats.topPages %}
+          <tr>
+            <td class="stats-path"><a href="{{ row.path }}">{{ row.path }}</a></td>
+            <td class="n">{{ row.clicks }}</td>
+            <td class="n">{{ row.impressions }}</td>
+            <td class="n">{% if row.impressions > 0 %}{{ row.ctr | times: 100 | round: 1 }}%{% else %}&mdash;{% endif %}</td>
+            <td class="n">{% if row.impressions > 0 %}{{ row.position }}{% else %}&mdash;{% endif %}</td>
+            <td class="n">{{ row.pageLoads }}</td>
+            <td class="n">{{ row.visits }}</td>
+          </tr>
+        {%- else %}
+          <tr><td colspan="7">No page data in this window yet.</td></tr>
+        {%- endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="stats-section" aria-labelledby="stats-daily">
+    <h2 id="stats-daily">Daily trend</h2>
+    <p class="stats-hint">Newest first. Search Console settles after two to three days, so the last rows move as the nightly job re-pulls them.</p>
+    <div class="stats-table-wrap">
+      <table class="stats-table">
+        <caption>Daily totals</caption>
+        <thead><tr><th scope="col">Date</th><th scope="col">Clicks</th><th scope="col">Impressions</th><th scope="col">Page loads</th><th scope="col">Visits</th></tr></thead>
+        <tbody>
+        {%- for day in stats.daily reversed %}
+          <tr><td>{{ day.date }}</td><td class="n">{{ day.clicks }}</td><td class="n">{{ day.impressions }}</td><td class="n">{{ day.pageLoads }}</td><td class="n">{{ day.visits }}</td></tr>
+        {%- endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="stats-section" aria-labelledby="stats-gaps">
+    <h2 id="stats-gaps">Content gaps</h2>
+    <p class="stats-hint">The two joins that pay off on a {{ stats.coverage.sitemapUrls }}-URL archive.</p>
+    <div class="stats-two-col">
+      <div class="stats-table-wrap">
+        <table class="stats-table">
+          <caption>Impressions, no clicks</caption>
+          <thead><tr><th scope="col">Page</th><th scope="col">Impressions</th><th scope="col">Position</th></tr></thead>
+          <tbody>
+          {%- for row in stats.gaps.impressionsNoClicks %}
+            <tr><td class="stats-path"><a href="{{ row.path }}">{{ row.path }}</a></td><td class="n">{{ row.impressions }}</td><td class="n">{{ row.position }}</td></tr>
+          {%- else %}
+            <tr><td colspan="3">None in this window.</td></tr>
+          {%- endfor %}
+          </tbody>
+        </table>
+      </div>
+      <div class="stats-table-wrap">
+        <table class="stats-table">
+          <caption>Traffic, no impressions</caption>
+          <thead><tr><th scope="col">Page</th><th scope="col">Page loads</th><th scope="col">Visits</th></tr></thead>
+          <tbody>
+          {%- for row in stats.gaps.trafficNoImpressions %}
+            <tr><td class="stats-path"><a href="{{ row.path }}">{{ row.path }}</a></td><td class="n">{{ row.pageLoads }}</td><td class="n">{{ row.visits }}</td></tr>
+          {%- else %}
+            <tr><td colspan="3">None in this window.</td></tr>
+          {%- endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section class="stats-section" aria-labelledby="stats-orphans">
+    <h2 id="stats-orphans">Orphaned URLs</h2>
+    <p class="stats-hint"><strong>{{ stats.coverage.orphans.count }}</strong> of {{ stats.coverage.sitemapUrls }} sitemap URLs had neither a Google impression nor a page load in this window. Those are the highest-value pages to rewrite, internally link, or retire.{% if stats.coverage.orphans.examples.size %} Examples:{% endif %}</p>
+    {%- if stats.coverage.orphans.examples.size %}
+    <ul class="stats-list">
+      {%- for path in stats.coverage.orphans.examples %}
+      <li><a href="{{ path }}"><code>{{ path }}</code></a></li>
+      {%- endfor %}
+    </ul>
+    {%- endif %}
+  </section>
+
+  <p class="stats-foot">Built nightly by <code>.github/workflows/analytics.yml</code> from <code>scripts/analytics-pull.js</code>. Raw daily rows are stored in R2; the aggregate dashboard is fetched at build time. This page is excluded from the sitemap, marked <code>noindex</code>, and only reachable through Cloudflare Access.</p>
+
+{%- else %}
+  <section class="stats-empty">
+    <h2>No dashboard data yet</h2>
+    <p>The pipeline is installed but has not produced a dashboard for this build. This is expected on a fresh clone and on every build where R2 credentials are absent.</p>
+    <ol>
+      <li>Enable the <strong>Search Console API</strong> in a Google Cloud project, create a service account, and add its email as a user on the Search Console property.</li>
+      <li>Add the secrets <code>GSC_SERVICE_ACCOUNT_JSON</code>, <code>CF_API_TOKEN</code>, <code>CF_ACCOUNT_ID</code>, <code>CF_RUM_SITE_TAG</code>, <code>R2_ACCOUNT_ID</code>, <code>R2_BUCKET</code>, <code>R2_ACCESS_KEY_ID</code>, and <code>R2_SECRET_ACCESS_KEY</code>.</li>
+      <li>Run <code>npm run analytics:pull</code> once, then let the nightly workflow keep it current.</li>
+    </ol>
+    <p>To preview this page with demo data, run <code>npm run analytics:fixtures</code> and rebuild. The demo dashboard is labelled as such above.</p>
+  </section>
+{%- endif %}
+</div>

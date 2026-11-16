@@ -6,8 +6,8 @@
     "prepare": "husky",
     "clean": "node -e \"require('fs').rmSync('_site', { recursive: true, force: true, maxRetries: 10, retryDelay: 200 })\"",
     "sync-readme-count": "node scripts/update_readme_article_count.js || python scripts/update_readme_article_count.py || python3 scripts/update_readme_article_count.py",
-    "build": "npm run clean && npm run sync-readme-count && eleventy && node scripts/update_build.js _site/index.html",
-    "build:test": "npm run clean && eleventy",
+    "build": "npm run clean && npm run sync-readme-count && npm run analytics:fetch && eleventy && node scripts/update_build.js _site/index.html",
+    "build:test": "npm run clean && npm run analytics:fetch && eleventy",
     "serve": "npm run clean && npm run sync-readme-count && eleventy --serve",
     "start": "npm run clean && npm run sync-readme-count && eleventy --serve",
     "update-build": "node scripts/update_build.js",
@@ -21,7 +21,11 @@
     "validate:update-snapshots": "playwright test tests/visual --update-snapshots",
     "sitemap:dates": "node scripts/build_lastmod.js",
     "og": "node scripts/generate-og.js",
-    "og:check": "node scripts/generate-og.js --check"
+    "og:check": "node scripts/generate-og.js --check",
+    "analytics:pull": "node scripts/analytics-pull.js",
+    "analytics:fetch": "node scripts/analytics-fetch.js",
+    "analytics:fixtures": "node scripts/analytics-pull.js --fixtures tests/fixtures/analytics --store-dir .analytics/fixture-store --dashboard-days 7 --quiet",
+    "test:analytics": "node --test tests/unit/analytics.test.js"
   },
   "keywords": [
     "spiritual",

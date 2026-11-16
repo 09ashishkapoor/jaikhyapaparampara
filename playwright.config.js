@@ -6,7 +6,7 @@ const desktopViewport = { width: 1440, height: 960 };
 
 module.exports = defineConfig({
   testDir: './tests',
-  testIgnore: ['**/helpers/**'],
+  testIgnore: ['**/helpers/**', '**/unit/**'],
   timeout: 30_000,
   expect: {
     timeout: 5_000
