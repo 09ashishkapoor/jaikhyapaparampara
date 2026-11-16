@@ -2,11 +2,11 @@
 
 Single source of truth for planned work on **jaikhyapaparampara.com**.
 
-**Last updated:** 2026-11-16 (Item 8 shipped — WebP caching, intrinsic image
-dimensions, 2048 px lightbox derivatives. Items 1, 2, 3, 4, 5, 8, and 10 are
-implemented; Item 4 was revised after owner feedback so full-text search stays,
-with the text index off the critical path; owner analytics setup recorded as
-deferred pending actions)
+**Last updated:** 2026-11-16 (Item 8 shipped and deployed — WebP caching,
+intrinsic image dimensions, 2048 px lightbox derivatives. Items 1, 2, 3, 4, 5, 8,
+and 10 are implemented; Item 4 was revised after owner feedback so full-text
+search stays, with the text index off the critical path; owner analytics setup
+recorded as deferred pending actions)
 **Status:** Items 1, 2, 4, 5, 8, and 10 done; Item 3 code shipped; Items 6, 7, and
 9 pending. The remaining Item 3 work is owner-side setup, deferred until the code
 items are done — see [13. Pending owner actions](#13-pending-owner-actions-deferred).
@@ -218,8 +218,17 @@ article bodies as immutable unless the task says otherwise.
   a width constraint has no height declaration; the same page now renders
   250×420.9, matching the file's 948:1596 ratio.
 - `_site/_headers` carries `/*.webp → Cache-Control: public, max-age=31536000,
-  immutable`. The edge behaviour is only observable after a deploy, so the live
-  check belongs with the next production release.
+  immutable`.
+- **Deployed to production 2026-11-16** (`main` at `7f428f4`, build-version
+  `1.261116.0458`). Verified on `https://jaikhyapaparampara.com`:
+  `/images/gallery/responsive/kali_0249-2048.webp` returns 200 `image/webp` with
+  `Cache-Control: public, max-age=31536000, immutable`, and the master
+  `kali_0249.webp` now carries the same header (it was `max-age=300` before) — so
+  the WebP rule is applied as written, not floored like the CSS rules; `/gallery/`
+  at the edge already serves `data-full="…kali_0249-2048.webp"` across all 44
+  tiles; a real Chromium load of `/gallery/#image-kali-0249` renders 2048×1665 from
+  the derivative while "View original" still points at the 5600 px master; the
+  float article renders 250×420.9 with `width="948" height="1596"`.
 - `npm run test:unit` passes 20 tests (11 analytics + 9 new image-attribute
   cases); `npm run validate` passes 41 tests, including the eight new image smoke
   tests and the unchanged visual baselines.
@@ -276,6 +285,13 @@ npm run build:test
 If `npm` is not on PATH, the harness Node install is at
 `C:\Users\kalbhairav\.dsh\dsh-runtimes\dsh-primary-runtime\dependencies\node\bin`
 (add it to `PATH`).
+
+**GitHub Actions `validation` is red before any test runs.** The
+`Install Chromium and system dependencies` step fails on `ubuntu-latest`, so the
+Playwright job and the `Run unit tests` step are both skipped. This predates
+Item 8 — the same step failed for `5fde696` and `fec9533` — and the `link-check`
+job passes. Treat local `npm run validate` as the real gate until that step is
+fixed (or moved after the unit tests, which need no browser).
 
 Verification is by reading `_site/`, not by trusting the build log. Example checks
 used in this session:
