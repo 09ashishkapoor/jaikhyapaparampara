@@ -219,8 +219,22 @@ Cause: any root-level `.md` not listed in `.eleventyignore` is built as a page.
 Fix: moved to `archive/`, and `.eleventyignore` now anchors `/*.md` plus
 `archive/`.
 
-**Verified:** a full build (3,713 files) contains none of these paths. Still to
-confirm after the next deploy: the live URLs return 404.
+**Verified live (2026-11-15):** after deploying commit `adb4ac5`, six of the seven
+leaked paths return **404**. One path — `/ACTION-PLAN/` — was still serving a stale
+200 from Cloudflare's edge cache. See the operational note below.
+
+> **Operational note: deleting a page does not purge its edge cache entry.**
+> A Pages deploy invalidates assets that changed; a *deleted* path has no new
+> asset to invalidate, so any cached copy survives until its TTL expires. The
+> stale `/ACTION-PLAN/` response carried `Cache-Control: public, s-maxage=604800`
+> — a **7-day** TTL — and was populated during the deploy window by a health check
+> polling the URL every 20 s (so the old deployment's 200 got cached).
+> Symptoms: `Age:` header present and incrementing, `?cb=123` on the same URL
+> returns the correct 404, lowercase or no-trailing-slash variants 404.
+> **Fix:** Cloudflare dashboard → Caching → Configuration → *Purge by URL* for the
+> exact URL. A zone-wide purge also works but is unnecessary.
+> **Lesson for future removals:** never poll a URL that you are about to delete
+> during the deploy window, and purge removed paths explicitly afterwards.
 
 **Dead `.codex` references removed.** Eight `npm run humanize:*` scripts pointed at
 `.codex/skills/humanize-articles/`, a directory that does not exist in the repo —
