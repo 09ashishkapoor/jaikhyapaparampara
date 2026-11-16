@@ -72,7 +72,8 @@ jobs:
           R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           ANALYTICS_DAYS: "7"
           ANALYTICS_DASHBOARD_DAYS: "28"
-        run: npm run analytics:pull
+        # --quiet keeps traffic totals out of the public repository's logs.
+        run: npm run analytics:pull -- --quiet
 
       # The dashboard is baked into /stats/ at build time (no signed URL is
       # exposed to the browser), so ask Pages to rebuild after a successful

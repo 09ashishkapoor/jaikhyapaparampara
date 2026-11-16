@@ -49,14 +49,16 @@ changes and the constraints below.
    settled decisions, and do not copy image-optimisation recipes that resize
    sources in place.
 
-9. **`/stats/` is private and there is no third-party analytics tag.** The
-   dashboard renders traffic data, is `noindex`, excluded from `sitemap.liquid`,
-   and protected by Cloudflare Access. Never link it from navigation, the
-   footer, or `llms.txt`; never put traffic JSON on a public path; never commit
-   an `.analytics/` file. Measurement is Cloudflare Web Analytics (edge-injected,
-   cookieless) plus the Search Console API — do not re-add Google Analytics or
-   any other client-side tracker. Run `npm run test:analytics` after touching
-   `lib/analytics/` or `scripts/analytics-*.js`.
+9. **Traffic data is private; there is no third-party analytics tag.** The
+   working surface is the weekly report in the private repository
+   `09ashishkapoor/jaikhyapaparampara-analytics`. Never commit report data,
+   traffic JSON, or an `.analytics/` file here, and never put traffic data on a
+   public path. `/stats/` is an empty, `noindex`, unlinked page: do not link it
+   and do not give it data. Measurement is Cloudflare Web Analytics
+   (edge-injected, cookieless) plus the Search Console API — do not re-add
+   Google Analytics or any other client-side tracker. Run
+   `npm run test:analytics` after touching `lib/analytics/` or
+   `scripts/analytics-*.js`.
 
 10. **Fonts are self-hosted; never re-add a Google Fonts reference.** `fonts/`
     holds the Crimson Text + Philosopher woff2 subsets and the generated

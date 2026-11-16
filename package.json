@@ -29,8 +29,9 @@
     "analytics:pull": "node scripts/analytics-pull.js",
     "analytics:fetch": "node scripts/analytics-fetch.js",
     "analytics:fixtures": "node scripts/analytics-pull.js --fixtures tests/fixtures/analytics --store-dir .analytics/fixture-store --dashboard-days 7 --quiet",
-    "test:analytics": "node --test tests/unit/analytics.test.js",
-    "test:unit": "node --test tests/unit/analytics.test.js tests/unit/image-attributes.test.js"
+    "analytics:report": "node scripts/analytics-report.js",
+    "test:analytics": "node --test tests/unit/analytics.test.js tests/unit/analytics-report.test.js",
+    "test:unit": "node --test tests/unit/analytics.test.js tests/unit/analytics-report.test.js tests/unit/image-attributes.test.js"
   },
   "keywords": [
     "spiritual",

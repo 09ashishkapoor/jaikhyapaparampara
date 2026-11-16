@@ -1,0 +1,97 @@
+name: analytics-report
+
+# Weekly SEO report pushed to a private repository.
+#
+# This repository is public, so the report itself must never be printed here:
+# the script runs quiet and writes only to REPORTS_REPO. The deploy key is
+# scoped to that one repository and can be revoked from its settings.
+#
+# Required repository secrets: the same eight as analytics.yml, plus
+#   REPORTS_DEPLOY_KEY  private half of a write-enabled deploy key on REPORTS_REPO
+# Required repository variable:
+#   REPORTS_REPO        e.g. 09ashishkapoor/jaikhyapaparampara-analytics
+
+on:
+  schedule:
+    # Monday 06:10 UTC. Search Console settles two days behind, so this reads
+    # a complete week; running it nightly would only add noise.
+    - cron: "10 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: analytics-report
+  cancel-in-progress: false
+
+jobs:
+  report:
+    name: Build and push the weekly SEO report
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+
+      - name: Run analytics pipeline tests
+        run: npm run test:analytics
+
+      # Re-pull before reporting so a failed nightly run cannot leave the
+      # report reading stale rows. The pull is idempotent.
+      - name: Pull the last seven days
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+          GSC_SITE_URL: ${{ vars.GSC_SITE_URL }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_RUM_SITE_TAG: ${{ secrets.CF_RUM_SITE_TAG }}
+          R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+          R2_BUCKET: ${{ secrets.R2_BUCKET }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          ANALYTICS_DAYS: "7"
+        run: npm run analytics:pull -- --quiet
+
+      - name: Stop when no reports repository is configured
+        if: ${{ vars.REPORTS_REPO == '' }}
+        run: echo "REPORTS_REPO is not set — skipping the report push."
+
+      - name: Check out the reports repository
+        if: ${{ vars.REPORTS_REPO != '' }}
+        env:
+          REPORTS_DEPLOY_KEY: ${{ secrets.REPORTS_DEPLOY_KEY }}
+          REPORTS_REPO: ${{ vars.REPORTS_REPO }}
+        run: |
+          set -euo pipefail
+          install -d -m 700 "$HOME/.ssh"
+          printf '%s\n' "$REPORTS_DEPLOY_KEY" > "$HOME/.ssh/reports_key"
+          chmod 600 "$HOME/.ssh/reports_key"
+          GIT_SSH_COMMAND="ssh -i $HOME/.ssh/reports_key -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new" \
+            git clone "git@github.com:${REPORTS_REPO}.git" "$RUNNER_TEMP/reports"
+
+      - name: Build the report
+        if: ${{ vars.REPORTS_REPO != '' }}
+        run: npm run analytics:report -- --reports-dir "$RUNNER_TEMP/reports" --quiet
+
+      - name: Commit and push
+        if: ${{ vars.REPORTS_REPO != '' }}
+        run: |
+          set -euo pipefail
+          cd "$RUNNER_TEMP/reports"
+          git config user.name "analytics-bot"
+          git config user.email "analytics-bot@users.noreply.github.com"
+          git add reports
+          if git diff --cached --quiet; then
+            echo "No report changes."
+            exit 0
+          fi
+          git commit -m "report: $(date -u +%F)"
+          GIT_SSH_COMMAND="ssh -i $HOME/.ssh/reports_key -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new" \
+            git push origin HEAD:main

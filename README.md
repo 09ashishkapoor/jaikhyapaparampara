@@ -152,6 +152,7 @@ lib/articleIndex.js           # Metadata + full-text index builders for the sear
 scripts/                      # Build, audit, and analytics helpers (Node + Python)
 │   analytics-pull.js         #   Nightly pull → R2 raw JSONL + dashboard.json
 │   analytics-fetch.js        #   R2 dashboard → .analytics/ before the build
+│   analytics-report.js       #   Weekly SEO report → private reports repository
 .eleventy.js                  # Eleventy build config
 wrangler.toml                 # Cloudflare Pages config
 styles.css / styles.min.css   # Stylesheet (source + minified)
@@ -275,11 +276,12 @@ Google Analytics was removed in favour of these two. `scripts/analytics-pull.js`
 
 Cloudflare injects its Web Analytics beacon at the edge, so no tag ships in the HTML. The CSP in `_headers` allows `https://static.cloudflareinsights.com`, and the beacon reports to same-origin `/cdn-cgi/rum`, covered by `connect-src 'self'`.
 
-The dashboard is `noindex`, excluded from the sitemap, and must be protected by Cloudflare Access (plus a `Disallow` in `robots.txt` as defence in depth). It is never linked from the public navigation.
+The working surface is the **weekly report**, not a dashboard: `scripts/analytics-report.js` computes a one-screen digest and a machine-readable action queue from the same raw rows and pushes them to the private repository `09ashishkapoor/jaikhyapaparampara-analytics` every Monday (`.github/workflows/analytics-report.yml`). The decision record, thresholds and the LLM action loop are in [ANALYTICS-DASHBOARD.md](ANALYTICS-DASHBOARD.md). `/stats/` remains an empty, `noindex`, unlinked page and is deliberately not given data.
 
 ```bash
 npm run analytics:pull -- --dry-run     # show resolved sources and windows
 npm run analytics:fixtures              # offline demo from tests/fixtures/analytics
+npm run analytics:report                # build this week's report from R2
 npm run test:analytics                  # unit tests, no browser needed
 ```
 
