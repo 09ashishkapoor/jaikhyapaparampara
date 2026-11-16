@@ -22,12 +22,15 @@
     "sitemap:dates": "node scripts/build_lastmod.js",
     "og": "node scripts/generate-og.js",
     "og:check": "node scripts/generate-og.js --check",
+    "images": "node scripts/optimize-images.js",
+    "images:check": "node scripts/optimize-images.js --check",
     "fonts:fetch": "node scripts/fetch-fonts.js",
     "fonts:check": "node scripts/fetch-fonts.js --check",
     "analytics:pull": "node scripts/analytics-pull.js",
     "analytics:fetch": "node scripts/analytics-fetch.js",
     "analytics:fixtures": "node scripts/analytics-pull.js --fixtures tests/fixtures/analytics --store-dir .analytics/fixture-store --dashboard-days 7 --quiet",
-    "test:analytics": "node --test tests/unit/analytics.test.js"
+    "test:analytics": "node --test tests/unit/analytics.test.js",
+    "test:unit": "node --test tests/unit/analytics.test.js tests/unit/image-attributes.test.js"
   },
   "keywords": [
     "spiritual",

@@ -7,6 +7,7 @@ module.exports = (eleventyConfig) => {
 		categoryTopicSlug,
 		categoryLabel,
 	} = require("./lib/taxonomy.js");
+	const { addImageDimensions } = require("./lib/imageAttributes.js");
 
 	function syncReadmeArticleCount() {
 		try {
@@ -105,6 +106,14 @@ module.exports = (eleventyConfig) => {
 			.replace(/"/g, "&quot;")
 			.replace(/</g, "&lt;")
 			.replace(/>/g, "&gt;");
+	});
+
+	// Item 8 (D6): add intrinsic width/height to local <img> tags from the size
+	// manifest, keeping the article sources untouched. Images that are missing
+	// from the manifest are left exactly as written.
+	eleventyConfig.addTransform("image-dimensions", (content, outputPath) => {
+		if (!outputPath || !outputPath.endsWith(".html")) return content;
+		return addImageDimensions(content);
 	});
 
 	eleventyConfig.addFilter("categoryLabel", categoryLabel);

@@ -8,6 +8,20 @@
 {% assign tileSrc = image.original %}
 {% assign tileSrcset = "" %}
 {% endif %}
+{% comment %}
+  The lightbox loads `viewer` when the work declares one (the largest width at or
+  below min(2048, native)), the largest responsive variant when it is at least
+  1200 px wide, and the untouched master otherwise. data-bytes lets the lightbox
+  skip preloading a neighbour whose full image is heavy.
+{% endcomment %}
+{% if image.viewer %}
+{% assign fullSrc = image.viewer %}
+{% elsif maxVariant >= 1200 %}
+{% assign fullSrc = "/images/gallery/responsive/" | append: image.file | append: "-" | append: maxVariant | append: ".webp" %}
+{% else %}
+{% assign fullSrc = image.original %}
+{% endif %}
+{% assign fullSize = imageSizes[fullSrc] %}
 <figure class="gallery-item{% if image.featured %} gallery-item-featured{% endif %}">
   <button
     type="button"
@@ -15,7 +29,8 @@
     aria-labelledby="cap-{{ image.file | slugify }}"
     aria-haspopup="dialog"
     data-slug="{{ image.file | slugify }}"
-    data-full="{% if maxVariant >= 1200 %}/images/gallery/responsive/{{ image.file }}-{{ maxVariant }}.webp{% else %}{{ image.original }}{% endif %}"
+    data-full="{{ fullSrc }}"
+    data-bytes="{{ fullSize.bytes | default: 0 }}"
     data-original="{{ image.original }}"
   >
     <img

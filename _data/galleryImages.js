@@ -8,6 +8,7 @@ module.exports = [
 		width: 1212,
 		height: 1600,
 		variants: [400, 800, 1200],
+		viewer: "/images/gallery/responsive/Jai_Ma_Adya_Mahakali-1212.webp",
 		featured: 1,
 	},
 	{
@@ -19,6 +20,7 @@ module.exports = [
 		width: 1896,
 		height: 2532,
 		variants: [400, 800, 1200, 1600],
+		viewer: "/images/gallery/responsive/Jai_Ma_ShmashanaKalika-1896.webp",
 		featured: 2,
 	},
 	{
@@ -30,6 +32,7 @@ module.exports = [
 		width: 2880,
 		height: 4060,
 		variants: [400, 800, 1200, 1600],
+		viewer: "/images/gallery/responsive/bhairava_0344-2048.webp",
 	},
 	{
 		file: "bhairava_2199",
@@ -150,6 +153,7 @@ module.exports = [
 		width: 2160,
 		height: 2908,
 		variants: [400, 800, 1200, 1600],
+		viewer: "/images/gallery/responsive/kali_0113-2048.webp",
 	},
 	{
 		file: "kali_0152",
@@ -180,6 +184,7 @@ module.exports = [
 		width: 5600,
 		height: 4552,
 		variants: [400, 800, 1200, 1600],
+		viewer: "/images/gallery/responsive/kali_0249-2048.webp",
 	},
 	{
 		file: "kali_0258",
@@ -220,6 +225,7 @@ module.exports = [
 		width: 2000,
 		height: 2650,
 		variants: [400, 800, 1200, 1600],
+		viewer: "/images/gallery/responsive/kalika_0122-2000.webp",
 	},
 	{
 		file: "Ma_Tara_ParamGurubabaBamakhepa_0126",
@@ -230,6 +236,7 @@ module.exports = [
 		width: 2224,
 		height: 1776,
 		variants: [400, 800, 1200, 1600],
+		viewer: "/images/gallery/responsive/Ma_Tara_ParamGurubabaBamakhepa_0126-2048.webp",
 	},
 	{
 		file: "kalika_0335",
@@ -250,6 +257,7 @@ module.exports = [
 		width: 4500,
 		height: 6000,
 		variants: [400, 800, 1200, 1600],
+		viewer: "/images/gallery/responsive/shmashana_kali_0144-2048.webp",
 	},
 	{
 		file: "shmashana_kali_0270",
@@ -260,6 +268,7 @@ module.exports = [
 		width: 1472,
 		height: 1478,
 		variants: [400, 800, 1200],
+		viewer: "/images/gallery/responsive/shmashana_kali_0270-1472.webp",
 	},
 	{
 		file: "adya_kali_0061",
@@ -310,6 +319,7 @@ module.exports = [
 		width: 1280,
 		height: 1414,
 		variants: [400, 800, 1200],
+		viewer: "/images/gallery/responsive/adya_mahakali_0154-1280.webp",
 	},
 	{
 		file: "Batukbhairava_1712",
@@ -320,6 +330,7 @@ module.exports = [
 		width: 1800,
 		height: 1281,
 		variants: [400, 800, 1200, 1600],
+		viewer: "/images/gallery/responsive/Batukbhairava_1712-1800.webp",
 	},
 	{
 		file: "batuk_bhairava_0009",
@@ -430,6 +441,7 @@ module.exports = [
 		width: 3024,
 		height: 4032,
 		variants: [400, 800, 1200, 1600],
+		viewer: "/images/gallery/responsive/kalika_1061-2048.webp",
 	},
 	{
 		file: "kali_1542",
@@ -440,5 +452,6 @@ module.exports = [
 		width: 3000,
 		height: 4000,
 		variants: [400, 800, 1200, 1600],
+		viewer: "/images/gallery/responsive/kali_1542-2048.webp",
 	},
 ];

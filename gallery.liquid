@@ -582,6 +582,7 @@ permalink: /gallery/
       return {
         slug: tile.dataset.slug,
         full: tile.dataset.full,
+        bytes: Number(tile.dataset.bytes) || 0,
         original: tile.dataset.original,
         caption: subtitle ? `${title} — ${subtitle}` : title,
       };
@@ -589,14 +590,36 @@ permalink: /gallery/
 
     if (!items.length) return;
 
+    // A 2048 px derivative can weigh 1.7 MB. Preloading both neighbours used to
+    // mean up to ~5 MB of speculative traffic competing with the image the reader
+    // actually opened, so preloads now wait for that image to settle, skip heavy
+    // files, and are dropped entirely on a metered or slow connection.
+    const PRELOAD_MAX_BYTES = 600 * 1024;
+    const connection = navigator.connection || {};
+    const saveData =
+      connection.saveData === true ||
+      /^(?:slow-)?2g$|^3g$/.test(connection.effectiveType || "");
+
     let index = 0;
+    let preloadTimer = 0;
     const preloaded = new Set();
 
     const preload = (position) => {
       const item = items[(position + items.length) % items.length];
       if (!item || preloaded.has(item.full)) return;
+      if (item.bytes > PRELOAD_MAX_BYTES) return;
       preloaded.add(item.full);
       new Image().src = item.full;
+    };
+
+    const schedulePreloads = () => {
+      clearTimeout(preloadTimer);
+      if (saveData) return;
+      preloadTimer = setTimeout(() => {
+        if (!lightbox.open) return;
+        preload(index + 1);
+        preload(index - 1);
+      }, 600);
     };
 
     const render = (position) => {
@@ -612,8 +635,7 @@ permalink: /gallery/
         `View original image: ${item.caption}`,
       );
       history.replaceState(null, "", `#image-${item.slug}`);
-      preload(index + 1);
-      preload(index - 1);
+      schedulePreloads();
     };
 
     const open = (position) => {
@@ -636,7 +658,10 @@ permalink: /gallery/
     lightbox.addEventListener("click", (event) => {
       if (event.target === lightbox) lightbox.close();
     });
-    lightbox.addEventListener("close", clearHash);
+    lightbox.addEventListener("close", () => {
+      clearTimeout(preloadTimer);
+      clearHash();
+    });
     lightbox.addEventListener("keydown", (event) => {
       if (event.key === "ArrowRight") {
         event.preventDefault();

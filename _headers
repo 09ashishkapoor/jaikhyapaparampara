@@ -45,6 +45,13 @@
 /*.png
   Cache-Control: public, max-age=31536000, immutable
 
+# WebP is the bulk of the image payload (gallery masters, responsive variants and
+# article images). Without this rule 146 of 160 files fell back to the 5-minute
+# default. The responsive URLs are width-versioned (<file>-<width>.webp), so a
+# re-encode at a different quality needs a new filename or a cache purge.
+/*.webp
+  Cache-Control: public, max-age=31536000, immutable
+
 # Self-hosted fonts are content-versioned in their filenames
 # (crimson-text-v19-*, philosopher-v21-*), so an update is a new URL and these
 # can be immutable. The rule below asks for revalidation on fonts.css; the

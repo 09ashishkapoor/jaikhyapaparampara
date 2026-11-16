@@ -61,3 +61,13 @@ changes and the constraints below.
     either by hand, and keep the preload hints in `_includes/font-head.liquid`
     pointing at files that exist (`npm run fonts:check` verifies both). The CSP in
     `_headers` no longer allows `fonts.googleapis.com` or `fonts.gstatic.com`.
+
+11. **After adding or changing an image, run `npm run images` and commit what it
+    changes.** The build reads `_data/cache/images-cache.json` to put intrinsic
+    `width`/`height` on every local `<img>`; an image that is not in that manifest
+    ships without dimensions. The same command encodes the gallery lightbox
+    derivatives declared as `viewer` in `_data/galleryImages.js`, always at
+    `min(2048, native width)` — never an upscale — and refuses to write outside
+    `images/gallery/responsive/`. `npm run images:check` lists missing or stale
+    entries. Do not add dimensions by hand to `articles/`; the build transform in
+    `lib/imageAttributes.js` owns them.

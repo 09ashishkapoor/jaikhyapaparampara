@@ -2,12 +2,14 @@
 
 Single source of truth for planned work on **jaikhyapaparampara.com**.
 
-**Last updated:** 2026-11-16 (Items 1, 2, 3, 4, 5, and 10 implemented; Item 4 was
-revised after owner feedback so full-text search stays, with the text index off
-the critical path; owner analytics setup recorded as deferred pending actions)
-**Status:** Items 1, 2, 4, 5, and 10 done; Item 3 code shipped; Items 6–9 pending.
-The remaining Item 3 work is owner-side setup, deferred until the code items are
-done — see [13. Pending owner actions](#13-pending-owner-actions-deferred).
+**Last updated:** 2026-11-16 (Item 8 shipped — WebP caching, intrinsic image
+dimensions, 2048 px lightbox derivatives. Items 1, 2, 3, 4, 5, 8, and 10 are
+implemented; Item 4 was revised after owner feedback so full-text search stays,
+with the text index off the critical path; owner analytics setup recorded as
+deferred pending actions)
+**Status:** Items 1, 2, 4, 5, 8, and 10 done; Item 3 code shipped; Items 6, 7, and
+9 pending. The remaining Item 3 work is owner-side setup, deferred until the code
+items are done — see [13. Pending owner actions](#13-pending-owner-actions-deferred).
 
 This document is written to be read cold. A new session (human or agent) with no
 memory of how it was produced should be able to start work from it directly.
@@ -76,6 +78,17 @@ article bodies as immutable unless the task says otherwise.
   `_headers` no longer lists `fonts.googleapis.com` or `fonts.gstatic.com`, and
   `/fonts/*.woff2` is cached immutably. OFL licences ship alongside the files.
   Covered by `tests/smoke/fonts.spec.js` and `npm run fonts:check`.
+- **Item 8 — Image pipeline.** `_headers` now caches `/*.webp` for a year (146 of
+  160 image files used to fall back to the 5-minute default). 187 of 188 built
+  `<img>` tags carry intrinsic `width`/`height` — up from 5 of 127 in `articles/`
+  — injected at build time by `lib/imageAttributes.js` from the committed manifest
+  in `_data/cache/images-cache.json`; article sources are untouched.
+  `npm run images` (`scripts/optimize-images.js`) encodes the 13 gallery lightbox
+  derivatives declared as `viewer`, at `min(2048, native width)`: 7 get a 2048 px
+  variant, 6 get a native-width one, none is upscaled. `_includes/gallery-tile.liquid`
+  emits `data-full`/`data-bytes`, and `gallery.liquid` preloads neighbours only
+  under 600 KB and only after the opened image has settled. Covered by
+  `tests/smoke/images.spec.js` and `tests/unit/image-attributes.test.js`.
 - **Item 10 — `AGENTS.md`.** Repo-root operating rules, now ten items (the OG
   card rule, the image guardrails, the root-Markdown rule, the minify rule, the
   build/verify rule, the taxonomy guard, sacred-text immutability, the roadmap
@@ -147,9 +160,9 @@ article bodies as immutable unless the task says otherwise.
   `jaikhyapaparampara.pages.dev` honours `max-age=0`. This predates Item 5 (the
   `/styles.css` / `/styles.min.css` rules behaved the same way) and is harmless
   here: the woff2 URLs are versioned, so at worst a font update reaches returning
-  visitors five minutes late. **Item 8 should expect the same 300 s floor for any
-  rule that tries to *lower* caching** — rules that raise it (`/*.jpg`, `/*.png`,
-  `/fonts/*.woff2`) are applied as written.
+  visitors five minutes late. **Item 8 hit the same 300 s floor for any rule that
+  tries to *lower* caching**; its `/*.webp` rule raises it, so it is applied as
+  written — like the existing `/*.jpg`, `/*.png` and `/fonts/*.woff2` rules.
 - In Chromium, an article page and the homepage request only same-origin
   `/fonts/*.woff2` files — seven of them on an IAST-heavy article (Latin +
   Latin-Extended, normal/italic/600/700) — and load Crimson Text and Philosopher.
@@ -172,10 +185,50 @@ article bodies as immutable unless the task says otherwise.
   `/fonts/*.woff2` and reports Crimson Text + Philosopher as `loaded`; the old
   `/.agents/skills/transcript-context/SKILL/` path now returns 404.
 
-**Next task:** Item 8 (image pipeline: D1, D6, D7). Item 6 is a cheap warm-up if a
-short session is preferred; Item 7 is the largest page-weight win. Item 3 needs
-no further code; its owner-side setup is deferred to the end and tracked in
-[13. Pending owner actions](#13-pending-owner-actions-deferred).
+**Verification for Item 8 (2026-11-16):**
+
+- `npm run images` succeeded on the first run (13 derivatives, 7.5 MB total) and
+  the second run logged `viewers: all 13 current` — the cache makes it a no-op.
+  `npm run images:check` reports `13 declared, 0 problem(s)` and `manifest: 187
+  files`. `_data/cache/images-cache.json` is committed, like `og-cache.json`.
+- Gallery masters are untouched: `git status` shows no modification under
+  `images/gallery/` — only the 13 new files in `images/gallery/responsive/`.
+  Every source dimension in `_data/galleryImages.js` matches the file on disk.
+- Derived widths: 7 works at 2048 px (`bhairava_0344`, `kali_0113`, `kali_0249`,
+  `kali_1542`, `kalika_1061`, `Ma_Tara_…_0126`, `shmashana_kali_0144`), 6 at native
+  width (`Jai_Ma_Adya_Mahakali` 1212, `Jai_Ma_ShmashanaKalika` 1896,
+  `Batukbhairava_1712` 1800, `kalika_0122` 2000, `shmashana_kali_0270` 1472,
+  `adya_mahakali_0154` 1280). Encoded at WebP quality 80, which reproduces the
+  existing variants to within ~10% of their bytes.
+- `_site/gallery/index.html` has 44 tiles: 13 point `data-full` at a `viewer`
+  derivative and 31 still point at the untouched master (the works whose largest
+  variant was already under 1200 px — deliberately unchanged). Every `data-full`
+  and `data-original` returns 200 with an `image/*` content type.
+- In Chromium, `/gallery/#image-kali-0249` renders a 2048 px image from
+  `/images/gallery/responsive/kali_0249-2048.webp`, and "View original" still
+  points at the 5600 px master. Opening `#image-kalika-1061` (1.68 MB) starts no
+  request for its 0.88 MB neighbour.
+- Intrinsic dimensions: 3,522 built HTML files hold 188 `<img>` tags, of which 187
+  now carry `width` and `height`; the exception is the lightbox placeholder
+  (`<img id="lightbox-img" alt="" decoding="async" />`), which has no source until
+  a tile is opened. Before Item 8, 122 of 127 article images had neither.
+- The 108 `kalabhairava-name-*` floats had `style="width:100%;max-width:250px"` and
+  no height declaration. Adding the attribute pair alone would have stretched them
+  to 250×1596 (verified in Chromium), so the transform appends `height:auto` when
+  a width constraint has no height declaration; the same page now renders
+  250×420.9, matching the file's 948:1596 ratio.
+- `_site/_headers` carries `/*.webp → Cache-Control: public, max-age=31536000,
+  immutable`. The edge behaviour is only observable after a deploy, so the live
+  check belongs with the next production release.
+- `npm run test:unit` passes 20 tests (11 analytics + 9 new image-attribute
+  cases); `npm run validate` passes 41 tests, including the eight new image smoke
+  tests and the unchanged visual baselines.
+
+**Next task:** Item 7 (shared stylesheet — the largest page-weight win; every
+article page still ships ~20 KB of inline CSS). Item 6 (colophon + changelog) is
+the cheap warm-up if a short session is preferred; Item 9 is optional polish.
+Item 3 needs no further code; its owner-side setup is deferred to the end and
+tracked in [13. Pending owner actions](#13-pending-owner-actions-deferred).
 
 ### 4. The one rule that matters most
 
@@ -187,12 +240,17 @@ this in place. Do not copy it. See [Image pipeline guardrails](#10-image-pipelin
 
 ### 5. Suggested next task
 
-Items 1, 2, 4, 5, and 10 are done, and Item 3's code is shipped — its owner-side
+Items 1, 2, 4, 5, 8, and 10 are done, and Item 3's code is shipped — its owner-side
 setup is deferred to the end ([§13](#13-pending-owner-actions-deferred)). Next is
-**Item 8 (image pipeline)** — three separate image defects (WebP caching, missing
-`width`/`height`, the 1600 px lightbox cap) closed by one script, and the last
-item that fixes live defects. Item 6 is the cheap warm-up if a short session is
-preferred; Item 7 is the largest page-weight win but touches every layout.
+**Item 7 (shared stylesheet)** — the largest remaining page-weight win, and the
+last item that touches every layout. Item 6 is the cheap warm-up if a short
+session is preferred; Item 9 is optional polish.
+
+Two handoffs for Item 7: fold `/fonts/fonts.css` into the shared stylesheet (Item
+5 left it as a separate 852 B request), and consider replacing the build
+transform's per-tag `height:auto` with one shared `img[width][height] { height:
+auto }` rule, which would let `lib/imageAttributes.js` stop rewriting `style`
+attributes.
 
 ### 6. Build and verify
 
@@ -200,7 +258,8 @@ preferred; Item 7 is the largest page-weight win but touches every layout.
 npm ci                    # only if node_modules is missing
 npm run build:test        # clean + eleventy, ~105 s, ~3,700 files
 npm run fonts:check       # offline: CSS + every preload points at a real file
-npm run test:analytics    # analytics pipeline unit tests (Node, no browser)
+npm run images:check      # offline: lightbox derivatives + size manifest current
+npm run test:unit         # Node unit tests: analytics pipeline + image attributes
 npm run validate          # Playwright; needs `npx playwright install chromium`
 ```
 
@@ -289,6 +348,8 @@ Each of these was analysed and decided. Reopening them wastes a session.
 | **No R2 for images** | Pages bandwidth is free/unmetered. The blog post that prompted this was solving a *Netlify egress bill* that does not exist here. R2 would also break `og:image` and the gallery `image[]` JSON-LD, both of which hardcode the main domain. |
 | **Keep all gallery originals at native size** | They are user-facing (lightbox "View original") and in structured data. 5.6 MB worst case is 22% of the 25 MiB per-file limit and costs nothing to serve. |
 | **Lightbox should use a 2048 px derivative, not the original** | Measured encode cost 0.57–1.86 MB vs a 5.5 MB original. Improves the 13 works currently capped at 1600 px without hurting the archive. |
+| **The lightbox derivative is `min(2048, native width)`, never an upscale** | Owner decision 2026-11-16. 7 works reach 2048 px; the 6 masters narrower than 2048 px get a native-width derivative instead of invented pixels. |
+| **Article images get `width`/`height` from a build transform, not from edits to `articles/`** | Owner decision 2026-11-16. Keeps the sacred-text sources untouched, covers every page including future articles, and needs no build-time `sharp`. |
 | **OG cards are generated 1200×630 text cards, not artwork** | Gallery art is portrait (ratio 0.68–0.75); platforms crop to 1.91:1 and cut the image. Text cards solve shape and resolution at once. |
 | **Fonts are self-hosted and subset, not replaced with system fonts** | The sacred-art aesthetic depends on Crimson Text + Philosopher. The borrowing is "no third-party font origin", not "no webfonts". |
 | **Analytics: Cloudflare Web Analytics + Search Console API** | Aligns with the site's own "no tracking" positioning. GSC is primary for SEO; CF is traffic/performance. |
@@ -401,13 +462,13 @@ now in `.eleventyignore`, and `_site/.agents` no longer exists.
 
 | # | Defect | Evidence | Fixed by |
 |---|---|---|---|
-| D1 | WebP cached 5 minutes, not 1 year | Live header `max-age=300, must-revalidate`. `_headers` covers only `/*.jpg` and `/*.png` (`_headers:23-27`), so 146 of 160 files miss it. | Item 8 |
+| D1 | WebP cached 5 minutes, not 1 year | Live header `max-age=300, must-revalidate`. `_headers` covered only `/*.jpg` and `/*.png` (`_headers:23-27`), so 146 of 160 files missed it. | Item 8 (done) |
 | D2 | Social preview broken on ~1,193 articles | 0 articles set `ogImage`; 12 set `featuredImage`. Fallback `Bama_Khepa.webp` is 505×748 (ratio 0.68) — under the 1200 px spec and center-cropped to a band. | Item 1 |
 | D3 | Two divergent OG paths | `_includes/article.liquid:48` reads `featuredImage` and prepends `/`; `_includes/base.liquid:22,37` reads `ogImage` and prepends nothing. An `ogImage` without a leading slash yields `https://jaikhyapaparampara.comimages/…` | Item 1 |
 | D4 | Search index ships full text | `_site/search-index.json` was **9.62 MB** of article bodies fetched before anything rendered. Now text-only at 9.44 MB, fetched after the first results; the metadata index is 736 KB. | Item 4 (mitigated) |
 | D5 | No feeds at all | Zero RSS/Atom endpoints | Item 2 |
-| D6 | 122 of 127 article `<img>` tags have no `width`/`height` | CLS risk; gallery tiles already do it correctly (`gallery-tile.liquid:25-26`) | Item 8 |
-| D7 | Lightbox caps at 1600 px for the largest works | `kali_0249` (5600 px) renders at 29% of native. 13 works are downscaled in the viewer. | Item 8 |
+| D6 | 122 of 127 article `<img>` tags had no `width`/`height` | CLS risk; gallery tiles already do it correctly (`gallery-tile.liquid:25-26`). 187 of 188 built `<img>` tags now carry both. | Item 8 (done) |
+| D7 | Lightbox caps at 1600 px for the largest works | `kali_0249` (5600 px) rendered at 29% of native. 13 works were downscaled in the viewer; none is now. | Item 8 (done) |
 | D8 | No shared stylesheet; ~20 KB inline per article page | 3 blocks / 20,299 bytes on a built article — over a third of the 55 KB page. Homepage carries 30.6 KB inline in 7 blocks *and* links an external sheet. Uncacheable across 1,230 pages. | Item 7 |
 | D9 | Google Fonts on the critical path | Crimson Text + Philosopher; 8 references, 2 distinct `css2` URLs; `_includes/article.liquid:292-294`, `_includes/base.liquid:98-101` | Item 5 (done) |
 | D10 | GA4 on every page | `index.html`, `_includes/article.liquid` (loader at lines 21–32), `_includes/base.liquid` | Item 3 (done) |
@@ -735,29 +796,78 @@ loads one shared stylesheet that is cached across navigation.
 
 ### Item 8 — Image pipeline (closes D1, D6, D7)
 
+**Status: done (2026-11-16).** One script (`npm run images`) now owns both the
+gallery lightbox derivatives and the size manifest the build reads.
+
 **Why:** three separate image defects, one script.
 
-**Files:** new `scripts/optimize-images.js` (or `.py`), `_headers`,
-`_includes/gallery-tile.liquid`, `gallery.liquid`, `_data/galleryImages.js`.
+**Files (shipped):** `scripts/optimize-images.js` (new), `lib/imageAttributes.js`
+(new), `_data/imageSizes.js` (new), `_data/cache/images-cache.json` (new,
+committed), `images/gallery/responsive/` (13 new derivatives, 7.5 MB),
+`_data/galleryImages.js`, `_includes/gallery-tile.liquid`, `gallery.liquid`,
+`_headers`, `.eleventy.js`, `package.json`, `.github/workflows/validation.yml`,
+`tests/unit/image-attributes.test.js` (new), `tests/smoke/images.spec.js` (new),
+`AGENTS.md`.
 
-**Steps**
+**Steps shipped**
 
-1. **D1** — extend `_headers` to cover WebP derivatives.
-2. **D6** — emit intrinsic `width`/`height` for article images.
-3. **D7** — generate a 2048 px variant for the 13 large works and point
-   `data-full` at it. Keep `data-original` untouched.
+1. **D1** — `_headers` gains `/*.webp → public, max-age=31536000, immutable`,
+   next to the existing `/*.jpg` and `/*.png` rules.
+2. **D6** — `eleventyConfig.addTransform("image-dimensions")` in `.eleventy.js`
+   rewrites every local `<img>` that lacks dimensions, using the committed
+   manifest. 187 of 188 built tags now carry `width` and `height`; the one
+   exception has no `src` until a gallery tile is opened.
+3. **D7** — `npm run images` encodes the 13 works whose largest responsive variant
+   is smaller than the master at `min(2048, native width)`; `gallery-tile.liquid`
+   points `data-full` at the declared `viewer` and `data-original` at the
+   untouched master. `gallery.liquid` preloads a neighbour only when its
+   `data-bytes` is under 600 KB, 600 ms after the opened image, and never on
+   `saveData` or a 2g/3g connection.
 
-**Acceptance:** gallery originals byte-identical to today; lightbox shows ≥2048 px
-for the large works; no image request revalidates within 5 minutes.
+**Acceptance:** met. Gallery originals are byte-identical (no master was modified
+or deleted); the 7 works wider than 2048 px now display at 2048 px and the other
+6 stop being downscaled at all; `_site/_headers` gives every WebP a year of
+immutable caching. The live header behaviour needs a deploy to observe.
+
+**Design notes**
+
+- **Dimensions are injected at build time, never written into `articles/`.** The
+  transform leaves the sacred-text sources untouched, applies to every page
+  (including templates and future articles), and needs no `sharp` during the
+  build. A page whose image is missing from the manifest renders exactly as it
+  did before.
+- **`height:auto` is part of the fix, not a detail.** A width/height attribute pair
+  is a presentational hint: on the 108 floats that set `width:100%;max-width:250px`
+  and no height, adding `height="1596"` stretched the image to 250×1596. Verified
+  in Chromium before shipping. The transform appends `height:auto` only when a
+  width constraint has no height declaration, so `style` is otherwise untouched.
+- **The manifest is committed, like `og-cache.json`.** `_data/imageSizes.js`
+  exposes `_data/cache/images-cache.json` to templates, and `lib/imageAttributes.js`
+  reads the same file, so there is one source of truth and no build-time image
+  probing. `npm run images` refreshes it; `npm run images:check` reports drift.
+- **Never upscale.** 7 works get a 2048 px derivative; the 6 masters under 2048 px
+  get a native-width derivative (`-1896`, `-1800`, `-1472`, …). A 2048 px filename
+  on a 1280 px source would both misstate the file and waste bytes.
+- **The 31 works that already fall back to the master are left alone.** `data-full`
+  only used a derivative when the largest variant was ≥1200 px, so works whose
+  largest variant is 400/800 px were already served at native resolution.
+- **Derivative names are width-versioned, not content-hashed.** That is what makes
+  `/*.webp` immutable safe. A deliberate re-encode at different settings should
+  bump `ENCODER_VERSION` in the script and change the filename, or purge the
+  exact URLs, exactly like the deleted-page edge-cache note
+  [in §4.4](#44-already-fixed).
 
 **Gotchas**
 
 - Follow [image pipeline guardrails](#10-image-pipeline-guardrails) exactly.
-- `gallery.liquid:615-616` preloads the previous and next image on open. With
-  2048 px variants that is up to ~5 MB of speculative loading per open — gate
-  neighbour preloads by size or delay them.
+- `gallery.liquid:615` preloads the previous and next image after the opened one
+  has settled. With 2048 px variants that would be up to ~5 MB of speculative
+  loading per open, which is why the neighbour preload is gated by `data-bytes`.
 - `data-full` falls back to the original for 31 entries whose max variant is
   under 1200 px. Those are already full resolution; do not "fix" them.
+- On Windows, libvips memory-maps the files it opens, so a `sharp(...).toFile(tmp)`
+  followed by `fs.renameSync(tmp, target)` fails with `EBUSY`. Encode to a buffer,
+  then write and rename.
 
 ### Item 9 — Reading themes (optional)
 
@@ -1103,7 +1213,9 @@ Any processing script must:
    social image — and all 5 ebook covers. The common recipe derives
    `${basename}.webp` and silently clobbers the hand-tuned file.
 4. Record content hashes in a cache file so re-runs are incremental.
-5. Emit intrinsic `width`/`height` for every derivative.
+5. Emit intrinsic `width`/`height` for every derivative — in practice, record them
+   in `_data/cache/images-cache.json`, which both the build transform
+   (`lib/imageAttributes.js`) and `_data/imageSizes.js` read.
 6. Be idempotent: two runs must produce identical bytes.
 
 The popular 11ty image-optimisation write-ups resize the *source* in place

@@ -1,0 +1,1023 @@
+{
+  "version": 1,
+  "encoderVersion": 1,
+  "quality": 80,
+  "viewerMaxWidth": 2048,
+  "viewers": {
+    "/images/gallery/responsive/Batukbhairava_1712-1800.webp": {
+      "hash": "0060efb05f5a3d39",
+      "width": 1800,
+      "height": 1281,
+      "bytes": 643554
+    },
+    "/images/gallery/responsive/Jai_Ma_Adya_Mahakali-1212.webp": {
+      "hash": "76023307001e7d3d",
+      "width": 1212,
+      "height": 1600,
+      "bytes": 272840
+    },
+    "/images/gallery/responsive/Jai_Ma_ShmashanaKalika-1896.webp": {
+      "hash": "401ff75a18758aad",
+      "width": 1896,
+      "height": 2532,
+      "bytes": 690188
+    },
+    "/images/gallery/responsive/Ma_Tara_ParamGurubabaBamakhepa_0126-2048.webp": {
+      "hash": "3b7f5dade08fdc84",
+      "width": 2048,
+      "height": 1635,
+      "bytes": 516548
+    },
+    "/images/gallery/responsive/adya_mahakali_0154-1280.webp": {
+      "hash": "e71a01435214111b",
+      "width": 1280,
+      "height": 1414,
+      "bytes": 575434
+    },
+    "/images/gallery/responsive/bhairava_0344-2048.webp": {
+      "hash": "4581ca3a5f4dc572",
+      "width": 2048,
+      "height": 2887,
+      "bytes": 449724
+    },
+    "/images/gallery/responsive/kali_0113-2048.webp": {
+      "hash": "a79e21239b22df6f",
+      "width": 2048,
+      "height": 2757,
+      "bytes": 546046
+    },
+    "/images/gallery/responsive/kali_0249-2048.webp": {
+      "hash": "30a4a9fe254f2c01",
+      "width": 2048,
+      "height": 1665,
+      "bytes": 573232
+    },
+    "/images/gallery/responsive/kali_1542-2048.webp": {
+      "hash": "ed5dfa9223e1a317",
+      "width": 2048,
+      "height": 2731,
+      "bytes": 901286
+    },
+    "/images/gallery/responsive/kalika_0122-2000.webp": {
+      "hash": "68586d373a54d402",
+      "width": 2000,
+      "height": 2650,
+      "bytes": 321946
+    },
+    "/images/gallery/responsive/kalika_1061-2048.webp": {
+      "hash": "3f443b32250e3976",
+      "width": 2048,
+      "height": 2731,
+      "bytes": 1721876
+    },
+    "/images/gallery/responsive/shmashana_kali_0144-2048.webp": {
+      "hash": "ce2279ea8f716af1",
+      "width": 2048,
+      "height": 2731,
+      "bytes": 482154
+    },
+    "/images/gallery/responsive/shmashana_kali_0270-1472.webp": {
+      "hash": "9762b4bf06bc0508",
+      "width": 1472,
+      "height": 1478,
+      "bytes": 178276
+    }
+  },
+  "files": {
+    "/6r5ewiqha59g1.jpg": {
+      "width": 960,
+      "height": 1280,
+      "bytes": 193925
+    },
+    "/6r5ewiqha59g1.webp": {
+      "width": 960,
+      "height": 1280,
+      "bytes": 151862
+    },
+    "/Bama_Khepa.jpg": {
+      "width": 505,
+      "height": 748,
+      "bytes": 168184
+    },
+    "/Bama_Khepa.webp": {
+      "width": 505,
+      "height": 748,
+      "bytes": 186576
+    },
+    "/Shyama_Khepa.jpg": {
+      "width": 407,
+      "height": 379,
+      "bytes": 29417
+    },
+    "/Shyama_Khepa.webp": {
+      "width": 407,
+      "height": 379,
+      "bytes": 19720
+    },
+    "/apple-touch-icon.png": {
+      "width": 180,
+      "height": 180,
+      "bytes": 67411
+    },
+    "/batuk_bhairava_0001.jpg": {
+      "width": 546,
+      "height": 750,
+      "bytes": 231239
+    },
+    "/favicon-96x96.png": {
+      "width": 96,
+      "height": 96,
+      "bytes": 20151
+    },
+    "/icon-192x192.png": {
+      "width": 192,
+      "height": 192,
+      "bytes": 76226
+    },
+    "/icon-512x512.png": {
+      "width": 512,
+      "height": 512,
+      "bytes": 466139
+    },
+    "/images/articles/0tu2e00n.jpg": {
+      "width": 1202,
+      "height": 1600,
+      "bytes": 581338
+    },
+    "/images/articles/batuk-bhairava-brahma-kavacham.jpg": {
+      "width": 546,
+      "height": 750,
+      "bytes": 231239
+    },
+    "/images/articles/kalabhairava-ashtakam.webp": {
+      "width": 1200,
+      "height": 1490,
+      "bytes": 118972
+    },
+    "/images/articles/kanda-sasti-kavacam-original.jpg": {
+      "width": 501,
+      "height": 650,
+      "bytes": 112759
+    },
+    "/images/articles/kanda-sasti-kavacam.webp": {
+      "width": 462,
+      "height": 600,
+      "bytes": 96674
+    },
+    "/images/articles/ma-kali-tandava.webp": {
+      "width": 1200,
+      "height": 1584,
+      "bytes": 139312
+    },
+    "/images/articles/shyama-khyapa.webp": {
+      "width": 1200,
+      "height": 1117,
+      "bytes": 47806
+    },
+    "/images/covers/adya-mahakali-sahasranama-en.jpg": {
+      "width": 720,
+      "height": 960,
+      "bytes": 227658
+    },
+    "/images/covers/adya-mahakali-sahasranama-en.webp": {
+      "width": 720,
+      "height": 960,
+      "bytes": 204640
+    },
+    "/images/covers/adya-mahakali-sahasranama-hi.jpg": {
+      "width": 720,
+      "height": 960,
+      "bytes": 220579
+    },
+    "/images/covers/adya-mahakali-sahasranama-hi.webp": {
+      "width": 720,
+      "height": 960,
+      "bytes": 192968
+    },
+    "/images/covers/kalabhairava-108-names-en.jpg": {
+      "width": 720,
+      "height": 960,
+      "bytes": 223043
+    },
+    "/images/covers/kalabhairava-108-names-en.webp": {
+      "width": 720,
+      "height": 960,
+      "bytes": 188658
+    },
+    "/images/covers/kalabhairava-sahasranama-en.jpg": {
+      "width": 720,
+      "height": 960,
+      "bytes": 210726
+    },
+    "/images/covers/kalabhairava-sahasranama-en.webp": {
+      "width": 720,
+      "height": 960,
+      "bytes": 185738
+    },
+    "/images/covers/kalabhairava-sahasranama-hi.jpg": {
+      "width": 720,
+      "height": 960,
+      "bytes": 207283
+    },
+    "/images/covers/kalabhairava-sahasranama-hi.webp": {
+      "width": 720,
+      "height": 960,
+      "bytes": 176658
+    },
+    "/images/gallery/Batukbhairava_1712.webp": {
+      "width": 1800,
+      "height": 1281,
+      "bytes": 675592
+    },
+    "/images/gallery/Jai_Ma_Adya_Mahakali.webp": {
+      "width": 1212,
+      "height": 1600,
+      "bytes": 438256
+    },
+    "/images/gallery/Jai_Ma_ShmashanaKalika.webp": {
+      "width": 1896,
+      "height": 2532,
+      "bytes": 1098964
+    },
+    "/images/gallery/Ma_Tara_ParamGurubabaBamakhepa_0126.webp": {
+      "width": 2224,
+      "height": 1776,
+      "bytes": 1054848
+    },
+    "/images/gallery/Shiva_Parvati_2587.webp": {
+      "width": 413,
+      "height": 500,
+      "bytes": 19584
+    },
+    "/images/gallery/adya_kali_0061.webp": {
+      "width": 500,
+      "height": 720,
+      "bytes": 77036
+    },
+    "/images/gallery/adya_kali_0195.webp": {
+      "width": 474,
+      "height": 592,
+      "bytes": 86616
+    },
+    "/images/gallery/adya_kali_0200.webp": {
+      "width": 474,
+      "height": 666,
+      "bytes": 67808
+    },
+    "/images/gallery/adya_kali_0298.webp": {
+      "width": 1080,
+      "height": 1440,
+      "bytes": 342806
+    },
+    "/images/gallery/adya_kali_0352.webp": {
+      "width": 283,
+      "height": 378,
+      "bytes": 38368
+    },
+    "/images/gallery/adya_mahakali_0154.webp": {
+      "width": 1280,
+      "height": 1414,
+      "bytes": 606616
+    },
+    "/images/gallery/batuk_bhairava_0009.webp": {
+      "width": 666,
+      "height": 960,
+      "bytes": 63810
+    },
+    "/images/gallery/batuk_bhairava_0180.webp": {
+      "width": 419,
+      "height": 842,
+      "bytes": 122932
+    },
+    "/images/gallery/batuk_bhairava_0688.webp": {
+      "width": 576,
+      "height": 866,
+      "bytes": 175018
+    },
+    "/images/gallery/bhadrakali_0600.jpg": {
+      "width": 430,
+      "height": 569,
+      "bytes": 93463
+    },
+    "/images/gallery/bhairava_0344.webp": {
+      "width": 2880,
+      "height": 4060,
+      "bytes": 1355356
+    },
+    "/images/gallery/bhairava_2199.webp": {
+      "width": 948,
+      "height": 1596,
+      "bytes": 316016
+    },
+    "/images/gallery/bhairava_2774.webp": {
+      "width": 940,
+      "height": 1106,
+      "bytes": 155498
+    },
+    "/images/gallery/bhairava_3665.webp": {
+      "width": 512,
+      "height": 640,
+      "bytes": 32304
+    },
+    "/images/gallery/bhairava_3666.webp": {
+      "width": 482,
+      "height": 640,
+      "bytes": 40892
+    },
+    "/images/gallery/bhairava_3898.webp": {
+      "width": 948,
+      "height": 1264,
+      "bytes": 179310
+    },
+    "/images/gallery/bhairava_4558.webp": {
+      "width": 480,
+      "height": 640,
+      "bytes": 43924
+    },
+    "/images/gallery/bhairava_4865.webp": {
+      "width": 874,
+      "height": 1144,
+      "bytes": 95974
+    },
+    "/images/gallery/bhairava_5640.webp": {
+      "width": 586,
+      "height": 640,
+      "bytes": 48750
+    },
+    "/images/gallery/bhairava_5820.webp": {
+      "width": 446,
+      "height": 640,
+      "bytes": 78658
+    },
+    "/images/gallery/bhairava_5996.webp": {
+      "width": 482,
+      "height": 640,
+      "bytes": 42050
+    },
+    "/images/gallery/bhairava_5999.webp": {
+      "width": 470,
+      "height": 640,
+      "bytes": 60998
+    },
+    "/images/gallery/guhya_kali_0014.webp": {
+      "width": 696,
+      "height": 953,
+      "bytes": 189338
+    },
+    "/images/gallery/kalabhairava_0997.webp": {
+      "width": 540,
+      "height": 748,
+      "bytes": 133924
+    },
+    "/images/gallery/kalabhairava_1710.webp": {
+      "width": 1077,
+      "height": 1606,
+      "bytes": 181758
+    },
+    "/images/gallery/kalasangarshini_kali_0161.webp": {
+      "width": 960,
+      "height": 1220,
+      "bytes": 386572
+    },
+    "/images/gallery/kali_0113.webp": {
+      "width": 2160,
+      "height": 2908,
+      "bytes": 1125714
+    },
+    "/images/gallery/kali_0152.webp": {
+      "width": 1000,
+      "height": 1000,
+      "bytes": 84408
+    },
+    "/images/gallery/kali_0248.webp": {
+      "width": 800,
+      "height": 736,
+      "bytes": 108574
+    },
+    "/images/gallery/kali_0249.webp": {
+      "width": 5600,
+      "height": 4552,
+      "bytes": 5610986
+    },
+    "/images/gallery/kali_0258.webp": {
+      "width": 800,
+      "height": 590,
+      "bytes": 96816
+    },
+    "/images/gallery/kali_1542.jpg": {
+      "width": 3000,
+      "height": 4000,
+      "bytes": 4989954
+    },
+    "/images/gallery/kalika_0064.webp": {
+      "width": 1054,
+      "height": 1500,
+      "bytes": 260210
+    },
+    "/images/gallery/kalika_0067.webp": {
+      "width": 1002,
+      "height": 1400,
+      "bytes": 466832
+    },
+    "/images/gallery/kalika_0122.webp": {
+      "width": 2000,
+      "height": 2650,
+      "bytes": 565714
+    },
+    "/images/gallery/kalika_0335.webp": {
+      "width": 722,
+      "height": 1024,
+      "bytes": 77400
+    },
+    "/images/gallery/kalika_1061.jpg": {
+      "width": 3024,
+      "height": 4032,
+      "bytes": 5757011
+    },
+    "/images/gallery/responsive/Batukbhairava_1712-1200.webp": {
+      "width": 1200,
+      "height": 854,
+      "bytes": 290720
+    },
+    "/images/gallery/responsive/Batukbhairava_1712-1600.webp": {
+      "width": 1600,
+      "height": 1139,
+      "bytes": 514468
+    },
+    "/images/gallery/responsive/Batukbhairava_1712-1800.webp": {
+      "width": 1800,
+      "height": 1281,
+      "bytes": 643554
+    },
+    "/images/gallery/responsive/Batukbhairava_1712-400.webp": {
+      "width": 400,
+      "height": 285,
+      "bytes": 33578
+    },
+    "/images/gallery/responsive/Batukbhairava_1712-800.webp": {
+      "width": 800,
+      "height": 569,
+      "bytes": 129094
+    },
+    "/images/gallery/responsive/Jai_Ma_Adya_Mahakali-1200.webp": {
+      "width": 1200,
+      "height": 1584,
+      "bytes": 279738
+    },
+    "/images/gallery/responsive/Jai_Ma_Adya_Mahakali-1212.webp": {
+      "width": 1212,
+      "height": 1600,
+      "bytes": 272840
+    },
+    "/images/gallery/responsive/Jai_Ma_Adya_Mahakali-400.webp": {
+      "width": 400,
+      "height": 528,
+      "bytes": 48418
+    },
+    "/images/gallery/responsive/Jai_Ma_Adya_Mahakali-800.webp": {
+      "width": 800,
+      "height": 1056,
+      "bytes": 162192
+    },
+    "/images/gallery/responsive/Jai_Ma_ShmashanaKalika-1200.webp": {
+      "width": 1200,
+      "height": 1603,
+      "bytes": 384404
+    },
+    "/images/gallery/responsive/Jai_Ma_ShmashanaKalika-1600.webp": {
+      "width": 1600,
+      "height": 2137,
+      "bytes": 561382
+    },
+    "/images/gallery/responsive/Jai_Ma_ShmashanaKalika-1896.webp": {
+      "width": 1896,
+      "height": 2532,
+      "bytes": 690188
+    },
+    "/images/gallery/responsive/Jai_Ma_ShmashanaKalika-400.webp": {
+      "width": 400,
+      "height": 534,
+      "bytes": 64844
+    },
+    "/images/gallery/responsive/Jai_Ma_ShmashanaKalika-800.webp": {
+      "width": 800,
+      "height": 1068,
+      "bytes": 208082
+    },
+    "/images/gallery/responsive/Ma_Tara_ParamGurubabaBamakhepa_0126-1200.webp": {
+      "width": 1200,
+      "height": 958,
+      "bytes": 288300
+    },
+    "/images/gallery/responsive/Ma_Tara_ParamGurubabaBamakhepa_0126-1600.webp": {
+      "width": 1600,
+      "height": 1278,
+      "bytes": 448602
+    },
+    "/images/gallery/responsive/Ma_Tara_ParamGurubabaBamakhepa_0126-2048.webp": {
+      "width": 2048,
+      "height": 1635,
+      "bytes": 516548
+    },
+    "/images/gallery/responsive/Ma_Tara_ParamGurubabaBamakhepa_0126-400.webp": {
+      "width": 400,
+      "height": 319,
+      "bytes": 42040
+    },
+    "/images/gallery/responsive/Ma_Tara_ParamGurubabaBamakhepa_0126-800.webp": {
+      "width": 800,
+      "height": 639,
+      "bytes": 139810
+    },
+    "/images/gallery/responsive/Shiva_Parvati_2587-400.webp": {
+      "width": 400,
+      "height": 484,
+      "bytes": 15560
+    },
+    "/images/gallery/responsive/adya_kali_0061-400.webp": {
+      "width": 400,
+      "height": 576,
+      "bytes": 54722
+    },
+    "/images/gallery/responsive/adya_kali_0195-400.webp": {
+      "width": 400,
+      "height": 500,
+      "bytes": 61030
+    },
+    "/images/gallery/responsive/adya_kali_0200-400.webp": {
+      "width": 400,
+      "height": 562,
+      "bytes": 48170
+    },
+    "/images/gallery/responsive/adya_kali_0298-400.webp": {
+      "width": 400,
+      "height": 533,
+      "bytes": 59342
+    },
+    "/images/gallery/responsive/adya_kali_0298-800.webp": {
+      "width": 800,
+      "height": 1067,
+      "bytes": 213480
+    },
+    "/images/gallery/responsive/adya_mahakali_0154-1200.webp": {
+      "width": 1200,
+      "height": 1326,
+      "bytes": 498744
+    },
+    "/images/gallery/responsive/adya_mahakali_0154-1280.webp": {
+      "width": 1280,
+      "height": 1414,
+      "bytes": 575434
+    },
+    "/images/gallery/responsive/adya_mahakali_0154-400.webp": {
+      "width": 400,
+      "height": 442,
+      "bytes": 58206
+    },
+    "/images/gallery/responsive/adya_mahakali_0154-800.webp": {
+      "width": 800,
+      "height": 884,
+      "bytes": 214612
+    },
+    "/images/gallery/responsive/batuk_bhairava_0009-400.webp": {
+      "width": 400,
+      "height": 577,
+      "bytes": 32238
+    },
+    "/images/gallery/responsive/batuk_bhairava_0180-400.webp": {
+      "width": 400,
+      "height": 804,
+      "bytes": 105012
+    },
+    "/images/gallery/responsive/batuk_bhairava_0688-400.webp": {
+      "width": 400,
+      "height": 601,
+      "bytes": 89718
+    },
+    "/images/gallery/responsive/bhadrakali_0600-400.webp": {
+      "width": 400,
+      "height": 529,
+      "bytes": 83076
+    },
+    "/images/gallery/responsive/bhairava_0344-1200.webp": {
+      "width": 1200,
+      "height": 1692,
+      "bytes": 241744
+    },
+    "/images/gallery/responsive/bhairava_0344-1600.webp": {
+      "width": 1600,
+      "height": 2256,
+      "bytes": 369388
+    },
+    "/images/gallery/responsive/bhairava_0344-2048.webp": {
+      "width": 2048,
+      "height": 2887,
+      "bytes": 449724
+    },
+    "/images/gallery/responsive/bhairava_0344-400.webp": {
+      "width": 400,
+      "height": 564,
+      "bytes": 40038
+    },
+    "/images/gallery/responsive/bhairava_0344-800.webp": {
+      "width": 800,
+      "height": 1128,
+      "bytes": 126432
+    },
+    "/images/gallery/responsive/bhairava_2199-400.webp": {
+      "width": 400,
+      "height": 673,
+      "bytes": 68424
+    },
+    "/images/gallery/responsive/bhairava_2199-800.webp": {
+      "width": 800,
+      "height": 1347,
+      "bytes": 179070
+    },
+    "/images/gallery/responsive/bhairava_2774-400.webp": {
+      "width": 400,
+      "height": 471,
+      "bytes": 31530
+    },
+    "/images/gallery/responsive/bhairava_2774-800.webp": {
+      "width": 800,
+      "height": 941,
+      "bytes": 76836
+    },
+    "/images/gallery/responsive/bhairava_3665-400.webp": {
+      "width": 400,
+      "height": 500,
+      "bytes": 16986
+    },
+    "/images/gallery/responsive/bhairava_3666-400.webp": {
+      "width": 400,
+      "height": 531,
+      "bytes": 22778
+    },
+    "/images/gallery/responsive/bhairava_3898-400.webp": {
+      "width": 400,
+      "height": 533,
+      "bytes": 43112
+    },
+    "/images/gallery/responsive/bhairava_3898-800.webp": {
+      "width": 800,
+      "height": 1067,
+      "bytes": 103590
+    },
+    "/images/gallery/responsive/bhairava_4558-400.webp": {
+      "width": 400,
+      "height": 533,
+      "bytes": 24256
+    },
+    "/images/gallery/responsive/bhairava_4865-400.webp": {
+      "width": 400,
+      "height": 524,
+      "bytes": 23080
+    },
+    "/images/gallery/responsive/bhairava_4865-800.webp": {
+      "width": 800,
+      "height": 1047,
+      "bytes": 51926
+    },
+    "/images/gallery/responsive/bhairava_5640-400.webp": {
+      "width": 400,
+      "height": 437,
+      "bytes": 18020
+    },
+    "/images/gallery/responsive/bhairava_5820-400.webp": {
+      "width": 400,
+      "height": 574,
+      "bytes": 44448
+    },
+    "/images/gallery/responsive/bhairava_5996-400.webp": {
+      "width": 400,
+      "height": 531,
+      "bytes": 22034
+    },
+    "/images/gallery/responsive/bhairava_5999-400.webp": {
+      "width": 400,
+      "height": 545,
+      "bytes": 33928
+    },
+    "/images/gallery/responsive/guhya_kali_0014-400.webp": {
+      "width": 400,
+      "height": 548,
+      "bytes": 74048
+    },
+    "/images/gallery/responsive/kalabhairava_0997-400.webp": {
+      "width": 400,
+      "height": 554,
+      "bytes": 80810
+    },
+    "/images/gallery/responsive/kalabhairava_1710-400.webp": {
+      "width": 400,
+      "height": 596,
+      "bytes": 44880
+    },
+    "/images/gallery/responsive/kalabhairava_1710-800.webp": {
+      "width": 800,
+      "height": 1193,
+      "bytes": 116248
+    },
+    "/images/gallery/responsive/kalasangarshini_kali_0161-400.webp": {
+      "width": 400,
+      "height": 508,
+      "bytes": 49722
+    },
+    "/images/gallery/responsive/kalasangarshini_kali_0161-800.webp": {
+      "width": 800,
+      "height": 1017,
+      "bytes": 242596
+    },
+    "/images/gallery/responsive/kali_0113-1200.webp": {
+      "width": 1200,
+      "height": 1616,
+      "bytes": 326754
+    },
+    "/images/gallery/responsive/kali_0113-1600.webp": {
+      "width": 1600,
+      "height": 2154,
+      "bytes": 463878
+    },
+    "/images/gallery/responsive/kali_0113-2048.webp": {
+      "width": 2048,
+      "height": 2757,
+      "bytes": 546046
+    },
+    "/images/gallery/responsive/kali_0113-400.webp": {
+      "width": 400,
+      "height": 539,
+      "bytes": 64820
+    },
+    "/images/gallery/responsive/kali_0113-800.webp": {
+      "width": 800,
+      "height": 1077,
+      "bytes": 190544
+    },
+    "/images/gallery/responsive/kali_0152-400.webp": {
+      "width": 400,
+      "height": 400,
+      "bytes": 12072
+    },
+    "/images/gallery/responsive/kali_0152-800.webp": {
+      "width": 800,
+      "height": 800,
+      "bytes": 33212
+    },
+    "/images/gallery/responsive/kali_0248-400.webp": {
+      "width": 400,
+      "height": 368,
+      "bytes": 32250
+    },
+    "/images/gallery/responsive/kali_0248-800.webp": {
+      "width": 800,
+      "height": 736,
+      "bytes": 75742
+    },
+    "/images/gallery/responsive/kali_0249-1200.webp": {
+      "width": 1200,
+      "height": 975,
+      "bytes": 222410
+    },
+    "/images/gallery/responsive/kali_0249-1600.webp": {
+      "width": 1600,
+      "height": 1301,
+      "bytes": 394814
+    },
+    "/images/gallery/responsive/kali_0249-2048.webp": {
+      "width": 2048,
+      "height": 1665,
+      "bytes": 573232
+    },
+    "/images/gallery/responsive/kali_0249-400.webp": {
+      "width": 400,
+      "height": 325,
+      "bytes": 27444
+    },
+    "/images/gallery/responsive/kali_0249-800.webp": {
+      "width": 800,
+      "height": 650,
+      "bytes": 102116
+    },
+    "/images/gallery/responsive/kali_0258-400.webp": {
+      "width": 400,
+      "height": 295,
+      "bytes": 27228
+    },
+    "/images/gallery/responsive/kali_0258-800.webp": {
+      "width": 800,
+      "height": 590,
+      "bytes": 63684
+    },
+    "/images/gallery/responsive/kali_1542-1200.webp": {
+      "width": 1200,
+      "height": 1600,
+      "bytes": 329796
+    },
+    "/images/gallery/responsive/kali_1542-1600.webp": {
+      "width": 1600,
+      "height": 2133,
+      "bytes": 587276
+    },
+    "/images/gallery/responsive/kali_1542-2048.webp": {
+      "width": 2048,
+      "height": 2731,
+      "bytes": 901286
+    },
+    "/images/gallery/responsive/kali_1542-400.webp": {
+      "width": 400,
+      "height": 533,
+      "bytes": 37872
+    },
+    "/images/gallery/responsive/kali_1542-800.webp": {
+      "width": 800,
+      "height": 1067,
+      "bytes": 142080
+    },
+    "/images/gallery/responsive/kalika_0064-400.webp": {
+      "width": 400,
+      "height": 569,
+      "bytes": 41582
+    },
+    "/images/gallery/responsive/kalika_0064-800.webp": {
+      "width": 800,
+      "height": 1139,
+      "bytes": 113258
+    },
+    "/images/gallery/responsive/kalika_0067-400.webp": {
+      "width": 400,
+      "height": 559,
+      "bytes": 92492
+    },
+    "/images/gallery/responsive/kalika_0067-800.webp": {
+      "width": 800,
+      "height": 1118,
+      "bytes": 253536
+    },
+    "/images/gallery/responsive/kalika_0122-1200.webp": {
+      "width": 1200,
+      "height": 1590,
+      "bytes": 184628
+    },
+    "/images/gallery/responsive/kalika_0122-1600.webp": {
+      "width": 1600,
+      "height": 2120,
+      "bytes": 263904
+    },
+    "/images/gallery/responsive/kalika_0122-2000.webp": {
+      "width": 2000,
+      "height": 2650,
+      "bytes": 321946
+    },
+    "/images/gallery/responsive/kalika_0122-400.webp": {
+      "width": 400,
+      "height": 530,
+      "bytes": 41890
+    },
+    "/images/gallery/responsive/kalika_0122-800.webp": {
+      "width": 800,
+      "height": 1060,
+      "bytes": 107586
+    },
+    "/images/gallery/responsive/kalika_0335-400.webp": {
+      "width": 400,
+      "height": 567,
+      "bytes": 19348
+    },
+    "/images/gallery/responsive/kalika_1061-1200.webp": {
+      "width": 1200,
+      "height": 1600,
+      "bytes": 685546
+    },
+    "/images/gallery/responsive/kalika_1061-1600.webp": {
+      "width": 1600,
+      "height": 2133,
+      "bytes": 1167106
+    },
+    "/images/gallery/responsive/kalika_1061-2048.webp": {
+      "width": 2048,
+      "height": 2731,
+      "bytes": 1721876
+    },
+    "/images/gallery/responsive/kalika_1061-400.webp": {
+      "width": 400,
+      "height": 533,
+      "bytes": 66390
+    },
+    "/images/gallery/responsive/kalika_1061-800.webp": {
+      "width": 800,
+      "height": 1067,
+      "bytes": 304742
+    },
+    "/images/gallery/responsive/shmashana_kali_0144-1200.webp": {
+      "width": 1200,
+      "height": 1600,
+      "bytes": 227202
+    },
+    "/images/gallery/responsive/shmashana_kali_0144-1600.webp": {
+      "width": 1600,
+      "height": 2133,
+      "bytes": 367076
+    },
+    "/images/gallery/responsive/shmashana_kali_0144-2048.webp": {
+      "width": 2048,
+      "height": 2731,
+      "bytes": 482154
+    },
+    "/images/gallery/responsive/shmashana_kali_0144-400.webp": {
+      "width": 400,
+      "height": 533,
+      "bytes": 42270
+    },
+    "/images/gallery/responsive/shmashana_kali_0144-800.webp": {
+      "width": 800,
+      "height": 1067,
+      "bytes": 121376
+    },
+    "/images/gallery/responsive/shmashana_kali_0270-1200.webp": {
+      "width": 1200,
+      "height": 1205,
+      "bytes": 152088
+    },
+    "/images/gallery/responsive/shmashana_kali_0270-1472.webp": {
+      "width": 1472,
+      "height": 1478,
+      "bytes": 178276
+    },
+    "/images/gallery/responsive/shmashana_kali_0270-400.webp": {
+      "width": 400,
+      "height": 402,
+      "bytes": 34026
+    },
+    "/images/gallery/responsive/shmashana_kali_0270-800.webp": {
+      "width": 800,
+      "height": 803,
+      "bytes": 92592
+    },
+    "/images/gallery/responsive/swarna_akarshana_bhairava_0050-400.webp": {
+      "width": 400,
+      "height": 600,
+      "bytes": 52250
+    },
+    "/images/gallery/responsive/swarna_akarshana_bhairava_0050-800.webp": {
+      "width": 800,
+      "height": 1200,
+      "bytes": 137326
+    },
+    "/images/gallery/shmashana_kali_0144.webp": {
+      "width": 4500,
+      "height": 6000,
+      "bytes": 2809930
+    },
+    "/images/gallery/shmashana_kali_0270.webp": {
+      "width": 1472,
+      "height": 1478,
+      "bytes": 307218
+    },
+    "/images/gallery/swarna_akarshana_bhairava_0050.webp": {
+      "width": 800,
+      "height": 1200,
+      "bytes": 140998
+    },
+    "/images/guru-vani-radio.jpg": {
+      "width": 640,
+      "height": 360,
+      "bytes": 74703
+    },
+    "/images/guru-vani-radio.webp": {
+      "width": 640,
+      "height": 360,
+      "bytes": 34878
+    },
+    "/images/hibiscus.svg": {
+      "width": 64,
+      "height": 64,
+      "bytes": 1938
+    },
+    "/images/praveen-radhakrishnan.jpg": {
+      "width": 464,
+      "height": 560,
+      "bytes": 45489
+    },
+    "/images/praveen-radhakrishnan.webp": {
+      "width": 464,
+      "height": 560,
+      "bytes": 31174
+    },
+    "/praveen_radhakrishnan.jpg": {
+      "width": 224,
+      "height": 225,
+      "bytes": 12133
+    },
+    "/praveen_radhakrishnan.webp": {
+      "width": 224,
+      "height": 225,
+      "bytes": 11046
+    },
+    "/uywjs16z45454.jpg": {
+      "width": 512,
+      "height": 676,
+      "bytes": 84754
+    }
+  }
+}
