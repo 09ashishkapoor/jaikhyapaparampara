@@ -36,6 +36,10 @@
     <meta name="build-date" content="{{ page.date | isoDate }}">
     
     <link rel="canonical" href="https://jaikhyapaparampara.com{{ page.url }}">
+    <link rel="alternate" type="application/atom+xml" title="Jai Khyapa Parampara — Latest articles" href="/feed.xml">
+    {%- if topicUrl %}
+    <link rel="alternate" type="application/atom+xml" title="{{ topic.name | escape }} — Atom feed" href="{{ topicUrl }}feed.xml">
+    {%- endif %}
     
     <!-- PWA & Mobile -->
     <meta name="theme-color" content="#8B2635">
@@ -45,7 +49,7 @@
     <meta property="og:url" content="https://jaikhyapaparampara.com{{ page.url }}">
     <meta property="og:title" content="{{ seoTitle | escape }}">
     <meta property="og:description" content="{{ seoDescription | attrEscape }}">
-    <meta property="og:image" content="https://jaikhyapaparampara.com/{{ featuredImage | default: 'Bama_Khepa.webp' }}">
+    <meta property="og:image" content="{{ socialImage | attrEscape }}">
     <meta property="og:image:alt" content="{{ title | escape }}">
     <meta property="og:site_name" content="Jai Khyapa Parampara">
     <meta property="og:locale" content="en_US">
@@ -62,7 +66,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ seoTitle | escape }}">
     <meta name="twitter:description" content="{{ seoDescription | attrEscape }}">
-    <meta name="twitter:image" content="https://jaikhyapaparampara.com/{{ featuredImage | default: 'Bama_Khepa.webp' }}">
+    <meta name="twitter:image" content="{{ socialImage | attrEscape }}">
     <meta name="twitter:image:alt" content="{{ title | escape }}">
     
     <!-- Favicon -->
@@ -82,7 +86,7 @@
       "mainEntityOfPage": "https://jaikhyapaparampara.com{{ page.url }}",
       "headline": {{ seoTitle | jsonify }},
       "description": {{ seoDescription | jsonify }},
-      "image": "https://jaikhyapaparampara.com/{{ featuredImage | default: 'Bama_Khepa.webp' }}",
+      "image": {{ socialImage | jsonify }},
       "datePublished": "{{ page.date | isoDate }}",
       "dateModified": "{{ page.date | isoDate }}",
       "inLanguage": "en",

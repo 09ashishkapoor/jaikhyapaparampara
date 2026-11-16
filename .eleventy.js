@@ -2,6 +2,11 @@ module.exports = (eleventyConfig) => {
 	const fs = require("fs");
 	const path = require("path");
 	const { topics: browseGroupDefinitions, categoryAliases } = require("./_data/topics.js");
+	const {
+		normalizeCategory,
+		categoryTopicSlug,
+		categoryLabel,
+	} = require("./lib/taxonomy.js");
 
 	function syncReadmeArticleCount() {
 		try {
@@ -218,24 +223,6 @@ module.exports = (eleventyConfig) => {
 		return articles;
 	}
 
-	function normalizeCategory(value) {
-		return String(value || "")
-			.replace(/^['"]+|['"]+$/g, "")
-			.trim();
-	}
-
-	const labelBySlug = new Map(
-		browseGroupDefinitions.map((topic) => [topic.slug, topic.label]),
-	);
-
-	function categoryTopicSlug(value) {
-		return categoryAliases[normalizeCategory(value).toLowerCase()] || "";
-	}
-
-	function categoryLabel(value) {
-		return labelBySlug.get(categoryTopicSlug(value)) || normalizeCategory(value);
-	}
-
 	function validateTopics() {
 		const slugs = new Set();
 		for (const topic of browseGroupDefinitions) {
@@ -440,6 +427,7 @@ module.exports = (eleventyConfig) => {
 					relatedEntitySlugs: group.relatedEntitySlugs || [],
 					count: groupArticles.length,
 					latestDate: latestArticles[0] ? latestArticles[0].date : undefined,
+					latestArticles,
 					startHereArticles: latestArticles.slice(0, 5),
 					categoryLabels: getTopCategoryLabels(groupArticles),
 					letters: letterBuckets,

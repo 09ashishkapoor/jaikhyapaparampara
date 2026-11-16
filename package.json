@@ -19,7 +19,9 @@
     "validate": "playwright test",
     "check:archive": "node scripts/check_article_archive.js _site",
     "validate:update-snapshots": "playwright test tests/visual --update-snapshots",
-    "sitemap:dates": "node scripts/build_lastmod.js"
+    "sitemap:dates": "node scripts/build_lastmod.js",
+    "og": "node scripts/generate-og.js",
+    "og:check": "node scripts/generate-og.js --check"
   },
   "keywords": [
     "spiritual",
@@ -32,6 +34,10 @@
     "@11ty/eleventy": "^3.1.7",
     "@axe-core/playwright": "^4.11.1",
     "@playwright/test": "^1.59.1",
-    "husky": "^9.0.0"
+    "@resvg/resvg-js": "^2.6.2",
+    "gray-matter": "^4.0.3",
+    "husky": "^9.0.0",
+    "satori": "^0.63.2",
+    "sharp": "^0.35.5"
   }
 }

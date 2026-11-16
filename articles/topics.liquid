@@ -9,6 +9,7 @@ eleventyComputed:
   title: "{{ group.name }}"
   description: "{{ group.description }}"
   robotsMeta: "index, follow"
+  feedUrl: "/articles/topics/{{ group.slug }}/feed.xml"
 ---
 {% assign topicCanonicalUrl = "https://jaikhyapaparampara.com" | append: page.url %}
 {% assign topicCollectionId = topicCanonicalUrl | append: "#collection" %}

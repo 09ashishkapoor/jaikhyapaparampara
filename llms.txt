@@ -15,6 +15,7 @@
 - [All Keywords](https://jaikhyapaparampara.com/tags/): Keyword index for navigation; tag pages are noindex and not in the sitemap.
 - [Gallery](https://jaikhyapaparampara.com/gallery/): Sacred art gallery for Kali, Bhairava, Kalika, Shmashana Kali, and related devotional forms.
 - [Search](https://jaikhyapaparampara.com/search/): On-site article search for readers.
+- [Atom Feed](https://jaikhyapaparampara.com/feed.xml): The 30 most recent articles with summaries. Per-topic feeds live at `/articles/topics/<slug>/feed.xml`.
 
 ## Core Topics
 

@@ -1,0 +1,37 @@
+---
+permalink: /feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+{%- assign feedArticles = collections.articles | slice: 0, 30 -%}
+{%- assign feedUpdated = feedArticles[0].date | isoDate -%}
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://jaikhyapaparampara.com/feed.xml</id>
+  <title type="text">Jai Khyapa Parampara — Latest Articles</title>
+  <subtitle type="text">New teachings, sacred texts, and stories from the Khyapa Parampara archive.</subtitle>
+  <updated>{{ feedUpdated }}</updated>
+  <author>
+    <name>KaliPutra-Ashish</name>
+    <uri>https://jaikhyapaparampara.com/about/</uri>
+  </author>
+  <rights type="text">© KaliPutra-Ashish. All knowledge is forever free to share.</rights>
+  <link rel="self" type="application/atom+xml" href="https://jaikhyapaparampara.com/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://jaikhyapaparampara.com/"/>
+  <generator uri="https://www.11ty.dev/">Eleventy</generator>
+{%- for article in feedArticles %}
+{%- assign articleUrl = "https://jaikhyapaparampara.com" | append: article.url %}
+{%- assign articleAuthor = article.data.author | default: "KaliPutra-Ashish" | remove: "🗣️ " | strip %}
+  <entry>
+    <id>{{ articleUrl }}</id>
+    <title type="text">{{ article.data.title | escape }}</title>
+    <link rel="alternate" type="text/html" href="{{ articleUrl }}"/>
+    <published>{{ article.date | isoDate }}</published>
+    <updated>{{ article.date | isoDate }}</updated>
+    <author>
+      <name>{{ articleAuthor | escape }}</name>
+    </author>
+    <category term="{{ article.data.category | categoryLabel | escape }}"/>
+    <summary type="text">{{ article.data.description | default: article.data.title | strip_html | strip | escape }}</summary>
+  </entry>
+{%- endfor %}
+</feed>

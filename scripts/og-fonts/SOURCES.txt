@@ -1,0 +1,13 @@
+Fonts used only by scripts/generate-og.js to render Open Graph cards.
+
+Source: Google Fonts repository, https://github.com/google/fonts
+  ofl/philosopher/Philosopher-Regular.ttf
+  ofl/philosopher/Philosopher-Bold.ttf
+  ofl/crimsontext/CrimsonText-Regular.ttf
+  ofl/crimsontext/CrimsonText-SemiBold.ttf
+
+Both families are licensed under the SIL Open Font License 1.1. The license
+texts are kept beside the fonts as OFL-Philosopher.txt and OFL-CrimsonText.txt.
+
+These files are layout inputs, not webfonts. The site's self-hosted webfonts
+(roadmap Item 5) are a separate concern.
