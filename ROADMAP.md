@@ -177,6 +177,29 @@ article bodies as immutable unless the task says otherwise.
 - 19 targeted Playwright tests pass: search accessibility, indexing, the search
   and gallery smoke flows, and all three visual surfaces.
 
+**Verification for the analytics report (2026-11-16):**
+
+- `npm run test:analytics` passes **20 tests**, nine of them report cases:
+  thresholds, action ranking, exact query→page mapping, follow-up states,
+  orphan rotation, and the reserved internal-linking slot.
+- `npm run build:test` succeeds; no report artifact is published
+  (`_site/reports`, `_site/.analytics` and `_site/ANALYTICS-DASHBOARD` are all
+  absent) and `/stats/` still builds `noindex`.
+- `analytics-report.yml` run `43848808672` is green in 23 s: tests, a live pull
+  (including the new `querypage` dataset), clone of the private repository,
+  report, commit and push.
+- The private repository gained `reports/2026-11-16.md` and `.actions.json`.
+  First real window: Search Console 2026-10-18..11-14 with 500 clicks / 13,881
+  impressions (previous 28 days: 406 / 9,301). Five actions: four SERP rewrites
+  and one internal-linking action.
+- The workflow no-ops when `REPORTS_REPO` is unset, and the write credential is
+  a write-enabled deploy key scoped to the private repository.
+- Public CI logs carry no traffic totals: both analytics workflows run the pull
+  with `--quiet`.
+- `npm run analytics:report` against the fixture store produces the same
+  Markdown and JSON shapes, including a measured follow-up row for a
+  previously merged action.
+
 **Verification for Item 5 (2026-11-16):**
 
 - `npm run build:test` succeeds; `_site/fonts/` contains the 12 woff2 files,
