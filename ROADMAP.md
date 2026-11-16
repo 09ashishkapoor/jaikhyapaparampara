@@ -137,9 +137,19 @@ article bodies as immutable unless the task says otherwise.
   `fonts.css`, and both OFL licences.
 - All 3,522 built HTML files contain zero references to `fonts.googleapis.com` or
   `fonts.gstatic.com`, and all 3,522 link `/fonts/fonts.css`.
-- `_site/_headers` CSP lists neither font host; `/fonts/*.woff2` carries
-  `Cache-Control: public, max-age=31536000, immutable` and `/fonts/fonts.css`
-  must-revalidate.
+- `_site/_headers` CSP lists neither font host; production serves
+  `/fonts/*.woff2` with `Cache-Control: public, max-age=31536000, immutable`,
+  `Content-Type: font/woff2`.
+- **Known edge behaviour (recorded 2026-11-16, after the first deploy):** the
+  custom domain serves every CSS file as `public, max-age=300, must-revalidate`
+  and ignores the `max-age=0` rule in `_headers` — `fonts/fonts.css` and
+  `styles.min.css` both show 300 s, while the same file on
+  `jaikhyapaparampara.pages.dev` honours `max-age=0`. This predates Item 5 (the
+  `/styles.css` / `/styles.min.css` rules behaved the same way) and is harmless
+  here: the woff2 URLs are versioned, so at worst a font update reaches returning
+  visitors five minutes late. **Item 8 should expect the same 300 s floor for any
+  rule that tries to *lower* caching** — rules that raise it (`/*.jpg`, `/*.png`,
+  `/fonts/*.woff2`) are applied as written.
 - In Chromium, an article page and the homepage request only same-origin
   `/fonts/*.woff2` files — seven of them on an IAST-heavy article (Latin +
   Latin-Extended, normal/italic/600/700) — and load Crimson Text and Philosopher.
@@ -154,6 +164,13 @@ article bodies as immutable unless the task says otherwise.
   cross-origin connection setup.
 - `npm run fonts:check` passes; `npm run validate` passes 33 tests, including the
   three new font tests and the four regenerated visual baselines.
+- **Deployed to production 2026-11-16** (`main` at `fec9533`, build-version
+  `1.261116.0402`). Verified on `https://jaikhyapaparampara.com`: `/fonts/fonts.css`
+  200 `text/css`, a woff2 200 `font/woff2`; homepage and article HTML contain no
+  Google font reference; the CSP response header lists neither host; a real
+  Chromium load of `/` and an article page requests only same-origin
+  `/fonts/*.woff2` and reports Crimson Text + Philosopher as `loaded`; the old
+  `/.agents/skills/transcript-context/SKILL/` path now returns 404.
 
 **Next task:** Item 8 (image pipeline: D1, D6, D7). Item 6 is a cheap warm-up if a
 short session is preferred; Item 7 is the largest page-weight win. Item 3 needs

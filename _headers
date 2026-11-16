@@ -47,7 +47,9 @@
 
 # Self-hosted fonts are content-versioned in their filenames
 # (crimson-text-v19-*, philosopher-v21-*), so an update is a new URL and these
-# can be immutable. fonts.css is the descriptor file and must revalidate.
+# can be immutable. The rule below asks for revalidation on fonts.css; the
+# Cloudflare edge keeps a 300 s default for CSS on the custom domain regardless,
+# which is fine because the woff2 URLs change with the files.
 /fonts/*.woff2
   Cache-Control: public, max-age=31536000, immutable
 
