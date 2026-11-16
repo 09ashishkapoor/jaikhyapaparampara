@@ -286,12 +286,15 @@ If `npm` is not on PATH, the harness Node install is at
 `C:\Users\kalbhairav\.dsh\dsh-runtimes\dsh-primary-runtime\dependencies\node\bin`
 (add it to `PATH`).
 
-**GitHub Actions `validation` is red before any test runs.** The
-`Install Chromium and system dependencies` step fails on `ubuntu-latest`, so the
-Playwright job and the `Run unit tests` step are both skipped. This predates
-Item 8 — the same step failed for `5fde696` and `fec9533` — and the `link-check`
-job passes. Treat local `npm run validate` as the real gate until that step is
-fixed (or moved after the unit tests, which need no browser).
+**GitHub Actions `validation` was red from 2026-11-14 for an environmental
+reason, now fixed:** `ubuntu-latest` began migrating to Ubuntu 26 on 2026-10-19
+(the run's own annotation says so), and `npx playwright install --with-deps
+chromium` fails there because Playwright 1.59.1's apt package list targets 22.04
+and 24.04. No repository change sits between the last green run (`8a24a2f`,
+2026-11-12) and the first red one (`72f2774`, 2026-11-14). Both jobs are pinned to
+`ubuntu-24.04`, and the unit tests now run *before* the browser install so a
+broken install can never hide them. Revisit the pin only when Playwright is
+upgraded — a new Chromium build means regenerated visual baselines.
 
 Verification is by reading `_site/`, not by trusting the build log. Example checks
 used in this session:
