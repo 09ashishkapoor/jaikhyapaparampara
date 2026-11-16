@@ -1,6 +1,13 @@
+# Root-level Markdown is documentation only. Article sources live in articles/.
+# Without this, an undocumented root .md file is built into the published site
+# as a bare HTML fragment (no <head>, no charset, no robots meta).
+/*.md
+
+# Archived plans, audits, and reports. Never published.
+archive/
+
 README.md
 node_modules
-.codex
 .omx
 markdownfiles_forblog/
 website_redesign_plan/
@@ -15,7 +22,6 @@ VALIDATION_BASELINE.md
 NAVIGATION-REVIEW.md
 SEO_AUDIT_REPORT.md
 SEO_IMPLEMENTATION_TODO.md
-improvement_108.md
 HINDI_SEO_CHECKLIST.md
 PERFORMANCE_OPTIMIZATION_REPORT.md
 QUICK_PERFORMANCE_GUIDE.md

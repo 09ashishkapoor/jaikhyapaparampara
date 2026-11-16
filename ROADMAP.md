@@ -1,0 +1,791 @@
+# Site Roadmap — jaikhyapaparampara.com
+
+Single source of truth for planned work on **jaikhyapaparampara.com**.
+
+**Last updated:** 2026-11-15 (all decisions closed)
+**Status:** decisions complete — implementation not started.
+
+This document is written to be read cold. A new session (human or agent) with no
+memory of how it was produced should be able to start work from it directly.
+
+---
+
+## Start here (new session)
+
+### 1. What this repo is
+
+Static Eleventy 3 site: 1,205 Markdown articles in `articles/`, a 44-image sacred
+art gallery, ebooks, a radio page, and a handful of taxonomies. Hosted on
+Cloudflare Pages from `_site`. Content is sacred-text/transcript material — treat
+article bodies as immutable unless the task says otherwise.
+
+### 2. Read in this order
+
+1. This "Start here" section.
+2. [Non-negotiable constraints](#2-non-negotiable-constraints) — these override any advice.
+3. [Settled decisions](#3-settled-decisions-do-not-relitigate) — do not reopen these.
+4. The specific work item you are picking up in [Work plan](#6-work-plan).
+
+### 3. Current state
+
+**Already done (do not redo):**
+
+- Defunct plans/reports moved from repo root to `archive/`.
+- `.eleventyignore` anchored with `/*.md` and `archive/` so root Markdown can
+  never be published. This fixed a real leak — see [Already fixed](#44-already-fixed).
+- `README.md` points at this file.
+- `node_modules/` installed locally (32 s) and `_site/` built (105 s) to verify
+  the fix. Both are gitignored build artifacts.
+
+**Uncommitted at handoff:**
+
+```
+R  ACTION-PLAN.md -> archive/ACTION-PLAN.md          (and 5 more renames)
+R  SEO-UNPLUG/** -> archive/SEO-UNPLUG/**
+ M .eleventyignore
+ M README.md
+?? ROADMAP.md
+```
+
+Review the diff and commit before starting new work, so the next session gets a
+clean baseline.
+
+### 4. The one rule that matters most
+
+**Never resize, re-encode over, or delete a gallery original.** The
+full-resolution masters (up to 5600 px) are the archive, they are linked from
+the lightbox "View original" control, and they are published in the gallery's
+`image[]` JSON-LD. A very common Eleventy image-optimisation recipe does exactly
+this in place. Do not copy it. See [Image pipeline guardrails](#10-image-pipeline-guardrails).
+
+### 5. Suggested first task
+
+Work item **1 (Open Graph cards)**, **10 (`AGENTS.md`)**, and **2 (Atom feeds)**.
+Items 1 and 10 ship together — the pre-generated OG workflow is unsafe without the
+repo rule. Item 2 touches the same two layouts, so it is cheaper alongside.
+
+OG is the largest visible defect; feeds are entirely absent.
+
+### 6. Build and verify
+
+```bash
+npm ci                # only if node_modules is missing
+npm run build:test    # clean + eleventy, ~105 s, ~3,700 files
+npm run validate      # Playwright; needs `npx playwright install chromium`
+```
+
+If `npm` is not on PATH, the harness Node install is at
+`C:\Users\kalbhairav\.dsh\dsh-runtimes\dsh-primary-runtime\dependencies\node\bin`
+(add it to `PATH`).
+
+Verification is by reading `_site/`, not by trusting the build log. Example checks
+used in this session:
+
+```powershell
+Test-Path _site\ACTION-PLAN                      # must be False
+(Get-Item _site\search-index.json).Length/1MB     # baseline 9.62
+```
+
+---
+
+## Table of contents
+
+- [1. Project context](#1-project-context)
+- [2. Non-negotiable constraints](#2-non-negotiable-constraints)
+- [3. Settled decisions (do not relitigate)](#3-settled-decisions-do-not-relitigate)
+- [4. Measured baseline](#4-measured-baseline)
+- [5. Known defects](#5-known-defects)
+- [6. Work plan](#6-work-plan)
+- [7. Reference: analytics and SEO measurement](#7-reference-analytics-and-seo-measurement)
+- [8. Reference: feed specification](#8-reference-feed-specification)
+- [9. Reference: OG card specification](#9-reference-og-card-specification)
+- [10. Image pipeline guardrails](#10-image-pipeline-guardrails)
+- [11. Archive index](#11-archive-index)
+- [12. Remaining decisions](#12-remaining-decisions)
+
+---
+
+## 1. Project context
+
+| | |
+|---|---|
+| Site | jaikhyapaparampara.com — spiritual knowledge archive, Khyapa Parampara lineage |
+| Generator | Eleventy 3.1.7, Liquid + Markdown |
+| Content | 1,205 articles, 44 gallery works, 5 ebooks (EN/HI), radio page, glossary, 8 topic paths |
+| Hosting | Cloudflare Pages (`wrangler.toml`, `pages_build_output_dir = "_site"`) |
+| Domain DNS | Cloudflare (barbara/skip.ns.cloudflare.com) |
+| Repo | GitHub, deploy on push |
+| Validation | Playwright smoke + visual baselines (`npm run validate`) |
+| Related properties | `radio.` and `mantrini.` subdomains |
+
+---
+
+## 2. Non-negotiable constraints
+
+Owner requirements. They override any optimisation advice below.
+
+1. **The gallery stays high resolution.** Full-resolution originals remain
+   available at native size. The lightbox "View original" link and the gallery
+   `image[]` JSON-LD both depend on those files existing unchanged.
+2. **Never resize or overwrite an image in place.** The gallery masters sized
+   2880–5600 px are the archive. Any optimisation writes a *new* derivative and
+   leaves the source untouched.
+3. **Article pages keep their images.** No image may be stripped from an article
+   body to save weight.
+4. **No R2 migration.** Cloudflare Pages bandwidth is free and unmetered. Moving
+   images to R2 would save $0 and cost a large rewrite. Revisit only if
+   on-the-fly image *transformation* becomes a requirement.
+
+---
+
+## 3. Settled decisions (do not relitigate)
+
+Each of these was analysed and decided. Reopening them wastes a session.
+
+| Decision | Rationale |
+|---|---|
+| **No R2 for images** | Pages bandwidth is free/unmetered. The blog post that prompted this was solving a *Netlify egress bill* that does not exist here. R2 would also break `og:image` and the gallery `image[]` JSON-LD, both of which hardcode the main domain. |
+| **Keep all gallery originals at native size** | They are user-facing (lightbox "View original") and in structured data. 5.6 MB worst case is 22% of the 25 MiB per-file limit and costs nothing to serve. |
+| **Lightbox should use a 2048 px derivative, not the original** | Measured encode cost 0.57–1.86 MB vs a 5.5 MB original. Improves the 13 works currently capped at 1600 px without hurting the archive. |
+| **OG cards are generated 1200×630 text cards, not artwork** | Gallery art is portrait (ratio 0.68–0.75); platforms crop to 1.91:1 and cut the image. Text cards solve shape and resolution at once. |
+| **Fonts are self-hosted and subset, not replaced with system fonts** | The sacred-art aesthetic depends on Crimson Text + Philosopher. The borrowing is "no third-party font origin", not "no webfonts". |
+| **Analytics: Cloudflare Web Analytics + Search Console API** | Aligns with the site's own "no tracking" positioning. GSC is primary for SEO; CF is traffic/performance. |
+| **Colophon and changelog are two separate pages, footer-linked** | Colophon is evergreen; changelog is append-only. Merging makes the stable reference churn. |
+| **No video, no newsletter** | Site has neither. Do not plan for FFmpeg/Plyr/Listmonk. |
+| **The 11ty image-optimisation recipe that resizes sources in place is forbidden** | Directly violates constraint 2 and would overwrite 11 hand-tuned jpg/webp pairs. |
+
+### Closed 2026-11-15 (owner decisions — final)
+
+| Decision | Rationale |
+|---|---|
+| **Analytics = Cloudflare Web Analytics + Search Console API. Google Analytics is removed.** | No per-user tracking, no cookies, no consent banner. Owner accepts the loss of session/journey data. |
+| **New tooling is Node.js, not Python.** | `sharp` ships prebuilt libvips binaries for every mainstream target (Windows included); `pyvips` on Windows is a known install failure. Card layout needs `satori`/Takumi, which have no Python equivalent. Python stays for the existing `minify-*.py` helpers only. |
+| **OG cards are pre-generated and committed (Option B).** | Existing articles never change, so cards must not cost build time. Trade-off accepted: a documented regeneration rule (Item 10) is mandatory. |
+| **Analytics long-term storage = Cloudflare R2.** | Free tier is 10 GB storage, 1 M Class A and 10 M Class B operations per month — far beyond a daily-grain pull. |
+| **Dashboard lives at `/stats/` on the main site, behind Cloudflare Access.** | Access is free to 50 users, gives per-identity audit logs, and needs no shared password. |
+| **Feed content = summaries only.** | Reversible later; nothing else depends on it. Full text would be a one-line change in the feed template. |
+
+---
+
+## 4. Measured baseline
+
+Measured 2026-11-15 on this machine. Not estimates.
+
+### 4.1 Content and build
+
+| Item | Value |
+|---|---|
+| Articles | 1,205 (`articles/*.md`, all `layout: article`) |
+| Article source size | 19.67 MB, 16.7 KB average |
+| Sitemap URLs | 1,271 (curated; does not include internal docs) |
+| Build time | 105 s (`eleventy`, no image processing) |
+| Build output | 3,713 files / 188 MB — of which 46.96 MB is images |
+| Article page weight | 55 KB average HTML, 172 KB largest |
+| Hosting | Cloudflare Pages, free unmetered bandwidth |
+| Limits headroom | ~160 images of 20,000 files; largest file 5.49 MB of 25 MiB |
+
+### 4.2 Images
+
+| Item | Value |
+|---|---|
+| Total images | 160 files, 47 MB (146 WebP, 13 JPG, 1 SVG) |
+| Gallery originals | 45 files, 29.28 MB |
+| Gallery responsive variants | 93 files, 14.28 MB |
+| Variant widths present | 400 (44), 800 (26), 1200 (13), 1600 (10) |
+| Image pipeline in repo | **None** — no `sharp`, no `imagemin`, no `@11ty/eleventy-img` |
+
+### 4.3 CSS architecture (important, easy to get wrong)
+
+- **No page links a local stylesheet**, with one exception: the homepage
+  `index.html` links `styles.min.css` — and it does so with a *relative* path,
+  which only works because the homepage is at `/`. Any new page in a subdirectory
+  must use `/styles.min.css`.
+- **Every other page is styled entirely by inline `<style>` blocks.** Article
+  pages carry 3 blocks / 20,299 bytes.
+- `styles.css` → `styles.min.css` and `script.js` → `script.min.js` are minified
+  by **separate manual Python scripts** (`minify-css.py`, `minify-js.py`). The
+  minify step is **not** part of `npm run build`. If you edit `styles.css` you
+  must regenerate `styles.min.css` yourself, or the site will not change.
+
+### 4.4 Already fixed
+
+**Internal docs were being published as pages.** `/ACTION-PLAN/`,
+`/FULL-AUDIT-REPORT/`, `/GOOGLE-API-REPORT-jaikhyapaparampara.com/`, and
+`SEO-UNPLUG/*` returned HTTP 200 as bare HTML fragments — no `<!DOCTYPE>`, no
+`<head>`, no charset (hence mojibake), no robots meta. Not in the sitemap and not
+linked, so search engines likely never found them, but they were live.
+
+Cause: any root-level `.md` not listed in `.eleventyignore` is built as a page.
+Fix: moved to `archive/`, and `.eleventyignore` now anchors `/*.md` plus
+`archive/`.
+
+**Verified:** a full build (3,713 files) contains none of these paths. Still to
+confirm after the next deploy: the live URLs return 404.
+
+**Dead `.codex` references removed.** Eight `npm run humanize:*` scripts pointed at
+`.codex/skills/humanize-articles/`, a directory that does not exist in the repo —
+every one of them failed instantly, and the queue file
+`.codex/article-humanize-queue.md` never existed either. Removed the scripts from
+`package.json`, plus the `.codex` entries in `.eleventyignore` and `.gitignore`.
+`npm` now exposes 17 scripts, all pointed at paths that exist. Nothing else in the
+repo referenced it. The separate and still-active `.agents/skills/` directory is
+untouched.
+
+---
+
+## 5. Known defects
+
+| # | Defect | Evidence | Fixed by |
+|---|---|---|---|
+| D1 | WebP cached 5 minutes, not 1 year | Live header `max-age=300, must-revalidate`. `_headers` covers only `/*.jpg` and `/*.png` (`_headers:23-27`), so 146 of 160 files miss it. | Item 8 |
+| D2 | Social preview broken on ~1,193 articles | 0 articles set `ogImage`; 12 set `featuredImage`. Fallback `Bama_Khepa.webp` is 505×748 (ratio 0.68) — under the 1200 px spec and center-cropped to a band. | Item 1 |
+| D3 | Two divergent OG paths | `_includes/article.liquid:48` reads `featuredImage` and prepends `/`; `_includes/base.liquid:22,37` reads `ogImage` and prepends nothing. An `ogImage` without a leading slash yields `https://jaikhyapaparampara.comimages/…` | Item 1 |
+| D4 | Search index ships full text | `search-index.11ty.js` sets `entry.content` for all 1,205 articles. `_site/search-index.json` = **9.62 MB**, fetched whole by `search.liquid:252` | Item 4 |
+| D5 | No feeds at all | Zero RSS/Atom endpoints | Item 2 |
+| D6 | 122 of 127 article `<img>` tags have no `width`/`height` | CLS risk; gallery tiles already do it correctly (`gallery-tile.liquid:25-26`) | Item 8 |
+| D7 | Lightbox caps at 1600 px for the largest works | `kali_0249` (5600 px) renders at 29% of native. 13 works are downscaled in the viewer. | Item 8 |
+| D8 | No shared stylesheet; ~20 KB inline per article page | 3 blocks / 20,299 bytes on a built article — over a third of the 55 KB page. Homepage carries 30.6 KB inline in 7 blocks *and* links an external sheet. Uncacheable across 1,230 pages. | Item 7 |
+| D9 | Google Fonts on the critical path | Crimson Text + Philosopher; 8 references, 2 distinct `css2` URLs; `_includes/article.liquid:292-294`, `_includes/base.liquid:98-101` | Item 5 |
+| D10 | GA4 on every page | `index.html`, `_includes/article.liquid` (loader at lines 21–32), `_includes/base.liquid` | Item 3 |
+
+---
+
+## 6. Work plan
+
+Ordered by value per unit of effort. Do them roughly in order; items 1 and 2 pair
+well.
+
+### Item 1 — Open Graph cards (closes D2, D3)
+
+**Why:** 1,193 of 1,205 articles produce the same soft, badly cropped social
+preview. Highest visible defect on the list.
+
+**Files:** `_data/eleventyComputed.js` (new), `_includes/article.liquid`,
+`_includes/base.liquid`, `scripts/generate-og.js` (new, Node), `package.json`,
+`images/og/` (new, committed).
+
+**Steps**
+
+1. Add `_data/eleventyComputed.js` exposing one normalised, **absolute**
+   `socialImage`. This repo is CommonJS (`module.exports`), not ESM — the `.js`
+   config uses `module.exports`.
+2. Point both layouts at that single value. Delete the manual `/` prefixing in
+   `base.liquid`.
+3. Priority chain: frontmatter override → generated card → site default.
+4. Write `scripts/generate-og.js` in **Node** using `sharp` + `satori`
+   (or `takumi-js`), outputting to `images/og/<slug>.jpg` and committing those
+   files. See [the OG spec](#9-reference-og-card-specification).
+5. Add an `npm run og` script. Cache by content hash (`_data/cache/og-cache.json`)
+   so re-runs only touch changed or missing cards.
+6. Document the "run `npm run og` after adding an article" rule in `AGENTS.md`
+   — see [Item 10](#item-10--agentsmd-repository-instructions-do-alongside-item-1).
+
+**Acceptance:** every article URL yields an `og:image` that is 1200×630,
+absolute, and returns HTTP 200. `twitter:image` matches.
+
+**Gotchas**
+
+- `_includes/article.liquid` is a **standalone document**; it does not use
+  `base.liquid`. That is why there are two OG paths. Fixing only `base.liquid`
+  changes nothing for any article.
+- `article.liquid` and `base.liquid` disagree on the leading-slash convention.
+  Normalise before adding computed data or you will ship a broken host.
+
+### Item 2 — Atom feeds (closes D5)
+
+**Why:** zero feeds today. Cheapest "own the channel" move available on a
+1,205-article archive. Does **not** improve rankings or indexing speed — see
+[feed specification](#8-reference-feed-specification) for the real gains.
+
+**Files:** new `feed.liquid` (or `feed.11ty.js`), topic feed variant,
+`_includes/article.liquid`, `_includes/base.liquid`, `llms.txt`, `_includes/site-footer.liquid`.
+
+**Steps**
+
+1. Combined feed at `/feed.xml` — 30 most recent, Atom 1.0, summaries only.
+2. Per-topic feeds for the 8 curated paths. Topic URLs are
+   `/articles/topics/<slug>/` (see `_data/topics.js` and `.eleventy.js:434`).
+3. Add `<link rel="alternate" type="application/atom+xml">` in both layouts.
+4. Add feed links to `llms.txt` and the footer.
+
+**Acceptance:** `/feed.xml` validates as Atom, appears in the homepage `<head>`,
+and topic feeds return only that topic's articles.
+
+**Gotchas:** feed `<id>`/`<link>` must be absolute canonical URLs. Use the
+article's `page.url` with the `https://jaikhyapaparampara.com` prefix.
+
+### Item 3 — Analytics and SEO pipeline (closes D10)
+
+**Why:** no way to measure traffic or SEO progress today except the GA4 UI, which
+is being removed.
+
+**Files:** `scripts/analytics-pull.js` (new, Node), `.github/workflows/analytics.yml`
+(new), `package.json`, `stats.liquid` (new), `_headers`, `sitemap.liquid`,
+`.eleventyignore`, `wrangler.toml` (only if a Worker cron is chosen instead of Actions).
+
+**Steps**
+
+1. **Search Console first** — it is independent of everything else. Service
+   account, GSC API, daily pull of query + page performance.
+2. **Enable Cloudflare Web Analytics** for the zone, then immediately add the
+   GraphQL pull (retention is ~30 days; the cron must be live the same month).
+   See [7.5](#75-reference-query--which-pages-were-used-over-a-date-window).
+3. **Remove GA4** from `index.html`, `_includes/article.liquid` (loader at lines
+   21–32) and `_includes/base.liquid`. Also drop `googletagmanager.com` and
+   `google-analytics.com` from `connect-src`/`script-src` in `_headers`.
+4. Pull a **7-day rolling window** nightly; upsert by date; write JSONL to R2.
+5. Aggregate to `dashboard.json` and build `/stats/` against it.
+6. Protect `/stats/` (see below), mark it `noindex`, exclude from the sitemap.
+
+**Acceptance:** no GA4 request on any page; nightly job appends idempotent rows to
+R2; `/stats/` renders and is blocked without authentication.
+
+**Before deleting anything in GA:** export a final 12-month report and save it
+outside the repo. Once the tag is gone no new data accumulates, and deleting the
+property destroys the history.
+
+#### Locking down `/stats/` — yes, Cloudflare Access
+
+Cloudflare Access (Zero Trust, free up to **50 users**) can protect a path on the
+zone. Two options: One-time PIN to a fixed email allowlist, or an IdP login. It
+gives per-identity audit logs, which a shared password never could.
+
+**Gotcha:** the Pages **preview domain** (`<project>.pages.dev`) is a separate
+hostname and is *not* covered by an Access application scoped to
+`jaikhyapaparampara.com`. Either create a second Access application for the
+`pages.dev` hostname, or disable preview deployments. Also add
+`/stats/*` → `X-Robots-Tag: noindex` in `_headers` and a `Disallow` in `robots.txt`
+as defence in depth.
+
+**Order of work:** do the **Search Console** half first — it is independent of
+the analytics switch and it is the half your SEO decisions depend on.
+
+### Item 4 — Search index payload (closes D4)
+
+**Why:** `search-index.json` is 9.62 MB and is fetched whole on the search page.
+
+**Files:** `search-index.11ty.js`, `search.liquid`.
+
+**Steps**
+
+1. Default `includeContent` to `false`.
+2. Match over title, description, category, tags.
+3. Optionally fetch per-article text only after a result is selected.
+
+**Acceptance:** `/search-index.json` under 2 MB (baseline 9.62 MB) and search
+still returns sensible results.
+
+### Item 5 — Self-host and subset fonts (closes D9)
+
+**Files:** new `fonts/` (or `images/fonts/`), `_includes/article.liquid`,
+`_includes/base.liquid`, `_headers`, CSP in `_headers`, `.eleventy.js`
+passthrough.
+
+**Steps:** download Crimson Text + Philosopher, convert to `woff2`, subset with
+`unicode-range`, add `@font-face` with `font-display: swap`, remove the three
+Google Fonts references in each layout, drop `fonts.googleapis.com` and
+`fonts.gstatic.com` from the CSP.
+
+**Acceptance:** zero requests to `fonts.googleapis.com` / `fonts.gstatic.com`;
+text renders identically; CSP no longer lists either host.
+
+### Item 6 — Colophon and changelog (new pages)
+
+**Why:** provenance fits a lineage site, and it is cheap.
+
+**Files:** new `colophon.liquid`, `changelog.liquid`, `_includes/site-footer.liquid`,
+`llms.txt`, `sitemap.liquid`.
+
+**Steps:** two pages using `layout: base` at `/colophon/` and `/changelog/`.
+Footer "Site" column: Colophon · Changelog · Feed. Add both to `llms.txt`.
+
+**Acceptance:** both pages build, are linked from the footer, and appear in the
+sitemap. Content per [settled decisions](#3-settled-decisions-do-not-relitigate).
+
+### Item 7 — Shared stylesheet (closes D8)
+
+**Why:** every article page ships ~20 KB of inline CSS and caches nothing between
+pages. The homepage is the only page that loads an external sheet.
+
+**Files:** `styles.css`, `_includes/article.liquid`, `_includes/base.liquid`,
+`_includes/site-chrome.liquid`, `minify-css.py`.
+
+**Steps**
+
+1. Extract the inline blocks into `styles.css` (or a new shared file), keeping
+   inline only genuinely above-the-fold critical CSS.
+2. Link it site-wide with an **absolute** path `/styles.min.css`.
+3. Run `python minify-css.py` — this is **not** part of `npm run build`.
+4. Fix the homepage's relative `href="styles.min.css"` while you are there.
+
+**Acceptance:** article pages carry well under 5 KB of inline CSS; every page
+loads one shared stylesheet that is cached across navigation.
+
+### Item 8 — Image pipeline (closes D1, D6, D7)
+
+**Why:** three separate image defects, one script.
+
+**Files:** new `scripts/optimize-images.js` (or `.py`), `_headers`,
+`_includes/gallery-tile.liquid`, `gallery.liquid`, `_data/galleryImages.js`.
+
+**Steps**
+
+1. **D1** — extend `_headers` to cover WebP derivatives.
+2. **D6** — emit intrinsic `width`/`height` for article images.
+3. **D7** — generate a 2048 px variant for the 13 large works and point
+   `data-full` at it. Keep `data-original` untouched.
+
+**Acceptance:** gallery originals byte-identical to today; lightbox shows ≥2048 px
+for the large works; no image request revalidates within 5 minutes.
+
+**Gotchas**
+
+- Follow [image pipeline guardrails](#10-image-pipeline-guardrails) exactly.
+- `gallery.liquid:615-616` preloads the previous and next image on open. With
+  2048 px variants that is up to ~5 MB of speculative loading per open — gate
+  neighbour preloads by size or delay them.
+- `data-full` falls back to the original for 31 entries whose max variant is
+  under 1200 px. Those are already full resolution; do not "fix" them.
+
+### Item 9 — Reading themes (optional)
+
+Light/paper/dark themes with `prefers-color-scheme`. CSS custom properties
+already exist (`var(--border-gold)` etc.), so it is feasible. Pure polish; do it
+last.
+
+### Item 10 — `AGENTS.md` repository instructions (do alongside Item 1)
+
+**Why:** pre-generated OG cards mean a new article is *incomplete* until someone
+runs the generator. That rule has to live where an agent will actually read it,
+not buried in this roadmap. `AGENTS.md` at the repo root is the standard
+discovery file for Codex/agent tooling.
+
+**Files:** `AGENTS.md` (new, repo root).
+
+**Required content — keep it short and imperative:**
+
+1. **After adding or editing an article, run `npm run og`** and commit the
+   changed files in `images/og/`.
+2. **Never resize, re-encode over, or delete a file in `images/gallery/`.** They
+   are archive masters used by the lightbox and structured data.
+3. **Never add a root-level `.md` file without checking `.eleventyignore`** — a
+   root Markdown file that is not ignored is published as a bare HTML fragment.
+4. **Editing `styles.css` requires running `python minify-css.py`** before the
+   change reaches the site. Same for `script.js` → `minify-js.py`.
+5. **Build and verify:** `npm run build:test`, then inspect `_site/`. The
+   production build is ~105 s and writes ~3,700 files.
+6. **Article frontmatter requirements** and the taxonomy rule: `category` must
+   exist in `categoryAliases` in `_data/topics.js` or the build throws.
+7. **Sacred text is immutable.** Do not edit transcript bodies, mantras, or
+   quotes in `articles/` unless explicitly asked.
+8. Pointer to this roadmap for anything non-trivial.
+
+**Notes**
+
+- `.agents/skills/transcript-context/SKILL.md` already exists and must not be
+  contradicted by `AGENTS.md` — read it before writing rules about articles.
+- Add `AGENTS.md` to `.eleventyignore` (covered by `/*.md`, so no action needed —
+  verify anyway).
+
+**Acceptance:** `AGENTS.md` exists at root, is not published, and lists the eight
+rules above.
+
+---
+
+## 7. Reference: analytics and SEO measurement
+
+### 7.1 Google Analytics can be managed over an API
+
+*Reference only — GA4 is being removed ([7.3](#73-ga4-is-removed-decided)). Kept
+here so the capability is not rediscovered later.*
+
+| API | Purpose |
+|---|---|
+| **GA4 Data API** | Reports: sessions, users, engagement, traffic sources, page performance |
+| **GA4 Admin API** | Manage properties, key events, audiences, data streams |
+
+Both free, quota-limited. Setup: Google Cloud project → enable API → service
+account + JSON key → add the service account email as a **viewer on the GA4
+property** → report against the numeric **property ID**, not the `G-` measurement
+ID.
+
+### 7.2 For SEO, Search Console is the better primary source
+
+GA tells you what visitors did on your site. **Search Console tells you what
+Google showed and to whom** — queries, impressions, clicks, CTR, average
+position, by page, country, device, and search appearance. That is the actual
+input to SEO decisions, and it needs no client-side tracking.
+
+Pipeline: **GSC API primary** (query + page performance) → **GA4/Cloudflare
+secondary** → join on landing-page URL.
+
+Notes: data settles after ~2–3 days; the API exposes a 16-month window.
+
+### 7.3 GA4 is removed (decided)
+
+GA4 is cookie-based third-party tracking on every page and contradicts the site's
+own "no account, no tracking" positioning on Mantrini. The tag comes out in
+[Item 3](#item-3--analytics-and-seo-pipeline-closes-d10), and
+`google-analytics.com` / `googletagmanager.com` come out of the CSP.
+
+Consequence: **no session, journey, time-on-page, or scroll data at all.** That is
+accepted. Google Analytics history is not carried into the new pipeline — export a
+final 12-month report outside the repo before deleting the property.
+
+### 7.4 Cloudflare Web Analytics: API and retention
+
+**API exists, but it is GraphQL-only — not `wrangler`.** There is no
+`wrangler analytics` command; wrangler is deploy tooling.
+
+- Endpoint: `https://api.cloudflare.com/client/v4/graphql`
+- Auth: API token with **Account Analytics: Read** (create a dedicated read-only token)
+- Web Analytics data is **account-scoped** → queries use `accountTag`, not `zoneTag`
+
+| Dataset | Contents |
+|---|---|
+| `rumPageloadEventsAdaptiveGroups` | Page loads, visits, by path / referer / country / device / browser / OS |
+| `rumWebVitalsEventsAdaptiveGroups` | Aggregated Core Web Vitals (LCP, CLS, INP) |
+| `rumPerformanceEventsAdaptive` | Event-level performance samples |
+
+**The constraint that dictates the design: retention is ~30 days.** Adaptive
+datasets retain at least 31 days on every plan; one request can span at most 30
+days
+([limits](https://developers.cloudflare.com/analytics/graphql-api/limits/),
+[changelog](https://developers.cloudflare.com/changelog/post/2026-10-02-30-days-analytics-on-every-plan/)).
+
+Cloudflare is **not** the system of record. The ingestion job must be live in the
+same month as the switch — the first 30 days are the only window for a backfill.
+
+Other limits:
+
+- 300 GraphQL queries per 5-minute window per user — irrelevant for a daily job.
+- One account per query; up to 10 zones per zone-scoped query.
+- RUM data is sampled; use `sampleInterval`.
+- The dashboard caps every report at **top 15 rows**; GraphQL does not. That alone
+  is a reason to query directly.
+
+**Can be measured:** page views, visits, page load time, Core Web Vitals;
+segmented by path, referer host *and* referer path, country, device, browser, OS,
+host, navigation type, with an exclude-bots dimension.
+
+**Cannot be measured:** sessions as such, time on page, scroll depth, funnels, or
+anything user-level. Cookieless means no journey reconstruction. If deep
+behaviour becomes a real requirement, that means self-hosted Umami or Plausible,
+not Cloudflare Web Analytics.
+
+### 7.5 Reference query — which pages were used, over a date window
+
+Page usage is the `requestPath` dimension. The dashboard shows only the top 15;
+GraphQL returns the full list.
+
+```graphql
+query ($account: String!, $site: String!, $from: Date!, $to: Date!) {
+  viewer {
+    accounts(filter: { accountTag: $account }) {
+      rumPageloadEventsAdaptiveGroups(
+        limit: 10000
+        orderBy: [count_DESC]
+        filter: { siteTag: $site, date_geq: $from, date_leq: $to, bot: 0 }
+      ) {
+        count
+        sum { visits }
+        avg { sampleInterval }
+        dimensions { requestPath }
+      }
+    }
+  }
+}
+```
+
+```bash
+curl -s https://api.cloudflare.com/client/v4/graphql \
+  -H "Authorization: Bearer $CF_ANALYTICS_TOKEN" \
+  -H "Content-Type: application/json" \
+  --data @query.json
+```
+
+- **`siteTag` is the Web Analytics site tag, not the zone ID.** Read it from the
+  dashboard URL when the site's Web Analytics page is open, or from the account's
+  RUM site list.
+- Add `date` to `dimensions` for daily grain: `dimensions { date requestPath }`.
+- `count` = page loads; `sum { visits }` = visits.
+- `avg { sampleInterval }` = sampling ratio; multiply to extrapolate. Counts are
+  rounded — treat small differences as noise.
+- `bot: 0` excludes crawlers; usually what you want.
+- Query a **7-day rolling window daily** and aggregate locally. Do not keep
+  asking for 30 days.
+
+### 7.6 Decided ingestion architecture
+
+```
+GitHub Actions (nightly cron)
+  ├─ scripts/analytics-pull.js  → GSC API: queries + pages (settled, 16-month window)
+  └─ scripts/analytics-pull.js  → Cloudflare GraphQL: last 7 days
+       └─ upsert JSONL by date ──→ R2 bucket (analytics/raw/YYYY-MM-DD.jsonl)
+       └─ aggregate ─────────────→ R2 (analytics/dashboard.json)
+
+/stats/ (Eleventy page, noindex, behind Cloudflare Access)
+  └─ fetches dashboard.json from R2 via a signed/public read URL
+```
+
+Decided: **R2 for storage**, **`/stats/` on the main site behind Access**,
+**Node for the scripts**. See [Item 3](#item-3--analytics-and-seo-pipeline-closes-d10).
+
+Design rules:
+
+- **Idempotent upsert by date.** Re-pulling a day replaces, never duplicates.
+- **Always re-pull the last 7 days** — late data is normal.
+- **Store raw at daily grain** (date × path × referer × country × device) so new
+  questions do not need re-ingestion.
+- **Keep the raw store out of the Eleventy build** — same rule as `archive/`.
+- Dashboard must be `noindex`, out of the sitemap, and access-controlled if it
+  exposes traffic detail.
+
+**Alternative:** a Worker with a Cron Trigger can do the pull and write to an R2
+binding, keeping everything inside Cloudflare — but `wrangler.toml` is currently
+Pages-only, so this needs a second deploy config.
+
+### 7.7 The join that actually pays off
+
+- **Cloudflare `requestPath`** = pages people land on
+- **GSC landing pages** = pages Google shows
+- Impressions but no clicks → weak titles/descriptions
+- Traffic but no GSC impressions → non-Google referrers
+- In the sitemap with **neither** → orphaned articles, highest-value fix on a
+  1,205-article archive
+
+---
+
+## 8. Reference: feed specification
+
+An Atom/RSS feed does **not** directly improve rankings, and Google deprecated the
+sitemap-ping endpoints in 2023, so it will not speed up indexing. The real gains:
+
+1. **A channel you own** — no algorithm deciding reach.
+2. **Subscriber pull** — Feed reader users follow without visiting.
+3. **Per-topic subscriptions** — with 8 curated paths, someone can follow only
+   Kalabhairava. Most likely feature to be used at this scale.
+4. **Automation downstream** — standard input for Mastodon/Telegram/Discord
+   cross-posting or a digest email. Build once.
+5. **Machine-readable updates** — consumed by aggregators and AI crawlers more
+   reliably than raw HTML; complements `llms.txt`.
+6. **A build-time health check** — forces valid URL, title, date on every item.
+
+Spec:
+
+| Aspect | Value |
+|---|---|
+| Format | Atom 1.0 |
+| Path | `/feed.xml`, plus `/articles/topics/<slug>/feed.xml` |
+| Items | 30 most recent |
+| Content | `<summary>` from `description` — not full text |
+| IDs | Absolute canonical URLs |
+| `<updated>` | Date of the newest included article |
+| Discovery | `<link rel="alternate" type="application/atom+xml">` in both layouts |
+| Also list in | `llms.txt`, footer |
+
+Cost: one template plus a `<link>` tag, ~30 lines of Liquid.
+
+---
+
+## 9. Reference: OG card specification
+
+| Aspect | Value |
+|---|---|
+| Size | 1200×630 (1.91:1) |
+| Format | JPEG, quality ~80 (or PNG if the design needs it) |
+| Content | Article title, site name, optional category label |
+| Grading | Text-only card; do **not** use gallery artwork (portrait, crops badly) |
+| Fonts | Reuse the site's two faces so cards match the aesthetic |
+
+**Toolchain (decided: Node).**
+
+| Package | Role |
+|---|---|
+| `sharp` | Resize/composite, and encode the final JPEG. Ships prebuilt libvips binaries — no system install. |
+| `satori` | HTML/JSX-like layout → SVG. Handles text wrapping and flexbox for you. |
+| `@resvg/resvg-js` | SVG → PNG raster, then `sharp` to JPEG. |
+
+Optional upgrade: **`takumi-js`** (Rust, actively maintained as of late 2026) is a
+near drop-in for satori, claims noticeably higher throughput, supports CSS Grid,
+and renders straight to PNG/JPEG/WebP — removing the separate resvg step. Worth
+trying; satori is the safer, better-documented default for a one-off run of
+1,205 cards.
+
+**Storage (decided: Option B — pre-generated and committed).**
+
+Cards live at `images/og/<slug>.jpg` and are committed. Existing articles never
+change, so this costs nothing at build time and keeps diffs reviewable.
+
+Cost accepted: roughly 1,205 files and 50–70 MB in the repo, and a human/agent
+step when adding an article — which is exactly why
+[Item 10](#item-10--agentsmd-repository-instructions-do-alongside-item-1) exists.
+
+The value written into `og:image` must be **absolute**:
+`https://jaikhyapaparampara.com/images/og/<slug>.jpg`.
+
+---
+
+## 10. Image pipeline guardrails
+
+Any processing script must:
+
+1. Read from `images/`, write derivatives to a **separate** output directory.
+2. Never write to, rename over, or truncate a source file.
+3. **Skip any source with a same-name webp sibling, or write elsewhere.** This
+   repo has **11 such pairs**, including `Bama_Khepa.jpg`/`.webp` — the sitewide
+   social image — and all 5 ebook covers. The common recipe derives
+   `${basename}.webp` and silently clobbers the hand-tuned file.
+4. Record content hashes in a cache file so re-runs are incremental.
+5. Emit intrinsic `width`/`height` for every derivative.
+6. Be idempotent: two runs must produce identical bytes.
+
+The popular 11ty image-optimisation write-ups resize the *source* in place
+(`sharp(...).toFile(tmp)` then `fs.renameSync(tmp, source)`). That pattern is
+incompatible with constraint 2 and must not be copied.
+
+---
+
+## 11. Archive index
+
+Preserved in [`archive/`](archive/) for reference only. **Not current.** Do not
+follow their instructions; they predate this roadmap.
+
+| File | What it was | Date |
+|---|---|---|
+| `archive/ACTION-PLAN.md` | SEO action plan | 22 Oct 2026 |
+| `archive/FULL-AUDIT-REPORT.md` | SEO audit | 22 Oct 2026 |
+| `archive/GOOGLE-API-REPORT-jaikhyapaparampara.com.md` | PageSpeed / CrUX | 22 Oct 2026 |
+| `archive/improvement_108.md` | Improvement list | — |
+| `archive/SEO-UNPLUG/` | Indexing + taxonomy workstream (5 docs + helper .cmd files) | Oct–Nov 2026 |
+
+`VALIDATION_BASELINE.md` stays at root: it documents the Playwright standard used
+by `npm run validate`, so it is active infrastructure, not a report.
+
+Useful still-living artefact inside the archive: `archive/SEO-UNPLUG/README.md`
+contains the taxonomy analysis and the GSC coverage framing. Read it as *input*,
+not as a plan.
+
+---
+
+## 12. Remaining decisions
+
+**None.** All six open questions were closed by the owner on 2026-11-15 and are
+recorded in [Settled decisions](#3-settled-decisions-do-not-relitigate):
+
+| Was open | Closed as |
+|---|---|
+| Analytics target | Cloudflare Web Analytics + GSC API; GA4 removed |
+| Card generator stack | Node (`sharp` + `satori`/`resvg`) |
+| OG storage | Option B — pre-generated, committed to `images/` |
+| Feed content | Summaries only |
+| Dashboard location | `/stats/` on the main site, behind Cloudflare Access |
+| Long-term analytics storage | Cloudflare R2 |
+
+Anything still genuinely reversible is marked as such in the decision table (feed
+content is a one-line change; OG storage could move to build-time generation if
+the committed files ever become a burden). Do not reopen the rest.
+
+Implementation-time judgement calls that do **not** need owner sign-off: exact
+card typography and colour, JSONL field naming, cron hour, and whether the
+analytics pull runs in GitHub Actions or a Worker cron.

@@ -124,6 +124,16 @@ For the repo-standardized pattern and reuse notes, see [VALIDATION_BASELINE.md](
 
 ---
 
+## Roadmap
+
+The current plan for the site lives in [ROADMAP.md](ROADMAP.md): settled
+decisions, non-negotiable constraints, measured defects, and the work plan.
+
+Defunct plans, audits, and reports are kept in [`archive/`](archive/) for
+reference only. They are excluded from the site build and are not maintained.
+
+---
+
 ## Repository Structure
 
 ```
@@ -147,6 +157,8 @@ search-index.11ty.js          # Client-side search index (JS template)
 gallery.liquid                # Sacred image gallery (data: _data/galleryImages.js)
 _headers                      # Cloudflare HTTP response headers
 _redirects                    # Cloudflare URL redirects
+archive/                      # Retired plans and audits (never published)
+ROADMAP.md                    # Current plan (never published)
 ```
 
 ---
