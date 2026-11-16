@@ -1,4 +1,4 @@
-const searchIndex = require("./search-index.11ty.js");
+const { renderArticleIndex } = require("./lib/articleIndex.js");
 
 module.exports = {
 	data() {
@@ -8,6 +8,6 @@ module.exports = {
 		};
 	},
 	render(data) {
-		return searchIndex.render(data, false);
+		return renderArticleIndex(data.collections);
 	},
 };

@@ -2,16 +2,35 @@ const { test, expect } = require("@playwright/test");
 
 const origin = "https://jaikhyapaparampara.com";
 
-test("homepage discovery uses metadata while full-text search keeps article content", async ({ request }) => {
-	const compact = await (await request.get("/article-index.json")).json();
-	const full = await (await request.get("/search-index.json")).json();
-	expect(compact.map((article) => article.url)).toEqual(full.map((article) => article.url));
-	expect(compact.every((article) => !Object.hasOwn(article, "content"))).toBe(true);
-	expect(full.some((article) => article.content.length > 1000)).toBe(true);
-	expect(compact.every((article) => Number.isFinite(Date.parse(article.date)))).toBe(true);
+test("the shared article index stays metadata-only and under the payload budget", async ({ request }) => {
+	const response = await request.get("/article-index.json");
+	expect(response.ok()).toBe(true);
+	const body = await response.text();
+	expect(Buffer.byteLength(body, "utf8")).toBeLessThan(2 * 1024 * 1024);
+
+	const articles = JSON.parse(body);
+	expect(articles.length).toBeGreaterThan(1000);
+	expect(articles.every((article) => !Object.hasOwn(article, "content"))).toBe(true);
+	expect(
+		articles.every(
+			(article) =>
+				article.title &&
+				article.url &&
+				Number.isFinite(Date.parse(article.date)) &&
+				Array.isArray(article.tags) &&
+				typeof article.categoryLabel === "string",
+		),
+	).toBe(true);
+});
+
+test("the homepage and search page both load the compact article index", async ({ request }) => {
 	const homepage = await (await request.get("/")).text();
 	expect(homepage).toContain('fetch("/article-index.json")');
 	expect(homepage).not.toContain('fetch("/search-index.json")');
+
+	const searchPage = await (await request.get("/search/")).text();
+	expect(searchPage).toContain("fetch('/article-index.json')");
+	expect(searchPage).not.toContain("full article text");
 });
 
 test("tag pages stay out of the sitemap and are noindex navigation", async ({ request }) => {

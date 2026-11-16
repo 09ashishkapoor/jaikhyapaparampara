@@ -197,7 +197,7 @@ mark {
     <header class="search-header">
         <span class="search-eyebrow">✦ Search the Library</span>
         <h1 class="search-title">Search All Articles</h1>
-        <p class="search-description">Search 1200+ sacred teachings by title, topic, tag, summary, or full article text.</p>
+        <p class="search-description">Search 1200+ sacred teachings by title, topic, tag, and summary.</p>
 
         <div class="search-bar-wrap">
             <input
@@ -217,7 +217,7 @@ mark {
 
     <div class="search-results-panel" id="resultsPanel">
         <div class="search-placeholder" id="searchPlaceholder">
-            <p>Start typing to search article titles, topics, tags, summaries, and full text.</p>
+            <p>Start typing to search article titles, topics, tags, and summaries.</p>
         </div>
         <div class="results-header-bar" id="resultsHeaderBar" style="display:none;">
             <span id="resultsCount"></span>
@@ -245,11 +245,12 @@ mark {
     var articles = null;
     var fetchPromise = null;
     var debounceTimer = null;
+    var MAX_RESULTS = 60;
 
     function getIndex() {
         if (articles) return Promise.resolve(articles);
         if (!fetchPromise) {
-            fetchPromise = fetch('/search-index.json')
+            fetchPromise = fetch('/article-index.json')
                 .then(function(r) {
                     if (!r.ok) throw new Error('Search index request failed');
                     return r.json();
@@ -282,23 +283,47 @@ mark {
         return escaped;
     }
 
-    function getExcerpt(content, terms, maxLen) {
-        if (!content) return '';
-        // Try to find a snippet around the first term match
-        var lc = content.toLowerCase();
-        var pos = -1;
-        for (var i = 0; i < terms.length; i++) {
-            pos = lc.indexOf(terms[i].toLowerCase());
-            if (pos !== -1) break;
+    // The index carries metadata only (title, description, category, tags), so
+    // rank hits by the strongest field a term appears in rather than by body
+    // text. Article bodies stay on their own pages.
+    function escapeRegExp(value) {
+        return String(value).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+
+    // Match at a word start so "bhairav" still finds "Bhairava" but "om" does
+    // not match every "from" or "promise" in a summary.
+    function termPattern(term) {
+        return new RegExp('(^|[^a-z0-9])' + escapeRegExp(term), 'i');
+    }
+
+    function fieldWeight(entry, pattern) {
+        if (pattern.test(entry.title || '')) return 8;
+        if (pattern.test((entry.tags || []).join(' '))) return 6;
+        if (pattern.test(entry.categoryLabel || '')) return 4;
+        if (pattern.test(entry.category || '')) return 3;
+        if (pattern.test(entry.description || '')) return 1;
+        return 0;
+    }
+
+    function scoreEntry(entry, patterns, phrase) {
+        var matched = 0;
+        var score = 0;
+        for (var i = 0; i < patterns.length; i++) {
+            var weight = fieldWeight(entry, patterns[i]);
+            if (!weight) continue;
+            matched++;
+            score += weight;
         }
-        var start = 0;
-        if (pos !== -1) {
-            start = Math.max(0, pos - 60);
+        if (phrase && (entry.title || '').toLowerCase().indexOf(phrase) !== -1) {
+            score += 10;
         }
-        var excerpt = content.slice(start, start + maxLen);
-        if (start > 0) excerpt = '…' + excerpt;
-        if (start + maxLen < content.length) excerpt = excerpt + '…';
-        return excerpt;
+        return { matched: matched, score: score };
+    }
+
+    function byDateDesc(a, b) {
+        var at = Date.parse(a.date) || 0;
+        var bt = Date.parse(b.date) || 0;
+        return bt - at;
     }
 
     function search(query) {
@@ -319,40 +344,47 @@ mark {
         getIndex().then(function(data) {
             if (input.value.trim() !== q) return;
             var terms = q.toLowerCase().split(/\s+/).filter(Boolean);
-            var results = data.filter(function(a) {
-                var haystack = [
-                    a.title, a.description,
-                    (a.tags || []).join(' '),
-                    a.category, a.categoryLabel, a.content || ''
-                ].join(' ').toLowerCase();
-                return terms.every(function(t) { return haystack.indexOf(t) !== -1; });
+            var patterns = terms.map(termPattern);
+            var phrase = terms.join(' ');
+
+            var scored = data.map(function(entry) {
+                var result = scoreEntry(entry, patterns, phrase);
+                return { article: entry, matched: result.matched, score: result.score };
             });
 
-            // Score: title matches ranked higher
-            results.sort(function(a, b) {
-                var at = a.title.toLowerCase();
-                var bt = b.title.toLowerCase();
-                var aInTitle = terms.filter(function(t){ return at.indexOf(t) !== -1; }).length;
-                var bInTitle = terms.filter(function(t){ return bt.indexOf(t) !== -1; }).length;
-                return bInTitle - aInTitle;
+            // Strict search first: every term must match. Because the index no
+            // longer carries article bodies, a term that only appeared in the
+            // body can miss here; fall back to partial matches rather than
+            // showing "no results" for a query the archive clearly covers.
+            var hits = scored.filter(function(hit) { return hit.matched === terms.length; });
+            var partial = false;
+            if (!hits.length) {
+                hits = scored.filter(function(hit) { return hit.matched > 0; });
+                partial = true;
+            }
+
+            hits.sort(function(a, b) {
+                if (b.matched !== a.matched) return b.matched - a.matched;
+                if (b.score !== a.score) return b.score - a.score;
+                return byDateDesc(a.article, b.article);
             });
 
-            if (!results.length) {
+            if (!hits.length) {
                 headerBar.style.display = 'none';
                 resultsList.style.display = 'none';
                 noResults.style.display = '';
-                status.textContent = 'No results for "' + escHTML(q) + '"';
+                status.textContent = 'No results for "' + q + '"';
                 return;
             }
 
-            var shown = results.slice(0, 60);
-            resultsCount.textContent = results.length + ' article' + (results.length !== 1 ? 's' : '') + ' found';
+            var shown = hits.slice(0, MAX_RESULTS);
+            resultsCount.textContent = hits.length + ' article' + (hits.length !== 1 ? 's' : '') + ' found';
             headerBar.style.display = 'flex';
             noResults.style.display = 'none';
 
-            resultsList.innerHTML = shown.map(function(a) {
-                var excerptSource = a.content || a.description || '';
-                var excerpt = getExcerpt(excerptSource, terms, 200) || a.description;
+            resultsList.innerHTML = shown.map(function(hit) {
+                var a = hit.article;
+                var excerpt = a.description || (a.tags || []).join(', ');
                 return '<li class="result-item">' +
                     '<a href="' + escHTML(a.url) + '" class="result-link">' +
                         '<div class="result-header">' +
@@ -366,7 +398,11 @@ mark {
             }).join('');
 
             resultsList.style.display = '';
-            status.textContent = results.length + ' result' + (results.length !== 1 ? 's' : '') + (results.length > 60 ? ' (showing first 60)' : '');
+            var countText = hits.length + ' result' + (hits.length !== 1 ? 's' : '') +
+                (hits.length > MAX_RESULTS ? ' (showing first ' + MAX_RESULTS + ')' : '');
+            status.textContent = partial
+                ? 'No exact matches — closest results: ' + countText
+                : countText;
         }).catch(function() {
             if (input.value.trim() !== q) return;
             status.textContent = 'Could not load search index. Please try again.';

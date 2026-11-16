@@ -569,7 +569,7 @@ document.addEventListener('DOMContentLoaded', function() {
     function getIndex() {
         if (indexData) return Promise.resolve(indexData);
         if (!fetchPromise) {
-            fetchPromise = fetch('/search-index.json')
+            fetchPromise = fetch('/article-index.json')
                 .then(function(response) { return response.json(); })
                 .then(function(data) { indexData = data; return data; });
         }

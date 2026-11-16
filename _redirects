@@ -3,6 +3,11 @@
 # gallery.html clean URL redirect
 /gallery.html /gallery/ 301
 
+# /search-index.json was retired with the metadata-only index (ROADMAP Item 4).
+# Keep the old path working for anything that cached it; the canonical compact
+# index is /article-index.json.
+/search-index.json /article-index.json 301
+
 # Handle articles pagination
 /articles/2 /articles/2/index.html 200
 /articles/3 /articles/3/index.html 200

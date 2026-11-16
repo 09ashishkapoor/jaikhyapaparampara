@@ -53,7 +53,7 @@ test.describe("repo smoke flows", () => {
 		let releaseIndex;
 		let markRequested;
 		const requested = new Promise((resolve) => { markRequested = resolve; });
-		await page.route("**/search-index.json", async (route) => {
+		await page.route("**/article-index.json", async (route) => {
 			markRequested();
 			await new Promise((resolve) => { releaseIndex = resolve; });
 			await route.fulfill({ json: [{ title: "Bhairava", url: "/articles/", content: "Bhairava" }] });
@@ -62,7 +62,7 @@ test.describe("repo smoke flows", () => {
 		await expect(page.locator("#searchStatus")).toHaveText("Searching…");
 		await requested;
 		await page.getByRole("button", { name: "Clear search" }).click();
-		const response = page.waitForResponse("**/search-index.json");
+		const response = page.waitForResponse("**/article-index.json");
 		releaseIndex();
 		await response;
 		await expect(page.locator("#searchInput")).toHaveValue("");
@@ -72,7 +72,7 @@ test.describe("repo smoke flows", () => {
 
 	test("search retries after the index request fails", async ({ page }) => {
 		let requests = 0;
-		await page.route("**/search-index.json", async (route) => {
+		await page.route("**/article-index.json", async (route) => {
 			requests++;
 			if (requests === 1) {
 				await route.fulfill({ status: 503, body: "Unavailable" });

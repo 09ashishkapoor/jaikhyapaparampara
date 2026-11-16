@@ -2,9 +2,9 @@
 
 Single source of truth for planned work on **jaikhyapaparampara.com**.
 
-**Last updated:** 2026-11-16 (Items 1, 2, 3, and 10 implemented; owner analytics
-setup recorded as deferred pending actions)
-**Status:** Items 1, 2, and 10 done; Item 3 code shipped; Items 4–9 pending.
+**Last updated:** 2026-11-16 (Items 1, 2, 3, 4, and 10 implemented; owner
+analytics setup recorded as deferred pending actions)
+**Status:** Items 1, 2, 4, and 10 done; Item 3 code shipped; Items 5–9 pending.
 The remaining Item 3 work is owner-side setup, deferred until the code items are
 done — see [13. Pending owner actions](#13-pending-owner-actions-deferred).
 
@@ -54,7 +54,16 @@ article bodies as immutable unless the task says otherwise.
   with `noindex`, no sitemap entry, and `X-Robots-Tag` headers. Covered by
   `tests/unit/analytics.test.js` and `tests/smoke/analytics.spec.js`. Live data
   waits on the [pending owner actions](#13-pending-owner-actions-deferred),
-  deferred until Items 4–9 are done.
+  deferred until Items 5–9 are done.
+- **Item 4 — Search index payload.** The 9.62 MB full-text index is gone. The
+  build emits one compact metadata-only index at `/article-index.json` (736 KB:
+  title, description, category, tags, reading time — no article bodies) from
+  `lib/articleIndex.js` via `article-index.11ty.js`. The homepage, `/search/`,
+  and the `/articles/` "Surprise me" control all load it, and
+  `/search-index.json` 301s to it in `_redirects`. Search ranks by field weight
+  and falls back to clearly labelled closest matches when a term only exists in
+  an article body. Covered by `tests/smoke/indexing.spec.js` and the search
+  smoke/accessibility tests.
 - **Item 10 — `AGENTS.md`.** Repo-root operating rules, now nine items (the OG
   card rule, the image guardrails, the root-Markdown rule, the minify rule, the
   build/verify rule, the taxonomy guard, sacred-text immutability, the roadmap
@@ -92,9 +101,25 @@ article bodies as immutable unless the task says otherwise.
   build and render.
 - 18 targeted Playwright tests pass: the analytics smoke tests, indexing, feeds,
   and the three no-analytics-tag performance cases.
+- `/article-index.json` is 736,116 bytes (0.70 MB; ~152 KB gzip, ~119 KB
+  brotli) and contains no `content` key; `_site/search-index.json` does not
+  exist. The 2 MB payload guard is asserted in `tests/smoke/indexing.spec.js`.
+- `/search/` and `/articles/` both fetch `/article-index.json`; no built page
+  references `/search-index.json`, and the search copy no longer claims
+  full-text search.
+- Search queries return sensible results: "kavacham" 2, "kundalini" 13,
+  "shiva hunter legend" 1 exact, "Om Shri Gurubhyo Namah" labelled closest
+  matches, "zzzz" none.
+- Both search-panel visual baselines (`win32`, `linux`) were regenerated; the
+  homepage hero and gallery baselines are unchanged. The Linux baselines were
+  regenerated inside the Playwright 1.59.1 Docker image
+  (`mcr.microsoft.com/playwright`) and pass there; all three Windows visual
+  tests pass locally.
+- 19 targeted Playwright tests pass: search accessibility, indexing, the search
+  and gallery smoke flows, and all three visual surfaces.
 
-**Next task:** Item 4 (search-index payload). Item 3 needs no further code; its
-owner-side setup is deferred to the end and tracked in
+**Next task:** Item 5 (self-host and subset fonts). Item 3 needs no further code;
+its owner-side setup is deferred to the end and tracked in
 [13. Pending owner actions](#13-pending-owner-actions-deferred).
 
 ### 4. The one rule that matters most
@@ -107,12 +132,12 @@ this in place. Do not copy it. See [Image pipeline guardrails](#10-image-pipelin
 
 ### 5. Suggested next task
 
-Items 1, 2, and 10 are done, and Item 3's code is shipped — its owner-side setup
-is deferred to the end ([§13](#13-pending-owner-actions-deferred)). Next is
-**Item 4 (search-index payload)** — the last visible defect (9.62 MB fetched
-whole on `/search/`) and a contained change. Item 8 is the largest remaining
-block (three image defects, one script); Item 7 is the largest page-weight win
-but touches every layout.
+Items 1, 2, 4, and 10 are done, and Item 3's code is shipped — its owner-side
+setup is deferred to the end ([§13](#13-pending-owner-actions-deferred)). Next is
+**Item 5 (self-host and subset fonts)** — the last third-party origin on the
+critical path, and a contained change to the two layouts, `_headers`, and a new
+`fonts/` directory. Item 8 is the largest remaining block (three image defects,
+one script); Item 7 is the largest page-weight win but touches every layout.
 
 ### 6. Build and verify
 
@@ -142,7 +167,8 @@ used in this session:
 
 ```powershell
 Test-Path _site\ACTION-PLAN                      # must be False
-(Get-Item _site\search-index.json).Length/1MB     # baseline 9.62
+Test-Path _site\search-index.json                # must be False (301 → /article-index.json)
+(Get-Item _site\article-index.json).Length/1MB   # baseline 0.70
 ```
 
 ---
@@ -403,7 +429,7 @@ pull, nightly Actions job, R2 JSONL store, aggregate `dashboard.json`, and
 `/stats/` all shipped. The only remaining work is owner-side setup (credentials,
 the Cloudflare Web Analytics switch, Access), recorded as
 [pending actions P1–P7](#13-pending-owner-actions-deferred) and deferred until
-Items 4–9 are done. The shipped layout is in
+Items 5–9 are done. The shipped layout is in
 [7.8](#78-implemented-pipeline-2026-11-16).
 
 **Why:** no way to measure traffic or SEO progress today except the GA4 UI, which
@@ -454,7 +480,7 @@ place; creating the Access application is [P5](#p5--access).
 
 Seven credential, zone, and Access actions remain. They need no code, are listed
 in full as [P1–P7](#13-pending-owner-actions-deferred), and are deferred until
-Items 4–9 are done.
+Items 5–9 are done.
 
 #### Implementation notes (deliberate choices)
 
@@ -490,18 +516,58 @@ Items 4–9 are done.
 
 ### Item 4 — Search index payload (closes D4)
 
-**Why:** `search-index.json` is 9.62 MB and is fetched whole on the search page.
+**Status: done (2026-11-16).** One metadata-only index at `/article-index.json`
+(736 KB, from 9.62 MB). `/search/` and `/articles/` both use it;
+`/search-index.json` is retired and 301s to it. Search ranks by field weight and
+falls back to labelled closest matches when a term only exists in an article
+body. Both search-panel visual baselines were regenerated.
 
-**Files:** `search-index.11ty.js`, `search.liquid`.
+**Why:** `search-index.json` was 9.62 MB and was fetched whole on the search
+page. The homepage already used the compact `/article-index.json`, so after
+dropping bodies the two indexes would have been identical payloads.
 
-**Steps**
+**Files (shipped):** `lib/articleIndex.js` (new), `article-index.11ty.js`,
+`search-index.11ty.js` (deleted), `search.liquid`, `articles/index.liquid`,
+`_redirects`, `tests/smoke/indexing.spec.js`, `tests/smoke/site-smoke.spec.js`,
+`README.md`, both `tests/visual/*/search-panel-*.png` baselines.
 
-1. Default `includeContent` to `false`.
-2. Match over title, description, category, tags.
-3. Optionally fetch per-article text only after a result is selected.
+**Steps shipped**
 
-**Acceptance:** `/search-index.json` under 2 MB (baseline 9.62 MB) and search
-still returns sensible results.
+1. The index builder moved to `lib/articleIndex.js`. `includeContent` and the
+   `content` field were **removed outright**, not defaulted off, so no template
+   can reintroduce the 9.6 MB payload.
+2. `/search/` matches title, tags, category/categoryLabel, and description.
+   Terms match at a word start (so "bhairav" finds "Bhairava" but "om" no longer
+   matches "from"). Hits are ranked by the strongest matched field, then by
+   recency. Multi-term queries try strict AND first and fall back to labelled
+   "closest results" instead of "no results".
+3. `/articles/`'s "Surprise me" control now fetches the compact index too — it
+   previously downloaded 9.62 MB to pick one random URL.
+4. `/search-index.json` is a 301 to `/article-index.json` in `_redirects` for
+   any cached consumer. `/article-index.json` is the single canonical index.
+5. Search copy updated: the page no longer promises full-text search.
+6. `tests/smoke/indexing.spec.js` now fails if the index exceeds 2 MB or gains a
+   `content` key.
+
+**Acceptance:** met. `/article-index.json` is 736,116 bytes (0.70 MB; ~152 KB
+gzip, ~119 KB brotli) against a 9.62 MB baseline, and search returns sensible
+results — see the verification list at the top.
+
+**Design notes**
+
+- **No truncated "lead" field.** A 400-character body preview was measured at
+  ~1.2 MB and rejected: article openings repeat lineage boilerplate ("Om Shri
+  Gurubhyo Namah, Jai Ma Adya…"), so a lead adds noise rather than recall, and
+  any truncation silently misses body-only terms.
+- **Partial fallback, not silence.** Dropping bodies means a term found only in
+  an article body no longer matches. The fallback is labelled "No exact matches
+  — closest results", so it is never mistaken for an exact hit.
+- **Single endpoint.** Keeping `/search-index.json` as a second copy of the same
+  736 KB payload would have invited drift; the 301 keeps the old URL working
+  without duplicating the file.
+- **Word-start matching** is a small relevance change from the old substring
+  scan. It avoids common-substring noise (the old index matched "om" inside
+  "from"), and no metadata field relies on mid-word matches.
 
 ### Item 5 — Self-host and subset fonts (closes D9)
 
@@ -978,7 +1044,7 @@ analytics pull runs in GitHub Actions or a Worker cron.
 
 The only remaining work from Items 1–3 lives outside the repository and needs
 **no code** — every script, page, test, and workflow is shipped. On 2026-11-16
-the owner decided to do these **once Items 4–9 are done**.
+the owner decided to do these **once Items 5–9 are done**.
 
 Until then the site is unaffected: builds succeed without the secrets,
 `/stats/` renders its setup state, and no traffic data accumulates. That last
