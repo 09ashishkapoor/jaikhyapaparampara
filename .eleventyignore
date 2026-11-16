@@ -6,6 +6,11 @@
 # Archived plans, audits, and reports. Never published.
 archive/
 
+# Agent skills are internal operating instructions. Without this, each SKILL.md
+# is built into the published site as a bare HTML fragment (same leak class as
+# the root-level Markdown rule above).
+.agents/
+
 README.md
 node_modules
 .omx
