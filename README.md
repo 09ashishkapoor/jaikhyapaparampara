@@ -291,6 +291,8 @@ Setup, outside the repository:
 4. Create an R2 bucket and an R2 API token, then add every secret listed at the top of `.github/workflows/analytics.yml`.
 5. Optionally add a Pages deploy hook as `CF_PAGES_DEPLOY_HOOK_URL` so `/stats/` refreshes after the nightly pull.
 
+These are recorded as deferred pending actions (P1–P7) in [ROADMAP.md](ROADMAP.md#13-pending-owner-actions-deferred), to be done once the remaining roadmap items are finished. The site builds and serves identically until then.
+
 ---
 
 ## Asset Minification

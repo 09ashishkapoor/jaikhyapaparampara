@@ -2,9 +2,11 @@
 
 Single source of truth for planned work on **jaikhyapaparampara.com**.
 
-**Last updated:** 2026-11-16 (Items 1, 2, 3, and 10 implemented)
-**Status:** Items 1, 2, and 10 done; Item 3 code shipped (live data needs the
-owner-side credentials and Access setup below); Items 4–9 pending.
+**Last updated:** 2026-11-16 (Items 1, 2, 3, and 10 implemented; owner analytics
+setup recorded as deferred pending actions)
+**Status:** Items 1, 2, and 10 done; Item 3 code shipped; Items 4–9 pending.
+The remaining Item 3 work is owner-side setup, deferred until the code items are
+done — see [13. Pending owner actions](#13-pending-owner-actions-deferred).
 
 This document is written to be read cold. A new session (human or agent) with no
 memory of how it was produced should be able to start work from it directly.
@@ -51,7 +53,8 @@ article bodies as immutable unless the task says otherwise.
   copies the dashboard into `.analytics/`, and `stats.liquid` renders `/stats/`
   with `noindex`, no sitemap entry, and `X-Robots-Tag` headers. Covered by
   `tests/unit/analytics.test.js` and `tests/smoke/analytics.spec.js`. Live data
-  waits on the owner-side steps in [Item 3](#owner-steps-remaining-no-code).
+  waits on the [pending owner actions](#13-pending-owner-actions-deferred),
+  deferred until Items 4–9 are done.
 - **Item 10 — `AGENTS.md`.** Repo-root operating rules, now nine items (the OG
   card rule, the image guardrails, the root-Markdown rule, the minify rule, the
   build/verify rule, the taxonomy guard, sacred-text immutability, the roadmap
@@ -90,10 +93,9 @@ article bodies as immutable unless the task says otherwise.
 - 18 targeted Playwright tests pass: the analytics smoke tests, indexing, feeds,
   and the three no-analytics-tag performance cases.
 
-**Next task:** Item 4 (search-index payload). Item 3's remaining work is
-owner-side credential and Cloudflare Access setup, listed in
-[Item 3](#item-3--analytics-and-seo-pipeline-closes-d10); it needs no further
-code.
+**Next task:** Item 4 (search-index payload). Item 3 needs no further code; its
+owner-side setup is deferred to the end and tracked in
+[13. Pending owner actions](#13-pending-owner-actions-deferred).
 
 ### 4. The one rule that matters most
 
@@ -105,10 +107,12 @@ this in place. Do not copy it. See [Image pipeline guardrails](#10-image-pipelin
 
 ### 5. Suggested next task
 
-Items 1, 2, 3, and 10 are done. Next is **Item 4 (search-index payload)** — the
-last visible defect (9.62 MB fetched whole on `/search/`) and a contained
-change. Item 8 is the largest remaining block (three image defects, one script);
-Item 7 is the largest page-weight win but touches every layout.
+Items 1, 2, and 10 are done, and Item 3's code is shipped — its owner-side setup
+is deferred to the end ([§13](#13-pending-owner-actions-deferred)). Next is
+**Item 4 (search-index payload)** — the last visible defect (9.62 MB fetched
+whole on `/search/`) and a contained change. Item 8 is the largest remaining
+block (three image defects, one script); Item 7 is the largest page-weight win
+but touches every layout.
 
 ### 6. Build and verify
 
@@ -157,6 +161,7 @@ Test-Path _site\ACTION-PLAN                      # must be False
 - [10. Image pipeline guardrails](#10-image-pipeline-guardrails)
 - [11. Archive index](#11-archive-index)
 - [12. Remaining decisions](#12-remaining-decisions)
+- [13. Pending owner actions (deferred)](#13-pending-owner-actions-deferred)
 
 ---
 
@@ -395,10 +400,11 @@ article's `page.url` with the `https://jaikhyapaparampara.com` prefix.
 
 **Status: code done (2026-11-16).** GA4 removed; Search Console + Cloudflare
 pull, nightly Actions job, R2 JSONL store, aggregate `dashboard.json`, and
-`/stats/` all shipped. What remains is owner-side setup (credentials, the
-Cloudflare Web Analytics switch, Access), listed under
-[Owner steps remaining](#owner-steps-remaining-no-code). The shipped layout is
-in [7.8](#78-implemented-pipeline-2026-11-16).
+`/stats/` all shipped. The only remaining work is owner-side setup (credentials,
+the Cloudflare Web Analytics switch, Access), recorded as
+[pending actions P1–P7](#13-pending-owner-actions-deferred) and deferred until
+Items 4–9 are done. The shipped layout is in
+[7.8](#78-implemented-pipeline-2026-11-16).
 
 **Why:** no way to measure traffic or SEO progress today except the GA4 UI, which
 is being removed.
@@ -424,12 +430,12 @@ is being removed.
 5. Aggregate to `dashboard.json` and build `/stats/` against it.
 6. Protect `/stats/` (see below), mark it `noindex`, exclude from the sitemap.
 
-**Acceptance:** no GA4 request on any page; nightly job appends idempotent rows to
-R2; `/stats/` renders and is blocked without authentication.
+**Acceptance.** Code half (met 2026-11-16): no GA4 request on any page;
+`/stats/` renders, and the pull is idempotent under fixtures. Live half (pending
+P1–P5): the nightly job appends rows to R2 and `/stats/` is blocked without
+authentication.
 
-**Before deleting anything in GA:** export a final 12-month report and save it
-outside the repo. Once the tag is gone no new data accumulates, and deleting the
-property destroys the history.
+**Before deleting anything in GA:** see [P7](#p7--retire-ga4-do-last).
 
 #### Locking down `/stats/` — yes, Cloudflare Access
 
@@ -440,39 +446,15 @@ gives per-identity audit logs, which a shared password never could.
 **Gotcha:** the Pages **preview domain** (`<project>.pages.dev`) is a separate
 hostname and is *not* covered by an Access application scoped to
 `jaikhyapaparampara.com`. Either create a second Access application for the
-`pages.dev` hostname, or disable preview deployments. Also add
-`/stats/*` → `X-Robots-Tag: noindex` in `_headers` and a `Disallow` in `robots.txt`
-as defence in depth.
+`pages.dev` hostname, or disable preview deployments. The `/stats/*`
+`X-Robots-Tag: noindex` rule and the `robots.txt` `Disallow` are already in
+place; creating the Access application is [P5](#p5--access).
 
-#### Owner steps remaining (no code)
+#### Owner setup
 
-1. **Search Console.** Enable the API in a Google Cloud project, create a service
-   account and a JSON key, then add the service-account email as a user on the
-   Search Console property (read access is enough). Set
-   `GSC_SERVICE_ACCOUNT_JSON` (the whole key JSON) and, unless the property is
-   `sc-domain:jaikhyapaparampara.com`, `GSC_SITE_URL`.
-2. **Cloudflare Web Analytics.** Enable it for the zone. Pages sits behind the
-   Cloudflare proxy, so automatic setup injects the beacon at the edge — there is
-   no tag to add. Copy the 32-character **site tag** into `CF_RUM_SITE_TAG`
-   (it is not the zone id). Create an API token with **Account Analytics: Read**
-   for `CF_API_TOKEN`, and set `CF_ACCOUNT_ID`. The CSP already allows
-   `https://static.cloudflareinsights.com`; automatic injection reports to
-   same-origin `/cdn-cgi/rum`, which `connect-src 'self'` covers.
-3. **R2.** Create a bucket (`R2_BUCKET`), an R2 API token
-   (`R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY`), and set `R2_ACCOUNT_ID`.
-4. **Run the job once by hand** (`workflow_dispatch`) and confirm
-   `analytics/raw/` gains seven objects and `analytics/dashboard.json` exists.
-5. **Access.** Create a Cloudflare Access application for
-   `jaikhyapaparampara.com/stats/*` (One-time PIN with an email allowlist is
-   enough). Repeat for the `*.pages.dev` preview hostname or disable preview
-   deployments — an Access app scoped to the custom domain does **not** cover the
-   preview domain.
-6. **Deploy hook (optional).** Add `CF_PAGES_DEPLOY_HOOK_URL` so a successful
-   nightly pull requests a Pages build; otherwise `/stats/` refreshes on the next
-   content push.
-7. **Final GA export.** Before deleting the GA4 property, export a 12-month
-   report and save it outside the repo. The tag is already gone, so no new
-   history is accumulating.
+Seven credential, zone, and Access actions remain. They need no code, are listed
+in full as [P1–P7](#13-pending-owner-actions-deferred), and are deferred until
+Items 4–9 are done.
 
 #### Implementation notes (deliberate choices)
 
@@ -482,7 +464,8 @@ as defence in depth.
   `.analytics/dashboard.json` before Eleventy and the page renders server-side.
   A signed URL in a static page either expires or has to be public; this keeps
   traffic JSON behind the same Access policy as the page and ships no
-  client-side JS. Freshness comes from the deploy hook in step 6.
+  client-side JS. Freshness comes from the deploy hook in
+  [P6](#p6--dashboard-freshness-optional).
 - **One raw object per date** (`analytics/raw/YYYY-MM-DD.jsonl`), rows tagged
   `source`/`dataset`. A re-pull replaces `(source, dataset, date)` groups — and
   can clear a group that returns zero rows — so an API that drops a row cannot
@@ -988,3 +971,88 @@ the committed files ever become a burden). Do not reopen the rest.
 Implementation-time judgement calls that do **not** need owner sign-off: exact
 card typography and colour, JSONL field naming, cron hour, and whether the
 analytics pull runs in GitHub Actions or a Worker cron.
+
+---
+
+## 13. Pending owner actions (deferred)
+
+The only remaining work from Items 1–3 lives outside the repository and needs
+**no code** — every script, page, test, and workflow is shipped. On 2026-11-16
+the owner decided to do these **once Items 4–9 are done**.
+
+Until then the site is unaffected: builds succeed without the secrets,
+`/stats/` renders its setup state, and no traffic data accumulates. That last
+point has a deadline of its own — Cloudflare Web Analytics retains roughly 30
+days of RUM data, so the clock for the first backfill starts when **P2** is
+switched on, not before. Do P2 and P4 in the same month.
+
+| # | Pending action | Needed for | Status |
+|---|---|---|---|
+| **P1** | Search Console service account + property access | GSC pull | pending |
+| **P2** | Enable Cloudflare Web Analytics, copy the site tag | Cloudflare pull | pending |
+| **P3** | Create the R2 bucket and API token | raw + dashboard storage | pending |
+| **P4** | Add the secrets and run the workflow once | end-to-end proof | pending |
+| **P5** | Create the Cloudflare Access application for `/stats/*` | privacy | pending |
+| **P6** | Add a Pages deploy hook (optional) | dashboard freshness | pending |
+| **P7** | Export the final 12-month GA4 report, then delete the property | history | pending |
+
+### P1 — Search Console
+
+1. Enable the **Search Console API** in a Google Cloud project.
+2. Create a service account and a JSON key.
+3. Add the service-account email as a user on the Search Console property (read
+   access is enough).
+4. Set `GSC_SERVICE_ACCOUNT_JSON` to the whole key JSON. Set `GSC_SITE_URL` only
+   if the property is not `sc-domain:jaikhyapaparampara.com`.
+
+### P2 — Cloudflare Web Analytics
+
+1. Enable Web Analytics for the zone. Pages sits behind the Cloudflare proxy, so
+   automatic setup injects the beacon at the edge — there is no tag to add.
+2. Copy the **32-character site tag**; it is not the zone id.
+3. Create an API token with **Account Analytics: Read**.
+4. Set `CF_RUM_SITE_TAG`, `CF_API_TOKEN`, and `CF_ACCOUNT_ID`.
+
+The CSP already allows `https://static.cloudflareinsights.com`, and automatic
+injection reports to same-origin `/cdn-cgi/rum`, which `connect-src 'self'`
+covers. Do not add `Cache-Control: … no-transform` to HTML or Cloudflare cannot
+inject the beacon.
+
+### P3 — R2
+
+1. Create a bucket and set `R2_BUCKET`.
+2. Create an R2 API token and set `R2_ACCESS_KEY_ID` / `R2_SECRET_ACCESS_KEY`.
+3. Set `R2_ACCOUNT_ID`.
+
+### P4 — First run
+
+Add every secret listed at the top of `.github/workflows/analytics.yml`, then
+trigger the workflow once with **workflow_dispatch**. Confirm `analytics/raw/`
+gains eight objects (GSC lags two days, Cloudflare one, so the two seven-day
+windows union to eight dates) and `analytics/dashboard.json` exists. Local
+equivalent: `npm run analytics:pull` (with the same variables in the environment).
+
+### P5 — Access
+
+1. Create a Cloudflare Access application for
+   `jaikhyapaparampara.com/stats/*`. A One-time PIN to an email allowlist is
+   enough.
+2. Repeat for the `*.pages.dev` preview hostname, or disable preview
+   deployments — an Access app scoped to the custom domain does **not** cover the
+   preview domain.
+
+### P6 — Dashboard freshness (optional)
+
+Add `CF_PAGES_DEPLOY_HOOK_URL` so a successful nightly pull requests a Pages
+build. Without it, `/stats/` refreshes on the next content push; the page always
+shows its own `Generated` timestamp, so staleness is visible.
+
+### P7 — Retire GA4 (do last)
+
+The tag is already gone, so no new history is accumulating. Before deleting the
+GA4 property, export a final 12-month report and save it outside the repo.
+Deleting the property destroys the history permanently.
+
+**When P1–P7 are done:** change the status line at the top to "Items 1, 2, 3, and
+10 done", add the first real dashboard date to the verification list, and delete
+this section.
