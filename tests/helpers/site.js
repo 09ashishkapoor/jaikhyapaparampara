@@ -1,3 +1,6 @@
+// Safety net only: fonts are self-hosted under fonts/ (ROADMAP Item 5), so these
+// routes should never match. Aborting them keeps the suite offline, and
+// tests/smoke/fonts.spec.js fails if a Google Fonts reference is reintroduced.
 const EXTERNAL_NOISE_PATTERNS = [
   'https://fonts.googleapis.com/**',
   'https://fonts.gstatic.com/**'

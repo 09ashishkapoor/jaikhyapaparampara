@@ -97,10 +97,7 @@ main a:where(:not([class]):not([style]):focus-visible){outline:2px solid var(--a
 .nav-menu a{font-size:1rem;}
 }
     </style>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=Philosopher:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript><link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=Philosopher:wght@400;700&display=swap" rel="stylesheet"></noscript>
+    {% include "font-head.liquid" %}
     {% include "site-chrome.liquid" %}
     <!-- Analytics: Cloudflare Web Analytics is injected at the edge (cookieless,
          no consent banner). Do not add a client-side analytics tag here. -->

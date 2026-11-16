@@ -509,9 +509,6 @@
       }
     </style>
 
-    <!-- Fonts: preconnect then preload stylesheet to avoid render-blocking -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="dns-prefetch" href="https://files.jaikhyapaparampara.com" />
     <link rel="dns-prefetch" href="https://archive.org" />
     <link
@@ -519,21 +516,8 @@
       href="https://files.jaikhyapaparampara.com"
       crossorigin
     />
-    <!-- CLS FIX: Use font-display=swap and add fallback font metrics to prevent layout shift -->
-    <link
-      rel="preload"
-      href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&family=Philosopher:wght@400;700&display=swap"
-      as="style"
-      onload="
-        this.onload = null;
-        this.rel = 'stylesheet';
-      "
-    />
-    <noscript
-      ><link
-        href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&family=Philosopher:wght@400;700&display=swap"
-        rel="stylesheet"
-    /></noscript>
+    <!-- Fonts: self-hosted (ROADMAP Item 5), same-origin woff2 + swap. -->
+    {% include "font-head.liquid" %}
 
     <!-- CRITICAL: Prevent CLS during font load and initial paint -->
     <style>

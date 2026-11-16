@@ -54,3 +54,10 @@ changes and the constraints below.
    cookieless) plus the Search Console API — do not re-add Google Analytics or
    any other client-side tracker. Run `npm run test:analytics` after touching
    `lib/analytics/` or `scripts/analytics-*.js`.
+
+10. **Fonts are self-hosted; never re-add a Google Fonts reference.** `fonts/`
+    holds the Crimson Text + Philosopher woff2 subsets and the generated
+    `fonts/fonts.css`. Regenerate with `npm run fonts:fetch` instead of editing
+    either by hand, and keep the preload hints in `_includes/font-head.liquid`
+    pointing at files that exist (`npm run fonts:check` verifies both). The CSP in
+    `_headers` no longer allows `fonts.googleapis.com` or `fonts.gstatic.com`.

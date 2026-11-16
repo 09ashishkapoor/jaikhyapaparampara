@@ -2,10 +2,10 @@
 
 Single source of truth for planned work on **jaikhyapaparampara.com**.
 
-**Last updated:** 2026-11-16 (Items 1, 2, 3, 4, and 10 implemented; Item 4 was
+**Last updated:** 2026-11-16 (Items 1, 2, 3, 4, 5, and 10 implemented; Item 4 was
 revised after owner feedback so full-text search stays, with the text index off
 the critical path; owner analytics setup recorded as deferred pending actions)
-**Status:** Items 1, 2, 4, and 10 done; Item 3 code shipped; Items 5–9 pending.
+**Status:** Items 1, 2, 4, 5, and 10 done; Item 3 code shipped; Items 6–9 pending.
 The remaining Item 3 work is owner-side setup, deferred until the code items are
 done — see [13. Pending owner actions](#13-pending-owner-actions-deferred).
 
@@ -64,12 +64,24 @@ article bodies as immutable unless the task says otherwise.
   `/articles/` never fetch the large index. Covered by
   `tests/smoke/indexing.spec.js`, `tests/smoke/site-smoke.spec.js`, and the
   search accessibility test.
-- **Item 10 — `AGENTS.md`.** Repo-root operating rules, now nine items (the OG
+- **Item 5 — Self-hosted fonts.** Google Fonts is gone from both layouts and the
+  homepage. `fonts/` holds 12 woff2 subsets (Crimson Text 400/400-italic/600/700
+  and Philosopher 400/700, Latin and Latin Extended), downloaded from Google's
+  own serve URLs by `scripts/fetch-fonts.js` (`npm run fonts:fetch`) and committed;
+  `fonts/fonts.css` carries the `@font-face` rules with `font-display: swap` and
+  Google's `unicode-range` values. Three files include it through
+  `_includes/font-head.liquid`: `_includes/article.liquid`,
+  `_includes/base.liquid`, and the homepage `index.html`; it also carries the two
+  `<link rel="preload">` hints for the first-viewport faces. The CSP in
+  `_headers` no longer lists `fonts.googleapis.com` or `fonts.gstatic.com`, and
+  `/fonts/*.woff2` is cached immutably. OFL licences ship alongside the files.
+  Covered by `tests/smoke/fonts.spec.js` and `npm run fonts:check`.
+- **Item 10 — `AGENTS.md`.** Repo-root operating rules, now ten items (the OG
   card rule, the image guardrails, the root-Markdown rule, the minify rule, the
   build/verify rule, the taxonomy guard, sacred-text immutability, the roadmap
-  pointer, and the new `/stats/` privacy rule). It was gitignored under
-  "Internal-only documentation"; that entry was removed so the file can be
-  committed. `/*.md` in `.eleventyignore` still keeps it unpublished.
+  pointer, the `/stats/` privacy rule, and the self-hosted-font rule). It was
+  gitignored under "Internal-only documentation"; that entry was removed so the
+  file can be committed. `/*.md` in `.eleventyignore` still keeps it unpublished.
 - Defunct plans/reports moved from repo root to `archive/`.
 - `.eleventyignore` anchored with `/*.md` and `archive/` so root Markdown can
   never be published. This fixed a real leak — see [Already fixed](#44-already-fixed).
@@ -119,8 +131,33 @@ article bodies as immutable unless the task says otherwise.
 - 19 targeted Playwright tests pass: search accessibility, indexing, the search
   and gallery smoke flows, and all three visual surfaces.
 
-**Next task:** Item 5 (self-host and subset fonts). Item 3 needs no further code;
-its owner-side setup is deferred to the end and tracked in
+**Verification for Item 5 (2026-11-16):**
+
+- `npm run build:test` succeeds; `_site/fonts/` contains the 12 woff2 files,
+  `fonts.css`, and both OFL licences.
+- All 3,522 built HTML files contain zero references to `fonts.googleapis.com` or
+  `fonts.gstatic.com`, and all 3,522 link `/fonts/fonts.css`.
+- `_site/_headers` CSP lists neither font host; `/fonts/*.woff2` carries
+  `Cache-Control: public, max-age=31536000, immutable` and `/fonts/fonts.css`
+  must-revalidate.
+- In Chromium, an article page and the homepage request only same-origin
+  `/fonts/*.woff2` files — seven of them on an IAST-heavy article (Latin +
+  Latin-Extended, normal/italic/600/700) — and load Crimson Text and Philosopher.
+- **Rendering is pixel-identical.** The article body was screenshotted twice: once
+  with the self-hosted files, once with `/fonts/fonts.css` fulfilled from Google's
+  CDN (same 7 gstatic files requested). Both PNGs are byte-identical
+  (1,514,514 bytes), on the IAST-heavy Batuka Bhairava Kavacham page and on a
+  sahasranama page where the Latin-Extended body face is used.
+- Payload: `fonts.css` is 5,413 B (852 B gzip, 687 B brotli); the 12 woff2 files
+  total 239 KB in the repo, of which a typical page downloads the three Latin
+  faces it needs (67.9 KB) — the same files Google was serving, minus the
+  cross-origin connection setup.
+- `npm run fonts:check` passes; `npm run validate` passes 33 tests, including the
+  three new font tests and the four regenerated visual baselines.
+
+**Next task:** Item 8 (image pipeline: D1, D6, D7). Item 6 is a cheap warm-up if a
+short session is preferred; Item 7 is the largest page-weight win. Item 3 needs
+no further code; its owner-side setup is deferred to the end and tracked in
 [13. Pending owner actions](#13-pending-owner-actions-deferred).
 
 ### 4. The one rule that matters most
@@ -133,18 +170,19 @@ this in place. Do not copy it. See [Image pipeline guardrails](#10-image-pipelin
 
 ### 5. Suggested next task
 
-Items 1, 2, 4, and 10 are done, and Item 3's code is shipped — its owner-side
+Items 1, 2, 4, 5, and 10 are done, and Item 3's code is shipped — its owner-side
 setup is deferred to the end ([§13](#13-pending-owner-actions-deferred)). Next is
-**Item 5 (self-host and subset fonts)** — the last third-party origin on the
-critical path, and a contained change to the two layouts, `_headers`, and a new
-`fonts/` directory. Item 8 is the largest remaining block (three image defects,
-one script); Item 7 is the largest page-weight win but touches every layout.
+**Item 8 (image pipeline)** — three separate image defects (WebP caching, missing
+`width`/`height`, the 1600 px lightbox cap) closed by one script, and the last
+item that fixes live defects. Item 6 is the cheap warm-up if a short session is
+preferred; Item 7 is the largest page-weight win but touches every layout.
 
 ### 6. Build and verify
 
 ```bash
 npm ci                    # only if node_modules is missing
 npm run build:test        # clean + eleventy, ~105 s, ~3,700 files
+npm run fonts:check       # offline: CSS + every preload points at a real file
 npm run test:analytics    # analytics pipeline unit tests (Node, no browser)
 npm run validate          # Playwright; needs `npx playwright install chromium`
 ```
@@ -283,10 +321,11 @@ Measured 2026-11-15 on this machine. Not estimates.
 
 ### 4.3 CSS architecture (important, easy to get wrong)
 
-- **No page links a local stylesheet**, with one exception: the homepage
-  `index.html` links `styles.min.css` — and it does so with a *relative* path,
-  which only works because the homepage is at `/`. Any new page in a subdirectory
-  must use `/styles.min.css`.
+- **No page links a local stylesheet except `/fonts/fonts.css`** (Item 5, included
+  by `_includes/font-head.liquid` in every layout). The homepage `index.html` also
+  links `styles.min.css` — and it does so with a *relative* path, which only works
+  because the homepage is at `/`. Any new page in a subdirectory must use
+  `/styles.min.css`.
 - **Every other page is styled entirely by inline `<style>` blocks.** Article
   pages carry 3 blocks / 20,299 bytes.
 - `styles.css` → `styles.min.css` and `script.js` → `script.min.js` are minified
@@ -332,6 +371,13 @@ every one of them failed instantly, and the queue file
 repo referenced it. The separate and still-active `.agents/skills/` directory is
 untouched.
 
+**Agent skill docs were being published.** `_site/.agents/skills/transcript-context/SKILL/index.html`
+was a built page — the same leak class as the root-level Markdown above: an
+unignored `.md` built as a bare HTML fragment, reachable at
+`/.agents/skills/transcript-context/SKILL/`. It was unlinked and absent from the
+sitemap and `robots.txt`, so it was hard to find, but it was live. `.agents/` is
+now in `.eleventyignore`, and `_site/.agents` no longer exists.
+
 ---
 
 ## 5. Known defects
@@ -346,7 +392,7 @@ untouched.
 | D6 | 122 of 127 article `<img>` tags have no `width`/`height` | CLS risk; gallery tiles already do it correctly (`gallery-tile.liquid:25-26`) | Item 8 |
 | D7 | Lightbox caps at 1600 px for the largest works | `kali_0249` (5600 px) renders at 29% of native. 13 works are downscaled in the viewer. | Item 8 |
 | D8 | No shared stylesheet; ~20 KB inline per article page | 3 blocks / 20,299 bytes on a built article — over a third of the 55 KB page. Homepage carries 30.6 KB inline in 7 blocks *and* links an external sheet. Uncacheable across 1,230 pages. | Item 7 |
-| D9 | Google Fonts on the critical path | Crimson Text + Philosopher; 8 references, 2 distinct `css2` URLs; `_includes/article.liquid:292-294`, `_includes/base.liquid:98-101` | Item 5 |
+| D9 | Google Fonts on the critical path | Crimson Text + Philosopher; 8 references, 2 distinct `css2` URLs; `_includes/article.liquid:292-294`, `_includes/base.liquid:98-101` | Item 5 (done) |
 | D10 | GA4 on every page | `index.html`, `_includes/article.liquid` (loader at lines 21–32), `_includes/base.liquid` | Item 3 (done) |
 
 ---
@@ -580,17 +626,61 @@ terms and body excerpts.
 
 ### Item 5 — Self-host and subset fonts (closes D9)
 
-**Files:** new `fonts/` (or `images/fonts/`), `_includes/article.liquid`,
-`_includes/base.liquid`, `_headers`, CSP in `_headers`, `.eleventy.js`
-passthrough.
+**Status: done (2026-11-16).** No page requests `fonts.googleapis.com` or
+`fonts.gstatic.com`; both hosts are out of the CSP.
 
-**Steps:** download Crimson Text + Philosopher, convert to `woff2`, subset with
-`unicode-range`, add `@font-face` with `font-display: swap`, remove the three
-Google Fonts references in each layout, drop `fonts.googleapis.com` and
-`fonts.gstatic.com` from the CSP.
+**Files (shipped):** `fonts/` (12 woff2 + generated `fonts.css` + two OFL
+licences), `scripts/fetch-fonts.js`, `_includes/font-head.liquid`,
+`_includes/article.liquid`, `_includes/base.liquid`, `index.html`, `_headers`,
+`.eleventy.js`, `package.json`, `tests/smoke/fonts.spec.js`,
+`tests/helpers/site.js`, `styles.css` (stale Google Fonts comment only),
+`AGENTS.md`.
 
-**Acceptance:** zero requests to `fonts.googleapis.com` / `fonts.gstatic.com`;
-text renders identically; CSP no longer lists either host.
+**Steps shipped**
+
+1. `scripts/fetch-fonts.js` (`npm run fonts:fetch`) requests the same css2 payload
+   the templates used to load and keeps only the `latin` and `latin-ext` subsets —
+   Latin Extended is what carries the IAST transliteration (ā ī ū ṛ ṃ ḥ ś ṣ ṭ ḍ ṇ)
+   used across the articles. `vietnamese`, `cyrillic` and `cyrillic-ext` are
+   dropped. It writes the 12 woff2 files plus `fonts/fonts.css` and is
+   deterministic, so re-running it is a no-op.
+2. `fonts/fonts.css` holds the `@font-face` rules with Google's `unicode-range`
+   values and `font-display: swap`; the family version is in every filename
+   (`crimson-text-v19-…`, `philosopher-v21-…`) so the files can be cached
+   immutably.
+3. One include, `_includes/font-head.liquid`, replaces the three Google Fonts
+   reference blocks (five tags in `base.liquid`, three in `article.liquid`, four in
+   `index.html`). It emits two `<link rel="preload">` hints — the body face and the
+   Philosopher 700 site logo — then `/fonts/fonts.css`.
+4. CSP: `fonts.googleapis.com` / `fonts.gstatic.com` removed from `script-src`,
+   `style-src`, and `font-src`. `_headers` gains
+   `/fonts/*.woff2 → max-age=31536000, immutable` and
+   `/fonts/fonts.css → max-age=0, must-revalidate`.
+5. `.eleventy.js` passthrough-copies `fonts/`; `AGENTS.md` rule 10 and
+   `tests/smoke/fonts.spec.js` stop a Google Fonts `<link>` from coming back;
+   `npm run fonts:check` verifies offline that the CSS and the preload hints point
+   at files that exist.
+
+**Acceptance:** met. Zero requests to either host (all 3,523 built HTML files
+contain no reference); rendering pixel-identical to the Google-served files;
+CSP lists neither host.
+
+**Design notes**
+
+- **Google's own subsets, not a custom subset.** Google already splits each family
+  into `unicode-range` chunks, so a browser downloads only the chunk a page needs.
+  Re-subsetting to the exact glyphs used today would save a few KB but breaks the
+  next article that introduces a new diacritic. The subsetting work is dropping
+  the ranges this site never uses.
+- **No dependency added.** The files come from Google's serve URLs over `fetch`;
+  no `fonttools`, no `woff2` encoder, no build step. `npm ci` is unchanged.
+- **`/fonts/fonts.css` is one cacheable file, not inline CSS.** It is 852 B gzip
+  and replaces a cross-origin Google stylesheet, so every page trades one
+  third-party request for one same-origin request. Item 7 can fold it into the
+  shared stylesheet later.
+- **The homepage's fallback-metric block is untouched.** The
+  `"Crimson Text Fallback"` / `"Philosopher Fallback"` `@font-face` rules with
+  `size-adjust` stay; they describe the local fallback stack, not Google.
 
 ### Item 6 — Colophon and changelog (new pages)
 
@@ -608,7 +698,9 @@ sitemap. Content per [settled decisions](#3-settled-decisions-do-not-relitigate)
 ### Item 7 — Shared stylesheet (closes D8)
 
 **Why:** every article page ships ~20 KB of inline CSS and caches nothing between
-pages. The homepage is the only page that loads an external sheet.
+pages. The homepage is the only page that loads a shared stylesheet — every page
+now loads the 852 B `fonts/fonts.css` from Item 5, which this item can fold into
+the shared file.
 
 **Files:** `styles.css`, `_includes/article.liquid`, `_includes/base.liquid`,
 `_includes/site-chrome.liquid`, `minify-css.py`.

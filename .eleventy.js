@@ -49,6 +49,7 @@ module.exports = (eleventyConfig) => {
 	eleventyConfig.addPassthroughCopy("CLS_FIXES.css");
 	eleventyConfig.addPassthroughCopy("script.js");
 	eleventyConfig.addPassthroughCopy("script.min.js");
+	eleventyConfig.addPassthroughCopy("fonts");
 	eleventyConfig.addPassthroughCopy("images");
 	eleventyConfig.addPassthroughCopy("*.png");
 	eleventyConfig.addPassthroughCopy("*.jpg");
