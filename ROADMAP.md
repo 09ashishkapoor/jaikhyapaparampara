@@ -374,6 +374,16 @@ harness interpreter is at
 `C:\Users\kalbhairav\.dsh\dsh-runtimes\dsh-primary-runtime\dependencies\python\python.exe`
 (needed for `minify-css.py` / `minify-js.py`).
 
+**Commit identity.** This checkout's repo-local git config authors commits as
+`09ashishkapoor <202602731+09ashishkapoor@users.noreply.github.com>` — the
+numeric-id noreply address for the GitHub account, which GitHub attributes to the
+profile. Do not reset it to a machine-local name or to a plain
+`<username>@users.noreply.github.com` address; only an address associated with the
+account gets attribution. Commits before 2026-11-16 are authored as
+`kalbhairav <kalbhairav@users.noreply.github.com>`; they are deliberately left
+alone, because re-authoring them would rewrite published history and every sha
+this document references.
+
 **GitHub Actions `validation` was red from 2026-11-14 for an environmental
 reason, now fixed:** `ubuntu-latest` began migrating to Ubuntu 26 on 2026-10-19
 (the run's own annotation says so), and the job landed on `Image: ubuntu-26.04`,
