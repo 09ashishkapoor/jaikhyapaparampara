@@ -308,6 +308,13 @@ article bodies as immutable unless the task says otherwise.
   `rgb(31,11,17)` temple background, footer and header unchanged.
 - `npm run validate` passes **62 tests** (54 before + 6 new page tests + the two
   new URLs added to the shared-stylesheet check).
+- **Deployed to production 2026-11-16** (`main` at `2e15f51`, build-version
+  `1.261116.0613`; the follow-up commit that added the changelog entry for these
+  pages and this record was deployed after it). Verified on
+  `https://jaikhyapaparampara.com`: `/colophon/` and `/changelog/` return 200 with
+  `index, follow`, absolute canonicals, the full document shell and
+  `/site.min.css`; every footer links both; `sitemap.xml` and `llms.txt` list
+  both; the `validation` workflow is green.
 
 **Next task:** no roadmap items remain. What is left is the owner-side analytics
 setup ([§13](#13-pending-owner-actions)) and the optional homepage-CSS
