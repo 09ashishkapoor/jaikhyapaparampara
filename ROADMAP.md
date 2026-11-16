@@ -376,18 +376,38 @@ harness interpreter is at
 
 **GitHub Actions `validation` was red from 2026-11-14 for an environmental
 reason, now fixed:** `ubuntu-latest` began migrating to Ubuntu 26 on 2026-10-19
-(the run's own annotation says so), and `npx playwright install --with-deps
-chromium` fails there because Playwright 1.59.1's apt package list targets 22.04
-and 24.04. No repository change sits between the last green run (`8a24a2f`,
-2026-11-12) and the first red one (`72f2774`, 2026-11-14). Both jobs are pinned to
-`ubuntu-24.04`, and the unit tests now run *before* the browser install so a
-broken install can never hide them. Revisit the pin only when Playwright is
-upgraded — a new Chromium build means regenerated visual baselines.
+(the run's own annotation says so), and the job landed on `Image: ubuntu-26.04`,
+where Playwright 1.59.1 refuses to install Chromium at all:
+
+```
+BEWARE: your OS is not officially supported by Playwright; installing
+dependencies for ubuntu26.04-x64 as a fallback.
+Error: ERROR: Playwright does not support chromium on ubuntu26.04-x64
+```
+
+No repository change sits between the last green run (`8a24a2f`, 2026-11-12) and
+the first red one (`72f2774`, 2026-11-14). Both jobs are pinned to `ubuntu-24.04`,
+and the unit tests now run *before* the browser install so a broken install can
+never hide them. Revisit the pin only when Playwright is upgraded — a new Chromium
+build means regenerated visual baselines.
+
+CI still runs **Node 18** (`.node-version`) and `npm ci` warns
+`EBADENGINE` for `sharp@0.35.5` (needs `>=20.9`). That is harmless today because
+`sharp` is only used by the manual `npm run images` / `npm run og` scripts, never
+by the build, but Node 18 is end-of-life and bumping `.node-version` is worth doing
+alongside the next Playwright upgrade.
 
 **Verified green 2026-11-16** on run `43809150895` (`58292c2`): both jobs complete,
 the browser job logs `Runner is Ubuntu 24.04.5 LTS`, the unit tests run before
-the browser install, and all 41 Playwright tests — including the three Linux
-visual baselines — pass in CI.
+the browser install, and every Playwright test — including the three Linux visual
+baselines — passes in CI.
+
+**Reading CI logs:** job logs are not readable anonymously (the REST logs endpoint
+returns 403 and the job page renders client-side), but the GitHub CLI is installed
+and logged in as `09ashishkapoor` with `repo` + `workflow` scopes:
+`gh run list`, `gh run view <run-id> --log-failed`, `gh api`. Check-run
+*annotations* are public even without auth, which is how the Ubuntu 26 diagnosis
+was first found.
 
 Verification is by reading `_site/`, not by trusting the build log. Example checks
 used in this session:
