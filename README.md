@@ -148,7 +148,7 @@ markdownfiles_forblog/        # Raw YouTube transcript staging area
 │   redundant/                #   Duplicates / retired files
 docs/                         # How-to guides and editorial notes
 lib/analytics/                # Search Console, Cloudflare, SigV4/R2, dashboard aggregation
-lib/articleIndex.js           # Compact metadata-only index shared by search and homepage
+lib/articleIndex.js           # Metadata + full-text index builders for the search UI
 scripts/                      # Build, audit, and analytics helpers (Node + Python)
 │   analytics-pull.js         #   Nightly pull → R2 raw JSONL + dashboard.json
 │   analytics-fetch.js        #   R2 dashboard → .analytics/ before the build
@@ -157,7 +157,8 @@ wrangler.toml                 # Cloudflare Pages config
 styles.css / styles.min.css   # Stylesheet (source + minified)
 script.js  / script.min.js    # Frontend JS (source + minified)
 sitemap.liquid                # Sitemap template → sitemap.xml
-article-index.11ty.js         # Emits /article-index.json (JS template)
+article-index.11ty.js         # Emits the compact /article-index.json (JS template)
+search-index.11ty.js          # Emits the deferred /search-index.json (JS template)
 gallery.liquid                # Sacred image gallery (data: _data/galleryImages.js)
 stats.liquid                  # Private /stats/ analytics dashboard (noindex)
 _headers                      # Cloudflare HTTP response headers
@@ -243,7 +244,7 @@ The optional nightly analytics job needs its own secrets (listed in `.github/wor
 
 All non-empty tag archives allow indexing. Their links appear on articles and in the alphabetical topic directory at `/tags/`, which lists 100 topics per page. Every directory page is included in the sitemap. Keep this link policy in sync with the robots metadata; removing `noindex` alone does not restore internal links.
 
-The homepage, `/search/`, and the `/articles/` "Surprise me" control all load `/article-index.json`, a compact metadata index (title, description, category, tags) that carries no article bodies. Full text is not part of the search payload; article text lives on the article pages. The retired `/search-index.json` path permanently redirects to `/article-index.json`.
+The homepage, `/search/`, and the `/articles/` "Surprise me" control load `/article-index.json`, a compact metadata index (title, description, category, tags). The search page renders those results immediately, then loads `/search-index.json` in the background and merges in full article-text matches; the text index never blocks the first result.
 
 Sitemap `<lastmod>` uses each article's last git commit date. Cloudflare Pages builds from a shallow clone, so run `npm run sitemap:dates` after editing article content and commit `_data/articleLastmod.json` with those edits.
 

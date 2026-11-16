@@ -2,13 +2,13 @@ const { test, expect } = require("@playwright/test");
 
 const origin = "https://jaikhyapaparampara.com";
 
-test("the shared article index stays metadata-only and under the payload budget", async ({ request }) => {
-	const response = await request.get("/article-index.json");
-	expect(response.ok()).toBe(true);
-	const body = await response.text();
-	expect(Buffer.byteLength(body, "utf8")).toBeLessThan(2 * 1024 * 1024);
+test("the metadata index stays compact while the text index carries full bodies", async ({ request }) => {
+	const metadataResponse = await request.get("/article-index.json");
+	expect(metadataResponse.ok()).toBe(true);
+	const metadataBody = await metadataResponse.text();
+	expect(Buffer.byteLength(metadataBody, "utf8")).toBeLessThan(2 * 1024 * 1024);
 
-	const articles = JSON.parse(body);
+	const articles = JSON.parse(metadataBody);
 	expect(articles.length).toBeGreaterThan(1000);
 	expect(articles.every((article) => !Object.hasOwn(article, "content"))).toBe(true);
 	expect(
@@ -21,16 +21,28 @@ test("the shared article index stays metadata-only and under the payload budget"
 				typeof article.categoryLabel === "string",
 		),
 	).toBe(true);
+
+	const textResponse = await request.get("/search-index.json");
+	expect(textResponse.ok()).toBe(true);
+	const textEntries = await textResponse.json();
+	expect(textEntries.map((entry) => entry.url)).toEqual(articles.map((article) => article.url));
+	expect(
+		textEntries.every(
+			(entry) => entry.url && typeof entry.content === "string" && entry.content.length > 0,
+		),
+	).toBe(true);
+	expect(textEntries.some((entry) => entry.content.length > 1000)).toBe(true);
 });
 
-test("the homepage and search page both load the compact article index", async ({ request }) => {
+test("the homepage and search page load the compact index, and search also loads full text", async ({ request }) => {
 	const homepage = await (await request.get("/")).text();
 	expect(homepage).toContain('fetch("/article-index.json")');
 	expect(homepage).not.toContain('fetch("/search-index.json")');
 
 	const searchPage = await (await request.get("/search/")).text();
 	expect(searchPage).toContain("fetch('/article-index.json')");
-	expect(searchPage).not.toContain("full article text");
+	expect(searchPage).toContain("fetch('/search-index.json')");
+	expect(searchPage).toContain("full article text");
 });
 
 test("tag pages stay out of the sitemap and are noindex navigation", async ({ request }) => {

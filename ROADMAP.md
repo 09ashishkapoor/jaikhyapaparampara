@@ -2,8 +2,9 @@
 
 Single source of truth for planned work on **jaikhyapaparampara.com**.
 
-**Last updated:** 2026-11-16 (Items 1, 2, 3, 4, and 10 implemented; owner
-analytics setup recorded as deferred pending actions)
+**Last updated:** 2026-11-16 (Items 1, 2, 3, 4, and 10 implemented; Item 4 was
+revised after owner feedback so full-text search stays, with the text index off
+the critical path; owner analytics setup recorded as deferred pending actions)
 **Status:** Items 1, 2, 4, and 10 done; Item 3 code shipped; Items 5–9 pending.
 The remaining Item 3 work is owner-side setup, deferred until the code items are
 done — see [13. Pending owner actions](#13-pending-owner-actions-deferred).
@@ -55,15 +56,14 @@ article bodies as immutable unless the task says otherwise.
   `tests/unit/analytics.test.js` and `tests/smoke/analytics.spec.js`. Live data
   waits on the [pending owner actions](#13-pending-owner-actions-deferred),
   deferred until Items 5–9 are done.
-- **Item 4 — Search index payload.** The 9.62 MB full-text index is gone. The
-  build emits one compact metadata-only index at `/article-index.json` (736 KB:
-  title, description, category, tags, reading time — no article bodies) from
-  `lib/articleIndex.js` via `article-index.11ty.js`. The homepage, `/search/`,
-  and the `/articles/` "Surprise me" control all load it, and
-  `/search-index.json` 301s to it in `_redirects`. Search ranks by field weight
-  and falls back to clearly labelled closest matches when a term only exists in
-  an article body. Covered by `tests/smoke/indexing.spec.js` and the search
-  smoke/accessibility tests.
+- **Item 4 — Search index payload.** Search keeps full article text, but no
+  longer waits for it. `/article-index.json` (736 KB, metadata only) renders the
+  first results, and `/search-index.json` (9.44 MB of `{url, content}` only,
+  ~2.33 MB brotli) loads in the background on the first search and merges body
+  matches in. `/search/` is `aria-busy` during the handoff; the homepage and
+  `/articles/` never fetch the large index. Covered by
+  `tests/smoke/indexing.spec.js`, `tests/smoke/site-smoke.spec.js`, and the
+  search accessibility test.
 - **Item 10 — `AGENTS.md`.** Repo-root operating rules, now nine items (the OG
   card rule, the image guardrails, the root-Markdown rule, the minify rule, the
   build/verify rule, the taxonomy guard, sacred-text immutability, the roadmap
@@ -102,19 +102,20 @@ article bodies as immutable unless the task says otherwise.
 - 18 targeted Playwright tests pass: the analytics smoke tests, indexing, feeds,
   and the three no-analytics-tag performance cases.
 - `/article-index.json` is 736,116 bytes (0.70 MB; ~152 KB gzip, ~119 KB
-  brotli) and contains no `content` key; `_site/search-index.json` does not
-  exist. The 2 MB payload guard is asserted in `tests/smoke/indexing.spec.js`.
-- `/search/` and `/articles/` both fetch `/article-index.json`; no built page
-  references `/search-index.json`, and the search copy no longer claims
-  full-text search.
-- Search queries return sensible results: "kavacham" 2, "kundalini" 13,
-  "shiva hunter legend" 1 exact, "Om Shri Gurubhyo Namah" labelled closest
-  matches, "zzzz" none.
-- Both search-panel visual baselines (`win32`, `linux`) were regenerated; the
-  homepage hero and gallery baselines are unchanged. The Linux baselines were
-  regenerated inside the Playwright 1.59.1 Docker image
-  (`mcr.microsoft.com/playwright`) and pass there; all three Windows visual
-  tests pass locally.
+  brotli), contains no `content` key, and is served to the homepage,
+  `/articles/`, and the first search render.
+- `/search-index.json` is 9,444,464 bytes (9.01 MB; ~3.24 MB gzip, ~2.33 MB
+  brotli) with 1,205 `{url, content}` entries. It is fetched only after the
+  metadata results render: with a 3-second artificial delay on that request, the
+  panel shows `aria-busy="true"` and "searching article text…" with 60 results
+  already visible, then settles to `aria-busy="false"` and a final count.
+- Full-text queries work again, including body-only terms: "amnesia" 2,
+  "gurubhyo namah" 124, "hunter unknowingly worshipped" 2; "zzzz" none. Body
+  matches show an excerpt around the matched term.
+- The homepage and `/articles/` fetch only `/article-index.json`; `/search/`
+  fetches both. The search copy again promises full article text, and the
+  original search-panel visual baselines were restored unchanged (no snapshot
+  churn).
 - 19 targeted Playwright tests pass: search accessibility, indexing, the search
   and gallery smoke flows, and all three visual surfaces.
 
@@ -167,8 +168,8 @@ used in this session:
 
 ```powershell
 Test-Path _site\ACTION-PLAN                      # must be False
-Test-Path _site\search-index.json                # must be False (301 → /article-index.json)
-(Get-Item _site\article-index.json).Length/1MB   # baseline 0.70
+(Get-Item _site\article-index.json).Length/1MB   # baseline 0.70 (metadata)
+(Get-Item _site\search-index.json).Length/1MB    # baseline 9.01 (full text, deferred)
 ```
 
 ---
@@ -340,7 +341,7 @@ untouched.
 | D1 | WebP cached 5 minutes, not 1 year | Live header `max-age=300, must-revalidate`. `_headers` covers only `/*.jpg` and `/*.png` (`_headers:23-27`), so 146 of 160 files miss it. | Item 8 |
 | D2 | Social preview broken on ~1,193 articles | 0 articles set `ogImage`; 12 set `featuredImage`. Fallback `Bama_Khepa.webp` is 505×748 (ratio 0.68) — under the 1200 px spec and center-cropped to a band. | Item 1 |
 | D3 | Two divergent OG paths | `_includes/article.liquid:48` reads `featuredImage` and prepends `/`; `_includes/base.liquid:22,37` reads `ogImage` and prepends nothing. An `ogImage` without a leading slash yields `https://jaikhyapaparampara.comimages/…` | Item 1 |
-| D4 | Search index ships full text | `search-index.11ty.js` sets `entry.content` for all 1,205 articles. `_site/search-index.json` = **9.62 MB**, fetched whole by `search.liquid:252` | Item 4 |
+| D4 | Search index ships full text | `_site/search-index.json` was **9.62 MB** of article bodies fetched before anything rendered. Now text-only at 9.44 MB, fetched after the first results; the metadata index is 736 KB. | Item 4 (mitigated) |
 | D5 | No feeds at all | Zero RSS/Atom endpoints | Item 2 |
 | D6 | 122 of 127 article `<img>` tags have no `width`/`height` | CLS risk; gallery tiles already do it correctly (`gallery-tile.liquid:25-26`) | Item 8 |
 | D7 | Lightbox caps at 1600 px for the largest works | `kali_0249` (5600 px) renders at 29% of native. 13 works are downscaled in the viewer. | Item 8 |
@@ -516,58 +517,66 @@ Items 5–9 are done.
 
 ### Item 4 — Search index payload (closes D4)
 
-**Status: done (2026-11-16).** One metadata-only index at `/article-index.json`
-(736 KB, from 9.62 MB). `/search/` and `/articles/` both use it;
-`/search-index.json` is retired and 301s to it. Search ranks by field weight and
-falls back to labelled closest matches when a term only exists in an article
-body. Both search-panel visual baselines were regenerated.
+**Status: done (2026-11-16), revised after owner feedback.** The first pass made
+search metadata-only and deleted the article bodies from the index. The owner
+rejected that: full-text search is a product requirement, and the 9.62 MB
+payload was worth keeping. The shipped design keeps full text but takes it off
+the critical path:
 
-**Why:** `search-index.json` was 9.62 MB and was fetched whole on the search
-page. The homepage already used the compact `/article-index.json`, so after
-dropping bodies the two indexes would have been identical payloads.
+- `/article-index.json` (736 KB, metadata only) renders the first results.
+- `/search-index.json` (9.44 MB of `{url, content}` only) loads in the
+  background on the first search and merges body matches in when it arrives.
+- `/search/` marks its panel `aria-busy` during the handoff, then re-renders the
+  final list with body excerpts.
 
-**Files (shipped):** `lib/articleIndex.js` (new), `article-index.11ty.js`,
-`search-index.11ty.js` (deleted), `search.liquid`, `articles/index.liquid`,
-`_redirects`, `tests/smoke/indexing.spec.js`, `tests/smoke/site-smoke.spec.js`,
-`README.md`, both `tests/visual/*/search-panel-*.png` baselines.
+**Why:** the original page waited for a 9.62 MB JSON before showing anything.
+The capability was not the problem; the blocking fetch was.
+
+**Files (shipped):** `lib/articleIndex.js`, `article-index.11ty.js`,
+`search-index.11ty.js`, `search.liquid`, `articles/index.liquid`,
+`tests/smoke/indexing.spec.js`, `tests/smoke/site-smoke.spec.js`,
+`tests/accessibility/search-a11y.spec.js`, `README.md`.
 
 **Steps shipped**
 
-1. The index builder moved to `lib/articleIndex.js`. `includeContent` and the
-   `content` field were **removed outright**, not defaulted off, so no template
-   can reintroduce the 9.6 MB payload.
-2. `/search/` matches title, tags, category/categoryLabel, and description.
-   Terms match at a word start (so "bhairav" finds "Bhairava" but "om" no longer
-   matches "from"). Hits are ranked by the strongest matched field, then by
-   recency. Multi-term queries try strict AND first and fall back to labelled
-   "closest results" instead of "no results".
-3. `/articles/`'s "Surprise me" control now fetches the compact index too — it
-   previously downloaded 9.62 MB to pick one random URL.
-4. `/search-index.json` is a 301 to `/article-index.json` in `_redirects` for
-   any cached consumer. `/article-index.json` is the single canonical index.
-5. Search copy updated: the page no longer promises full-text search.
-6. `tests/smoke/indexing.spec.js` now fails if the index exceeds 2 MB or gains a
-   `content` key.
+1. `lib/articleIndex.js` builds both indexes: the compact metadata index, and a
+   `{url, content}` text index with no duplicated metadata (176 KB smaller than
+   the old 9.62 MB file).
+2. `/search/` fetches `/article-index.json` on the first query and renders
+   metadata hits immediately. For queries of at least two characters it also
+   starts `/search-index.json`; while that loads the status reads "searching
+   article text…" and the panel is `aria-busy`. On arrival the current query
+   re-runs with body matching and body excerpts.
+3. Matching is word-start prefix across title, tags, category/categoryLabel,
+   description, and body (body scored lowest). Strict AND first; the labelled
+   closest-match fallback runs only once the text index is done, never while it
+   is pending.
+4. The homepage and `/articles/`'s "Surprise me" control use only the compact
+   index — the random control previously downloaded 9.62 MB to pick one URL.
+5. Tests cover both indexes and the progressive `aria-busy` handoff; the
+   accessibility scan waits for the final render.
 
-**Acceptance:** met. `/article-index.json` is 736,116 bytes (0.70 MB; ~152 KB
-gzip, ~119 KB brotli) against a 9.62 MB baseline, and search returns sensible
-results — see the verification list at the top.
+**Acceptance:** met with the owner's revision. Metadata results are immediate and
+never wait on the text index; full-text search works again, including body-only
+terms and body excerpts.
 
 **Design notes**
 
-- **No truncated "lead" field.** A 400-character body preview was measured at
+- **Cloudflare compresses the payload.** The 9.44 MB text index is ~3.24 MB
+  gzip / ~2.33 MB brotli on the wire; the old 9.62 MB file behaved the same
+  way. The remaining cost is parse time and memory, not 9.4 MB of transfer.
+- **Two indexes, no duplication.** The text index carries only `{url, content}`;
+  metadata comes from the compact index. This also keeps the homepage and
+  `/articles/` from ever touching the large file.
+- **Word-start matching** avoids substring noise ("om" inside "from") while
+  still matching prefixes ("bhairav" → "Bhairava").
+- **Partial fallback waits for the text index.** While text is pending the page
+  shows metadata hits or "Searching article text…", never a closest-match list
+  that would immediately change.
+- **No truncated "lead" field.** A 400-character preview was measured at
   ~1.2 MB and rejected: article openings repeat lineage boilerplate ("Om Shri
-  Gurubhyo Namah, Jai Ma Adya…"), so a lead adds noise rather than recall, and
-  any truncation silently misses body-only terms.
-- **Partial fallback, not silence.** Dropping bodies means a term found only in
-  an article body no longer matches. The fallback is labelled "No exact matches
-  — closest results", so it is never mistaken for an exact hit.
-- **Single endpoint.** Keeping `/search-index.json` as a second copy of the same
-  736 KB payload would have invited drift; the 301 keeps the old URL working
-  without duplicating the file.
-- **Word-start matching** is a small relevance change from the old substring
-  scan. It avoids common-substring noise (the old index matched "om" inside
-  "from"), and no metadata field relies on mid-word matches.
+  Gurubhyo Namah, Jai Ma Adya…"), so a lead adds noise rather than recall and
+  still misses body-only terms.
 
 ### Item 5 — Self-host and subset fonts (closes D9)
 

@@ -6,6 +6,7 @@ test('search results experience has no scoped axe violations', async ({ page }) 
   await gotoAndStabilize(page, '/search/?q=bhairava');
 
   await expect(page.locator('.result-link').first()).toBeVisible();
+  await expect(page.locator('#resultsPanel')).toHaveAttribute('aria-busy', 'false');
 
   const accessibilityScanResults = await new AxeBuilder({ page })
     .include('main')

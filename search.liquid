@@ -197,7 +197,7 @@ mark {
     <header class="search-header">
         <span class="search-eyebrow">✦ Search the Library</span>
         <h1 class="search-title">Search All Articles</h1>
-        <p class="search-description">Search 1200+ sacred teachings by title, topic, tag, and summary.</p>
+        <p class="search-description">Search 1200+ sacred teachings by title, topic, tag, summary, or full article text.</p>
 
         <div class="search-bar-wrap">
             <input
@@ -217,7 +217,7 @@ mark {
 
     <div class="search-results-panel" id="resultsPanel">
         <div class="search-placeholder" id="searchPlaceholder">
-            <p>Start typing to search article titles, topics, tags, and summaries.</p>
+            <p>Start typing to search article titles, topics, tags, summaries, and full text.</p>
         </div>
         <div class="results-header-bar" id="resultsHeaderBar" style="display:none;">
             <span id="resultsCount"></span>
@@ -241,27 +241,61 @@ mark {
     var resultsList = document.getElementById('resultsList');
     var noResults = document.getElementById('noResults');
     var resultsCount = document.getElementById('resultsCount');
+    var resultsPanel = document.getElementById('resultsPanel');
+
+    var MAX_RESULTS = 60;
+    var TEXT_INDEX_MIN_QUERY = 2;
 
     var articles = null;
-    var fetchPromise = null;
+    var articlesPromise = null;
+    var bodyByUrl = null;
+    var bodyState = 'idle';
     var debounceTimer = null;
-    var MAX_RESULTS = 60;
+    var lastQuery = '';
 
-    function getIndex() {
+    function getArticles() {
         if (articles) return Promise.resolve(articles);
-        if (!fetchPromise) {
-            fetchPromise = fetch('/article-index.json')
+        if (!articlesPromise) {
+            articlesPromise = fetch('/article-index.json')
                 .then(function(r) {
                     if (!r.ok) throw new Error('Search index request failed');
                     return r.json();
                 })
                 .then(function(d) { articles = d; return d; })
                 .catch(function(error) {
-                    fetchPromise = null;
+                    articlesPromise = null;
                     throw error;
                 });
         }
-        return fetchPromise;
+        return articlesPromise;
+    }
+
+    // Article bodies live in a second, much larger index. Start it only after
+    // the metadata results are on screen, then merge body matches in when it
+    // arrives: the full-text payload never blocks the first result.
+    function loadBodyIndex() {
+        if (bodyState !== 'idle') return;
+        bodyState = 'loading';
+        fetch('/search-index.json')
+            .then(function(r) {
+                if (!r.ok) throw new Error('Full-text index request failed');
+                return r.json();
+            })
+            .then(function(entries) {
+                var map = Object.create(null);
+                for (var i = 0; i < entries.length; i++) {
+                    var entry = entries[i];
+                    if (entry && entry.url) map[entry.url] = entry.content || '';
+                }
+                bodyByUrl = map;
+                bodyState = 'ready';
+            })
+            .catch(function() {
+                bodyState = 'failed';
+            })
+            .then(function() {
+                if (lastQuery) search(lastQuery);
+            });
     }
 
     function escHTML(s) {
@@ -283,33 +317,32 @@ mark {
         return escaped;
     }
 
-    // The index carries metadata only (title, description, category, tags), so
-    // rank hits by the strongest field a term appears in rather than by body
-    // text. Article bodies stay on their own pages.
+    // Rank hits by the strongest field a term appears in: metadata first, then
+    // the article body (when its index has loaded). Positions are prefixes, so
+    // "bhairav" finds "Bhairava" but "om" does not match every "from".
     function escapeRegExp(value) {
         return String(value).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     }
 
-    // Match at a word start so "bhairav" still finds "Bhairava" but "om" does
-    // not match every "from" or "promise" in a summary.
     function termPattern(term) {
         return new RegExp('(^|[^a-z0-9])' + escapeRegExp(term), 'i');
     }
 
-    function fieldWeight(entry, pattern) {
+    function fieldWeight(entry, pattern, bodyText) {
         if (pattern.test(entry.title || '')) return 8;
         if (pattern.test((entry.tags || []).join(' '))) return 6;
         if (pattern.test(entry.categoryLabel || '')) return 4;
         if (pattern.test(entry.category || '')) return 3;
-        if (pattern.test(entry.description || '')) return 1;
+        if (pattern.test(entry.description || '')) return 2;
+        if (bodyText && pattern.test(bodyText)) return 1;
         return 0;
     }
 
-    function scoreEntry(entry, patterns, phrase) {
+    function scoreEntry(entry, patterns, phrase, bodyText) {
         var matched = 0;
         var score = 0;
         for (var i = 0; i < patterns.length; i++) {
-            var weight = fieldWeight(entry, patterns[i]);
+            var weight = fieldWeight(entry, patterns[i], bodyText);
             if (!weight) continue;
             matched++;
             score += weight;
@@ -326,8 +359,104 @@ mark {
         return bt - at;
     }
 
+    function bodySnippet(content, patterns, maxLen) {
+        var pos = -1;
+        for (var i = 0; i < patterns.length; i++) {
+            var match = patterns[i].exec(content);
+            if (match) { pos = match.index; break; }
+        }
+        if (pos === -1) return '';
+        var start = Math.max(0, pos - 60);
+        var end = Math.min(content.length, start + maxLen);
+        var snippet = content.slice(start, end);
+        if (start > 0) snippet = '…' + snippet;
+        if (end < content.length) snippet = snippet + '…';
+        return snippet;
+    }
+
+    function excerptFor(article, bodyText, patterns) {
+        if (bodyText) {
+            var snippet = bodySnippet(bodyText, patterns, 200);
+            if (snippet) return snippet;
+        }
+        return article.description || (article.tags || []).join(', ');
+    }
+
+    function render(data, terms, patterns, phrase) {
+        var bodyPending = bodyState === 'loading';
+        var scored = data.map(function(entry) {
+            var bodyText = bodyByUrl && bodyByUrl[entry.url];
+            var result = scoreEntry(entry, patterns, phrase, bodyText);
+            return { article: entry, matched: result.matched, score: result.score, bodyText: bodyText };
+        });
+
+        var hits = scored.filter(function(hit) { return hit.matched === terms.length; });
+        var partial = false;
+
+        // While the text index loads, do not guess with partial matches: the
+        // strict list may still gain body hits. Fall back only once it is done.
+        if (!hits.length && !bodyPending) {
+            hits = scored.filter(function(hit) { return hit.matched > 0; });
+            partial = true;
+        }
+
+        hits.sort(function(a, b) {
+            if (b.matched !== a.matched) return b.matched - a.matched;
+            if (b.score !== a.score) return b.score - a.score;
+            return byDateDesc(a.article, b.article);
+        });
+
+        if (resultsPanel) {
+            resultsPanel.setAttribute('aria-busy', bodyPending ? 'true' : 'false');
+        }
+
+        if (!hits.length) {
+            headerBar.style.display = 'none';
+            resultsList.style.display = 'none';
+            if (bodyPending) {
+                noResults.style.display = 'none';
+                status.textContent = 'Searching article text…';
+            } else {
+                noResults.style.display = '';
+                status.textContent = 'No results for "' + lastQuery + '"' +
+                    (bodyState === 'failed' ? ' (article-text search unavailable)' : '');
+            }
+            return;
+        }
+
+        var shown = hits.slice(0, MAX_RESULTS);
+        resultsCount.textContent = hits.length + ' article' + (hits.length !== 1 ? 's' : '') + ' found';
+        headerBar.style.display = 'flex';
+        noResults.style.display = 'none';
+
+        resultsList.innerHTML = shown.map(function(hit) {
+            var a = hit.article;
+            var excerpt = excerptFor(a, hit.bodyText, patterns);
+            return '<li class="result-item">' +
+                '<a href="' + escHTML(a.url) + '" class="result-link">' +
+                    '<div class="result-header">' +
+                        '<span class="result-category">' + escHTML(a.categoryLabel || a.category) + '</span>' +
+                        (a.readingTime ? '<span class="result-meta">⏱ ' + escHTML(String(a.readingTime)) + ' min read</span>' : '') +
+                    '</div>' +
+                    '<h2 class="result-title">' + highlight(a.title, terms) + '</h2>' +
+                    '<p class="result-excerpt">' + highlight(excerpt, terms) + '</p>' +
+                '</a>' +
+                '</li>';
+        }).join('');
+
+        resultsList.style.display = '';
+        var countText = hits.length + ' result' + (hits.length !== 1 ? 's' : '') +
+            (hits.length > MAX_RESULTS ? ' (showing first ' + MAX_RESULTS + ')' : '');
+        if (bodyPending) countText += ' — searching article text…';
+        if (bodyState === 'failed') countText += ' (article-text search unavailable)';
+        status.textContent = partial
+            ? 'No exact matches — closest results: ' + countText
+            : countText;
+    }
+
     function search(query) {
         var q = query.trim();
+        lastQuery = q;
         if (!q) {
             placeholder.style.display = '';
             headerBar.style.display = 'none';
@@ -335,74 +464,20 @@ mark {
             noResults.style.display = 'none';
             status.textContent = '';
             clearBtn.style.display = 'none';
+            if (resultsPanel) resultsPanel.removeAttribute('aria-busy');
             return;
         }
         clearBtn.style.display = 'block';
         status.textContent = 'Searching…';
         placeholder.style.display = 'none';
 
-        getIndex().then(function(data) {
+        getArticles().then(function(data) {
             if (input.value.trim() !== q) return;
             var terms = q.toLowerCase().split(/\s+/).filter(Boolean);
             var patterns = terms.map(termPattern);
             var phrase = terms.join(' ');
-
-            var scored = data.map(function(entry) {
-                var result = scoreEntry(entry, patterns, phrase);
-                return { article: entry, matched: result.matched, score: result.score };
-            });
-
-            // Strict search first: every term must match. Because the index no
-            // longer carries article bodies, a term that only appeared in the
-            // body can miss here; fall back to partial matches rather than
-            // showing "no results" for a query the archive clearly covers.
-            var hits = scored.filter(function(hit) { return hit.matched === terms.length; });
-            var partial = false;
-            if (!hits.length) {
-                hits = scored.filter(function(hit) { return hit.matched > 0; });
-                partial = true;
-            }
-
-            hits.sort(function(a, b) {
-                if (b.matched !== a.matched) return b.matched - a.matched;
-                if (b.score !== a.score) return b.score - a.score;
-                return byDateDesc(a.article, b.article);
-            });
-
-            if (!hits.length) {
-                headerBar.style.display = 'none';
-                resultsList.style.display = 'none';
-                noResults.style.display = '';
-                status.textContent = 'No results for "' + q + '"';
-                return;
-            }
-
-            var shown = hits.slice(0, MAX_RESULTS);
-            resultsCount.textContent = hits.length + ' article' + (hits.length !== 1 ? 's' : '') + ' found';
-            headerBar.style.display = 'flex';
-            noResults.style.display = 'none';
-
-            resultsList.innerHTML = shown.map(function(hit) {
-                var a = hit.article;
-                var excerpt = a.description || (a.tags || []).join(', ');
-                return '<li class="result-item">' +
-                    '<a href="' + escHTML(a.url) + '" class="result-link">' +
-                        '<div class="result-header">' +
-                            '<span class="result-category">' + escHTML(a.categoryLabel || a.category) + '</span>' +
-                            (a.readingTime ? '<span class="result-meta">⏱ ' + escHTML(String(a.readingTime)) + ' min read</span>' : '') +
-                        '</div>' +
-                        '<h2 class="result-title">' + highlight(a.title, terms) + '</h2>' +
-                        '<p class="result-excerpt">' + highlight(excerpt, terms) + '</p>' +
-                    '</a>' +
-                    '</li>';
-            }).join('');
-
-            resultsList.style.display = '';
-            var countText = hits.length + ' result' + (hits.length !== 1 ? 's' : '') +
-                (hits.length > MAX_RESULTS ? ' (showing first ' + MAX_RESULTS + ')' : '');
-            status.textContent = partial
-                ? 'No exact matches — closest results: ' + countText
-                : countText;
+            if (q.length >= TEXT_INDEX_MIN_QUERY) loadBodyIndex();
+            render(data, terms, patterns, phrase);
         }).catch(function() {
             if (input.value.trim() !== q) return;
             status.textContent = 'Could not load search index. Please try again.';
@@ -428,6 +503,7 @@ mark {
         search(preQ);
     }
 
-    // Load the lightweight index only after the visitor searches.
+    // Both indexes load only after the visitor searches: the compact metadata
+    // index first, then the article-text index in the background.
 })();
 </script>

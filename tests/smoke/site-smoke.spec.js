@@ -58,6 +58,7 @@ test.describe("repo smoke flows", () => {
 			await new Promise((resolve) => { releaseIndex = resolve; });
 			await route.fulfill({ json: [{ title: "Bhairava", url: "/articles/", content: "Bhairava" }] });
 		});
+		await page.route("**/search-index.json", (route) => route.fulfill({ json: [] }));
 		await page.goto("/search/?q=bhairava", { waitUntil: "domcontentloaded" });
 		await expect(page.locator("#searchStatus")).toHaveText("Searching…");
 		await requested;
@@ -80,6 +81,7 @@ test.describe("repo smoke flows", () => {
 			}
 			await route.fulfill({ json: [{ title: "Bhairava Kali", url: "/articles/", content: "Bhairava Kali" }] });
 		});
+		await page.route("**/search-index.json", (route) => route.fulfill({ json: [] }));
 		await page.goto("/search/");
 		const input = page.locator("#searchInput");
 		await input.fill("bhairava");
