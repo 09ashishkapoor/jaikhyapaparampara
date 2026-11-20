@@ -54,11 +54,11 @@ At a deeper level, this epithet gestures toward non-duality. The same consciousn
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-016-kapala-karparotkrista-bhiksa-patra-dharaya/"><strong>16. Kapala-Karparotkrista-Bhiksa-Patra-Dharaya</strong></a>
+    <a href="/articles/kalabhairava-name-016-kapala-karparotkrista-bhiksa-patra-dharaya/"><strong>16. KapalaKarparotkristaBhiksaPatraDharaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-018-kalpanta-dahanakaya/"><strong>18. Kalpanta-Dahanakaya</strong></a>
+    <a href="/articles/kalabhairava-name-018-kalpanta-dahanakaya/"><strong>18. KalpantaDahanakaya</strong></a>
   </div>
 </div>
 

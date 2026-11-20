@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 19: Kala-Nidhi-Kala-Dharaya - Meaning and Significance"
-breadcrumbTitle: "Kala-Nidhi-Kala-Dharaya"
-description: "English meaning and spiritual significance of Kala-Nidhi-Kala-Dharaya, the 19th name of Lord Kalabhairava: bearer of the moon and treasury of arts and knowledge."
-keywords: "Kala-Nidhi-Kala-Dharaya, Kalabhairava name 19, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Nidhi-Kala-Dharaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 19: KalaNidhiKalaDharaya - Meaning and Significance"
+breadcrumbTitle: "KalaNidhiKalaDharaya"
+description: "English meaning and spiritual significance of KalaNidhiKalaDharaya, the 19th name of Lord Kalabhairava: bearer of the moon and treasury of arts and knowledge."
+keywords: "KalaNidhiKalaDharaya, Kalabhairava name 19, 108 names of Kalabhairava, Kalabhairava namavali meaning, KalaNidhiKalaDharaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 19. Kala-Nidhi-Kala-Dharaya
+## 19. KalaNidhiKalaDharaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Adorned with the Moon, the Repository of All Arts and Knowledge.**
 
-The nineteenth name, **Kala-Nidhi-Kala-Dharaya**, brings together two images that are central to the Shaiva imagination: the treasury of knowledge and the crescent moon worn upon the Lord's head. In this name, Bhairava is praised not only as fierce guardian, but also as the source of refinement, wisdom, and inward coolness.
+The nineteenth name, **KalaNidhiKalaDharaya**, brings together two images that are central to the Shaiva imagination: the treasury of knowledge and the crescent moon worn upon the Lord's head. In this name, Bhairava is praised not only as fierce guardian, but also as the source of refinement, wisdom, and inward coolness.
 
 ### Elaboration
 
@@ -42,7 +42,7 @@ The second movement of the name evokes the crescent moon borne by Shiva. The lun
 
 **Knowledge Joined to Restraint**
 
-This pairing matters. Knowledge without stillness becomes pride; power without clarity becomes danger. In **Kala-Nidhi-Kala-Dharaya**, Bhairava holds both. He contains the fullness of wisdom and also the calm radiance needed to wield it rightly.
+This pairing matters. Knowledge without stillness becomes pride; power without clarity becomes danger. In **KalaNidhiKalaDharaya**, Bhairava holds both. He contains the fullness of wisdom and also the calm radiance needed to wield it rightly.
 
 **A Spiritual Reading**
 
@@ -54,15 +54,15 @@ For the seeker, this name encourages disciplined learning that remains rooted in
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-018-kalpanta-dahanakaya/"><strong>18. Kalpanta-Dahanakaya</strong></a>
+    <a href="/articles/kalabhairava-name-018-kalpanta-dahanakaya/"><strong>18. KalpantaDahanakaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-020-kapala-malika-bhusaya/"><strong>20. Kapala-Malika-Bhusaya</strong></a>
+    <a href="/articles/kalabhairava-name-020-kapala-malika-bhusaya/"><strong>20. KapalaMalikaBhusaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kala-Nidhi-Kala-Dharaya</strong> reminds the seeker that wisdom and serenity belong together. In Bhairava, knowledge is not dry accumulation but moonlit awareness held in sacred balance.</p>
+<p>Contemplating <strong>KalaNidhiKalaDharaya</strong> reminds the seeker that wisdom and serenity belong together. In Bhairava, knowledge is not dry accumulation but moonlit awareness held in sacred balance.</p>
 </div>

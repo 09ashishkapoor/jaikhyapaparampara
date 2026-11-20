@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 59: Kinkinimannjunirvana-Katisutaravirajitaya - Meaning and Significance"
-breadcrumbTitle: "Kinkinimannjunirvana-Katisutaravirajitaya"
-description: "English meaning and spiritual significance of Kinkinimannjunirvana-Katisutaravirajitaya, the 59th name of Lord Kalabhairava, adorned with a girdle of bells whose sound points toward liberation."
-keywords: "Kinkinimannjunirvana-Katisutaravirajitaya, Kalabhairava name 59, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kinkinimannjunirvana-Katisutaravirajitaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 59: KinkinimannjunirvanaKatisutaravirajitaya - Meaning and Significance"
+breadcrumbTitle: "KinkinimannjunirvanaKatisutaravirajitaya"
+description: "English meaning and spiritual significance of KinkinimannjunirvanaKatisutaravirajitaya, the 59th name of Lord Kalabhairava, adorned with a girdle of bells whose sound points toward liberation."
+keywords: "KinkinimannjunirvanaKatisutaravirajitaya, Kalabhairava name 59, 108 names of Kalabhairava, Kalabhairava namavali meaning, KinkinimannjunirvanaKatisutaravirajitaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 59. Kinkinimannjunirvana-Katisutaravirajitaya
+## 59. KinkinimannjunirvanaKatisutaravirajitaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Adorned with a waistband of tinkling bells, resonating with the sound of liberation.**
 
-The fifty-ninth name, **Kinkinimannjunirvana-Katisutaravirajitaya**, is elaborate even by the standards of sacred compounds. Yet its imagery is immediate. We can picture Bhairava adorned with a girdle of small bells whose sound accompanies his movement. The name does not linger on ornament for its own sake. It turns adornment into teaching: even the sound arising from his presence becomes a reminder of freedom.
+The fifty-ninth name, **KinkinimannjunirvanaKatisutaravirajitaya**, is elaborate even by the standards of sacred compounds. Yet its imagery is immediate. We can picture Bhairava adorned with a girdle of small bells whose sound accompanies his movement. The name does not linger on ornament for its own sake. It turns adornment into teaching: even the sound arising from his presence becomes a reminder of freedom.
 
 ### Elaboration
 
@@ -44,7 +44,7 @@ The most striking part of the name is the connection to **nirvana**. The bells a
 
 The bells can also be read symbolically. Their fine, repeated sound suggests the subtle vibration underlying manifested existence. Creation, preservation, dissolution, concealment, and grace all move in divine rhythm. The devotee who meditates on this name is invited to hear sacred sound not as entertainment, but as instruction. What rings from Bhairava's body is a call toward awakening.
 
-For that reason, **Kinkinimannjunirvana-Katisutaravirajitaya** is both visual and inward. It presents Bhairava as radiant, adorned, and majestic, while also teaching that every movement of the divine can guide beings toward liberation.
+For that reason, **KinkinimannjunirvanaKatisutaravirajitaya** is both visual and inward. It presents Bhairava as radiant, adorned, and majestic, while also teaching that every movement of the divine can guide beings toward liberation.
 
 ---
 
@@ -52,15 +52,15 @@ For that reason, **Kinkinimannjunirvana-Katisutaravirajitaya** is both visual an
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-058-gaumati-smitaya/"><strong>58. Gaumati-Smitaya</strong></a>
+    <a href="/articles/kalabhairava-name-058-gaumati-smitaya/"><strong>58. GaumatiSmitaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-060-kalyana-krt-kali-dhvamsine/"><strong>60. Kalyana-Krt-Kali-Dhvamsine</strong></a>
+    <a href="/articles/kalabhairava-name-060-kalyana-krt-kali-dhvamsine/"><strong>60. KalyanaKrtKaliDhvamsine</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kinkinimannjunirvana-Katisutaravirajitaya</strong> helps the seeker hear sacred movement itself as a summons toward freedom, discipline, and release from bondage.</p>
+<p>Contemplating <strong>KinkinimannjunirvanaKatisutaravirajitaya</strong> helps the seeker hear sacred movement itself as a summons toward freedom, discipline, and release from bondage.</p>
 </div>

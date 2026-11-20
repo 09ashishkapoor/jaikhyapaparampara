@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 58: Gaumati-Smitaya - Meaning and Significance"
-breadcrumbTitle: "Gaumati-Smitaya"
-description: "English meaning and spiritual significance of Gaumati-Smitaya, the 58th name of Lord Kalabhairava, whose gentle smile reveals serene wisdom and benevolent grace."
-keywords: "Gaumati-Smitaya, Kalabhairava name 58, 108 names of Kalabhairava, Kalabhairava namavali meaning, Gaumati-Smitaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 58: GaumatiSmitaya - Meaning and Significance"
+breadcrumbTitle: "GaumatiSmitaya"
+description: "English meaning and spiritual significance of GaumatiSmitaya, the 58th name of Lord Kalabhairava, whose gentle smile reveals serene wisdom and benevolent grace."
+keywords: "GaumatiSmitaya, Kalabhairava name 58, 108 names of Kalabhairava, Kalabhairava namavali meaning, GaumatiSmitaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 58. Gaumati-Smitaya
+## 58. GaumatiSmitaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Possessing a gentle smile, radiating serene wisdom.**
 
-The fifty-eighth name, **Gaumati-Smitaya**, brings forward a tender aspect of Kalabhairava that can be easy to overlook. Bhairava is often approached through awe, protection, ferocity, and uncompromising truth. This name reminds the devotee that beneath that terrible power there is also a quiet smile born of complete understanding. It is the smile of one who sees through the turbulence of the world without being disturbed by it.
+The fifty-eighth name, **GaumatiSmitaya**, brings forward a tender aspect of Kalabhairava that can be easy to overlook. Bhairava is often approached through awe, protection, ferocity, and uncompromising truth. This name reminds the devotee that beneath that terrible power there is also a quiet smile born of complete understanding. It is the smile of one who sees through the turbulence of the world without being disturbed by it.
 
 ### Elaboration
 
@@ -44,7 +44,7 @@ The word **gau** has more than one shade of meaning in Sanskrit. It can refer to
 
 The word **smita** refers to a gentle smile, subtle and inward rather than exuberant. That distinction matters. This is not laughter meant to dazzle or entertain. It is the expression of inner composure. In devotional contemplation, such a smile signals compassion, reassurance, and a peace that remains intact even in the midst of destruction and change.
 
-Seen together, **Gaumati-Smitaya** reveals a benevolent dimension of Kalabhairava. The fierce guardian of time is not trapped in wrath. He also carries an inward sweetness that calms the sincere seeker. For the devotee, this name teaches that the divine can be terrifying to illusion and deeply consoling to the heart at the same time.
+Seen together, **GaumatiSmitaya** reveals a benevolent dimension of Kalabhairava. The fierce guardian of time is not trapped in wrath. He also carries an inward sweetness that calms the sincere seeker. For the devotee, this name teaches that the divine can be terrifying to illusion and deeply consoling to the heart at the same time.
 
 ---
 
@@ -52,15 +52,15 @@ Seen together, **Gaumati-Smitaya** reveals a benevolent dimension of Kalabhairav
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-057-gunabha-kirna-gandhara-sancarane/"><strong>57. Gunabha-Kirna-Gandhara-Sancarane</strong></a>
+    <a href="/articles/kalabhairava-name-057-gunabha-kirna-gandhara-sancarane/"><strong>57. GunabhaKirnaGandharaSancarane</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-059-kinkinimannjunirvana-katisutaravirajitaya/"><strong>59. Kinkinimannjunirvana-Katisutaravirajitaya</strong></a>
+    <a href="/articles/kalabhairava-name-059-kinkinimannjunirvana-katisutaravirajitaya/"><strong>59. KinkinimannjunirvanaKatisutaravirajitaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Gaumati-Smitaya</strong> helps the seeker remember that Bhairava's fierce presence is balanced by quiet wisdom, compassion, and an inward peace that steadies the heart.</p>
+<p>Contemplating <strong>GaumatiSmitaya</strong> helps the seeker remember that Bhairava's fierce presence is balanced by quiet wisdom, compassion, and an inward peace that steadies the heart.</p>
 </div>

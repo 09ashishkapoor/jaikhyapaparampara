@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 80: Karma-Posakaya - Meaning and Significance"
-breadcrumbTitle: "Karma-Posakaya"
-description: "English meaning and spiritual significance of Karma-Posakaya, the 80th name of Lord Kalabhairava, who sustains action and ensures that karma ripens into its proper result."
-keywords: "Karma-Posakaya, Kalabhairava name 80, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karma-Posakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 80: KarmaPosakaya - Meaning and Significance"
+breadcrumbTitle: "KarmaPosakaya"
+description: "English meaning and spiritual significance of KarmaPosakaya, the 80th name of Lord Kalabhairava, who sustains action and ensures that karma ripens into its proper result."
+keywords: "KarmaPosakaya, Kalabhairava name 80, 108 names of Kalabhairava, Kalabhairava namavali meaning, KarmaPosakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 80. Karma-Posakaya
+## 80. KarmaPosakaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Nourisher and Sustainer of All Actions and Their Fruits.**
 
-The eightieth name, **Karma-Posakaya**, presents Lord Kalabhairava as the one who upholds the living order of karma. Actions do not move through the universe in a random way, nor do their results arise by accident. This name honors Bhairava as the sustaining power behind that process: he nourishes action, carries it forward, and allows its fruit to mature in the right time and measure.
+The eightieth name, **KarmaPosakaya**, presents Lord Kalabhairava as the one who upholds the living order of karma. Actions do not move through the universe in a random way, nor do their results arise by accident. This name honors Bhairava as the sustaining power behind that process: he nourishes action, carries it forward, and allows its fruit to mature in the right time and measure.
 
 ### Elaboration
 
@@ -42,11 +42,11 @@ The word **posaka** is important because it suggests more than control. A ruler 
 
 **The Moral Balance of the Cosmos**
 
-To contemplate **Karma-Posakaya** is to remember that every action matters. No sincere effort is wasted, and no harmful deed disappears simply because it is forgotten. This name points to a deeply ordered universe in which dharmic action strengthens harmony, while adharma eventually returns as suffering, correction, or limitation. Bhairava nourishes the law itself so that moral balance does not collapse.
+To contemplate **KarmaPosakaya** is to remember that every action matters. No sincere effort is wasted, and no harmful deed disappears simply because it is forgotten. This name points to a deeply ordered universe in which dharmic action strengthens harmony, while adharma eventually returns as suffering, correction, or limitation. Bhairava nourishes the law itself so that moral balance does not collapse.
 
 **What This Means for the Devotee**
 
-For a devotee, this name can inspire both responsibility and patience. One must act carefully, because all action carries weight. At the same time, one learns not to panic over delayed results. Bhairava, as **Karma-Posakaya**, sustains the ripening of karma beyond human haste. The lesson is simple but demanding: act truthfully, offer the result, and trust that divine order is still at work even when the fruit has not yet appeared.
+For a devotee, this name can inspire both responsibility and patience. One must act carefully, because all action carries weight. At the same time, one learns not to panic over delayed results. Bhairava, as **KarmaPosakaya**, sustains the ripening of karma beyond human haste. The lesson is simple but demanding: act truthfully, offer the result, and trust that divine order is still at work even when the fruit has not yet appeared.
 
 ---
 
@@ -54,15 +54,15 @@ For a devotee, this name can inspire both responsibility and patience. One must 
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-079-kamya-adi-karmma-sarvasva-phala-daya/"><strong>79. Kamya-Adi-Karmma-Sarvasva-Phala-Daya</strong></a>
+    <a href="/articles/kalabhairava-name-079-kamya-adi-karmma-sarvasva-phala-daya/"><strong>79. KamyaAdiKarmmaSarvasvaPhalaDaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-081-karya-karana-nirmatre/"><strong>81. Karya-Karana-Nirmatre</strong></a>
+    <a href="/articles/kalabhairava-name-081-karya-karana-nirmatre/"><strong>81. KaryaKaranaNirmatre</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Karma-Posakaya</strong> reminds the seeker that every action lives within Bhairava's order, and that the fruit of karma ripens through his sustaining power, not through personal will alone.</p>
+<p>Contemplating <strong>KarmaPosakaya</strong> reminds the seeker that every action lives within Bhairava's order, and that the fruit of karma ripens through his sustaining power, not through personal will alone.</p>
 </div>

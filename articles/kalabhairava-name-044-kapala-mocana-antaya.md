@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 44: Kapala-Mocana-Antaya - Meaning and Significance"
-breadcrumbTitle: "Kapala-Mocana-Antaya"
-description: "English meaning and spiritual significance of Kapala-Mocana-Antaya, the 44th name of Lord Kalabhairava, revered as the one who releases the burden of sin, ego, and delusion."
-keywords: "Kapala-Mocana-Antaya, Kalabhairava name 44, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kapala-Mocana-Antaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 44: KapalaMocanaAntaya - Meaning and Significance"
+breadcrumbTitle: "KapalaMocanaAntaya"
+description: "English meaning and spiritual significance of KapalaMocanaAntaya, the 44th name of Lord Kalabhairava, revered as the one who releases the burden of sin, ego, and delusion."
+keywords: "KapalaMocanaAntaya, Kalabhairava name 44, 108 names of Kalabhairava, Kalabhairava namavali meaning, KapalaMocanaAntaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 44. Kapala-Mocana-Antaya
+## 44. KapalaMocanaAntaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **The Liberator from the Sin of Brahmahatya, cleansing the skull of delusion.**
 
-The forty-fourth name, **Kapala-Mocana-Antaya**, brings to mind one of the best-known Bhairava narratives: the release of the skull and the ending of a terrible burden. Because of that story, the name carries both mythic force and inward meaning. It speaks of Kalabhairava as the one who removes the weight of grave karma, pride, and delusion from the seeker.
+The forty-fourth name, **KapalaMocanaAntaya**, brings to mind one of the best-known Bhairava narratives: the release of the skull and the ending of a terrible burden. Because of that story, the name carries both mythic force and inward meaning. It speaks of Kalabhairava as the one who removes the weight of grave karma, pride, and delusion from the seeker.
 
 ### Elaboration
 
@@ -42,7 +42,7 @@ The skull also has an inward meaning. It can stand for the hard shell of ego, fa
 
 **Hope for the Seeker**
 
-This is why **Kapala-Mocana-Antaya** is a compassionate name, even though it arises from a fierce story. It reminds the devotee that no stain is beyond purification, no confusion beyond correction, and no karmic burden beyond the reach of divine grace. The name carries the assurance that Bhairava's terrible power is ultimately medicinal: it destroys only what keeps the soul bound.
+This is why **KapalaMocanaAntaya** is a compassionate name, even though it arises from a fierce story. It reminds the devotee that no stain is beyond purification, no confusion beyond correction, and no karmic burden beyond the reach of divine grace. The name carries the assurance that Bhairava's terrible power is ultimately medicinal: it destroys only what keeps the soul bound.
 
 ---
 
@@ -54,11 +54,11 @@ This is why **Kapala-Mocana-Antaya** is a compassionate name, even though it ari
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-045-kala-rajaya/"><strong>45. Kala-Rajaya</strong></a>
+    <a href="/articles/kalabhairava-name-045-kala-rajaya/"><strong>45. KalaRajaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kapala-Mocana-Antaya</strong> invites the seeker to place even deep guilt, ego, and confusion before Bhairava, trusting that his fierce grace can loosen what seems impossible to remove.</p>
+<p>Contemplating <strong>KapalaMocanaAntaya</strong> invites the seeker to place even deep guilt, ego, and confusion before Bhairava, trusting that his fierce grace can loosen what seems impossible to remove.</p>
 </div>

@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 21: Kali-Kula-Vara-Pradaya - Meaning and Significance"
-breadcrumbTitle: "Kali-Kula-Vara-Pradaya"
-description: "English meaning and spiritual significance of Kali-Kula-Vara-Pradaya, the 21st name of Lord Kalabhairava: giver of boons to the lineage of Kala or Kali."
-keywords: "Kali-Kula-Vara-Pradaya, Kalabhairava name 21, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kali-Kula-Vara-Pradaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 21: KaliKulaVaraPradaya - Meaning and Significance"
+breadcrumbTitle: "KaliKulaVaraPradaya"
+description: "English meaning and spiritual significance of KaliKulaVaraPradaya, the 21st name of Lord Kalabhairava: giver of boons to the lineage of Kala or Kali."
+keywords: "KaliKulaVaraPradaya, Kalabhairava name 21, 108 names of Kalabhairava, Kalabhairava namavali meaning, KaliKulaVaraPradaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 21. Kali-Kula-Vara-Pradaya
+## 21. KaliKulaVaraPradaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Bestower of Boons upon the Family of Kala (Time), the Lineage of Destinies.**
 
-The twenty-first name, **Kali-Kula-Vara-Pradaya**, carries a layered meaning. It can be heard in relation to **kala**, time, and also in relation to **Kali** and her lineage of worship. In both readings, Bhairava appears as the one who grants grace within a realm that is otherwise fierce, exacting, and governed by destiny.
+The twenty-first name, **KaliKulaVaraPradaya**, carries a layered meaning. It can be heard in relation to **kala**, time, and also in relation to **Kali** and her lineage of worship. In both readings, Bhairava appears as the one who grants grace within a realm that is otherwise fierce, exacting, and governed by destiny.
 
 ### Elaboration
 
@@ -54,15 +54,15 @@ For the seeker, the name suggests that destiny is not mechanical. Time is powerf
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-020-kapala-malika-bhusaya/"><strong>20. Kapala-Malika-Bhusaya</strong></a>
+    <a href="/articles/kalabhairava-name-020-kapala-malika-bhusaya/"><strong>20. KapalaMalikaBhusaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-022-kali-kalavatii-diiksa-samskaaropasanapriyaya/"><strong>22. Kali-Kalavatii-Diiksa-Samskaaropasanapriyaya</strong></a>
+    <a href="/articles/kalabhairava-name-022-kali-kalavatii-diiksa-samskaaropasanapriyaya/"><strong>22. KaliKalavatiiDiiksaSamskaaropasanapriyaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kali-Kula-Vara-Pradaya</strong> reminds the seeker that even within time, karma, and fierce discipline, divine grace remains possible. Bhairava governs the law of existence, yet he also opens the hand of blessing.</p>
+<p>Contemplating <strong>KaliKulaVaraPradaya</strong> reminds the seeker that even within time, karma, and fierce discipline, divine grace remains possible. Bhairava governs the law of existence, yet he also opens the hand of blessing.</p>
 </div>

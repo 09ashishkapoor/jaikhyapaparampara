@@ -30,7 +30,7 @@ const CARD_DIR = path.join(ROOT, "images", "og");
 const TMP_DIR = path.join(ROOT, "_data", "cache", "og-tmp");
 const CACHE_FILE = path.join(ROOT, "_data", "cache", "og-cache.json");
 const FONT_DIR = path.join(__dirname, "og-fonts");
-const CARD_VERSION = 1;
+const CARD_VERSION = 2;
 const WIDTH = 1200;
 const HEIGHT = 630;
 const CONCURRENCY = 4;
@@ -80,6 +80,9 @@ function fontSignature(fonts) {
 }
 
 function titleFontSize(title) {
+	// The numbered namavali now displays long compounds as joined names.
+	// Satori can clip a single unbroken word before the rest of the title wraps.
+	if (/^Kalabhairava Name \d+:/.test(title) && /\S{36}/.test(title)) return 40;
 	const length = title.length;
 	if (length <= 45) return 76;
 	if (length <= 65) return 66;

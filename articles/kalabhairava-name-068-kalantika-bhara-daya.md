@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 68: Kalantika-Bhara-Daya - Meaning and Significance"
-breadcrumbTitle: "Kalantika-Bhara-Daya"
-description: "English meaning and spiritual significance of Kalantika-Bhara-Daya, the 68th name of Lord Kalabhairava, who bears the end of time and the mystery of cosmic dissolution."
-keywords: "Kalantika-Bhara-Daya, Kalabhairava name 68, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kalantika-Bhara-Daya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 68: KalantikaBharaDaya - Meaning and Significance"
+breadcrumbTitle: "KalantikaBharaDaya"
+description: "English meaning and spiritual significance of KalantikaBharaDaya, the 68th name of Lord Kalabhairava, who bears the end of time and the mystery of cosmic dissolution."
+keywords: "KalantikaBharaDaya, Kalabhairava name 68, 108 names of Kalabhairava, Kalabhairava namavali meaning, KalantikaBharaDaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 68. Kalantika-Bhara-Daya
+## 68. KalantikaBharaDaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **He who bears the end of time and the mystery of cosmic dissolution.**
 
-The sixty-eighth name, **Kalantika-Bhara-Daya**, turns the mind toward one of the most immense aspects of Kalabhairava. This is the Lord not merely as guardian within time, but as the power before whom time itself reaches its limit. The name is fierce in image, yet its meaning is not bleak. In Shaiva understanding, dissolution is not meaningless ruin. It is the great withdrawal through which creation returns to its source and prepares for renewal.
+The sixty-eighth name, **KalantikaBharaDaya**, turns the mind toward one of the most immense aspects of Kalabhairava. This is the Lord not merely as guardian within time, but as the power before whom time itself reaches its limit. The name is fierce in image, yet its meaning is not bleak. In Shaiva understanding, dissolution is not meaningless ruin. It is the great withdrawal through which creation returns to its source and prepares for renewal.
 
 ### Elaboration
 
@@ -44,7 +44,7 @@ Such language can sound severe if heard only outwardly. Yet in the Shaiva vision
 
 That is why this name quietly carries the principle of renewal within it. When all returns to stillness, the possibility of future creation is not lost; it is held in seed form. Kalabhairava presides over that threshold. For the devotee, this vast cosmic meaning also becomes inwardly practical. Old karmas, exhausted identities, and patterns that have run their course may be offered into him so that spiritual renewal can begin.
 
-Meditating on **Kalantika-Bhara-Daya** helps the seeker remember that Bhairava is Lord not only of time's movement, but of its completion. What he dissolves, he dissolves so that consciousness may return to its source and emerge purified.
+Meditating on **KalantikaBharaDaya** helps the seeker remember that Bhairava is Lord not only of time's movement, but of its completion. What he dissolves, he dissolves so that consciousness may return to its source and emerge purified.
 
 ---
 
@@ -56,11 +56,11 @@ Meditating on **Kalantika-Bhara-Daya** helps the seeker remember that Bhairava i
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-069-kali-bhakta-loka-avara-pradaya/"><strong>69. Kali-Bhakta-Loka-Avara-Pradaya</strong></a>
+    <a href="/articles/kalabhairava-name-069-kali-bhakta-loka-avara-pradaya/"><strong>69. KaliBhaktaLokaAvaraPradaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kalantika-Bhara-Daya</strong> helps the seeker remember that under Bhairava even the darkest ending can become a clearing for renewal, release, and return to the source.</p>
+<p>Contemplating <strong>KalantikaBharaDaya</strong> helps the seeker remember that under Bhairava even the darkest ending can become a clearing for renewal, release, and return to the source.</p>
 </div>

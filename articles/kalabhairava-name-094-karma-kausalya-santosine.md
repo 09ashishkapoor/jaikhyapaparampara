@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 94: Karma-Kausalya-Santosine - Meaning and Significance"
-breadcrumbTitle: "Karma-Kausalya-Santosine"
-description: "English meaning and spiritual significance of Karma-Kausalya-Santosine, the 94th name of Lord Kalabhairava, revered as the one who delights in skillful action performed in freedom."
-keywords: "Karma-Kausalya-Santosine, Kalabhairava name 94, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karma-Kausalya-Santosine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 94: KarmaKausalyaSantosine - Meaning and Significance"
+breadcrumbTitle: "KarmaKausalyaSantosine"
+description: "English meaning and spiritual significance of KarmaKausalyaSantosine, the 94th name of Lord Kalabhairava, revered as the one who delights in skillful action performed in freedom."
+keywords: "KarmaKausalyaSantosine, Kalabhairava name 94, 108 names of Kalabhairava, Kalabhairava namavali meaning, KarmaKausalyaSantosine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 94. Karma-Kausalya-Santosine
+## 94. KarmaKausalyaSantosine
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **The One Delighting in Skillful Action, the Perfection of Karma.**
 
-The ninety-fourth name, **Karma-Kausalya-Santosine**, brings the mind to the discipline of action itself. It honors Kalabhairava as the one who delights in work done with steadiness, clarity, and freedom from selfish grasping. The name does not praise busyness for its own sake. It points instead to action carried out in the right spirit, so that karma becomes part of sadhana rather than another cause of bondage.
+The ninety-fourth name, **KarmaKausalyaSantosine**, brings the mind to the discipline of action itself. It honors Kalabhairava as the one who delights in work done with steadiness, clarity, and freedom from selfish grasping. The name does not praise busyness for its own sake. It points instead to action carried out in the right spirit, so that karma becomes part of sadhana rather than another cause of bondage.
 
 ### Elaboration
 
@@ -49,15 +49,15 @@ This name shows a side of Kalabhairava beyond the usual emphasis on fierceness, 
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-093-kaulaa-marga-pravartakaya/"><strong>93. Kaulaa-Marga-Pravartakaya</strong></a>
+    <a href="/articles/kalabhairava-name-093-kaulaa-marga-pravartakaya/"><strong>93. KaulaaMargaPravartakaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-095-keli-hasana-laalasaya/"><strong>95. Keli-Hasana-Laalasaya</strong></a>
+    <a href="/articles/kalabhairava-name-095-keli-hasana-laalasaya/"><strong>95. KeliHasanaLaalasaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Karma-Kausalya-Santosine</strong> reminds the seeker that devotion is tested in action. Bhairava blesses work that is steady, conscious, and free from selfish grasping.</p>
+<p>Contemplating <strong>KarmaKausalyaSantosine</strong> reminds the seeker that devotion is tested in action. Bhairava blesses work that is steady, conscious, and free from selfish grasping.</p>
 </div>

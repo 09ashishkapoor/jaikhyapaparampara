@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 35: Katha-Bhrave - Meaning and Significance"
-breadcrumbTitle: "Katha-Bhrave"
-description: "English meaning and spiritual significance of Katha-Bhrave, the 35th name of Lord Kalabhairava: whose fierce cry shatters the stories and impurities that bind the soul."
-keywords: "Katha-Bhrave, Kalabhairava name 35, 108 names of Kalabhairava, Kalabhairava namavali meaning, Katha-Bhrave meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 35: KathaBhrave - Meaning and Significance"
+breadcrumbTitle: "KathaBhrave"
+description: "English meaning and spiritual significance of KathaBhrave, the 35th name of Lord Kalabhairava: whose fierce cry shatters the stories and impurities that bind the soul."
+keywords: "KathaBhrave, Kalabhairava name 35, 108 names of Kalabhairava, Kalabhairava namavali meaning, KathaBhrave meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 35. Katha-Bhrave
+## 35. KathaBhrave
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **The one who removes all obstacles and impurities through His terrifying roar.**
 
-The thirty-fifth name, **Katha-Bhrave**, carries a forceful and unusual mood. It suggests Bhairava as one whose fierce presence breaks through what entangles the mind. Whether those bonds are understood as inner stories, karmic obstructions, or accumulated impurity, the name points to a divine power that does not negotiate with illusion.
+The thirty-fifth name, **KathaBhrave**, carries a forceful and unusual mood. It suggests Bhairava as one whose fierce presence breaks through what entangles the mind. Whether those bonds are understood as inner stories, karmic obstructions, or accumulated impurity, the name points to a divine power that does not negotiate with illusion.
 
 ### Elaboration
 
@@ -46,7 +46,7 @@ That severity is not cruelty. It is corrective. Just as fire purifies by burning
 
 **A Spiritual Reading**
 
-For the seeker, **Katha-Bhrave** teaches that not every blessing arrives gently. Sometimes the Lord helps by breaking the mental structures that keep suffering in place. What feels frightening at first may actually be liberating.
+For the seeker, **KathaBhrave** teaches that not every blessing arrives gently. Sometimes the Lord helps by breaking the mental structures that keep suffering in place. What feels frightening at first may actually be liberating.
 
 ---
 
@@ -54,15 +54,15 @@ For the seeker, **Katha-Bhrave** teaches that not every blessing arrives gently.
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-034-kala-kastha-adhipalakaya/"><strong>34. Kala-Kastha-Adhipalakaya</strong></a>
+    <a href="/articles/kalabhairava-name-034-kala-kastha-adhipalakaya/"><strong>34. KalaKasthaAdhipalakaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-036-kama-sancarane/"><strong>36. Kama-Sancarane</strong></a>
+    <a href="/articles/kalabhairava-name-036-kama-sancarane/"><strong>36. KamaSancarane</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Katha-Bhrave</strong> reminds the seeker that Bhairava's fierceness can be medicinal. He breaks the inner patterns that keep truth at a distance.</p>
+<p>Contemplating <strong>KathaBhrave</strong> reminds the seeker that Bhairava's fierceness can be medicinal. He breaks the inner patterns that keep truth at a distance.</p>
 </div>

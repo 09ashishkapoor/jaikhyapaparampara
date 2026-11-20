@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 86: Kala-Cakra-Prabhedine - Meaning and Significance"
-breadcrumbTitle: "Kala-Cakra-Prabhedine"
-description: "English meaning and spiritual significance of Kala-Cakra-Prabhedine, the 86th name of Lord Kalabhairava, who breaks the wheel of time and frees the seeker from repetitive bondage."
-keywords: "Kala-Cakra-Prabhedine, Kalabhairava name 86, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Cakra-Prabhedine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 86: KalaCakraPrabhedine - Meaning and Significance"
+breadcrumbTitle: "KalaCakraPrabhedine"
+description: "English meaning and spiritual significance of KalaCakraPrabhedine, the 86th name of Lord Kalabhairava, who breaks the wheel of time and frees the seeker from repetitive bondage."
+keywords: "KalaCakraPrabhedine, Kalabhairava name 86, 108 names of Kalabhairava, Kalabhairava namavali meaning, KalaCakraPrabhedine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 86. Kala-Cakra-Prabhedine
+## 86. KalaCakraPrabhedine
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Breaker of the Wheel of Time and Liberator from Cycles of Existence.**
 
-The eighty-sixth name, **Kala-Cakra-Prabhedine**, shows Lord Kalabhairava in a fierce liberating form. He is praised as the one who breaks the wheel of time itself. That image is powerful because life often feels circular: birth and death, desire and disappointment, effort and exhaustion, gain and loss keep turning again and again. Bhairava is not merely one more force inside that movement. He is the power that can pierce it.
+The eighty-sixth name, **KalaCakraPrabhedine**, shows Lord Kalabhairava in a fierce liberating form. He is praised as the one who breaks the wheel of time itself. That image is powerful because life often feels circular: birth and death, desire and disappointment, effort and exhaustion, gain and loss keep turning again and again. Bhairava is not merely one more force inside that movement. He is the power that can pierce it.
 
 ### Elaboration
 
@@ -46,22 +46,22 @@ This name also carries a philosophical depth. If time is the wheel in which chan
 
 **What This Means for the Devotee**
 
-To meditate on **Kala-Cakra-Prabhedine** is to ask for release from repetitive bondage, not just relief from one difficult moment. The seeker prays for harmful cycles to be cut, inherited patterns to lose their force, and ego-driven recurrence to weaken. The name reminds the devotee that true freedom is not a better turn of the wheel. It is Bhairava's grace in carrying one beyond the wheel itself.
+To meditate on **KalaCakraPrabhedine** is to ask for release from repetitive bondage, not just relief from one difficult moment. The seeker prays for harmful cycles to be cut, inherited patterns to lose their force, and ego-driven recurrence to weaken. The name reminds the devotee that true freedom is not a better turn of the wheel. It is Bhairava's grace in carrying one beyond the wheel itself.
 
 ---
 
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-085-kala-anurupa-karmanga-moksanaa-bhranti-nasanaya/"><strong>85. Kala-Anurupa-Karmanga-Moksanaa-Bhranti-Nasanaya</strong></a>
+    <a href="/articles/kalabhairava-name-085-kala-anurupa-karmanga-moksanaa-bhranti-nasanaya/"><strong>85. KalaAnurupaKarmangaMoksanaaBhrantiNasanaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-087-kali-m-manya-yoginii-priyaya/"><strong>87. Kali-M-Manya-Yoginii-Priyaya</strong></a>
+    <a href="/articles/kalabhairava-name-087-kali-m-manya-yoginii-priyaya/"><strong>87. KaliMManyaYoginiiPriyaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kala-Cakra-Prabhedine</strong> encourages the seeker to ask not only for relief within time, but for Bhairava's grace in breaking repetitive bondage at its root.</p>
+<p>Contemplating <strong>KalaCakraPrabhedine</strong> encourages the seeker to ask not only for relief within time, but for Bhairava's grace in breaking repetitive bondage at its root.</p>
 </div>

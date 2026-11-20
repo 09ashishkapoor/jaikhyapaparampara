@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 50: Kanthadya-Akhila-Desa-Ahi-Bhusana-Adhyaya - Meaning and Significance"
-breadcrumbTitle: "Kanthadya-Akhila-Desa-Ahi-Bhusana-Adhyaya"
-description: "English meaning and spiritual significance of Kanthadya-Akhila-Desa-Ahi-Bhusana-Adhyaya, the 50th name of Lord Kalabhairava, whose very adornment is the vast expanse of space and direction."
-keywords: "Kanthadya-Akhila-Desa-Ahi-Bhusana-Adhyaya, Kalabhairava name 50, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kanthadya-Akhila-Desa-Ahi-Bhusana-Adhyaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 50: KanthadyaAkhilaDesaAhiBhusanaAdhyaya - Meaning and Significance"
+breadcrumbTitle: "KanthadyaAkhilaDesaAhiBhusanaAdhyaya"
+description: "English meaning and spiritual significance of KanthadyaAkhilaDesaAhiBhusanaAdhyaya, the 50th name of Lord Kalabhairava, whose very adornment is the vast expanse of space and direction."
+keywords: "KanthadyaAkhilaDesaAhiBhusanaAdhyaya, Kalabhairava name 50, 108 names of Kalabhairava, Kalabhairava namavali meaning, KanthadyaAkhilaDesaAhiBhusanaAdhyaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 50. Kanthadya-Akhila-Desa-Ahi-Bhusana-Adhyaya
+## 50. KanthadyaAkhilaDesaAhiBhusanaAdhyaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Adorned with all the directions, from the throat upwards, as His ornaments.**
 
-The fiftieth name, **Kanthadya-Akhila-Desa-Ahi-Bhusana-Adhyaya**, opens into a more visionary form of praise. Instead of describing Bhairava through a simple attribute, it presents an image of vastness: from the throat upward, the whole spread of direction and space appears as his ornament. The name is dense, but its devotional force is clear. Kalabhairava is not decorated by something outside himself; the cosmos itself becomes his adornment.
+The fiftieth name, **KanthadyaAkhilaDesaAhiBhusanaAdhyaya**, opens into a more visionary form of praise. Instead of describing Bhairava through a simple attribute, it presents an image of vastness: from the throat upward, the whole spread of direction and space appears as his ornament. The name is dense, but its devotional force is clear. Kalabhairava is not decorated by something outside himself; the cosmos itself becomes his adornment.
 
 ### Elaboration
 
@@ -52,15 +52,15 @@ For the devotee, the name invites contemplation of immensity. One does not stand
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-049-kartri-nayakaya/"><strong>49. Kartri-Nayakaya</strong></a>
+    <a href="/articles/kalabhairava-name-049-kartri-nayakaya/"><strong>49. KartriNayakaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-051-kala-atmakaya/"><strong>51. Kala-Atmakaya</strong></a>
+    <a href="/articles/kalabhairava-name-051-kala-atmakaya/"><strong>51. KalaAtmakaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kanthadya-Akhila-Desa-Ahi-Bhusana-Adhyaya</strong> helps the seeker remember that every direction belongs to Bhairava, and that divine presence is not confined to one shrine, one place, or one point of view.</p>
+<p>Contemplating <strong>KanthadyaAkhilaDesaAhiBhusanaAdhyaya</strong> helps the seeker remember that every direction belongs to Bhairava, and that divine presence is not confined to one shrine, one place, or one point of view.</p>
 </div>

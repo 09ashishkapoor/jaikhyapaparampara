@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 36: Kama-Sancarane - Meaning and Significance"
-breadcrumbTitle: "Kama-Sancarane"
-description: "English meaning and spiritual significance of Kama-Sancarane, the 36th name of Lord Kalabhairava: moving according to his own sovereign will."
-keywords: "Kama-Sancarane, Kalabhairava name 36, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kama-Sancarane meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 36: KamaSancarane - Meaning and Significance"
+breadcrumbTitle: "KamaSancarane"
+description: "English meaning and spiritual significance of KamaSancarane, the 36th name of Lord Kalabhairava: moving according to his own sovereign will."
+keywords: "KamaSancarane, Kalabhairava name 36, 108 names of Kalabhairava, Kalabhairava namavali meaning, KamaSancarane meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 36. Kama-Sancarane
+## 36. KamaSancarane
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **One who moves and acts according to His own will and desire.**
 
-The thirty-sixth name, **Kama-Sancarane**, speaks of Bhairava's perfect freedom. He acts from his own divine will, not from compulsion, lack, or outside pressure. The name therefore points less to ordinary desire and more to sovereign intention: movement that arises from the deepest center of power.
+The thirty-sixth name, **KamaSancarane**, speaks of Bhairava's perfect freedom. He acts from his own divine will, not from compulsion, lack, or outside pressure. The name therefore points less to ordinary desire and more to sovereign intention: movement that arises from the deepest center of power.
 
 ### Elaboration
 
@@ -46,7 +46,7 @@ Human action is usually mixed with fear, attachment, or karmic habit. The name p
 
 **A Spiritual Reading**
 
-For the seeker, **Kama-Sancarane** offers a glimpse of what true freedom means. It is not impulsiveness. It is action arising from a center no longer ruled by fragmentation, fear, or dependence.
+For the seeker, **KamaSancarane** offers a glimpse of what true freedom means. It is not impulsiveness. It is action arising from a center no longer ruled by fragmentation, fear, or dependence.
 
 ---
 
@@ -54,15 +54,15 @@ For the seeker, **Kama-Sancarane** offers a glimpse of what true freedom means. 
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-035-katha-bhrave/"><strong>35. Katha-Bhrave</strong></a>
+    <a href="/articles/kalabhairava-name-035-katha-bhrave/"><strong>35. KathaBhrave</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-037-kama-araye/"><strong>37. Kama-Araye</strong></a>
+    <a href="/articles/kalabhairava-name-037-kama-araye/"><strong>37. KamaAraye</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kama-Sancarane</strong> reminds the seeker that divine freedom is not restlessness. Bhairava moves from pure will, and that sovereignty reveals a higher form of action.</p>
+<p>Contemplating <strong>KamaSancarane</strong> reminds the seeker that divine freedom is not restlessness. Bhairava moves from pure will, and that sovereignty reveals a higher form of action.</p>
 </div>

@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 49: Kartri-Nayakaya - Meaning and Significance"
-breadcrumbTitle: "Kartri-Nayakaya"
-description: "English meaning and spiritual significance of Kartri-Nayakaya, the 49th name of Lord Kalabhairava, revered as the supreme doer and sovereign guide of all action."
-keywords: "Kartri-Nayakaya, Kalabhairava name 49, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kartri-Nayakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 49: KartriNayakaya - Meaning and Significance"
+breadcrumbTitle: "KartriNayakaya"
+description: "English meaning and spiritual significance of KartriNayakaya, the 49th name of Lord Kalabhairava, revered as the supreme doer and sovereign guide of all action."
+keywords: "KartriNayakaya, Kalabhairava name 49, 108 names of Kalabhairava, Kalabhairava namavali meaning, KartriNayakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 49. Kartri-Nayakaya
+## 49. KartriNayakaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **The Supreme Leader and Doer, Controller of All Actions.**
 
-The forty-ninth name, **Kartri-Nayakaya**, deepens the reflection begun in the previous names on action, causation, and divine governance. Here Kalabhairava is praised not only as the doer, but also as the master who leads all doing. The name carries both dynamism and authority: movement belongs to him, and so does direction.
+The forty-ninth name, **KartriNayakaya**, deepens the reflection begun in the previous names on action, causation, and divine governance. Here Kalabhairava is praised not only as the doer, but also as the master who leads all doing. The name carries both dynamism and authority: movement belongs to him, and so does direction.
 
 ### Elaboration
 
@@ -42,7 +42,7 @@ The second half of the name gives the image sharper form. As **Nayaka**, he does
 
 **Surrender Without Passivity**
 
-For the seeker, **Kartri-Nayakaya** teaches a subtle balance. One must still act, choose, and accept responsibility. Yet one should not imagine oneself as the final master of events. Devotion to Bhairava here means offering action to him, asking that the restless will be brought under right guidance. In that surrender, effort becomes steadier and pride begins to loosen.
+For the seeker, **KartriNayakaya** teaches a subtle balance. One must still act, choose, and accept responsibility. Yet one should not imagine oneself as the final master of events. Devotion to Bhairava here means offering action to him, asking that the restless will be brought under right guidance. In that surrender, effort becomes steadier and pride begins to loosen.
 
 ---
 
@@ -50,15 +50,15 @@ For the seeker, **Kartri-Nayakaya** teaches a subtle balance. One must still act
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-048-karma-karakaya/"><strong>48. Karma-Karakaya</strong></a>
+    <a href="/articles/kalabhairava-name-048-karma-karakaya/"><strong>48. KarmaKarakaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-050-kanthadya-akhila-desa-ahi-bhusana-adhyaya/"><strong>50. Kanthadya-Akhila-Desa-Ahi-Bhusana-Adhyaya</strong></a>
+    <a href="/articles/kalabhairava-name-050-kanthadya-akhila-desa-ahi-bhusana-adhyaya/"><strong>50. KanthadyaAkhilaDesaAhiBhusanaAdhyaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kartri-Nayakaya</strong> helps the seeker act with sincerity while remembering that all true direction, strength, and mastery flow from Bhairava alone.</p>
+<p>Contemplating <strong>KartriNayakaya</strong> helps the seeker act with sincerity while remembering that all true direction, strength, and mastery flow from Bhairava alone.</p>
 </div>

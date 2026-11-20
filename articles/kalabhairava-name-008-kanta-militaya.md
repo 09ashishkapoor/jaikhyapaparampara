@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 8: Kanta-Militaya - Meaning and Significance"
-breadcrumbTitle: "Kanta-Militaya"
-description: "English meaning and spiritual significance of Kanta-Militaya, the 8th name of Lord Kalabhairava: the beloved presence dwelling close to the devotee."
-keywords: "Kanta-Militaya, Kalabhairava name 8, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kanta-Militaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 8: KantaMilitaya - Meaning and Significance"
+breadcrumbTitle: "KantaMilitaya"
+description: "English meaning and spiritual significance of KantaMilitaya, the 8th name of Lord Kalabhairava: the beloved presence dwelling close to the devotee."
+keywords: "KantaMilitaya, Kalabhairava name 8, 108 names of Kalabhairava, Kalabhairava namavali meaning, KantaMilitaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 8. Kanta-Militaya
+## 8. KantaMilitaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **The Beloved, Ever-Residing in the Hearts of His Devotees.**
 
-The eighth name, **Kanta-Militaya**, carries a gentler devotional mood. In a series where Bhairava often appears as the fierce guardian and destroyer of ignorance, this name draws attention to nearness, intimacy, and inward presence. It speaks of a Lord who is not only powerful but deeply close to the one who remembers him.
+The eighth name, **KantaMilitaya**, carries a gentler devotional mood. In a series where Bhairava often appears as the fierce guardian and destroyer of ignorance, this name draws attention to nearness, intimacy, and inward presence. It speaks of a Lord who is not only powerful but deeply close to the one who remembers him.
 
 ### Elaboration
 
@@ -38,7 +38,7 @@ If *Kanta* is read through the image of the throat, the symbolism is still rich.
 
 **The Beloved Within**
 
-The devotional reading goes further. Bhairava is not only praised from outside; he is experienced within. **Kanta-Militaya** suggests a union in which the Lord is felt as an indwelling companion, a beloved presence in the heart and mind of the worshipper. In that sense, devotion is not merely directed outward. It becomes an interior relationship.
+The devotional reading goes further. Bhairava is not only praised from outside; he is experienced within. **KantaMilitaya** suggests a union in which the Lord is felt as an indwelling companion, a beloved presence in the heart and mind of the worshipper. In that sense, devotion is not merely directed outward. It becomes an interior relationship.
 
 **A Tender Counterpoint to the Fierce Form**
 
@@ -54,15 +54,15 @@ For the devotee, this name encourages a more personal mode of meditation. Bhaira
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-007-karuna-varidhaye/"><strong>7. Karuna-Varidhaye</strong></a>
+    <a href="/articles/kalabhairava-name-007-karuna-varidhaye/"><strong>7. KarunaVaridhaye</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-009-kalika-tanave/"><strong>9. Kalika-Tanave</strong></a>
+    <a href="/articles/kalabhairava-name-009-kalika-tanave/"><strong>9. KalikaTanave</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kanta-Militaya</strong> invites a quieter form of devotion. It turns the seeker's attention inward, where Bhairava is remembered not only as guardian and judge, but also as the beloved presence who remains near.</p>
+<p>Contemplating <strong>KantaMilitaya</strong> invites a quieter form of devotion. It turns the seeker's attention inward, where Bhairava is remembered not only as guardian and judge, but also as the beloved presence who remains near.</p>
 </div>

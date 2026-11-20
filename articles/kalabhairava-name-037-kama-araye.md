@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 37: Kama-Araye - Meaning and Significance"
-breadcrumbTitle: "Kama-Araye"
-description: "English meaning and spiritual significance of Kama-Araye, the 37th name of Lord Kalabhairava: destroyer of desire and the illusions born from Kama."
-keywords: "Kama-Araye, Kalabhairava name 37, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kama-Araye meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 37: KamaAraye - Meaning and Significance"
+breadcrumbTitle: "KamaAraye"
+description: "English meaning and spiritual significance of KamaAraye, the 37th name of Lord Kalabhairava: destroyer of desire and the illusions born from Kama."
+keywords: "KamaAraye, Kalabhairava name 37, 108 names of Kalabhairava, Kalabhairava namavali meaning, KamaAraye meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 37. Kama-Araye
+## 37. KamaAraye
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **The Enemy of Kama, the Destroyer of Cupid's Illusions.**
 
-The thirty-seventh name, **Kama-Araye**, returns to one of the great Shaiva themes: the conquest of desire. Bhairava is praised here as the enemy of Kama, not because desire is treated as unreal in a trivial sense, but because unchecked craving binds the mind and keeps it turned outward.
+The thirty-seventh name, **KamaAraye**, returns to one of the great Shaiva themes: the conquest of desire. Bhairava is praised here as the enemy of Kama, not because desire is treated as unreal in a trivial sense, but because unchecked craving binds the mind and keeps it turned outward.
 
 ### Elaboration
 
@@ -46,7 +46,7 @@ The name naturally aligns Bhairava with austerity, self-mastery, and *vairagya*,
 
 **A Spiritual Reading**
 
-For the devotee, **Kama-Araye** is a powerful name for inner discipline. Bhairava is invoked here as the force that burns through fascination, confusion, and attachment so that the heart can turn toward liberation.
+For the devotee, **KamaAraye** is a powerful name for inner discipline. Bhairava is invoked here as the force that burns through fascination, confusion, and attachment so that the heart can turn toward liberation.
 
 ---
 
@@ -54,15 +54,15 @@ For the devotee, **Kama-Araye** is a powerful name for inner discipline. Bhairav
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-036-kama-sancarane/"><strong>36. Kama-Sancarane</strong></a>
+    <a href="/articles/kalabhairava-name-036-kama-sancarane/"><strong>36. KamaSancarane</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-038-kama-rupa-vate/"><strong>38. Kama-Rupa-Vate</strong></a>
+    <a href="/articles/kalabhairava-name-038-kama-rupa-vate/"><strong>38. KamaRupaVate</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kama-Araye</strong> reminds the seeker that Bhairava's opposition to desire is an act of grace. He destroys what enslaves the mind so that deeper freedom can begin.</p>
+<p>Contemplating <strong>KamaAraye</strong> reminds the seeker that Bhairava's opposition to desire is an act of grace. He destroys what enslaves the mind so that deeper freedom can begin.</p>
 </div>

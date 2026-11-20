@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 38: Kama-Rupa-Vate - Meaning and Significance"
-breadcrumbTitle: "Kama-Rupa-Vate"
-description: "English meaning and spiritual significance of Kama-Rupa-Vate, the 38th name of Lord Kalabhairava: free to assume whatever form divine will requires."
-keywords: "Kama-Rupa-Vate, Kalabhairava name 38, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kama-Rupa-Vate meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 38: KamaRupaVate - Meaning and Significance"
+breadcrumbTitle: "KamaRupaVate"
+description: "English meaning and spiritual significance of KamaRupaVate, the 38th name of Lord Kalabhairava: free to assume whatever form divine will requires."
+keywords: "KamaRupaVate, Kalabhairava name 38, 108 names of Kalabhairava, Kalabhairava namavali meaning, KamaRupaVate meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 38. Kama-Rupa-Vate
+## 38. KamaRupaVate
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Possessing the Power to Assume any Form at Will.**
 
-The thirty-eighth name, **Kama-Rupa-Vate**, presents Bhairava as unrestricted by any single outer form. He can assume whatever form is required by divine will. The name therefore points both to omnipotence and to compassion: the Lord appears in ways that meet the need of the moment.
+The thirty-eighth name, **KamaRupaVate**, presents Bhairava as unrestricted by any single outer form. He can assume whatever form is required by divine will. The name therefore points both to omnipotence and to compassion: the Lord appears in ways that meet the need of the moment.
 
 ### Elaboration
 
@@ -46,7 +46,7 @@ This power also carries devotional warmth. The Lord can be encountered in many m
 
 **A Spiritual Reading**
 
-For the seeker, **Kama-Rupa-Vate** teaches that divine reality exceeds every one of its manifestations. Bhairava can assume form, but he is never reduced to the form he assumes.
+For the seeker, **KamaRupaVate** teaches that divine reality exceeds every one of its manifestations. Bhairava can assume form, but he is never reduced to the form he assumes.
 
 ---
 
@@ -54,15 +54,15 @@ For the seeker, **Kama-Rupa-Vate** teaches that divine reality exceeds every one
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-037-kama-araye/"><strong>37. Kama-Araye</strong></a>
+    <a href="/articles/kalabhairava-name-037-kama-araye/"><strong>37. KamaAraye</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-039-kanthadi-sarva-cakrasthaya/"><strong>39. Kanthadi-Sarva-Cakrasthaya</strong></a>
+    <a href="/articles/kalabhairava-name-039-kanthadi-sarva-cakrasthaya/"><strong>39. KanthadiSarvaCakrasthaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kama-Rupa-Vate</strong> reminds the seeker that Bhairava is not limited by any single image. The divine can appear in whatever form truth, protection, or awakening requires.</p>
+<p>Contemplating <strong>KamaRupaVate</strong> reminds the seeker that Bhairava is not limited by any single image. The divine can appear in whatever form truth, protection, or awakening requires.</p>
 </div>

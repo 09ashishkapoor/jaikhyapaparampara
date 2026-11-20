@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 99: Kala-Dharma-Pravartakaya - Meaning and Significance"
-breadcrumbTitle: "Kala-Dharma-Pravartakaya"
-description: "English meaning and spiritual significance of Kala-Dharma-Pravartakaya, the 99th name of Lord Kalabhairava, who sets the law of time and cosmic order in motion."
-keywords: "Kala-Dharma-Pravartakaya, Kalabhairava name 99, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Dharma-Pravartakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 99: KalaDharmaPravartakaya - Meaning and Significance"
+breadcrumbTitle: "KalaDharmaPravartakaya"
+description: "English meaning and spiritual significance of KalaDharmaPravartakaya, the 99th name of Lord Kalabhairava, who sets the law of time and cosmic order in motion."
+keywords: "KalaDharmaPravartakaya, Kalabhairava name 99, 108 names of Kalabhairava, Kalabhairava namavali meaning, KalaDharmaPravartakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 99. Kala-Dharma-Pravartakaya
+## 99. KalaDharmaPravartakaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **The one who sets the law of time and cosmic order into motion.**
 
-The ninety-ninth name, **Kala-Dharma-Pravartakaya**, presents Kalabhairava as the power behind the lawful unfolding of the universe. Time does not move randomly, and existence is not governed by chaos alone. This name teaches that behind succession, timing, consequence, and transformation stands a divine intelligence that establishes order and keeps it active.
+The ninety-ninth name, **KalaDharmaPravartakaya**, presents Kalabhairava as the power behind the lawful unfolding of the universe. Time does not move randomly, and existence is not governed by chaos alone. This name teaches that behind succession, timing, consequence, and transformation stands a divine intelligence that establishes order and keeps it active.
 
 ### Elaboration
 
@@ -38,7 +38,7 @@ Time is not only duration. It also carries sequence, season, maturity, and conse
 
 **Guardian of cosmic order**
 
-The word **dharma** widens the meaning beyond chronology. It points to the deeper order that keeps the world from collapsing into disorder. Planets follow their paths, beings reap the fruit of karma, and cycles of manifestation and withdrawal proceed according to principle. As **Kala-Dharma-Pravartakaya**, Bhairava is not merely watching those processes. He is the force by which they remain ordered and meaningful.
+The word **dharma** widens the meaning beyond chronology. It points to the deeper order that keeps the world from collapsing into disorder. Planets follow their paths, beings reap the fruit of karma, and cycles of manifestation and withdrawal proceed according to principle. As **KalaDharmaPravartakaya**, Bhairava is not merely watching those processes. He is the force by which they remain ordered and meaningful.
 
 **Why this matters in spiritual life**
 
@@ -46,7 +46,7 @@ For the seeker, this name is a reminder that spiritual life also unfolds under l
 
 **What this name teaches**
 
-This name presents Kalabhairava as the establisher of the temporal and moral order through which the universe unfolds. Contemplating **Kala-Dharma-Pravartakaya** brings steadiness, because it reminds the devotee that change, consequence, and transformation are not meaningless accidents. They move within divine order.
+This name presents Kalabhairava as the establisher of the temporal and moral order through which the universe unfolds. Contemplating **KalaDharmaPravartakaya** brings steadiness, because it reminds the devotee that change, consequence, and transformation are not meaningless accidents. They move within divine order.
 
 ---
 
@@ -57,11 +57,11 @@ This name presents Kalabhairava as the establisher of the temporal and moral ord
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-100-kula-caryaya/"><strong>100. Kula-Caryaya</strong></a>
+    <a href="/articles/kalabhairava-name-100-kula-caryaya/"><strong>100. KulaCaryaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kala-Dharma-Pravartakaya</strong> helps the seeker trust that time, karma, and spiritual ripening all unfold within Bhairava's sustaining order.</p>
+<p>Contemplating <strong>KalaDharmaPravartakaya</strong> helps the seeker trust that time, karma, and spiritual ripening all unfold within Bhairava's sustaining order.</p>
 </div>

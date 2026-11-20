@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 96: Kritsna-Pravrtti-Visvanda-Panca-Kritya-Vidayakaya - Meaning and Significance"
-breadcrumbTitle: "Kritsna-Pravrtti-Visvanda-Panca-Kritya-Vidayakaya"
-description: "English meaning and spiritual significance of Kritsna-Pravrtti-Visvanda-Panca-Kritya-Vidayakaya, the 96th name of Lord Kalabhairava, who bestows and governs the five cosmic acts of creation, preservation, dissolution, concealment, and grace."
-keywords: "Kritsna-Pravrtti-Visvanda-Panca-Kritya-Vidayakaya, Kalabhairava name 96, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kritsna-Pravrtti-Visvanda-Panca-Kritya-Vidayakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 96: KritsnaPravrttiVisvandaPancaKrityaVidayakaya - Meaning and Significance"
+breadcrumbTitle: "KritsnaPravrttiVisvandaPancaKrityaVidayakaya"
+description: "English meaning and spiritual significance of KritsnaPravrttiVisvandaPancaKrityaVidayakaya, the 96th name of Lord Kalabhairava, who bestows and governs the five cosmic acts of creation, preservation, dissolution, concealment, and grace."
+keywords: "KritsnaPravrttiVisvandaPancaKrityaVidayakaya, Kalabhairava name 96, 108 names of Kalabhairava, Kalabhairava namavali meaning, KritsnaPravrttiVisvandaPancaKrityaVidayakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 96. Kritsna-Pravrtti-Visvanda-Panca-Kritya-Vidayakaya
+## 96. KritsnaPravrttiVisvandaPancaKrityaVidayakaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **The Granter of All Fivefold Cosmic Functions of Creation, Preservation, Dissolution, Concealment, and Grace.**
 
-The ninety-sixth name, **Kritsna-Pravrtti-Visvanda-Panca-Kritya-Vidayakaya**, presents Kalabhairava as the power behind the entire movement of the cosmos. This is not praise in a vague or ornamental sense. The name points to a precise Shaiva insight: the universe arises, endures, dissolves, becomes veiled, and is finally restored through grace under his sovereignty.
+The ninety-sixth name, **KritsnaPravrttiVisvandaPancaKrityaVidayakaya**, presents Kalabhairava as the power behind the entire movement of the cosmos. This is not praise in a vague or ornamental sense. The name points to a precise Shaiva insight: the universe arises, endures, dissolves, becomes veiled, and is finally restored through grace under his sovereignty.
 
 ### Elaboration
 
@@ -46,22 +46,22 @@ By calling him the bestower of the **panca-krityas**, the name places Kalabhaira
 
 **What this name teaches**
 
-Meditating on **Kritsna-Pravrtti-Visvanda-Panca-Kritya-Vidayakaya** reminds the devotee that Bhairava is both immanent and transcendent. He pervades the manifest universe, yet he is not limited by it. For the practitioner, this name can become an act of surrender: all movement, all change, all veiling, and all grace are ultimately held within his boundless authority.
+Meditating on **KritsnaPravrttiVisvandaPancaKrityaVidayakaya** reminds the devotee that Bhairava is both immanent and transcendent. He pervades the manifest universe, yet he is not limited by it. For the practitioner, this name can become an act of surrender: all movement, all change, all veiling, and all grace are ultimately held within his boundless authority.
 
 ---
 
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-095-keli-hasana-laalasaya/"><strong>95. Keli-Hasana-Laalasaya</strong></a>
+    <a href="/articles/kalabhairava-name-095-keli-hasana-laalasaya/"><strong>95. KeliHasanaLaalasaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-097-kala-natha-paraya/"><strong>97. Kala-Natha-Paraya</strong></a>
+    <a href="/articles/kalabhairava-name-097-kala-natha-paraya/"><strong>97. KalaNathaParaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kritsna-Pravrtti-Visvanda-Panca-Kritya-Vidayakaya</strong> helps the seeker remember that every phase of existence, from arising to release, moves within Bhairava's fivefold divine work.</p>
+<p>Contemplating <strong>KritsnaPravrttiVisvandaPancaKrityaVidayakaya</strong> helps the seeker remember that every phase of existence, from arising to release, moves within Bhairava's fivefold divine work.</p>
 </div>

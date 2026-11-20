@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 25: Kalii-Kurca-Sama-Yukta-Bhuvana-Kuta-Bhasuraya - Meaning and Significance"
-breadcrumbTitle: "Kalii-Kurca-Sama-Yukta-Bhuvana-Kuta-Bhasuraya"
-description: "English meaning and spiritual significance of Kalii-Kurca-Sama-Yukta-Bhuvana-Kuta-Bhasuraya, the 25th name of Lord Kalabhairava: radiant with the seed powers that underlie the universe."
-keywords: "Kalii-Kurca-Sama-Yukta-Bhuvana-Kuta-Bhasuraya, Kalabhairava name 25, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kalii-Kurca-Sama-Yukta-Bhuvana-Kuta-Bhasuraya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 25: KaliiKurcaSamaYuktaBhuvanaKutaBhasuraya - Meaning and Significance"
+breadcrumbTitle: "KaliiKurcaSamaYuktaBhuvanaKutaBhasuraya"
+description: "English meaning and spiritual significance of KaliiKurcaSamaYuktaBhuvanaKutaBhasuraya, the 25th name of Lord Kalabhairava: radiant with the seed powers that underlie the universe."
+keywords: "KaliiKurcaSamaYuktaBhuvanaKutaBhasuraya, Kalabhairava name 25, 108 names of Kalabhairava, Kalabhairava namavali meaning, KaliiKurcaSamaYuktaBhuvanaKutaBhasuraya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 25. Kalii-Kurca-Sama-Yukta-Bhuvana-Kuta-Bhasuraya
+## 25. KaliiKurcaSamaYuktaBhuvanaKutaBhasuraya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Resplendent amidst "kaliikurca," the cosmic seed syllables that embody the essence of the universe.**
 
-The twenty-fifth name, **Kalii-Kurca-Sama-Yukta-Bhuvana-Kuta-Bhasuraya**, moves deep into mantra-centered symbolism. It presents Bhairava not only as a deity worshipped through sacred sound, but as the radiant presence bound up with the seed powers and hidden foundations of the universe itself.
+The twenty-fifth name, **KaliiKurcaSamaYuktaBhuvanaKutaBhasuraya**, moves deep into mantra-centered symbolism. It presents Bhairava not only as a deity worshipped through sacred sound, but as the radiant presence bound up with the seed powers and hidden foundations of the universe itself.
 
 ### Elaboration
 
@@ -54,15 +54,15 @@ For the seeker, the name teaches reverence for sacred sound. Mantra is not a dec
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-024-kali-vidya-svarupa-vate/"><strong>24. Kali-Vidya-Svarupa-Vate</strong></a>
+    <a href="/articles/kalabhairava-name-024-kali-vidya-svarupa-vate/"><strong>24. KaliVidyaSvarupaVate</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-026-kalii-dhyana-japa-asakta-hrda-akarana-vasakaya/"><strong>26. Kalii-Dhyana-Japa-Asakta-Hrda-Akarana-Vasakaya</strong></a>
+    <a href="/articles/kalabhairava-name-026-kalii-dhyana-japa-asakta-hrda-akarana-vasakaya/"><strong>26. KaliiDhyanaJapaAsaktaHrdaAkaranaVasakaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kalii-Kurca-Sama-Yukta-Bhuvana-Kuta-Bhasuraya</strong> reminds the seeker that sacred sound and cosmic truth are deeply linked. In Bhairava, mantra, radiance, and the hidden foundation of the worlds meet in one presence.</p>
+<p>Contemplating <strong>KaliiKurcaSamaYuktaBhuvanaKutaBhasuraya</strong> reminds the seeker that sacred sound and cosmic truth are deeply linked. In Bhairava, mantra, radiance, and the hidden foundation of the worlds meet in one presence.</p>
 </div>

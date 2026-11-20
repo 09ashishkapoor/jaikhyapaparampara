@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 24: Kali-Vidya-Svarupa-Vate - Meaning and Significance"
-breadcrumbTitle: "Kali-Vidya-Svarupa-Vate"
-description: "English meaning and spiritual significance of Kali-Vidya-Svarupa-Vate, the 24th name of Lord Kalabhairava: embodiment of the knowledge needed in the Kali age."
-keywords: "Kali-Vidya-Svarupa-Vate, Kalabhairava name 24, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kali-Vidya-Svarupa-Vate meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 24: KaliVidyaSvarupaVate - Meaning and Significance"
+breadcrumbTitle: "KaliVidyaSvarupaVate"
+description: "English meaning and spiritual significance of KaliVidyaSvarupaVate, the 24th name of Lord Kalabhairava: embodiment of the knowledge needed in the Kali age."
+keywords: "KaliVidyaSvarupaVate, Kalabhairava name 24, 108 names of Kalabhairava, Kalabhairava namavali meaning, KaliVidyaSvarupaVate meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 24. Kali-Vidya-Svarupa-Vate
+## 24. KaliVidyaSvarupaVate
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Embodiment of the Knowledge of the Kali Age.**
 
-The twenty-fourth name, **Kali-Vidya-Svarupa-Vate**, presents Bhairava as the living form of the wisdom suited to a difficult age. This is not simply knowledge in the abstract. It is the kind of knowing that can still guide, protect, and transform when the age itself is marked by confusion, decline, and distraction.
+The twenty-fourth name, **KaliVidyaSvarupaVate**, presents Bhairava as the living form of the wisdom suited to a difficult age. This is not simply knowledge in the abstract. It is the kind of knowing that can still guide, protect, and transform when the age itself is marked by confusion, decline, and distraction.
 
 ### Elaboration
 
@@ -46,7 +46,7 @@ The word *vidya* also carries the sense of mantra, sacred practice, and esoteric
 
 **A Spiritual Reading**
 
-For the devotee, **Kali-Vidya-Svarupa-Vate** is a consoling name. Even in an age of spiritual fatigue, the necessary wisdom has not vanished. It remains present in the Lord himself.
+For the devotee, **KaliVidyaSvarupaVate** is a consoling name. Even in an age of spiritual fatigue, the necessary wisdom has not vanished. It remains present in the Lord himself.
 
 ---
 
@@ -54,15 +54,15 @@ For the devotee, **Kali-Vidya-Svarupa-Vate** is a consoling name. Even in an age
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-023-kalika-daksa-parsva-sthaya/"><strong>23. Kalika-Daksa-Parsva-Sthaya</strong></a>
+    <a href="/articles/kalabhairava-name-023-kalika-daksa-parsva-sthaya/"><strong>23. KalikaDaksaParsvaSthaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-025-kalii-kurca-sama-yukta-bhuvana-kuta-bhasuraya/"><strong>25. Kalii-Kurca-Sama-Yukta-Bhuvana-Kuta-Bhasuraya</strong></a>
+    <a href="/articles/kalabhairava-name-025-kalii-kurca-sama-yukta-bhuvana-kuta-bhasuraya/"><strong>25. KaliiKurcaSamaYuktaBhuvanaKutaBhasuraya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kali-Vidya-Svarupa-Vate</strong> reminds the seeker that no age is beyond redemption. Bhairava remains the living wisdom needed for dark times, and through him even confusion can become a doorway to clarity.</p>
+<p>Contemplating <strong>KaliVidyaSvarupaVate</strong> reminds the seeker that no age is beyond redemption. Bhairava remains the living wisdom needed for dark times, and through him even confusion can become a doorway to clarity.</p>
 </div>

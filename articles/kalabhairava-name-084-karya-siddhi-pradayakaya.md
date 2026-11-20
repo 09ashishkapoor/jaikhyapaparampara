@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 84: Karya-Siddhi-Pradayakaya - Meaning and Significance"
-breadcrumbTitle: "Karya-Siddhi-Pradayakaya"
-description: "English meaning and spiritual significance of Karya-Siddhi-Pradayakaya, the 84th name of Lord Kalabhairava, who grants the successful completion of worthy undertakings."
-keywords: "Karya-Siddhi-Pradayakaya, Kalabhairava name 84, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karya-Siddhi-Pradayakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 84: KaryaSiddhiPradayakaya - Meaning and Significance"
+breadcrumbTitle: "KaryaSiddhiPradayakaya"
+description: "English meaning and spiritual significance of KaryaSiddhiPradayakaya, the 84th name of Lord Kalabhairava, who grants the successful completion of worthy undertakings."
+keywords: "KaryaSiddhiPradayakaya, Kalabhairava name 84, 108 names of Kalabhairava, Kalabhairava namavali meaning, KaryaSiddhiPradayakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 84. Karya-Siddhi-Pradayakaya
+## 84. KaryaSiddhiPradayakaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **The Bestower of Success in All Undertakings and Endeavors.**
 
-The eighty-fourth name, **Karya-Siddhi-Pradayakaya**, reveals a gracious and practical aspect of Lord Kalabhairava. Here he is praised as the giver of success in work, effort, discipline, and purposeful striving. The name does not suggest success as mere ambition fulfilled at any cost. Rather, it points to the divine power through which sincere action reaches completion, obstacles are removed, and effort finds its proper fruit.
+The eighty-fourth name, **KaryaSiddhiPradayakaya**, reveals a gracious and practical aspect of Lord Kalabhairava. Here he is praised as the giver of success in work, effort, discipline, and purposeful striving. The name does not suggest success as mere ambition fulfilled at any cost. Rather, it points to the divine power through which sincere action reaches completion, obstacles are removed, and effort finds its proper fruit.
 
 ### Elaboration
 
@@ -38,7 +38,7 @@ In spiritual language, **siddhi** can refer to extraordinary attainments, but it
 
 **The Removal of Obstacles**
 
-This name is especially meaningful for devotees facing delay, confusion, or repeated obstruction. Bhairava's grace is understood to cut through hindrances that block the path of dharmic effort. When an undertaking is worthy and aligned, **Karya-Siddhi-Pradayakaya** reminds the seeker that divine aid is available. The impossible may not always become easy, but what is meant to be accomplished can be carried through with steadiness, protection, and force.
+This name is especially meaningful for devotees facing delay, confusion, or repeated obstruction. Bhairava's grace is understood to cut through hindrances that block the path of dharmic effort. When an undertaking is worthy and aligned, **KaryaSiddhiPradayakaya** reminds the seeker that divine aid is available. The impossible may not always become easy, but what is meant to be accomplished can be carried through with steadiness, protection, and force.
 
 **Worldly and Spiritual Fulfillment**
 
@@ -46,7 +46,7 @@ The name moves on two levels at once. On the worldly plane, one may pray for suc
 
 **What This Means for the Devotee**
 
-To meditate on **Karya-Siddhi-Pradayakaya** is to join effort with surrender. One must still work, persist, and remain sincere. But the name teaches that completion is not secured by personal effort alone. Grace has its place in every fulfilled undertaking. For that reason, the devotee approaches Bhairava not merely to ask for results, but to seek clear action, removed obstacles, and the blessing that allows worthy work to reach completion.
+To meditate on **KaryaSiddhiPradayakaya** is to join effort with surrender. One must still work, persist, and remain sincere. But the name teaches that completion is not secured by personal effort alone. Grace has its place in every fulfilled undertaking. For that reason, the devotee approaches Bhairava not merely to ask for results, but to seek clear action, removed obstacles, and the blessing that allows worthy work to reach completion.
 
 ---
 
@@ -54,15 +54,15 @@ To meditate on **Karya-Siddhi-Pradayakaya** is to join effort with surrender. On
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-083-kala-paryaya-mula-sthaya/"><strong>83. Kala-Paryaya-Mula-Sthaya</strong></a>
+    <a href="/articles/kalabhairava-name-083-kala-paryaya-mula-sthaya/"><strong>83. KalaParyayaMulaSthaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-085-kala-anurupa-karmanga-moksanaa-bhranti-nasanaya/"><strong>85. Kala-Anurupa-Karmanga-Moksanaa-Bhranti-Nasanaya</strong></a>
+    <a href="/articles/kalabhairava-name-085-kala-anurupa-karmanga-moksanaa-bhranti-nasanaya/"><strong>85. KalaAnurupaKarmangaMoksanaaBhrantiNasanaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Karya-Siddhi-Pradayakaya</strong> encourages the seeker to work sincerely, remove ego from the result, and trust Bhairava to bring worthy effort to completion.</p>
+<p>Contemplating <strong>KaryaSiddhiPradayakaya</strong> encourages the seeker to work sincerely, remove ego from the result, and trust Bhairava to bring worthy effort to completion.</p>
 </div>

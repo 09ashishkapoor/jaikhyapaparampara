@@ -54,11 +54,11 @@ For the devotee, **Kalyugravasava Braahmii Pramukhacaryanaayakaya** is a name of
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-027-kalika-varivastyaadi-pradhana-kalpa-padapaya/"><strong>27. Kalika-Varivastyaadi-Pradhana-Kalpa-Padapaya</strong></a>
+    <a href="/articles/kalabhairava-name-027-kalika-varivastyaadi-pradhana-kalpa-padapaya/"><strong>27. KalikaVarivastyaadiPradhanaKalpaPadapaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-029-kankala-malika-dharine/"><strong>29. Kankala-Malika-Dharine</strong></a>
+    <a href="/articles/kalabhairava-name-029-kankala-malika-dharine/"><strong>29. KankalaMalikaDharine</strong></a>
   </div>
 </div>
 

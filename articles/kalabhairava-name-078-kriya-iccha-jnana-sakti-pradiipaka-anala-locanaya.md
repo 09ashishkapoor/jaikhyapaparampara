@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 78: Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya - Meaning and Significance"
-breadcrumbTitle: "Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya"
-description: "English meaning and spiritual significance of Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya, the 78th name of Lord Kalabhairava, whose fiery eyes illumine action, will, and knowledge."
-keywords: "Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya, Kalabhairava name 78, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 78: KriyaIcchaJnanaSaktiPradiipakaAnalaLocanaya - Meaning and Significance"
+breadcrumbTitle: "KriyaIcchaJnanaSaktiPradiipakaAnalaLocanaya"
+description: "English meaning and spiritual significance of KriyaIcchaJnanaSaktiPradiipakaAnalaLocanaya, the 78th name of Lord Kalabhairava, whose fiery eyes illumine action, will, and knowledge."
+keywords: "KriyaIcchaJnanaSaktiPradiipakaAnalaLocanaya, Kalabhairava name 78, 108 names of Kalabhairava, Kalabhairava namavali meaning, KriyaIcchaJnanaSaktiPradiipakaAnalaLocanaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 78. Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya
+## 78. KriyaIcchaJnanaSaktiPradiipakaAnalaLocanaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Whose fiery eyes illuminate the powers of action, will, and knowledge.**
 
-The seventy-eighth name, **Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya**, is one of the most intricate in the namavali. Its imagery is vivid: Bhairava's eyes blaze like fire, and that blazing vision illumines the three divine powers of action, will, and knowledge. The name does not describe a passive splendor. It presents consciousness itself as awake, fierce, and world-shaping.
+The seventy-eighth name, **KriyaIcchaJnanaSaktiPradiipakaAnalaLocanaya**, is one of the most intricate in the namavali. Its imagery is vivid: Bhairava's eyes blaze like fire, and that blazing vision illumines the three divine powers of action, will, and knowledge. The name does not describe a passive splendor. It presents consciousness itself as awake, fierce, and world-shaping.
 
 ### Elaboration
 
@@ -58,15 +58,15 @@ The beauty of this name is that it keeps these powers united. Will without knowl
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-077-koti-surya-sama-prabhaya/"><strong>77. Koti-Surya-Sama-Prabhaya</strong></a>
+    <a href="/articles/kalabhairava-name-077-koti-surya-sama-prabhaya/"><strong>77. KotiSuryaSamaPrabhaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-079-kamya-adi-karmma-sarvasva-phala-daya/"><strong>79. Kamya-Adi-Karmma-Sarvasva-Phala-Daya</strong></a>
+    <a href="/articles/kalabhairava-name-079-kamya-adi-karmma-sarvasva-phala-daya/"><strong>79. KamyaAdiKarmmaSarvasvaPhalaDaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya</strong> reminds the seeker that Bhairava's vision is not inert: it kindles right will, clear knowledge, and purposeful action together.</p>
+<p>Contemplating <strong>KriyaIcchaJnanaSaktiPradiipakaAnalaLocanaya</strong> reminds the seeker that Bhairava's vision is not inert: it kindles right will, clear knowledge, and purposeful action together.</p>
 </div>

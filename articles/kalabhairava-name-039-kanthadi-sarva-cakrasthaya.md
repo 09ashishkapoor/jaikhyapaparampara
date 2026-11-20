@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 39: Kanthadi-Sarva-Cakrasthaya - Meaning and Significance"
-breadcrumbTitle: "Kanthadi-Sarva-Cakrasthaya"
-description: "English meaning and spiritual significance of Kanthadi-Sarva-Cakrasthaya, the 39th name of Lord Kalabhairava, who abides in the chakras from the throat upward."
-keywords: "Kanthadi-Sarva-Cakrasthaya, Kalabhairava name 39, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kanthadi-Sarva-Cakrasthaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 39: KanthadiSarvaCakrasthaya - Meaning and Significance"
+breadcrumbTitle: "KanthadiSarvaCakrasthaya"
+description: "English meaning and spiritual significance of KanthadiSarvaCakrasthaya, the 39th name of Lord Kalabhairava, who abides in the chakras from the throat upward."
+keywords: "KanthadiSarvaCakrasthaya, Kalabhairava name 39, 108 names of Kalabhairava, Kalabhairava namavali meaning, KanthadiSarvaCakrasthaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 39. Kanthadi-Sarva-Cakrasthaya
+## 39. KanthadiSarvaCakrasthaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Residing in all the chakras, from the throat center upwards.**
 
-The thirty-ninth name, **Kanthadi-Sarva-Cakrasthaya**, turns the seeker's attention inward. It presents Kalabhairava not only as a deity worshiped outwardly, but as a living presence within the subtle centers through which higher awareness awakens. Beginning at the throat and moving upward, this name points toward purification, insight, and liberation.
+The thirty-ninth name, **KanthadiSarvaCakrasthaya**, turns the seeker's attention inward. It presents Kalabhairava not only as a deity worshiped outwardly, but as a living presence within the subtle centers through which higher awareness awakens. Beginning at the throat and moving upward, this name points toward purification, insight, and liberation.
 
 ### Elaboration
 
@@ -42,7 +42,7 @@ The word **Kantha** points to the throat center, traditionally linked with purif
 
 **A Name of Inner Ascent**
 
-For the devotee, **Kanthadi-Sarva-Cakrasthaya** suggests that the path to Bhairava is not merely external. His presence can be contemplated within the awakened body itself. To meditate on this name is to remember that speech, perception, and consciousness are all to be purified and offered upward until they rest in the highest reality.
+For the devotee, **KanthadiSarvaCakrasthaya** suggests that the path to Bhairava is not merely external. His presence can be contemplated within the awakened body itself. To meditate on this name is to remember that speech, perception, and consciousness are all to be purified and offered upward until they rest in the highest reality.
 
 ---
 
@@ -50,15 +50,15 @@ For the devotee, **Kanthadi-Sarva-Cakrasthaya** suggests that the path to Bhaira
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-038-kama-rupa-vate/"><strong>38. Kama-Rupa-Vate</strong></a>
+    <a href="/articles/kalabhairava-name-038-kama-rupa-vate/"><strong>38. KamaRupaVate</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-040-kriyadi-koti-diipakaya/"><strong>40. Kriyadi-Koti-Diipakaya</strong></a>
+    <a href="/articles/kalabhairava-name-040-kriyadi-koti-diipakaya/"><strong>40. KriyadiKotiDiipakaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kanthadi-Sarva-Cakrasthaya</strong> reminds the seeker that Bhairava abides within the ascent of consciousness itself, guiding speech, insight, and awareness toward liberation.</p>
+<p>Contemplating <strong>KanthadiSarvaCakrasthaya</strong> reminds the seeker that Bhairava abides within the ascent of consciousness itself, guiding speech, insight, and awareness toward liberation.</p>
 </div>

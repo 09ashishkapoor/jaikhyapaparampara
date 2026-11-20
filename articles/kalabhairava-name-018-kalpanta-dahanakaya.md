@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 18: Kalpanta-Dahanakaya - Meaning and Significance"
-breadcrumbTitle: "Kalpanta-Dahanakaya"
-description: "English meaning and spiritual significance of Kalpanta-Dahanakaya, the 18th name of Lord Kalabhairava: whose form is the fire at the end of a cosmic age."
-keywords: "Kalpanta-Dahanakaya, Kalabhairava name 18, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kalpanta-Dahanakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 18: KalpantaDahanakaya - Meaning and Significance"
+breadcrumbTitle: "KalpantaDahanakaya"
+description: "English meaning and spiritual significance of KalpantaDahanakaya, the 18th name of Lord Kalabhairava: whose form is the fire at the end of a cosmic age."
+keywords: "KalpantaDahanakaya, Kalabhairava name 18, 108 names of Kalabhairava, Kalabhairava namavali meaning, KalpantaDahanakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 18. Kalpanta-Dahanakaya
+## 18. KalpantaDahanakaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Whose Form Is the Conflagration at the End of a Cosmic Cycle.**
 
-The eighteenth name, **Kalpanta-Dahanakaya**, brings the mind to Bhairava in his vastest and most awe-inspiring aspect. This is not merely the destroyer of one obstacle, one fear, or one karmic knot. Here Bhairava is identified with the fire that consumes an entire age when its time is over.
+The eighteenth name, **KalpantaDahanakaya**, brings the mind to Bhairava in his vastest and most awe-inspiring aspect. This is not merely the destroyer of one obstacle, one fear, or one karmic knot. Here Bhairava is identified with the fire that consumes an entire age when its time is over.
 
 ### Elaboration
 
@@ -46,7 +46,7 @@ That is why the name should not be read only in terms of terror. The cosmic fire
 
 **The Ground of Renewal**
 
-Every dissolution in the tradition prepares the way for a new manifestation. In that sense, **Kalpanta-Dahanakaya** also points toward renewal. Bhairava ends a cycle completely so that a new order may emerge without the burden of the old.
+Every dissolution in the tradition prepares the way for a new manifestation. In that sense, **KalpantaDahanakaya** also points toward renewal. Bhairava ends a cycle completely so that a new order may emerge without the burden of the old.
 
 **A Spiritual Reading**
 
@@ -62,11 +62,11 @@ For the seeker, the same principle works inwardly. False identities, exhausted a
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-019-kala-nidhi-kala-dharaya/"><strong>19. Kala-Nidhi-Kala-Dharaya</strong></a>
+    <a href="/articles/kalabhairava-name-019-kala-nidhi-kala-dharaya/"><strong>19. KalaNidhiKalaDharaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kalpanta-Dahanakaya</strong> reminds the seeker that endings are part of sacred order. In Bhairava's fire, what is temporary is consumed, what is false is purified, and what is eternal remains.</p>
+<p>Contemplating <strong>KalpantaDahanakaya</strong> reminds the seeker that endings are part of sacred order. In Bhairava's fire, what is temporary is consumed, what is false is purified, and what is eternal remains.</p>
 </div>

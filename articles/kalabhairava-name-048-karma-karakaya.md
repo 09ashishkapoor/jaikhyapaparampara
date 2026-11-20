@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 48: Karma-Karakaya - Meaning and Significance"
-breadcrumbTitle: "Karma-Karakaya"
-description: "English meaning and spiritual significance of Karma-Karakaya, the 48th name of Lord Kalabhairava, revered as the divine ground of action and the keeper of karmic order."
-keywords: "Karma-Karakaya, Kalabhairava name 48, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karma-Karakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 48: KarmaKarakaya - Meaning and Significance"
+breadcrumbTitle: "KarmaKarakaya"
+description: "English meaning and spiritual significance of KarmaKarakaya, the 48th name of Lord Kalabhairava, revered as the divine ground of action and the keeper of karmic order."
+keywords: "KarmaKarakaya, Kalabhairava name 48, 108 names of Kalabhairava, Kalabhairava namavali meaning, KarmaKarakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 48. Karma-Karakaya
+## 48. KarmaKarakaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **The Agent of All Action, Orchestrator of Karma.**
 
-The forty-eighth name, **Karma-Karakaya**, turns attention to one of the sternest truths in spiritual life: nothing is separate from action, and no action is without consequence. This name presents Kalabhairava as the power behind movement itself and as the Lord who keeps the moral order of karma from slipping into chaos.
+The forty-eighth name, **KarmaKarakaya**, turns attention to one of the sternest truths in spiritual life: nothing is separate from action, and no action is without consequence. This name presents Kalabhairava as the power behind movement itself and as the Lord who keeps the moral order of karma from slipping into chaos.
 
 ### Elaboration
 
@@ -42,7 +42,7 @@ The name also carries a judicial dimension. Action ripens. Deeds bear fruit. Cau
 
 **Responsibility for the Seeker**
 
-For a devotee, this name does not invite fear so much as sobriety. If Bhairava stands behind the order of karma, then every action deserves care. One's conduct, worship, speech, and intention all matter. At the same time, remembrance of **Karma-Karakaya** can steady the heart: the universe is not morally abandoned. Action unfolds within a sacred intelligence that sees clearly and governs justly.
+For a devotee, this name does not invite fear so much as sobriety. If Bhairava stands behind the order of karma, then every action deserves care. One's conduct, worship, speech, and intention all matter. At the same time, remembrance of **KarmaKarakaya** can steady the heart: the universe is not morally abandoned. Action unfolds within a sacred intelligence that sees clearly and governs justly.
 
 ---
 
@@ -50,15 +50,15 @@ For a devotee, this name does not invite fear so much as sobriety. If Bhairava s
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-047-karana-adhipataye/"><strong>47. Karana-Adhipataye</strong></a>
+    <a href="/articles/kalabhairava-name-047-karana-adhipataye/"><strong>47. KaranaAdhipataye</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-049-kartri-nayakaya/"><strong>49. Kartri-Nayakaya</strong></a>
+    <a href="/articles/kalabhairava-name-049-kartri-nayakaya/"><strong>49. KartriNayakaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Karma-Karakaya</strong> reminds the seeker to act carefully, accept responsibility for what is done, and trust that Bhairava holds every deed within a just and sacred order.</p>
+<p>Contemplating <strong>KarmaKarakaya</strong> reminds the seeker to act carefully, accept responsibility for what is done, and trust that Bhairava holds every deed within a just and sacred order.</p>
 </div>

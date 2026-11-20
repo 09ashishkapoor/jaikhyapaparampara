@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 54: Kama-Kosthakaaya - Meaning and Significance"
-breadcrumbTitle: "Kama-Kosthakaaya"
-description: "English meaning and spiritual significance of Kama-Kosthakaaya, the 54th name of Lord Kalabhairava, revered as the indwelling source of desire and the granter of worthy wishes."
-keywords: "Kama-Kosthakaaya, Kalabhairava name 54, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kama-Kosthakaaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 54: KamaKosthakaaya - Meaning and Significance"
+breadcrumbTitle: "KamaKosthakaaya"
+description: "English meaning and spiritual significance of KamaKosthakaaya, the 54th name of Lord Kalabhairava, revered as the indwelling source of desire and the granter of worthy wishes."
+keywords: "KamaKosthakaaya, Kalabhairava name 54, 108 names of Kalabhairava, Kalabhairava namavali meaning, KamaKosthakaaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 54. Kama-Kosthakaaya
+## 54. KamaKosthakaaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Dweller in the Womb of Desire, Grantor of All Wishes.**
 
-The fifty-fourth name, **Kama-Kosthakaaya**, brings Bhairava into a subtle and easily misunderstood territory: desire itself. Spiritual language often warns against craving, yet this name does not speak of desire only as a problem. It points instead to its source, its hidden chamber, and the divine power that governs whether longing turns outward into bondage or upward into blessing.
+The fifty-fourth name, **KamaKosthakaaya**, brings Bhairava into a subtle and easily misunderstood territory: desire itself. Spiritual language often warns against craving, yet this name does not speak of desire only as a problem. It points instead to its source, its hidden chamber, and the divine power that governs whether longing turns outward into bondage or upward into blessing.
 
 ### Elaboration
 
@@ -42,7 +42,7 @@ Because he abides at the root of desire, he is also praised as the one who can g
 
 **What the Name Teaches**
 
-For the seeker, **Kama-Kosthakaaya** invites self-examination. What do I truly want? What in me seeks pleasure, what seeks security, and what seeks the divine? Bhairava, dwelling within the hidden chamber of longing, is invoked here not only as fulfiller but as purifier of desire. Under his gaze, restless wanting may become prayer, and prayer may become a path toward freedom.
+For the seeker, **KamaKosthakaaya** invites self-examination. What do I truly want? What in me seeks pleasure, what seeks security, and what seeks the divine? Bhairava, dwelling within the hidden chamber of longing, is invoked here not only as fulfiller but as purifier of desire. Under his gaze, restless wanting may become prayer, and prayer may become a path toward freedom.
 
 ---
 
@@ -50,15 +50,15 @@ For the seeker, **Kama-Kosthakaaya** invites self-examination. What do I truly w
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-053-kilbisa-mocine/"><strong>53. Kilbisa-Mocine</strong></a>
+    <a href="/articles/kalabhairava-name-053-kilbisa-mocine/"><strong>53. KilbisaMocine</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-055-kala-kantha-rava-nandine/"><strong>55. Kala-Kantha-Rava-Nandine</strong></a>
+    <a href="/articles/kalabhairava-name-055-kala-kantha-rava-nandine/"><strong>55. KalaKanthaRavaNandine</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kama-Kosthakaaya</strong> helps the seeker bring desire into the light, asking Bhairava not merely to satisfy longing, but to sanctify and rightly direct it.</p>
+<p>Contemplating <strong>KamaKosthakaaya</strong> helps the seeker bring desire into the light, asking Bhairava not merely to satisfy longing, but to sanctify and rightly direct it.</p>
 </div>

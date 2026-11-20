@@ -56,11 +56,11 @@ Meditating on **Kadaraartha'Bhayapradaya** helps the seeker turn toward Bhairava
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-066-kala-guru-vilioptangaya/"><strong>66. Kala-Guru-Vilioptangaya</strong></a>
+    <a href="/articles/kalabhairava-name-066-kala-guru-vilioptangaya/"><strong>66. KalaGuruVilioptangaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-068-kalantika-bhara-daya/"><strong>68. Kalantika-Bhara-Daya</strong></a>
+    <a href="/articles/kalabhairava-name-068-kalantika-bhara-daya/"><strong>68. KalantikaBharaDaya</strong></a>
   </div>
 </div>
 

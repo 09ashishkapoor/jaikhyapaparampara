@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 66: Kala-Guru-Vilioptangaya - Meaning and Significance"
-breadcrumbTitle: "Kala-Guru-Vilioptangaya"
-description: "English meaning and spiritual significance of Kala-Guru-Vilioptangaya, the 66th name of Lord Kalabhairava, whose dark adornment expresses fierce majesty, mystery, and protective power."
-keywords: "Kala-Guru-Vilioptangaya, Kalabhairava name 66, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Guru-Vilioptangaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 66: KalaGuruVilioptangaya - Meaning and Significance"
+breadcrumbTitle: "KalaGuruVilioptangaya"
+description: "English meaning and spiritual significance of KalaGuruVilioptangaya, the 66th name of Lord Kalabhairava, whose dark adornment expresses fierce majesty, mystery, and protective power."
+keywords: "KalaGuruVilioptangaya, Kalabhairava name 66, 108 names of Kalabhairava, Kalabhairava namavali meaning, KalaGuruVilioptangaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 66. Kala-Guru-Vilioptangaya
+## 66. KalaGuruVilioptangaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Whose limbs are adorned in a dark and majestic manner, revealing his fierce splendor.**
 
-The sixty-sixth name, **Kala-Guru-Vilioptangaya**, is one of the more interpretive names in this portion of the Namavali. Its exact Sanskrit unpacking is not entirely simple, yet the devotional image is vivid. Kalabhairava appears with limbs darkly adorned, carrying an atmosphere of weight, mystery, and fierce beauty. The point of the name is not ornament for ornament's sake. It is an iconographic statement about power.
+The sixty-sixth name, **KalaGuruVilioptangaya**, is one of the more interpretive names in this portion of the Namavali. Its exact Sanskrit unpacking is not entirely simple, yet the devotional image is vivid. Kalabhairava appears with limbs darkly adorned, carrying an atmosphere of weight, mystery, and fierce beauty. The point of the name is not ornament for ornament's sake. It is an iconographic statement about power.
 
 ### Elaboration
 
@@ -48,7 +48,7 @@ The name also has a practical devotional meaning. Bhairava's fearsome appearance
 
 This title invites the seeker to accept that divine presence is not always presented in familiar or reassuring forms. Bhairava may appear clothed in the very symbols that ordinary life rejects: darkness, austerity, skulls, cremation-ground imagery, and forms of dreadful grandeur. Yet these are not signs of spiritual deficiency. They express sovereignty over what others avoid.
 
-Meditating on **Kala-Guru-Vilioptangaya** helps the devotee appreciate Bhairava's fierce magnificence without trying to soften it into something merely pleasant. His mystery is part of his grace, and his terrifying splendor is itself protective.
+Meditating on **KalaGuruVilioptangaya** helps the devotee appreciate Bhairava's fierce magnificence without trying to soften it into something merely pleasant. His mystery is part of his grace, and his terrifying splendor is itself protective.
 
 ---
 
@@ -56,7 +56,7 @@ Meditating on **Kala-Guru-Vilioptangaya** helps the devotee appreciate Bhairava'
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-065-kama-bhedanaya/"><strong>65. Kama-Bhedanaya</strong></a>
+    <a href="/articles/kalabhairava-name-065-kama-bhedanaya/"><strong>65. KamaBhedanaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
@@ -66,5 +66,5 @@ Meditating on **Kala-Guru-Vilioptangaya** helps the devotee appreciate Bhairava'
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kala-Guru-Vilioptangaya</strong> helps the seeker honor Bhairava's fierce majesty and recognize sacred power even when it appears in dark, grave, and mysterious forms.</p>
+<p>Contemplating <strong>KalaGuruVilioptangaya</strong> helps the seeker honor Bhairava's fierce majesty and recognize sacred power even when it appears in dark, grave, and mysterious forms.</p>
 </div>

@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 55: Kala-Kantha-Rava-Nandine - Meaning and Significance"
-breadcrumbTitle: "Kala-Kantha-Rava-Nandine"
-description: "English meaning and spiritual significance of Kala-Kantha-Rava-Nandine, the 55th name of Lord Kalabhairava, who delights in the sweet cry of the dark-throated bird and the harmony within creation."
-keywords: "Kala-Kantha-Rava-Nandine, Kalabhairava name 55, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Kantha-Rava-Nandine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 55: KalaKanthaRavaNandine - Meaning and Significance"
+breadcrumbTitle: "KalaKanthaRavaNandine"
+description: "English meaning and spiritual significance of KalaKanthaRavaNandine, the 55th name of Lord Kalabhairava, who delights in the sweet cry of the dark-throated bird and the harmony within creation."
+keywords: "KalaKanthaRavaNandine, Kalabhairava name 55, 108 names of Kalabhairava, Kalabhairava namavali meaning, KalaKanthaRavaNandine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 55. Kala-Kantha-Rava-Nandine
+## 55. KalaKanthaRavaNandine
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Rejoicing in the sweet melody of the nightingale.**
 
-The fifty-fifth name, **Kala-Kantha-Rava-Nandine**, briefly draws Kalabhairava out of the language of judgment, time, and karmic severity and places him in relation to sound, beauty, and delight. That shift matters. Bhairava is not only the lord of terrifying thresholds. He is also the one who receives and rejoices in the hidden harmony running through creation.
+The fifty-fifth name, **KalaKanthaRavaNandine**, briefly draws Kalabhairava out of the language of judgment, time, and karmic severity and places him in relation to sound, beauty, and delight. That shift matters. Bhairava is not only the lord of terrifying thresholds. He is also the one who receives and rejoices in the hidden harmony running through creation.
 
 ### Elaboration
 
@@ -42,7 +42,7 @@ This name is striking because it softens the usual imagination of Bhairava witho
 
 **The Inner Melody**
 
-The image can also be read inwardly. Many traditions speak of an inner sound, a subtle current of nada that becomes perceptible in deep practice. In that light, **Kala-Kantha-Rava-Nandine** may suggest the Lord's delight in the harmonious vibration awakened within the seeker. The name then becomes an encouragement to refine one's listening, outer and inner alike, until the world is no longer heard as mere noise.
+The image can also be read inwardly. Many traditions speak of an inner sound, a subtle current of nada that becomes perceptible in deep practice. In that light, **KalaKanthaRavaNandine** may suggest the Lord's delight in the harmonious vibration awakened within the seeker. The name then becomes an encouragement to refine one's listening, outer and inner alike, until the world is no longer heard as mere noise.
 
 ---
 
@@ -50,15 +50,15 @@ The image can also be read inwardly. Many traditions speak of an inner sound, a 
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-054-kama-kosthakaaya/"><strong>54. Kama-Kosthakaaya</strong></a>
+    <a href="/articles/kalabhairava-name-054-kama-kosthakaaya/"><strong>54. KamaKosthakaaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-056-karma-sraddha-vara-pradaya/"><strong>56. Karma-Sraddha-Vara-Pradaya</strong></a>
+    <a href="/articles/kalabhairava-name-056-karma-sraddha-vara-pradaya/"><strong>56. KarmaSraddhaVaraPradaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kala-Kantha-Rava-Nandine</strong> reminds the seeker that Bhairava's presence is found not only in austerity and crisis, but also in the subtle beauty and sacred music woven through life.</p>
+<p>Contemplating <strong>KalaKanthaRavaNandine</strong> reminds the seeker that Bhairava's presence is found not only in austerity and crisis, but also in the subtle beauty and sacred music woven through life.</p>
 </div>

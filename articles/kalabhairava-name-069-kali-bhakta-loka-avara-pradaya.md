@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 69: Kali-Bhakta-Loka-Avara-Pradaya - Meaning and Significance"
-breadcrumbTitle: "Kali-Bhakta-Loka-Avara-Pradaya"
-description: "English meaning and spiritual significance of Kali-Bhakta-Loka-Avara-Pradaya, the 69th name of Lord Kalabhairava, who grants blessings to the devotees of Goddess Kali."
-keywords: "Kali-Bhakta-Loka-Avara-Pradaya, Kalabhairava name 69, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kali-Bhakta-Loka-Avara-Pradaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 69: KaliBhaktaLokaAvaraPradaya - Meaning and Significance"
+breadcrumbTitle: "KaliBhaktaLokaAvaraPradaya"
+description: "English meaning and spiritual significance of KaliBhaktaLokaAvaraPradaya, the 69th name of Lord Kalabhairava, who grants blessings to the devotees of Goddess Kali."
+keywords: "KaliBhaktaLokaAvaraPradaya, Kalabhairava name 69, 108 names of Kalabhairava, Kalabhairava namavali meaning, KaliBhaktaLokaAvaraPradaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 69. Kali-Bhakta-Loka-Avara-Pradaya
+## 69. KaliBhaktaLokaAvaraPradaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Bestower of blessings upon the devotees of Kali.**
 
-The sixty-ninth name, **Kali-Bhakta-Loka-Avara-Pradaya**, reveals a warm and protective aspect of Kalabhairava. Fierce though he is, he is never separate from devotion. This title honors him as the giver of blessings to the devotees of Goddess Kali, and through that relationship it points toward the deep kinship between Bhairava and the Divine Mother.
+The sixty-ninth name, **KaliBhaktaLokaAvaraPradaya**, reveals a warm and protective aspect of Kalabhairava. Fierce though he is, he is never separate from devotion. This title honors him as the giver of blessings to the devotees of Goddess Kali, and through that relationship it points toward the deep kinship between Bhairava and the Divine Mother.
 
 ### Elaboration
 
@@ -48,7 +48,7 @@ For that reason, this name beautifully suggests the unity of Shaiva and Shakta p
 
 Kali worship often asks for honesty, courage, and the willingness to face what is dark, painful, or deeply hidden. In that setting, Kalabhairava appears as guardian and ally. He removes obstacles, steadies the practitioner, and extends grace to those who remain sincere in their devotion to the Mother. The boon he grants is not only worldly help, but strength for a demanding spiritual path.
 
-Meditating on **Kali-Bhakta-Loka-Avara-Pradaya** reminds the seeker that Bhairava's blessings are not limited to a narrow circle. He stands with those who love Kali, guarding their path and supporting both their inner transformation and their outer welfare.
+Meditating on **KaliBhaktaLokaAvaraPradaya** reminds the seeker that Bhairava's blessings are not limited to a narrow circle. He stands with those who love Kali, guarding their path and supporting both their inner transformation and their outer welfare.
 
 ---
 
@@ -56,15 +56,15 @@ Meditating on **Kali-Bhakta-Loka-Avara-Pradaya** reminds the seeker that Bhairav
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-068-kalantika-bhara-daya/"><strong>68. Kalantika-Bhara-Daya</strong></a>
+    <a href="/articles/kalabhairava-name-068-kalantika-bhara-daya/"><strong>68. KalantikaBharaDaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-070-kaminii-kancanaa-bhakta-mocakaya/"><strong>70. Kaminii-Kancanaa-Bhakta-Mocakaya</strong></a>
+    <a href="/articles/kalabhairava-name-070-kaminii-kancanaa-bhakta-mocakaya/"><strong>70. KaminiiKancanaaBhaktaMocakaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kali-Bhakta-Loka-Avara-Pradaya</strong> helps the seeker remember the deep unity of Bhairava and Kali, and the grace that protects sincere devotion to the Mother.</p>
+<p>Contemplating <strong>KaliBhaktaLokaAvaraPradaya</strong> helps the seeker remember the deep unity of Bhairava and Kali, and the grace that protects sincere devotion to the Mother.</p>
 </div>

@@ -54,11 +54,11 @@ For the devotee, this name is not an invitation to morbidity but to freedom. It 
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-011-kukkuta-arudhaya/"><strong>11. Kukkuta-Arudhaya</strong></a>
+    <a href="/articles/kalabhairava-name-011-kukkuta-arudhaya/"><strong>11. KukkutaArudhaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-013-kalanemi-ghne/"><strong>13. Kalanemi-Ghne</strong></a>
+    <a href="/articles/kalabhairava-name-013-kalanemi-ghne/"><strong>13. KalanemiGhne</strong></a>
   </div>
 </div>
 

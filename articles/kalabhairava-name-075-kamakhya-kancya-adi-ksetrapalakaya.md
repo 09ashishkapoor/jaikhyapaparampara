@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 75: Kamakhya-Kancya-Adi-Ksetrapalakaya - Meaning and Significance"
-breadcrumbTitle: "Kamakhya-Kancya-Adi-Ksetrapalakaya"
-description: "English meaning and spiritual significance of Kamakhya-Kancya-Adi-Ksetrapalakaya, the 75th name of Lord Kalabhairava, honored as guardian of sacred seats such as Kamakhya and Kanchi."
-keywords: "Kamakhya-Kancya-Adi-Ksetrapalakaya, Kalabhairava name 75, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kamakhya-Kancya-Adi-Ksetrapalakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 75: KamakhyaKancyaAdiKsetrapalakaya - Meaning and Significance"
+breadcrumbTitle: "KamakhyaKancyaAdiKsetrapalakaya"
+description: "English meaning and spiritual significance of KamakhyaKancyaAdiKsetrapalakaya, the 75th name of Lord Kalabhairava, honored as guardian of sacred seats such as Kamakhya and Kanchi."
+keywords: "KamakhyaKancyaAdiKsetrapalakaya, Kalabhairava name 75, 108 names of Kalabhairava, Kalabhairava namavali meaning, KamakhyaKancyaAdiKsetrapalakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 75. Kamakhya-Kancya-Adi-Ksetrapalakaya
+## 75. KamakhyaKancyaAdiKsetrapalakaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Guardian of the Sacred Places like Kamakhya and Kanchi.**
 
-The seventy-fifth name, **Kamakhya-Kancya-Adi-Ksetrapalakaya**, honors Bhairava as the watchful guardian of great Shakta pilgrimage centers. Rather than presenting him only as a fierce cosmic form, this name places him at the threshold of living sacred geography. He protects the places where devotees approach the Divine Mother, receive grace, and preserve the sanctity of worship.
+The seventy-fifth name, **KamakhyaKancyaAdiKsetrapalakaya**, honors Bhairava as the watchful guardian of great Shakta pilgrimage centers. Rather than presenting him only as a fierce cosmic form, this name places him at the threshold of living sacred geography. He protects the places where devotees approach the Divine Mother, receive grace, and preserve the sanctity of worship.
 
 ### Elaboration
 
@@ -46,7 +46,7 @@ This name also reveals something about the relationship between Bhairava and Sha
 
 **What the Name Offers the Devotee**
 
-To meditate on **Kamakhya-Kancya-Adi-Ksetrapalakaya** is to remember that sacred places are not merely historical landmarks. They are living fields of power, and Bhairava stands as their guardian. The name invites the seeker to approach pilgrimage, worship, and inner practice with greater respect, knowing that the Lord who protects the shrine also protects the sincerity of the one who comes to pray.
+To meditate on **KamakhyaKancyaAdiKsetrapalakaya** is to remember that sacred places are not merely historical landmarks. They are living fields of power, and Bhairava stands as their guardian. The name invites the seeker to approach pilgrimage, worship, and inner practice with greater respect, knowing that the Lord who protects the shrine also protects the sincerity of the one who comes to pray.
 
 ---
 
@@ -54,15 +54,15 @@ To meditate on **Kamakhya-Kancya-Adi-Ksetrapalakaya** is to remember that sacred
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-074-kabandhana-avaya/"><strong>74. Kabandhana-Avaya</strong></a>
+    <a href="/articles/kalabhairava-name-074-kabandhana-avaya/"><strong>74. KabandhanaAvaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-076-kaivalya-prada-mandaraya/"><strong>76. Kaivalya-Prada-Mandaraya</strong></a>
+    <a href="/articles/kalabhairava-name-076-kaivalya-prada-mandaraya/"><strong>76. KaivalyaPradaMandaraya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kamakhya-Kancya-Adi-Ksetrapalakaya</strong> reminds the seeker that Bhairava not only protects the path inward; he also keeps watch over the sacred seats where the Mother's presence is most intensely felt.</p>
+<p>Contemplating <strong>KamakhyaKancyaAdiKsetrapalakaya</strong> reminds the seeker that Bhairava not only protects the path inward; he also keeps watch over the sacred seats where the Mother's presence is most intensely felt.</p>
 </div>

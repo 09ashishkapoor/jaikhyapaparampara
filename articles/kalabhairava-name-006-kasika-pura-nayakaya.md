@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 6: Kasika-Pura-Nayakaya - Meaning and Significance"
-breadcrumbTitle: "Kasika-Pura-Nayakaya"
-description: "English meaning and spiritual significance of Kasika-Pura-Nayakaya, the 6th name of Lord Kalabhairava: lord and guardian of sacred Kashi."
-keywords: "Kasika-Pura-Nayakaya, Kalabhairava name 6, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kasika-Pura-Nayakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 6: KasikaPuraNayakaya - Meaning and Significance"
+breadcrumbTitle: "KasikaPuraNayakaya"
+description: "English meaning and spiritual significance of KasikaPuraNayakaya, the 6th name of Lord Kalabhairava: lord and guardian of sacred Kashi."
+keywords: "KasikaPuraNayakaya, Kalabhairava name 6, 108 names of Kalabhairava, Kalabhairava namavali meaning, KasikaPuraNayakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 6. Kasika-Pura-Nayakaya
+## 6. KasikaPuraNayakaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **The Protector and Lord of the Sacred City of Kashi (Varanasi).**
 
-The sixth name, **Kasika-Pura-Nayakaya**, turns our attention to Kalabhairava's intimate bond with Kashi. In this form he is remembered not as a distant abstraction but as the living guardian of one of Hinduism's most sacred cities. The name carries the sense of authority, protection, and spiritual oversight.
+The sixth name, **KasikaPuraNayakaya**, turns our attention to Kalabhairava's intimate bond with Kashi. In this form he is remembered not as a distant abstraction but as the living guardian of one of Hinduism's most sacred cities. The name carries the sense of authority, protection, and spiritual oversight.
 
 ### Elaboration
 
@@ -46,7 +46,7 @@ This guardianship is not only protective in a gentle sense. Bhairava also stands
 
 **Devotional Significance**
 
-For devotees, **Kasika-Pura-Nayakaya** is a name of refuge. It affirms Kalabhairava as the guardian who protects, disciplines, and purifies. To meditate on this name is to remember that divine protection is not sentimental. It is a vigilant force that defends the path to freedom.
+For devotees, **KasikaPuraNayakaya** is a name of refuge. It affirms Kalabhairava as the guardian who protects, disciplines, and purifies. To meditate on this name is to remember that divine protection is not sentimental. It is a vigilant force that defends the path to freedom.
 
 ---
 
@@ -54,15 +54,15 @@ For devotees, **Kasika-Pura-Nayakaya** is a name of refuge. It affirms Kalabhair
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-005-kama-mantratmane/"><strong>5. Kama-Mantratmane</strong></a>
+    <a href="/articles/kalabhairava-name-005-kama-mantratmane/"><strong>5. KamaMantratmane</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-007-karuna-varidhaye/"><strong>7. Karuna-Varidhaye</strong></a>
+    <a href="/articles/kalabhairava-name-007-karuna-varidhaye/"><strong>7. KarunaVaridhaye</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kasika-Pura-Nayakaya</strong> invites the seeker to reflect on sacred protection. In Bhairava's presence, discipline and grace work together to guard the way toward purification and liberation.</p>
+<p>Contemplating <strong>KasikaPuraNayakaya</strong> invites the seeker to reflect on sacred protection. In Bhairava's presence, discipline and grace work together to guard the way toward purification and liberation.</p>
 </div>

@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 79: Kamya-Adi-Karmma-Sarvasva-Phala-Daya - Meaning and Significance"
-breadcrumbTitle: "Kamya-Adi-Karmma-Sarvasva-Phala-Daya"
-description: "English meaning and spiritual significance of Kamya-Adi-Karmma-Sarvasva-Phala-Daya, the 79th name of Lord Kalabhairava, who grants the fruits of all desire-driven actions."
-keywords: "Kamya-Adi-Karmma-Sarvasva-Phala-Daya, Kalabhairava name 79, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kamya-Adi-Karmma-Sarvasva-Phala-Daya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 79: KamyaAdiKarmmaSarvasvaPhalaDaya - Meaning and Significance"
+breadcrumbTitle: "KamyaAdiKarmmaSarvasvaPhalaDaya"
+description: "English meaning and spiritual significance of KamyaAdiKarmmaSarvasvaPhalaDaya, the 79th name of Lord Kalabhairava, who grants the fruits of all desire-driven actions."
+keywords: "KamyaAdiKarmmaSarvasvaPhalaDaya, Kalabhairava name 79, 108 names of Kalabhairava, Kalabhairava namavali meaning, KamyaAdiKarmmaSarvasvaPhalaDaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 79. Kamya-Adi-Karmma-Sarvasva-Phala-Daya
+## 79. KamyaAdiKarmmaSarvasvaPhalaDaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **The Bestower of the Fruits of All Desired Actions and Deeds.**
 
-The seventy-ninth name, **Kamya-Adi-Karmma-Sarvasva-Phala-Daya**, turns attention toward a question every seeker eventually faces: what becomes of the actions we perform with hope, intention, and expectation? This name answers by placing the final result in Kalabhairava's hands. It honors him as the giver of the fruits that arise from desire-driven actions, ritual observances, and all the many deeds through which human beings seek fulfillment.
+The seventy-ninth name, **KamyaAdiKarmmaSarvasvaPhalaDaya**, turns attention toward a question every seeker eventually faces: what becomes of the actions we perform with hope, intention, and expectation? This name answers by placing the final result in Kalabhairava's hands. It honors him as the giver of the fruits that arise from desire-driven actions, ritual observances, and all the many deeds through which human beings seek fulfillment.
 
 ### Elaboration
 
@@ -46,7 +46,7 @@ Because Bhairava is also the lord of **kala**, time, this name carries an added 
 
 **What This Means for the Devotee**
 
-To contemplate **Kamya-Adi-Karmma-Sarvasva-Phala-Daya** is to remember that action matters, but surrender matters too. One should act with sincerity, discipline, and devotion, while recognizing that the ripening of every effort rests with the Divine. In that spirit, the name becomes a guide for both responsibility and trust: do the work, offer it, and leave the fruit at Bhairava's feet.
+To contemplate **KamyaAdiKarmmaSarvasvaPhalaDaya** is to remember that action matters, but surrender matters too. One should act with sincerity, discipline, and devotion, while recognizing that the ripening of every effort rests with the Divine. In that spirit, the name becomes a guide for both responsibility and trust: do the work, offer it, and leave the fruit at Bhairava's feet.
 
 ---
 
@@ -54,15 +54,15 @@ To contemplate **Kamya-Adi-Karmma-Sarvasva-Phala-Daya** is to remember that acti
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-078-kriya-iccha-jnana-sakti-pradiipaka-anala-locanaya/"><strong>78. Kriya-Iccha-Jnana-Sakti-Pradiipaka-Anala-Locanaya</strong></a>
+    <a href="/articles/kalabhairava-name-078-kriya-iccha-jnana-sakti-pradiipaka-anala-locanaya/"><strong>78. KriyaIcchaJnanaSaktiPradiipakaAnalaLocanaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-080-karma-posakaya/"><strong>80. Karma-Posakaya</strong></a>
+    <a href="/articles/kalabhairava-name-080-karma-posakaya/"><strong>80. KarmaPosakaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kamya-Adi-Karmma-Sarvasva-Phala-Daya</strong> reminds the seeker to act wholeheartedly, yet without arrogance, knowing that the fruit of every effort ripens only through Bhairava's grace and timing.</p>
+<p>Contemplating <strong>KamyaAdiKarmmaSarvasvaPhalaDaya</strong> reminds the seeker to act wholeheartedly, yet without arrogance, knowing that the fruit of every effort ripens only through Bhairava's grace and timing.</p>
 </div>

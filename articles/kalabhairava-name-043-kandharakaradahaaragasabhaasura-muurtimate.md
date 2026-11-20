@@ -52,11 +52,11 @@ For this reason, **Kandharakaradahaaragasabhaasura Muurtimate** can be contempla
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-042-kanaka-acala-deha-vate/"><strong>42. Kanaka-Acala-Deha-Vate</strong></a>
+    <a href="/articles/kalabhairava-name-042-kanaka-acala-deha-vate/"><strong>42. KanakaAcalaDehaVate</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-044-kapala-mocana-antaya/"><strong>44. Kapala-Mocana-Antaya</strong></a>
+    <a href="/articles/kalabhairava-name-044-kapala-mocana-antaya/"><strong>44. KapalaMocanaAntaya</strong></a>
   </div>
 </div>
 

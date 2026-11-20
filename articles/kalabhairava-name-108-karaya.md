@@ -54,7 +54,7 @@ As the closing name of the series, **Karaya** leaves the devotee with a unifying
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-107-kala-vela-hora-amsa-murtimate/"><strong>107. Kala-Vela-Hora-Amsa-Murtimate</strong></a>
+    <a href="/articles/kalabhairava-name-107-kala-vela-hora-amsa-murtimate/"><strong>107. KalaVelaHoraAmsaMurtimate</strong></a>
   </div>
 
 </div>

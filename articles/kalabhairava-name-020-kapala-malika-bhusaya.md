@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 20: Kapala-Malika-Bhusaya - Meaning and Significance"
-breadcrumbTitle: "Kapala-Malika-Bhusaya"
-description: "English meaning and spiritual significance of Kapala-Malika-Bhusaya, the 20th name of Lord Kalabhairava: adorned with a garland of skulls."
-keywords: "Kapala-Malika-Bhusaya, Kalabhairava name 20, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kapala-Malika-Bhusaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 20: KapalaMalikaBhusaya - Meaning and Significance"
+breadcrumbTitle: "KapalaMalikaBhusaya"
+description: "English meaning and spiritual significance of KapalaMalikaBhusaya, the 20th name of Lord Kalabhairava: adorned with a garland of skulls."
+keywords: "KapalaMalikaBhusaya, Kalabhairava name 20, 108 names of Kalabhairava, Kalabhairava namavali meaning, KapalaMalikaBhusaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 20. Kapala-Malika-Bhusaya
+## 20. KapalaMalikaBhusaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Adorned with a Garland of Skulls, signifying victory over ego and mortality.**
 
-The twentieth name, **Kapala-Malika-Bhusaya**, is one of the most striking in the namavali. The image is severe: Bhairava wears a garland of skulls. Yet in the spiritual language of Shaiva and Tantric symbolism, this is not ornament for its own sake. It is teaching made visible.
+The twentieth name, **KapalaMalikaBhusaya**, is one of the most striking in the namavali. The image is severe: Bhairava wears a garland of skulls. Yet in the spiritual language of Shaiva and Tantric symbolism, this is not ornament for its own sake. It is teaching made visible.
 
 ### Elaboration
 
@@ -46,7 +46,7 @@ This is why the image can be terrifying and compassionate at once. Bhairava does
 
 **A Spiritual Reading**
 
-To meditate on **Kapala-Malika-Bhusaya** is to remember that liberation demands honesty. Pride, vanity, and the illusion of permanence cannot survive near Bhairava. What remains after they fall is deeper knowledge and fearless devotion.
+To meditate on **KapalaMalikaBhusaya** is to remember that liberation demands honesty. Pride, vanity, and the illusion of permanence cannot survive near Bhairava. What remains after they fall is deeper knowledge and fearless devotion.
 
 ---
 
@@ -54,15 +54,15 @@ To meditate on **Kapala-Malika-Bhusaya** is to remember that liberation demands 
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-019-kala-nidhi-kala-dharaya/"><strong>19. Kala-Nidhi-Kala-Dharaya</strong></a>
+    <a href="/articles/kalabhairava-name-019-kala-nidhi-kala-dharaya/"><strong>19. KalaNidhiKalaDharaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-021-kali-kula-vara-pradaya/"><strong>21. Kali-Kula-Vara-Pradaya</strong></a>
+    <a href="/articles/kalabhairava-name-021-kali-kula-vara-pradaya/"><strong>21. KaliKulaVaraPradaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kapala-Malika-Bhusaya</strong> reminds the seeker that what dies is not the whole truth of who we are. Bhairava's skull garland teaches impermanence, dissolves ego, and turns the mind toward what cannot be destroyed.</p>
+<p>Contemplating <strong>KapalaMalikaBhusaya</strong> reminds the seeker that what dies is not the whole truth of who we are. Bhairava's skull garland teaches impermanence, dissolves ego, and turns the mind toward what cannot be destroyed.</p>
 </div>

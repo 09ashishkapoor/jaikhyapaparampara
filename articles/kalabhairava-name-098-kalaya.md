@@ -53,11 +53,11 @@ This name presents Kalabhairava as the living principle of time rather than as a
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-097-kala-natha-paraya/"><strong>97. Kala-Natha-Paraya</strong></a>
+    <a href="/articles/kalabhairava-name-097-kala-natha-paraya/"><strong>97. KalaNathaParaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-099-kala-dharma-pravartakaya/"><strong>99. Kala-Dharma-Pravartakaya</strong></a>
+    <a href="/articles/kalabhairava-name-099-kala-dharma-pravartakaya/"><strong>99. KalaDharmaPravartakaya</strong></a>
   </div>
 </div>
 

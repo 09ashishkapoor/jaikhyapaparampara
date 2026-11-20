@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 62: Krita-Jnapaya - Meaning and Significance"
-breadcrumbTitle: "Krita-Jnapaya"
-description: "English meaning and spiritual significance of Krita-Jnapaya, the 62nd name of Lord Kalabhairava, honored for divine deeds that uphold dharma and cosmic order."
-keywords: "Krita-Jnapaya, Kalabhairava name 62, 108 names of Kalabhairava, Kalabhairava namavali meaning, Krita-Jnapaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 62: KritaJnapaya - Meaning and Significance"
+breadcrumbTitle: "KritaJnapaya"
+description: "English meaning and spiritual significance of KritaJnapaya, the 62nd name of Lord Kalabhairava, honored for divine deeds that uphold dharma and cosmic order."
+keywords: "KritaJnapaya, Kalabhairava name 62, 108 names of Kalabhairava, Kalabhairava namavali meaning, KritaJnapaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 62. Krita-Jnapaya
+## 62. KritaJnapaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Who is known and honored for his deeds.**
 
-The sixty-second name, **Krita-Jnapaya**, turns attention to Kalabhairava's divine activity and to the way that activity is remembered. Some names praise form, some function, and some inner qualities. This one emphasizes deed. Bhairava is not revered only as an abstract principle. He is honored for what he does: how he protects, purifies, disciplines, and restores order.
+The sixty-second name, **KritaJnapaya**, turns attention to Kalabhairava's divine activity and to the way that activity is remembered. Some names praise form, some function, and some inner qualities. This one emphasizes deed. Bhairava is not revered only as an abstract principle. He is honored for what he does: how he protects, purifies, disciplines, and restores order.
 
 ### Elaboration
 
@@ -44,7 +44,7 @@ That is why this name stresses recognition. Bhairava is honored for his deeds be
 
 This name therefore invites a practical form of reverence. One does not honor Bhairava only in theory or emotion. One honors the reality of his intervention in the world and in the inner life. His deeds disclose justice, power, and benevolence working together. The fierce act and the compassionate purpose are not opposed.
 
-Meditating on **Krita-Jnapaya** teaches the devotee to look beyond surface fear and see the purpose within divine action. Bhairava is remembered because his deeds continue to shape the path of protection, purification, and liberation.
+Meditating on **KritaJnapaya** teaches the devotee to look beyond surface fear and see the purpose within divine action. Bhairava is remembered because his deeds continue to shape the path of protection, purification, and liberation.
 
 ---
 
@@ -52,15 +52,15 @@ Meditating on **Krita-Jnapaya** teaches the devotee to look beyond surface fear 
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-061-karma-saksine/"><strong>61. Karma-Saksine</strong></a>
+    <a href="/articles/kalabhairava-name-061-karma-saksine/"><strong>61. KarmaSaksine</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-063-karala-damstraya/"><strong>63. Karala-Damstraya</strong></a>
+    <a href="/articles/kalabhairava-name-063-karala-damstraya/"><strong>63. KaralaDamstraya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Krita-Jnapaya</strong> helps the seeker honor Bhairava not only for who he is, but for the decisive deeds through which he protects dharma and guides transformation.</p>
+<p>Contemplating <strong>KritaJnapaya</strong> helps the seeker honor Bhairava not only for who he is, but for the decisive deeds through which he protects dharma and guides transformation.</p>
 </div>

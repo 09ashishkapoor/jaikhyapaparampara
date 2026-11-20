@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 61: Karma-Saksine - Meaning and Significance"
-breadcrumbTitle: "Karma-Saksine"
-description: "English meaning and spiritual significance of Karma-Saksine, the 61st name of Lord Kalabhairava, the witness of all actions and the guardian of karmic order."
-keywords: "Karma-Saksine, Kalabhairava name 61, 108 names of Kalabhairava, Kalabhairava namavali meaning, Karma-Saksine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 61: KarmaSaksine - Meaning and Significance"
+breadcrumbTitle: "KarmaSaksine"
+description: "English meaning and spiritual significance of KarmaSaksine, the 61st name of Lord Kalabhairava, the witness of all actions and the guardian of karmic order."
+keywords: "KarmaSaksine, Kalabhairava name 61, 108 names of Kalabhairava, Kalabhairava namavali meaning, KarmaSaksine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 61. Karma-Saksine
+## 61. KarmaSaksine
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **The witness to all actions, observing the deeds of all beings.**
 
-The sixty-first name, **Karma-Saksine**, presents Kalabhairava in a profoundly watchful form. Here he is not first described through weapon, ornament, or mythic episode, but through awareness itself. He is the witness of action. Every deed, every intention, every movement within the moral fabric of life unfolds before that witnessing presence.
+The sixty-first name, **KarmaSaksine**, presents Kalabhairava in a profoundly watchful form. Here he is not first described through weapon, ornament, or mythic episode, but through awareness itself. He is the witness of action. Every deed, every intention, every movement within the moral fabric of life unfolds before that witnessing presence.
 
 ### Elaboration
 
@@ -44,7 +44,7 @@ This name also carries an ethical force. Bhairava as **Karma-Saksin** does not j
 
 For the devotee, this name can awaken sobriety and sincerity. If every action is witnessed, then spiritual life cannot remain superficial. One cannot hide behind appearance alone. At the same time, the name is not meant only to produce fear. It also offers reassurance that righteous effort is never lost, unnoticed, or without meaning. Bhairava witnesses truthfully, and because of that, dharmic effort matters.
 
-Meditating on **Karma-Saksine** draws the mind toward responsibility, honesty, and inner clarity. It asks the seeker to live in a way worthy of being seen fully.
+Meditating on **KarmaSaksine** draws the mind toward responsibility, honesty, and inner clarity. It asks the seeker to live in a way worthy of being seen fully.
 
 ---
 
@@ -52,15 +52,15 @@ Meditating on **Karma-Saksine** draws the mind toward responsibility, honesty, a
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-060-kalyana-krt-kali-dhvamsine/"><strong>60. Kalyana-Krt-Kali-Dhvamsine</strong></a>
+    <a href="/articles/kalabhairava-name-060-kalyana-krt-kali-dhvamsine/"><strong>60. KalyanaKrtKaliDhvamsine</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-062-krita-jnapaya/"><strong>62. Krita-Jnapaya</strong></a>
+    <a href="/articles/kalabhairava-name-062-krita-jnapaya/"><strong>62. KritaJnapaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Karma-Saksine</strong> helps the seeker cultivate honesty and responsibility, remembering that every action unfolds within Bhairava's unwavering awareness.</p>
+<p>Contemplating <strong>KarmaSaksine</strong> helps the seeker cultivate honesty and responsibility, remembering that every action unfolds within Bhairava's unwavering awareness.</p>
 </div>

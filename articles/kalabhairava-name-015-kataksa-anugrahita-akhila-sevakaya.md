@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 15: Kataksa-Anugrahita-Akhila-Sevakaya - Meaning and Significance"
-breadcrumbTitle: "Kataksa-Anugrahita-Akhila-Sevakaya"
-description: "English meaning and spiritual significance of Kataksa-Anugrahita-Akhila-Sevakaya, the 15th name of Lord Kalabhairava: whose gracious glance blesses all devotees."
-keywords: "Kataksa-Anugrahita-Akhila-Sevakaya, Kalabhairava name 15, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kataksa-Anugrahita-Akhila-Sevakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 15: KataksaAnugrahitaAkhilaSevakaya - Meaning and Significance"
+breadcrumbTitle: "KataksaAnugrahitaAkhilaSevakaya"
+description: "English meaning and spiritual significance of KataksaAnugrahitaAkhilaSevakaya, the 15th name of Lord Kalabhairava: whose gracious glance blesses all devotees."
+keywords: "KataksaAnugrahitaAkhilaSevakaya, Kalabhairava name 15, 108 names of Kalabhairava, Kalabhairava namavali meaning, KataksaAnugrahitaAkhilaSevakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 15. Kataksa-Anugrahita-Akhila-Sevakaya
+## 15. KataksaAnugrahitaAkhilaSevakaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Whose Gracious Glance Bestows Blessings upon All Devotees.**
 
-The fifteenth name, **Kataksa-Anugrahita-Akhila-Sevakaya**, turns attention to Bhairava's grace rather than his weaponry. Even in a fierce deity, the tradition never loses sight of the transforming power of divine glance. A single look from the Lord is understood to purify, protect, and draw the devotee closer.
+The fifteenth name, **KataksaAnugrahitaAkhilaSevakaya**, turns attention to Bhairava's grace rather than his weaponry. Even in a fierce deity, the tradition never loses sight of the transforming power of divine glance. A single look from the Lord is understood to purify, protect, and draw the devotee closer.
 
 ### Elaboration
 
@@ -54,15 +54,15 @@ This name gently corrects one-sided readings of Bhairava. He is not only the gua
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-014-kala-kanthaya/"><strong>14. Kala-Kanthaya</strong></a>
+    <a href="/articles/kalabhairava-name-014-kala-kanthaya/"><strong>14. KalaKanthaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-016-kapala-karparotkrista-bhiksa-patra-dharaya/"><strong>16. Kapala-Karparotkrista-Bhiksa-Patra-Dharaya</strong></a>
+    <a href="/articles/kalabhairava-name-016-kapala-karparotkrista-bhiksa-patra-dharaya/"><strong>16. KapalaKarparotkristaBhiksaPatraDharaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kataksa-Anugrahita-Akhila-Sevakaya</strong> reminds the seeker that Bhairava's grace is not distant. A sincere heart, a spirit of service, and one merciful glance are enough to change the direction of a life.</p>
+<p>Contemplating <strong>KataksaAnugrahitaAkhilaSevakaya</strong> reminds the seeker that Bhairava's grace is not distant. A sincere heart, a spirit of service, and one merciful glance are enough to change the direction of a life.</p>
 </div>

@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 9: Kalika-Tanave - Meaning and Significance"
-breadcrumbTitle: "Kalika-Tanave"
-description: "English meaning and spiritual significance of Kalika-Tanave, the 9th name of Lord Kalabhairava: the destroyer of strife, calamity, and dark influences."
-keywords: "Kalika-Tanave, Kalabhairava name 9, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kalika-Tanave meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 9: KalikaTanave - Meaning and Significance"
+breadcrumbTitle: "KalikaTanave"
+description: "English meaning and spiritual significance of KalikaTanave, the 9th name of Lord Kalabhairava: the destroyer of strife, calamity, and dark influences."
+keywords: "KalikaTanave, Kalabhairava name 9, 108 names of Kalabhairava, Kalabhairava namavali meaning, KalikaTanave meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 9. Kalika-Tanave
+## 9. KalikaTanave
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **The Destroyer of all Strife and Calamities.**
 
-The ninth name, **Kalika-Tanave**, presents Kalabhairava as the force that breaks the grip of disorder. The name does not point only to outer misfortune. It also addresses the inner states that keep a person trapped in fear, confusion, and conflict. In that way, its promise is both protective and purifying.
+The ninth name, **KalikaTanave**, presents Kalabhairava as the force that breaks the grip of disorder. The name does not point only to outer misfortune. It also addresses the inner states that keep a person trapped in fear, confusion, and conflict. In that way, its promise is both protective and purifying.
 
 ### Elaboration
 
@@ -46,7 +46,7 @@ Because he destroys disorder, Bhairava also restores balance. Devotees turn to t
 
 **Spiritual Significance**
 
-To meditate on **Kalika-Tanave** is to ask not only for comfort, but for deep purification. The name reminds the seeker that true grace sometimes appears as the force that removes what cannot be carried forward.
+To meditate on **KalikaTanave** is to ask not only for comfort, but for deep purification. The name reminds the seeker that true grace sometimes appears as the force that removes what cannot be carried forward.
 
 ---
 
@@ -54,15 +54,15 @@ To meditate on **Kalika-Tanave** is to ask not only for comfort, but for deep pu
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-008-kanta-militaya/"><strong>8. Kanta-Militaya</strong></a>
+    <a href="/articles/kalabhairava-name-008-kanta-militaya/"><strong>8. KantaMilitaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-010-kala-jaya/"><strong>10. Kala-Jaya</strong></a>
+    <a href="/articles/kalabhairava-name-010-kala-jaya/"><strong>10. KalaJaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kalika-Tanave</strong> encourages the seeker to face disorder without illusion. Under Bhairava's protection, even destructive force becomes a means of clearing the path toward clarity, peace, and renewed discipline.</p>
+<p>Contemplating <strong>KalikaTanave</strong> encourages the seeker to face disorder without illusion. Under Bhairava's protection, even destructive force becomes a means of clearing the path toward clarity, peace, and renewed discipline.</p>
 </div>

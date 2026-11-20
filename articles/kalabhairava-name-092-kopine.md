@@ -53,11 +53,11 @@ To meditate on **Kopine** is to accept that spiritual life is not only comfort a
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-091-kolahala-dhvanaye/"><strong>91. Kolahala-Dhvanaye</strong></a>
+    <a href="/articles/kalabhairava-name-091-kolahala-dhvanaye/"><strong>91. KolahalaDhvanaye</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-093-kaulaa-marga-pravartakaya/"><strong>93. Kaulaa-Marga-Pravartakaya</strong></a>
+    <a href="/articles/kalabhairava-name-093-kaulaa-marga-pravartakaya/"><strong>93. KaulaaMargaPravartakaya</strong></a>
   </div>
 </div>
 

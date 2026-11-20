@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 100: Kula-Caryaya - Meaning and Significance"
-breadcrumbTitle: "Kula-Caryaya"
-description: "English meaning and spiritual significance of Kula-Caryaya, the 100th name of Lord Kalabhairava, revered as the acharya who teaches and safeguards the sacred lineage."
-keywords: "Kula-Caryaya, Kalabhairava name 100, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kula-Caryaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 100: KulaCaryaya - Meaning and Significance"
+breadcrumbTitle: "KulaCaryaya"
+description: "English meaning and spiritual significance of KulaCaryaya, the 100th name of Lord Kalabhairava, revered as the acharya who teaches and safeguards the sacred lineage."
+keywords: "KulaCaryaya, Kalabhairava name 100, 108 names of Kalabhairava, Kalabhairava namavali meaning, KulaCaryaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 100. Kula-Caryaya
+## 100. KulaCaryaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **The acharya and guardian of the sacred lineage.**
 
-The hundredth name, **Kula-Caryaya**, presents Lord Kalabhairava as the acharya of the lineage: the one who teaches, transmits, and protects the sacred current of tradition. Here Bhairava is not approached only as a fierce guardian. He is also the living guide within the **kula**, the spiritual family through which knowledge, practice, and grace continue from one generation to the next.
+The hundredth name, **KulaCaryaya**, presents Lord Kalabhairava as the acharya of the lineage: the one who teaches, transmits, and protects the sacred current of tradition. Here Bhairava is not approached only as a fierce guardian. He is also the living guide within the **kula**, the spiritual family through which knowledge, practice, and grace continue from one generation to the next.
 
 ### Elaboration
 
@@ -34,7 +34,7 @@ This name may be read through two elements: **kula** and **acarya**. *Kula* can 
 
 **Teacher of the lineage**
 
-A true acharya does more than explain doctrine. He embodies the path, keeps it alive, and hands it on responsibly. To call Kalabhairava **Kula-Caryaya** is to recognize him as the source of that authority. A lineage survives not by memory alone, but because divine guidance continues to animate it from within.
+A true acharya does more than explain doctrine. He embodies the path, keeps it alive, and hands it on responsibly. To call Kalabhairava **KulaCaryaya** is to recognize him as the source of that authority. A lineage survives not by memory alone, but because divine guidance continues to animate it from within.
 
 **Keeper of transmission**
 
@@ -46,22 +46,22 @@ The word **kula** can also suggest the wider spiritual family of devotees, deiti
 
 **What this name teaches**
 
-This name reminds the seeker that spiritual progress is rarely a private invention. It ripens through a living current of teaching, correction, and grace. Contemplating **Kula-Caryaya** turns the mind toward humility before the lineage and gratitude for the wisdom carried through it.
+This name reminds the seeker that spiritual progress is rarely a private invention. It ripens through a living current of teaching, correction, and grace. Contemplating **KulaCaryaya** turns the mind toward humility before the lineage and gratitude for the wisdom carried through it.
 
 ---
 
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-099-kala-dharma-pravartakaya/"><strong>99. Kala-Dharma-Pravartakaya</strong></a>
+    <a href="/articles/kalabhairava-name-099-kala-dharma-pravartakaya/"><strong>99. KalaDharmaPravartakaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-101-kula-carataya/"><strong>101. Kula-Carataya</strong></a>
+    <a href="/articles/kalabhairava-name-101-kula-carataya/"><strong>101. KulaCarataya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kula-Caryaya</strong> helps the seeker honor the lineage as a living stream of guidance, discipline, and awakened understanding.</p>
+<p>Contemplating <strong>KulaCaryaya</strong> helps the seeker honor the lineage as a living stream of guidance, discipline, and awakened understanding.</p>
 </div>

@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 29: Kankala-Malika-Dharine - Meaning and Significance"
-breadcrumbTitle: "Kankala-Malika-Dharine"
-description: "English meaning and spiritual significance of Kankala-Malika-Dharine, the 29th name of Lord Kalabhairava: wearing a garland of skulls that signifies mastery over death and ego."
-keywords: "Kankala-Malika-Dharine, Kalabhairava name 29, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kankala-Malika-Dharine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 29: KankalaMalikaDharine - Meaning and Significance"
+breadcrumbTitle: "KankalaMalikaDharine"
+description: "English meaning and spiritual significance of KankalaMalikaDharine, the 29th name of Lord Kalabhairava: wearing a garland of skulls that signifies mastery over death and ego."
+keywords: "KankalaMalikaDharine, Kalabhairava name 29, 108 names of Kalabhairava, Kalabhairava namavali meaning, KankalaMalikaDharine meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 29. Kankala-Malika-Dharine
+## 29. KankalaMalikaDharine
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **Adorned with a Garland of Skulls, Symbolizing Victory Over Death.**
 
-The twenty-ninth name, **Kankala-Malika-Dharine**, brings forward one of Bhairava's starkest and most recognizable forms. The garland of skulls is not presented as something merely terrifying. It is a visual teaching about impermanence, ego, and the power that stands beyond death.
+The twenty-ninth name, **KankalaMalikaDharine**, brings forward one of Bhairava's starkest and most recognizable forms. The garland of skulls is not presented as something merely terrifying. It is a visual teaching about impermanence, ego, and the power that stands beyond death.
 
 ### Elaboration
 
@@ -46,7 +46,7 @@ For devotees, the name invites a different kind of courage. It does not promise 
 
 **A Spiritual Reading**
 
-In **Kankala-Malika-Dharine**, Bhairava appears as the one who strips illusion to the bone. His terrible beauty is compassionate because it compels truth, not denial.
+In **KankalaMalikaDharine**, Bhairava appears as the one who strips illusion to the bone. His terrible beauty is compassionate because it compels truth, not denial.
 
 ---
 
@@ -58,11 +58,11 @@ In **Kankala-Malika-Dharine**, Bhairava appears as the one who strips illusion t
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-030-kaamaniya-jata-dharaya/"><strong>30. Kaamaniya-Jata-Dharaya</strong></a>
+    <a href="/articles/kalabhairava-name-030-kaamaniya-jata-dharaya/"><strong>30. KaamaniyaJataDharaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kankala-Malika-Dharine</strong> reminds the seeker that Bhairava's fierceness is not cruelty. It is the uncompromising wisdom that takes us beyond fear, attachment, and the illusion of permanence.</p>
+<p>Contemplating <strong>KankalaMalikaDharine</strong> reminds the seeker that Bhairava's fierceness is not cruelty. It is the uncompromising wisdom that takes us beyond fear, attachment, and the illusion of permanence.</p>
 </div>

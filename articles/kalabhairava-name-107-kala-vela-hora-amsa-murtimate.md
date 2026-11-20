@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 107: Kala-Vela-Hora-Amsa-Murtimate - Meaning and Significance"
-breadcrumbTitle: "Kala-Vela-Hora-Amsa-Murtimate"
-description: "English meaning and spiritual significance of Kala-Vela-Hora-Amsa-Murtimate, the 107th name of Lord Kalabhairava, who is present in every measured division of time."
-keywords: "Kala-Vela-Hora-Amsa-Murtimate, Kalabhairava name 107, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kala-Vela-Hora-Amsa-Murtimate meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 107: KalaVelaHoraAmsaMurtimate - Meaning and Significance"
+breadcrumbTitle: "KalaVelaHoraAmsaMurtimate"
+description: "English meaning and spiritual significance of KalaVelaHoraAmsaMurtimate, the 107th name of Lord Kalabhairava, who is present in every measured division of time."
+keywords: "KalaVelaHoraAmsaMurtimate, Kalabhairava name 107, 108 names of Kalabhairava, Kalabhairava namavali meaning, KalaVelaHoraAmsaMurtimate meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 107. Kala-Vela-Hora-Amsa-Murtimate
+## 107. KalaVelaHoraAmsaMurtimate
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **The embodiment of every division of time, from an appointed moment to the turning of day and night.**
 
-The 107th name, **Kala-Vela-Hora-Amsa-Murtimate**, describes Kalabhairava with unusual precision. Instead of speaking about time only in a vast poetic sense, this name points to its smaller measures as well: the marked moment, the hour, the portion, the recurring cycle. The teaching is simple and powerful: every one of these divisions already rests within Bhairava's own form.
+The 107th name, **KalaVelaHoraAmsaMurtimate**, describes Kalabhairava with unusual precision. Instead of speaking about time only in a vast poetic sense, this name points to its smaller measures as well: the marked moment, the hour, the portion, the recurring cycle. The teaching is simple and powerful: every one of these divisions already rests within Bhairava's own form.
 
 ### Elaboration
 
@@ -42,7 +42,7 @@ This name also carries a clear philosophical insight. If every division of time 
 
 **The order behind change**
 
-For a devotee, that insight can soften the fear that comes with delay, transition, or the passing of seasons. **Kala-Vela-Hora-Amsa-Murtimate** reminds us that time is not blind motion. Every hour has its place, every interval its purpose, and every turning of the cycle remains held within Bhairava's deeper order.
+For a devotee, that insight can soften the fear that comes with delay, transition, or the passing of seasons. **KalaVelaHoraAmsaMurtimate** reminds us that time is not blind motion. Every hour has its place, every interval its purpose, and every turning of the cycle remains held within Bhairava's deeper order.
 
 **A contemplative lesson**
 
@@ -53,7 +53,7 @@ Meditating on this name encourages attention to the present moment. If each port
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-106-kala-rudraya/"><strong>106. Kala-Rudraya</strong></a>
+    <a href="/articles/kalabhairava-name-106-kala-rudraya/"><strong>106. KalaRudraya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
@@ -63,5 +63,5 @@ Meditating on this name encourages attention to the present moment. If each port
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kala-Vela-Hora-Amsa-Murtimate</strong> helps the seeker remember that every portion of time, whether ordinary or sacred, rests within Bhairava's embodied presence.</p>
+<p>Contemplating <strong>KalaVelaHoraAmsaMurtimate</strong> helps the seeker remember that every portion of time, whether ordinary or sacred, rests within Bhairava's embodied presence.</p>
 </div>

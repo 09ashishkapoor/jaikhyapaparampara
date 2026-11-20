@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Kalabhairava Name 31: Kona-Rekhastha-Bhadrastha-Pradesa-Bindu-Pithakaya - Meaning and Significance"
-breadcrumbTitle: "Kona-Rekhastha-Bhadrastha-Pradesa-Bindu-Pithakaya"
-description: "English meaning and spiritual significance of Kona-Rekhastha-Bhadrastha-Pradesa-Bindu-Pithakaya, the 31st name of Lord Kalabhairava: whose sacred seat rests in the subtle bindu of auspicious divine geometry."
-keywords: "Kona-Rekhastha-Bhadrastha-Pradesa-Bindu-Pithakaya, Kalabhairava name 31, 108 names of Kalabhairava, Kalabhairava namavali meaning, Kona-Rekhastha-Bhadrastha-Pradesa-Bindu-Pithakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
+title: "Kalabhairava Name 31: KonaRekhasthaBhadrasthaPradesaBinduPithakaya - Meaning and Significance"
+breadcrumbTitle: "KonaRekhasthaBhadrasthaPradesaBinduPithakaya"
+description: "English meaning and spiritual significance of KonaRekhasthaBhadrasthaPradesaBinduPithakaya, the 31st name of Lord Kalabhairava: whose sacred seat rests in the subtle bindu of auspicious divine geometry."
+keywords: "KonaRekhasthaBhadrasthaPradesaBinduPithakaya, Kalabhairava name 31, 108 names of Kalabhairava, Kalabhairava namavali meaning, KonaRekhasthaBhadrasthaPradesaBinduPithakaya meaning, Kalabhairava devotional, meaning in English, Kalabhairava in English"
 category: "Sacred Texts and Scriptures"
 author: "Kaliputra-Ashish and Kaliputra-Abhi"
 date: 2026-04-12
@@ -20,13 +20,13 @@ source: |
 
 Om Shri Gurubhyo Namah, Jai Ma Adya, Jai Khyapa Parampara.
 
-## 31. Kona-Rekhastha-Bhadrastha-Pradesa-Bindu-Pithakaya
+## 31. KonaRekhasthaBhadrasthaPradesaBinduPithakaya
 
 <img src="/images/gallery/bhairava_2199.webp" alt="Kalabhairava Name" style="width: 100%; max-width: 250px; border-radius: 8px; border: 1px solid var(--border-gold, #d4af37); float: right; margin: 0 0 1.5rem 1.5rem; box-shadow: 0 4px 12px rgba(0,0,0,0.4);" />
 
 **The One Whose Sacred Seat (Pitha) is a mystical point on the intersection of the corner-lines of the auspicious quarter.**
 
-The thirty-first name, **Kona-Rekhastha-Bhadrastha-Pradesa-Bindu-Pithakaya**, moves into an explicitly tantric register. Bhairava is praised here not just as a deity with a form, but as one seated in a subtle point of sacred geometry. The name suggests presence concentrated in the most refined center of a consecrated space.
+The thirty-first name, **KonaRekhasthaBhadrasthaPradesaBinduPithakaya**, moves into an explicitly tantric register. Bhairava is praised here not just as a deity with a form, but as one seated in a subtle point of sacred geometry. The name suggests presence concentrated in the most refined center of a consecrated space.
 
 ### Elaboration
 
@@ -46,7 +46,7 @@ The term **pitha** means seat, foundation, or consecrated place of presence. Joi
 
 **A Spiritual Reading**
 
-For the seeker, **Kona-Rekhastha-Bhadrastha-Pradesa-Bindu-Pithakaya** teaches that the divine can be encountered not only in grand outer symbols, but in the still center where all lines meet. Bhairava abides in the concentrated heart of sacred awareness.
+For the seeker, **KonaRekhasthaBhadrasthaPradesaBinduPithakaya** teaches that the divine can be encountered not only in grand outer symbols, but in the still center where all lines meet. Bhairava abides in the concentrated heart of sacred awareness.
 
 ---
 
@@ -54,15 +54,15 @@ For the seeker, **Kona-Rekhastha-Bhadrastha-Pradesa-Bindu-Pithakaya** teaches th
 <div class="name-navigation" style="display:flex; justify-content:space-between; margin-top: 3rem; font-size: 0.95rem; border-top: 1px solid rgba(255,215,0,0.2); padding-top: 1.5rem;">
   <div>
     <em>&larr; Previous Name</em><br>
-    <a href="/articles/kalabhairava-name-030-kaamaniya-jata-dharaya/"><strong>30. Kaamaniya-Jata-Dharaya</strong></a>
+    <a href="/articles/kalabhairava-name-030-kaamaniya-jata-dharaya/"><strong>30. KaamaniyaJataDharaya</strong></a>
   </div>
   <div style="text-align:right;">
     <em>Next Name &rarr;</em><br>
-    <a href="/articles/kalabhairava-name-032-kadalii-karaviiraka-kanjha-homa-arcana-priyaya/"><strong>32. Kadalii-Karaviiraka-Kanjha-Homa-Arcana-Priyaya</strong></a>
+    <a href="/articles/kalabhairava-name-032-kadalii-karaviiraka-kanjha-homa-arcana-priyaya/"><strong>32. KadaliiKaraviirakaKanjhaHomaArcanaPriyaya</strong></a>
   </div>
 </div>
 
 <div class="conclusion-section" style="background:rgba(255,215,0,0.05);padding:2rem;border-radius:8px;border:1px dashed var(--border-gold);margin-top:3rem;">
 <h3 style="color:var(--accent-bright);margin-top:0;">Spiritual Insight</h3>
-<p>Contemplating <strong>Kona-Rekhastha-Bhadrastha-Pradesa-Bindu-Pithakaya</strong> reminds the seeker that Bhairava is found in the exact center of spiritual concentration. Sacred geometry becomes living presence when the mind turns inward enough to perceive it.</p>
+<p>Contemplating <strong>KonaRekhasthaBhadrasthaPradesaBinduPithakaya</strong> reminds the seeker that Bhairava is found in the exact center of spiritual concentration. Sacred geometry becomes living presence when the mind turns inward enough to perceive it.</p>
 </div>
