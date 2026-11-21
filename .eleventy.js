@@ -8,6 +8,9 @@ module.exports = (eleventyConfig) => {
 		categoryLabel,
 	} = require("./lib/taxonomy.js");
 	const { addImageDimensions } = require("./lib/imageAttributes.js");
+	const { articleUrl, buildArticleNavigation } = require("./lib/articleNavigation.js");
+	const readingPaths = require("./_data/readingPaths.js");
+	let navigationIndexes = new WeakMap();
 
 	function syncReadmeArticleCount() {
 		try {
@@ -70,6 +73,7 @@ module.exports = (eleventyConfig) => {
 	eleventyConfig.addPassthroughCopy("_redirects");
 
 	eleventyConfig.on("eleventy.before", () => {
+		navigationIndexes = new WeakMap();
 		syncReadmeArticleCount();
 	});
 
@@ -136,25 +140,13 @@ module.exports = (eleventyConfig) => {
 		return "";
 	});
 
-	eleventyConfig.addFilter(
-		"relatedArticles",
-		(articles, currentTags, currentUrl) => {
-			const contentTags = (currentTags || []).filter(
-				(tag) => tag !== "articles",
-			);
-			if (!contentTags.length) return [];
-
-			return articles
-				.filter((article) => article.url !== currentUrl)
-				.filter(
-					(article) =>
-						Array.isArray(article.data.tags) &&
-						article.data.tags.some((tag) => contentTags.includes(tag)),
-				)
-				.sort((a, b) => new Date(b.date) - new Date(a.date))
-				.slice(0, 6);
-		},
-	);
+	eleventyConfig.addFilter("articleNavigation", (articles, currentUrl, content, groups) => {
+		if (!Array.isArray(articles)) return { seriesLinks: [], related: [] };
+		if (!navigationIndexes.has(articles)) {
+			navigationIndexes.set(articles, buildArticleNavigation(articles, readingPaths, groups));
+		}
+		return navigationIndexes.get(articles)(currentUrl, content);
+	});
 
 	const glossaryEntityAliases = {
 		"kali-ma-kali": [
@@ -434,6 +426,11 @@ module.exports = (eleventyConfig) => {
 				const groupArticles = sortArticlesAlphabetically(group.articles);
 				const latestArticles = sortArticlesByDateDesc(group.articles);
 				const letterBuckets = getLetterBuckets(groupArticles);
+				const articleUrls = new Set(groupArticles.map((article) => article.url));
+				const readingStarts = readingPaths
+					.map(({ title, slugs }) => ({ title, url: articleUrl(slugs[0]) }))
+					.filter(({ url }) => articleUrls.has(url))
+					.sort((a, b) => a.title.localeCompare(b.title, "en"));
 				return {
 					slug: group.slug,
 					url: `/articles/topics/${group.slug}/`,
@@ -447,6 +444,7 @@ module.exports = (eleventyConfig) => {
 					latestDate: latestArticles[0] ? latestArticles[0].date : undefined,
 					latestArticles,
 					startHereArticles: latestArticles.slice(0, 5),
+					readingStarts,
 					categoryLabels: getTopCategoryLabels(groupArticles),
 					letters: letterBuckets,
 					articles: groupArticles,
@@ -460,10 +458,17 @@ module.exports = (eleventyConfig) => {
 		const slugToTags = new Map();
 		const slugToTagCounts = new Map();
 		const slugToArticles = new Map();
+		const joinedNameLabels = new Map();
 		const slugifyTag = eleventyConfig.getFilter("slugify");
 
 		for (const item of articles) {
 			for (const tag of getArticleTags(item)) {
+				// Keep the original spelling for tag routes and search aliases, but
+				// show the joined name adopted by the numbered namavali articles.
+				if (/^kalabhairava-name-\d{3}-/.test(item.fileSlug) &&
+					tag.includes("-") && tag.replaceAll("-", "") === item.data.breadcrumbTitle) {
+					joinedNameLabels.set(tag, item.data.breadcrumbTitle);
+				}
 				const slug = slugifyTag(tag);
 				if (!slugToTags.has(slug)) {
 					slugToTags.set(slug, new Set());
@@ -492,6 +497,7 @@ module.exports = (eleventyConfig) => {
 				return {
 					slug,
 					canonicalTag,
+					label: joinedNameLabels.get(canonicalTag) || canonicalTag,
 					count: tagArticles.length,
 					isIndexable: tagArticles.length > 0,
 					url: `/tags/${slug}/`,
@@ -516,6 +522,7 @@ module.exports = (eleventyConfig) => {
 				metaByTag[tag] = {
 					slug: entry.slug,
 					canonicalTag: entry.canonicalTag,
+					label: entry.label,
 					count: entry.count,
 					isIndexable: entry.isIndexable,
 					url: entry.url,

@@ -352,9 +352,10 @@ article bodies as immutable unless the task says otherwise.
   `/site.min.css`; every footer links both; `sitemap.xml` and `llms.txt` list
   both; the `validation` workflow is green.
 
-**Next task:** the analytics pipeline and the weekly report are live. What is left is
-P7 ([§13](#13-pending-owner-actions)) and the optional homepage-CSS follow-up in §5.
-Item 9 is parked as not needed.
+**Next task:** [Item 11](#item-11--reader-navigation-cleanup) addresses reader
+navigation before Search Console–guided article work. P7
+([§13](#13-pending-owner-actions)) and the optional homepage CSS follow-up remain
+separate. Item 9 is parked as not needed.
 
 **Where the report lives (2026-11-16).** The working surface is the private
 repository `09ashishkapoor/jaikhyapaparampara-analytics`: one Markdown digest and
@@ -373,9 +374,12 @@ this in place. Do not copy it. See [Image pipeline guardrails](#10-image-pipelin
 
 ### 5. Suggested next task
 
-Everything planned is done: Items 1–8 and 10 are shipped (Item 3 is live and
-collecting), and Item 9 is parked as not needed. What remains:
+Items 1–8 and 10 are shipped (Item 3 is live and collecting), and Item 9 is
+parked as not needed. What remains:
 
+- **Reader navigation first** ([Item 11](#item-11--reader-navigation-cleanup)).
+  Keep the archive text and SEO metadata intact. Search Console–guided article
+  changes follow as a separate workstream, after reader navigation is reviewed.
 - **P7 — retire GA4** ([§13](#13-pending-owner-actions)): export the final
   12-month report, then delete the property. P5 (Access) and P6 (deploy hook) are
   cancelled — `/stats/` is not the dashboard and never will be.
@@ -1208,6 +1212,50 @@ discovery file for Codex/agent tooling.
 
 **Acceptance:** `AGENTS.md` exists at root, is not published, and lists the eight
 rules above.
+
+### Item 11 — Reader navigation cleanup
+
+**Status: implemented and verified locally; not deployed by this task.**
+
+The goal is to help readers continue a verified sequence or find a useful
+companion article without relying on Google rankings. The archive, topic hub
+membership, article URLs, title, frontmatter, and article bodies stay unchanged.
+
+- `_data/readingPaths.js` records source-confirmed reading order, not publication
+  order. Add a sequence only when the source identifies the continuation. The
+  build rejects nonexistent or repeated series URLs. Keep competing or unclear
+  installments out of the ordered list until their relationship is confirmed.
+- `lib/articleNavigation.js` renders missing previous/next links outside the
+  article body and excludes targets already linked there. Topic hubs link to the
+  start of sequences whose first article belongs to the hub.
+- Related reading requires shared subject tags, discounts archive-wide
+  boilerplate, and favors specific overlap rather than the newest titles.
+  Recency only breaks ties. Existing authored links and repeated installments
+  do not crowd out other suggestions.
+- Article hub badges and footer links identify the actual destination. Topic
+  links labeled A–Z open the alphabetical archive, not the newest-first view.
+
+**Verification:** regenerate the article stylesheet, run unit and browser
+checks, and inspect `_site/`. Compare all article URLs, body regions, visible
+titles, and head metadata against the previous build.
+
+The built archive adds 39 previous/next links across 16 verified sequences.
+Related cards now point to 1,019 distinct articles, up from 119; pages without
+a matched card still have their topic and A–Z links. All 1,213 article URLs,
+titles, bodies, and heads were checked against the previous build; the article
+index, search index, and sitemap remained unchanged. The archive checker, 35
+unit tests, and 66 browser tests passed. Deeksha is left out of the ordered
+paths because two distinct talks are labeled Part Two.
+
+**Separate editorial correction:** the 108 numbered Kalabhairava articles use
+joined display names (for example `KalaKalaya`), keeping the existing letters,
+apostrophes, and meaningful word spaces. Existing article and tag routes are
+kept; the older hyphenated tags remain search aliases. The reference's different
+letter spellings were flagged for review, not applied. Meanings and explanatory
+word breakdowns were left as written. The built check verified all 108 names
+and 214 previous/next links, plus mobile wrapping and unchanged URL inventories.
+OG card version 2 gives long joined names enough room without reintroducing
+hyphens.
 
 ---
 

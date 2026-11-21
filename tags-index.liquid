@@ -45,7 +45,7 @@ eleventyExcludeFromCollections: true
       {% assign tagMeta = collections.tagMeta[tag] %}
       {% if tagMeta and tagMeta.isIndexable %}
       <a class="tags-index-card" href="{{ tagMeta.url }}">
-        <span class="tags-index-name">{{ tagMeta.canonicalTag }}</span>
+        <span class="tags-index-name">{{ tagMeta.label }}</span>
         <span class="tags-index-count">{{ tagMeta.count }} article{% unless tagMeta.count == 1 %}s{% endunless %}</span>
       </a>
       {% endif %}

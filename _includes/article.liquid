@@ -174,8 +174,8 @@
     <!-- Article Header -->
     <article>
         <header class="article-header container">
-            {% if topicUrl != "" %}
-            <a href="{{ topicUrl }}" class="article-category" style="text-decoration:none;">{{ category | categoryLabel }}</a>
+            {% if topic %}
+            <a href="{{ topicUrl }}" class="article-category" style="text-decoration:none;">{{ topic.label | escape }}</a>
             {% else %}
             <span class="article-category">{{ category | categoryLabel }}</span>
             {% endif %}
@@ -236,12 +236,28 @@
         </div>
 
         <!-- Related Articles -->
-        {% assign related = collections.articles | relatedArticles: tags, page.url %}
+        {% assign navigation = collections.articles | articleNavigation: page.url, content, collections.browseGroups %}
+        {% assign seriesLinksSize = navigation.seriesLinks | size %}
+        {% if seriesLinksSize > 0 %}
+        <nav class="article-series container" aria-labelledby="article-series-title">
+            <h2 id="article-series-title">In this series: {{ navigation.seriesTitle | escape }}</h2>
+            <ul class="article-series-links">
+                {% for link in navigation.seriesLinks %}
+                <li><a href="{{ link.article.url }}">
+                    <span class="article-series-direction">{{ link.direction }}</span>
+                    <span>{{ link.article.data.title | escape }}</span>
+                </a></li>
+                {% endfor %}
+            </ul>
+        </nav>
+        {% endif %}
+
+        {% assign related = navigation.related %}
         {% assign relatedSize = related | size %}
         {% if relatedSize > 0 %}
-        <section class="related-articles">
+        <section class="related-articles" aria-labelledby="related-articles-title">
             <div class="container">
-                <h3 class="related-articles-title">✦ Related Articles</h3>
+                <h2 id="related-articles-title" class="related-articles-title">✦ Related Articles</h2>
                 <div class="related-articles-grid">
                     {% for item in related %}
                     <a href="{{ item.url }}" class="related-article-card">
@@ -258,13 +274,18 @@
 
         <!-- Article Footer -->
         <footer class="article-footer container">
-            <a href="/articles/" class="back-link">← Back to All Articles</a>
+            <nav class="article-footer-links" aria-label="Explore the archive">
+                {% if topic %}
+                <a href="{{ topicUrl }}" class="back-link">More in {{ topic.name | escape }}</a>
+                {% endif %}
+                <a href="/articles/a-z/#browse-all" class="back-link">Browse all articles A-Z</a>
+            </nav>
             <div class="article-tags">
                 {% for tag in tags %}
                 {% if tag != "articles" %}
                 {% assign tagMeta = collections.tagMeta[tag] %}
                 {% if tagMeta and tagMeta.isIndexable %}
-                <a href="{{ tagMeta.url }}" class="tag">{{ tagMeta.canonicalTag }}</a>
+                <a href="{{ tagMeta.url }}" class="tag">{{ tagMeta.label }}</a>
                 {% else %}
                 <span class="tag tag-static">{{ tag }}</span>
                 {% endif %}

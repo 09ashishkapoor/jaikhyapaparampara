@@ -10,7 +10,7 @@ permalink: /tags/{{ tag | slugify }}/
 
 <style>
 .blog-header{padding:3rem 0 2rem 0;text-align:center;}
-.blog-title{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:2.8rem;margin-bottom:1rem;}  
+.blog-title{font-family:'Philosopher',sans-serif;color:var(--accent-color);font-size:2.8rem;margin-bottom:1rem;overflow-wrap:anywhere;}
 .blog-description{font-size:1.2rem;color:var(--text-dark);max-width:800px;margin:0 auto;}
 
 /* Tags Styles */
@@ -55,12 +55,13 @@ permalink: /tags/{{ tag | slugify }}/
 
 <div class="container">
     {% assign tagMeta = collections.tagMeta[tag] %}
+    {% assign tagLabel = tagMeta.label | default: tag %}
     {% assign taglist = collections.all[tag] %}
     {% assign articleCount = taglist | size %}
     <div class="blog-header">
-        <h1 class="blog-title">Topic: {{ tag }}</h1>
+        <h1 class="blog-title">Topic: {{ tagLabel }}</h1>
         <p class="blog-description">
-            Exploring {{ articleCount }} article{% if articleCount != 1 %}s{% endif %} related to "{{ tag }}".
+            Exploring {{ articleCount }} article{% if articleCount != 1 %}s{% endif %} related to "{{ tagLabel }}".
         </p>
     </div>
 

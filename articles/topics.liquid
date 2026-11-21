@@ -291,7 +291,7 @@ eleventyComputed:
             {% for label in group.categoryLabels %}
             <span class="meta-pill">{{ label }}</span>
             {% endfor %}
-            <a class="back-link" href="/articles/#browse-all">Browse all A-Z</a>
+            <a class="back-link" href="/articles/a-z/#browse-all">Browse all A-Z</a>
         </div>
     </header>
 
@@ -304,6 +304,17 @@ eleventyComputed:
                 <p>{{ paragraph }}</p>
                 {% endfor %}
             </section>
+            {% endif %}
+
+            {% if group.readingStarts.size > 0 %}
+            <nav class="topic-overview" aria-labelledby="topic-reading-paths-title">
+                <h2 id="topic-reading-paths-title" class="section-heading">Read a series in order</h2>
+                <ul class="start-here-list">
+                    {% for series in group.readingStarts %}
+                    <li><a href="{{ series.url }}">{{ series.title | escape }}</a></li>
+                    {% endfor %}
+                </ul>
+            </nav>
             {% endif %}
 
             {% if group.keyIdeas and group.keyIdeas.size > 0 %}
@@ -352,8 +363,8 @@ eleventyComputed:
 
         <aside class="topic-sidebar">
             <div class="sidebar-block">
-                <h2 class="sidebar-heading">Start here</h2>
-                <p class="sidebar-copy">Recent representative articles in this theme:</p>
+                <h2 class="sidebar-heading">Recent starting points</h2>
+                <p class="sidebar-copy">Latest additions to this theme:</p>
                 <ol class="start-here-list">
                     {% for article in group.startHereArticles %}
                     <li><a href="{{ article.url }}">{{ article.data.title }}</a></li>
@@ -391,7 +402,7 @@ eleventyComputed:
             <div class="sidebar-block">
                 <h2 class="sidebar-heading">Need the whole archive?</h2>
                 <p class="sidebar-copy">The complete library is still available as an A-Z browse path, with search unchanged.</p>
-                <a class="back-link" href="/articles/#browse-all">Open the full A-Z archive</a>
+                <a class="back-link" href="/articles/a-z/#browse-all">Open the full A-Z archive</a>
             </div>
         </aside>
     </div>
