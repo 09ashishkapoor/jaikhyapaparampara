@@ -3,6 +3,7 @@ layout: article
 title: "Tilak on Forehead: The Royal Significance and Mahanirvana Tantra's Non-Violent Path"
 breadcrumbTitle: "Tilak and Mahanirvana Tantra"
 description: "Guru Shyama Khyapa explains the true meaning of the Raj-Tilak (royal victory mark) and contrasts it with today's commercialized tilak practices. He also introduces the Mahanirvana Tantra—a non-violent, Buddhist-influenced path of conscience awakening."
+metaDescription: "Guru Shyama Khyapa explains Raj Tilak as a royal victory mark, distinct from devotional tilak. He also discusses nonviolence in Mahanirvana Tantra."
 keywords: "GuruDeva Shyama Khyapa, Gupta Sadhak, Smashana Bhairava, Khyapa Parampara, Tilak, Raj-Tilak, Forehead Mark, Vermilion, Mahanirvana Tantra, Non-violence, Ahimsa, Buddhism, Conscience"
 category: "Spiritual Teachings and Philosophy"
 author: "🗣️ Gupta Sadhak Shyama Khyapa"
