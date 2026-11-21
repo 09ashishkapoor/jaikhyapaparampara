@@ -77,3 +77,11 @@ test("a long joined Kalabhairava name fits on a narrow screen", async ({ page })
 	);
 	expect(overflow).toEqual([]);
 });
+
+test("the one-line namavali links to all 108 names and keeps unresolved spellings", async ({ page }) => {
+	await page.goto(article("kalabhairava-108-names-one-line-meanings"));
+	const links = page.locator('.article-content ol li a[href^="/articles/kalabhairava-name-"]');
+	await expect(links).toHaveCount(108);
+	await expect(links.filter({ hasText: /^KalaKalaya$/ })).toHaveAttribute("href", article("kalabhairava-name-002-kala-kalaya"));
+	await expect(links.filter({ hasText: /^Kalii-kalavatii-diiksa-samskara-upasana-priyaya$/ })).toHaveAttribute("href", article("kalabhairava-name-022-kali-kalavatii-diiksa-samskaaropasanapriyaya"));
+});

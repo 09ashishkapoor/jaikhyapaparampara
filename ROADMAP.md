@@ -1257,6 +1257,11 @@ and 214 previous/next links, plus mobile wrapping and unchanged URL inventories.
 OG card version 2 gives long joined names enough room without reintroducing
 hyphens.
 
+The separate one-line namavali can use these display names in its navigation
+list when the letters already agree. Its 96 formatting-only link labels now
+match the destination headings; six alternate spellings are held for editorial
+review. The list's order, link destinations, and one-line meanings are unchanged.
+
 ---
 
 ## 7. Reference: analytics and SEO measurement
